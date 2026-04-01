@@ -1,0 +1,17 @@
+name: BenchmarkHQ Test
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ./action
+        with:
+          industry: ecommerce_pakistan
+          features: "product_search,shopping_cart,login_signup,product_images,price_display,category_browsing,responsive_design"
+          fail_below: 0
