@@ -2,95 +2,132 @@
 
 **Open-source industry benchmarks for web development.**
 
-We analyzed **329 e-commerce websites across 19 countries** to create the first machine-readable, frequency-based industry benchmark for web applications.
+We analyzed 900+ websites across 42 industries to create machine-readable quality standards. The data tells you what features your industry expects — based on frequency analysis of real websites, not opinions.
 
-## What is this?
+🌐 **Website:** [benchmarkhq.site](https://benchmarkhq.site)
+📡 **API:** [api.benchmarkhq.site](https://api.benchmarkhq.site/docs)
+📖 **Blog:** [benchmarkhq.site/blog](https://benchmarkhq.site/blog/)
 
-Every industry has unwritten standards — features that users expect, UX patterns that work, performance targets that matter. We measured them.
+## Quick Start
 
-For each country, we studied the top 30 e-commerce websites using automated scraping (Playwright) and AI analysis (GPT-4o). Every feature was classified based on how many of the top sites have it:
+```bash
+# List all 42 industries
+curl https://api.benchmarkhq.site/industries
 
-| Classification | Frequency | Meaning |
-|---|---|---|
-| **CRITICAL** | 85-100% | Users expect this. Missing = app feels broken |
-| **REQUIRED** | 65-84% | Most competitors have it. Missing = disadvantage |
-| **RECOMMENDED** | 40-64% | Becoming standard. Include if resources allow |
-| **NICE_TO_HAVE** | 15-39% | Differentiator, not expected |
-| **INNOVATIVE** | <15% | Cutting-edge, rare |
+# Get benchmark for any industry
+curl https://api.benchmarkhq.site/benchmark/ecommerce_usa
 
-## Countries Covered
+# Check your site against the benchmark
+curl -X POST https://api.benchmarkhq.site/check \
+  -H "Content-Type: application/json" \
+  -d '{"industry": "crm", "features": ["free_trial", "api_docs", "sso"]}'
+```
 
-| Country | Sites Analyzed | Critical Features |
-|---|---|---|
-| 🇺🇸 USA | 16 | 41 |
-| 🇬🇧 United Kingdom | 18 | 39 |
-| 🇦🇺 Australia | 17 | 39 |
-| 🇧🇷 Brazil | 16 | 44 |
-| 🇫🇷 France | 16 | 37 |
-| 🇮🇳 India | 13 | 41 |
-| 🇨🇳 China | 22 | 34 |
-| 🇨🇦 Canada | 13 | 30 |
-| 🇲🇽 Mexico | 12 | 24 |
-| 🇦🇷 Argentina | 22 | 16 |
-| 🇷🇺 Russia | 13 | 18 |
-| 🇳🇱 Netherlands | 23 | 29 |
-| 🇵🇱 Poland | 22 | 37 |
-| 🇹🇷 Turkiye | 22 | 27 |
-| 🇸🇦 Saudi Arabia | 17 | 26 |
-| 🇦🇪 UAE | 16 | 29 |
-| 🇶🇦 Qatar | 15 | 26 |
-| 🇵🇰 Pakistan | 23 | 14 |
-| 🇪🇸 Spain | 13 | 26 |
+No signup. No API key. Free and open.
 
-**Total: 329 sites analyzed, 855 feature data points**
+## What's Covered
 
-## Data Format
+### E-commerce (19 Countries)
 
-Each country has a `benchmark.yaml` file and a `frequency_analysis.json` file:
-data/
-├── ecommerce_usa/
-│   └── 2026-03-31/
-│       ├── benchmark.yaml           # The benchmark file
-│       ├── frequency_analysis.json  # Detailed frequency data
-│       ├── complete_results.json    # Raw data for all sites
-│       └── [site].json              # Individual site data
-├── ecommerce_uk/
-│   └── ...
-└── ...
+| Country | Sites | Critical Features |
+|---------|-------|-------------------|
+| 🇺🇸 USA | 30 | 41 |
+| 🇬🇧 UK | 30 | 39 |
+| 🇧🇷 Brazil | 30 | 44 |
+| 🇮🇳 India | 30 | 41 |
+| 🇫🇷 France | 30 | 37 |
+| 🇩🇪 Germany | 30 | 37 |
+| 🇨🇳 China | 30 | 34 |
+| 🇦🇺 Australia | 30 | 39 |
 
-## How Benchmarks Are Created
+Plus: Canada, Mexico, Argentina, Spain, Netherlands, Poland, Russia, Türkiye, Saudi Arabia, UAE, Qatar, Pakistan
 
-1. **Automated scraping** — Playwright visits each website, extracts page structure (navigation, buttons, forms, images, headings, inputs, accessibility attributes)
-2. **AI analysis** — GPT-4o analyzes the structure AND uses its knowledge of each website to detect 45 features
-3. **Frequency calculation** — Count how many of the top sites have each feature
-4. **Classification** — Assign CRITICAL/REQUIRED/RECOMMENDED based on frequency thresholds
+### SaaS (20 Categories)
 
-## Features Tracked (45 per site)
+| Category | Sites | Critical |
+|----------|-------|----------|
+| Project Management | 27 | 22 |
+| CRM | 27 | 16 |
+| Developer Tools | 30 | 28 |
+| Cybersecurity | 29 | 26 |
+| Marketing Automation | 28 | 29 |
+| No-Code / Low-Code | 29 | 23 |
 
-Search & discovery, user accounts, product display, cart & checkout, reviews & ratings, personalization, order management, customer support, accessibility & compliance, design patterns.
+Plus: Analytics, Customer Support, Email Marketing, HR, Accounting, Design, Communication, Documentation, Cloud Storage, Social Media, Scheduling, Forms, AI/ML Platforms, E-commerce Platforms
 
-## Use Cases
+### News & Media (147 Countries) — In Progress 🔄
 
-- **Developers**: Check if your app has all industry-standard features
-- **Product managers**: Plan features based on what competitors actually have
-- **AI coding tools**: Verify that AI-generated apps meet industry standards
-- **Agencies**: Show clients what "complete" looks like with data
+1,730 news websites across 147 countries, checked against 151 features.
 
-## Contributing
+## How It Works
 
-We welcome contributions! You can:
-- Propose new features to track
-- Add new countries or industries
-- Report inaccuracies in the data
-- Improve the scraping methodology
+1. **Research** — Custom feature checklist per industry
+2. **Crawl** — Playwright visits 30 sites per market, takes screenshots
+3. **Analyze** — GPT-4o Vision identifies features from screenshots
+4. **Classify** — Frequency analysis: 80%+ = CRITICAL, 50-79% = REQUIRED, 25-49% = RECOMMENDED, <25% = OPTIONAL
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## Feature Classification
+
+| Classification | Threshold | Meaning |
+|---------------|-----------|---------|
+| **CRITICAL** | 80%+ of sites | Your users expect this. Must have. |
+| **REQUIRED** | 50-79% | Most competitors have it. Should have. |
+| **RECOMMENDED** | 25-49% | Nice to have. Differentiator. |
+| **OPTIONAL** | <25% | Rare. Only if it fits your product. |
+
+## GitHub Action
+
+Add benchmark checking to your CI/CD:
+
+```yaml
+name: Benchmark Check
+on: [pull_request]
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abdur-rehman10/benchmarkhq@main
+        with:
+          industry: ecommerce_usa
+          features: search_bar,product_reviews,cart,checkout
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+## API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/industries` | List all available industries |
+| GET | `/benchmark/{key}` | Get benchmark for an industry |
+| GET | `/benchmark/{key}/features` | Get feature list only |
+| POST | `/check` | Check your features against benchmark |
+
+Interactive docs: [api.benchmarkhq.site/docs](https://api.benchmarkhq.site/docs)
+
+## Tech Stack
+
+| Component | Technology | Cost |
+|-----------|------------|------|
+| Scraping | Playwright (Python) | Free |
+| AI Analysis | GPT-4o Vision | ~$0.01/site |
+| API | FastAPI | Free |
+| Hosting | Railway | $5/month |
+| Website | GitHub Pages | Free |
 
 ## License
 
-- **Benchmark data**: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
-- **Scraper code**: MIT License
+- **Code:** MIT
+- **Data:** Creative Commons BY-SA 4.0
 
-## Built By
+## Contributing
 
-BenchmarkHQ — Making product quality measurable.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new industries, countries, or improving data quality.
+
+## Links
+
+- [Website](https://benchmarkhq.site)
+- [API Docs](https://api.benchmarkhq.site/docs)
+- [Blog](https://benchmarkhq.site/blog/)
+- [All Industries](https://api.benchmarkhq.site/industries)
