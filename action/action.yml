@@ -1,0 +1,120 @@
+name: 'BenchmarkHQ Check'
+description: 'Check your app against industry benchmarks'
+branding:
+  icon: 'check-circle'
+  color: 'blue'
+
+inputs:
+  industry:
+    description: 'Industry benchmark to check against (e.g., ecommerce_usa)'
+    required: true
+  features:
+    description: 'Comma-separated list of features your app has'
+    required: true
+  api_url:
+    description: 'BenchmarkHQ API URL'
+    required: false
+    default: 'https://web-production-c1f5e.up.railway.app'
+  fail_below:
+    description: 'Fail the check if score is below this number (0-100)'
+    required: false
+    default: '0'
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Run BenchmarkHQ Check
+      shell: bash
+      run: |
+        # Call the API
+        FEATURES_JSON=$(echo "${{ inputs.features }}" | python3 -c "
+        import sys, json
+        features = [f.strip() for f in sys.stdin.read().split(',') if f.strip()]
+        print(json.dumps(features))
+        ")
+
+        RESPONSE=$(curl -s -X POST "${{ inputs.api_url }}/check" \
+          -H "Content-Type: application/json" \
+          -d "{\"industry\":\"${{ inputs.industry }}\",\"features\":${FEATURES_JSON}}")
+
+        # Parse response
+        SCORE=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['score'])")
+        VERDICT=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['verdict'])")
+
+        # Build the PR comment
+        COMMENT=$(echo "$RESPONSE" | python3 -c "
+        import sys, json
+
+        r = json.load(sys.stdin)
+        s = r['summary']
+
+        # Emoji based on score
+        if r['score'] >= 90: emoji = '🏆'
+        elif r['score'] >= 75: emoji = '✅'
+        elif r['score'] >= 50: emoji = '⚠️'
+        else: emoji = '❌'
+
+        lines = []
+        lines.append(f\"## {emoji} BenchmarkHQ: {r['industry']} — Score {r['score']}/100\")
+        lines.append(f\"**Verdict: {r['verdict']}**\")
+        lines.append('')
+
+        # Critical
+        c = s['critical']
+        lines.append(f\"### Critical Features ({c['met']}/{c['total']})\")
+        if c['missing']:
+            for m in c['missing']:
+                lines.append(f\"- ❌ {m}\")
+        else:
+            lines.append('- ✅ All critical features present!')
+        lines.append('')
+
+        # Required
+        q = s['required']
+        lines.append(f\"### Required Features ({q['met']}/{q['total']})\")
+        if q['missing']:
+            for m in q['missing']:
+                lines.append(f\"- ⚠️ {m}\")
+        else:
+            lines.append('- ✅ All required features present!')
+        lines.append('')
+
+        # Recommended
+        rec = s['recommended']
+        lines.append(f\"### Recommended Features ({rec['met']}/{rec['total']})\")
+        if rec['missing']:
+            for m in rec['missing'][:5]:
+                lines.append(f\"- 💡 {m}\")
+            if len(rec['missing']) > 5:
+                lines.append(f\"- ... and {len(rec['missing'])-5} more\")
+        else:
+            lines.append('- ✅ All recommended features present!')
+
+        lines.append('')
+        lines.append('---')
+        lines.append('*Powered by [BenchmarkHQ](https://github.com/abdur-rehman10/benchmarkhq) — open-source industry benchmarks*')
+
+        print('\n'.join(lines))
+        ")
+
+        echo "$COMMENT" >> $GITHUB_STEP_SUMMARY
+
+        # Post comment on PR if it's a pull request
+        if [ -n "${{ github.event.pull_request.number }}" ]; then
+          COMMENT_ESCAPED=$(echo "$COMMENT" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
+          curl -s -X POST \
+            -H "Authorization: token ${{ github.token }}" \
+            -H "Content-Type: application/json" \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
+            -d "{\"body\":${COMMENT_ESCAPED}}"
+        fi
+
+        # Fail if below threshold
+        if [ "${{ inputs.fail_below }}" != "0" ]; then
+          if [ "$SCORE" -lt "${{ inputs.fail_below }}" ]; then
+            echo "::error::BenchmarkHQ score $SCORE is below threshold ${{ inputs.fail_below }}"
+            exit 1
+          fi
+        fi
+
+        echo "Score: $SCORE | Verdict: $VERDICT"
