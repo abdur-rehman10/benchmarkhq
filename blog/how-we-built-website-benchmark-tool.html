@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How We Built a Website Benchmark Tool with Playwright and GPT-4o — BenchmarkHQ</title>
+<meta name="description" content="Technical architecture behind scanning 2,600+ websites using browser automation and AI vision analysis.">
+<meta property="og:title" content="How We Built a Website Benchmark Tool with Playwright and GPT-4o — BenchmarkHQ">
+<meta property="og:description" content="Technical architecture behind scanning 2,600+ websites using browser automation and AI vision analysis.">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="keywords" content="playwright web scraping, gpt4o vision api, website analysis tool, web scraping ai, automated website audit">
+<link rel="canonical" href="https://benchmarkhq.site/blog/how-we-built-website-benchmark-tool.html">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0C0C0E;--bg-card:#141416;--text:#E8E6E3;--text-dim:#8A8A8D;--text-muted:#5A5A5D;--accent:#C4A46C;--accent-dim:#8B7544;--green:#5CB08A;--blue:#5B8EC9;--border:#222225;--serif:'Source Serif 4',Georgia,serif;--sans:'DM Sans',-apple-system,sans-serif;--mono:'JetBrains Mono',monospace}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
+::selection{background:var(--accent);color:var(--bg)}
+a{color:var(--accent);text-decoration:none}a:hover{color:var(--text)}
+.nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
+.nav-inner{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
+.nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:28px;align-items:center}
+.nav-links a{font-size:14px;color:var(--text-dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
+.nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}
+article{max-width:720px;margin:0 auto;padding:80px 24px 60px}
+article .tag{font-family:var(--mono);font-size:11px;color:var(--accent);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:16px}
+article h1{font-family:var(--serif);font-size:clamp(28px,5vw,42px);font-weight:300;line-height:1.2;margin-bottom:16px}
+article .meta{font-size:14px;color:var(--text-muted);margin-bottom:48px;padding-bottom:32px;border-bottom:1px solid var(--border)}
+article h2{font-family:var(--serif);font-size:24px;font-weight:400;margin:48px 0 16px;color:var(--text)}
+article h3{font-family:var(--serif);font-size:20px;font-weight:400;margin:32px 0 12px;color:var(--text)}
+article p{font-size:17px;line-height:1.8;color:var(--text-dim);margin-bottom:20px}
+article strong{color:var(--text);font-weight:600}
+article ul,article ol{margin:0 0 20px 24px;color:var(--text-dim)}
+article li{margin-bottom:8px;font-size:16px;line-height:1.6}
+article code{font-family:var(--mono);font-size:14px;background:rgba(196,164,108,0.1);padding:2px 6px;border-radius:4px;color:var(--accent)}
+article pre{background:#0A0A0C;border:1px solid var(--border);border-radius:10px;padding:24px;overflow-x:auto;margin:20px 0;font-family:var(--mono);font-size:13px;line-height:1.6;color:var(--text-dim)}
+article blockquote{border-left:3px solid var(--accent);padding:16px 24px;margin:24px 0;background:var(--bg-card);border-radius:0 8px 8px 0}
+article blockquote p{margin:0;font-style:italic}
+article table{width:100%;border-collapse:collapse;margin:24px 0;font-size:15px}
+article th{text-align:left;padding:10px 16px;border-bottom:2px solid var(--border);color:var(--accent);font-family:var(--mono);font-size:12px;text-transform:uppercase;letter-spacing:0.05em}
+article td{padding:10px 16px;border-bottom:1px solid var(--border);color:var(--text-dim)}
+article tr:hover td{background:var(--bg-card)}
+.post-nav{max-width:720px;margin:0 auto;padding:0 24px 60px;display:flex;justify-content:space-between;font-size:14px}
+.cta-box{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:32px;margin:40px 0;text-align:center}
+.cta-box h3{font-family:var(--serif);font-size:20px;margin-bottom:12px;color:var(--text)}
+.cta-box p{color:var(--text-dim);margin-bottom:20px;font-size:15px}
+.cta-box a{display:inline-block;background:var(--accent);color:var(--bg);padding:10px 24px;border-radius:6px;font-weight:600;font-size:14px}
+.footer{padding:40px 24px;border-top:1px solid var(--border);text-align:center;font-size:13px;color:var(--text-muted)}
+@media(max-width:768px){.nav-links a:not(.btn-nav){display:none}}
+</style>
+</head>
+<body>
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="/#data">Data</a><a href="/#api">API</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+<article>
+<div class="tag">Engineering</div>
+<h1>How We Built a Website Benchmark Tool with Playwright and GPT-4o</h1>
+<div class="meta">April 1, 2026 · 7 min read</div>
+
+<p>BenchmarkHQ analyzes thousands of websites using AI. Here's the technical stack, from browser automation to API deployment — all running on a $5/month infrastructure.</p>
+<h2>The Pipeline</h2>
+<ol>
+<li><strong>Research</strong> — Custom feature checklist per industry (45 for e-commerce, 50 for SaaS, 151 for news)</li>
+<li><strong>Crawl</strong> — Playwright (headless Chromium) visits each site, takes 3-6 screenshots</li>
+<li><strong>Analyze</strong> — GPT-4o Vision examines screenshots against the checklist, marks each feature Y/N/P</li>
+<li><strong>Aggregate</strong> — Frequency analysis classifies features as CRITICAL/REQUIRED/RECOMMENDED/OPTIONAL</li>
+</ol>
+<h2>Tech Stack</h2>
+<table>
+<tr><th>Component</th><th>Technology</th><th>Cost</th></tr>
+<tr><td>Browser automation</td><td>Playwright (Python)</td><td>Free</td></tr>
+<tr><td>AI analysis</td><td>GPT-4o Vision</td><td>~$0.01/site</td></tr>
+<tr><td>API server</td><td>FastAPI</td><td>Free</td></tr>
+<tr><td>Hosting</td><td>Railway</td><td>$5/month</td></tr>
+<tr><td>Landing page</td><td>GitHub Pages</td><td>Free</td></tr>
+</table>
+<h2>Why GPT-4o Vision Instead of HTML Parsing</h2>
+<p>We tested three approaches: HTML parsing (too fragile — every site has different markup), Lighthouse-style audits (can't detect product features like wishlists), and GPT-4o Vision (looks at the page like a human). Vision-based analysis correctly identified 90%+ of features from screenshots alone, regardless of underlying technology.</p>
+<p>Everything is open source: <a href="https://github.com/abdur-rehman10/benchmarkhq">github.com/abdur-rehman10/benchmarkhq</a></p>
+<div class="cta-box">
+<h3>Try the API yourself</h3>
+<p>42 industries. No signup required. Free and open source.</p>
+<a href="https://api.benchmarkhq.site/docs">Explore API Docs →</a>
+</div>
+</article>
+<div class="post-nav"><a href="/blog/">← All posts</a><a href="https://github.com/abdur-rehman10/benchmarkhq">Star on GitHub →</a></div>
+<div class="footer">Data: CC BY-SA 4.0 · Code: MIT · © 2026 BenchmarkHQ</div>
+</body>
+</html>
