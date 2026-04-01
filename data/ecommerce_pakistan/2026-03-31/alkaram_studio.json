@@ -1,0 +1,422 @@
+{
+  "name": "alkaram_studio",
+  "url": "https://www.alkaramstudio.com",
+  "scanned_at": "2026-03-31T23:36:13.780794",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/alkaram_studio_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/alkaram_studio_mobile.png"
+  },
+  "structure": {
+    "title": "Online Shopping Store For Men's and Women's Clothing - Alkaram",
+    "url_final": "https://us.alkaramstudio.com/",
+    "nav_items": [
+      {
+        "text": "WOMEN",
+        "href": "/collections/new-in-women"
+      },
+      {
+        "text": "SPRING SUMMER'26 \ud83c\udf38",
+        "href": "/collections/summer26"
+      },
+      {
+        "text": "READY TO STITCH",
+        "href": "/collections/new-rts"
+      },
+      {
+        "text": "READY TO WEAR",
+        "href": "/collections/new-rtw"
+      },
+      {
+        "text": "MEN",
+        "href": "/collections/man"
+      },
+      {
+        "text": "READY TO WEAR",
+        "href": "/collections/new-men-rtw"
+      },
+      {
+        "text": "READY TO STITCH",
+        "href": "/collections/new-men-rts"
+      },
+      {
+        "text": "KIDS",
+        "href": "/collections/ready-to-wear-mak-kids"
+      },
+      {
+        "text": "GIRLS",
+        "href": "/collections/girls"
+      },
+      {
+        "text": "BOYS",
+        "href": "/collections/boys"
+      },
+      {
+        "text": "HOME",
+        "href": "/collections/home"
+      },
+      {
+        "text": "KITCHEN & DINING ROOM",
+        "href": "/collections/kitchen-dining-room"
+      },
+      {
+        "text": "SPRING SUMMER'26 \ud83c\udf38",
+        "href": "/collections/summer26"
+      },
+      {
+        "text": "RTW: EID EDIT",
+        "href": "/collections/eid-edit-26"
+      },
+      {
+        "text": "SPRING SUMMER'26 \ud83c\udf38",
+        "href": "https://us.alkaramstudio.com/collections/summer26"
+      },
+      {
+        "text": "READY TO STITCH",
+        "href": "https://us.alkaramstudio.com/collections/rts"
+      },
+      {
+        "text": "SPRING SUMMER'26 \ud83c\udf38",
+        "href": "/collections/summer26"
+      },
+      {
+        "text": "BASICS",
+        "href": "https://us.alkaramstudio.com/collections/unstitched-basics"
+      },
+      {
+        "text": "ESSENTIALS",
+        "href": "https://us.alkaramstudio.com/collections/unstitched-essentials"
+      },
+      {
+        "text": "SIGNATURE",
+        "href": "https://us.alkaramstudio.com/collections/unstitched-signature"
+      }
+    ],
+    "buttons": [
+      "Navigation menu",
+      "Close",
+      "NEW IN",
+      "WOMEN",
+      "MEN",
+      "KIDS",
+      "SALE",
+      "Close",
+      "Subscribe",
+      "Women",
+      "Men",
+      "Previous",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options"
+    ],
+    "forms": [
+      {
+        "action": "/localization",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "return_to",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search for..."
+          }
+        ]
+      },
+      {
+        "action": "/contact#newsletter-sections--25178707067162__newsletter-popup",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "E-mail"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "quantity",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "quantity",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "id",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 577,
+    "images_count": 631,
+    "images_with_alt": 605,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Alkaram International store"
+      },
+      {
+        "level": 2,
+        "text": "Shop by Category"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search for..."
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "E-mail"
+      },
+      {
+        "type": "hidden",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "swatch--template--25178706673946__featured_collections_N6HmDD-collection_d4gy4j-10140954427674-2",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "id",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 16,
+    "has_og_tags": true,
+    "meta_description": "Welcome to Alkaram Online Shop! Buy Pakistani Dresses, Unstitched and Stitched Collection, Accessories and Home Textile Online Shopping in Pakistan.",
+    "scripts_count": 166
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [],
+    "confidence": "medium"
+  }
+}

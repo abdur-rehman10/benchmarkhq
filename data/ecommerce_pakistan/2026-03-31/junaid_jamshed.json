@@ -1,0 +1,154 @@
+{
+  "name": "junaid_jamshed",
+  "url": "https://www.junaidjamshed.com",
+  "scanned_at": "2026-03-31T23:36:53.375550",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/junaid_jamshed_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/junaid_jamshed_mobile.png"
+  },
+  "structure": {
+    "title": "J. Junaid Jamshed Official Website",
+    "url_final": "https://www.junaidjamshed.com/select-country",
+    "nav_items": [],
+    "buttons": [
+      "ENTER",
+      "Close",
+      "Sign In"
+    ],
+    "forms": [
+      {
+        "action": "https://www.junaidjamshed.com/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "landing-currency",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "email",
+            "name": "username",
+            "placeholder": ""
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "captcha_form_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "context",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 3,
+    "images_count": 16,
+    "images_with_alt": 1,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "username",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_form_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "context",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Welcome to J. Junaid Jamshed Pakistan & Global online store. Shop online for the latest trends of Women unstitched, Kurti, Stitched suits, Men Kameez shalwar, Kurta, Waistcoats, Sherwani & wedding col",
+    "scripts_count": 321
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "traditional clothing focus",
+      "regional language support"
+    ],
+    "confidence": "high"
+  }
+}

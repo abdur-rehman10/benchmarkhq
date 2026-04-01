@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_france
+  name: E-commerce France
+  country: France
+  currency: EUR
+  language: fr
+  version: 1.0.0
+  generated_at: '2026-03-31T22:31:58.067111'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - amazon_france
+  - leboncoin
+  - cdiscount
+  - fnac
+  - darty
+  - veepee
+  - leroy_merlin_fr
+  - la_redoute
+  - decathlon_france
+  - boulanger
+  - carrefour_france
+  - auchan
+  - ikea_france
+  - zalando_france
+  - sephora_france
+  - cultura
+  - maisons_du_monde
+  - conforama
+  - but
+  - kiabi
+  - zara_france
+  - handm_france
+  - galeries_lafayette
+  - sarenza
+  - temu_france
+  - shein_france
+  - nike_france
+  - samsung_france
+  - apple_france
+  - rue_du_commerce
+features:
+  critical:
+  - id: product_search
+    frequency: 16/16
+    percent: 100
+  - id: category_browsing
+    frequency: 16/16
+    percent: 100
+  - id: login_signup
+    frequency: 15/16
+    percent: 100
+  - id: guest_checkout
+    frequency: 12/16
+    percent: 100
+  - id: product_images
+    frequency: 16/16
+    percent: 100
+  - id: product_descriptions
+    frequency: 14/16
+    percent: 100
+  - id: price_display
+    frequency: 16/16
+    percent: 100
+  - id: stock_availability
+    frequency: 12/16
+    percent: 100
+  - id: shopping_cart
+    frequency: 16/16
+    percent: 100
+  - id: add_to_cart
+    frequency: 16/16
+    percent: 100
+  - id: promo_code
+    frequency: 13/16
+    percent: 100
+  - id: multiple_payment
+    frequency: 14/16
+    percent: 100
+  - id: shipping_info
+    frequency: 15/16
+    percent: 100
+  - id: estimated_delivery
+    frequency: 11/16
+    percent: 100
+  - id: order_tracking
+    frequency: 12/16
+    percent: 100
+  - id: order_history
+    frequency: 12/16
+    percent: 100
+  - id: return_refund_info
+    frequency: 15/16
+    percent: 100
+  - id: help_center
+    frequency: 15/16
+    percent: 100
+  - id: contact_form
+    frequency: 14/16
+    percent: 100
+  - id: phone_support
+    frequency: 12/16
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 16/16
+    percent: 100
+  - id: privacy_policy
+    frequency: 13/16
+    percent: 100
+  - id: cookie_consent
+    frequency: 14/16
+    percent: 100
+  - id: terms_of_service
+    frequency: 13/16
+    percent: 100
+  - id: responsive_design
+    frequency: 16/16
+    percent: 100
+  - id: language_attribute
+    frequency: 15/16
+    percent: 94
+  - id: search_filters
+    frequency: 11/16
+    percent: 92
+  - id: size_variant_selector
+    frequency: 11/16
+    percent: 92
+  - id: related_products
+    frequency: 11/16
+    percent: 92
+  - id: star_ratings
+    frequency: 11/16
+    percent: 92
+  - id: customer_reviews
+    frequency: 11/16
+    percent: 92
+  - id: wishlist
+    frequency: 11/16
+    percent: 92
+  - id: search_autocomplete
+    frequency: 10/16
+    percent: 91
+  - id: sticky_header
+    frequency: 10/16
+    percent: 91
+  - id: breadcrumb_navigation
+    frequency: 10/16
+    percent: 91
+  - id: hero_section
+    frequency: 10/16
+    percent: 91
+  - id: footer_with_links
+    frequency: 14/16
+    percent: 88
+  required:
+  - id: trending_items
+    frequency: 10/16
+    percent: 83
+  - id: review_photos
+    frequency: 9/16
+    percent: 82
+  - id: recently_viewed
+    frequency: 9/16
+    percent: 82
+  - id: personalized_recommendations
+    frequency: 9/16
+    percent: 82
+  - id: skeleton_loading
+    frequency: 9/16
+    percent: 82
+  - id: social_login
+    frequency: 8/16
+    percent: 73
+  - id: push_notifications
+    frequency: 8/16
+    percent: 73
+  - id: live_chat
+    frequency: 8/16
+    percent: 73
+  recommended: []
+  nice_to_have: []
+  innovative: []

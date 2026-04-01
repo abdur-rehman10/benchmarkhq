@@ -1,0 +1,225 @@
+{
+  "name": "firstcry",
+  "url": "https://www.firstcry.com",
+  "scanned_at": "2026-03-31T23:49:06.305216",
+  "screenshots": {
+    "desktop": "data/ecommerce_india/2026-03-31/screenshots/firstcry_desktop.png",
+    "mobile": "data/ecommerce_india/2026-03-31/screenshots/firstcry_mobile.png"
+  },
+  "structure": {
+    "title": "Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com",
+    "url_final": "https://www.firstcry.com/",
+    "nav_items": [],
+    "buttons": [
+      "CHECK"
+    ],
+    "forms": [
+      {
+        "action": "#",
+        "method": "post",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 2571,
+    "images_count": 59,
+    "images_with_alt": 42,
+    "headings": [
+      {
+        "level": 1,
+        "text": "FirstCry India ~ Online Store for Baby & Kids Products"
+      },
+      {
+        "level": 2,
+        "text": "Select location"
+      },
+      {
+        "level": 2,
+        "text": "Stores & Preschools"
+      },
+      {
+        "level": 2,
+        "text": "Support"
+      },
+      {
+        "level": 2,
+        "text": "Track Order"
+      },
+      {
+        "level": 2,
+        "text": "FirstCry Parenting"
+      },
+      {
+        "level": 3,
+        "text": "PREMIUM BOUTIQUES"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "svscheme",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": "Enter Pincode"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Email Address"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": "Phone number"
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": "Enter Pincode"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Enter your child name"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "button",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Order Number*"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 44,
+    "has_og_tags": true,
+    "meta_description": "FirstCry.com - India's Largest Online Store for newborn, baby & kids products. Shop from the best range of Toys, Diapers, Clothes, Footwear, Strollers, Car Seats, Furniture, Gifts, Books and more from",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "FirstCry Parenting section",
+      "Stores & Preschools locator"
+    ],
+    "confidence": "high"
+  }
+}

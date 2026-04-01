@@ -1,0 +1,209 @@
+{
+  "name": "mercado_libre_ar",
+  "url": "https://www.mercadolibre.com.ar",
+  "scanned_at": "2026-03-31T21:59:00.205208",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/mercado_libre_ar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/mercado_libre_ar_mobile.png"
+  },
+  "structure": {
+    "title": "Mercado Libre Argentina - Env\u00edos Gratis en el d\u00eda",
+    "url_final": "https://www.mercadolibre.com.ar/",
+    "nav_items": [
+      {
+        "text": "Saltar el contenido",
+        "href": "#root-app"
+      },
+      {
+        "text": "Comentar sobre accesibilidad",
+        "href": "https://www.mercadolibre.com.ar/accesibilidad/feedback"
+      },
+      {
+        "text": "Buscar/",
+        "href": "#cb1-edit"
+      },
+      {
+        "text": "Mis comprasP",
+        "href": "https://myaccount.mercadolibre.com.ar/purchases/list"
+      },
+      {
+        "text": "CarritoC",
+        "href": "https://www.mercadolibre.com.ar/gz/cart/v2"
+      },
+      {
+        "text": "Abrir/cerrar el men\u00fa de m\u00e9todos abreviadosZ",
+        "href": "#"
+      }
+    ],
+    "buttons": [
+      "P\u00e1gina 1",
+      "P\u00e1gina 2",
+      "P\u00e1gina 3",
+      "P\u00e1gina 4",
+      "P\u00e1gina 5",
+      "P\u00e1gina 6",
+      "P\u00e1gina 7",
+      "Ingresar ubicaci\u00f3nIngres\u00e1 tu ubicaci\u00f3n",
+      "Conocer medios de pagoMedios de pago",
+      "P\u00e1gina 1",
+      "P\u00e1gina 2",
+      "P\u00e1gina 1",
+      "P\u00e1gina 2",
+      "P\u00e1gina 3",
+      "M\u00e1s informaci\u00f3n",
+      "Aceptar cookies",
+      "Configurar cookies",
+      "Cerrar",
+      "Cerrar",
+      "Suscribirme desde $\u00a03.490"
+    ],
+    "forms": [
+      {
+        "action": "https://www.mercadolibre.com.ar/jm/search",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "as_word",
+            "placeholder": "Buscar productos, marcas y m\u00e1s\u2026"
+          }
+        ]
+      }
+    ],
+    "links_count": 266,
+    "images_count": 84,
+    "images_with_alt": 75,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Mercado Libre"
+      },
+      {
+        "level": 2,
+        "text": "Env\u00edo gratis"
+      },
+      {
+        "level": 2,
+        "text": "Ingres\u00e1 a tu cuenta"
+      },
+      {
+        "level": 2,
+        "text": "Ingres\u00e1 tu ubicaci\u00f3n"
+      },
+      {
+        "level": 2,
+        "text": "Medios de pago"
+      },
+      {
+        "level": 2,
+        "text": "Menos de $20.000"
+      },
+      {
+        "level": 3,
+        "text": "Productos m\u00e1s buscados"
+      },
+      {
+        "level": 3,
+        "text": "Buscar productos por letra inicial"
+      },
+      {
+        "level": 3,
+        "text": "Acerca de"
+      },
+      {
+        "level": 3,
+        "text": "Otros sitios"
+      },
+      {
+        "level": 3,
+        "text": "Ayuda"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "as_word",
+        "placeholder": "Buscar productos, marcas y m\u00e1s\u2026"
+      }
+    ],
+    "footer_links": [
+      "Trabaj\u00e1 con nosotros",
+      "T\u00e9rminos y condiciones",
+      "Promociones",
+      "C\u00f3mo cuidamos tu privacidad",
+      "Accesibilidad",
+      "Informaci\u00f3n al usuario financiero",
+      "Ayuda",
+      "Defensa del Consumidor",
+      "Informaci\u00f3n sobre seguros",
+      "Libro de quejas online",
+      "Programa de Afiliados",
+      "Mercado Libre"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 133,
+    "has_og_tags": false,
+    "meta_description": "Compr\u00e1 productos con Env\u00edo Gratis en el d\u00eda en Mercado Libre Argentina. Encontr\u00e1 miles de marcas y productos a precios incre\u00edbles.",
+    "scripts_count": 96
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Free same-day delivery",
+      "Extensive payment options",
+      "Localized content for Argentina"
+    ],
+    "confidence": "high"
+  }
+}

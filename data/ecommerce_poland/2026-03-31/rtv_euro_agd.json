@@ -1,0 +1,155 @@
+{
+  "name": "rtv_euro_agd",
+  "url": "https://www.euro.com.pl",
+  "scanned_at": "2026-03-31T22:44:30.743233",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/rtv_euro_agd_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/rtv_euro_agd_mobile.png"
+  },
+  "structure": {
+    "title": "RTV EURO AGD - Sklep internetowy RTV AGD Komputery Foto Telefony",
+    "url_final": "https://www.euro.com.pl/",
+    "nav_items": [],
+    "buttons": [
+      "Przejd\u017a do zawarto\u015bci strony",
+      "Przejd\u017a do wyszukiwarki",
+      "Przejd\u017a do kategorii",
+      "Przejd\u017a do stopki",
+      "Szukaj",
+      "Moje kontoZaloguj / Zarejestruj",
+      "855 855 855",
+      "Obserwowane",
+      "Koszyk",
+      "Szukaj w RTV Euro AGD",
+      "Wszystkie kategorie",
+      "Strefa klienta",
+      "Wielkanocne okazje",
+      "2 raty gratis!",
+      "Prima Aprilis",
+      "Sezon w ogrodzie",
+      "Zestaw wymienny Roborock  za 1 z\u0142",
+      "Pakiet us\u0142ug na Twoje sprz\u0119ty",
+      "Nawet do 6 kg kawy za 1z\u0142/kg",
+      "Macbook Neo",
+      "203"
+    ],
+    "forms": [],
+    "links_count": 1480,
+    "images_count": 357,
+    "images_with_alt": 165,
+    "headings": [
+      {
+        "level": 1,
+        "text": "RTV EURO AGD - Sklep internetowy RTV AGD Komputery Foto Telefony"
+      },
+      {
+        "level": 2,
+        "text": "HIT DNIA"
+      },
+      {
+        "level": 2,
+        "text": "Nowo\u015bci"
+      },
+      {
+        "level": 3,
+        "text": "S\u0142uchawki bezprzewodowe z mikrofonem Redragon H540-PRO Luna Wireless Nauszne Cza"
+      },
+      {
+        "level": 3,
+        "text": "nowo\u015bci"
+      },
+      {
+        "level": 3,
+        "text": "iphone"
+      },
+      {
+        "level": 3,
+        "text": "gaming"
+      },
+      {
+        "level": 3,
+        "text": "telewizory"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Szukaj w RTV Euro AGD"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Szukaj w RTV Euro AGD"
+      }
+    ],
+    "footer_links": [
+      "Zapisz si\u0119",
+      "Dowiedz si\u0119 wi\u0119cej"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 84,
+    "has_og_tags": true,
+    "meta_description": "Sklep z RTV i AGD \u2013 lider na polskim rynku. RTV Euro AGD oferuje najbogatszy wyb\u00f3r produkt\u00f3w, korzystne raty i ubezpieczenie sprz\u0119t\u00f3w. Wejd\u017a do nas \u2013 zakupy jeszcze nigdy nie by\u0142y tak proste!",
+    "scripts_count": 19
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "2 raty gratis!",
+      "Nawet do 6 kg kawy za 1z\u0142/kg"
+    ],
+    "confidence": "high"
+  }
+}

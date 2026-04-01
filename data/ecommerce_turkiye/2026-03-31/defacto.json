@@ -1,0 +1,136 @@
+{
+  "name": "defacto",
+  "url": "https://www.defacto.com.tr",
+  "scanned_at": "2026-03-31T22:57:40.242020",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/defacto_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/defacto_mobile.png"
+  },
+  "structure": {
+    "title": "DeFacto ile \u015e\u0131kl\u0131\u011f\u0131 Ke\u015ffedin: Kad\u0131n, Erkek ve \u00c7ocuk Modas\u0131",
+    "url_final": "https://www.defacto.com.tr/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "javascript:"
+      }
+    ],
+    "buttons": [
+      "S\u0130PAR\u0130\u015e\u0130 TAMAMLA",
+      "SEPETE G\u0130T",
+      "T\u00fcrkiye",
+      "Kaydet",
+      "T\u00fcm\u00fcn\u00fc Reddet",
+      "T\u00fcm\u00fcne \u0130zin Ver"
+    ],
+    "forms": [
+      {
+        "action": "/arama",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "NE ARAMAK \u0130STERS\u0130N?"
+          }
+        ]
+      }
+    ],
+    "links_count": 10,
+    "images_count": 15,
+    "images_with_alt": 13,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "NE ARAMAK \u0130STERS\u0130N?"
+      },
+      {
+        "type": "radio",
+        "name": "LanguageId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "DeFacto'nun kad\u0131n, erkek ve \u00e7ocuk koleksiyonlar\u0131yla tarz\u0131n\u0131z\u0131 yans\u0131t\u0131n. \u015e\u0131k tasar\u0131mlar ve kaliteli materyallerle al\u0131\u015fveri\u015f keyfini ke\u015ffedin.",
+    "scripts_count": 24
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product range",
+      "localized content for Turkey",
+      "strong brand presence"
+    ],
+    "confidence": "high"
+  }
+}

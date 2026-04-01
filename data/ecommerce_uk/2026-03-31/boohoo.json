@@ -1,0 +1,258 @@
+{
+  "name": "boohoo",
+  "url": "https://www.boohoo.com",
+  "scanned_at": "2026-03-31T21:56:15.311620",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/boohoo_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/boohoo_mobile.png"
+  },
+  "structure": {
+    "title": "boohoo | Womens and Mens Clothes | Shop Online Fashion",
+    "url_final": "https://www.boohoo.com/",
+    "nav_items": [
+      {
+        "text": "New In",
+        "href": "/categories/womens-new-in"
+      },
+      {
+        "text": "View All New In",
+        "href": "/categories/womens-new-in"
+      },
+      {
+        "text": "New In This Week",
+        "href": "/categories/new-in-this-week"
+      },
+      {
+        "text": "New Season",
+        "href": "/categories/womens-new-season"
+      },
+      {
+        "text": "New In Dresses",
+        "href": "/categories/womens-new-in-dresses"
+      },
+      {
+        "text": "New In Tops",
+        "href": "/categories/womens-new-in-tops"
+      },
+      {
+        "text": "New In Trousers",
+        "href": "/categories/womens-new-in-trousers"
+      },
+      {
+        "text": "New In Coats & Jackets",
+        "href": "/categories/womens-new-in-coats-jackets"
+      },
+      {
+        "text": "New In Accessories",
+        "href": "/categories/shoes-accessories-new-in-accessories"
+      },
+      {
+        "text": "New In Shoes & Boots",
+        "href": "/categories/shoes-accessories-new-in-shoes"
+      },
+      {
+        "text": "New In Mens",
+        "href": "/categories/mens-new-in"
+      },
+      {
+        "text": "New In Beauty",
+        "href": "/categories/beauty-new-in"
+      },
+      {
+        "text": "New In HomewaresNEW",
+        "href": "/categories/home"
+      },
+      {
+        "text": "Back In Stock",
+        "href": "/categories/womens-collections-back-in-stock"
+      },
+      {
+        "text": "New In Plus Size",
+        "href": "/categories/womens-new-in-plus-size"
+      },
+      {
+        "text": "New In Petite",
+        "href": "/categories/womens-new-in-petite"
+      },
+      {
+        "text": "New In Tall",
+        "href": "/categories/womens-new-in-tall"
+      },
+      {
+        "text": "New In Maternity",
+        "href": "/categories/womens-new-in-maternity"
+      },
+      {
+        "text": "Ways To Wear",
+        "href": "/categories/ways-to-wear"
+      },
+      {
+        "text": "Workwear",
+        "href": "/categories/womens-workwear"
+      }
+    ],
+    "buttons": [
+      "Change",
+      "View Similar",
+      "search",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "New Arrivals",
+      "Trending",
+      "Polka Dots",
+      "Jackets"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search Products and Brands"
+          },
+          {
+            "type": "file",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1050,
+    "images_count": 86,
+    "images_with_alt": 84,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Boohoo"
+      },
+      {
+        "level": 2,
+        "text": "Let's get to know each other"
+      },
+      {
+        "level": 2,
+        "text": "Hello!"
+      },
+      {
+        "level": 2,
+        "text": "HOW BOOHOO USES COOKIES"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search Products and Brands"
+      },
+      {
+        "type": "file",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Please enter your email address"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "family of brands",
+      "Privacy Policy.",
+      "Premier Delivery",
+      "Gift Cards",
+      "Gift Card Balance",
+      "PayPal",
+      "Clearpay",
+      "Klarna",
+      "Student Beans",
+      "UNiDAYS",
+      "boohoo Collective",
+      "boohoo App",
+      "Size Guide",
+      "Return Your Order",
+      "Frequently Asked Questions",
+      "Delivery Information",
+      "Returns Information",
+      "Contact Us",
+      "Privacy Policy",
+      "Terms & Conditions"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 101,
+    "has_og_tags": true,
+    "meta_description": "Shop boohoo's range of women's and men's clothing for the latest fashion pieces you need to be adding-to-basket, with 100s of new styles landing every day!",
+    "scripts_count": 26
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive new-in categories",
+      "integration with multiple payment options like Klarna and Clearpay",
+      "student discounts through UNiDAYS and Student Beans"
+    ],
+    "confidence": "high"
+  }
+}

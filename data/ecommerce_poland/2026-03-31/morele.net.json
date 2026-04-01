@@ -1,0 +1,380 @@
+{
+  "name": "morele.net",
+  "url": "https://www.morele.net",
+  "scanned_at": "2026-03-31T22:45:31.566244",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/morele.net_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/morele.net_mobile.png"
+  },
+  "structure": {
+    "title": "Morele - zakupy online to pestka",
+    "url_final": "https://www.morele.net/",
+    "nav_items": [
+      {
+        "text": "Elektronika i komputerymorele.net",
+        "href": "https://www.morele.net/"
+      },
+      {
+        "text": "Laptopy",
+        "href": "/laptopy/"
+      },
+      {
+        "text": "Poka\u017c wszystko w Laptopy",
+        "href": "/laptopy/"
+      },
+      {
+        "text": "Laptopy i tablety",
+        "href": "/laptopy/laptopy-i-tablety/"
+      },
+      {
+        "text": "Laptopy",
+        "href": "/kategoria/laptopy-31/"
+      },
+      {
+        "text": "Laptopy 2w1",
+        "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,30183O978880/1/"
+      },
+      {
+        "text": "Laptopy poleasingowe",
+        "href": "/kategoria/laptopy-poleasingowe-497/"
+      },
+      {
+        "text": "Tablety",
+        "href": "/kategoria/tablety-528/"
+      },
+      {
+        "text": "Tablety poleasingowe",
+        "href": "/kategoria/tablety-poleasingowe-12379/"
+      },
+      {
+        "text": "Czytniki e-book",
+        "href": "/kategoria/czytniki-e-book-542/"
+      },
+      {
+        "text": "Laptopy - zastosowanie",
+        "href": "/kategoria/laptopy-31/"
+      },
+      {
+        "text": "Laptopy biznesowe",
+        "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1098457/1/"
+      },
+      {
+        "text": "Laptopy multimedialne",
+        "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1098456/1/"
+      },
+      {
+        "text": "Laptopy gamingowe",
+        "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1098459/1/"
+      },
+      {
+        "text": "Dla Tw\u00f3rc\u00f3w (stacje robocze)",
+        "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1698659/1/"
+      },
+      {
+        "text": "RTX STUDIO",
+        "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1721465/1/"
+      },
+      {
+        "text": "Laptopy - popularni producenci",
+        "href": "/kategoria/laptopy-31/"
+      },
+      {
+        "text": "Laptopy Lenovo",
+        "href": "/kategoria/laptopy-31/,,,,,511,,,0,,,,/1/"
+      },
+      {
+        "text": "Laptopy Dell",
+        "href": "/kategoria/laptopy-31/,,,,,248,,,0,,,,/1/"
+      },
+      {
+        "text": "Laptopy HP",
+        "href": "/kategoria/laptopy-31/,,,,,92,,,0,,,,/1/"
+      }
+    ],
+    "buttons": [
+      "Wszystkie dzia\u0142y",
+      "Wybierzkod pocztowyJe\u015bli chcesz pozna\u0107 czasy dosta",
+      "Kontakt",
+      "Listyzakupowe",
+      "0Zaloguj si\u0119Za\u0142\u00f3\u017c konto",
+      "00,00 z\u0142",
+      "Wszystkie dzia\u0142y",
+      "Sprawd\u017a",
+      "Do koszykaPami\u0119\u0107 Viper Elite 5, DDR5, 16 GB, 6000M",
+      "Kontakt",
+      "Zapisz",
+      "Menu",
+      "wi\u0119cej",
+      "wi\u0119cej",
+      "wi\u0119cej",
+      "Ustawienia zaawansowane",
+      "Zapisz",
+      "Akceptuj\u0119 wszystko",
+      "Wr\u00f3\u0107",
+      "Poka\u017c wszystko w Laptopy",
+      "Poka\u017c wszystko w Komputery"
+    ],
+    "forms": [
+      {
+        "action": "/wyszukiwarka/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+          },
+          {
+            "type": "text",
+            "name": "d",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/wyszukiwarka/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+          },
+          {
+            "type": "text",
+            "name": "d",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "zip_city",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1112,
+    "images_count": 53,
+    "images_with_alt": 49,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Odkryj Morele"
+      },
+      {
+        "level": 2,
+        "text": "Polecane"
+      },
+      {
+        "level": 2,
+        "text": "Twoje centrum dowodzenia"
+      },
+      {
+        "level": 2,
+        "text": "Aktualno\u015bci"
+      },
+      {
+        "level": 3,
+        "text": "Okazja dnia"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_9836468_1116694561",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "widget_13048131_652735772",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Dodatkowa gwarancja",
+      "Monta\u017c komputera",
+      "Us\u0142ugi",
+      "Ubezpieczenie PZU",
+      "Karta Podarunkowa",
+      "Brand Club - program lojalno\u015bciowy",
+      "Morele MAX",
+      "PayPo",
+      "Raty",
+      "Leasing",
+      "Zakupy dla firmy",
+      "Pomoc",
+      "Sposoby dostawy i p\u0142atno\u015bci",
+      "Zwroty i reklamacje",
+      "Aktualne promocje",
+      "Poradniki",
+      "Wszystkie kategorie produktowe",
+      "Pytanie o produkt i doradztwo produktowe",
+      "Ca\u0142odobowe wsparcie Klienta",
+      "O nas"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 25,
+    "has_og_tags": true,
+    "meta_description": "Szybka i darmowa dostawa, niskie ceny, najlepsze promocje, \u0142atwe reklamacje i zwroty, szeroka oferta bestseller\u00f3w. Nasi eksperci doradz\u0105, co wybra\u0107 z szerokiej oferty bestseller\u00f3w z r\u00f3\u017cnych kategorii.",
+    "scripts_count": 47
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Brand Club - program lojalno\u015bciowy",
+      "Morele MAX"
+    ],
+    "confidence": "medium"
+  }
+}

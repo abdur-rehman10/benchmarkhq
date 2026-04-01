@@ -1,0 +1,185 @@
+{
+  "name": "decathlon_france",
+  "url": "https://www.decathlon.fr",
+  "scanned_at": "2026-03-31T22:23:46.879246",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/decathlon_france_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/decathlon_france_mobile.png"
+  },
+  "structure": {
+    "title": "Decathlon | Chaussures de sport, \u00e9quipements et mat\u00e9riel sportif",
+    "url_final": "https://www.decathlon.fr/",
+    "nav_items": [],
+    "buttons": [
+      "Personnaliser",
+      "Tout accepter",
+      "Effacer",
+      "Tous les sports",
+      "Femme",
+      "Homme",
+      "Enfant & b\u00e9b\u00e9",
+      "Equipements & loisirs",
+      "Nutrition & Sant\u00e9",
+      "Seconde vie",
+      "Bons plans",
+      "Services et voyages",
+      "Connaissez-vous le service de location ?",
+      "Toutes nos solutions de r\u00e9paration",
+      "On rach\u00e8te votre ancien mat\u00e9riel.",
+      "G\u00e9rer mes cookies",
+      "Edit"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Rechercher"
+          }
+        ]
+      }
+    ],
+    "links_count": 250,
+    "images_count": 61,
+    "images_with_alt": 33,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "\u00c0 partir de 7\u20ac/mois*"
+      },
+      {
+        "level": 2,
+        "text": "Pour prolonger votre aventure"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Connaissez-vous le service de location ?"
+      },
+      {
+        "level": 3,
+        "text": "Toutes nos solutions de r\u00e9paration"
+      },
+      {
+        "level": 3,
+        "text": "On rach\u00e8te votre ancien mat\u00e9riel."
+      },
+      {
+        "level": 3,
+        "text": "Notre entreprise"
+      },
+      {
+        "level": 3,
+        "text": "Besoin d'aide ?"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Rechercher"
+      }
+    ],
+    "footer_links": [
+      "Livraison offerteEn magasin et point relais (1) (2",
+      "Retrait offert 1hen magasin (1)",
+      "Retours & \u00e9changesofferts 365 jours (1)",
+      "Service client\u00e0 votre \u00e9coute",
+      "T\u00e9l\u00e9chargez notre application",
+      "Compte fid\u00e9lit\u00e9",
+      "Qui sommes-nous ?",
+      "Nos magasins",
+      "Recrutement",
+      "Presse et actualit\u00e9",
+      "La vie de nos produits",
+      "Engagements durables",
+      "Fondation Decathlon",
+      "Decathlon Pulse",
+      "Decathlon Lab",
+      "Modes de livraison"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 77,
+    "has_og_tags": false,
+    "meta_description": "Plus de 70 sports en magasin et en ligne. Livraison offerte sur certains achats en ligne et sur l'application. Click & Collect gratuit en magasin.\u2026",
+    "scripts_count": 158
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "mega_menu",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Service de location",
+      "Solutions de r\u00e9paration",
+      "Rachat de mat\u00e9riel ancien"
+    ],
+    "confidence": "high"
+  }
+}

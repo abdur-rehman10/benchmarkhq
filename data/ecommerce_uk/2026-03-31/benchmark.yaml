@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_uk
+  name: E-commerce UK
+  country: United Kingdom
+  currency: GBP
+  language: en
+  version: 1.0.0
+  generated_at: '2026-03-31T21:59:00.176513'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - amazon_uk
+  - ebay_uk
+  - argos
+  - tesco
+  - asos
+  - john_lewis
+  - currys
+  - marks_spencer
+  - next
+  - sainsburys
+  - ikea_uk
+  - boots
+  - screwfix
+  - bandq
+  - very
+  - ao
+  - sports_direct
+  - dunelm
+  - wayfair_uk
+  - holland_barrett
+  - decathlon_uk
+  - ocado
+  - boohoo
+  - nike_uk
+  - samsung_uk
+  - apple_uk
+  - temu_uk
+  - shein_uk
+  - handm_uk
+  - zara_uk
+features:
+  critical:
+  - id: product_search
+    frequency: 18/18
+    percent: 100
+  - id: search_autocomplete
+    frequency: 12/18
+    percent: 100
+  - id: search_filters
+    frequency: 12/18
+    percent: 100
+  - id: category_browsing
+    frequency: 18/18
+    percent: 100
+  - id: login_signup
+    frequency: 17/18
+    percent: 100
+  - id: guest_checkout
+    frequency: 15/18
+    percent: 100
+  - id: product_images
+    frequency: 18/18
+    percent: 100
+  - id: product_descriptions
+    frequency: 17/18
+    percent: 100
+  - id: price_display
+    frequency: 18/18
+    percent: 100
+  - id: stock_availability
+    frequency: 14/18
+    percent: 100
+  - id: related_products
+    frequency: 13/18
+    percent: 100
+  - id: shopping_cart
+    frequency: 17/18
+    percent: 100
+  - id: add_to_cart
+    frequency: 17/18
+    percent: 100
+  - id: promo_code
+    frequency: 13/18
+    percent: 100
+  - id: multiple_payment
+    frequency: 14/18
+    percent: 100
+  - id: shipping_info
+    frequency: 17/18
+    percent: 100
+  - id: estimated_delivery
+    frequency: 12/18
+    percent: 100
+  - id: star_ratings
+    frequency: 14/18
+    percent: 100
+  - id: customer_reviews
+    frequency: 15/18
+    percent: 100
+  - id: wishlist
+    frequency: 14/18
+    percent: 100
+  - id: recently_viewed
+    frequency: 12/18
+    percent: 100
+  - id: personalized_recommendations
+    frequency: 13/18
+    percent: 100
+  - id: order_tracking
+    frequency: 15/18
+    percent: 100
+  - id: order_history
+    frequency: 15/18
+    percent: 100
+  - id: return_refund_info
+    frequency: 17/18
+    percent: 100
+  - id: help_center
+    frequency: 17/18
+    percent: 100
+  - id: contact_form
+    frequency: 16/18
+    percent: 100
+  - id: phone_support
+    frequency: 13/18
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 18/18
+    percent: 100
+  - id: language_attribute
+    frequency: 18/18
+    percent: 100
+  - id: privacy_policy
+    frequency: 14/18
+    percent: 100
+  - id: cookie_consent
+    frequency: 15/18
+    percent: 100
+  - id: terms_of_service
+    frequency: 14/18
+    percent: 100
+  - id: responsive_design
+    frequency: 18/18
+    percent: 100
+  - id: sticky_header
+    frequency: 12/18
+    percent: 100
+  - id: breadcrumb_navigation
+    frequency: 12/18
+    percent: 100
+  - id: footer_with_links
+    frequency: 17/18
+    percent: 94
+  - id: hero_section
+    frequency: 13/18
+    percent: 93
+  - id: trending_items
+    frequency: 13/18
+    percent: 87
+  required:
+  - id: size_variant_selector
+    frequency: 9/18
+    percent: 69
+  - id: review_photos
+    frequency: 8/18
+    percent: 67
+  - id: live_chat
+    frequency: 8/18
+    percent: 67
+  recommended:
+  - id: social_login
+    frequency: 6/18
+    percent: 50
+  - id: push_notifications
+    frequency: 6/18
+    percent: 50
+  - id: skeleton_loading
+    frequency: 5/18
+    percent: 42
+  nice_to_have: []
+  innovative: []

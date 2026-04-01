@@ -1,0 +1,221 @@
+{
+  "name": "carrefour_ar",
+  "url": "https://www.carrefour.com.ar",
+  "scanned_at": "2026-03-31T22:02:27.019625",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/carrefour_ar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/carrefour_ar_mobile.png"
+  },
+  "structure": {
+    "title": "Carrefour - Las mejores ofertas en supermercados",
+    "url_final": "https://www.carrefour.com.ar/",
+    "nav_items": [],
+    "buttons": [
+      "ELEG\u00cd TU M\u00c9TODO DE ENTREGA",
+      "Disponibilidad de entrega",
+      "Categor\u00edas",
+      "Carrito",
+      "Promociones Online",
+      "Aceptar todo",
+      "Informaci\u00f3n de las cookies\u200e",
+      "Informaci\u00f3n de las cookies\u200e",
+      "Informaci\u00f3n de las cookies\u200e",
+      "Informaci\u00f3n de las cookies\u200e",
+      "Informaci\u00f3n de las cookies\u200e",
+      "Lista de proveedores IAB\u200e",
+      "Lista de proveedores IAB\u200e"
+    ],
+    "forms": [],
+    "links_count": 39,
+    "images_count": 15,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Acerca de tu privacidad"
+      },
+      {
+        "level": 3,
+        "text": "Gestionar las preferencias de consentimiento"
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Nos preocupamos por tu privacidad"
+      },
+      {
+        "level": 3,
+        "text": "Tanto nosotros como nuestros asociados tratamos los datos para proporcionar:"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Busc\u00e1 de todo en Carrefour"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0005",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0052",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0051",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-IABV2_1",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-STACK1",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-STACK42",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 80,
+    "has_og_tags": true,
+    "meta_description": "Compr\u00e1 online con las mejores ofertas, promociones y descuentos en supermercados todas las semanas. Env\u00edos a domicilio dentro de las 24 horas.",
+    "scripts_count": 97
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_unique_features": [
+      "ELEG\u00cd TU M\u00c9TODO DE ENTREGA"
+    ],
+    "confidence": "medium"
+  }
+}

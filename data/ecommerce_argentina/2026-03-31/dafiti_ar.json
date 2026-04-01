@@ -1,0 +1,221 @@
+{
+  "name": "dafiti_ar",
+  "url": "https://www.dafiti.com.ar",
+  "scanned_at": "2026-03-31T22:04:09.022777",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/dafiti_ar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/dafiti_ar_mobile.png"
+  },
+  "structure": {
+    "title": "Dafiti | Tu sitio web de moda",
+    "url_final": "https://dafiti.com.ar/",
+    "nav_items": [
+      {
+        "text": "Aviso Legal",
+        "href": "https://dafiti.com.ar/aviso-legal/"
+      },
+      {
+        "text": "Contacto",
+        "href": "https://dafiti.com.ar/contacto/"
+      },
+      {
+        "text": "Personalizar Cookies",
+        "href": "https://dafiti.com.ar/personalizar-cookies/"
+      },
+      {
+        "text": "Pol\u00edtica de Cookies",
+        "href": "https://dafiti.com.ar/politica-de-cookies/"
+      },
+      {
+        "text": "Pol\u00edtica de Privacidad",
+        "href": "https://dafiti.com.ar/politica-de-privacidad/"
+      },
+      {
+        "text": "Sobre nosotros",
+        "href": "https://dafiti.com.ar/sobre-mi/"
+      }
+    ],
+    "buttons": [
+      "Rechazar",
+      "Aceptar",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s",
+      "Leer m\u00e1s"
+    ],
+    "forms": [
+      {
+        "action": "https://dafiti.com.ar/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "s",
+            "placeholder": "Buscar \u2026"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://dafiti.com.ar/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "s",
+            "placeholder": "Buscar \u2026"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 203,
+    "images_count": 0,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dafiti"
+      },
+      {
+        "level": 2,
+        "text": "Qu\u00e9 hacer si un pantal\u00f3n te queda grande: soluciones pr\u00e1cticas y consejos"
+      },
+      {
+        "level": 2,
+        "text": "C\u00f3mo pasar talla de zapatos de manera efectiva y sin complicaciones"
+      },
+      {
+        "level": 2,
+        "text": "Cu\u00e1les son los zapatos mocasines: gu\u00eda completa y estilos recomendados"
+      },
+      {
+        "level": 2,
+        "text": "Beneficios de poner sal en los zapatos: \u00bfPor qu\u00e9 deber\u00edas intentarlo?"
+      },
+      {
+        "level": 2,
+        "text": "Zapatos ideales para combinar con pantalones chinos para hombre"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "s",
+        "placeholder": "Buscar \u2026"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "s",
+        "placeholder": "Buscar \u2026"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Pol\u00edtica de Privacidad",
+      "Aviso Legal",
+      "Pol\u00edtica de Cookies",
+      "Funciona gracias a WordPress",
+      "Candid Themes"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "\u27a4 \u261d ... \u27a4",
+    "scripts_count": 9
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "U",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Comprehensive fashion advice articles"
+    ],
+    "confidence": "medium"
+  }
+}

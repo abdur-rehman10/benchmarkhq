@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_spain
+  name: E-commerce Spain
+  country: Spain
+  currency: EUR
+  language: es
+  version: 1.0.0
+  generated_at: '2026-04-01T00:15:05.017909'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - amazon_spain
+  - el_corte_ingles
+  - zara_spain
+  - pccomponentes
+  - carrefour_spain
+  - mediamarkt_spain
+  - decathlon_spain
+  - leroy_merlin_es
+  - zalando_spain
+  - ikea_spain
+  - mango
+  - mercadona
+  - fnac_spain
+  - handm_spain
+  - nike_spain
+  - adidas_spain
+  - sprinter
+  - sephora_spain
+  - massimo_dutti
+  - pull_bear
+  - bershka
+  - temu_spain
+  - shein_spain
+  - samsung_spain
+  - apple_spain
+  - wallapop
+  - aliexpress_es
+  - conforama_spain
+  - worten
+  - lidl_spain
+features:
+  critical:
+  - id: product_search
+    frequency: 13/13
+    percent: 100
+  - id: category_browsing
+    frequency: 13/13
+    percent: 100
+  - id: login_signup
+    frequency: 11/13
+    percent: 100
+  - id: product_images
+    frequency: 13/13
+    percent: 100
+  - id: product_descriptions
+    frequency: 11/13
+    percent: 100
+  - id: price_display
+    frequency: 12/13
+    percent: 100
+  - id: stock_availability
+    frequency: 11/13
+    percent: 100
+  - id: multiple_payment
+    frequency: 11/13
+    percent: 100
+  - id: shipping_info
+    frequency: 12/13
+    percent: 100
+  - id: order_tracking
+    frequency: 11/13
+    percent: 100
+  - id: order_history
+    frequency: 11/13
+    percent: 100
+  - id: return_refund_info
+    frequency: 12/13
+    percent: 100
+  - id: help_center
+    frequency: 11/13
+    percent: 100
+  - id: contact_form
+    frequency: 12/13
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 13/13
+    percent: 100
+  - id: language_attribute
+    frequency: 13/13
+    percent: 100
+  - id: privacy_policy
+    frequency: 12/13
+    percent: 100
+  - id: cookie_consent
+    frequency: 13/13
+    percent: 100
+  - id: terms_of_service
+    frequency: 12/13
+    percent: 100
+  - id: responsive_design
+    frequency: 12/13
+    percent: 100
+  - id: footer_with_links
+    frequency: 12/13
+    percent: 100
+  - id: shopping_cart
+    frequency: 12/13
+    percent: 92
+  - id: add_to_cart
+    frequency: 11/13
+    percent: 92
+  - id: guest_checkout
+    frequency: 10/13
+    percent: 91
+  - id: estimated_delivery
+    frequency: 10/13
+    percent: 91
+  - id: phone_support
+    frequency: 10/13
+    percent: 91
+  required:
+  - id: search_filters
+    frequency: 9/13
+    percent: 82
+  - id: related_products
+    frequency: 9/13
+    percent: 82
+  - id: star_ratings
+    frequency: 9/13
+    percent: 82
+  - id: customer_reviews
+    frequency: 9/13
+    percent: 82
+  - id: wishlist
+    frequency: 9/13
+    percent: 82
+  - id: hero_section
+    frequency: 9/13
+    percent: 82
+  - id: search_autocomplete
+    frequency: 8/13
+    percent: 80
+  - id: personalized_recommendations
+    frequency: 8/13
+    percent: 80
+  - id: promo_code
+    frequency: 8/13
+    percent: 73
+  - id: breadcrumb_navigation
+    frequency: 8/13
+    percent: 73
+  - id: recently_viewed
+    frequency: 7/13
+    percent: 70
+  - id: sticky_header
+    frequency: 7/13
+    percent: 70
+  recommended:
+  - id: size_variant_selector
+    frequency: 7/13
+    percent: 64
+  - id: trending_items
+    frequency: 6/13
+    percent: 60
+  - id: social_login
+    frequency: 6/13
+    percent: 60
+  - id: review_photos
+    frequency: 6/13
+    percent: 60
+  - id: push_notifications
+    frequency: 6/13
+    percent: 60
+  - id: live_chat
+    frequency: 5/13
+    percent: 50
+  - id: skeleton_loading
+    frequency: 4/13
+    percent: 40
+  nice_to_have: []
+  innovative: []

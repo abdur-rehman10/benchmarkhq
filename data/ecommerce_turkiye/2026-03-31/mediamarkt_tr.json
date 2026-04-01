@@ -1,0 +1,215 @@
+{
+  "name": "mediamarkt_tr",
+  "url": "https://www.mediamarkt.com.tr",
+  "scanned_at": "2026-03-31T22:56:09.607048",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/mediamarkt_tr_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/mediamarkt_tr_mobile.png"
+  },
+  "structure": {
+    "title": "MediaMarkt - Avrupa'n\u0131n 1 Numaral\u0131 Elektronik Perakendecisi | MediaMarkt",
+    "url_final": "https://www.mediamarkt.com.tr/",
+    "nav_items": [
+      {
+        "text": "Telefon",
+        "href": "/tr/category/telefon-465595.html"
+      },
+      {
+        "text": "Bilgisayar",
+        "href": "/tr/category/bilgisayar-504925.html"
+      },
+      {
+        "text": "Beyaz E\u015fya",
+        "href": "/tr/category/beyaz-esya-465707.html"
+      },
+      {
+        "text": "Ev Aletleri & Ya\u015fam",
+        "href": "/tr/category/ev-aletleri-yasam-465737.html"
+      },
+      {
+        "text": "Ki\u015fisel Bak\u0131m",
+        "href": "/tr/category/kisisel-bakim-465820.html"
+      },
+      {
+        "text": "TV, G\u00f6r\u00fcnt\u00fc ve Ses",
+        "href": "/tr/category/tv-goruntu-ve-ses-678536.html"
+      },
+      {
+        "text": "Kampanyalar",
+        "href": "/tr/campaign/kampanyalar"
+      },
+      {
+        "text": "MediaMarkt CLUB",
+        "href": "/tr/myaccount/loyalty-benefits"
+      },
+      {
+        "text": "M\u00fc\u015fteri Hizmetleri",
+        "href": "/tr/specials/musteri-hizmetleri"
+      },
+      {
+        "text": "Sigorta ve Art\u0131 Hizmetler",
+        "href": "/tr/service/hizmetler"
+      },
+      {
+        "text": "Markalar\u0131m\u0131z",
+        "href": "/tr/specials/markalarimiz"
+      },
+      {
+        "text": "Kurumsal Sat\u0131\u015f",
+        "href": "/tr/specials/kurumsal-satis"
+      }
+    ],
+    "buttons": [
+      "T\u00fcm kategoriler",
+      "Ma\u011fazalar\u0131m\u0131zSe\u00e7ilmi\u015f ma\u011fazan\u0131z yok",
+      "Men\u00fc",
+      "Daha fazla bilgi",
+      "Kabul et",
+      "Pop\u00fcler Kategoriler",
+      "Pop\u00fcler \u00dcr\u00fcnler",
+      "Pop\u00fcler Markalar",
+      "\u00d6zel Sayfalar",
+      "G\u00fcvenli Al\u0131\u015fveri\u015f",
+      "Ki\u015fisel Verilerin Korunmas\u0131 ve Gizlili\u011fi",
+      "Kurumsal",
+      "MediaMarkt Pazaryeri",
+      "Gizlilik Ayarlar\u0131",
+      "Reddet",
+      "Ayarlar",
+      "Kabul et"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 640,
+    "images_count": 56,
+    "images_with_alt": 27,
+    "headings": [
+      {
+        "level": 1,
+        "text": "h1"
+      },
+      {
+        "level": 2,
+        "text": "Hizmetlerimiz"
+      },
+      {
+        "level": 3,
+        "text": "Geceye \u00d6zel!"
+      },
+      {
+        "level": 3,
+        "text": "Se\u00e7ili \u00fcr\u00fcnlerde ge\u00e7erli sepette indirim"
+      },
+      {
+        "level": 3,
+        "text": "\u015eimdi Sat\u0131\u015fta!"
+      },
+      {
+        "level": 3,
+        "text": "Hareket senden teknolojisi bizden!"
+      },
+      {
+        "level": 3,
+        "text": "Tarif sende, k\u00fc\u00e7\u00fck ev aletleri bizde!"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "0850 222 1 500",
+      "musterihizmetleri@mediamarkt.com.tr",
+      "\u0130leti\u015fim Formu",
+      "Cep Telefonlar\u0131",
+      "Ak\u0131ll\u0131 Saatler",
+      "Tabletler",
+      "Laptop",
+      "Televizyon",
+      "Robot S\u00fcp\u00fcrgeler",
+      "Beyaz E\u015fyalar",
+      "\u00c7ama\u015f\u0131r Makineleri",
+      "Bula\u015f\u0131k Makineleri",
+      "Buzdolab\u0131",
+      "Dikey S\u00fcp\u00fcrgeler"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 300,
+    "has_og_tags": true,
+    "meta_description": "MediaMarkt, televizyondan diz\u00fcst\u00fc bilgisayarlara, dijital foto\u011fraf makinelerinden oyun konsollar\u0131na, 50.000 \u00e7e\u015fide varan geni\u015f \u00fcr\u00fcn yelpazesine sahiptir.",
+    "scripts_count": 37
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "MediaMarkt CLUB loyalty program",
+      "Corporate sales section"
+    ],
+    "confidence": "medium"
+  }
+}

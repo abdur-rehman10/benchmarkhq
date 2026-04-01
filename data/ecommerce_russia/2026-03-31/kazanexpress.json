@@ -1,0 +1,121 @@
+{
+  "name": "kazanexpress",
+  "url": "https://kazanexpress.ru",
+  "scanned_at": "2026-03-31T22:18:40.890350",
+  "screenshots": {
+    "desktop": "data/ecommerce_russia/2026-03-31/screenshots/kazanexpress_desktop.png",
+    "mobile": "data/ecommerce_russia/2026-03-31/screenshots/kazanexpress_mobile.png"
+  },
+  "structure": {
+    "title": "\u041c\u0430\u0433\u043d\u0438\u0442 \u041c\u0430\u0440\u043a\u0435\u0442 \u2014 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439",
+    "url_final": "https://mm.ru/",
+    "nav_items": [],
+    "buttons": [
+      "\u0412\u043e\u0439\u0442\u0438",
+      "\u0418\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+      "\u041a\u043e\u0440\u0437\u0438\u043d\u0430",
+      "\u041a\u0430\u0437\u0430\u043d\u044c",
+      "\u041a\u0430\u0442\u0430\u043b\u043e\u0433",
+      "\u0412\u043e\u0439\u0442\u0438",
+      "\u0418\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+      "\u041a\u043e\u0440\u0437\u0438\u043d\u0430",
+      "\u041a\u0430\u0437\u0430\u043d\u044c\u042d\u0442\u043e \u0432\u0430\u0448 \u0433\u043e\u0440\u043e\u0434?\u0414\u0430, \u043c\u043e\u0439\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0439",
+      "\u0414\u0430, \u043c\u043e\u0439",
+      "\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0439",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "\u0417\u0430\u0432\u0442\u0440\u0430"
+    ],
+    "forms": [],
+    "links_count": 87,
+    "images_count": 45,
+    "images_with_alt": 44,
+    "headings": [
+      {
+        "level": 2,
+        "text": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u0418\u0441\u043a\u0430\u0442\u044c \u0442\u043e\u0432\u0430\u0440\u044b"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u0418\u0441\u043a\u0430\u0442\u044c \u0442\u043e\u0432\u0430\u0440\u044b"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": true,
+    "meta_description": "\u041c\u0438\u043b\u043b\u0438\u043e\u043d\u044b \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u043f\u043e \u043d\u0438\u0437\u043a\u0438\u043c \u0446\u0435\u043d\u0430\u043c \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u2014 \u041c\u0430\u0433\u043d\u0438\u0442 \u041c\u0430\u0440\u043a\u0435\u0442 \u2014 \u0412\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u043f\u043e\u043a\u0443\u043f\u043a\u0438!",
+    "scripts_count": 11
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "Y",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "U",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_unique_features": [
+      "free_delivery"
+    ],
+    "confidence": "medium"
+  }
+}

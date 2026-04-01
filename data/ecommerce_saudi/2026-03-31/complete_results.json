@@ -1,0 +1,5091 @@
+[
+  {
+    "name": "noon_saudi",
+    "url": "https://www.noon.com/saudi-en/",
+    "scanned_at": "2026-03-31T23:03:24.307323",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.noon.com/saudi-en/\nCall log:\n  - navigating to \"https://www.noon.com/saudi-en/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.noon.com/saudi-en/\nCall log:\n  - navigating to \"https://www.noon.com/saudi-en/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "amazon_saudi",
+    "url": "https://www.amazon.sa",
+    "scanned_at": "2026-03-31T23:03:32.764192",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/amazon_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/amazon_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "\u0623\u0645\u0627\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629: \u062a\u0633\u0648\u0642 \u0623\u0648\u0646\u0644\u0627\u064a\u0646 | \u0623\u0633\u0639\u0627\u0631 \u0645\u062e\u0641\u0636\u0629 \u0639\u0644\u0649 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a\u060c \u0627\u0644\u0623\u0632\u064a\u0627\u0621\u060c \u0627\u0644\u062c\u0648\u0627\u0644\u0627\u062a\u060c \u0627\u0644\u0628\u0642\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0632\u064a\u062f",
+      "url_final": "https://www.amazon.sa/",
+      "nav_items": [
+        {
+          "text": "\u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0631\u0626\u064a\u0633\u064a",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "\u0628\u062d\u062bopt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u0639\u0631\u0628\u0629 \u0627\u0644\u062a\u0633\u0648\u0642shift+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629shift+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u0627\u0637\u0644\u0628\u0627\u062ashift+opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "\u0625\u0638\u0647\u0627\u0631/\u0625\u062e\u0641\u0627\u0621 \u0627\u0644\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062ashift+opt+Z",
+        "\u0627\u0644\u0631\u062c\u0648\u0639 \u0644\u0644\u0623\u0639\u0644\u0649",
+        "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644",
+        "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      ],
+      "forms": [
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "\u0627\u0628\u062d\u062b \u0641\u064a \u0627\u0645\u0627\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 294,
+      "images_count": 179,
+      "images_with_alt": 175,
+      "headings": [
+        {
+          "level": 2,
+          "text": "\u062a\u062e\u0637\u0649 \u0625\u0644\u0649"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062a \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0641\u0627\u062a\u064a\u062d"
+        },
+        {
+          "level": 2,
+          "text": "\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 | \u062e\u0635\u0645 10% - 40%"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0644\u0623\u0644\u0639\u0627\u0628 | \u062e\u0635\u0645 10% - 40%"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0644\u062c\u0645\u0627\u0644  | \u062e\u0635\u0645 \u062d\u062a\u0649 50%"
+        },
+        {
+          "level": 3,
+          "text": "\u062d\u064a\u0627\u0643 \u0641\u064a \u0623\u0645\u0627\u0632\u0648\u0646 | \u0639\u0631\u0648\u0636 \u0645\u0646 \u0627\u0644\u0622\u062e\u0631!"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "\u0627\u0628\u062d\u062b \u0641\u064a \u0627\u0645\u0627\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ue_back",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 142,
+      "has_og_tags": false,
+      "meta_description": "\u062c\u0645\u064a\u0639 \u0627\u062d\u062a\u064a\u0627\u062c\u0627\u062a\u0643 \u0645\u062a\u0648\u0641\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0623\u0645\u0627\u0632\u0648\u0646\u060c \u0648\u062c\u0647\u062a\u0643 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0644\u062a\u0633\u0648\u0642 \u0623\u0648\u0646\u0644\u0627\u064a\u0646 \u0641\u0649 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u062c\u062f\u0629 \u0648\u062c\u0645\u064a\u0639 \u0645\u062f\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629. \u0627\u0633\u062a\u0645\u062a\u0639 \u0628\u0623\u0642\u0648\u0649 \u0627\u0644\u0639\u0631\u0648\u0636\u060c \u0623\u0633\u0639\u0627\u0631 \u0645\u0646\u062e\u0641\u0636\u0629\u060c \u0627\u0644\u062f\u0641\u0639 \u0639\u0646\u062f \u0627\u0644\u0627\u0633\u062a\u0644\u0627\u0645\u060c \u0634\u062d\u0646 \u0633\u0631\u064a\u0639 \u0648\u0627\u0633\u062a\u0631\u062c\u0627\u0639 \u0633\u0647\u0644. \u0627\u0634\u062a\u0631\u0643 \u0641\u0649 \u0628\u0631\u0627\u064a\u0645 \u0648\u0627\u062d\u0635\u0644",
+      "scripts_count": 122
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Localized content for Saudi Arabia",
+        "Arabic language support",
+        "Region-specific promotions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "jarir",
+    "url": "https://www.jarir.com",
+    "scanned_at": "2026-03-31T23:03:51.919171",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/jarir_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/jarir_mobile.png"
+    },
+    "structure": {
+      "title": "\u0645\u0643\u062a\u0628\u0629 \u062c\u0631\u064a\u0631\u060c \u0644\u064a\u0633\u062a \u0645\u062c\u0631\u062f \u0645\u0643\u062a\u0628\u0629 | \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+      "url_final": "https://www.jarir.com/",
+      "nav_items": [
+        {
+          "text": "\u0627\u062f\u062e\u0644 \u0644\u062d\u0633\u0627\u0628\u0643 \u0623\u0648 \u0633\u062c\u0644 \u0627\u0644\u0622\u0646",
+          "href": "/login"
+        },
+        {
+          "text": "\u0645\u0631\u062d\u0628\u0627\u060c",
+          "href": "/my-account/dashboard"
+        },
+        {
+          "text": "\u062d\u0633\u0627\u0628\u064a",
+          "href": "/my-account/dashboard"
+        },
+        {
+          "text": "\u0627\u0644\u0645\u0641\u0636\u0644\u06290",
+          "href": "/login"
+        },
+        {
+          "text": "\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0627\u0648\u0646\u0644\u0627\u064a\u0646",
+          "href": ""
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0627\u062a \u062c\u0631\u064a\u0631",
+          "href": "/"
+        },
+        {
+          "text": "\u062a\u0642\u0633\u064a\u0637 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a",
+          "href": "https://www.jarir.com/installment-service-methods"
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0629 \u0627\u0633\u062a\u0628\u062f\u0627\u0644 \u0627\u0644\u0623\u062c\u0647\u0632\u0629",
+          "href": "https://www.jarir.com/trade-in"
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0629 \u062d\u0645\u0627\u064a\u0629 \u062c\u0631\u064a\u0631",
+          "href": ""
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0629 \u062a\u0645\u062f\u064a\u062f \u0627\u0644\u0636\u0645\u0627\u0646",
+          "href": ""
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0629 \u0645\u0627 \u0628\u0639\u062f \u0627\u0644\u0628\u064a\u0639",
+          "href": "https://www.jarir.com/service-order"
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0629 \u062a\u0631\u0643\u064a\u0628 \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0641\u064a \u0627\u0644\u0645\u0646\u0632\u0644",
+          "href": ""
+        },
+        {
+          "text": "\u0645\u0631\u0643\u0632 \u0635\u064a\u0627\u0646\u0629 \u0627\u0628\u0644",
+          "href": ""
+        },
+        {
+          "text": "\u0645\u0631\u0643\u0632 \u0635\u064a\u0627\u0646\u0629 \u0633\u0627\u0645\u0633\u0648\u0646\u062c",
+          "href": ""
+        },
+        {
+          "text": "\u062a\u0633\u0648\u0642 \u0645\u0639\u0641\u0649 \u0645\u0646 \u0627\u0644\u0636\u0631\u064a\u0628\u0629",
+          "href": ""
+        },
+        {
+          "text": "\u0628\u0637\u0627\u0642\u0629 \u062e\u0635\u0645 \u062c\u0631\u064a\u0631",
+          "href": ""
+        },
+        {
+          "text": "\u0628\u0637\u0627\u0642\u0629 \u062c\u0631\u064a\u0631 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629 \u0644\u0644\u0647\u062f\u0627\u064a\u0627",
+          "href": ""
+        },
+        {
+          "text": "\u0634\u0631\u0643\u0627\u0621 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0645\u0643\u0627\u0641\u0622\u062a",
+          "href": ""
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0627\u062a \u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0625\u062a\u0635\u0627\u0644\u0627\u062a",
+          "href": ""
+        },
+        {
+          "text": "\u0645\u0628\u064a\u0639\u0627\u062a \u0627\u0644\u0634\u0631\u0643\u0627\u062a",
+          "href": ""
+        }
+      ],
+      "buttons": [
+        "Saudi ArabiaEnglish",
+        "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u0639\u0631\u0628\u064a",
+        "KuwaitEnglish",
+        "\u0627\u0644\u0643\u0648\u064a\u062a\u0639\u0631\u0628\u064a",
+        "QatarEnglish",
+        "\u0642\u0637\u0631\u0639\u0631\u0628\u064a",
+        "BahrainEnglish",
+        "\u0627\u0644\u0628\u062d\u0631\u064a\u0646\u0639\u0631\u0628\u064a",
+        "UAEEnglish",
+        "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a\u0639\u0631\u0628\u064a",
+        "Other CountriesEnglish",
+        "\u062f\u0648\u0644 \u0623\u062e\u0631\u0649\u0639\u0631\u0628\u064a",
+        "Arrow Right",
+        "Arrow Left",
+        "Arrow Right",
+        "Arrow Left",
+        "Arrow Right",
+        "Arrow Left",
+        "\u0645\u0642\u0627\u0631\u0646\u0629",
+        "\u0627\u0644\u0645\u0641\u0636\u0644\u0629",
+        "\u0623\u0636\u0641 \u0625\u0644\u0649 \u0627\u0644\u0633\u0644\u0629",
+        "\u0645\u0642\u0627\u0631\u0646\u0629",
+        "\u0627\u0644\u0645\u0641\u0636\u0644\u0629",
+        "\u0623\u0636\u0641 \u0625\u0644\u0649 \u0627\u0644\u0633\u0644\u0629",
+        "\u0645\u0642\u0627\u0631\u0646\u0629",
+        "\u0627\u0644\u0645\u0641\u0636\u0644\u0629",
+        "\u0623\u0636\u0641 \u0625\u0644\u0649 \u0627\u0644\u0633\u0644\u0629"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "\u0642\u0645 \u0628\u0625\u062f\u062e\u0627\u0644 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a"
+            }
+          ]
+        }
+      ],
+      "links_count": 243,
+      "images_count": 584,
+      "images_with_alt": 238,
+      "headings": [
+        {
+          "level": 2,
+          "text": "\u062a\u0633\u0648\u0651\u0642 \u0628\u0627\u0644\u0623\u0642\u0633\u0627\u0645"
+        },
+        {
+          "level": 2,
+          "text": "\u0639\u0631\u0648\u0636 \u0627\u0644\u062a\u0635\u0641\u064a\u0629"
+        },
+        {
+          "level": 2,
+          "text": "\u062d\u0635\u0631\u064a\u0627\u064b \u0623\u0648\u0646\u0644\u0627\u064a\u0646"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0644\u0622\u0646 \u0641\u064a \u062c\u0631\u064a\u0631"
+        },
+        {
+          "level": 2,
+          "text": "\u062a\u0633\u0648\u0642 \u062d\u0633\u0628 \u0627\u0644\u0645\u0627\u0631\u0643\u0629"
+        },
+        {
+          "level": 3,
+          "text": "\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0639\u0645\u064a\u0644"
+        },
+        {
+          "level": 3,
+          "text": "\u0627\u0643\u062a\u0634\u0641 \u062c\u0631\u064a\u0631"
+        },
+        {
+          "level": 3,
+          "text": "\u062e\u062f\u0645\u0627\u062a \u062c\u0631\u064a\u0631"
+        },
+        {
+          "level": 3,
+          "text": "\u0639\u0646 \u062c\u0631\u064a\u0631"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "search",
+          "placeholder": "\u0627\u0644\u0628\u062d\u062b..."
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "\u0642\u0645 \u0628\u0625\u062f\u062e\u0627\u0644 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a"
+        }
+      ],
+      "footer_links": [
+        "\u0627\u0644\u0639\u0648\u062f\u0629 \u0625\u0644\u0649 \u0623\u0639\u0644\u0649 \u0627\u0644\u0635\u0641\u062d\u0629",
+        "\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0639\u0645\u064a\u0644",
+        "\u0627\u062a\u0635\u0644 \u0628\u0646\u0627",
+        "\u0623\u0633\u0626\u0644\u0629 \u0645\u0643\u0631\u0631\u0629",
+        "\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0636\u0645\u0627\u0646",
+        "\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0627\u0633\u062a\u0631\u062c\u0627\u0639 \u0648\u0627\u0644\u0627\u0633\u062a\u0628\u062f\u0627\u0644",
+        "\u0634\u0631\u0648\u0637 \u0627\u0644\u062e\u062f\u0645\u0629",
+        "\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629",
+        "\u0627\u0643\u062a\u0634\u0641 \u062c\u0631\u064a\u0631",
+        "\u062f\u0644\u064a\u0644 \u0627\u0644\u062a\u0633\u0648\u0642",
+        "\u0642\u0627\u0631\u0626 \u062c\u0631\u064a\u0631",
+        "\u0645\u0648\u0627\u0642\u0639\u0646\u0627"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 145,
+      "has_og_tags": false,
+      "meta_description": "\u062a\u0633\u0648\u0642 \u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0648\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631 \u0648\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0644\u0648\u062d\u064a\u0629 \u0648\u0627\u0644\u0637\u0627\u0628\u0639\u0627\u062a \u0648\u0627\u0644\u0645\u0627\u0633\u062d\u0627\u062a \u0627\u0644\u0636\u0648\u0626\u064a\u0629 \u0648\u0627\u0644\u0647\u0648\u0627\u062a\u0641 \u0627\u0644\u0630\u0643\u064a\u0629 \u0648\u0627\u0644\u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0630\u0643\u064a\u0629 \u0648\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646 \u0627\u0644\u0630\u0643\u064a\u0629 \u0648\u0645\u0646\u062a\u062c\u0627\u062a \u0627\u0644\u0645\u0646\u0632\u0644 \u0627\u0644\u0630\u0643\u064a \u0648\u0645\u0643\u0628\u0631\u0627\u062a \u0627\u0644\u0635\u0648\u062a \u0648\u0633\u0645\u0627\u0639\u0627\u062a \u0627\u0644",
+      "scripts_count": 96
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Installment purchase options",
+        "Device trade-in service",
+        "Tax-free shopping"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "extra_stores",
+    "url": "https://www.extrastores.com",
+    "scanned_at": "2026-03-31T23:04:11.381495",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/extra_stores_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/extra_stores_mobile.png"
+    },
+    "structure": {
+      "title": "\u062a\u0633\u0648\u0642 \u062c\u0648\u0627\u0644\u0627\u062a, \u0623\u062c\u0647\u0632\u0629 \u0645\u0646\u0632\u0644\u064a\u0629, \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u0627\u062a \u0648\u0627\u0644\u0645\u0632\u064a\u062f - \u0625\u0643\u0633\u062a\u0631\u0627",
+      "url_final": "https://www.extra.com/ar-sa/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/ar-sa/"
+        },
+        {
+          "text": "\u062d\u062a\u0649 \u0647\u0630\u0627 \u0639\u0646\u062f \u0627\u0643\u0633\u062a\u0631\u0627",
+          "href": "even-that-s-at-extra/cp/8099"
+        },
+        {
+          "text": "\u0627\u0644\u062c\u0648\u0627\u0644\u0627\u062a \u0648\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0644\u0648\u062d\u064a\u0629",
+          "href": "/ar-sa/mobiles-tablets/cp/2"
+        },
+        {
+          "text": "\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631",
+          "href": "/ar-sa/computer/cp/3"
+        },
+        {
+          "text": "\u0627\u0644\u0634\u0627\u0634\u0627\u062a \u0648\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062a\u0631\u0641\u064a\u0647",
+          "href": "/ar-sa/electronics/cp/1"
+        },
+        {
+          "text": "\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0643\u0628\u064a\u0631\u0629",
+          "href": "/ar-sa/white-goods/cp/4"
+        },
+        {
+          "text": "\u062f\u0641\u0627\u064a\u0627\u062a",
+          "href": "/ar-sa/small-appliances/home-environment-care/heaters/c/5-503-10/facet/?q=%3Arelevance%3AinStock%3At"
+        },
+        {
+          "text": "\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0645\u0646\u0632\u0644\u064a\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629",
+          "href": "/ar-sa/small-appliances/cp/5"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629 \u0648\u0627\u0644\u0635\u062d\u0629",
+          "href": "/ar-sa/small-appliances/personal-care/cp/5-504"
+        },
+        {
+          "text": "\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0641\u064a\u062f\u064a\u0648",
+          "href": "/ar-sa/electronic-games/cp/13"
+        },
+        {
+          "text": "\u0627\u0644\u0628\u0637\u0627\u0642\u0627\u062a \u0627\u0644\u0631\u0642\u0645\u064a\u0629",
+          "href": "/ar-sa/digital-cards/c/8015"
+        },
+        {
+          "text": "\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0645\u0646\u0632\u0644 \u0627\u0644\u0630\u0643\u064a\u0629 \u0648 \u0627\u0644\u0623\u062f\u0648\u0627\u062a",
+          "href": "/ar-sa/home-automation/cp/105"
+        },
+        {
+          "text": "\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u0645\u0646\u0632\u0644",
+          "href": "/ar-sa/accessories/cp/6"
+        },
+        {
+          "text": "\u0623\u0633\u0627\u0633\u064a\u0627\u062a \u062d\u0636\u0627\u0646\u0629 \u0627\u0644\u0623\u0637\u0641\u0627\u0644",
+          "href": "accessories/toys/baby-gears/c/6-704-25/facet/?q=%3Arelevance%3Atype%3APRODUCT&text=&pg=1&pageSize=24"
+        },
+        {
+          "text": "\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u0644\u064a\u0641\u0629",
+          "href": "/ar-sa/petzone/b/PETZONE"
+        },
+        {
+          "text": "\u0639\u0631\u0648\u0636 \u0622\u062e\u0631 \u0627\u0644\u0642\u0637\u0639",
+          "href": "/ar-sa/extra-outlet/cp/8019"
+        },
+        {
+          "text": "\u0627\u0633\u062a\u0628\u062f\u0644 \u0627\u0644\u0642\u062f\u064a\u0645 \u0628\u0627\u0644\u062c\u062f\u064a\u062f",
+          "href": "/ar-sa/trade-in"
+        },
+        {
+          "text": "\u0639\u0636\u0648\u064a\u0629 \u062c\u0648\u062f",
+          "href": "/ar-sa/jood/benefits"
+        },
+        {
+          "text": "\u0628\u0637\u0627\u0642\u0629 \u0647\u062f\u0627\u064a\u0627 \u0627\u0643\u0633\u062a\u0631\u0627",
+          "href": "/ar-sa/gift-card/default-value/extra-gift-card/extra-gift-card/p/100329342"
+        },
+        {
+          "text": "\u062e\u062f\u0645\u0627\u062a \u0627\u0643\u0633\u062a\u0631\u0627",
+          "href": "/ar-sa/extraservices"
+        }
+      ],
+      "buttons": [
+        "\u0627\u0646\u062a\u0642\u0644 \u0625\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0643\u0633\u062a\u0631\u0627 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "\u0627\u0644\u0639\u0648\u062f\u0629",
+        "\u0627\u0644\u0639\u0648\u062f\u0629",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0625\u063a\u0644\u0627\u0642"
+      ],
+      "forms": [
+        {
+          "action": "/ar-sa/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "textSearch",
+              "placeholder": "\u0627\u0628\u062d\u062b \u0641\u064a \u0627\u0643\u0633\u062a\u0631\u0627 "
+            }
+          ]
+        },
+        {
+          "action": "citySelectionForm",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/ar-sa/_s/language",
+          "method": "post",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "code",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "code",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/ar-sa/_s/country",
+          "method": "post",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "code",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "code",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "code",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "accesibility_refreshScreenReaderBufferField",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 986,
+      "images_count": 112,
+      "images_with_alt": 99,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u0627\u0643\u0633\u062a\u0631\u0627 \u0644\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "textSearch",
+          "placeholder": "\u0627\u0628\u062d\u062b \u0641\u064a \u0627\u0643\u0633\u062a\u0631\u0627 "
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "code",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "code",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "CSRFToken",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "code",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "code",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "code",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "CSRFToken",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "\u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0648 \u0627\u0644\u062f\u0639\u0645\u0625\u0633\u0623\u0644\u0646\u0627 \u0648\u0633\u0646\u062c\u064a\u0628 \u0639\u0646 \u0643\u0644 \u0627\u0633\u062a\u0641\u0633\u0627\u0631\u0627\u062a\u0643.",
+        "\u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0644\u0628\u062a\u062a\u0628\u0639 \u0637\u0644\u0628\u0643 \u062e\u0637\u0648\u0629 \u0628\u062e\u0637\u0648\u0629 \u0633\u0648\u0627\u0621 \u062a\u0648\u0635\u064a\u0644 \u0623\u0648 \u0627\u0633\u062a\u0644\u0627",
+        "\u0627\u0644\u0627\u0633\u062a\u0628\u062f\u0627\u0644 \u0648\u0627\u0644\u0627\u0633\u062a\u0631\u062c\u0627\u0639\u0627\u0633\u062a\u0645\u062a\u0639 \u0628\u062e\u062f\u0645\u0629 \u0648\u0627\u0636\u062d\u0629 \u0644\u0633\u064a\u0627\u0633\u0629 \u0627\u0633\u062a\u0628",
+        "\u0646\u0637\u0627\u0628\u0642 \u0623\u0642\u0644 \u0633\u0639\u0631\u0627\u0643\u062a\u0634\u0641 \u0645\u0646\u062a\u062c\u0627\u062a \u0643\u062b\u064a\u0631\u0629 \u0646\u0637\u0627\u0628\u0642 \u0639\u0644\u064a\u0647\u0627 \u0623\u0642\u0644 \u0633\u0639",
+        "\u0637\u0631\u0642 \u0627\u0644\u062f\u0641\u0639\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u0637\u0631\u0642 \u062f\u0641\u0639 \u0643\u062b\u064a\u0631\u0629 \u0644\u062a\u0633\u0647\u064a\u0644 \u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0634\u0631\u0627",
+        "\u0639\u0646 \u0627\u0644\u0634\u0631\u0643\u0629",
+        "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0634\u0631\u0643\u0629",
+        "\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0633\u0644\u0648\u0643 \u0627\u0644\u0645\u0647\u0646\u064a",
+        "\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062b\u0645\u0631\u064a\u0646",
+        "\u0645\u0628\u064a\u0639\u0627\u062a \u0627\u0644\u0634\u0631\u0643\u0627\u062a",
+        "\u0647\u064a\u0643\u0644 \u0627\u0644\u0645\u0644\u0643\u064a\u0629 \u0644\u0644\u0645\u062c\u0645\u0648\u0639\u0629",
+        "\u0627\u0644\u062e\u062f\u0645\u0627\u062a",
+        "\u062a\u062c\u0647\u064a\u0632 \u0627\u0643\u0633\u062a\u0631\u0627",
+        "\u0636\u0645\u0627\u0646 \u0627\u0643\u0633\u062a\u0631\u0627",
+        "\u062d\u0645\u0627\u064a\u0629 \u0627\u0643\u0633\u062a\u0631\u0627",
+        "\u0635\u064a\u0627\u0646\u0629 \u0627\u0643\u0633\u062a\u0631\u0627"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 67,
+      "has_og_tags": true,
+      "meta_description": "\u062a\u0635\u0641\u062d \u0623\u0641\u0636\u0644 \u0639\u0631\u0648\u0636 \u0627\u0643\u0633\u062a\u0631\u0627 \u0627\u0644\u064a\u0648\u0645. \u062a\u0634\u0643\u064a\u0644\u0629 \u0643\u0628\u064a\u0631\u0629 \u0645\u0646 \u0627\u0644\u0627\u062c\u0647\u0632\u0629 \u0627\u0644\u0645\u0646\u0632\u0644\u064a\u0629, \u062c\u0648\u0627\u0644\u0627\u062a, \u0643\u0627\u0645\u064a\u0631\u0627\u062a, \u0645\u0643\u064a\u0641\u0627\u062a, \u0627\u0644\u0639\u0627\u0628 \u0645\u0646 \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0627\u0631\u0643\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629. \u062a\u0633\u0648\u0642 \u0627\u0648\u0646\u0644\u0627\u064a\u0646 \u0622\u0645\u0646 \u0648\u062a\u0648\u0635\u064a\u0644 \u0633\u0631\u064a\u0639",
+      "scripts_count": 72
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "namshi",
+    "url": "https://www.namshi.com",
+    "scanned_at": "2026-03-31T23:04:35.831353",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.namshi.com/\nCall log:\n  - navigating to \"https://www.namshi.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.namshi.com/\nCall log:\n  - navigating to \"https://www.namshi.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "shein_saudi",
+    "url": "https://sa.shein.com",
+    "scanned_at": "2026-03-31T23:04:44.662939",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sa.shein.com/\nCall log:\n  - navigating to \"https://sa.shein.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sa.shein.com/\nCall log:\n  - navigating to \"https://sa.shein.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "frequent flash sales",
+        "mobile app integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_saudi",
+    "url": "https://www.temu.com/sa",
+    "scanned_at": "2026-03-31T23:04:53.996711",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/temu_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/temu_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "\u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0623\u0645\u0646\u064a",
+      "url_final": "https://www.temu.com/bgn_verification.html?verifyCode=DJ3Sbz8nIwMzfFn6ufeP7Qab671b3dc1c52da21&from=https%3A%2F%2Fwww.temu.com%2Fsa&refer_page_name=home&refer_page_id=10005_1774987495501_k6sk1z9mr8&refer_page_sn=10005&_x_sessn_id=wvos8xiy1r",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 5,
+      "images_with_alt": 5,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 2,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 34
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "competitive pricing",
+        "localized content for Saudi Arabia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_saudi",
+    "url": "https://www.ikea.com/sa/en/",
+    "scanned_at": "2026-03-31T23:05:13.899157",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/ikea_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/ikea_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Prepare your home with bedroom offers - IKEA",
+      "url_final": "https://www.ikea.com/sa/en/",
+      "nav_items": [
+        {
+          "text": "Products",
+          "href": "https://www.ikea.com/sa/en/cat/products-products/"
+        },
+        {
+          "text": "Rooms",
+          "href": "https://www.ikea.com/sa/en/rooms/"
+        },
+        {
+          "text": "Offers",
+          "href": "https://www.ikea.com/sa/en/offers/"
+        },
+        {
+          "text": "Design & ideas",
+          "href": "https://www.ikea.com/sa/en/ideas/"
+        },
+        {
+          "text": "Services",
+          "href": "https://www.ikea.com/sa/en/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Clear the search input field",
+        "Search IKEA products using a photo",
+        "Search",
+        "Online only exclusive offers",
+        "Weekly offer",
+        "New at IKEA",
+        "Last Chance",
+        "Price lowered"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/sa/en/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 336,
+      "images_count": 195,
+      "images_with_alt": 160,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to IKEA Saudi Arabia"
+        },
+        {
+          "level": 2,
+          "text": "Weekly offer on bedroom"
+        },
+        {
+          "level": 2,
+          "text": "IKEA Family offers up to 50%"
+        },
+        {
+          "level": 2,
+          "text": "Let your home come out and play with GREJSIMOJS collection"
+        },
+        {
+          "level": 2,
+          "text": "Smart picks, lower prices"
+        },
+        {
+          "level": 2,
+          "text": "Explore top seller by category"
+        },
+        {
+          "level": 3,
+          "text": "VIHALSBedside table"
+        },
+        {
+          "level": 3,
+          "text": "MALMChest of 6 drawers"
+        },
+        {
+          "level": 3,
+          "text": "Explore IKEA Family discounts"
+        },
+        {
+          "level": 3,
+          "text": "GREJSIMOJSPouffe with storage"
+        },
+        {
+          "level": 3,
+          "text": "GREJSIMOJSRug, high pile"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "What are you looking for?"
+        }
+      ],
+      "footer_links": [
+        "Join now or log in",
+        "Learn more",
+        "This is IKEA",
+        "Empowering Women",
+        "Work with us",
+        "Sustainable everyday",
+        "Climate and environment",
+        "Social impact",
+        "Life at home",
+        "About services",
+        "About shopping",
+        "Return policy",
+        "Contact us",
+        "Recalls",
+        "FAQ",
+        "Services booking",
+        "IKEA gift cards",
+        "Products & categories",
+        "Product guides",
+        "IKEA for Business"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 313,
+      "has_og_tags": true,
+      "meta_description": "Shop our bedroom furniture offers, including beds and mattresses, featuring the best in style, practicality, high quality, and modern designs ",
+      "scripts_count": 74
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "IKEA Family offers",
+        "GREJSIMOJS collection"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lulu_saudi",
+    "url": "https://www.luluhypermarket.com/en-sa/",
+    "scanned_at": "2026-03-31T23:05:32.529508",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/lulu_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/lulu_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Best Online Store for Groceries, Fresh foods ,Electronics & Mobiles with free delivery",
+      "url_final": "https://gcc.luluhypermarket.com/en-sa/",
+      "nav_items": [
+        {
+          "text": "Grocery",
+          "href": "/en-sa/grocery/"
+        },
+        {
+          "text": "Fresh Food",
+          "href": "/en-sa/fresh-food/"
+        },
+        {
+          "text": "Electronics",
+          "href": "/en-sa/electronics/"
+        },
+        {
+          "text": "Home & Living",
+          "href": "/en-sa/home-living/"
+        },
+        {
+          "text": "Deals",
+          "href": "/en-sa/deals/"
+        }
+      ],
+      "buttons": [
+        "Deliver Here",
+        "\u0639\u0631\u0628\u0649",
+        "0",
+        "Go to Cart",
+        "Back",
+        "\u0639\u0631\u0628\u0649",
+        "Categories"
+      ],
+      "forms": [],
+      "links_count": 48,
+      "images_count": 27,
+      "images_with_alt": 27,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Your Cart"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 9,
+      "has_og_tags": true,
+      "meta_description": "Get best offers for online Grocery, Fresh Foods, Electronics, Mobiles, &  Home Appliances.  \u2713 Free Delivery  \u2713  Secure Shopping  \u2713  Exclusive offers. Shop Now!",
+      "scripts_count": 98
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "free delivery on all products",
+        "bilingual support"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "nike_saudi",
+    "url": "https://www.nike.com/sa/",
+    "scanned_at": "2026-03-31T23:05:51.624685",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/nike_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/nike_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Nike KSA Official Website - Shop Shoes, Clothing & Accessories",
+      "url_final": "https://www.nike.sa/en/home/",
+      "nav_items": [
+        {
+          "text": "Learn More",
+          "href": "https://www.nike.sa/en/membership.html"
+        },
+        {
+          "text": "Join Us",
+          "href": "https://www.nike.sa/en/membership.html"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://www.nike.sa/en/login"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "Featured",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "Shop All New Arrivals",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "Bestseller",
+          "href": "https://www.nike.sa/en/trends/ksa-topsellers"
+        },
+        {
+          "text": "Y2K Sneakers",
+          "href": "https://www.nike.sa/en/trends/y2k-sneakers"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "https://www.nike.sa/en/gift-cards.html"
+        },
+        {
+          "text": "Jordan Brand x Brazil",
+          "href": "https://www.nike.sa/en/trends/jordan-project-6"
+        },
+        {
+          "text": "Highlights",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "Highlights",
+          "href": "https://www.nike.sa/en/trends/spring-season-2026"
+        },
+        {
+          "text": "Jordan: Day to Night",
+          "href": "https://www.nike.sa/en/trends/jordan/womens"
+        },
+        {
+          "text": "New in Football: Vini Jr",
+          "href": "https://www.nike.sa/en/trends/vini-junior"
+        },
+        {
+          "text": "New in Football: Mbappe PE",
+          "href": "https://www.nike.sa/en/trends/kylian-mbappe"
+        },
+        {
+          "text": "Home of Air Max",
+          "href": "https://www.nike.sa/en/air_max.html"
+        },
+        {
+          "text": "Trending",
+          "href": "https://www.nike.sa/en/trends/nike-topsellers"
+        },
+        {
+          "text": "Trending",
+          "href": "https://www.nike.sa/en/trends/nike-topsellers"
+        }
+      ],
+      "buttons": [
+        "\u00d7",
+        "All",
+        "Play Video",
+        "Play",
+        "Unmute",
+        "Seek to live, currently behind liveLIVE",
+        "Playback Rate",
+        "Chapters",
+        "Descriptions",
+        "Captions",
+        "Audio Track",
+        "Picture-in-Picture",
+        "Fullscreen",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "Watch",
+        "Play Video",
+        "Pause",
+        "Unmute",
+        "Seek to live, currently behind liveLIVE",
+        "Playback Rate",
+        "Chapters"
+      ],
+      "forms": [
+        {
+          "action": "/en/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Search"
+            },
+            {
+              "type": "hidden",
+              "name": "lang",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/on/demandware.store/Sites-Nike_SA-Site/en_KE/EmailSubscribe-Subscribe",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "email",
+              "name": "emailId",
+              "placeholder": "Email Address"
+            },
+            {
+              "type": "date",
+              "name": "birthdate",
+              "placeholder": "dd.mm.yyy"
+            },
+            {
+              "type": "text",
+              "name": "shoppingPreference",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 502,
+      "images_count": 29,
+      "images_with_alt": 9,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Nike KSA Official Website - Shop Shoes, Clothing & Accessories"
+        },
+        {
+          "level": 2,
+          "text": "Communication Preferences"
+        },
+        {
+          "level": 2,
+          "text": "Privacy Preference Center"
+        },
+        {
+          "level": 3,
+          "text": "Be the first to know"
+        },
+        {
+          "level": 3,
+          "text": "Manage Consent Preferences"
+        },
+        {
+          "level": 3,
+          "text": "Cookie List"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Search"
+        },
+        {
+          "type": "hidden",
+          "name": "lang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "initEvent",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "emailId",
+          "placeholder": "Email Address"
+        },
+        {
+          "type": "date",
+          "name": "birthdate",
+          "placeholder": "dd.mm.yyy"
+        },
+        {
+          "type": "radio",
+          "name": "marketingconsentRadioBtn",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "marketingconsentRadioBtn",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "channelPreferences",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "channelPreferences",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "channelPreferences",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0005",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Find a Store",
+        "sign up for email",
+        "Digital Gift Cards",
+        "get help",
+        "Order Status",
+        "Shipping and Delivery",
+        "Returns",
+        "Payment Options",
+        "Contact Us",
+        "about nike",
+        "Become a Member",
+        "News",
+        "Careers",
+        "Investors",
+        "Sustainability",
+        "nike apps",
+        "Nike Run Club",
+        "Nike Training Club"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 85,
+      "has_og_tags": true,
+      "meta_description": "Explore the official website of Nike in Saudi Arabia with their latest collection of sports shoes, sneakers, clothing, bags and more. Shop your athleisure collection today!",
+      "scripts_count": 54
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Jordan Brand x Brazil collection",
+        "Y2K Sneakers trend"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "adidas_saudi",
+    "url": "https://www.adidas.com.sa",
+    "scanned_at": "2026-03-31T23:06:14.681379",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/adidas_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/adidas_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "adidas",
+      "url_final": "https://www.adidas.com.sa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Unfortunately we are unable to give you access to our site at this time."
+        },
+        {
+          "level": 3,
+          "text": "What could have caused this?"
+        },
+        {
+          "level": 3,
+          "text": "How can I resolve this?"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "live_chat"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "handm_saudi",
+    "url": "https://www2.hm.com/en_sa/",
+    "scanned_at": "2026-03-31T23:06:33.919537",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/handm_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/handm_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/en_sa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "localized content for Saudi Arabia",
+        "Arabic language support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_saudi",
+    "url": "https://www.zara.com/sa/",
+    "scanned_at": "2026-03-31T23:06:53.283955",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/zara_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/zara_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/sa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product catalog",
+        "strong brand presence",
+        "localized content for Saudi Arabia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "centrepoint",
+    "url": "https://www.centrepointstores.com",
+    "scanned_at": "2026-03-31T23:07:14.986105",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/centrepoint_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/centrepoint_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.centrepointstores.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.centrepointstores.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.centrepointstores.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized content for Saudi Arabia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "max_fashion_sa",
+    "url": "https://www.maxfashion.com/sa/en/",
+    "scanned_at": "2026-03-31T23:07:33.831244",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/max_fashion_sa_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/max_fashion_sa_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.maxfashion.com/sa/en/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.maxfashion.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.maxfashion.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized content for Saudi Arabia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_saudi",
+    "url": "https://www.samsung.com/sa/",
+    "scanned_at": "2026-03-31T23:07:54.944582",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/samsung_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/samsung_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "\u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 | \u0627\u062c\u0647\u0632\u0629 \u0633\u0627\u0645\u0633\u0648\u0646\u062c: \u0647\u0648\u0627\u062a\u0641 \u0648\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a \u0648\u062a\u0644\u0641\u0632\u064a\u0648\u0646\u0627\u062a",
+      "url_final": "https://www.samsung.com/sa/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/sa/"
+        },
+        {
+          "text": "\u0633\u0644\u0629 \u0627\u0644\u062a\u0633\u0648\u0642\u0639\u062f\u062f \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a :0",
+          "href": "https://shop.samsung.com/sa/cart"
+        },
+        {
+          "text": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644",
+          "href": ""
+        },
+        {
+          "text": "\u0641\u062a\u062d \u0642\u0627\u0626\u0645\u062a\u064a",
+          "href": ""
+        },
+        {
+          "text": "\u062a\u0633\u0648\u0642 \u0627\u0644\u0622\u0646\u0627\u0633\u062a\u0643\u0634\u0641 \u0627\u0644\u0645\u062a\u062c\u0631",
+          "href": "/sa/offer/"
+        },
+        {
+          "text": "\u062a\u0633\u0648\u0642 \u0627\u0644\u0622\u0646",
+          "href": "/sa/offer/"
+        },
+        {
+          "text": "Galaxy S26 Ultra\u062c\u062f\u064a\u062f",
+          "href": "/sa/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/sa/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Z Flip7",
+          "href": "/sa/smartphones/galaxy-z-flip7/buy/"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "/sa/tablets/galaxy-tab-s11/buy/"
+        },
+        {
+          "text": "Galaxy Watch8",
+          "href": "/sa/watches/galaxy-watch/galaxy-watch8-44mm-silver-bluetooth-sm-l330nzsamea/buy/"
+        },
+        {
+          "text": "Galaxy Buds4 Pro\u062c\u062f\u064a\u062f",
+          "href": "/sa/audio-sound/galaxy-buds4-pro/buy/"
+        },
+        {
+          "text": "\u062a\u0644\u0641\u0632\u064a\u0648\u0646 Neo QLED",
+          "href": "/sa/tvs/qled-tv/qn900f-85-inch-neo-qled-8k-mini-led-smart-tv-qa85qn900fuxsa/"
+        },
+        {
+          "text": "\u062a\u0644\u0641\u0632\u064a\u0648\u0646 OLED",
+          "href": "/sa/tvs/oled-tv/s85f-77-inch-oled-4k-smart-tv-qa77s85faexsa/"
+        },
+        {
+          "text": "The Frame",
+          "href": "/sa/lifestyle-tvs/the-frame/ls03fw-65-inch-black-qa65ls03fwuxsa/"
+        },
+        {
+          "text": "\u0634\u0627\u0634\u0629 \u0623\u0644\u0639\u0627\u0628",
+          "href": "/sa/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg802smxue/"
+        },
+        {
+          "text": "\u062b\u0644\u0627\u062c\u0627\u062a",
+          "href": "/sa/refrigerators/side-by-side/refrigerator-sbs-rs90f-aod-fsr-653l-silver-rs80f65gdtza.html"
+        },
+        {
+          "text": "\u0627\u0644\u063a\u0633\u0627\u0644\u0627\u062a",
+          "href": "/sa/washers-and-dryers/washer-dryer-combo/wd90f27-front-loading-ai-home-ai-wash-plus-ultra-ai-ecobub"
+        },
+        {
+          "text": "\u0645\u0643\u0627\u0646\u0633 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629",
+          "href": "/sa/vacuum-cleaners/stick/vs9000rl-stick-more-advance-cleaning-performance-digital-inverter-motor-je"
+        },
+        {
+          "text": "\u0645\u0643\u064a\u0641\u0627\u062a \u0627\u0644\u0647\u0648\u0627\u0621",
+          "href": "/sa/air-conditioners/wall-mount/digital-inverter-4-way-ar24dsfzawk-mg/"
+        }
+      ],
+      "buttons": [
+        "Read More",
+        "close",
+        "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 / \u0639\u0631\u0628\u064a",
+        "Saudi Arabia / English",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "\u0645\u062a\u0627\u0628\u0639\u0629",
+        "\u0625\u063a\u0644\u0627\u0642",
+        "\u0628\u062d\u062b\u0628\u062d\u062b",
+        "Navigation",
+        "\u0631\u062c\u0648\u0639",
+        "\u0628\u062d\u062b",
+        "\u062a\u0633\u0648\u0642 \u0627\u0644\u0622\u0646",
+        "\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062c\u0648\u0627\u0644\u0629",
+        "\u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646\u0627\u062a \u0648\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u062a\u0631\u0641\u064a\u0647",
+        "\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0645\u0646\u0632\u0644\u064a\u0629",
+        "\u0634\u0627\u0634\u0627\u062a \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631",
+        "\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u0631\u062a\u062f\u0627\u0621",
+        "\u0627\u0644\u0645\u0644\u062d\u0642\u0627\u062a",
+        "\u0627\u0644\u062f\u0639\u0645",
+        "\u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0645\u0646\u062a\u062c",
+        "\u0627\u0644\u062a\u0648\u0627\u0635\u0644",
+        "\u062e\u062f\u0645\u0629 \u0627\u0644\u0625\u0635\u0644\u0627\u062d \u0648\u0627\u0644\u0636\u0645\u0627\u0646",
+        "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0625\u0636\u0627\u0641\u064a\u0629",
+        "\u0628\u062d\u062b\u0628\u062d\u062b",
+        "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644/\u0625\u0646\u0634\u0627\u0621 \u062d\u0633\u0627\u0628",
+        "\u0641\u062a\u062d \u0642\u0627\u0626\u0645\u062a\u064a",
+        "Close menu",
+        "\u0627\u0644\u0645\u062a\u0627\u0628\u0639\u0629"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLSA/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLSA/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 299,
+      "images_count": 166,
+      "images_with_alt": 132,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "\u0645\u0648\u0635\u0649 \u0644\u0643"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0642\u0635\u0635"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "\u0627\u0641\u062a\u062d",
+        "\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0644\u0644\u0645\u062a\u062c\u0631",
+        "\u0628\u0627\u062f\u0631 \u0628\u0627\u0644\u0634\u0631\u0627\u0621 \u0645\u0628\u0627\u0634\u0631\u0629\u064b \u0648\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u0632\u064a\u062f",
+        "\u062d\u0645\u0644 \u062a\u0637\u0628\u064a\u0642 Shop App",
+        "SmartThings",
+        "Discover AI",
+        "Samsung Care+\u200e",
+        "\u0645\u062a\u062c\u0631 \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0648\u0627\u0644\u0637\u0644\u0627\u0628",
+        "Samsung Live",
+        "\u0645\u062a\u062c\u0631 Samsung",
+        "\u0627\u0643\u062a\u0634\u0641",
+        "\u0627\u0641\u062a\u062d",
+        "\u0623\u062c\u0647\u0632\u0629 Galaxy \u0627\u0644\u062c\u0648\u0627\u0644\u0629",
+        "\u0623\u062c\u0647\u0632\u0629 Galaxy \u0627\u0644\u0644\u0648\u062d\u064a\u0629",
+        "\u0633\u0627\u0639\u0629 Galaxy",
+        "Galaxy Buds",
+        "\u0627\u0644\u062a\u0644\u0641\u064a\u0632\u064a\u0648\u0646\u0627\u062a",
+        "\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0639\u0631\u0636",
+        "\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0635\u0648\u062a",
+        "\u0627\u0644\u062b\u0644\u0627\u062c\u0627\u062a"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 185,
+      "has_og_tags": true,
+      "meta_description": "\u062a\u0633\u0648\u0642 \u0623\u062d\u062f\u062b \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a \u0645\u0646 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629. \u0647\u0648\u0627\u062a\u0641\u060c \u0648\u062a\u0644\u0641\u0632\u064a\u0648\u0646\u0627\u062a\u060c \u0648\u0623\u062c\u0647\u0632\u0629 \u0645\u0646\u0632\u0644\u064a\u0629\u060c \u0648\u062d\u0648\u0627\u0633\u064a\u0628 \u0644\u0648\u062d\u064a\u0629 \u0648\u0627\u0644\u0645\u0632\u064a\u062f \u0645\u0639 \u0623\u062c\u0647\u0632\u0629 \u0633\u0627\u0645\u0633\u0648\u0646\u062c \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0648\u0627\u0633\u062a\u0641\u062f \u0645\u0646 \u0639\u0631\u0648\u0636 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a.",
+      "scripts_count": 109
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Localized content for Saudi Arabia",
+        "Multiple language options including Arabic and English"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "apple_saudi",
+    "url": "https://www.apple.com/sa/shop",
+    "scanned_at": "2026-03-31T23:08:17.255662",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/apple_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/apple_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store Online - Apple (SA)",
+      "url_final": "https://www.apple.com/sa-en/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/sa/"
+        },
+        {
+          "text": "Store",
+          "href": "/sa-en/store"
+        },
+        {
+          "text": "Shop the Latest",
+          "href": "https://www.apple.com/sa-en/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/sa-en/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/sa-en/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/sa-en/shop/buy-iphone"
+        },
+        {
+          "text": "Apple Watch",
+          "href": "https://www.apple.com/sa-en/shop/buy-watch"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/sa-en/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Accessories",
+          "href": "https://www.apple.com/sa-en/shop/accessories/all"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://secure.store.apple.com/sa-en/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In",
+          "href": "https://www.apple.com/sa-en/shop/trade-in"
+        },
+        {
+          "text": "Financing",
+          "href": "https://www.apple.com/sa-en/shop/goto/ww/financing"
+        },
+        {
+          "text": "Personal Setup",
+          "href": "https://www.apple.com/sa-en/shop/goto/personal_setup"
+        },
+        {
+          "text": "Education",
+          "href": "https://www.apple.com/sa-en/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/sa/mac/"
+        },
+        {
+          "text": "Explore All Mac",
+          "href": "https://www.apple.com/sa/mac/"
+        },
+        {
+          "text": "MacBook Neo",
+          "href": "https://www.apple.com/sa/macbook-neo/"
+        },
+        {
+          "text": "MacBook Air",
+          "href": "https://www.apple.com/sa/macbook-air/"
+        },
+        {
+          "text": "MacBook Pro",
+          "href": "https://www.apple.com/sa/macbook-pro/"
+        },
+        {
+          "text": "iMac",
+          "href": "https://www.apple.com/sa/imac/"
+        }
+      ],
+      "buttons": [
+        "Previous - Product",
+        "Next - Product",
+        "Previous -",
+        "Next -",
+        "Previous - Help is here.",
+        "Next - Help is here.",
+        "Previous - The Apple Store difference.",
+        "Next - The Apple Store difference.",
+        "Previous - Accessories.",
+        "Next - Accessories.",
+        "Previous - Loud and clear.",
+        "Next - Loud and clear.",
+        "Previous - The Apple experience.",
+        "Next - The Apple experience.",
+        "Previous - Special stores."
+      ],
+      "forms": [
+        {
+          "action": "/sa-en/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 336,
+      "images_count": 63,
+      "images_with_alt": 47,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Store"
+        },
+        {
+          "level": 2,
+          "text": "Shop"
+        },
+        {
+          "level": 2,
+          "text": "Quick Links"
+        },
+        {
+          "level": 2,
+          "text": "Shop Special Stores"
+        },
+        {
+          "level": 2,
+          "text": "Explore Mac"
+        },
+        {
+          "level": 2,
+          "text": "Shop Mac"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "offerterms(opens in new window)",
+        "support.apple.com/121115(opens in new window)",
+        "offerterms(opens in new window)",
+        "support.apple.com/121115(opens in new window)",
+        "Apple",
+        "Store",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "AirPods",
+        "TV & Home",
+        "AirTag",
+        "Accessories",
+        "Gift Cards",
+        "Wallet",
+        "Apple Pay",
+        "Manage Your Apple Account",
+        "iCloud.com",
+        "Apple One"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 54,
+      "has_og_tags": true,
+      "meta_description": "Shop the latest Apple products, accessories and offers. Get shopping help, pay over time, and get fast, free delivery.",
+      "scripts_count": 60
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Apple Trade In",
+        "Personal Setup",
+        "Education discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nahdi",
+    "url": "https://www.nahdionline.com",
+    "scanned_at": "2026-03-31T23:08:38.754713",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/nahdi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/nahdi_mobile.png"
+    },
+    "structure": {
+      "title": "\u0635\u064a\u062f\u0644\u064a\u0629 \u0627\u0644\u0646\u0647\u062f\u064a | \u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629",
+      "url_final": "https://www.nahdionline.com/ar-sa",
+      "nav_items": [],
+      "buttons": [
+        "Debug Mode",
+        "\u062a\u062d\u062f\u064a\u062b",
+        "English"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "search",
+              "placeholder": "\u0627\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u062c\u0645\u0627\u0644,\u0627\u0644\u0645\u0643\u0645\u0644\u0627\u062a \u0627\u0644\u063a\u0630\u0627\u0626\u064a\u0629,\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629,\u0645"
+            }
+          ]
+        }
+      ],
+      "links_count": 357,
+      "images_count": 79,
+      "images_with_alt": 50,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u0646\u0647\u062f\u064a \u062c\u0644\u0648\u0628\u0627\u0644"
+        },
+        {
+          "level": 2,
+          "text": "\u0648\u0635\u0644 \u062d\u062f\u064a\u062b\u0627\u064b"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0644\u0639\u0637\u0648\u0631"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0628\u0634\u0631\u0629"
+        },
+        {
+          "level": 2,
+          "text": "\u0627\u0644\u0641\u064a\u062a\u0627\u0645\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u0645\u0643\u0645\u0644\u0627\u062a"
+        },
+        {
+          "level": 2,
+          "text": "\u062d\u0641\u0627\u0636\u0627\u062a \u0648\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u0623\u0637\u0641\u0627\u0644"
+        },
+        {
+          "level": 3,
+          "text": "\u0627\u0644\u0646\u0647\u062f\u064a \u0623\u0648\u0646 \u0644\u0627\u064a\u0646"
+        },
+        {
+          "level": 3,
+          "text": "\u062e\u062f\u0645\u0627\u062a \u0636\u064a\u0648\u0641 \u0627\u0644\u0646\u0647\u062f\u064a \u0623\u0648\u0646\u0644\u0627\u064a\u0646"
+        },
+        {
+          "level": 3,
+          "text": "\u0634\u0631\u0643\u0629 \u0627\u0644\u0646\u0647\u062f\u064a \u0627\u0644\u0637\u0628\u064a\u0629"
+        },
+        {
+          "level": 3,
+          "text": "\u062a\u0627\u0628\u0639 \u0627\u0644\u0646\u0647\u062f\u064a"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "search",
+          "placeholder": "\u0627\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u062c\u0645\u0627\u0644,\u0627\u0644\u0645\u0643\u0645\u0644\u0627\u062a \u0627\u0644\u063a\u0630\u0627\u0626\u064a\u0629,\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629,\u0645"
+        }
+      ],
+      "footer_links": [
+        "\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629",
+        "\u062c\u0645\u064a\u0639 \u0627\u0644\u0641\u0626\u0627\u062a",
+        "\u0639\u0631\u0648\u0636 \u0641\u0644\u0627\u0634",
+        "\u0645\u0631\u0643\u0632 \u0627\u0644\u0646\u0647\u062f\u064a \u0644\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u0629",
+        "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062a\u0648\u0635\u064a\u0644",
+        "\u0627\u0644\u0627\u0633\u062a\u0628\u062f\u0627\u0644 \u0648\u0627\u0644\u0627\u0633\u062a\u0631\u062c\u0627\u0639",
+        "\u0627\u062a\u0635\u0644 \u0628\u0646\u0627",
+        "\u0627\u0644\u0623\u0633\u0626\u0644\u0629 \u0627\u0644\u0634\u0627\u0626\u0639\u0629",
+        "\u0639\u0646 \u0627\u0644\u0646\u0647\u062f\u064a",
+        "\u0634\u0631\u0643\u0629 \u0627\u0644\u0646\u0647\u062f\u064a \u0627\u0644\u0637\u0628\u064a\u0629",
+        "\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629",
+        "\u062c\u0645\u064a\u0639 \u0627\u0644\u0641\u0626\u0627\u062a"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 36,
+      "has_og_tags": true,
+      "meta_description": "\u0635\u064a\u062f\u0644\u064a\u0629 \u0627\u0644\u0646\u0647\u062f\u064a \u0623\u0648\u0646 \u0644\u0627\u064a\u0646 \u0647\u064a \u0645\u062a\u062c\u0631\u0643 \u0627\u0644\u0634\u0627\u0645\u0644 \u0644\u062a\u0644\u0628\u064a\u0629 \u0627\u062d\u062a\u064a\u0627\u062c\u0627\u062a\u0643 \u0627\u0644\u0635\u064a\u062f\u0644\u0627\u0646\u064a\u0629. \u062a\u0633\u0648\u0642 \u064a\u0648\u0645\u064a\u064b\u0627 \u0627\u0644\u0641\u064a\u062a\u0627\u0645\u064a\u0646\u0627\u062a\u060c \u0648\u0645\u0633\u0643\u0646\u0627\u062a \u0627\u0644\u0623\u0644\u0645\u060c \u0648\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0628\u0634\u0631\u0629\u060c \u0648\u0645\u0634\u0627\u064a\u0627\u062a \u0627\u0644\u0623\u0637\u0641\u0627\u0644\u060c \u0648\u0627\u0644\u062d\u0641\u0627\u0636\u0627\u062a\u060c \u0648\u0645\u0642\u0627\u0639\u062f \u0627\u0644\u0633\u064a\u0627\u0631\u0629\u060c \u0648\u0627\u0644\u0645\u0632\u064a\u062f.",
+      "scripts_count": 373
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Arabic language support",
+        "Comprehensive health and wellness categories"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "nana_direct",
+    "url": "https://www.nanadirect.sa",
+    "scanned_at": "2026-03-31T23:08:58.352350",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nanadirect.sa/\nCall log:\n  - navigating to \"https://www.nanadirect.sa/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nanadirect.sa/\nCall log:\n  - navigating to \"https://www.nanadirect.sa/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "localized content for Saudi Arabia",
+        "focus on grocery delivery"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sun_sand_sports",
+    "url": "https://www.sssports.com",
+    "scanned_at": "2026-03-31T23:09:05.713461",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/sun_sand_sports_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/sun_sand_sports_mobile.png"
+    },
+    "structure": {
+      "title": "Sites-International-Site",
+      "url_final": "https://www.sssports.com/on/demandware.store/Sites-International-Site/en/Page-Show",
+      "nav_items": [],
+      "buttons": [
+        "Save",
+        "\u00d7",
+        "Confirm Location",
+        "\u00d7",
+        "Okay",
+        "Back to home"
+      ],
+      "forms": [],
+      "links_count": 3,
+      "images_count": 8,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Don\u2019t give up yet.Try again"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search Address"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 4,
+      "has_og_tags": false,
+      "meta_description": "SSS",
+      "scripts_count": 56
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive sports product range",
+        "localized content for Middle Eastern market"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "6th_street",
+    "url": "https://www.6thstreet.com",
+    "scanned_at": "2026-03-31T23:09:27.955153",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/6th_street_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/6th_street_mobile.png"
+    },
+    "structure": {
+      "title": "Shop Online @ 6thStreet.com For Men, Women & Kids Across GCC",
+      "url_final": "https://www.6thstreet.com/",
+      "nav_items": [],
+      "buttons": [
+        "UAE",
+        "English",
+        "Browse"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 21,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "6thStreet.com, an online shopping site for fashion & lifestyle brands in the GCC. Find top brands offering footwear, clothing, accessories & lifestyle products for women, men & kids.",
+      "scripts_count": 61
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "wide range of GCC-specific products",
+        "localized language and currency options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "styli",
+    "url": "https://www.styli.com",
+    "scanned_at": "2026-03-31T23:09:47.365110",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/styli_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/styli_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://stylishop.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "stylishop.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for stylishop.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "floward",
+    "url": "https://www.floward.com",
+    "scanned_at": "2026-03-31T23:10:08.129613",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/floward_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/floward_mobile.png"
+    },
+    "structure": {
+      "title": "Online Flowers & Gifts Delivery in | Floward | Same-Day Flowers Delivery",
+      "url_final": "https://floward.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+      ],
+      "forms": [],
+      "links_count": 9,
+      "images_count": 13,
+      "images_with_alt": 9,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Send your gift to\u2026"
+        },
+        {
+          "level": 3,
+          "text": "Select the recipient\u2019s country"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "Send fresh flowers and a variety of gifts online with Floward. Browse through our numerous products and get same-day flowers delivery",
+      "scripts_count": 66
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "same-day delivery",
+        "localized gifting options",
+        "strong focus on flower arrangements"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "whites",
+    "url": "https://whites.sa",
+    "scanned_at": "2026-03-31T23:10:27.505519",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/whites_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/whites_mobile.png"
+    },
+    "structure": {
+      "title": "Whites | Makeup, Skincare & Hair Care Products",
+      "url_final": "https://www.whites.sa/ar-sa",
+      "nav_items": [
+        {
+          "text": "\u0627\u0644\u0645\u0643\u064a\u0627\u062c",
+          "href": "/ar-sa/make-up/"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0628\u0634\u0631\u0629",
+          "href": "/ar-sa/skin-care/"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0634\u0639\u0631",
+          "href": "/ar-sa/hair-care/"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0637\u0648\u0631",
+          "href": "/ar-sa/perfumes/"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629",
+          "href": "/ar-sa/personal-care/"
+        },
+        {
+          "text": "\u0627\u0644\u0623\u0645 \u0648\u0627\u0644\u0637\u0641\u0644",
+          "href": "/ar-sa/mother-baby/"
+        },
+        {
+          "text": "\u0627\u0644\u0641\u064a\u062a\u0627\u0645\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u0645\u0643\u0645\u0644\u0627\u062a \u0627\u0644\u063a\u0630\u0627\u0626\u064a\u0629",
+          "href": "/ar-sa/vitamins-supplements/"
+        },
+        {
+          "text": "\u0627\u0644\u0623\u062f\u0648\u064a\u0629",
+          "href": "/ar-sa/medicine/"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0635\u062d\u0629",
+          "href": "/ar-sa/health-care/"
+        },
+        {
+          "text": "\u0627\u0644\u0623\u063a\u0630\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u0629",
+          "href": "/ar-sa/healthy-foods/"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0631\u0648\u0636",
+          "href": "/offers/"
+        }
+      ],
+      "buttons": [
+        "\u0627\u062e\u062a\u0631 \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u0648\u0635\u064a\u0644",
+        "0",
+        "\u0627\u0644\u0645\u0643\u064a\u0627\u062c",
+        "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0628\u0634\u0631\u0629",
+        "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0634\u0639\u0631",
+        "\u0627\u0644\u0639\u0637\u0648\u0631",
+        "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629",
+        "\u0627\u0644\u0623\u0645 \u0648\u0627\u0644\u0637\u0641\u0644",
+        "\u0627\u0644\u0641\u064a\u062a\u0627\u0645\u064a\u0646\u0627\u062a \u0648\u0627\u0644\u0645\u0643\u0645\u0644\u0627\u062a \u0627\u0644\u063a\u0630\u0627\u0626\u064a\u0629",
+        "\u0627\u0644\u0623\u062f\u0648\u064a\u0629",
+        "\u0627\u0644\u0639\u0646\u0627\u064a\u0629 \u0628\u0627\u0644\u0635\u062d\u0629",
+        "\u0627\u0644\u0623\u063a\u0630\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u0629",
+        "\u0627\u062e\u062a\u0631 \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u0648\u0635\u064a\u0644",
+        "\u0648\u0627\u064a\u062a\u0633",
+        "\u062e\u062f\u0645\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+        "\u0627\u0644\u0633\u064a\u0627\u0633\u0627\u062a",
+        "\u0627\u0644\u0645\u0627\u0631\u0643\u0627\u062a \u0627\u0644\u0623\u0643\u062b\u0631 \u0645\u0628\u064a\u0639\u0627\u064b",
+        "\u0639\u0645\u064a\u0627\u062a \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0623\u0643\u062b\u0631 \u0634\u064a\u0648\u0639\u0627\u064b",
+        "\u0646\u0633\u062e",
+        "BUTTON"
+      ],
+      "forms": [],
+      "links_count": 159,
+      "images_count": 77,
+      "images_with_alt": 55,
+      "headings": [
+        {
+          "level": 3,
+          "text": "\u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0627\u0644\u0623\u0644\u0648\u0627\u0646"
+        },
+        {
+          "level": 3,
+          "text": "\u0641\u0631\u0634 \u0648\u0623\u062f\u0648\u0627\u062a \u0627\u0644\u0645\u0643\u064a\u0627\u062c"
+        },
+        {
+          "level": 3,
+          "text": "\u0645\u0643\u064a\u0627\u062c \u0628\u0648\u0631\u062c\u0648\u0627"
+        },
+        {
+          "level": 3,
+          "text": "\u0648\u0627\u064a\u062a\u0633"
+        },
+        {
+          "level": 3,
+          "text": "\u062e\u062f\u0645\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "\u0627\u0628\u062d\u062b"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 113,
+      "has_og_tags": true,
+      "meta_description": "Shop from the best brands of makeup, hair care, skin care, and personal care. Whites also offers medications, and supplements to improve your quality of life.",
+      "scripts_count": 261
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "saco",
+    "url": "https://www.sfrbrands.com",
+    "scanned_at": "2026-03-31T23:10:48.354954",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sfrbrands.com/\nCall log:\n  - navigating to \"https://www.sfrbrands.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sfrbrands.com/\nCall log:\n  - navigating to \"https://www.sfrbrands.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized content for Saudi Arabia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon_saudi",
+    "url": "https://www.decathlon.sa",
+    "scanned_at": "2026-03-31T23:10:57.708106",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/decathlon_saudi_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/decathlon_saudi_mobile.png"
+    },
+    "structure": {
+      "title": "Shop Sports Gear & Fitness Equipment Online \u2013 Decathlon KSA",
+      "url_final": "https://decathlon.com.sa/",
+      "nav_items": [],
+      "buttons": [
+        "Previous",
+        "Next",
+        "Navigation",
+        "ENGLISH",
+        "All sports",
+        "Hiking & Camping",
+        "Fitness & Proteins",
+        "WATER SPORTS",
+        "Cycling",
+        "Men",
+        "Women",
+        "Kids",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Previous",
+        "Next",
+        "Previous"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "a",
+              "placeholder": "Search for F"
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "a",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "a",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "p_handle",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "p_handle",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 955,
+      "images_count": 172,
+      "images_with_alt": 143,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Decathlon KSA"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 3,
+          "text": "Popular sports"
+        },
+        {
+          "level": 3,
+          "text": "Discover our partners from top sports brands"
+        },
+        {
+          "level": 3,
+          "text": "Hiking"
+        },
+        {
+          "level": 3,
+          "text": "Cycling"
+        },
+        {
+          "level": 3,
+          "text": "Camping"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "a",
+          "placeholder": "Search for F"
+        },
+        {
+          "type": "hidden",
+          "name": "type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "a",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "a",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "contact us",
+        "our stores",
+        "size guide",
+        "return and exchange",
+        "Terms",
+        "Privacy Policy",
+        "Refund Policy",
+        "Shipping Policy",
+        "VAT Number: 3000554527",
+        "Terms and Conditions",
+        "Visa",
+        "MADA",
+        "MasterCard",
+        "Tabby"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 27,
+      "has_og_tags": true,
+      "meta_description": "Shop affordable sports gear at Decathlon Saudi Arabia. Discover high-quality equipment for running, cycling, swimming, hiking, and team sports today.",
+      "scripts_count": 138
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "home_centre_sa",
+    "url": "https://www.homecentre.com",
+    "scanned_at": "2026-03-31T23:11:19.231084",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/home_centre_sa_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/home_centre_sa_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.homecentre.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.homecentre.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.homecentre.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized recommendations",
+        "skeleton loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ounass_sa",
+    "url": "https://www.ounass.sa",
+    "scanned_at": "2026-03-31T23:11:37.169303",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ounass.sa/\nCall log:\n  - navigating to \"https://www.ounass.sa/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ounass.sa/\nCall log:\n  - navigating to \"https://www.ounass.sa/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "luxury brand focus",
+        "Arabic language support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "bath_body_works_sa",
+    "url": "https://www.bathandbodyworks.com.sa",
+    "scanned_at": "2026-03-31T23:11:45.421512",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/bath_body_works_sa_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/bath_body_works_sa_mobile.png"
+    },
+    "structure": {
+      "title": "Bath & Body Works KSA | Shop Bath And Body Products Online",
+      "url_final": "https://www.bathandbodyworks.com.sa/en/",
+      "nav_items": [
+        {
+          "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+          "href": "https://www.bathandbodyworks.com.sa/ar/"
+        },
+        {
+          "text": "Find Stores",
+          "href": "/en/store-finder"
+        },
+        {
+          "text": "Help Center",
+          "href": "/en/help-center"
+        },
+        {
+          "text": "Sign In / Register",
+          "href": "/en/user/login"
+        },
+        {
+          "text": "",
+          "href": "/en/"
+        },
+        {
+          "text": "",
+          "href": "/en/"
+        },
+        {
+          "text": "",
+          "href": "#"
+        },
+        {
+          "text": "",
+          "href": "/en/user/account"
+        },
+        {
+          "text": "",
+          "href": "/en/wishlist"
+        },
+        {
+          "text": "0",
+          "href": "/en/cart/"
+        },
+        {
+          "text": "",
+          "href": "/en/cart/"
+        },
+        {
+          "text": "New",
+          "href": "/en/shop-new"
+        },
+        {
+          "text": "Top Offers",
+          "href": "/en/shop-top-offers"
+        },
+        {
+          "text": "Body Care",
+          "href": "/en/shop-body-care"
+        },
+        {
+          "text": "Candles",
+          "href": "/en/shop-candles"
+        },
+        {
+          "text": "Hand Soaps & Sanitizers",
+          "href": "/en/shop-hand-soaps-sanitizers"
+        },
+        {
+          "text": "Fresheners",
+          "href": "/en/shop-fresheners"
+        },
+        {
+          "text": "Gifts",
+          "href": "/en/shop-gifts"
+        },
+        {
+          "text": "Get Inspired",
+          "href": "/en/shop-get-inspired"
+        },
+        {
+          "text": "New",
+          "href": "/en/shop-new/new"
+        }
+      ],
+      "buttons": [
+        "Join Aura",
+        "Add to Bag",
+        "Add to Bag",
+        "Add to Bag",
+        "Add to Bag",
+        "Add to Bag",
+        "Add to Bag",
+        "Add to Bag"
+      ],
+      "forms": [],
+      "links_count": 232,
+      "images_count": 119,
+      "images_with_alt": 30,
+      "headings": [
+        {
+          "level": 2,
+          "text": "DUCK IS BACK"
+        },
+        {
+          "level": 2,
+          "text": "Give Big Little Moments"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "What are you looking for?"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 42,
+      "has_og_tags": true,
+      "meta_description": "Buy online from Bath and Body Works KSA best online shopping site for home fragrances, candles, gifts and bath & body products! Online shopping in KSA is now available!",
+      "scripts_count": 54
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Dual language support with Arabic and English",
+        "High number of images with alt text"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "tamimi_markets",
+    "url": "https://www.tamimimarkets.com",
+    "scanned_at": "2026-03-31T23:12:04.177862",
+    "screenshots": {
+      "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/tamimi_markets_desktop.png",
+      "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/tamimi_markets_mobile.png"
+    },
+    "structure": {
+      "title": "Tamimi Markets \u2013 The supermarket of choice for Saudis and expatriates!",
+      "url_final": "https://www.tamimimarkets.com/",
+      "nav_items": [
+        {
+          "text": "About Us",
+          "href": "/About"
+        },
+        {
+          "text": "News",
+          "href": "/News"
+        },
+        {
+          "text": "Healthy Living",
+          "href": "/Healthy"
+        },
+        {
+          "text": "Careers",
+          "href": "https://menalitestc.com/Tamimi/onlineapp/onlineapplication/TAMIMI/KSA/1"
+        },
+        {
+          "text": "Mudam",
+          "href": "/Mudam"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Recipes",
+          "href": "/Recipes"
+        },
+        {
+          "text": "Offers",
+          "href": "/Offers"
+        },
+        {
+          "text": "Contact Us",
+          "href": "/Contact"
+        },
+        {
+          "text": "Shop Online",
+          "href": "https://shop.tamimimarkets.com/"
+        },
+        {
+          "text": "Ar",
+          "href": "/Home/Language?culture=ar-SA&returnUrl=/Home"
+        }
+      ],
+      "buttons": [
+        "\u2039",
+        "\u203a",
+        "Sign Up",
+        "Accept Cookies",
+        "Customize Cookies",
+        "Customer Login",
+        "Employee Login",
+        "Supplier Login",
+        "View our weekly offers",
+        "Get Recipe",
+        "Shop Products",
+        "Explore More",
+        "Explore More",
+        "Register Now",
+        "Click & Collect",
+        "Find Us!"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "EmailAddress",
+              "placeholder": "Your Email Address"
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 51,
+      "images_count": 13,
+      "images_with_alt": 13,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Skillet Lasagna"
+        },
+        {
+          "level": 2,
+          "text": "Best Deals"
+        },
+        {
+          "level": 2,
+          "text": "RecipeLibrary"
+        },
+        {
+          "level": 2,
+          "text": "Save more"
+        },
+        {
+          "level": 2,
+          "text": "with Themari"
+        },
+        {
+          "level": 3,
+          "text": "Find the nearest"
+        },
+        {
+          "level": 3,
+          "text": "Tamimi Markets"
+        },
+        {
+          "level": 3,
+          "text": "Join our Weekly Newsletter"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "EmailAddress",
+          "placeholder": "Your Email Address"
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "gdpr[]",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "gdpr[]",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "gdpr[]",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "gdpr[]",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "About Us",
+        "News",
+        "Offers",
+        "Recipes",
+        "Healthy Living",
+        "Careers",
+        "Offers",
+        "Themari Account",
+        "Store Locator",
+        "Contact Us",
+        "Call Us at 8003030010",
+        "Follow Us",
+        "Privacy Policy",
+        "Terms & Conditions"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "Tamimi Markets \u2013 The supermarket of choice for Saudis and expatriates!",
+      "scripts_count": 50
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Click & Collect",
+        "Themari Account"
+      ],
+      "confidence": "medium"
+    }
+  }
+]

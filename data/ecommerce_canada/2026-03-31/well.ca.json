@@ -1,0 +1,403 @@
+{
+  "name": "well.ca",
+  "url": "https://well.ca",
+  "scanned_at": "2026-03-31T21:23:10.226854",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/well.ca_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/well.ca_mobile.png"
+  },
+  "structure": {
+    "title": "Well.ca - Canada's online health, beauty, and skin care store | Free Shipping $35+ in Canada",
+    "url_final": "https://well.ca/",
+    "nav_items": [
+      {
+        "text": "Buy Again",
+        "href": "https://well.ca/index.php?main_page=buy_again"
+      },
+      {
+        "text": "Sign-In / Register",
+        "href": "#"
+      },
+      {
+        "text": "FREE SHIPPINGON ORDERS $35+*",
+        "href": "/shipping"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "https://well.ca/fr/"
+      },
+      {
+        "text": "Buy Again",
+        "href": "https://well.ca/index.php?main_page=buy_again"
+      },
+      {
+        "text": "My Lists",
+        "href": "https://well.ca/index.php?main_page=my_lists"
+      },
+      {
+        "text": "Sign-In / Register",
+        "href": "#"
+      },
+      {
+        "text": "0",
+        "href": "https://well.ca/shopping_cart.html"
+      },
+      {
+        "text": "View cart",
+        "href": "https://well.ca/shopping_cart.html"
+      },
+      {
+        "text": "Checkout",
+        "href": "https://well.ca/shopping_cart.html"
+      },
+      {
+        "text": "View cart",
+        "href": "https://well.ca/shopping_cart.html"
+      },
+      {
+        "text": "",
+        "href": "https://well.ca/index.html"
+      },
+      {
+        "text": "",
+        "href": "https://well.ca/index.php?main_page=my_lists"
+      },
+      {
+        "text": "0",
+        "href": "https://well.ca/shopping_cart.html"
+      },
+      {
+        "text": "GiftCards",
+        "href": "/giftcard"
+      },
+      {
+        "text": "Shop What's New",
+        "href": "/new"
+      },
+      {
+        "text": "Shop Well.ca",
+        "href": ""
+      },
+      {
+        "text": "Sales",
+        "href": "/categories/Sales-and-Specials.html"
+      },
+      {
+        "text": "Spring Shop",
+        "href": "https://well.ca/springshop"
+      },
+      {
+        "text": "Spring Shop",
+        "href": "https://well.ca/springshop"
+      }
+    ],
+    "buttons": [
+      "\u2715",
+      "\u2715",
+      "MENU",
+      "X",
+      "Sign Up",
+      "\u2191",
+      "Close",
+      "Sign In",
+      "Create Account",
+      "Close",
+      "Verify",
+      "Resend verification code",
+      "Verification code not received",
+      "Close",
+      "Verify",
+      "Close",
+      "Create Account",
+      "Close",
+      "Verify",
+      "Close",
+      "Verify",
+      "Close",
+      "Close"
+    ],
+    "forms": [
+      {
+        "action": "https://well.ca/searchresult.html",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "search_flag",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "keyword",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://well.ca/index.php?main_page=subscribe",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "act",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Enter your email here..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "file",
+            "name": "file",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "filename",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 487,
+    "images_count": 158,
+    "images_with_alt": 123,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Top Deals of the Week"
+      },
+      {
+        "level": 2,
+        "text": "Top Deals of the Week"
+      },
+      {
+        "level": 2,
+        "text": "Top Deals of the Week"
+      },
+      {
+        "level": 2,
+        "text": "What's NewView All"
+      },
+      {
+        "level": 2,
+        "text": "Just For You"
+      },
+      {
+        "level": 3,
+        "text": "Save up to25%"
+      },
+      {
+        "level": 3,
+        "text": "Save up to25%"
+      },
+      {
+        "level": 3,
+        "text": "Save up to25 %"
+      },
+      {
+        "level": 3,
+        "text": "Save up to25 %"
+      },
+      {
+        "level": 3,
+        "text": "Manage Consent Preferences"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "search_flag",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "keyword",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "act",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Enter your email here..."
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token_login",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email_address",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Enter Code"
+      },
+      {
+        "type": "checkbox",
+        "name": "remember_device",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Enter Code"
+      },
+      {
+        "type": "checkbox",
+        "name": "remember_device",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email_address",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "confirm_email",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "confirmation",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Canada - English",
+      "Canada - Fran\u00e7ais",
+      "Contact Us",
+      "Gift Cards",
+      "Safety Advisories & Recalls",
+      "FAQ",
+      "Shipping",
+      "Returns",
+      "Klarna",
+      "Accessibility",
+      "Careers",
+      "About Well.ca",
+      "Affiliates & Collaborators",
+      "Testimonials",
+      "Well.ca Privacy Policy",
+      "Well.ca Terms of Use",
+      "The Well Being Blog",
+      "Be WellTM",
+      "Canada - English",
+      "Canada - Fran\u00e7ais"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 169,
+    "has_og_tags": true,
+    "meta_description": "Canada's online health, wellness, baby and beauty store with the largest assortment of green and natural products.",
+    "scripts_count": 72
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "Y",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Free shipping on orders over $35",
+      "Bilingual site (English/French)"
+    ],
+    "confidence": "medium"
+  }
+}

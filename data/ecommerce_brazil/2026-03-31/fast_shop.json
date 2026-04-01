@@ -1,0 +1,160 @@
+{
+  "name": "fast_shop",
+  "url": "https://www.fastshop.com.br",
+  "scanned_at": "2026-03-31T21:46:17.358065",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/fast_shop_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/fast_shop_mobile.png"
+  },
+  "structure": {
+    "title": "Cuidar do cliente por toda a vida | FastShop",
+    "url_final": "https://site.fastshop.com.br/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "https://secure3.fastshop.com.br/account#/wishlist"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "/login"
+      },
+      {
+        "text": "",
+        "href": "https://secure3.fastshop.com.br/account#/wishlist"
+      }
+    ],
+    "buttons": [
+      "Informe seu CEP",
+      "Inserir CEP",
+      "Mais tarde",
+      "Informe seu CEP",
+      "Inserir CEP",
+      "Mais tarde"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "O que deseja?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "O que deseja?"
+          }
+        ]
+      }
+    ],
+    "links_count": 58,
+    "images_count": 59,
+    "images_with_alt": 17,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Veja as ofertas para seu endere\u00e7o!"
+      },
+      {
+        "level": 2,
+        "text": "Veja as ofertas para seu endere\u00e7o!"
+      },
+      {
+        "level": 2,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "O que deseja?"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "O que deseja?"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 55,
+    "has_og_tags": true,
+    "meta_description": "Encontre na Fast Shop os melhores Eletrodom\u00e9sticos, TVs, Smartphones, Notebooks e Eletr\u00f4nicos. Aproveite!",
+    "scripts_count": 60
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "U",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Focus on customer care throughout the lifecycle"
+    ],
+    "confidence": "medium"
+  }
+}

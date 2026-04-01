@@ -1,0 +1,205 @@
+{
+  "name": "marktplaats",
+  "url": "https://www.marktplaats.nl",
+  "scanned_at": "2026-03-31T22:38:47.423433",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/marktplaats_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/marktplaats_mobile.png"
+  },
+  "structure": {
+    "title": "\u2265 Marktplaats - De plek om nieuwe en tweedehands spullen te kopen en verkopen",
+    "url_final": "https://www.marktplaats.nl/",
+    "nav_items": [
+      {
+        "text": "Auto's",
+        "href": "/cp/91/auto-kopen/"
+      },
+      {
+        "text": "Huis en Inrichting",
+        "href": "/cp/504/huis-en-inrichting/"
+      },
+      {
+        "text": "Tuin en Terras",
+        "href": "/cp/1847/tuin-en-terras/"
+      },
+      {
+        "text": "Kleding | Dames",
+        "href": "/cp/621/kleding-dames/"
+      },
+      {
+        "text": "Audio, Tv en Foto",
+        "href": "/cp/31/audio-tv-en-foto/"
+      },
+      {
+        "text": "Kinderen en Baby's",
+        "href": "/cp/565/kinderen-en-baby-s/"
+      }
+    ],
+    "buttons": [
+      "Zoek",
+      "Voor jou",
+      "In je buurt"
+    ],
+    "forms": [
+      {
+        "action": "/lrp/api/lrp-url-redirect",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "categoryId",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "postcode",
+            "placeholder": "Postcode"
+          },
+          {
+            "type": "hidden",
+            "name": "distance",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 544,
+    "images_count": 45,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Uitgelicht"
+      },
+      {
+        "level": 2,
+        "text": "categorie\u00ebn"
+      },
+      {
+        "level": 2,
+        "text": "Het Marktplaats Effect"
+      },
+      {
+        "level": 2,
+        "text": "Kijk in je Wijk"
+      },
+      {
+        "level": 2,
+        "text": "Voor de koper"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "placeholder": "Postcode"
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Blog",
+      "Marktplaats Zakelijk",
+      "Veilig en Succesvol",
+      "Help en Info",
+      "Voorwaarden",
+      "Privacyverklaring",
+      "Cookiebeleid",
+      "Advertentievoorkeuren",
+      "Over Marktplaats",
+      "Werken bij",
+      "Perskamer",
+      "Adevinta",
+      "2dehands",
+      "2ememain",
+      "Sitemap"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 50,
+    "has_og_tags": true,
+    "meta_description": "De grootste advertentiesite van Nederland. Nieuwe en tweedehands goederen en diensten, koopt en verkoopt u op Marktplaats.nl.",
+    "scripts_count": 51
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "N",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "N",
+      "add_to_cart": "N",
+      "promo_code": "N",
+      "multiple_payment": "N",
+      "shipping_info": "Y",
+      "estimated_delivery": "N",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "N",
+      "order_history": "N",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "N",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Local buying and selling focus",
+      "Extensive category browsing",
+      "Community-driven marketplace"
+    ],
+    "confidence": "high"
+  }
+}

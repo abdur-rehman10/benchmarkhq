@@ -1,0 +1,146 @@
+{
+  "name": "easy_ar",
+  "url": "https://www.easy.com.ar",
+  "scanned_at": "2026-03-31T22:03:21.227033",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/easy_ar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/easy_ar_mobile.png"
+  },
+  "structure": {
+    "title": "Easy | Construcci\u00f3n, Renovaci\u00f3n, Deco y Dise\u00f1o para tu Casa",
+    "url_final": "https://www.easy.com.ar/",
+    "nav_items": [
+      {
+        "text": "Hacelo Easy",
+        "href": "/ideas-e-inspiracion"
+      },
+      {
+        "text": "Medios de pago",
+        "href": "/medios-de-pago"
+      },
+      {
+        "text": "Servicios de instalaciones",
+        "href": "/servicios-e-instalaciones"
+      },
+      {
+        "text": "Locales",
+        "href": "/locales"
+      }
+    ],
+    "buttons": [
+      "Seleccionar ubicaci\u00f3n",
+      "Usar ubicaci\u00f3n actual",
+      "\u00a1Hola!Inici\u00e1 sesi\u00f3n",
+      "Categor\u00edas",
+      "40%",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "65%",
+      "Agregar al carrito",
+      "Comparar"
+    ],
+    "forms": [],
+    "links_count": 121,
+    "images_count": 146,
+    "images_with_alt": 135,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Easy"
+      },
+      {
+        "level": 2,
+        "text": "Prepar\u00e1 la casa para tus nuevos Muebles"
+      },
+      {
+        "level": 2,
+        "text": "Todo con 15% dto: Dep\u00f3sitos de jard\u00edn, Parrillas y m\u00e1s"
+      },
+      {
+        "level": 2,
+        "text": "Oportunidades en Pisos, Grifer\u00edas y m\u00e1s"
+      },
+      {
+        "level": 2,
+        "text": "Lavavajillas 15 Cubiertos Frontal Gris Dish 15.2 Dtx Drean"
+      },
+      {
+        "level": 2,
+        "text": "Fut\u00f3n Lorenzo negro 88x181x87 cm M+Design"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 633,
+    "has_og_tags": true,
+    "meta_description": "Aprovech\u00e1 en Easy todo lo que tenemos para Construir, Remodelar, Renovar, y Decorar tus espacios. \u00a1Compr\u00e1 online en el n\u00famero 1 de Argentina!",
+    "scripts_count": 135
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Strong focus on home improvement and construction products",
+      "Localized content for Argentine market"
+    ],
+    "confidence": "medium"
+  }
+}

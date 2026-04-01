@@ -1,0 +1,296 @@
+{
+  "name": "newegg",
+  "url": "https://www.newegg.com",
+  "scanned_at": "2026-03-31T21:11:40.762195",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/newegg_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/newegg_mobile.png"
+  },
+  "structure": {
+    "title": "Electronics Store: Tech, PC Parts, AI PC & More | Newegg",
+    "url_final": "https://www.newegg.com/",
+    "nav_items": [
+      {
+        "text": "Help Center",
+        "href": "https://kb.newegg.com"
+      },
+      {
+        "text": "Track an Order",
+        "href": "https://secure.newegg.com/orders/find?Source=1"
+      },
+      {
+        "text": "Return an Item",
+        "href": "https://secure.newegg.com/orders/find?Source=2"
+      },
+      {
+        "text": "Return Policy",
+        "href": "https://www.newegg.com/promotions/nepro/22-0073/index.html?cm_sp=cs_menu-_-return_policy"
+      },
+      {
+        "text": "Privacy & Security",
+        "href": "https://kb.newegg.com/Article/Index/12/3?id=1166"
+      },
+      {
+        "text": "Feedback",
+        "href": ""
+      },
+      {
+        "text": "Login/Register",
+        "href": "https://secure.newegg.com/login/signin"
+      },
+      {
+        "text": "Browsing History",
+        "href": "https://www.newegg.com/d/browsing-history"
+      },
+      {
+        "text": "Order History",
+        "href": "https://secure.newegg.com/orders/list"
+      },
+      {
+        "text": "Returns History",
+        "href": "https://secure.newegg.com/returns/list"
+      },
+      {
+        "text": "Address Book",
+        "href": "https://secure.newegg.com/account/addressbook"
+      },
+      {
+        "text": "Wish Lists",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2FwishList%2Fm"
+      },
+      {
+        "text": "My Build Lists",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2Fpcbuilder%2Fm"
+      },
+      {
+        "text": "My Build Showcase",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2Fcompletedbuilds%2F"
+      },
+      {
+        "text": "Email Notifications",
+        "href": "https://secure.newegg.com/notifications/guestemail"
+      },
+      {
+        "text": "Subscriptions Orders",
+        "href": "https://secure.newegg.com/orders/subscription"
+      },
+      {
+        "text": "Auto Notifications",
+        "href": "https://secure.newegg.com/notifications/autonotify"
+      },
+      {
+        "text": "About Newegg",
+        "href": "https://www.newegg.com/corporate/about"
+      },
+      {
+        "text": "Investor Relations",
+        "href": "https://investors.newegg.com/"
+      },
+      {
+        "text": "Newegg Student Internship Program",
+        "href": "https://www.newegg.com/NSIP"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Close Cookie Preferences",
+      "Search",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Sign up",
+      "Send Link",
+      "COMPARE",
+      "Clear All",
+      "COPY Link",
+      "Feedback",
+      "Help Center",
+      "See all deals"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://secure.newegg.com/notifications/api/newslettersubscribe?Action=Manage&source=Footer",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "LoginName",
+            "placeholder": "Enter your e-mail address"
+          },
+          {
+            "type": "hidden",
+            "name": "Subscribe",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 3452,
+    "images_count": 112,
+    "images_with_alt": 110,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Today\u2019s Best Deals"
+      },
+      {
+        "level": 2,
+        "text": "Everyday Tech Essentials"
+      },
+      {
+        "level": 2,
+        "text": "All Laptop"
+      },
+      {
+        "level": 2,
+        "text": "NAS & Network Storage"
+      },
+      {
+        "level": 2,
+        "text": "Software & Services"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "LoginName",
+        "placeholder": "Enter your e-mail address"
+      },
+      {
+        "type": "hidden",
+        "name": "Subscribe",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": "Enter your phone number"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Must be 11 characters"
+      },
+      {
+        "type": "radio",
+        "name": "radio1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "radio1",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "View Latest Email Deals",
+      "Help Center",
+      "Track an Order",
+      "Return an Item",
+      "Return Policy",
+      "Privacy & Security",
+      "Feedback",
+      "Login/Register",
+      "Browsing History",
+      "Order History",
+      "Returns History",
+      "Address Book",
+      "Wish Lists",
+      "My Build Lists",
+      "My Build Showcase",
+      "Email Notifications",
+      "Subscriptions Orders",
+      "Auto Notifications",
+      "About Newegg"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 306,
+    "has_og_tags": true,
+    "meta_description": "Shop Newegg today for all of your gaming, PC & technology needs. Don\u2019t miss today\u2019s best electronics deals with fast shipping & great customer service!",
+    "scripts_count": 92
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "PC build showcase",
+      "Comprehensive return policy",
+      "Detailed order tracking"
+    ],
+    "confidence": "high"
+  }
+}

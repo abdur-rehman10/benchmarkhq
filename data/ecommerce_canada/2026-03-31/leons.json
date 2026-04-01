@@ -1,0 +1,413 @@
+{
+  "name": "leons",
+  "url": "https://www.leons.ca",
+  "scanned_at": "2026-03-31T21:24:53.249454",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/leons_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/leons_mobile.png"
+  },
+  "structure": {
+    "title": "Leon's - Canada's Leading Furniture Store",
+    "url_final": "https://www.leons.ca/",
+    "nav_items": [
+      {
+        "text": "All Furniture",
+        "href": "/pages/furniture"
+      },
+      {
+        "text": "Living Room",
+        "href": "/collections/furniture-living-room"
+      },
+      {
+        "text": "All Living Room",
+        "href": "/collections/furniture-living-room"
+      },
+      {
+        "text": "Sofas",
+        "href": "/collections/furniture-living-room-sofas"
+      },
+      {
+        "text": "Loveseats",
+        "href": "/collections/furniture-living-room-loveseats"
+      },
+      {
+        "text": "Chairs",
+        "href": "/collections/furniture-living-room-chairs"
+      },
+      {
+        "text": "Sectionals",
+        "href": "/collections/furniture-living-room-sectionals"
+      },
+      {
+        "text": "Sofa Beds & Futons",
+        "href": "/collections/furniture-living-rooms-sofa-beds-and-futons"
+      },
+      {
+        "text": "Recliners",
+        "href": "/collections/furniture-living-room-recliners"
+      },
+      {
+        "text": "Coffee Tables",
+        "href": "/collections/furniture-living-room-coffee-tables"
+      },
+      {
+        "text": "End Tables",
+        "href": "/collections/furniture-living-room-end-tables"
+      },
+      {
+        "text": "Sofa Tables",
+        "href": "/collections/furniture-living-room-sofa-tables"
+      },
+      {
+        "text": "TV Stands",
+        "href": "/collections/furniture-living-room-tv-stands"
+      },
+      {
+        "text": "Entertainment Units",
+        "href": "/collections/furniture-living-room-entertainment-units"
+      },
+      {
+        "text": "Fireplaces",
+        "href": "/collections/accents-accent-furniture-fireplaces"
+      },
+      {
+        "text": "Ottomans & Poufs",
+        "href": "/collections/furniture-living-room-ottomans"
+      },
+      {
+        "text": "Living Room Collections",
+        "href": "/pages/living-room-collection"
+      },
+      {
+        "text": "Living Room Packages",
+        "href": "/collections/furniture-living-room-living-room-packages"
+      },
+      {
+        "text": "Bedroom",
+        "href": "/collections/furniture-bedroom"
+      },
+      {
+        "text": "All Bedroom",
+        "href": "/collections/furniture-bedroom"
+      }
+    ],
+    "buttons": [
+      "Weston",
+      "Open Now| Closes at 9:30 p.m.",
+      "Update",
+      "Fran\u00e7ais",
+      "My Account",
+      "Furniture",
+      "Living Room",
+      "Bedroom",
+      "Dining Room",
+      "Kids",
+      "Home Office",
+      "More To Explore"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "postal_code",
+            "placeholder": "M9N1A1"
+          }
+        ]
+      },
+      {
+        "action": "/localization",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "return_to",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale_code",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "postal_code",
+            "placeholder": "M9N1A1"
+          }
+        ]
+      },
+      {
+        "action": "/localization",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "return_to",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale_code",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 314,
+    "images_count": 37,
+    "images_with_alt": 32,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Bring Comfort Closer to You with Leon's"
+      },
+      {
+        "level": 2,
+        "text": "ON NOW!"
+      },
+      {
+        "level": 2,
+        "text": "SUPER SPECIALS!"
+      },
+      {
+        "level": 2,
+        "text": "EXPLORE LEON'S"
+      },
+      {
+        "level": 2,
+        "text": "SHOP BY CATEGORY"
+      },
+      {
+        "level": 3,
+        "text": "Unsupported Browser"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "postal_code",
+        "placeholder": "M9N1A1"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale_code",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "postal_code",
+        "placeholder": "M9N1A1"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale_code",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "crvs",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "CheckBox.Source.Miniform",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "your-email@example.com"
+      },
+      {
+        "type": "text",
+        "name": "NameF",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "NameL",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "Comment",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact Us",
+      "Find a Store",
+      "Store Listing",
+      "Book an Appointment",
+      "FAQs",
+      "Save",
+      "Made In Canada",
+      "New Arrivals",
+      "Site Map",
+      "Delivery",
+      "Track My Delivery",
+      "Price Guarantee",
+      "Financing",
+      "Installation",
+      "Warranties and Protection Plans"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 353,
+    "has_og_tags": true,
+    "meta_description": "Leon&#39;s is Canada&#39;s #1 choice for quality furniture online and in stores. Find amazing deals for every room in your home.",
+    "scripts_count": 107
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Made In Canada",
+      "Price Guarantee"
+    ],
+    "confidence": "medium"
+  }
+}

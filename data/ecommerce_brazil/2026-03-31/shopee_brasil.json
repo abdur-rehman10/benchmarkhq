@@ -1,0 +1,147 @@
+{
+  "name": "shopee_brasil",
+  "url": "https://shopee.com.br",
+  "scanned_at": "2026-03-31T21:40:24.577391",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/shopee_brasil_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/shopee_brasil_mobile.png"
+  },
+  "structure": {
+    "title": "Fa\u00e7a Login e comece suas Compras | Shopee Brasil",
+    "url_final": "https://shopee.com.br/buyer/login?fu_tracking_id=2394998b81c-b687-45f6-a92c-2ac4621cb54e&next=https%3A%2F%2Fshopee.com.br%2F",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Precisa de ajuda?",
+        "href": "https://help.shopee.com.br/portal"
+      }
+    ],
+    "buttons": [
+      "Ir para o conte\u00fado principal",
+      "Entrar",
+      "Facebook",
+      "Google",
+      "Configura\u00e7\u00f5es de cookies",
+      "Aceitar todos os cookies"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "loginKey",
+            "placeholder": "N\u00famero de telefone/Nome do usu\u00e1rio/Email"
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": "Senha"
+          }
+        ]
+      }
+    ],
+    "links_count": 50,
+    "images_count": 18,
+    "images_with_alt": 13,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "loginKey",
+        "placeholder": "N\u00famero de telefone/Nome do usu\u00e1rio/Email"
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Senha"
+      }
+    ],
+    "footer_links": [
+      "Central de Ajuda",
+      "Como Comprar",
+      "M\u00e9todos de Pagamento",
+      "Garantia Shopee",
+      "Devolu\u00e7\u00e3o e Reembolso",
+      "Fale Conosco",
+      "Ouvidoria",
+      "Prefer\u00eancias de cookies",
+      "Sobre N\u00f3s",
+      "Pol\u00edticas",
+      "Pol\u00edtica de Privacidade da Shopee",
+      "Programa de Afiliados da Shopee",
+      "Seja um Motorista Parceiro Shopee",
+      "Ofertas Rel\u00e2mpago",
+      "Shopee Blog",
+      "Imprensa"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "Fa\u00e7a login agora e descubra as melhores ofertas e os melhores pre\u00e7os na Shopee Brasil!",
+    "scripts_count": 33
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Seja um Motorista Parceiro Shopee",
+      "Ofertas Rel\u00e2mpago"
+    ],
+    "confidence": "high"
+  }
+}

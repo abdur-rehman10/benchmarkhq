@@ -1,0 +1,487 @@
+{
+  "name": "simons",
+  "url": "https://www.simons.ca",
+  "scanned_at": "2026-03-31T21:23:54.688542",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/simons_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/simons_mobile.png"
+  },
+  "structure": {
+    "title": "Canadian Fashion Destination Since 1840 | Simons",
+    "url_final": "https://www.simons.ca/en",
+    "nav_items": [
+      {
+        "text": "free shipping over $50",
+        "href": "https://www.simons.ca/en/information/shipping--a4537"
+      },
+      {
+        "text": "free returns",
+        "href": "https://www.simons.ca/en/information/returns--a12939"
+      },
+      {
+        "text": "CAN | Fr",
+        "href": ""
+      },
+      {
+        "text": "US | En",
+        "href": ""
+      },
+      {
+        "text": "Stores",
+        "href": "https://www.simons.ca/en/stores--a13090"
+      },
+      {
+        "text": "Careers",
+        "href": "https://www.simonscareers.ca/en"
+      },
+      {
+        "text": "Gift card",
+        "href": "https://www.simons.ca/simons/category/catGiftCard/Gift+Card?/en/"
+      },
+      {
+        "text": "Vision",
+        "href": "https://www.simons.ca/en/vision--vision"
+      },
+      {
+        "text": "Search",
+        "href": ""
+      },
+      {
+        "text": "My account",
+        "href": "https://www.simons.ca/simons/profile/login.jsp"
+      },
+      {
+        "text": "",
+        "href": "/simons/profile/myWishlist.jsp"
+      },
+      {
+        "text": "",
+        "href": ""
+      },
+      {
+        "text": "( 0 )",
+        "href": "/en/cart"
+      },
+      {
+        "text": "Simons | Women's Clothing, Men's Clothing, Accesso",
+        "href": "/en"
+      },
+      {
+        "text": "Gift Ideas",
+        "href": "https://www.simons.ca/en/gift-ideas--giftIdeas"
+      },
+      {
+        "text": "",
+        "href": "https://www.simons.ca/en/gift-ideas/host-hostess-gifts--c9472"
+      },
+      {
+        "text": "",
+        "href": "https://www.simons.ca/simons/category/catGiftCard/Gift+Card?/en/"
+      },
+      {
+        "text": "",
+        "href": "https://www.simons.ca/en/gift-ideas/our-history-our-heritage-collection--c9853"
+      },
+      {
+        "text": "",
+        "href": ""
+      },
+      {
+        "text": "Shop by Profile",
+        "href": "https://www.simons.ca/en/gift-ideas--giftIdeas"
+      }
+    ],
+    "buttons": [
+      "CAN | En",
+      "Adopt the trend",
+      "Step onto your stage",
+      "Become a member ofThe Simonsfamily",
+      "Website Feedback",
+      "Cancel",
+      "Send an email",
+      "Cancel",
+      "Submit",
+      "Close",
+      "Close"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Your email address"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "email_confirmation",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "message",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "g-recaptcha-response",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "mobile",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_dyncharset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "orderId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:orderId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "postalCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:postalCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/simons/ui/handler/OrderStatusFormHandler.submit",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/simons/ui/handler/OrderStatusFormHandler.submit",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_DARGS",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_dyncharset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:email",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "password",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:password",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/atg/userprofiling/ProfileFormHandler.login",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/atg/userprofiling/ProfileFormHandler.login",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_DARGS",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 351,
+    "images_count": 39,
+    "images_with_alt": 36,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Our Exclusive Pants"
+      },
+      {
+        "level": 2,
+        "text": "Urban Oasis"
+      },
+      {
+        "level": 2,
+        "text": "Marni"
+      },
+      {
+        "level": 2,
+        "text": "Your Own Skin"
+      },
+      {
+        "level": 2,
+        "text": "Prom"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Your email address"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "staticImagesPath",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "staticSimonsImagesPath",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cdnDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email_confirmation",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_dyncharset",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "orderId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:orderId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "postalCode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:postalCode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/simons/ui/handler/OrderStatusFormHandler.submit",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:/simons/ui/handler/OrderStatusFormHandler.submit",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Free shippingon purchases of$50 or more*",
+      "Free returnsonline**",
+      "Become a member ofThe Simonsfamily",
+      "Customer serviceSatisfaction guaranteed",
+      "Free deliveryin store",
+      "Easy returnsin store and online",
+      "Our stores19 locations",
+      "Contact Us",
+      "Customer Service",
+      "24/7 Virtual Assistant",
+      "Become a Supplier for Simons",
+      "Media Contact",
+      "Gift Card",
+      "Information",
+      "My Account",
+      "Track My Order",
+      "Shipping",
+      "Returns",
+      "Online-Only Products",
+      "FAQ"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 53,
+    "has_og_tags": true,
+    "meta_description": "Get your hands on new arrivals inspired by the latest women's, men's and home trends at Simons.",
+    "scripts_count": 50
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "N",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment": "N",
+      "shipping_info": "Y",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "N",
+      "order_history": "N",
+      "return_refund_info": "Y",
+      "help_center": "N",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "N",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "N",
+      "cookie_consent": "N",
+      "terms_of_service": "N",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Free shipping over $50",
+      "Free returns online"
+    ],
+    "confidence": "medium"
+  }
+}

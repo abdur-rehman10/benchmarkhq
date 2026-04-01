@@ -1,0 +1,130 @@
+{
+  "name": "temu_india",
+  "url": "https://www.temu.com/in",
+  "scanned_at": "2026-03-31T23:50:30.642929",
+  "screenshots": {
+    "desktop": "data/ecommerce_india/2026-03-31/screenshots/temu_india_desktop.png",
+    "mobile": "data/ecommerce_india/2026-03-31/screenshots/temu_india_mobile.png"
+  },
+  "structure": {
+    "title": "Temu | Giri\u015f yap",
+    "url_final": "https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2F&login_scene=2&refer_page_name=home&refer_page_id=10005_1774990231691_1dt1d1pcof&refer_page_sn=10005&_x_sessn_id=k89gpn0uc1",
+    "nav_items": [],
+    "buttons": [
+      "Devam et"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 30,
+    "images_count": 33,
+    "images_with_alt": 16,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Giri\u015f Yap / \u00dcye Ol"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Temu Hakk\u0131nda",
+      "Ortakl\u0131k ve Etkileyici Program\u0131: Kazanmak \u0130\u00e7in Kat",
+      "Bize Ula\u015f\u0131n",
+      "Bas\u0131n",
+      "Temu'nun A\u011fa\u00e7 Dikme Program\u0131",
+      "\u0130ade ve Para \u0130adesi Politikas\u0131",
+      "Fikri M\u00fclkiyet Politikas\u0131",
+      "Nakliyat bilgileri",
+      "\u00dcr\u00fcn g\u00fcvenli\u011fi uyar\u0131lar\u0131",
+      "\u015e\u00fcpheli faaliyetleri bildirin",
+      "Minimum Sipari\u015f De\u011feri",
+      "Destek merkezi ve SSS",
+      "G\u00fcvenlik merkezi",
+      "Temu sat\u0131n alma korumas\u0131",
+      "Temu ile \u0130\u015f Ortakl\u0131\u011f\u0131",
+      "Temu Uygulamas\u0131n\u0131 indir",
+      "\u015euradan indirinApp Store",
+      "\u015euradan al\u0131nGoogle Play"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 32,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 33
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Temu'nun A\u011fa\u00e7 Dikme Program\u0131",
+      "Ortakl\u0131k ve Etkileyici Program\u0131"
+    ],
+    "confidence": "high"
+  }
+}

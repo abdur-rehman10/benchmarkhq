@@ -1,0 +1,342 @@
+{
+  "name": "stylo_shoes",
+  "url": "https://www.stylo.pk",
+  "scanned_at": "2026-03-31T23:38:40.470102",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/stylo_shoes_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/stylo_shoes_mobile.png"
+  },
+  "structure": {
+    "title": "Stylo: Best Online Shoes Brand in Pakistan",
+    "url_final": "https://stylo.pk/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Sale",
+        "href": "/collections/sale"
+      },
+      {
+        "text": "Shop By Category",
+        "href": "/collections/sale"
+      },
+      {
+        "text": "Shoes on Sale",
+        "href": "/collections/women-shoes-sale"
+      },
+      {
+        "text": "Eid Pret 2026",
+        "href": "/collections/eid-pret-2026"
+      },
+      {
+        "text": "Pret",
+        "href": "/collections/stylo-ready-to-wear"
+      },
+      {
+        "text": "Women Apparels",
+        "href": "/collections/women-apparel-1"
+      },
+      {
+        "text": "Everything Under 999",
+        "href": "/collections/under-pkr999"
+      },
+      {
+        "text": "Kids",
+        "href": "/collections/kids-sale"
+      },
+      {
+        "text": "Bags",
+        "href": "/collections/bags-sale"
+      },
+      {
+        "text": "Jewelry",
+        "href": "/collections/jewelry-sale"
+      },
+      {
+        "text": "Fragrances",
+        "href": "/collections/fragrances-sale"
+      },
+      {
+        "text": "Accessories",
+        "href": "/collections/accessories-sale"
+      },
+      {
+        "text": "Shop By Discount",
+        "href": "/collections/sale"
+      },
+      {
+        "text": "Flat 51% Off",
+        "href": "/collections/51-off"
+      },
+      {
+        "text": "Flat 31% Off",
+        "href": "/collections/31-off"
+      },
+      {
+        "text": "Flat 21% Off",
+        "href": "/collections/21-off"
+      },
+      {
+        "text": "Flat 11% Off",
+        "href": "/collections/11-off"
+      },
+      {
+        "text": "Shop By Price",
+        "href": "/collections/sale"
+      },
+      {
+        "text": "Under RS 1000",
+        "href": "/collections/under-rs-1000"
+      }
+    ],
+    "buttons": [
+      "icon-XClose menu"
+    ],
+    "forms": [
+      {
+        "action": "/cart",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "note",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "discount",
+            "placeholder": "GK-12345678ABCD-1234"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/contact#newsletter-footer",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[context]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "Enter your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 703,
+    "images_count": 280,
+    "images_with_alt": 272,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Stylo"
+      },
+      {
+        "level": 2,
+        "text": "Leading Choices"
+      },
+      {
+        "level": 2,
+        "text": "Trendy Shoes for Fashionistas"
+      },
+      {
+        "level": 2,
+        "text": "Trendsetting Outfits You\u2019ll Love"
+      },
+      {
+        "level": 2,
+        "text": "Mini Must-Haves"
+      },
+      {
+        "level": 2,
+        "text": "Must-Have Bags of the Season"
+      },
+      {
+        "level": 3,
+        "text": "Pay for your purchase, thora abhi, baqi?"
+      },
+      {
+        "level": 3,
+        "text": "Added items to your cart?"
+      },
+      {
+        "level": 3,
+        "text": "Let\u2019s shop and pay BaadMay !"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "discount",
+        "placeholder": "GK-12345678ABCD-1234"
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[context]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "Enter your email"
+      }
+    ],
+    "footer_links": [
+      "care@stylo.pk",
+      "Online Order Tracking",
+      "Size Chart",
+      "Shipping Policy",
+      "Returns & Exchange Policy",
+      "Discount Policy",
+      "Privacy Policy",
+      "Sustainability",
+      "FAQs",
+      "Our Story",
+      "Career@Stylo",
+      "Contact Us",
+      "Blogs",
+      "Download Our App",
+      "Terms of Service",
+      "Store Locations",
+      "Join Franchise Program",
+      "New In",
+      "Women Shoes",
+      "Bags"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 407,
+    "has_og_tags": true,
+    "meta_description": "Stylo is Pakistan\u2019s leading shoe brand since 1974 offering modern quality footwear at great prices with a loyal customer base across the country.",
+    "scripts_count": 202
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Everything Under 999",
+      "Flat 51% Off"
+    ],
+    "confidence": "medium"
+  }
+}

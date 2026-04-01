@@ -1,0 +1,159 @@
+{
+  "name": "ikea_brasil",
+  "url": "https://www.ikea.com/br/pt/",
+  "scanned_at": "2026-03-31T21:47:28.007858",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/ikea_brasil_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/ikea_brasil_mobile.png"
+  },
+  "structure": {
+    "title": "IKEA.com Global",
+    "url_final": "https://www.ikea.com/not-found/",
+    "nav_items": [
+      {
+        "text": "Stories",
+        "href": "https://www.ikea.com/global/en/stories/"
+      },
+      {
+        "text": "Jobs",
+        "href": "https://www.ikea.com/global/en/jobs/"
+      },
+      {
+        "text": "Newsroom",
+        "href": "https://www.ikea.com/global/en/newsroom/"
+      },
+      {
+        "text": "Our business",
+        "href": "https://www.ikea.com/global/en/our-business/"
+      }
+    ],
+    "buttons": [
+      "IKEA.com.tr(en)",
+      "Open main menu",
+      "Close main menu",
+      "Store:IKEA.com.tr(en)",
+      "Cookie settings",
+      "Accept",
+      "Reject",
+      "Cookie settings"
+    ],
+    "forms": [],
+    "links_count": 23,
+    "images_count": 6,
+    "images_with_alt": 2,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Hmm... something's fishy."
+      },
+      {
+        "level": 2,
+        "text": "404 - Page not found"
+      },
+      {
+        "level": 2,
+        "text": "KUNGSCISSUS"
+      },
+      {
+        "level": 2,
+        "text": "ANNIKEN"
+      },
+      {
+        "level": 2,
+        "text": "FREDRIKA"
+      },
+      {
+        "level": 2,
+        "text": "T\u00c5STRUP"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Find online store"
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Find online store"
+      }
+    ],
+    "footer_links": [
+      "International Sales",
+      "Inter IKEA Group",
+      "IKEA Foundation",
+      "IKEA Museum",
+      "IKEA Social Entrepreneurship",
+      "FAQs",
+      "Privacy & Cookie statement",
+      "Contact IKEA / Submit complaint",
+      "Sitemap",
+      "Accessibility"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "IKEA furniture and home accessories are practical, well designed and affordable. ",
+    "scripts_count": 10
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "U",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Global navigation links",
+      "Comprehensive footer with multiple resources"
+    ],
+    "confidence": "medium"
+  }
+}

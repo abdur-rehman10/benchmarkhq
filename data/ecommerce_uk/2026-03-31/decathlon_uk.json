@@ -1,0 +1,204 @@
+{
+  "name": "decathlon_uk",
+  "url": "https://www.decathlon.co.uk",
+  "scanned_at": "2026-03-31T21:55:28.739671",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/decathlon_uk_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/decathlon_uk_mobile.png"
+  },
+  "structure": {
+    "title": "Decathlon | Sports Shoes, Sports Gear & Sports Equipment",
+    "url_final": "https://www.decathlon.co.uk/",
+    "nav_items": [],
+    "buttons": [
+      "Cookie Settings",
+      "Reject non-essential",
+      "Accept and close",
+      "Sign me up",
+      "Sign me up",
+      "Clear",
+      "Sports",
+      "Women",
+      "Men",
+      "Kids",
+      "Accessories",
+      "Nutrition & Body Care",
+      "Deals",
+      "Services",
+      "Business & Schools",
+      "Brands",
+      "Ecodesigners and makers",
+      "Tested by real people",
+      "Co-created with athletes"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Your email address"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search"
+          }
+        ]
+      }
+    ],
+    "links_count": 389,
+    "images_count": 61,
+    "images_with_alt": 39,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Spring sports, priced right."
+      },
+      {
+        "level": 2,
+        "text": "Member only deal"
+      },
+      {
+        "level": 2,
+        "text": "Taylormade Qi4D sale"
+      },
+      {
+        "level": 2,
+        "text": "Trending now"
+      },
+      {
+        "level": 2,
+        "text": "Garden Games"
+      },
+      {
+        "level": 3,
+        "text": "Stay ahead of the game. Sign up & save!"
+      },
+      {
+        "level": 3,
+        "text": "Ecodesigners and makers"
+      },
+      {
+        "level": 3,
+        "text": "Tested by real people"
+      },
+      {
+        "level": 3,
+        "text": "Co-created with athletes"
+      },
+      {
+        "level": 3,
+        "text": "Services"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Your email address"
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search"
+      }
+    ],
+    "footer_links": [
+      "1-year returnsFor Decathlon-made products",
+      "2-year warrantyFor Decathlon-made products",
+      "We buy backSave money & trade in old gear",
+      "Collect in-store1-hour pickup at selected stores",
+      "Download the App",
+      "Become a member",
+      "Book an activity",
+      "Giftcard",
+      "B2B Giftcard",
+      "Click & Collect",
+      "Buy back",
+      "Workshop",
+      "Second Life",
+      "Cycle to work",
+      "Bike insurance",
+      "Kit personalisation"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 108,
+    "has_og_tags": false,
+    "meta_description": "Shop 70+ sports in-store & online, free shipping on select in-app purchases. Free click & collect. 2-year Decathlon product warranty. Members\u2026",
+    "scripts_count": 140
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Ecodesigners and makers",
+      "Tested by real people",
+      "Co-created with athletes",
+      "1-hour pickup at selected stores"
+    ],
+    "confidence": "medium"
+  }
+}

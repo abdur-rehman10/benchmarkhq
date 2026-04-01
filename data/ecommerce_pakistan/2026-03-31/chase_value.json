@@ -1,0 +1,502 @@
+{
+  "name": "chase_value",
+  "url": "https://www.chasevalue.pk",
+  "scanned_at": "2026-03-31T23:39:22.780558",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/chase_value_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/chase_value_mobile.png"
+  },
+  "structure": {
+    "title": "Chase Value Best and Affordable Online Shopping in Pakistan",
+    "url_final": "https://chasevalue.pk/",
+    "nav_items": [
+      {
+        "text": "Women",
+        "href": "/collections/women-clothing-and-accessories"
+      },
+      {
+        "text": "Women",
+        "href": "/collections/women-clothing-and-accessories"
+      },
+      {
+        "text": "",
+        "href": "/collections/women-clothing-and-accessories"
+      },
+      {
+        "text": "Go to Women",
+        "href": "/collections/women-clothing-and-accessories"
+      },
+      {
+        "text": "Ready To Wear",
+        "href": "/collections/ready-to-wear"
+      },
+      {
+        "text": "Go to Ready To Wear",
+        "href": "/collections/ready-to-wear"
+      },
+      {
+        "text": "Co-ord & Shalwar Suit",
+        "href": "/collections/women-shalwar-suits"
+      },
+      {
+        "text": "Kurtis",
+        "href": "/collections/women-ready-kurtis"
+      },
+      {
+        "text": "Maxi",
+        "href": "/collections/women-maxi"
+      },
+      {
+        "text": "Tops & T-Shirts",
+        "href": "/collections/womens-t-shirts"
+      },
+      {
+        "text": "Tracksuits",
+        "href": "/collections/two-piece-outfit"
+      },
+      {
+        "text": "Night Wear",
+        "href": "/collections/night-wear"
+      },
+      {
+        "text": "Bottoms",
+        "href": "/collections/bottoms-for-women"
+      },
+      {
+        "text": "Dupatta",
+        "href": "/collections/women-dupatta"
+      },
+      {
+        "text": "Winter Wear",
+        "href": "/collections/women-winterwear"
+      },
+      {
+        "text": "Unstitched",
+        "href": "/collections/unstitched"
+      },
+      {
+        "text": "Go to Unstitched",
+        "href": "/collections/unstitched"
+      },
+      {
+        "text": "3 Piece",
+        "href": "/collections/women-3pcs-shalwar-suits-1"
+      },
+      {
+        "text": "2 Piece",
+        "href": "/collections/women-2pcs-shalwar-suits-1"
+      },
+      {
+        "text": "1 Piece",
+        "href": "/collections/women-unstitched-kurtis"
+      }
+    ],
+    "buttons": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "Diapers & Wipes",
+      "Baby Care",
+      "Feeding Supplies",
+      "Carrier Strollers",
+      "All",
+      "Toys Under Rs.499/-",
+      "Weapon Toys"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search the store"
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/contact#NewsletterSection",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "enter your email address"
+          }
+        ]
+      },
+      {
+        "action": "/contact#ContactForm-notifyMe-halo-notify-popup",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[Form]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[Shop name]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[Link]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[Product title]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[Product URL]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[Product variant]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "Insert your email"
+          }
+        ]
+      },
+      {
+        "action": "/account/login",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "customer[email]",
+            "placeholder": "Email Address"
+          },
+          {
+            "type": "password",
+            "name": "customer[password]",
+            "placeholder": "Password"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search products..."
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 989,
+    "images_count": 97,
+    "images_with_alt": 8,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "GET IN TOUCH"
+      },
+      {
+        "level": 2,
+        "text": "OUR COMPANY"
+      },
+      {
+        "level": 2,
+        "text": "Help"
+      },
+      {
+        "level": 2,
+        "text": "Customer Service"
+      },
+      {
+        "level": 2,
+        "text": "Shop the look"
+      },
+      {
+        "level": 3,
+        "text": "Trending Now"
+      },
+      {
+        "level": 3,
+        "text": "Popular Products"
+      },
+      {
+        "level": 3,
+        "text": "Example product title"
+      },
+      {
+        "level": 3,
+        "text": "Example product title"
+      },
+      {
+        "level": 3,
+        "text": "Example product title"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search the store"
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "enter your email address"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[Form]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[Shop name]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[Link]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[Product title]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[Product URL]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[Product variant]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "Insert your email"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "customer[email]",
+        "placeholder": "Email Address"
+      },
+      {
+        "type": "password",
+        "name": "customer[password]",
+        "placeholder": "Password"
+      }
+    ],
+    "footer_links": [
+      "UAN:",
+      "(021) 11-11-CHASE",
+      "+92-334-2340070",
+      "customercare@chasevalue.pk",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Twitter",
+      "About Us",
+      "Blog",
+      "Our Store Locations",
+      "Loyalty App",
+      "Careers",
+      "FAQs",
+      "Refund policy",
+      "Shipping Policy",
+      "Returns & Exchange Policy",
+      "Order Cancellation Policy",
+      "Privacy Policy",
+      "Terms & Conditions"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 92,
+    "has_og_tags": true,
+    "meta_description": "Online Shopping in Pakistan selling Cosmetics, Unstitched Fabrics, Artificial Jewelry, Shoes, Bags, Watches, Crockery, Garments and more at Wholesale Rates.",
+    "scripts_count": 89
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Affordable pricing focus",
+      "Extensive women's clothing collection"
+    ],
+    "confidence": "medium"
+  }
+}

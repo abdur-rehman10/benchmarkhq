@@ -1,0 +1,6316 @@
+[
+  {
+    "name": "amazon_australia",
+    "url": "https://www.amazon.com.au",
+    "scanned_at": "2026-04-01T00:15:05.037635",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/amazon_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/amazon_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more",
+      "url_final": "https://www.amazon.com.au/",
+      "nav_items": [
+        {
+          "text": "Main content",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "SearchOpt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "CartShift+Opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "HomeShift+Opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "OrdersShift+Opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Show/Hide shortcutsShift+Opt+Z",
+        "Play",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "Back to top",
+        "Sign in",
+        "Australia"
+      ],
+      "forms": [
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Search Amazon.com.au"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 175,
+      "images_count": 79,
+      "images_with_alt": 74,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Skip to"
+        },
+        {
+          "level": 2,
+          "text": "Keyboard shortcuts"
+        },
+        {
+          "level": 2,
+          "text": "Select Kitchen items under $25"
+        },
+        {
+          "level": 2,
+          "text": "Select Toys under $25"
+        },
+        {
+          "level": 2,
+          "text": "Select Clothing under $25"
+        },
+        {
+          "level": 3,
+          "text": "Deals on Electronics"
+        },
+        {
+          "level": 3,
+          "text": "Deals on Beauty"
+        },
+        {
+          "level": 3,
+          "text": "Deals on Toys"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Search Amazon.com.au"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ue_back",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 41,
+      "has_og_tags": false,
+      "meta_description": "Shop online for Electronics, Computers, Clothing, Shoes, Toys, Books, DVDs, Sporting Goods, Beauty & more.",
+      "scripts_count": 99
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product categories",
+        "keyboard shortcuts for navigation",
+        "localized content for Australia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ebay_australia",
+    "url": "https://www.ebay.com.au",
+    "scanned_at": "2026-04-01T00:15:25.694705",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/ebay_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/ebay_australia_mobile.png"
+    },
+    "structure": {
+      "title": "eBay Australia | Electronics, Cars, Fashion, Collectibles & More",
+      "url_final": "https://www.ebay.com.au/",
+      "nav_items": [
+        {
+          "text": "Sign in",
+          "href": "https://signin.ebay.com.au/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com.au%2F"
+        },
+        {
+          "text": "register",
+          "href": "https://signup.ebay.com.au/pa/crte?ru=https%3A%2F%2Fwww.ebay.com.au%2F"
+        },
+        {
+          "text": "",
+          "href": "https://www.ebay.com.au/vlp/ebayplus"
+        },
+        {
+          "text": "eBay Deals",
+          "href": "https://www.ebay.com.au/deals"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.ebay.com.au/b/Stores-HUB/bn_7004249158"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.ebay.com.au/help/home"
+        },
+        {
+          "text": "Sell",
+          "href": "https://www.ebay.com.au/sl/sell"
+        },
+        {
+          "text": "Watchlist",
+          "href": "https://www.ebay.com.au/mye/myebay/watchlist"
+        },
+        {
+          "text": "My eBay",
+          "href": "https://www.ebay.com.au/mys/home?source=GBH"
+        },
+        {
+          "text": "My eBay Summary",
+          "href": "https://www.ebay.com.au/mye/myebay/summary"
+        },
+        {
+          "text": "Recently Viewed",
+          "href": "https://www.ebay.com.au/mye/myebay/rvi"
+        },
+        {
+          "text": "Bids/Offers",
+          "href": "https://www.ebay.com.au/mye/myebay/bidsoffers"
+        },
+        {
+          "text": "Watch List",
+          "href": "https://www.ebay.com.au/mye/myebay/watchlist"
+        },
+        {
+          "text": "Purchase History",
+          "href": "https://www.ebay.com.au/mye/myebay/purchase"
+        },
+        {
+          "text": "Selling/Sold",
+          "href": "https://www.ebay.com.au/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GB"
+        },
+        {
+          "text": "Saved Feed",
+          "href": "https://www.ebay.com.au/mye/myebay/saved"
+        },
+        {
+          "text": "Saved Searches",
+          "href": "https://www.ebay.com.au/mye/myebay/savedsearches"
+        },
+        {
+          "text": "Saved Sellers",
+          "href": "https://www.ebay.com.au/mye/myebay/savedsellers"
+        },
+        {
+          "text": "My Garage",
+          "href": "https://www.ebay.com.au/g/mygarage"
+        },
+        {
+          "text": "Preferences",
+          "href": "https://www.ebay.com.au/d/myebay/preferences"
+        }
+      ],
+      "buttons": [
+        "Expand Watchlist",
+        "Expand My eBay",
+        "Notifications",
+        "Expand cart",
+        "Shop by category",
+        "Search",
+        "Expand: Electronics",
+        "Expand: Refurbished",
+        "Expand: Motors",
+        "Expand: Home & Garden",
+        "Expand: Clothing & Accessories",
+        "Expand: Sports",
+        "Expand: Health & Beauty",
+        "Expand: Toys",
+        "Expand: Business & Industrial",
+        "Expand: Collectables",
+        "Expand: Deals & Sales",
+        "Expand: More",
+        "More options",
+        "More options"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ebay.com.au/sch/i.html",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "_nkw",
+              "placeholder": "Search for anything"
+            },
+            {
+              "type": "text",
+              "name": "_sacat",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_from",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_trksid",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 518,
+      "images_count": 106,
+      "images_with_alt": 51,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Electronics, Cars, Fashion, Collectibles & More | eBay"
+        },
+        {
+          "level": 2,
+          "text": "Your autumn drives start here"
+        },
+        {
+          "level": 2,
+          "text": "Tackle the off-road this Easter"
+        },
+        {
+          "level": 2,
+          "text": "Refresh your wardrobe for autumn"
+        },
+        {
+          "level": 2,
+          "text": "Dress for your Easter adventures"
+        },
+        {
+          "level": 2,
+          "text": "Discover more of the things you love"
+        },
+        {
+          "level": 3,
+          "text": "Electronics"
+        },
+        {
+          "level": 3,
+          "text": "Motors"
+        },
+        {
+          "level": 3,
+          "text": "Home & Garden"
+        },
+        {
+          "level": 3,
+          "text": "Clothing Shoes & Accessories"
+        },
+        {
+          "level": 3,
+          "text": "Sports"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "_nkw",
+          "placeholder": "Search for anything"
+        },
+        {
+          "type": "hidden",
+          "name": "_from",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_trksid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Buy",
+        "eBay Deals",
+        "eBay Mobile",
+        "eBay for Charity",
+        "eBay Stores",
+        "Gift Finder",
+        "Holidays and Seasonal Occasions",
+        "Sell",
+        "Seller Centre",
+        "Sell for Charity",
+        "Selling Fees",
+        "Learn to Sell",
+        "eBay for Business",
+        "Facebook",
+        "X (Twitter)",
+        "About eBay",
+        "Media Centre",
+        "Advertising on eBay",
+        "Affiliates",
+        "Law Enforcement"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 120,
+      "has_og_tags": true,
+      "meta_description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay Australia's online marketplace. Top brands, low prices & free shipping on many items.",
+      "scripts_count": 60
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "eBay Deals section",
+        "eBay Plus membership",
+        "eBay for Charity"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "kmart_australia",
+    "url": "https://www.kmart.com.au",
+    "scanned_at": "2026-04-01T00:15:45.873373",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/kmart_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/kmart_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.kmart.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "wide range of affordable products",
+        "in-store pickup options"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "target_australia",
+    "url": "https://www.target.com.au",
+    "scanned_at": "2026-04-01T00:16:04.606732",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/target_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/target_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.target.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "wide range of product categories",
+        "strong brand presence in Australia"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "jb_hi-fi",
+    "url": "https://www.jbhifi.com.au",
+    "scanned_at": "2026-04-01T00:16:23.683747",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/jb_hi-fi_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/jb_hi-fi_mobile.png"
+    },
+    "structure": {
+      "title": "JB Hi-Fi - Australia's Largest Home Entertainment Retailer",
+      "url_final": "https://www.jbhifi.com.au/",
+      "nav_items": [
+        {
+          "text": "New",
+          "href": "https://www.jbhifi.com.au/blogs/new-at-jb"
+        },
+        {
+          "text": "New at JB",
+          "href": "https://www.jbhifi.com.au/pages/new-at-jb"
+        },
+        {
+          "text": "ComputersShop all",
+          "href": "/collections/computers-tablets"
+        },
+        {
+          "text": "Apple iPad Air M4",
+          "href": "https://www.jbhifi.com.au/collections/computers-tablets/apple-ipad-air"
+        },
+        {
+          "text": "Apple MacBook Air M5",
+          "href": "https://www.jbhifi.com.au/collections/computers-tablets/apple-macbook-air"
+        },
+        {
+          "text": "Apple MacBook Pro M5",
+          "href": "https://www.jbhifi.com.au/collections/computers-tablets/apple-macbook-pro"
+        },
+        {
+          "text": "Apple MacBook Neo",
+          "href": "https://www.jbhifi.com.au/collections/computers-tablets/apple-macbook-neo"
+        },
+        {
+          "text": "Apple iPad Pro M5",
+          "href": "https://www.jbhifi.com.au/collections/computers-tablets/apple-ipad-pro?sortBy=published_at_desc"
+        },
+        {
+          "text": "reMarkable Paper Pro Move with MarkerPlus",
+          "href": "https://www.jbhifi.com.au/products/remarkable-paper-pro-move-with-markerplus"
+        },
+        {
+          "text": "NVIDIA GeForce RTX 50 Series Laptops",
+          "href": "/collections/computers-tablets/nvidia-5000-series"
+        },
+        {
+          "text": "NVIDIA GeForce RTX AI PCs",
+          "href": "/collections/computers-tablets/nvidia-geforce-rtx-ai-pcs"
+        },
+        {
+          "text": "Laptops refurbishedShop all",
+          "href": "/collections/computers-tablets/laptops-refurbished"
+        },
+        {
+          "text": "MacBook refurbished",
+          "href": "/collections/computers-tablets/apple-macbook-renewed"
+        },
+        {
+          "text": "iPad refurbished",
+          "href": "/collections/computers-tablets/apple-ipad-renewed"
+        },
+        {
+          "text": "iPad Air refurbished",
+          "href": "/collections/computers-tablets/apple-ipad-air-renewed"
+        },
+        {
+          "text": "iPad Pro refurbished",
+          "href": "/collections/computers-tablets/apple-ipad-pro-renewed"
+        },
+        {
+          "text": "iPad mini refurbished",
+          "href": "/collections/computers-tablets/apple-ipad-mini-renewed"
+        },
+        {
+          "text": "Samsung Galaxy Tab refurbished",
+          "href": "/collections/computers-tablets/samsung-galaxy-tab-refurbished"
+        },
+        {
+          "text": "Hot deals",
+          "href": "https://www.jbhifi.com.au/collections/all-computer-deals"
+        },
+        {
+          "text": "Clearance",
+          "href": "https://www.jbhifi.com.au/collections/computers-tablets/computer-clearance"
+        }
+      ],
+      "buttons": [
+        "Dismiss",
+        "Track order",
+        "Stores",
+        "Log in",
+        "Cart",
+        "Back",
+        "Products",
+        "Back",
+        "Computers & Tablets",
+        "Back",
+        "New Computers & Tablets",
+        "Back",
+        "Refurbished",
+        "Back",
+        "Shop by brand",
+        "Back",
+        "Laptops by type and use",
+        "Back",
+        "Windows laptops",
+        "Back",
+        "Apple MacBook",
+        "Back",
+        "Desktop computers",
+        "Back",
+        "Apple iMac, Mac mini + Mac Studio",
+        "Back",
+        "Gaming PCs",
+        "Back"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "specialOffersCheckbox 0.2696026934162101",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "specialOffersCheckbox 0.8741100038772683",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "specialOffersCheckbox 0.3337321638771973",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "specialOffersCheckbox 0.06671146766137781",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "specialOffersCheckbox 0.7277895861866048",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1959,
+      "images_count": 167,
+      "images_with_alt": 166,
+      "headings": [
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Newat JB!"
+        },
+        {
+          "level": 2,
+          "text": "Check out the latest tech!"
+        },
+        {
+          "level": 2,
+          "text": "Phones"
+        },
+        {
+          "level": 2,
+          "text": "Check out the latest STACK mag!"
+        },
+        {
+          "level": 3,
+          "text": "What's hot!"
+        },
+        {
+          "level": 3,
+          "text": "Latest News & Reviews"
+        },
+        {
+          "level": 3,
+          "text": "Revived & Ready"
+        },
+        {
+          "level": 3,
+          "text": "At JB, we're more than just products"
+        },
+        {
+          "level": 3,
+          "text": "All the best brands"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search products, brands, and more..."
+        },
+        {
+          "type": "hidden",
+          "name": "reloadValue",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.2696026934162101",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.8741100038772683",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.3337321638771973",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.06671146766137781",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.7277895861866048",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.6934856093026354",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.706900985096166",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.4735708199857702",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "specialOffersCheckbox 0.10140075270537707",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Help & Support",
+        "Track my order",
+        "Faulty goods returns",
+        "Refunds & Warranties guide",
+        "Advertised offers",
+        "Advertising corrections",
+        "Scam alerts",
+        "Product recalls",
+        "News & Reviews",
+        "Latest Tech",
+        "Competitions",
+        "Guides & Tips",
+        "Reviews",
+        "Latest STACK magazine",
+        "Previous STACK editions",
+        "About us"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 26,
+      "has_og_tags": true,
+      "meta_description": "JB Hi-Fi is Australia's largest home entertainment retailer with top products, great quality + value. Learn more about our product range online.",
+      "scripts_count": 153
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Revived & Ready section for refurbished products",
+        "STACK magazine integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "the_good_guys",
+    "url": "https://www.thegoodguys.com.au",
+    "scanned_at": "2026-04-01T00:16:45.464470",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/the_good_guys_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/the_good_guys_mobile.png"
+    },
+    "structure": {
+      "title": "The Good Guys - Leading Appliance & Entertainment Retailer",
+      "url_final": "https://www.thegoodguys.com.au/",
+      "nav_items": [],
+      "buttons": [
+        "Set your store",
+        "Sign In",
+        "My Cart",
+        "Search",
+        "Shop Products",
+        "Brands",
+        "Deals",
+        "Services & Partner Offers",
+        "Claim Offer",
+        "Help Centre",
+        "Jump to slide 0",
+        "Jump to slide 1",
+        "Jump to slide 2",
+        "Jump to slide 3",
+        "Jump to slide 4"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search-input",
+              "placeholder": "Search products, brands or get help"
+            }
+          ]
+        }
+      ],
+      "links_count": 195,
+      "images_count": 90,
+      "images_with_alt": 63,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Solt 4.5kg Vented Dryer"
+        },
+        {
+          "level": 3,
+          "text": "Samsung 5.0ch All in one Soundbar"
+        },
+        {
+          "level": 3,
+          "text": "Hisense 205L Top Mount Refrigerator"
+        },
+        {
+          "level": 3,
+          "text": "Shark Cordless Vacuum with Self Cleaning Brushroll"
+        },
+        {
+          "level": 3,
+          "text": "Garmin Venu 3 -  Black/ Slate"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search-input",
+          "placeholder": "Search products, brands or get help"
+        },
+        {
+          "type": "checkbox",
+          "name": "add eufy S340 Security Solocam (Generation 2) to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add eufy Eufycam E42 4-Camera 4K Wireless Security System to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Reolink Argus 4K PT Ultra Solar + Solar Panel to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Ring Indoor Camera (2nd Gen) White to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add eufy 2K Indoor Pan & Tilt Security Camera to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add TP-LINK 2K 3MP Solar-Powered Security Camera (2 Pack) to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Ring Outdoor Camera Plus Battery (2 Pack) to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Reolink Wireless Battery Doorbell 2K with Chime to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add JBL Live Free 2 TW Earbuds to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Skullcandy Hesh ANC Headphones to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Sennheiser CX True Wireless to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add JBL PartyBox Stage 320 Portable Speaker to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Bose QuietComfort Headphones - Sandstone to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Bose QuietComfort Earbuds to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Audio Technica Standard belt drive turntable to compare ",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "add Sonos Era 100 to compare ",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Store & Trading Hours",
+        "Buying Guides",
+        "Mobile & Broadband Plans",
+        "90 Day StoreCash>",
+        "Payment Options",
+        "Gift Cards",
+        "The Good Guys",
+        "Careers",
+        "New and Trending",
+        "Trade-In",
+        "AGL Offer",
+        "Sustainability",
+        "Investor Information",
+        "Affiliate Program",
+        "Help Centre",
+        "Delivery Options"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 211,
+      "has_og_tags": true,
+      "meta_description": "Pay less on cooking appliances, TVs, washing machines, air conditioners and more at The Good Guys. Shop online or in 100+ stores.",
+      "scripts_count": 35
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Set your store functionality"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "harvey_norman",
+    "url": "https://www.harveynorman.com.au",
+    "scanned_at": "2026-04-01T00:17:08.509429",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/harvey_norman_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/harvey_norman_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.harveynorman.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "bunnings",
+    "url": "https://www.bunnings.com.au",
+    "scanned_at": "2026-04-01T00:17:27.452906",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/bunnings_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/bunnings_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.bunnings.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.bunnings.com.au"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.bunnings.com.au to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive DIY project guides",
+        "in-store stock check"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "woolworths",
+    "url": "https://www.woolworths.com.au",
+    "scanned_at": "2026-04-01T00:17:46.190015",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/woolworths_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/woolworths_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.woolworths.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive grocery selection",
+        "loyalty program integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "coles",
+    "url": "https://www.coles.com.au",
+    "scanned_at": "2026-04-01T00:18:03.966271",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/coles_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/coles_mobile.png"
+    },
+    "structure": {
+      "title": "Shop groceries online | Coles Supermarket",
+      "url_final": "https://www.coles.com.au/",
+      "nav_items": [
+        {
+          "text": "Book your Easter slots now.",
+          "href": "https://www.coles.com.au/?openDrawer=SlotSelector&pid=homepage_urgencystrip_slots-open"
+        },
+        {
+          "text": "Coles",
+          "href": "/"
+        },
+        {
+          "text": "Shop products",
+          "href": "/browse"
+        },
+        {
+          "text": "Specials & catalogues",
+          "href": "/on-special"
+        },
+        {
+          "text": "Bought before",
+          "href": "/bought-before"
+        },
+        {
+          "text": "Recipes & inspiration",
+          "href": "/recipes-inspiration"
+        },
+        {
+          "text": "Ways to shop",
+          "href": "/ways-to-shop"
+        },
+        {
+          "text": "Help",
+          "href": "/help"
+        },
+        {
+          "text": "Coles Plus Logo",
+          "href": "/ways-to-shop/membership"
+        }
+      ],
+      "buttons": [
+        "Search",
+        "More from Coles",
+        "Log in / Sign up",
+        "Lists",
+        "$0.00",
+        "$0.00",
+        "More",
+        "Set your locationYou\u2019re seeing items for delivery ",
+        "Choose a store",
+        "Add your address",
+        "Close",
+        "Back Button",
+        "Filter Button"
+      ],
+      "forms": [],
+      "links_count": 163,
+      "images_count": 78,
+      "images_with_alt": 48,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Coles"
+        },
+        {
+          "level": 2,
+          "text": "Discover the latest products and prices in your area."
+        },
+        {
+          "level": 2,
+          "text": "Free Cookware with credits*"
+        },
+        {
+          "level": 2,
+          "text": "100% Aussie. Tender, flavourful lamb"
+        },
+        {
+          "level": 2,
+          "text": "Fresh offers for Easter"
+        },
+        {
+          "level": 2,
+          "text": "A bun for everyone"
+        },
+        {
+          "level": 3,
+          "text": "Get 20% off liquor this Easter*"
+        },
+        {
+          "level": 3,
+          "text": "Fresh offers for Easter"
+        },
+        {
+          "level": 3,
+          "text": "Delicious seafood offers"
+        },
+        {
+          "level": 3,
+          "text": "Win for your local sport club with Four'N Twenty"
+        },
+        {
+          "level": 3,
+          "text": "Shop the catalogue"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "search-text-input",
+          "placeholder": "Search products & recipes"
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Contact us",
+        "Help Centre",
+        "Staying safe online",
+        "Returns & refunds",
+        "Product recalls",
+        "Accessibility",
+        "Stores near you",
+        "Browse Products",
+        "Coles magazines",
+        "Gift cards",
+        "Coles Radio",
+        "Coles Plus",
+        "Competition winners",
+        "Introducing us",
+        "Our brands",
+        "Careers",
+        "Our history",
+        "Sustainability at Coles",
+        "Media releases",
+        "Investor information"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 78,
+      "has_og_tags": true,
+      "meta_description": "Shop your way at Coles. Our range of groceries, deli, meat, fresh fruit and vegetables at everyday low prices you know and trust. Shop online and get home delivery or click and collect. ",
+      "scripts_count": 63
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Free cookware with credits",
+        "100% Aussie lamb promotions",
+        "Easter-specific offers"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "big_w",
+    "url": "https://www.bigw.com.au",
+    "scanned_at": "2026-04-01T00:18:25.999279",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.bigw.com.au/\nCall log:\n  - navigating to \"https://www.bigw.com.au/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.bigw.com.au/\nCall log:\n  - navigating to \"https://www.bigw.com.au/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "competitive pricing",
+        "frequent promotions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "myer",
+    "url": "https://www.myer.com.au",
+    "scanned_at": "2026-04-01T00:18:34.522279",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/myer_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/myer_mobile.png"
+    },
+    "structure": {
+      "title": "MYER | Shop Fashion, Beauty, Homewares, Gifting and More",
+      "url_final": "https://www.myer.com.au/",
+      "nav_items": [
+        {
+          "text": "New In",
+          "href": "/c/new-in"
+        },
+        {
+          "text": "",
+          "href": "/content/a-whole-new-world"
+        },
+        {
+          "text": "Shop The Edit",
+          "href": "/c/new-in/shop-the-edit"
+        },
+        {
+          "text": "All Shop The Edit",
+          "href": "/c/new-in/shop-the-edit"
+        },
+        {
+          "text": "A Whole New World",
+          "href": "/c/new-in/shop-the-edit/a-whole-new-world"
+        },
+        {
+          "text": "The Easter Shop",
+          "href": "/c/new-in/shop-the-edit/easter-shop"
+        },
+        {
+          "text": "The Cosy Corner",
+          "href": "/c/new-in/shop-the-edit/the-cosy-corner"
+        },
+        {
+          "text": "The Sneaker Edit",
+          "href": "/c/new-in/shop-the-edit/the-sneaker-edit"
+        },
+        {
+          "text": "Vacation-Ready",
+          "href": "/c/new-in/shop-the-edit/new-in-vacation-ready"
+        },
+        {
+          "text": "Stylist Top Picks",
+          "href": "/c/new-in/shop-the-edit/new-in-stylist-top-picks"
+        },
+        {
+          "text": "Sleepwear Gifts",
+          "href": "/c/new-in/shop-the-edit/gifts-sleepwear"
+        },
+        {
+          "text": "Exclusive To Myer",
+          "href": "/content/exclusive-brands"
+        },
+        {
+          "text": "New Brands",
+          "href": "/c/new-in/new-brands"
+        },
+        {
+          "text": "All New In",
+          "href": "/c/new-in/new-brands/all-new-in"
+        },
+        {
+          "text": "GAP",
+          "href": "https://www.myer.com.au/b/GAP"
+        },
+        {
+          "text": "TOPSHOP",
+          "href": "/b/TOPSHOP"
+        },
+        {
+          "text": "GRAB",
+          "href": "/b/Grab"
+        },
+        {
+          "text": "There After",
+          "href": "/b/there-after"
+        },
+        {
+          "text": "Kinney",
+          "href": "/b/kinney"
+        },
+        {
+          "text": "The Wolf Gang",
+          "href": "/b/the-wolf-gang"
+        }
+      ],
+      "buttons": [
+        "Free Delivery Over $99",
+        "Free Click & Collect",
+        "30-Day Returns",
+        "Sign In / Join",
+        "0",
+        "New In",
+        "Women",
+        "Men",
+        "Beauty",
+        "Home",
+        "Travel & Tech",
+        "Kids",
+        "Toys",
+        "Brands",
+        "Gifts",
+        "Sale",
+        "MYER one",
+        "T&C's",
+        "Need help?"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search for a product or brand"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search for a product or brand"
+            }
+          ]
+        }
+      ],
+      "links_count": 1195,
+      "images_count": 76,
+      "images_with_alt": 32,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to Myer"
+        },
+        {
+          "level": 1,
+          "text": "Sorry we couldn't find the page you were looking for."
+        },
+        {
+          "level": 2,
+          "text": "Unmissable Offers End Monday!"
+        },
+        {
+          "level": 2,
+          "text": "UP TO 40% OFF"
+        },
+        {
+          "level": 2,
+          "text": "30% OFF"
+        },
+        {
+          "level": 2,
+          "text": "UP TO 30% OFF"
+        },
+        {
+          "level": 2,
+          "text": "30% OFF"
+        },
+        {
+          "level": 3,
+          "text": "New In"
+        },
+        {
+          "level": 3,
+          "text": "Women"
+        },
+        {
+          "level": 3,
+          "text": "Men"
+        },
+        {
+          "level": 3,
+          "text": "Beauty"
+        },
+        {
+          "level": 3,
+          "text": "Home"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for a product or brand"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for a product or brand"
+        }
+      ],
+      "footer_links": [
+        "Track My Order",
+        "Payment Options",
+        "Points + Pay",
+        "Delivery and Click & Collect",
+        "Returns & Exchanges",
+        "True Fit",
+        "Catalogues",
+        "MYER one Card Linked Program",
+        "FAQs",
+        "Contact Us",
+        "Store Locator",
+        "Experiences & Services",
+        "Beauty Services",
+        "Gift Registry",
+        "Sales & Promotions",
+        "Notices & Recalls",
+        "Accessibility",
+        "MYER one",
+        "Myer Gift Cards",
+        "Careers"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 15,
+      "has_og_tags": false,
+      "meta_description": "Shop at Myer, Australia's largest department store. Shop Fashion, Beauty, Homewares, Toys, Gifting and more with Afterpay, Velocity or Amex Reward Points*.",
+      "scripts_count": 51
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "MYER one loyalty program",
+        "Exclusive brand offerings"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "david_jones",
+    "url": "https://www.davidjones.com",
+    "scanned_at": "2026-04-01T00:18:54.888051",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/david_jones_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/david_jones_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.davidjones.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "luxury brand partnerships",
+        "in-store events"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "catch",
+    "url": "https://www.catch.com.au",
+    "scanned_at": "2026-04-01T00:19:14.456544",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/catch_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/catch_mobile.png"
+    },
+    "structure": {
+      "title": "Human Verification",
+      "url_final": "https://www.catch.com.au/",
+      "nav_items": [],
+      "buttons": [
+        "Begin"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 3,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Let's confirm you are human"
+        },
+        {
+          "level": 1,
+          "text": "JavaScript is disabled"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "frequent flash sales",
+        "Club Catch membership for discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "officeworks",
+    "url": "https://www.officeworks.com.au",
+    "scanned_at": "2026-04-01T00:19:37.298768",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/officeworks_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/officeworks_mobile.png"
+    },
+    "structure": {
+      "title": "Human Verification",
+      "url_final": "https://www.officeworks.com.au/",
+      "nav_items": [],
+      "buttons": [
+        "Begin"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 3,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Let's confirm you are human"
+        },
+        {
+          "level": 1,
+          "text": "JavaScript is disabled"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive range of office supplies",
+        "price match guarantee",
+        "click and collect service"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "the_iconic",
+    "url": "https://www.theiconic.com.au",
+    "scanned_at": "2026-04-01T00:19:56.039210",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/the_iconic_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/the_iconic_mobile.png"
+    },
+    "structure": {
+      "title": "Got You Looking \ud83d\udc40 | Fashion | THE ICONIC",
+      "url_final": "https://www.theiconic.com.au/",
+      "nav_items": [
+        {
+          "text": "Contact & FAQs",
+          "href": "https://theiconicsupport.zendesk.com/hc/en-us/"
+        },
+        {
+          "text": "Delivery",
+          "href": "https://www.theiconic.com.au/shipping-policy/"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.theiconic.com.au/customer/order/index/?returns=1/"
+        },
+        {
+          "text": "Track Orders",
+          "href": "https://www.theiconic.com.au/customer/order/index/"
+        },
+        {
+          "text": "Share Your Ideas",
+          "href": "https://theiconic.uservoice.com/forums/380349-product-suggestions-for-the-iconic"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/gift-cards/"
+        }
+      ],
+      "buttons": [
+        "Submit",
+        "GET THE APP",
+        "\u00d7",
+        "\u00d7",
+        "GET THE APP"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Search for products, brands, or categories"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "gender",
+              "placeholder": ""
+            },
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Enter your email address..."
+            }
+          ]
+        }
+      ],
+      "links_count": 1911,
+      "images_count": 145,
+      "images_with_alt": 29,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Shop For The Latest Clothing, Shoes, Home & Beauty Products"
+        },
+        {
+          "level": 2,
+          "text": "Shop Your Favourites"
+        },
+        {
+          "level": 2,
+          "text": "Shop the Latest"
+        },
+        {
+          "level": 2,
+          "text": "New from m\u00ednima esenciales"
+        },
+        {
+          "level": 2,
+          "text": "Just In: THE ICONIC Front Row"
+        },
+        {
+          "level": 2,
+          "text": "Just Landed: Korean Beauty"
+        },
+        {
+          "level": 3,
+          "text": "Dresses"
+        },
+        {
+          "level": 3,
+          "text": "Tops"
+        },
+        {
+          "level": 3,
+          "text": "Pants"
+        },
+        {
+          "level": 3,
+          "text": "Footwear"
+        },
+        {
+          "level": 3,
+          "text": "Coats & Jackets"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for products, brands, or categories"
+        },
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Search for products, brands, or categories"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for products, brands, or categories"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Enter your email address..."
+        }
+      ],
+      "footer_links": [
+        "Help",
+        "About Us",
+        "Acknowledgement Of Country",
+        "Affiliates",
+        "Brands",
+        "Grow with Us",
+        "Sell with Us",
+        "Press",
+        "Careers",
+        "Promotions and Competitions",
+        "Coupons",
+        "Terms\n                        &\n                  ",
+        "Privacy Policy",
+        "THE ICONIC Front Row Terms\n                       ",
+        "Online Security Advice",
+        "UNiDAYS",
+        "Uber One",
+        "THE ICONIC X Hubbed",
+        "Terms &\n                    Conditions",
+        "Privacy Policy"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 8,
+      "has_og_tags": true,
+      "meta_description": "Australia's go-to online fashion & lifestyle retailer. Shop trending selections of clothing, sportswear, accessories, beauty products and more. Free delivery & returns available.",
+      "scripts_count": 86
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "THE ICONIC Front Row",
+        "Acknowledgement Of Country"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_australia",
+    "url": "https://www.nike.com/au/",
+    "scanned_at": "2026-04-01T00:20:17.844955",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/nike_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/nike_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Nike. Just Do It. Nike AU",
+      "url_final": "https://www.nike.com/au/",
+      "nav_items": [
+        {
+          "text": "Skip to main content",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/au/jordan"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.nike.com/au/retail"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/au/help"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/au/help"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/au/orders/details/"
+        },
+        {
+          "text": "Shipping and Delivery",
+          "href": "https://www.nike.com/au/help/a/shipping-delivery"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.nike.com/au/help/a/returns-policy"
+        },
+        {
+          "text": "Size Charts",
+          "href": "https://www.nike.com/au/help/a/size-charts"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/au/help/#contact"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.unite"
+        },
+        {
+          "text": "Terms of Sale",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?language=en&country=AU&uxId=com.nike.tos&agreem"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=termsOfUse&uxId=com.nike.unite&co"
+        },
+        {
+          "text": "Send Us Feedback",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Join Us",
+          "href": "https://www.nike.com/au/membership"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://www.nike.com/au/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/au/"
+        },
+        {
+          "text": "Men",
+          "href": "https://www.nike.com/au/men"
+        },
+        {
+          "text": "Featured",
+          "href": "https://www.nike.com/au/w/new-mens-3n82yznik1"
+        },
+        {
+          "text": "New Releases",
+          "href": "https://www.nike.com/au/w/new-mens-3n82yznik1"
+        }
+      ],
+      "buttons": [
+        "Australia",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Football Gear",
+        "Cancel",
+        "Cancel",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "Australia",
+        "nike skims",
+        "football boots",
+        "air force 1",
+        "kobe",
+        "air max",
+        "p6000",
+        "socks",
+        "jordan",
+        "Shop",
+        "Shop"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        }
+      ],
+      "links_count": 502,
+      "images_count": 47,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 1,
+          "text": "Created By Athletes.Built To Be Seen."
+        },
+        {
+          "level": 2,
+          "text": "Latest & Greatest"
+        },
+        {
+          "level": 2,
+          "text": "Latest & Greatest"
+        },
+        {
+          "level": 2,
+          "text": "New Arrivals"
+        },
+        {
+          "level": 2,
+          "text": "For How You Move"
+        },
+        {
+          "level": 2,
+          "text": "SPOTLIGHT"
+        },
+        {
+          "level": 3,
+          "text": "SAY GOODBYE TOTHOSE BIG PLANS"
+        },
+        {
+          "level": 3,
+          "text": "Nike Mind"
+        },
+        {
+          "level": 3,
+          "text": "Air Max is for the Yuth"
+        },
+        {
+          "level": 3,
+          "text": "Created By Athletes.Built To Be Seen."
+        },
+        {
+          "level": 3,
+          "text": "Air Max is for the Yuth"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Find a Store",
+        "Become a Member",
+        "Feedback",
+        "Product Advice",
+        "Running Shoe Finder",
+        "Nike Coaching",
+        "Get Help",
+        "Order Status",
+        "Shipping and Delivery",
+        "Returns",
+        "Payment Options",
+        "Contact Us",
+        "Reviews",
+        "Terms & Conditions",
+        "About Nike",
+        "News",
+        "Careers",
+        "Investors",
+        "Sustainability",
+        "Air Force 1"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 111,
+      "has_og_tags": true,
+      "meta_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+      "scripts_count": 92
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Nike Coaching",
+        "Running Shoe Finder"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "adidas_australia",
+    "url": "https://www.adidas.com.au",
+    "scanned_at": "2026-04-01T00:20:39.549627",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/adidas_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/adidas_australia_mobile.png"
+    },
+    "structure": {
+      "title": "adidas",
+      "url_final": "https://www.adidas.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Unfortunately we are unable to give you access to our site at this time."
+        },
+        {
+          "level": 3,
+          "text": "What could have caused this?"
+        },
+        {
+          "level": 3,
+          "text": "How can I resolve this?"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product customization options",
+        "integration with fitness apps"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_australia",
+    "url": "https://www.ikea.com/au/en/",
+    "scanned_at": "2026-04-01T00:21:01.213145",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/ikea_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/ikea_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
+      "url_final": "https://www.ikea.com/au/en/",
+      "nav_items": [
+        {
+          "text": "Shop products",
+          "href": "https://www.ikea.com/au/en/cat/products-products/"
+        },
+        {
+          "text": "Rooms",
+          "href": "https://www.ikea.com/au/en/rooms/"
+        },
+        {
+          "text": "Deals & Loyalty",
+          "href": "https://www.ikea.com/au/en/offers/"
+        },
+        {
+          "text": "Design & ideas",
+          "href": "https://www.ikea.com/au/en/ideas/"
+        },
+        {
+          "text": "Services",
+          "href": "https://www.ikea.com/au/en/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Clear the search input field",
+        "Search IKEA products using a photo",
+        "Search",
+        "Last chance",
+        "Limited time offers",
+        "IKEA Family offers",
+        "New lower price",
+        "Our lowest price",
+        "Review: 4.6 out of 5 stars. Total reviews:(1597)",
+        "Review: 4.3 out of 5 stars. Total reviews:(758)",
+        "Review: 4.3 out of 5 stars. Total reviews:(3)",
+        "Review: 4.7 out of 5 stars. Total reviews:(7)",
+        "Review: 5 out of 5 stars. Total reviews:(4)"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/au/en/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 262,
+      "images_count": 163,
+      "images_with_alt": 121,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Hej! Welcome to IKEA Australia"
+        },
+        {
+          "level": 2,
+          "text": "Right now at IKEA"
+        },
+        {
+          "level": 2,
+          "text": "Today's best deals"
+        },
+        {
+          "level": 2,
+          "text": "Discover IKEA Family benefits"
+        },
+        {
+          "level": 2,
+          "text": "Inspiration for every room"
+        },
+        {
+          "level": 2,
+          "text": "Get the look"
+        },
+        {
+          "level": 3,
+          "text": "S\u00c4FFEROTDuvet, light warm, 200x200 cm"
+        },
+        {
+          "level": 3,
+          "text": "PILTANDVINGEDuvet cover and 2 pillowcases, white, 240x220/50x80 cm"
+        },
+        {
+          "level": 3,
+          "text": "METODHigh cabinet with shelves, white/Bodbyn grey, 80x37x200 cm"
+        },
+        {
+          "level": 3,
+          "text": "HOKKSUND4 panels for sliding door frame, high-gloss light grey, 75x201 cm"
+        },
+        {
+          "level": 3,
+          "text": "METODHigh cabinet with pull-out larder, white/Bodbyn grey, 60x60x200 cm"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70457067-a9b416-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70457067-a9b416-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70457067-a9b416-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70457067-a9b416-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70457067-a9b416-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70457067-a9b416-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-50579197-a9b416-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-50579197-a9b416-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-50579197-a9b416-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-50579197-a9b416-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89452593-a9b416-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89452593-a9b416-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89452593-a9b416-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89452593-a9b416-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89452593-a9b416-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89452593-a9b416-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70382345-a9b416-P0-3",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70382345-a9b416-P0-3",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "See more",
+        "Join or log in",
+        "See more",
+        "Create an account or log in",
+        "Delivery & collection options",
+        "Find a store",
+        "Planning and design services",
+        "Financial services",
+        "Other services",
+        "Pre-loved items",
+        "Buy-back",
+        "Self service tools",
+        "Track and manage order",
+        "Returns and claims",
+        "Check case status",
+        "Shopping at IKEA",
+        "IKEA Gift cards",
+        "Contact us",
+        "FAQs",
+        "My IKEA Family"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 91,
+      "has_og_tags": true,
+      "meta_description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "scripts_count": 81
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Search IKEA products using a photo",
+        "IKEA Family offers"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "chemist_warehouse",
+    "url": "https://www.chemistwarehouse.com.au",
+    "scanned_at": "2026-04-01T00:21:22.864886",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/chemist_warehouse_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/chemist_warehouse_mobile.png"
+    },
+    "structure": {
+      "title": "Chemist Warehouse | Australia's Largest Pharmacy Retailer",
+      "url_final": "https://www.chemistwarehouse.com.au/",
+      "nav_items": [
+        {
+          "text": "All Fragrance",
+          "href": "/shop-online/542/fragrances"
+        },
+        {
+          "text": "Women's Fragrance",
+          "href": "/shop-online/601/fragrances-womens"
+        },
+        {
+          "text": "Men's Fragrance",
+          "href": "/shop-online/600/fragrances-mens"
+        },
+        {
+          "text": "Unisex Fragrance",
+          "href": "/shop-online/602/unisex-fragrances"
+        },
+        {
+          "text": "Body Mists",
+          "href": "/shop-online/3391/body-mist"
+        },
+        {
+          "text": "Gift Sets",
+          "href": "/shop-online/919/fragrance-gift-sets"
+        },
+        {
+          "text": "All Vitamins & Supplements",
+          "href": "/shop-online/81/vitamins-supplements"
+        },
+        {
+          "text": "Women's Health",
+          "href": "/shop-online/500026/womens-health"
+        },
+        {
+          "text": "Men's Health",
+          "href": "/shop-online/500019/mens-health"
+        },
+        {
+          "text": "Kid's Health",
+          "href": "/shop-online/500018/kids-health"
+        },
+        {
+          "text": "Brain & Memory",
+          "href": "/shop-online/500001/brain-memory"
+        },
+        {
+          "text": "Cold, Flu & Immunity",
+          "href": "/shop-online/500002/cold-flu-immunity"
+        },
+        {
+          "text": "Digestion & Gut Health",
+          "href": "/shop-online/500003/digestion-gut-health"
+        },
+        {
+          "text": "Energy & Fitness",
+          "href": "/shop-online/500004/energy-fitness"
+        },
+        {
+          "text": "Eye Health",
+          "href": "/shop-online/500005/eye-health"
+        },
+        {
+          "text": "Hair, Skin & Nails",
+          "href": "/shop-online/500008/hair-skin-nails"
+        },
+        {
+          "text": "Heart & Circulation",
+          "href": "/shop-online/500016/heart-circulation"
+        },
+        {
+          "text": "Muscles, Bones & Joints",
+          "href": "/shop-online/500021/muscles-bones-joints"
+        },
+        {
+          "text": "Sleep, Stress & Mood",
+          "href": "/shop-online/500025/sleep-stress-mood"
+        },
+        {
+          "text": "Multivitamins",
+          "href": "/shop-online/500020/multivitamins"
+        }
+      ],
+      "buttons": [
+        "AccountMy AccountLogin or Sign up",
+        "$0.00",
+        "Products",
+        "Fragrance",
+        "Vitamins & Supplements",
+        "Shop by Family Health",
+        "Shop by Need",
+        "Pregnancy & Baby",
+        "Cleaning & Bathing",
+        "Eating & Drinking",
+        "Baby Medicine",
+        "For Parents",
+        "Clothing",
+        "Sleeping",
+        "Cosmetics",
+        "Lips",
+        "Eyes",
+        "Complexion",
+        "Cheeks",
+        "Nails",
+        "Tools, Accessories & Storage",
+        "Skincare",
+        "Shop By Need",
+        "Sun Care & Tanning",
+        "Lotions & Creams",
+        "Cleansers"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Enter your search keywords..."
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Enter your email address"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Enter your email address"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 511,
+      "images_count": 84,
+      "images_with_alt": 84,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Fragrance"
+        },
+        {
+          "level": 2,
+          "text": "Vitamins & Supplements"
+        },
+        {
+          "level": 2,
+          "text": "Shop by Family Health"
+        },
+        {
+          "level": 2,
+          "text": "Shop by Need"
+        },
+        {
+          "level": 2,
+          "text": "Pregnancy & Baby"
+        },
+        {
+          "level": 3,
+          "text": "My Account"
+        },
+        {
+          "level": 3,
+          "text": "Heat, Colour, Repeat: Why Your Hair is Working Harder Than Ever (And What it Nee"
+        },
+        {
+          "level": 3,
+          "text": "Why Omega-3 Supplements Aren\u2019t One-Size-Fits-All (and How to Choose)"
+        },
+        {
+          "level": 3,
+          "text": "We\u2019re Not Skipping Foot Care Anymore, Because It\u2019s Easier Than You Think"
+        },
+        {
+          "level": 3,
+          "text": "Get The Glow: Glass Skin in Two Easy Steps"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Enter your search keywords..."
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Enter your email address"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Enter your email address"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Find a Store",
+        "Competitions",
+        "Blog",
+        "Help Centre",
+        "Privacy Policy",
+        "Privacy Policy",
+        "Catalogue",
+        "Gift Cards",
+        "Click & Collect",
+        "Fast Delivery",
+        "Shipping & Delivery",
+        "Prescriptions",
+        "Vaccinations",
+        "Instant Consult",
+        "Chemist Warehouse App",
+        "Help Centre"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 56,
+      "has_og_tags": true,
+      "meta_description": "Australia\u2019s largest pharmacy retailer Chemist Warehouse offers low prices on fragrances, prescriptions, vitamins, beauty, baby care, and more.",
+      "scripts_count": 57
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive range of health and wellness products",
+        "Focus on family health categories"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "pet_circle",
+    "url": "https://www.petcircle.com.au",
+    "scanned_at": "2026-04-01T00:21:42.012236",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/pet_circle_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/pet_circle_mobile.png"
+    },
+    "structure": {
+      "title": "Online Pet Shop | Food, Toys, Flea & Worming | Pet Circle",
+      "url_final": "https://www.petcircle.com.au/",
+      "nav_items": [
+        {
+          "text": "Create a Pet ProfileTailor the shop experience for",
+          "href": "/sign-in?referrer=/account/my-pets"
+        },
+        {
+          "text": "New ArrivalsNew",
+          "href": "/collection/new-dog-arrivals"
+        },
+        {
+          "text": "Sales & Deals",
+          "href": "/collection/dog-deals"
+        },
+        {
+          "text": "Fresh & Frozen Food",
+          "href": "/dog/food/fresh-food"
+        },
+        {
+          "text": "Dry Food",
+          "href": "/dog/food/dry-food"
+        },
+        {
+          "text": "Wet Food",
+          "href": "/dog/food/wet-food"
+        },
+        {
+          "text": "Veterinary Diets",
+          "href": "/dog/food/vet-diets"
+        },
+        {
+          "text": "Food Toppers",
+          "href": "/collection/dog-food-toppers"
+        },
+        {
+          "text": "Freeze and Air Dried Food",
+          "href": "/collection/freeze-and-air-dried-dog-food"
+        },
+        {
+          "text": "Natural Food",
+          "href": "/dog/food/natural-food"
+        },
+        {
+          "text": "Puppy Food",
+          "href": "/dog/food/puppy"
+        },
+        {
+          "text": "Senior Food",
+          "href": "/dog/food/senior"
+        },
+        {
+          "text": "Hip and Joint Care",
+          "href": "/collection/hip-and-joint-care-dog"
+        },
+        {
+          "text": "Dental Health",
+          "href": "/collection/dental-health-dog"
+        },
+        {
+          "text": "Sensitive Skin",
+          "href": "/collection/sensitive-skin-dog"
+        },
+        {
+          "text": "Digestive Care",
+          "href": "/collection/digestive-care-dog"
+        },
+        {
+          "text": "Weight Control",
+          "href": "/collection/weight-control-dog"
+        },
+        {
+          "text": "Urinary Care",
+          "href": "/collection/urinary-care-dog"
+        },
+        {
+          "text": "Anxiety and Calming",
+          "href": "/collection/anxiety-and-calming-dog"
+        },
+        {
+          "text": "Ear and Eye Care",
+          "href": "/collection/ear-and-eye-care-dog"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "Dog",
+        "Cat",
+        "Other Pets",
+        "Search",
+        "Submit search",
+        "Buy Again",
+        "Sign Up/Login",
+        "Cart",
+        "Dog",
+        "Everything Dog",
+        "Everything Dog",
+        "Dog Food",
+        "Our Dog Food Range",
+        "Shop by Lifestage",
+        "Shop by Lifestage",
+        "Shop for Better Health",
+        "Shop for Better Health",
+        "Shop by Brand",
+        "Shop by Brand",
+        "Dog Treats",
+        "Our Dog Treats Range",
+        "Shop by Brand",
+        "Shop by Brand",
+        "Dog Toys",
+        "Our Dog Toys Range",
+        "Shop by Brand",
+        "Shop by Brand",
+        "Dog Health & Wellness"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "searchTerm",
+              "placeholder": "Find the perfect toys, treats, food or advice for "
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Email Address"
+            }
+          ]
+        }
+      ],
+      "links_count": 857,
+      "images_count": 273,
+      "images_with_alt": 191,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Save $20 off your first order       USE CODE NEWBESTIE20      T&CS APPLY*"
+        },
+        {
+          "level": 2,
+          "text": "Shop by pet"
+        },
+        {
+          "level": 2,
+          "text": "Shop Cyber Week by pet"
+        },
+        {
+          "level": 2,
+          "text": "Popular categories"
+        },
+        {
+          "level": 2,
+          "text": "Shop Cyber Week by category"
+        },
+        {
+          "level": 3,
+          "text": "Sales & deals"
+        },
+        {
+          "level": 3,
+          "text": "Auto Delivery"
+        },
+        {
+          "level": 3,
+          "text": "Pet Profile"
+        },
+        {
+          "level": 3,
+          "text": "New arrivals"
+        },
+        {
+          "level": 3,
+          "text": "Is premium food worth it?"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "searchTerm",
+          "placeholder": "Find the perfect toys, treats, food or advice for "
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Email Address"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Contact Us",
+        "Terms & Conditions",
+        "FAQs",
+        "Delivery",
+        "Returns",
+        "Price Beat",
+        "Complaints Handling",
+        "Product Recall",
+        "Auto Delivery Terms",
+        "About Us",
+        "Press",
+        "Careers",
+        "Giving Back",
+        "Policies",
+        "Top Brands",
+        "Sustainability",
+        "Insurance",
+        "Pharmacy",
+        "Auto Delivery",
+        "Vet Articles"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 346,
+      "has_og_tags": true,
+      "meta_description": "Australia's best pet food & supplies online shop. We deliver all premium pet food brands, medications, toys, accessories and treats to help you Pet Better",
+      "scripts_count": 139
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Create a Pet Profile for tailored shopping experience",
+        "Auto Delivery option for regular purchases"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temple_webster",
+    "url": "https://www.templeandwebster.com.au",
+    "scanned_at": "2026-04-01T00:22:03.964832",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/temple_webster_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/temple_webster_mobile.png"
+    },
+    "structure": {
+      "title": "Furniture, Home Decor, Tools, Office Furniture, Bedding, Lighting, Outdoor Furniture & Luggage",
+      "url_final": "https://www.templeandwebster.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 1,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Hmm, something's not quite right."
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "Shop Temple & Webster for your home across all styles and budgets. Hundreds of brands of furniture, lighting, cookware, and more.",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "high-quality product images",
+        "detailed product descriptions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "cotton_on",
+    "url": "https://cottonon.com/AU/",
+    "scanned_at": "2026-04-01T00:22:23.312373",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/cotton_on_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/cotton_on_mobile.png"
+    },
+    "structure": {
+      "title": "Cotton On Australia | Women's, Men's & Kids Clothing & Accessories",
+      "url_final": "https://cottonon.com/AU/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/cottononbody/"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/cottononkids/"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/typo-home/"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/factorie-home/"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/supre-home/"
+        },
+        {
+          "text": "Women",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Men",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/co/women/monchhichi/"
+        },
+        {
+          "text": "",
+          "href": "https://cottonon.com/AU/co/women/monchhichi/"
+        },
+        {
+          "text": "Shop now",
+          "href": "https://cottonon.com/AU/co/women/monchhichi/"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://cottonon.com/AU/co/women/womens-shopall/"
+        },
+        {
+          "text": "New In",
+          "href": "https://cottonon.com/AU/co/women/womens-new-arrivals/"
+        },
+        {
+          "text": "Monchhichi",
+          "href": "https://cottonon.com/AU/co/women/monchhichi/"
+        },
+        {
+          "text": "Clothing",
+          "href": "https://cottonon.com/AU/co/women/womens-clothing/"
+        },
+        {
+          "text": "Clothing",
+          "href": "https://cottonon.com/AU/co/women/womens-clothing/"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://cottonon.com/AU/co/women/womens-clothing/"
+        },
+        {
+          "text": "Tops",
+          "href": "https://cottonon.com/AU/co/women/womens-clothing/womens-tops/"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://cottonon.com/AU/co/women/womens-clothing/womens-tops/"
+        },
+        {
+          "text": "Tanks & Camis",
+          "href": "https://cottonon.com/AU/co/women/womens-clothing/womens-tops/womens-sleeveless-tops/"
+        }
+      ],
+      "buttons": [
+        "Search",
+        "Search",
+        "Clear",
+        "Log In",
+        "Search",
+        "Log In",
+        "Search",
+        "Clear",
+        "Search",
+        "Clear",
+        "Shop now",
+        "Shop now",
+        "Shop now",
+        "Shop now",
+        "Join for Free Delivery",
+        "Join Now",
+        "Women",
+        "Men",
+        "Shop now",
+        "Skip to main content",
+        "Join Now",
+        "Join Now",
+        "Skip to main content",
+        "Women"
+      ],
+      "forms": [
+        {
+          "action": "/AU/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "What are you looking for?"
+            },
+            {
+              "type": "hidden",
+              "name": "lang",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "cgid",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://cottonon.com/AU/sign-in-form/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "email",
+              "name": "dwfrm_login_username",
+              "placeholder": ""
+            },
+            {
+              "type": "password",
+              "name": "dwfrm_login_password",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "dwfrm_login_rememberme",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "dwfrm_login_login",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "recaptcha_token",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "recaptcha_action",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "csrf_token",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://cottonon.com/AU/sign-in-form/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "email",
+              "name": "dwfrm_login_username",
+              "placeholder": ""
+            },
+            {
+              "type": "password",
+              "name": "dwfrm_login_password",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "dwfrm_login_rememberme",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "dwfrm_login_login",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "recaptcha_token",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "recaptcha_action",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "csrf_token",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/AU/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        },
+        {
+          "action": "/AU/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Search"
+            },
+            {
+              "type": "hidden",
+              "name": "lang",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "cgid",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 554,
+      "images_count": 91,
+      "images_with_alt": 86,
+      "headings": [
+        {
+          "level": 2,
+          "text": "New fits. New feel."
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "1995 called"
+        },
+        {
+          "level": 2,
+          "text": "New fits. New feel."
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 3,
+          "text": "Sweats from $59.99"
+        },
+        {
+          "level": 3,
+          "text": ""
+        },
+        {
+          "level": 3,
+          "text": "Minimalist 90s pieces are back"
+        },
+        {
+          "level": 3,
+          "text": "Sweats from $59.99"
+        },
+        {
+          "level": 3,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "lang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "cgid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "csrf_token",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "dwfrm_login_username",
+          "placeholder": ""
+        },
+        {
+          "type": "password",
+          "name": "dwfrm_login_password",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "dwfrm_login_rememberme",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dwfrm_login_login",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "recaptcha_token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "recaptcha_action",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "csrf_token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "csrf_token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "csrf_token",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "dwfrm_login_username",
+          "placeholder": ""
+        },
+        {
+          "type": "password",
+          "name": "dwfrm_login_password",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "dwfrm_login_rememberme",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dwfrm_login_login",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Join now",
+        "Delivery & Tracking",
+        "Returns & Exchanges",
+        "Size Guide",
+        "Find a Store",
+        "Contact Us",
+        "eGift Cards",
+        "CottonOn & Co. Perks",
+        "Product Recall",
+        "Online Safety",
+        "Cotton On x eBay",
+        "The Cotton On Group",
+        "Cotton On Careers",
+        "Doing Good",
+        "Cotton On Foundation",
+        "Supr\u00e9 Foundation",
+        "Factorie Foundation",
+        "Buy Now Pay Later",
+        "Accessibility",
+        "Terms & Conditions"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 100,
+      "has_og_tags": false,
+      "meta_description": "Shop Six Brands in one place! Discover the latest trends at Cotton On, Body, Cotton On Kids, Typo, Factorie & Supre.",
+      "scripts_count": 90
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Join for Free Delivery",
+        "Cotton On x eBay"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "decathlon_australia",
+    "url": "https://www.decathlon.com.au",
+    "scanned_at": "2026-04-01T00:22:44.097526",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/decathlon_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/decathlon_australia_mobile.png"
+    },
+    "structure": {
+      "title": "DECATHLON\u00ae Australia | Australia's Premier Outdoor & Sporting Goods Store",
+      "url_final": "https://www.decathlon.com.au/",
+      "nav_items": [
+        {
+          "text": "All Sports",
+          "href": ""
+        },
+        {
+          "text": "Men",
+          "href": ""
+        },
+        {
+          "text": "Women",
+          "href": ""
+        },
+        {
+          "text": "Kids",
+          "href": ""
+        },
+        {
+          "text": "Accessories",
+          "href": ""
+        },
+        {
+          "text": "Equipment and Leisure",
+          "href": ""
+        },
+        {
+          "text": "Health & Nutrition",
+          "href": ""
+        },
+        {
+          "text": "Best Deals",
+          "href": ""
+        },
+        {
+          "text": "New Arrivals",
+          "href": ""
+        },
+        {
+          "text": "Marketplace",
+          "href": ""
+        }
+      ],
+      "buttons": [
+        "Tempe",
+        "update location",
+        "REGISTER NOW",
+        "DISCOVER NOW",
+        "Discover Now",
+        "Discover now",
+        "Discover Now",
+        "Discover Now",
+        "Discover Now",
+        "Discover Now",
+        "Discover Now",
+        "Discover Now",
+        "DISCOVER NOW",
+        "Discover now",
+        "DISCOVER NOW",
+        "Feedback"
+      ],
+      "forms": [],
+      "links_count": 105,
+      "images_count": 51,
+      "images_with_alt": 49,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Decathlon: Australia\u2019s Leading Sports Store for Every Athlete"
+        },
+        {
+          "level": 2,
+          "text": "Explore Our Top Sports & Technical Gear"
+        },
+        {
+          "level": 2,
+          "text": "Shop by Lifestyle: Gear for Every Aussie Adventure"
+        },
+        {
+          "level": 2,
+          "text": "The Decathlon Difference: Lab Tested, Field Proven"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Explore 50,000 products from 100+ Sports"
+        }
+      ],
+      "footer_links": [
+        "> Who We are",
+        "> Membership",
+        "> Sustainability",
+        "> Sustainable product conception",
+        "> Innovation",
+        "> Price Drop",
+        "> Events",
+        "> Contact Us",
+        "> Return Policy",
+        "> Terms of Service",
+        "> Privacy Policy",
+        "> Warranty Information",
+        "> Promotional Terms & Conditions",
+        "> Our Stores",
+        "> Decathlon Marketplace",
+        "> Second Life",
+        "> Click & Collect"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 18,
+      "has_og_tags": true,
+      "meta_description": "Decathlon offers affordable sportswear, shoes & gear for over 100 sports. Shop online with free 1h Click & Collect.",
+      "scripts_count": 57
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Decathlon Difference: Lab Tested, Field Proven",
+        "Explore 50,000 products from 100+ Sports"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_australia",
+    "url": "https://www.samsung.com/au/",
+    "scanned_at": "2026-04-01T00:23:05.369369",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/samsung_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/samsung_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung Australia | Mobile | TV | Home Appliances",
+      "url_final": "https://www.samsung.com/au/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/au/"
+        },
+        {
+          "text": "CartNumber of Products :0",
+          "href": "https://shop.samsung.com/au/cart"
+        },
+        {
+          "text": "Log-In",
+          "href": ""
+        },
+        {
+          "text": "Open My Menu",
+          "href": ""
+        },
+        {
+          "text": "ShopExplore Shop",
+          "href": "/au/offer/"
+        },
+        {
+          "text": "Shop",
+          "href": "/au/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNEW",
+          "href": "/au/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/au/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "/au/tablets/galaxy-tab-s11/buy/"
+        },
+        {
+          "text": "Galaxy Watch8",
+          "href": "/au/watches/galaxy-watch8/buy/?modelCode=SM-L320NZSAXSA"
+        },
+        {
+          "text": "Neo QLED 8K TV",
+          "href": "/au/tvs/qled-tv/qn900f-75-inch-neo-qled-8k-vision-ai-smart-tv-qa75qn900fwxxy/"
+        },
+        {
+          "text": "OLED TV",
+          "href": "/au/tvs/oled-tv/s95f-65-inch-oled-4k-vision-ai-smart-tv-qa65s95fawxxy/"
+        },
+        {
+          "text": "The Frame TV",
+          "href": "/au/lifestyle-tvs/the-frame/ls03fw-75-inch-the-frame-pro-4k-vision-ai-smart-tv-black-qa75ls03fwwxxy/"
+        },
+        {
+          "text": "Smart Monitor TV",
+          "href": "/au/monitors/full-hd-1080p/f6000-32-inch-ls32f6000fwxxy/"
+        },
+        {
+          "text": "Q-series Soundbar",
+          "href": "/au/audio-devices/soundbar/q990f-black-hw-q990f-xy/"
+        },
+        {
+          "text": "Odyssey Gaming Monitor",
+          "href": "/au/monitors/gaming/odyssey-3d-g90xf-27-inch-165hz-uhd-ls27fg900xexxy/"
+        },
+        {
+          "text": "Family Hub\u2122",
+          "href": "/au/refrigerators/french-door/rf9000-t-style-french-door-32inch-family-hub-809l-stainless-steel-rf71"
+        },
+        {
+          "text": "Heat Pump Combo",
+          "href": "/au/washers-and-dryers/washer-dryer-combo/wd8000dk-combo-all-in-one-combo-super-speed-18-5kg-gray-wd"
+        },
+        {
+          "text": "Jet Stick Vacuum",
+          "href": "/au/vacuum-cleaners/stick/vs9000rl-stick-more-advance-cleaning-performance-digital-inverter-motor-je"
+        },
+        {
+          "text": "Split System Air Conditioner",
+          "href": "/au/air-conditioners/wall-mount/ar9500t-ar10dyeabwknst-wind-free-ar09dxeanwknsa/"
+        }
+      ],
+      "buttons": [
+        "Read More",
+        "close",
+        "Australia",
+        "Australia / English",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Continue",
+        "Close",
+        "SearchSearch",
+        "Navigation",
+        "Back",
+        "Search",
+        "Shop",
+        "Mobile",
+        "TV & AV",
+        "Appliances",
+        "Monitors & Storage",
+        "Wearables",
+        "Accessories",
+        "Support",
+        "Product Help",
+        "Contact",
+        "Repairs & Warranty",
+        "Additional Info",
+        "SearchSearch",
+        "Log-In/Sign-Up",
+        "Open My Menu",
+        "Close menu",
+        "OK",
+        "Layer Popup Close"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLAU/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLAU/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 325,
+      "images_count": 181,
+      "images_with_alt": 148,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Recommended for you"
+        },
+        {
+          "level": 2,
+          "text": "Explore the Stories"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "open",
+        "Shop Home",
+        "Buy Direct Get More",
+        "Discover AI",
+        "SmartThings",
+        "Samsung Care+",
+        "Education Store",
+        "Samsung Online Shop",
+        "Live Shop",
+        "Government Store",
+        "Corporate Store",
+        "Mobile Trade-In",
+        "Appliance Trade-Up",
+        "Shop FAQ",
+        "Samsung Experience Store",
+        "Explore",
+        "open",
+        "Galaxy Smartphone",
+        "Galaxy Tab",
+        "Galaxy Watch"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 192,
+      "has_og_tags": true,
+      "meta_description": "Samsung helps you discover a wide range of home electronics with cutting-edge technology including smartphones, tablets, TVs, home appliances and more.",
+      "scripts_count": 90
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Samsung Care+",
+        "Mobile Trade-In",
+        "Appliance Trade-Up"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "apple_australia",
+    "url": "https://www.apple.com/au/shop",
+    "scanned_at": "2026-04-01T00:23:25.141474",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/apple_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/apple_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store Online - Apple (AU)",
+      "url_final": "https://www.apple.com/au/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/au/"
+        },
+        {
+          "text": "Store",
+          "href": "/au/store"
+        },
+        {
+          "text": "Shop the Latest",
+          "href": "https://www.apple.com/au/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/au/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/au/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/au/shop/buy-iphone"
+        },
+        {
+          "text": "Apple\u00a0Watch",
+          "href": "https://www.apple.com/au/shop/buy-watch"
+        },
+        {
+          "text": "Apple Vision Pro",
+          "href": "https://www.apple.com/au/shop/goto/buy_vision"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/au/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Accessories",
+          "href": "https://www.apple.com/au/shop/accessories/all"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.apple.com/au/retail/"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://secure.store.apple.com/au/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In",
+          "href": "https://www.apple.com/au/shop/trade-in"
+        },
+        {
+          "text": "Financing",
+          "href": "https://www.apple.com/au/shop/goto/ww/financing"
+        },
+        {
+          "text": "Personal Setup",
+          "href": "https://www.apple.com/au/shop/goto/personal_setup"
+        },
+        {
+          "text": "Certified Refurbished",
+          "href": "https://www.apple.com/au/shop/refurbished"
+        },
+        {
+          "text": "Education",
+          "href": "https://www.apple.com/au/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Business",
+          "href": "https://www.apple.com/au/retail/business/"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/au/mac/"
+        },
+        {
+          "text": "Explore All Mac",
+          "href": "https://www.apple.com/au/mac/"
+        }
+      ],
+      "buttons": [
+        "Previous - Product",
+        "Next - Product",
+        "Previous -",
+        "Next -",
+        "Previous - Help is here.",
+        "Next - Help is here.",
+        "Previous - The Apple Store difference.",
+        "Next - The Apple Store difference.",
+        "Previous - Accessories.",
+        "Next - Accessories.",
+        "Previous - Loud and clear.",
+        "Next - Loud and clear.",
+        "Previous - Nike x Beats.",
+        "Next - Nike x Beats."
+      ],
+      "forms": [
+        {
+          "action": "/au/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 412,
+      "images_count": 95,
+      "images_with_alt": 77,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Store"
+        },
+        {
+          "level": 2,
+          "text": "Shop"
+        },
+        {
+          "level": 2,
+          "text": "Quick Links"
+        },
+        {
+          "level": 2,
+          "text": "Shop Special Stores"
+        },
+        {
+          "level": 2,
+          "text": "Explore Mac"
+        },
+        {
+          "level": 2,
+          "text": "Shop Mac"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Learn more",
+        "terms",
+        "https://www.apple.com/au/shop/shipping-pickup/",
+        "support.apple.com/en-au/121115(Opens in a new wind",
+        "Learn more",
+        "terms",
+        "https://www.apple.com/au/shop/shipping-pickup/",
+        "support.apple.com/en-au/121115(Opens in a new wind",
+        "Apple",
+        "Store",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "Vision",
+        "AirPods",
+        "TV & Home",
+        "AirTag",
+        "Accessories",
+        "Gift Cards"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 65,
+      "has_og_tags": true,
+      "meta_description": "There\u2019s still time to give something special. Shop the latest gifts and get personalised shopping help from a Specialist.",
+      "scripts_count": 60
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 9,
+      "notable_unique_features": [
+        "Apple Trade In program",
+        "Personal Setup service",
+        "Financing options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_australia",
+    "url": "https://www.temu.com/au",
+    "scanned_at": "2026-04-01T00:23:44.184936",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/temu_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/temu_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Temu | Login",
+      "url_final": "https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2Fau&login_scene=2&refer_page_name=home&refer_page_id=10005_1774992225384_mag8rkk26b&refer_page_sn=10005&_x_sessn_id=mbpncpeexx",
+      "nav_items": [],
+      "buttons": [
+        "Continue"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 32,
+      "images_count": 37,
+      "images_with_alt": 18,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sign in / Register"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "About Temu",
+        "Affiliate & Influencer Program: Join to Earn",
+        "Contact us",
+        "Careers",
+        "Press",
+        "Temu's Tree Planting Program",
+        "Return and refund policy",
+        "Intellectual property policy",
+        "Shipping info",
+        "Your Recalls and Product Safety Alerts",
+        "Report suspicious activity",
+        "Minimum Order Value",
+        "Support center & FAQ",
+        "Safety center",
+        "Temu purchase protection",
+        "Sitemap",
+        "Partner with Temu",
+        "Download the Temu App",
+        "Download on theApp Store",
+        "Get it onGoogle Play"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 34,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 32
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Temu's Tree Planting Program",
+        "Affiliate & Influencer Program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "shein_australia",
+    "url": "https://au.shein.com",
+    "scanned_at": "2026-04-01T00:24:03.620175",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/shein_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/shein_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Save Money. Live in Style - Shop Fashion, Beauty, Home & More\u00a0| SHEIN\u00a0Australia",
+      "url_final": "https://au.shein.com/",
+      "nav_items": [
+        {
+          "text": "Just for You",
+          "href": "https://au.shein.com/False-Eyelashes-and-Adhesives-Kits-c-4832.html?ici=au_tab01navbar01&src_module="
+        },
+        {
+          "text": "New In",
+          "href": "https://au.shein.com/new/New-In-All-sc-0021884529.html?ici=au_tab02navbar02&src_module=topcat&src_id"
+        },
+        {
+          "text": "Sale",
+          "href": "https://au.shein.com/sale/All-Sale-sc-0051884505.html?ici=au_tab03navbar03&src_module=topcat&src_ide"
+        },
+        {
+          "text": "Women Clothing",
+          "href": "https://au.shein.com/RecommendSelection/Women-Clothing-sc-017172961.html?ici=au_tab04navbar04&src_mo"
+        },
+        {
+          "text": "Beachwear",
+          "href": "https://au.shein.com/RecommendSelection/Beachwear-sc-017706887.html?ici=au_tab05navbar05&src_module="
+        },
+        {
+          "text": "Curve",
+          "href": "https://au.shein.com/RecommendSelection/Curve-sc-017172964.html?ici=au_tab06navbar06&src_module=topc"
+        },
+        {
+          "text": "Home & Living",
+          "href": "https://au.shein.com/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=au_tab07navbar07&src_modu"
+        },
+        {
+          "text": "Men Clothing",
+          "href": "https://au.shein.com/RecommendSelection/Men-Clothing-sc-017172963.html?ici=au_tab08navbar08&src_modu"
+        },
+        {
+          "text": "Kids",
+          "href": "https://au.shein.com/RecommendSelection/Kids-sc-017185550.html?ici=au_tab09navbar09&src_module=topca"
+        },
+        {
+          "text": "Jewelry & Accessories",
+          "href": "https://au.shein.com/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=au_tab10navbar10&s"
+        },
+        {
+          "text": "Underwear & Sleepwear",
+          "href": "https://au.shein.com/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=au_tab11navbar11&s"
+        },
+        {
+          "text": "Beauty & Health",
+          "href": "https://au.shein.com/RecommendSelection/Beauty-Health-sc-017172970.html?ici=au_tab12navbar12&src_mod"
+        },
+        {
+          "text": "Shoes",
+          "href": "https://au.shein.com/RecommendSelection/Shoes-sc-017172966.html?ici=au_tab13navbar13&src_module=topc"
+        },
+        {
+          "text": "Bags & Luggage",
+          "href": "https://au.shein.com/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=au_tab14navbar14&src_modu"
+        },
+        {
+          "text": "Home Textiles",
+          "href": "https://au.shein.com/RecommendSelection/Home-Textile-sc-017172972.html?ici=au_tab15navbar15&src_modu"
+        },
+        {
+          "text": "Cell Phones & Accessories",
+          "href": "https://au.shein.com/RecommendSelection/Cell-Phones-Accessories-sc-017706910.html?ici=au_tab16navbar"
+        },
+        {
+          "text": "Electronics",
+          "href": "https://au.shein.com/RecommendSelection/Electronics-sc-017706908.html?ici=au_tab17navbar17&src_modul"
+        },
+        {
+          "text": "Sports & Outdoors",
+          "href": "https://au.shein.com/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=au_tab18navbar18&src_m"
+        },
+        {
+          "text": "Toys & Games",
+          "href": "https://au.shein.com/RecommendSelection/Toys-Games-sc-017172978.html?ici=au_tab19navbar19&src_module"
+        },
+        {
+          "text": "Baby & Maternity",
+          "href": "https://au.shein.com/RecommendSelection/Baby-Maternity-sc-017172967.html?ici=au_tab20navbar20&src_mo"
+        }
+      ],
+      "buttons": [
+        "Phone Case",
+        "Squishy",
+        "Nails",
+        "Tops",
+        "Dress",
+        "Lashes",
+        "Room Decor",
+        "Bikini",
+        "Shorts",
+        "Categories",
+        "NO",
+        "YES",
+        "Collect All"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "Mermaidcore"
+            }
+          ]
+        }
+      ],
+      "links_count": 84,
+      "images_count": 78,
+      "images_with_alt": 49,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Special Deals Just for You"
+        },
+        {
+          "level": 3,
+          "text": "Search Discovery"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "Mermaidcore"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 96,
+      "has_og_tags": true,
+      "meta_description": "Shop\u00a0the\u00a0latest\u00a0trends\u00a0in\u00a0womens\u00a0clothing\u00a0fashion\u00a0online\u00a0now\u00a0with\u00a0SHEIN\u00a0Australia\u00a0store.\u00a0Browse\u00a0our\u00a0curated\u00a0selection\u00a0of\u00a0womens\u00a0apparel,\u00a0accessories\u00a0and\u00a0more.\u00a0Free\u00a0Shipping\u00a0Available\u00a0\u221a\u00a0Free Return \u221a 1",
+      "scripts_count": 83
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "personalized recommendations",
+        "wide range of product categories"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "gumtree",
+    "url": "https://www.gumtree.com.au",
+    "scanned_at": "2026-04-01T00:24:22.897624",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/gumtree_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/gumtree_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.gumtree.com.au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 7,
+      "notable_unique_features": [
+        "local classifieds",
+        "community-driven marketplace"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "asos_australia",
+    "url": "https://www.asos.com/au/",
+    "scanned_at": "2026-04-01T00:24:41.831521",
+    "screenshots": {
+      "desktop": "data/ecommerce_australia/2026-04-01/screenshots/asos_australia_desktop.png",
+      "mobile": "data/ecommerce_australia/2026-04-01/screenshots/asos_australia_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.asos.com/au/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive size guide",
+        "ASOS Marketplace for independent brands"
+      ],
+      "confidence": "high"
+    }
+  }
+]

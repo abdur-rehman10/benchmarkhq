@@ -1,0 +1,227 @@
+{
+  "name": "kitapyurdu",
+  "url": "https://www.kitapyurdu.com",
+  "scanned_at": "2026-03-31T22:59:55.475813",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/kitapyurdu_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/kitapyurdu_mobile.png"
+  },
+  "structure": {
+    "title": "Kitapyurdu, Kitapla bulu\u015fman\u0131n en kolay yolu",
+    "url_final": "https://www.kitapyurdu.com/",
+    "nav_items": [],
+    "buttons": [
+      "Sepetinizi Haz\u0131rlay\u0131n"
+    ],
+    "forms": [
+      {
+        "action": "https://www.kitapyurdu.com/index.php?route=module/language",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "language_code",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "redirect",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.kitapyurdu.com/index.php?route=module/currency",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "currency_code",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "redirect",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 541,
+    "images_count": 147,
+    "images_with_alt": 121,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language_code",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "currency_code",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "search_keyword",
+        "placeholder": "kitap ad\u0131, yazar veya yay\u0131nevi ara"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 64,
+    "has_og_tags": false,
+    "meta_description": "Kitapyurdu, Kitapla bulu\u015fman\u0131n en kolay yolu",
+    "scripts_count": 58
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive book collection",
+      "Localized content for Turkish market"
+    ],
+    "confidence": "high"
+  }
+}

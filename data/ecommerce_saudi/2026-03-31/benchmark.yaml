@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_saudi
+  name: E-commerce Saudi Arabia
+  country: Saudi Arabia
+  currency: SAR
+  language: ar
+  version: 1.0.0
+  generated_at: '2026-03-31T23:12:24.953780'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - noon_saudi
+  - amazon_saudi
+  - jarir
+  - extra_stores
+  - namshi
+  - shein_saudi
+  - temu_saudi
+  - ikea_saudi
+  - lulu_saudi
+  - nike_saudi
+  - adidas_saudi
+  - handm_saudi
+  - zara_saudi
+  - centrepoint
+  - max_fashion_sa
+  - samsung_saudi
+  - apple_saudi
+  - nahdi
+  - nana_direct
+  - sun_sand_sports
+  - 6th_street
+  - styli
+  - floward
+  - whites
+  - saco
+  - decathlon_saudi
+  - home_centre_sa
+  - ounass_sa
+  - bath_body_works_sa
+  - tamimi_markets
+features:
+  critical:
+  - id: product_search
+    frequency: 17/17
+    percent: 100
+  - id: category_browsing
+    frequency: 17/17
+    percent: 100
+  - id: guest_checkout
+    frequency: 10/17
+    percent: 100
+  - id: product_images
+    frequency: 17/17
+    percent: 100
+  - id: product_descriptions
+    frequency: 12/17
+    percent: 100
+  - id: price_display
+    frequency: 14/17
+    percent: 100
+  - id: stock_availability
+    frequency: 11/17
+    percent: 100
+  - id: shopping_cart
+    frequency: 17/17
+    percent: 100
+  - id: add_to_cart
+    frequency: 17/17
+    percent: 100
+  - id: multiple_payment
+    frequency: 12/17
+    percent: 100
+  - id: shipping_info
+    frequency: 13/17
+    percent: 100
+  - id: order_tracking
+    frequency: 12/17
+    percent: 100
+  - id: order_history
+    frequency: 11/17
+    percent: 100
+  - id: return_refund_info
+    frequency: 15/17
+    percent: 100
+  - id: contact_form
+    frequency: 14/17
+    percent: 100
+  - id: phone_support
+    frequency: 12/17
+    percent: 100
+  - id: language_attribute
+    frequency: 17/17
+    percent: 100
+  - id: privacy_policy
+    frequency: 13/17
+    percent: 100
+  - id: cookie_consent
+    frequency: 11/17
+    percent: 100
+  - id: terms_of_service
+    frequency: 13/17
+    percent: 100
+  - id: responsive_design
+    frequency: 14/17
+    percent: 100
+  - id: help_center
+    frequency: 15/17
+    percent: 94
+  - id: alt_text_on_images
+    frequency: 16/17
+    percent: 94
+  - id: login_signup
+    frequency: 12/17
+    percent: 92
+  - id: related_products
+    frequency: 9/17
+    percent: 90
+  - id: promo_code
+    frequency: 9/17
+    percent: 90
+  required:
+  - id: footer_with_links
+    frequency: 14/17
+    percent: 82
+  - id: hero_section
+    frequency: 8/17
+    percent: 80
+  - id: estimated_delivery
+    frequency: 7/17
+    percent: 78
+  - id: wishlist
+    frequency: 9/17
+    percent: 75
+  - id: search_filters
+    frequency: 7/17
+    percent: 70
+  - id: star_ratings
+    frequency: 7/17
+    percent: 70
+  - id: customer_reviews
+    frequency: 7/17
+    percent: 70
+  - id: search_autocomplete
+    frequency: 6/17
+    percent: 67
+  - id: personalized_recommendations
+    frequency: 6/17
+    percent: 67
+  - id: sticky_header
+    frequency: 6/17
+    percent: 67
+  recommended:
+  - id: trending_items
+    frequency: 6/17
+    percent: 60
+  - id: social_login
+    frequency: 5/17
+    percent: 56
+  - id: review_photos
+    frequency: 5/17
+    percent: 56
+  - id: recently_viewed
+    frequency: 5/17
+    percent: 56
+  - id: push_notifications
+    frequency: 5/17
+    percent: 56
+  - id: live_chat
+    frequency: 5/17
+    percent: 56
+  - id: breadcrumb_navigation
+    frequency: 5/17
+    percent: 56
+  - id: skeleton_loading
+    frequency: 5/17
+    percent: 56
+  - id: size_variant_selector
+    frequency: 4/17
+    percent: 44
+  nice_to_have: []
+  innovative: []

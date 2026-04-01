@@ -1,0 +1,183 @@
+{
+  "name": "netshoes",
+  "url": "https://www.netshoes.com.br",
+  "scanned_at": "2026-03-31T21:41:29.423999",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/netshoes_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/netshoes_mobile.png"
+  },
+  "structure": {
+    "title": "Loja de Artigos Esportivos Online | Netshoes",
+    "url_final": "https://www.netshoes.com.br/",
+    "nav_items": [
+      {
+        "text": "CORRIDA",
+        "href": "https://www.netshoes.com.br/sub/corrida?hm_ger_menuhome_corrida_240924-mas-00&psn=Menu_Top"
+      },
+      {
+        "text": "MUNDIAL",
+        "href": "https://www.netshoes.com.br/copa-2026?mi=hm_ger_menuhome_futebol_240924&psn=Menu_Top"
+      },
+      {
+        "text": "SPORTSTYLE",
+        "href": "https://www.netshoes.com.br/sub/sportstyle?mi=hm_ger_mntop_R-sportstyle&psn=Menu_Top"
+      },
+      {
+        "text": "ELETR\u00d4NICOS",
+        "href": "https://www.netshoes.com.br/sub/e-sports?mi=hm_ger_mntop_R-feminino&psn=Menu_Top"
+      },
+      {
+        "text": "SA\u00daDE",
+        "href": "https://www.netshoes.com.br/sub/saude-e-bem-estar?mi=hm_ger_mntop_R-wellness&psn=Menu_Top"
+      },
+      {
+        "text": "KIDS",
+        "href": "https://www.netshoes.com.br/sub/infantil?mi=hm_ger_mntop_R-wellness&psn=Menu_Top"
+      },
+      {
+        "text": "NETSRUN",
+        "href": "https://www.netshoes.com.br/netshoes-run?mi=hm_desk_tarja_home_tarja_vendas_netsrun_240226-mas-00&ps"
+      }
+    ],
+    "buttons": [
+      "Pe\u00e7a agora o seu",
+      "Inserir CEP",
+      "Avaliar agora",
+      "Ver mais palavras",
+      "Concordar e Fechar",
+      "TIRE SUAS D\u00daVIDAS"
+    ],
+    "forms": [],
+    "links_count": 488,
+    "images_count": 37,
+    "images_with_alt": 33,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Netshoes"
+      },
+      {
+        "level": 2,
+        "text": "Outras p\u00e1ginas acessadas"
+      },
+      {
+        "level": 3,
+        "text": "Mais vantagens para voc\u00ea"
+      },
+      {
+        "level": 3,
+        "text": "Institucional"
+      },
+      {
+        "level": 3,
+        "text": "Especiais Netshoes"
+      },
+      {
+        "level": 3,
+        "text": "Mapas do Site"
+      },
+      {
+        "level": 3,
+        "text": "Atendimento"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "search",
+        "placeholder": "O que voc\u00ea est\u00e1 procurando?"
+      },
+      {
+        "type": "text",
+        "name": "search",
+        "placeholder": "O que voc\u00ea est\u00e1 procurando?"
+      }
+    ],
+    "footer_links": [
+      "Em produtos selecionadosConfira as regras",
+      "A partir de 2 dias \u00fateisConfira as regras",
+      "Sobre a Netshoes",
+      "Pol\u00edtica de Privacidade",
+      "Programa de Afiliados",
+      "Solu\u00e7\u00f5es Corporativas",
+      "Regulamentos",
+      "Relat\u00f3rios",
+      "Programa de Integridade",
+      "Blog",
+      "Black Friday Magalu",
+      "Black Friday Netshoes",
+      "Lojas F\u00edsicas",
+      "Suplementos",
+      "Corrida",
+      "Bicicletas",
+      "Futebol",
+      "V\u00f4lei",
+      "Basquete",
+      "Motorsport"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Encontre roupas, suplementos, t\u00eanis, chuteiras e mais na Netshoes, sua loja de artigos esportivos com pre\u00e7os incr\u00edveis. Visite-nos agora e aproveite!",
+    "scripts_count": 95
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Netshoes Run events",
+      "Integration with Magalu for Black Friday"
+    ],
+    "confidence": "high"
+  }
+}

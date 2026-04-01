@@ -1,0 +1,382 @@
+{
+  "name": "pets_place",
+  "url": "https://www.petsplace.nl",
+  "scanned_at": "2026-03-31T22:42:08.464698",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/pets_place_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/pets_place_mobile.png"
+  },
+  "structure": {
+    "title": "Dierenwinkel Online - Voor je hond, kat en meer - Pets Place",
+    "url_final": "https://www.petsplace.nl/",
+    "nav_items": [],
+    "buttons": [
+      "Noodzakelijk8",
+      "Voorkeuren0",
+      "Statistieken4",
+      "Marketing7",
+      "Niet geclassificeerd0",
+      "[#IABV2_LABEL_PURPOSES#]",
+      "[#IABV2_LABEL_FEATURES#]",
+      "[#IABV2_LABEL_PARTNERS#]",
+      "Alles toestaan",
+      "Aanpassen",
+      "Selectie toestaan",
+      "Weigeren",
+      "Sluiten",
+      "Vorige categorieen",
+      "Volgende categorieen",
+      "Previous",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "In Winkelwagen",
+      "Next"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Welk product of dienst zoek je?"
+          }
+        ]
+      },
+      {
+        "action": "https://www.petsplace.nl/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGV0c3BsYWNlLm5sLw~~/product/20937/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "super_attribute[248]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.petsplace.nl/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGV0c3BsYWNlLm5sLw~~/product/30108/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "super_attribute[243]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.petsplace.nl/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGV0c3BsYWNlLm5sLw~~/product/46644/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.petsplace.nl/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGV0c3BsYWNlLm5sLw~~/product/17782/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "super_attribute[243]",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 903,
+    "images_count": 165,
+    "images_with_alt": 114,
+    "headings": [
+      {
+        "level": 2,
+        "text": "In de aanbieding"
+      },
+      {
+        "level": 2,
+        "text": "Populaire producten"
+      },
+      {
+        "level": 2,
+        "text": "Aanbevolen advies"
+      },
+      {
+        "level": 2,
+        "text": "Aanbevolen advies"
+      },
+      {
+        "level": 2,
+        "text": "Merken"
+      },
+      {
+        "level": 3,
+        "text": "Voor wie shop je?"
+      },
+      {
+        "level": 3,
+        "text": "Inspiratie & deel jouw foto's met @petsplacenl"
+      },
+      {
+        "level": 3,
+        "text": "Veilig de lente in met je huisdier!"
+      },
+      {
+        "level": 3,
+        "text": "Mijn hond heeft jeuk"
+      },
+      {
+        "level": 3,
+        "text": "Tuintips voor maart"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Welk product of dienst zoek je?"
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "super_attribute[248]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "super_attribute[243]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Inschrijven",
+      "Service & contact",
+      "Retourneren",
+      "Bestellen",
+      "Betalen",
+      "Bezorgen",
+      "Disclaimer & privacy",
+      "Cookies",
+      "Algemene voorwaarden",
+      "Actievoorwaarden",
+      "Account aanmaken",
+      "Mijn account / Inloggen",
+      "Mijn verlanglijst",
+      "Pets Place Premium",
+      "Advies blog"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 155,
+    "has_og_tags": false,
+    "meta_description": "Dierenwinkel je suf in de grootste dierenspeciaalzaak van NL. Van hondenmand tot krabpaal koop je makkelijk hier in de webshop of in onze 200 winkels",
+    "scripts_count": 326
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "In-depth pet care advice sections",
+      "Integration with social media for sharing pet photos"
+    ],
+    "confidence": "medium"
+  }
+}

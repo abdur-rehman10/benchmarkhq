@@ -1,0 +1,315 @@
+{
+  "name": "limelight",
+  "url": "https://www.limelight.pk",
+  "scanned_at": "2026-03-31T23:37:59.513462",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/limelight_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/limelight_mobile.png"
+  },
+  "structure": {
+    "title": "Limelight Online Clothing Store! Women, Men Accessories \u2013 Limelightpk",
+    "url_final": "https://www.limelight.pk/",
+    "nav_items": [
+      {
+        "text": "Women",
+        "href": "https://www.limelight.pk/collections/women"
+      },
+      {
+        "text": "Unstitched",
+        "href": "https://www.limelight.pk/collections/unstitched"
+      },
+      {
+        "text": "Summer",
+        "href": "https://www.limelight.pk/collections/unstitched-summer"
+      },
+      {
+        "text": "Embroidered",
+        "href": "https://www.limelight.pk/collections/embroidered-unstitched"
+      },
+      {
+        "text": "Printed",
+        "href": "https://www.limelight.pk/collections/printed-unstitched"
+      },
+      {
+        "text": "Lawn",
+        "href": "https://www.limelight.pk/collections/unstitched-lawn"
+      },
+      {
+        "text": "Bottoms",
+        "href": "https://www.limelight.pk/collections/unstitched-trousers"
+      },
+      {
+        "text": "Ready To Wear",
+        "href": "https://www.limelight.pk/collections/pret"
+      },
+      {
+        "text": "Embroidered",
+        "href": "https://www.limelight.pk/collections/embroidered-pret"
+      },
+      {
+        "text": "Printed",
+        "href": "https://www.limelight.pk/collections/printed-pret"
+      },
+      {
+        "text": "Solids",
+        "href": "https://www.limelight.pk/collections/solids-pret"
+      },
+      {
+        "text": "Silk",
+        "href": "https://www.limelight.pk/collections/silk-pret"
+      },
+      {
+        "text": "Formals",
+        "href": "https://www.limelight.pk/collections/formals-pret"
+      },
+      {
+        "text": "Kurtis",
+        "href": "https://www.limelight.pk/collections/short-kurti"
+      },
+      {
+        "text": "Bottoms",
+        "href": "https://www.limelight.pk/collections/trousers"
+      },
+      {
+        "text": "Co-ords",
+        "href": "https://www.limelight.pk/collections/co-ords-main"
+      },
+      {
+        "text": "Printed",
+        "href": "https://www.limelight.pk/collections/printed-co-ords"
+      },
+      {
+        "text": "Embroidered",
+        "href": "https://www.limelight.pk/collections/embroidered-co-ords"
+      },
+      {
+        "text": "Solids",
+        "href": "https://www.limelight.pk/collections/solids-co-ords"
+      },
+      {
+        "text": "Silk",
+        "href": "https://www.limelight.pk/collections/silk-co-ords"
+      }
+    ],
+    "buttons": [
+      "Subscribe",
+      "Continue shopping",
+      "Checkout",
+      "Skip to content",
+      "Unstitched",
+      "Ready To Wear",
+      "Co-ords",
+      "Western",
+      "Accessories",
+      "Fragrances"
+    ],
+    "forms": [
+      {
+        "action": "/contact#contact_form",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "Email address"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart",
+        "method": "post",
+        "fields": []
+      }
+    ],
+    "links_count": 242,
+    "images_count": 63,
+    "images_with_alt": 12,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "This Item Has Been Added In Your Cart"
+      },
+      {
+        "level": 2,
+        "text": "UNSTITCHED"
+      },
+      {
+        "level": 2,
+        "text": "READY TO WEAR"
+      },
+      {
+        "level": 2,
+        "text": "SHOP BY COLLECTION"
+      },
+      {
+        "level": 2,
+        "text": "Fragrances"
+      },
+      {
+        "level": 3,
+        "text": "Keep yourself updated!"
+      },
+      {
+        "level": 3,
+        "text": "UNSTITCHED SUMMER"
+      },
+      {
+        "level": 3,
+        "text": "SUMMER"
+      },
+      {
+        "level": 3,
+        "text": "UNSTITCHED EMBROIDERED"
+      },
+      {
+        "level": 3,
+        "text": "EMBROIDERED"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Order Tracking",
+      "Policies",
+      "FAQ's",
+      "Contact Us",
+      "About Us",
+      "Careers",
+      "Store Locator",
+      "Blogs",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Limelightpk",
+      "Powered by Shopify"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 64,
+    "has_og_tags": true,
+    "meta_description": "Pakistan's leading fashion brand, offering clothing, fabric, and accessories for men, women and girls in over 80 stores and online (shipping worldwide)",
+    "scripts_count": 105
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Powered by Shopify"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "name": "apple_pl",
+  "url": "https://www.apple.com/pl/shop",
+  "scanned_at": "2026-03-31T22:52:06.244693",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/apple_pl_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/apple_pl_mobile.png"
+  },
+  "structure": {
+    "title": "Internetowy sklep Apple Store - Apple (PL)",
+    "url_final": "https://www.apple.com/pl/store",
+    "nav_items": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/pl/"
+      },
+      {
+        "text": "Sklep",
+        "href": "/pl/store"
+      },
+      {
+        "text": "Kup najnowsze",
+        "href": "https://www.apple.com/pl/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/pl/shop/buy-mac"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/pl/shop/buy-ipad"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/pl/shop/buy-iphone"
+      },
+      {
+        "text": "Apple\u00a0Watch",
+        "href": "https://www.apple.com/pl/shop/buy-watch"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/pl/shop/goto/airpods/accessories"
+      },
+      {
+        "text": "Akcesoria",
+        "href": "https://www.apple.com/pl/shop/accessories/all"
+      },
+      {
+        "text": "Stan zam\u00f3wienia",
+        "href": "https://secure.store.apple.com/pl/shop/order/list"
+      },
+      {
+        "text": "Odnowione i\u00a0certyfikowane",
+        "href": "https://www.apple.com/pl/shop/refurbished"
+      },
+      {
+        "text": "Edukacja",
+        "href": "https://www.apple.com/pl/shop/browse/home/education_routing"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/pl/mac/"
+      },
+      {
+        "text": "Wszystkie modele Maca",
+        "href": "https://www.apple.com/pl/mac/"
+      },
+      {
+        "text": "MacBook Neo",
+        "href": "https://www.apple.com/pl/macbook-neo/"
+      },
+      {
+        "text": "MacBook\u00a0Air",
+        "href": "https://www.apple.com/pl/macbook-air/"
+      },
+      {
+        "text": "MacBook\u00a0Pro",
+        "href": "https://www.apple.com/pl/macbook-pro/"
+      },
+      {
+        "text": "iMac",
+        "href": "https://www.apple.com/pl/imac/"
+      },
+      {
+        "text": "Mac\u00a0mini",
+        "href": "https://www.apple.com/pl/mac-mini/"
+      },
+      {
+        "text": "Mac\u00a0Studio",
+        "href": "https://www.apple.com/pl/mac-studio/"
+      }
+    ],
+    "buttons": [
+      "Wstecz - Produkt",
+      "Dalej - Produkt",
+      "Wstecz -",
+      "Dalej -",
+      "Wstecz - S\u0142u\u017cymy pomoc\u0105.",
+      "Dalej - S\u0142u\u017cymy pomoc\u0105.",
+      "Wstecz - Apple Store robi r\u00f3\u017cnic\u0119.",
+      "Dalej - Apple Store robi r\u00f3\u017cnic\u0119.",
+      "Wstecz - Akcesoria.",
+      "Dalej - Akcesoria.",
+      "Wstecz - G\u0142o\u015bno i\u00a0wyra\u017anie.",
+      "Dalej - G\u0142o\u015bno i\u00a0wyra\u017anie.",
+      "Wstecz - Wi\u0119cej z Apple.",
+      "Dalej - Wi\u0119cej z Apple.",
+      "Wstecz - Wyj\u0105tkowe okazje.",
+      "Dalej - Wyj\u0105tkowe okazje."
+    ],
+    "forms": [
+      {
+        "action": "/pl/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Szukaj w\u00a0apple.com"
+          },
+          {
+            "type": "hidden",
+            "name": "src",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 292,
+    "images_count": 68,
+    "images_with_alt": 53,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Sklep"
+      },
+      {
+        "level": 2,
+        "text": "Zobacz"
+      },
+      {
+        "level": 2,
+        "text": "Podr\u0119czne \u0142\u0105cza"
+      },
+      {
+        "level": 2,
+        "text": "Sklepy specjalne"
+      },
+      {
+        "level": 2,
+        "text": "Poznaj Maca"
+      },
+      {
+        "level": 2,
+        "text": "Zobacz Maca"
+      },
+      {
+        "level": 3,
+        "text": "NOWO\u015a\u0106"
+      },
+      {
+        "level": 3,
+        "text": "NOWO\u015a\u0106"
+      },
+      {
+        "level": 3,
+        "text": "NOWO\u015a\u0106"
+      },
+      {
+        "level": 3,
+        "text": "NOWO\u015a\u0106"
+      },
+      {
+        "level": 3,
+        "text": "NOWO\u015a\u0106"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Szukaj w\u00a0apple.com"
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "warunki",
+      "support.apple.com/121115(Otwiera si\u0119 w\u00a0nowym oknie",
+      "warunki",
+      "support.apple.com/121115(Otwiera si\u0119 w\u00a0nowym oknie",
+      "Apple",
+      "Sklep",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV i Dom",
+      "AirTag",
+      "Akcesoria",
+      "Karty upominkowe",
+      "Apple Pay",
+      "Zarz\u0105dzaj swoim kontem Apple",
+      "Konto w Apple Store",
+      "iCloud.com",
+      "Apple One"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 55,
+    "has_og_tags": true,
+    "meta_description": "Zobacz najnowsze produkty, akcesoria i oferty Apple. Skorzystaj z pomocy w zakupach, elastycznych sposob\u00f3w p\u0142atno\u015bci i r\u00f3\u017cnych opcji dostawy.",
+    "scripts_count": 58
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Refurbished products section",
+      "Education discounts"
+    ],
+    "confidence": "high"
+  }
+}

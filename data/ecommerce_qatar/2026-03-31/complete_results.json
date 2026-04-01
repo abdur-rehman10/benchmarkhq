@@ -1,0 +1,4270 @@
+[
+  {
+    "name": "noon_qatar",
+    "url": "https://www.noon.com/qatar-en/",
+    "scanned_at": "2026-03-31T23:21:51.168367",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.noon.com/qatar-en/\nCall log:\n  - navigating to \"https://www.noon.com/qatar-en/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.noon.com/qatar-en/\nCall log:\n  - navigating to \"https://www.noon.com/qatar-en/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized offers"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "amazon_qatar",
+    "url": "https://www.amazon.qa",
+    "scanned_at": "2026-03-31T23:22:00.347128",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.amazon.qa/\nCall log:\n  - navigating to \"https://www.amazon.qa/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.amazon.qa/\nCall log:\n  - navigating to \"https://www.amazon.qa/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "fast delivery options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lulu_qatar",
+    "url": "https://www.luluhypermarket.com/en-qa/",
+    "scanned_at": "2026-03-31T23:22:08.642863",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/lulu_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/lulu_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Grocery, Electronics, Mobiles, Fashion & More Online with Free Delivery",
+      "url_final": "https://gcc.luluhypermarket.com/en-qa/",
+      "nav_items": [
+        {
+          "text": "Grocery",
+          "href": "/en-qa/grocery/"
+        },
+        {
+          "text": "Fresh Food",
+          "href": "/en-qa/fresh-food/"
+        },
+        {
+          "text": "Electronics",
+          "href": "/en-qa/electronics/"
+        },
+        {
+          "text": "Home & Living",
+          "href": "/en-qa/home-living/"
+        },
+        {
+          "text": "Deals",
+          "href": "/en-qa/deals/"
+        }
+      ],
+      "buttons": [
+        "Deliver Here",
+        "\u0639\u0631\u0628\u0649",
+        "0",
+        "Go to Cart",
+        "Back",
+        "\u0639\u0631\u0628\u0649",
+        "Categories"
+      ],
+      "forms": [],
+      "links_count": 79,
+      "images_count": 93,
+      "images_with_alt": 53,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Your Cart"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 9,
+      "has_og_tags": true,
+      "meta_description": "The best online grocery store in Qatar, LuLu Hypermarket provides the best grocery shopping experience for your daily needs, Online grocery shopping now made easy with a wide range of groceries and ho",
+      "scripts_count": 79
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Free delivery on all products",
+        "Bilingual support (English and Arabic)"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "jarir_qatar",
+    "url": "https://www.jarir.com/qa-en/",
+    "scanned_at": "2026-03-31T23:22:28.612896",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/jarir_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/jarir_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Jarir Bookstore, Not just a bookstore | Qatar",
+      "url_final": "https://www.jarir.com/qa-en/",
+      "nav_items": [
+        {
+          "text": "Login/Register Now",
+          "href": "/qa-en/login"
+        },
+        {
+          "text": "Hello,",
+          "href": "/qa-en/my-account/dashboard"
+        },
+        {
+          "text": "Account",
+          "href": "/qa-en/my-account/dashboard"
+        },
+        {
+          "text": "Wishlist0",
+          "href": "/qa-en/login"
+        },
+        {
+          "text": "Track Order",
+          "href": ""
+        },
+        {
+          "text": "Jarir Services",
+          "href": "/qa-en/"
+        },
+        {
+          "text": "Installment Services",
+          "href": "https://www.jarir.com/qa-en/installment-service-methods"
+        },
+        {
+          "text": "Trade-in Service",
+          "href": "https://www.jarir.com/qa-en/trade-in"
+        },
+        {
+          "text": "Gift Certificates",
+          "href": ""
+        },
+        {
+          "text": "Total Protection Service",
+          "href": ""
+        },
+        {
+          "text": "Extended Warranty Service",
+          "href": ""
+        },
+        {
+          "text": "Corporate Sales",
+          "href": ""
+        },
+        {
+          "text": "Help",
+          "href": "/qa-en/"
+        },
+        {
+          "text": "Call us - 40198333",
+          "href": "tel:+97440198333"
+        },
+        {
+          "text": "Email us - care.qa@jarir.com",
+          "href": "mailto:care.qa@jarir.com"
+        },
+        {
+          "text": "Frequently Asked Questions",
+          "href": "/qa-en/customer-care/faq"
+        },
+        {
+          "text": "Warranty Policy",
+          "href": "/qa-en/customer-care/warranty-policy"
+        },
+        {
+          "text": "Return & Exchange",
+          "href": "/qa-en/customer-care/return-and-exchange"
+        },
+        {
+          "text": "Contact us",
+          "href": "/qa-en/customer-care/contact-us"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "/qa-en/customer-care/terms-of-service"
+        }
+      ],
+      "buttons": [
+        "Saudi ArabiaEnglish",
+        "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u0639\u0631\u0628\u064a",
+        "KuwaitEnglish",
+        "\u0627\u0644\u0643\u0648\u064a\u062a\u0639\u0631\u0628\u064a",
+        "QatarEnglish",
+        "\u0642\u0637\u0631\u0639\u0631\u0628\u064a",
+        "BahrainEnglish",
+        "\u0627\u0644\u0628\u062d\u0631\u064a\u0646\u0639\u0631\u0628\u064a",
+        "UAEEnglish",
+        "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a\u0639\u0631\u0628\u064a",
+        "Other CountriesEnglish",
+        "\u062f\u0648\u0644 \u0623\u062e\u0631\u0649\u0639\u0631\u0628\u064a",
+        "Arrow Left",
+        "Arrow Right",
+        "Arrow Left",
+        "Arrow Right",
+        "Arrow Left",
+        "Arrow Right",
+        "Compare",
+        "Wishlist",
+        "Compare",
+        "Wishlist",
+        "Add to Cart",
+        "Compare",
+        "Wishlist",
+        "Add to Cart",
+        "Compare"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Enter your email address"
+            }
+          ]
+        }
+      ],
+      "links_count": 207,
+      "images_count": 535,
+      "images_with_alt": 207,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Shop by Category"
+        },
+        {
+          "level": 2,
+          "text": "Shop by Brand"
+        },
+        {
+          "level": 2,
+          "text": "Trending Now"
+        },
+        {
+          "level": 2,
+          "text": "Smartphones"
+        },
+        {
+          "level": 2,
+          "text": "Laptops & Tablets"
+        },
+        {
+          "level": 3,
+          "text": "Customer Care"
+        },
+        {
+          "level": 3,
+          "text": "Discover Jarir"
+        },
+        {
+          "level": 3,
+          "text": "Jarir Services"
+        },
+        {
+          "level": 3,
+          "text": "About Jarir"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "search",
+          "placeholder": "Search..."
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Enter your email address"
+        }
+      ],
+      "footer_links": [
+        "Go back to the top",
+        "Customer Care",
+        "Contact Us",
+        "Frequently Asked Questions",
+        "Warranty Policy",
+        "Return and Exchange",
+        "Terms of Service",
+        "Privacy Policy",
+        "Discover Jarir",
+        "Shopping Guide",
+        "Jarir Reader",
+        "Our Location"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 161,
+      "has_og_tags": false,
+      "meta_description": "Shop for Arabic and English books, computers and tablets, printers and scanners, smartphones, smart watches, smart TVs, smart home products, speakers and headsets, video games, and digital cards at Ja",
+      "scripts_count": 92
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Installment Services",
+        "Trade-in Service",
+        "Total Protection Service",
+        "Extended Warranty Service"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "carrefour_qatar",
+    "url": "https://www.carrefourqatar.com",
+    "scanned_at": "2026-03-31T23:22:48.887377",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.carrefourqatar.com/\nCall log:\n  - navigating to \"https://www.carrefourqatar.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.carrefourqatar.com/\nCall log:\n  - navigating to \"https://www.carrefourqatar.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "frequent promotions and discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_qatar",
+    "url": "https://www.ikea.com/qa/en/",
+    "scanned_at": "2026-03-31T23:22:58.431545",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/ikea_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/ikea_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Furniture Store & Home Accessories in Doha, Qatar - IKEA",
+      "url_final": "https://www.ikea.com/qa/en/",
+      "nav_items": [
+        {
+          "text": "Products",
+          "href": "https://www.ikea.com/qa/en/cat/products-products/"
+        },
+        {
+          "text": "Rooms",
+          "href": "https://www.ikea.com/qa/en/rooms/"
+        },
+        {
+          "text": "Offers",
+          "href": "https://www.ikea.com/qa/en/offers/"
+        },
+        {
+          "text": "Design & ideas",
+          "href": "https://www.ikea.com/qa/en/ideas/"
+        },
+        {
+          "text": "Services",
+          "href": "https://www.ikea.com/qa/en/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Clear the search input field",
+        "Search IKEA products using a photo",
+        "Search",
+        "Recommended for you",
+        "Lower prices best sellers",
+        "Living room",
+        "Daily essentials",
+        "Bedroom",
+        "Dining"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/qa/en/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 476,
+      "images_count": 282,
+      "images_with_alt": 249,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to IKEA Qatar!"
+        },
+        {
+          "level": 2,
+          "text": "Discover our Top sellers"
+        },
+        {
+          "level": 2,
+          "text": "Shop Lower Price by category"
+        },
+        {
+          "level": 2,
+          "text": "Play is for everyone, let the fun begin"
+        },
+        {
+          "level": 2,
+          "text": "This season's must-haves!"
+        },
+        {
+          "level": 2,
+          "text": "Shop news by category"
+        },
+        {
+          "level": 3,
+          "text": "OSKARSHAMNWing chair"
+        },
+        {
+          "level": 3,
+          "text": "SANELACushion cover"
+        },
+        {
+          "level": 3,
+          "text": "OSKARSHAMNFootstool with storage"
+        },
+        {
+          "level": 3,
+          "text": "KLIPPOXELThrow"
+        },
+        {
+          "level": 3,
+          "text": "SANELACurtains, 1 pair"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "What are you looking for?"
+        }
+      ],
+      "footer_links": [
+        "See all IKEA Family offers",
+        "Join IKEA Family",
+        "Download IKEA app",
+        "Offers",
+        "IKEA shopping app",
+        "Planning tools",
+        "Doha store",
+        "Swedish restaurant",
+        "IKEA Family",
+        "Brochures",
+        "About services",
+        "About shopping",
+        "Spare parts",
+        "Return policy",
+        "Guarantees & warranties",
+        "Contact us",
+        "FAQ",
+        "About IKEA",
+        "Democratic design",
+        "Sustainable everyday"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 492,
+      "has_og_tags": true,
+      "meta_description": "Welcome to IKEA Qatar, your go-to furniture store for stylish & affordable home solutions in Doha & all Qatar.\u2b50Lower prices and IKEA family offers.",
+      "scripts_count": 80
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Search IKEA products using a photo",
+        "IKEA Family offers and membership"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "shein_qatar",
+    "url": "https://qa.shein.com",
+    "scanned_at": "2026-03-31T23:23:19.707826",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://qa.shein.com/\nCall log:\n  - navigating to \"https://qa.shein.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://qa.shein.com/\nCall log:\n  - navigating to \"https://qa.shein.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "frequent flash sales"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "namshi_qatar",
+    "url": "https://www.namshi.com/qatar-en/",
+    "scanned_at": "2026-03-31T23:23:27.996225",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.namshi.com/qatar-en/\nCall log:\n  - navigating to \"https://www.namshi.com/qatar-en/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.namshi.com/qatar-en/\nCall log:\n  - navigating to \"https://www.namshi.com/qatar-en/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized content for Qatar"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "snoonu",
+    "url": "https://www.snoonu.com",
+    "scanned_at": "2026-03-31T23:23:35.717567",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/snoonu_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/snoonu_mobile.png"
+    },
+    "structure": {
+      "title": "Snoonu - Qatar\u2019s First Super App for Food, Groceries & Services",
+      "url_final": "https://www.snoonu.com/",
+      "nav_items": [
+        {
+          "text": "Market",
+          "href": "/"
+        },
+        {
+          "text": "Restaurants",
+          "href": "/restaurants?source=header"
+        },
+        {
+          "text": "Grocery",
+          "href": "/groceries?source=header"
+        },
+        {
+          "text": "S City",
+          "href": "/scity?source=header"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Restaurants",
+          "href": "/restaurants?source=catalog"
+        },
+        {
+          "text": "Snoomart",
+          "href": "/groceries/snoomart?source=catalog"
+        },
+        {
+          "text": "Grocery",
+          "href": "/groceries?source=catalog"
+        },
+        {
+          "text": "Flowers & Gifts",
+          "href": "/flowers-and-gifts?source=catalog"
+        },
+        {
+          "text": "Pharmacy",
+          "href": "/pharmacy?source=catalog"
+        },
+        {
+          "text": "S City",
+          "href": "/scity?source=catalog"
+        }
+      ],
+      "buttons": [
+        "Download",
+        "Catalog",
+        "Login",
+        "Show more"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "search",
+              "placeholder": "Search for stores and products"
+            }
+          ]
+        }
+      ],
+      "links_count": 124,
+      "images_count": 91,
+      "images_with_alt": 90,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Snoonu - online shopping with fast delivery"
+        },
+        {
+          "level": 2,
+          "text": "Offers & Events"
+        },
+        {
+          "level": 2,
+          "text": "Favourite Brands"
+        },
+        {
+          "level": 3,
+          "text": "Market"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "search",
+          "placeholder": "Search for stores and products"
+        }
+      ],
+      "footer_links": [
+        "Help",
+        "My Orders",
+        "My Favorites",
+        "Deals & Offers",
+        "Mobiles",
+        "Tablets",
+        "Wearable Technology",
+        "More Electronics",
+        "Pharmacy",
+        "Personal Care & Hygiene",
+        "Vitamins & supplements",
+        "More Health & Beauty",
+        "Food",
+        "Pet Care Supplies",
+        "Collars & Clothes",
+        "More Pets",
+        "Women",
+        "Men",
+        "Kids",
+        "More Clothes & Accessories"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "Snoonu is Qatar\u2019s trusted super app for fast food delivery, grocery shopping, laundry, car services, and tickets. Everything you need, delivered reliably every day.",
+      "scripts_count": 49
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Qatar's first super app",
+        "Wide range of services including groceries, food, and pharmacy"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "talabat_qatar",
+    "url": "https://www.talabat.com/qatar",
+    "scanned_at": "2026-03-31T23:24:11.319674",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/talabat_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/talabat_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Food delivery from your nearest restaurants in Qatar | Talabat",
+      "url_final": "https://www.talabat.com/qatar",
+      "nav_items": [
+        {
+          "text": "Corporate",
+          "href": "https://corporate.talabat.com/"
+        },
+        {
+          "text": "Become a partner",
+          "href": "https://qa.partner.talabat.com/s/?language=en_US&utm_source=homepage&utm_medium=referral&utm_campaig"
+        },
+        {
+          "text": "",
+          "href": "/ar/qatar"
+        },
+        {
+          "text": "",
+          "href": "#"
+        }
+      ],
+      "buttons": [
+        "Let's go",
+        "Find out more",
+        "See open job opportunities"
+      ],
+      "forms": [],
+      "links_count": 54,
+      "images_count": 23,
+      "images_with_alt": 17,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Fast delivery of food, groceries and more"
+        },
+        {
+          "level": 2,
+          "text": "Order food"
+        },
+        {
+          "level": 2,
+          "text": "Order groceries"
+        },
+        {
+          "level": 2,
+          "text": "Order flowers"
+        },
+        {
+          "level": 2,
+          "text": "Order medicine"
+        },
+        {
+          "level": 2,
+          "text": "Donations"
+        },
+        {
+          "level": 3,
+          "text": "Doha"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for area, street name, landmark..."
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 18,
+      "has_og_tags": true,
+      "meta_description": "Your favorite food delivered in Qatar with Talabat. A wide food variety from the top restaurants near you: burger,s pizza and more! Hungry? Ready, set, Talabat!",
+      "scripts_count": 52
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Diverse ordering options including food, groceries, flowers, and medicine",
+        "Donation feature"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "6th_street_qatar",
+    "url": "https://www.6thstreet.com/qa-en/",
+    "scanned_at": "2026-03-31T23:24:30.775877",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/6th_street_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/6th_street_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Shop Online @ 6thStreet.com For Men, Women & Kids Across GCC",
+      "url_final": "https://www.6thstreet.com/qa-en/",
+      "nav_items": [],
+      "buttons": [
+        "UAE",
+        "English",
+        "Browse"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 21,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "6thStreet.com, an online shopping site for fashion & lifestyle brands in the GCC. Find top brands offering footwear, clothing, accessories & lifestyle products for women, men & kids.",
+      "scripts_count": 55
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "max_fashion_qatar",
+    "url": "https://www.maxfashion.com/qa/en/",
+    "scanned_at": "2026-03-31T23:24:50.710080",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/max_fashion_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/max_fashion_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.maxfashion.com/qa/en/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.maxfashion.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.maxfashion.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized content for Qatar market"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "handm_qatar",
+    "url": "https://www2.hm.com/en_qa/",
+    "scanned_at": "2026-03-31T23:25:09.681902",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/handm_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/handm_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/en_qa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive size variant selector",
+        "personalized recommendations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_qatar",
+    "url": "https://www.zara.com/qa/",
+    "scanned_at": "2026-03-31T23:25:29.143775",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/zara_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/zara_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/qa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast fashion updates",
+        "sustainability initiatives"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_qatar",
+    "url": "https://www.nike.com/qa/",
+    "scanned_at": "2026-03-31T23:25:48.860496",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/nike_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/nike_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Page not found. Nike.com",
+      "url_final": "https://www.nike.com/qa/",
+      "nav_items": [
+        {
+          "text": "Skip to main content",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "Accessibility at Nike",
+          "href": "https://www.nike.com/accessibility#introduction"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/jordan"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/w/converse-akmjx"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.nike.com/retail"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/help"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/help"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/orders/details/"
+        },
+        {
+          "text": "Shipping & Delivery",
+          "href": "https://www.nike.com/help/a/shipping-delivery"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.nike.com/help/a/returns-policy"
+        },
+        {
+          "text": "Order Cancellation",
+          "href": "https://www.nike.com/help/a/change-cancel-order"
+        },
+        {
+          "text": "Size Charts",
+          "href": "https://www.nike.com/help/a/size-charts"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/help/#contact"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.nike.com/membership"
+        },
+        {
+          "text": "Promotions & Discounts",
+          "href": "https://www.nike.com/promo-code"
+        },
+        {
+          "text": "Product Advice",
+          "href": "https://www.nike.com/product-advice"
+        },
+        {
+          "text": "Send Us Feedback",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Join Us",
+          "href": "https://www.nike.com/membership"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://www.nike.com/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com"
+        }
+      ],
+      "buttons": [
+        "United States",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Sport",
+        "More Sports",
+        "Cancel",
+        "Cancel",
+        "Ask NikeAI",
+        "United States",
+        "college hoops tournament",
+        "shorts",
+        "air max",
+        "jordan",
+        "nike mind",
+        "jordan 4",
+        "soccer cleats",
+        "basketball shoes"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        }
+      ],
+      "links_count": 452,
+      "images_count": 13,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 2,
+          "text": "Americas"
+        },
+        {
+          "level": 2,
+          "text": "Asia Pacific"
+        },
+        {
+          "level": 2,
+          "text": "Europe"
+        },
+        {
+          "level": 2,
+          "text": "Middle East"
+        },
+        {
+          "level": 3,
+          "text": "$28.97"
+        },
+        {
+          "level": 3,
+          "text": "$38.00"
+        },
+        {
+          "level": 3,
+          "text": "$31.97"
+        },
+        {
+          "level": 3,
+          "text": "$34.00"
+        },
+        {
+          "level": 3,
+          "text": "$89.97"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search"
+        }
+      ],
+      "footer_links": [
+        "Gift Cards",
+        "Corporate Sales",
+        "Find a Store",
+        "Membership",
+        "Nike Journal",
+        "Site Feedback",
+        "Get Help",
+        "Order Status",
+        "Shipping and Delivery",
+        "Returns",
+        "Order Cancellation",
+        "Payment Options",
+        "Gift Card Balance",
+        "Contact Us",
+        "About Nike",
+        "News",
+        "Careers",
+        "Investors",
+        "Purpose",
+        "Sustainability"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 75,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 92
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 7,
+      "notable_unique_features": [
+        "NikeAI"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "samsung_qatar",
+    "url": "https://www.samsung.com/qa/",
+    "scanned_at": "2026-03-31T23:26:15.938651",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/samsung_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/samsung_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Home Electronics | Home Appliances | Mobile | Computing |",
+      "url_final": "https://www.samsung.com/qa/",
+      "nav_items": [],
+      "buttons": [
+        "Layer Popup Close",
+        "Close",
+        "Submit",
+        "Close popup",
+        "Submit",
+        "Close popup",
+        "Layer Popup Close",
+        "My Wishlist",
+        "My Wishlist 1",
+        "My Wishlist 2",
+        "My Wishlist 3",
+        "My Wishlist 4",
+        "My Wishlist 5",
+        "My Wishlist 6",
+        "My Wishlist 7",
+        "My Wishlist 8",
+        "My Wishlist 9",
+        "Close popup",
+        "Enter serial number/IMEI",
+        "Scan QR code",
+        "How to find Serial Number or IMEIExpand",
+        "TV & AV",
+        "TV & AV",
+        "Mobile Device",
+        "Home Appliance",
+        "PC & Office"
+      ],
+      "forms": [],
+      "links_count": 171,
+      "images_count": 5,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Visit Your Location"
+        },
+        {
+          "level": 3,
+          "text": "Africa"
+        },
+        {
+          "level": 3,
+          "text": "Asia - pacific"
+        },
+        {
+          "level": 3,
+          "text": "Europe"
+        },
+        {
+          "level": 3,
+          "text": "Latin America"
+        },
+        {
+          "level": 3,
+          "text": "Middle East"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 5,
+      "has_og_tags": true,
+      "meta_description": "Welcome to Samsung IN. Discover a wide range of home electronics with cutting-edge technology including TVs, smartphones, tablets, home appliances & more!",
+      "scripts_count": 11
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "regional site selection",
+        "QR code scanning for product verification"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "apple_qatar",
+    "url": "https://www.apple.com/qa/shop",
+    "scanned_at": "2026-03-31T23:26:38.159757",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/apple_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/apple_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Page Not Found - Apple (QA)",
+      "url_final": "https://www.apple.com/qa/shop",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "/qa/"
+        },
+        {
+          "text": "Mac",
+          "href": "/qa/mac/"
+        },
+        {
+          "text": "Explore All Mac",
+          "href": "/qa/mac/"
+        },
+        {
+          "text": "MacBook Air",
+          "href": "/qa/macbook-air/"
+        },
+        {
+          "text": "MacBook Pro",
+          "href": "/qa/macbook-pro/"
+        },
+        {
+          "text": "iMac",
+          "href": "/qa/imac/"
+        },
+        {
+          "text": "Mac mini",
+          "href": "/qa/mac-mini/"
+        },
+        {
+          "text": "Mac Studio",
+          "href": "/qa/mac-studio/"
+        },
+        {
+          "text": "Displays",
+          "href": "/qa/displays/"
+        },
+        {
+          "text": "Compare Mac",
+          "href": "/qa/mac/compare/"
+        },
+        {
+          "text": "Mac Support",
+          "href": "https://support.apple.com/en-qa/mac?cid=gn-ols-mac-psp-prodfly"
+        },
+        {
+          "text": "Apps by Apple",
+          "href": "/qa/apps/"
+        },
+        {
+          "text": "iCloud+",
+          "href": "/qa/icloud/"
+        },
+        {
+          "text": "iPad",
+          "href": "/qa/ipad/"
+        },
+        {
+          "text": "Explore All iPad",
+          "href": "/qa/ipad/"
+        },
+        {
+          "text": "iPad Pro",
+          "href": "/qa/ipad-pro/"
+        },
+        {
+          "text": "iPad Air",
+          "href": "/qa/ipad-air/"
+        },
+        {
+          "text": "iPad",
+          "href": "/qa/ipad-11/"
+        },
+        {
+          "text": "iPad mini",
+          "href": "/qa/ipad-mini/"
+        },
+        {
+          "text": "Apple Pencil",
+          "href": "/qa/apple-pencil/"
+        }
+      ],
+      "buttons": [
+        "Explore",
+        "Apple Wallet",
+        "Account",
+        "Entertainment",
+        "About Apple"
+      ],
+      "forms": [
+        {
+          "action": "/qa/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 121,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "The page you\u2019re looking for can\u2019t be\u00a0found."
+        },
+        {
+          "level": 2,
+          "text": "Explore Mac"
+        },
+        {
+          "level": 2,
+          "text": "More from Mac"
+        },
+        {
+          "level": 2,
+          "text": "Explore iPad"
+        },
+        {
+          "level": 2,
+          "text": "More from iPad"
+        },
+        {
+          "level": 2,
+          "text": "Explore iPhone"
+        },
+        {
+          "level": 3,
+          "text": "ExploreExplore"
+        },
+        {
+          "level": 3,
+          "text": "Apple WalletApple Wallet"
+        },
+        {
+          "level": 3,
+          "text": "AccountAccount"
+        },
+        {
+          "level": 3,
+          "text": "EntertainmentEntertainment"
+        },
+        {
+          "level": 3,
+          "text": "About AppleAbout Apple"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "\uf8ffApple",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "AirPods",
+        "TV & Home",
+        "AirTag",
+        "Wallet",
+        "Apple\u00a0Pay",
+        "Manage Your Apple Account",
+        "iCloud.com",
+        "Apple\u00a0TV",
+        "Apple\u00a0Music",
+        "Apple\u00a0Arcade",
+        "Apple Podcasts",
+        "Apple\u00a0Books",
+        "App\u00a0Store",
+        "Newsroom",
+        "Apple Leadership"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 35,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 9
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive product ecosystem integration",
+        "Strong brand presence"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "centrepoint_qatar",
+    "url": "https://www.centrepointstores.com/qa/en/",
+    "scanned_at": "2026-03-31T23:26:57.818923",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/centrepoint_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/centrepoint_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.centrepointstores.com/qa/en/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.centrepointstores.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.centrepointstores.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sun_sand_sports_qa",
+    "url": "https://www.sssports.com/qa-en/",
+    "scanned_at": "2026-03-31T23:27:16.045546",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/sun_sand_sports_qa_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/sun_sand_sports_qa_mobile.png"
+    },
+    "structure": {
+      "title": "Sites-International-Site",
+      "url_final": "https://www.sssports.com/on/demandware.store/Sites-International-Site/en/Page-Show",
+      "nav_items": [],
+      "buttons": [
+        "Save",
+        "\u00d7",
+        "Confirm Location",
+        "\u00d7",
+        "Okay",
+        "Back to home"
+      ],
+      "forms": [],
+      "links_count": 3,
+      "images_count": 8,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Don\u2019t give up yet.Try again"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search Address"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 4,
+      "has_og_tags": false,
+      "meta_description": "SSS",
+      "scripts_count": 56
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "localized content for Qatar",
+        "multilingual support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "home_centre_qa",
+    "url": "https://www.homecentre.com/qa/en/",
+    "scanned_at": "2026-03-31T23:27:39.602795",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/home_centre_qa_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/home_centre_qa_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.homecentre.com/qa/en/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.homecentre.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.homecentre.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "monoprix_qatar",
+    "url": "https://www.monoprix.qa",
+    "scanned_at": "2026-03-31T23:27:58.538286",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/monoprix_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/monoprix_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "403 - Forbidden",
+      "url_final": "https://www.monoprix.qa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "403 - Forbidden"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized offers"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "al_meera",
+    "url": "https://www.almeera.com.qa",
+    "scanned_at": "2026-03-31T23:28:18.608128",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/al_meera_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/al_meera_mobile.png"
+    },
+    "structure": {
+      "title": "Al Meera",
+      "url_final": "https://www.almeera.com.qa/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "QAR0.00",
+          "href": "/cart"
+        },
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "Login & Register",
+          "href": "/login"
+        },
+        {
+          "text": "Wishlist0 items",
+          "href": "/wishlist"
+        },
+        {
+          "text": "Login & Register",
+          "href": "/login"
+        },
+        {
+          "text": "All Categories",
+          "href": "/search-product?showAll=1"
+        },
+        {
+          "text": "dried fruits & nuts",
+          "href": "/search-product?categoryId=2203"
+        },
+        {
+          "text": "sports & fitness",
+          "href": "/search-product?categoryId=6020"
+        },
+        {
+          "text": "al meera products",
+          "href": "/search-product?categoryId=1638"
+        },
+        {
+          "text": "qatari products",
+          "href": "/search-product?categoryId=1664"
+        },
+        {
+          "text": "breakfast food",
+          "href": "/search-product?categoryId=1642"
+        },
+        {
+          "text": "dairy & eggs",
+          "href": "/search-product?categoryId=1648"
+        },
+        {
+          "text": "beverages",
+          "href": "/search-product?categoryId=1641"
+        }
+      ],
+      "buttons": [
+        "Previous Slide",
+        "Next Slide",
+        "Show All Categories",
+        "Previous Slide",
+        "Next Slide",
+        "View More",
+        "Arrow pointing to the left",
+        "Arrow pointing to the right"
+      ],
+      "forms": [],
+      "links_count": 209,
+      "images_count": 84,
+      "images_with_alt": 80,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 1,
+          "text": "Daily Essentials"
+        },
+        {
+          "level": 1,
+          "text": "Ready to Eat"
+        },
+        {
+          "level": 1,
+          "text": "Featured Brands"
+        },
+        {
+          "level": 1,
+          "text": "Fruits & Vegetables"
+        },
+        {
+          "level": 2,
+          "text": "Delivery Options"
+        },
+        {
+          "level": 2,
+          "text": "Get In Touch"
+        },
+        {
+          "level": 2,
+          "text": "Get In Touch"
+        },
+        {
+          "level": 3,
+          "text": "Fruit & Veg"
+        },
+        {
+          "level": 3,
+          "text": "Bakery"
+        },
+        {
+          "level": 3,
+          "text": "Poultry, Meat & Seafood"
+        },
+        {
+          "level": 3,
+          "text": "Dairy & Eggs"
+        },
+        {
+          "level": 3,
+          "text": "Beverages"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for Products"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for Products"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 25,
+      "has_og_tags": true,
+      "meta_description": "Al Meera Qatar  Serving Hyatt Plaza, Al Waab St, Building No. 750 Zone, 54 Street No. 364, \u0627\u0644\u062f\u0648\u062d\u0629\u060c Qatar with fast delivery.",
+      "scripts_count": 13
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "virgin_megastore_qa",
+    "url": "https://www.virginmegastore.qa",
+    "scanned_at": "2026-03-31T23:28:42.684914",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/virgin_megastore_qa_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/virgin_megastore_qa_mobile.png"
+    },
+    "structure": {
+      "title": "Virgin Megastore Qatar | Shop Online for Tech, Toys, Home Decor & More",
+      "url_final": "https://www.virginmegastore.qa/en",
+      "nav_items": [
+        {
+          "text": "\u0639\u0631\u0628\u064a",
+          "href": ""
+        },
+        {
+          "text": "",
+          "href": "/en/login"
+        },
+        {
+          "text": "0",
+          "href": "/en/cart"
+        }
+      ],
+      "buttons": [
+        "Qatar",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back",
+        "Back"
+      ],
+      "forms": [
+        {
+          "action": "/en/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "text",
+              "placeholder": "I'm looking for"
+            }
+          ]
+        },
+        {
+          "action": "/en/_s/language",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "accesibility_refreshScreenReaderBufferField",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1014,
+      "images_count": 363,
+      "images_with_alt": 241,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Smart Appliances for Every Home"
+        },
+        {
+          "level": 2,
+          "text": "What's New"
+        },
+        {
+          "level": 2,
+          "text": "Apple Airtag 2"
+        },
+        {
+          "level": 2,
+          "text": "Trading Cards & Stickers"
+        },
+        {
+          "level": 2,
+          "text": "Native Union Accessories"
+        },
+        {
+          "level": 3,
+          "text": "Loading"
+        },
+        {
+          "level": 3,
+          "text": "Most Viewed Categories"
+        },
+        {
+          "level": 3,
+          "text": "Children's Books"
+        },
+        {
+          "level": 3,
+          "text": "Beauty"
+        },
+        {
+          "level": 3,
+          "text": "LEGO & Bricks"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "text",
+          "placeholder": "I'm looking for"
+        },
+        {
+          "type": "hidden",
+          "name": "CSRFToken",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "accesibility_refreshScreenReaderBufferField",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Contact Us",
+        "Virgin Megastore Circle",
+        "Virgin Megastore Tickets",
+        "Virgin Megastore Cover",
+        "Virgin Megastore Gift Cards",
+        "FAQ",
+        "Terms & Conditions",
+        "Store Locations",
+        "About Us",
+        "Privacy Policy",
+        "Website Cookies",
+        "O% Interest Installment Plans",
+        "Bahrain",
+        "Oman",
+        "Qatar"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 45,
+      "has_og_tags": true,
+      "meta_description": "Shop online for electronics, music, toys, fashion, home decor & more from top brands. \u2713Free delivery on orders above QAR 200. \u2713Click & collect. \u2713Earn Loyalty Points ",
+      "scripts_count": 61
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Diverse product categories",
+        "Localized language support"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "bath_body_works_qa",
+    "url": "https://www.bathandbodyworks.qa",
+    "scanned_at": "2026-03-31T23:29:05.310315",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/bath_body_works_qa_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/bath_body_works_qa_mobile.png"
+    },
+    "structure": {
+      "title": "Access to this page has been denied",
+      "url_final": "https://www.bathandbodyworks.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 1,
+      "images_with_alt": 1,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "px-captcha",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "seasonal promotions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ounass_qa",
+    "url": "https://www.ounass.qa",
+    "scanned_at": "2026-03-31T23:29:25.801567",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/ounass_qa_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/ounass_qa_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.ounass.qa/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "luxury brand focus",
+        "personalized shopping experience"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sivvi_qa",
+    "url": "https://www.sivvi.com/qa-en/",
+    "scanned_at": "2026-03-31T23:29:48.501330",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sivvi.com/qa-en/\nCall log:\n  - navigating to \"https://www.sivvi.com/qa-en/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sivvi.com/qa-en/\nCall log:\n  - navigating to \"https://www.sivvi.com/qa-en/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized_recommendations",
+        "skeleton_loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_qatar",
+    "url": "https://www.temu.com/qa",
+    "scanned_at": "2026-03-31T23:29:57.228879",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/temu_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/temu_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Temu | Login",
+      "url_final": "https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2Fqa&login_scene=2&refer_page_name=home&refer_page_id=10005_1774988998184_3lf7a8nfl4&refer_page_sn=10005&_x_sessn_id=rwi1lkreg3",
+      "nav_items": [],
+      "buttons": [
+        "Continue"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 30,
+      "images_count": 35,
+      "images_with_alt": 18,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sign in / Register"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "About Temu",
+        "Affiliate & Influencer Program: Join to Earn",
+        "Contact us",
+        "Careers",
+        "Press",
+        "Temu's Tree Planting Program",
+        "Return and refund policy",
+        "Intellectual property policy",
+        "Shipping info",
+        "Report suspicious activity",
+        "Support center & FAQ",
+        "Safety center",
+        "Temu purchase protection",
+        "Sitemap",
+        "Partner with Temu",
+        "Download the Temu App",
+        "Download on theApp Store",
+        "Get it onGoogle Play"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 34,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 32
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Temu's Tree Planting Program",
+        "Affiliate & Influencer Program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "adidas_qatar",
+    "url": "https://www.adidas.qa",
+    "scanned_at": "2026-03-31T23:30:16.179241",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.adidas.qa/\nCall log:\n  - navigating to \"https://www.adidas.qa/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.adidas.qa/\nCall log:\n  - navigating to \"https://www.adidas.qa/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "localized content for Qatar",
+        "integration with local payment methods"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon_qatar",
+    "url": "https://www.decathlon.qa",
+    "scanned_at": "2026-03-31T23:30:25.693037",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/decathlon_qatar_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/decathlon_qatar_mobile.png"
+    },
+    "structure": {
+      "title": "Shop Sports Gear and Equipment Online \u2013 Decathlon Qatar",
+      "url_final": "https://decathlon.qa/",
+      "nav_items": [],
+      "buttons": [
+        "Navigation",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Go to slide 1",
+        "Go to slide 2",
+        "Go to slide 3",
+        "Go to slide 4",
+        "View all results",
+        "Back",
+        "ALL SPORTS",
+        "FITNESS",
+        "HIKE & CAMP",
+        "WINTER SPORTS",
+        "TEAM SPORTS",
+        "RACKET SPORTS",
+        "WATER SPORTS",
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "EXERCISE",
+        "COMBAT SPORTS"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "a",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "a",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "a",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "p_handle",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "p_handle",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 943,
+      "images_count": 64,
+      "images_with_alt": 45,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Decathlon Qatar"
+        },
+        {
+          "level": 3,
+          "text": "Top Brands. Peak Performance."
+        },
+        {
+          "level": 3,
+          "text": "Popular Sports"
+        },
+        {
+          "level": 3,
+          "text": "Racket Sports"
+        },
+        {
+          "level": 3,
+          "text": "Hike & Camp"
+        },
+        {
+          "level": 3,
+          "text": "Cycling"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "a",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "a",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "a",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "p_handle",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "CONTACT US",
+        "OUR SHOP",
+        "SITE MAP",
+        "TERMS",
+        "PRIVACY POLICY",
+        "DELIVERY & RETURNS",
+        "WHO WE ARE",
+        "WWW.AZADEA.COM",
+        "BLOGS"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 23,
+      "has_og_tags": true,
+      "meta_description": "Discover a wide range of Sports Gear and Equipment online at Decathlon Qatar. Shop for Sports Clothing, Shoes, Accessories, and more at the best prices.",
+      "scripts_count": 119
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Multilingual support",
+        "Comprehensive footer links"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "floward_qa",
+    "url": "https://www.floward.com/en-qa/",
+    "scanned_at": "2026-03-31T23:30:47.293446",
+    "screenshots": {
+      "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/floward_qa_desktop.png",
+      "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/floward_qa_mobile.png"
+    },
+    "structure": {
+      "title": "Online Flowers & Gifts Delivery in Qatar | Floward | Same-Day Flowers Delivery",
+      "url_final": "https://floward.com/en-qa",
+      "nav_items": [],
+      "buttons": [
+        "Qatar",
+        "\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "Menu",
+        "Search",
+        "Cart",
+        "View/Edit My Profile",
+        "View/Edit My Profile",
+        "My Orders",
+        "My Subscriptions",
+        "Notifications",
+        "Invoices",
+        "My Addresses",
+        "Occasions and Network",
+        "Referrals",
+        "Favourite",
+        "Floward VIP",
+        "Floward Points0",
+        "Floward WalletQAR 0",
+        "Logout",
+        "Choose Now",
+        "Choose Now",
+        "Gift Now"
+      ],
+      "forms": [],
+      "links_count": 214,
+      "images_count": 204,
+      "images_with_alt": 83,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Wish You a Speedy Recovery"
+        },
+        {
+          "level": 2,
+          "text": "Wish You a Speedy Recovery"
+        },
+        {
+          "level": 2,
+          "text": "Discover the Perfect Birthday Gift!"
+        },
+        {
+          "level": 2,
+          "text": "A Scented Gift"
+        },
+        {
+          "level": 3,
+          "text": "Flowers that Say It Best"
+        },
+        {
+          "level": 3,
+          "text": "QAR309"
+        },
+        {
+          "level": 3,
+          "text": "QAR309"
+        },
+        {
+          "level": 3,
+          "text": "QAR319"
+        },
+        {
+          "level": 3,
+          "text": "QAR279"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Flowers",
+        "Cakes",
+        "Gifts",
+        "Birthday",
+        "Anniversary",
+        "Bestsellers",
+        "Premium Gifts",
+        "Brands",
+        "Corporate",
+        "Partner With us",
+        "Blogs"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 10,
+      "has_og_tags": true,
+      "meta_description": "The premier destination for online flowers and gifts in Qatar. Floward offers same-day delivery of fresh flower arrangements, plants, cakes, perfumes, and more.",
+      "scripts_count": 71
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "Y",
+        "order_tracking": "U",
+        "order_history": "Y",
+        "return_refund_info": "U",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "hamburger",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Floward VIP",
+        "Floward Points",
+        "Floward Wallet"
+      ],
+      "confidence": "medium"
+    }
+  }
+]

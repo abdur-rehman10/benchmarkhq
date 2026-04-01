@@ -1,0 +1,333 @@
+{
+  "name": "holland_barrett",
+  "url": "https://www.hollandandbarrett.com",
+  "scanned_at": "2026-03-31T21:55:06.709069",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/holland_barrett_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/holland_barrett_mobile.png"
+  },
+  "structure": {
+    "title": "Holland & Barrett - The UK's Leading Health & Wellness Store",
+    "url_final": "https://www.hollandandbarrett.com/",
+    "nav_items": [
+      {
+        "text": "Shop",
+        "href": "/shop/vitamins-supplements/"
+      },
+      {
+        "text": "Offers",
+        "href": "/shop/offers/"
+      },
+      {
+        "text": "Health & Wellness",
+        "href": "/shop/health-wellness/joints-bones-muscles/"
+      },
+      {
+        "text": "Limited timeThe BIG Payday Event",
+        "href": "/shop/offers/payday-event/"
+      },
+      {
+        "text": "Vitamins & Supplements",
+        "href": "/shop/vitamins-supplements/"
+      },
+      {
+        "text": "Hair, Skin & Nails",
+        "href": "/shop/vitamins-supplements/condition/hair-skin-nails/"
+      },
+      {
+        "text": "Collagen & Silica",
+        "href": "/shop/vitamins-supplements/supplements/collagen-silica/"
+      },
+      {
+        "text": "Muscle Support & Joint Pain",
+        "href": "/shop/vitamins-supplements/condition/muscle-support-joint-pain/"
+      },
+      {
+        "text": "Digestive Health",
+        "href": "/shop/vitamins-supplements/condition/digestive-health/"
+      },
+      {
+        "text": "Magnesium",
+        "href": "/shop/vitamins-supplements/minerals/magnesium/"
+      },
+      {
+        "text": "Functional Mushrooms",
+        "href": "/shop/vitamins-supplements/supplements/plant-sourced-supplements/functional-mushrooms/"
+      },
+      {
+        "text": "Vitamins",
+        "href": "/shop/vitamins-supplements/vitamins/"
+      },
+      {
+        "text": "Minerals",
+        "href": "/shop/vitamins-supplements/minerals/"
+      },
+      {
+        "text": "Supplements",
+        "href": "/shop/vitamins-supplements/supplements/"
+      },
+      {
+        "text": "Longevity",
+        "href": "/shop/vitamins-supplements/longevity/"
+      },
+      {
+        "text": "Condition",
+        "href": "/shop/vitamins-supplements/condition/"
+      },
+      {
+        "text": "Women's Health",
+        "href": "/shop/vitamins-supplements/condition/women-s-health/"
+      },
+      {
+        "text": "Men's Health",
+        "href": "/shop/vitamins-supplements/condition/men-s-health/"
+      },
+      {
+        "text": "Children's Health",
+        "href": "/shop/vitamins-supplements/condition/children-s-health/"
+      },
+      {
+        "text": "CBD Vitamins & Supplements",
+        "href": "/shop/vitamins-supplements/cbd/"
+      }
+    ],
+    "buttons": [
+      "Top brands",
+      "Shop by offer",
+      "Shop by dietary need",
+      "Shop by main ingredient",
+      "Top brands",
+      "Shop by offer",
+      "Shop by dietary need",
+      "Shop by main ingredient",
+      "Top brands",
+      "Shop by offer",
+      "Shop by dietary need",
+      "Shop by main ingredient",
+      "Top brands",
+      "Shop by offer",
+      "Shop by dietary need",
+      "Shop by main ingredient",
+      "Shop by skin concern",
+      "Shop by skin type",
+      "Shop by hair concern",
+      "Shop by hair type",
+      "Top brands",
+      "Shop by offer",
+      "Shop by dietary need",
+      "Shop by main ingredient",
+      "Top brands",
+      "Shop by offer",
+      "Shop by dietary need",
+      "Top brands",
+      "Shop by offer"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search products, brands, articles..."
+          }
+        ]
+      }
+    ],
+    "links_count": 994,
+    "images_count": 77,
+    "images_with_alt": 71,
+    "headings": [
+      {
+        "level": 2,
+        "text": "The BIG Payday Event"
+      },
+      {
+        "level": 2,
+        "text": "Shop by wellness goal"
+      },
+      {
+        "level": 2,
+        "text": "Your Cookie Settings"
+      },
+      {
+        "level": 2,
+        "text": "My Cookie Preference Center"
+      },
+      {
+        "level": 3,
+        "text": "Treat yourself to offers on 1000+ favourites"
+      },
+      {
+        "level": 3,
+        "text": "Gut Health"
+      },
+      {
+        "level": 3,
+        "text": "Active Nutrition"
+      },
+      {
+        "level": 3,
+        "text": "Joints, Bones & Muscles"
+      },
+      {
+        "level": 3,
+        "text": "Beauty"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search products, brands, articles..."
+      },
+      {
+        "type": "text",
+        "name": "firstName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Help Centre",
+      "Contact Us",
+      "Track your order",
+      "My Account",
+      "Student Discount",
+      "Store Locator",
+      "Home Delivery",
+      "Click & Collect",
+      "Returns",
+      "International Delivery",
+      "Product Recall",
+      "GDPR Data Rights Requests",
+      "Who we are",
+      "Working at Holland & Barrett",
+      "Press Releases"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 214,
+    "has_og_tags": false,
+    "meta_description": "With over 150 years of experience in health and wellness. Shop H&B for all your vitamins, supplements, protein, beauty, gluten-free and vegan foods - and so much more!",
+    "scripts_count": 92
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "The BIG Payday Event",
+      "Shop by wellness goal"
+    ],
+    "confidence": "medium"
+  }
+}

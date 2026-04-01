@@ -1,0 +1,119 @@
+{
+  "name": "wehkamp",
+  "url": "https://www.wehkamp.nl",
+  "scanned_at": "2026-03-31T22:33:22.698126",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/wehkamp_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/wehkamp_mobile.png"
+  },
+  "structure": {
+    "title": "Just a moment...",
+    "url_final": "https://www.wehkamp.nl/",
+    "nav_items": [
+      {
+        "text": "navigatie overslaan",
+        "href": "#navigatie-overslaan"
+      },
+      {
+        "text": "",
+        "href": "https://www.wehkamp.nl/"
+      },
+      {
+        "text": "",
+        "href": ""
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 10,
+    "images_count": 3,
+    "images_with_alt": 3,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Even puzzelen en je kan weer door"
+      },
+      {
+        "level": 2,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "thuiswinkel waarborg",
+      "algemene voorwaarden",
+      "privacy",
+      "cookies"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 3
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "strong focus on fashion and lifestyle products",
+      "integrated loyalty program"
+    ],
+    "confidence": "high"
+  }
+}

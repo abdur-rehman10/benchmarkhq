@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_brazil
+  name: E-commerce Brazil
+  country: Brazil
+  currency: BRL
+  language: pt
+  version: 1.0.0
+  generated_at: '2026-03-31T21:48:36.105084'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - mercado_livre
+  - amazon_brasil
+  - magazine_luiza
+  - americanas
+  - casas_bahia
+  - shopee_brasil
+  - aliexpress_br
+  - kabum
+  - netshoes
+  - leroy_merlin_br
+  - centauro
+  - renner
+  - canda_brasil
+  - riachuelo
+  - petz
+  - carrefour_brasil
+  - shein_brasil
+  - temu_brasil
+  - samsung_brasil
+  - nike_brasil
+  - adidas_brasil
+  - boticario
+  - natura
+  - fast_shop
+  - madeira_madeira
+  - decathlon_brasil
+  - ikea_brasil
+  - apple_brasil
+  - dafiti
+  - tok_stok
+features:
+  critical:
+  - id: product_search
+    frequency: 16/16
+    percent: 100
+  - id: search_autocomplete
+    frequency: 10/16
+    percent: 100
+  - id: search_filters
+    frequency: 11/16
+    percent: 100
+  - id: category_browsing
+    frequency: 15/16
+    percent: 100
+  - id: login_signup
+    frequency: 14/16
+    percent: 100
+  - id: guest_checkout
+    frequency: 12/16
+    percent: 100
+  - id: product_images
+    frequency: 16/16
+    percent: 100
+  - id: product_descriptions
+    frequency: 15/16
+    percent: 100
+  - id: price_display
+    frequency: 15/16
+    percent: 100
+  - id: size_variant_selector
+    frequency: 10/16
+    percent: 100
+  - id: stock_availability
+    frequency: 13/16
+    percent: 100
+  - id: related_products
+    frequency: 13/16
+    percent: 100
+  - id: shopping_cart
+    frequency: 15/16
+    percent: 100
+  - id: add_to_cart
+    frequency: 15/16
+    percent: 100
+  - id: promo_code
+    frequency: 12/16
+    percent: 100
+  - id: multiple_payment
+    frequency: 14/16
+    percent: 100
+  - id: shipping_info
+    frequency: 14/16
+    percent: 100
+  - id: estimated_delivery
+    frequency: 11/16
+    percent: 100
+  - id: order_tracking
+    frequency: 13/16
+    percent: 100
+  - id: order_history
+    frequency: 13/16
+    percent: 100
+  - id: return_refund_info
+    frequency: 14/16
+    percent: 100
+  - id: help_center
+    frequency: 14/16
+    percent: 100
+  - id: contact_form
+    frequency: 15/16
+    percent: 100
+  - id: phone_support
+    frequency: 13/16
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 16/16
+    percent: 100
+  - id: language_attribute
+    frequency: 16/16
+    percent: 100
+  - id: privacy_policy
+    frequency: 15/16
+    percent: 100
+  - id: cookie_consent
+    frequency: 14/16
+    percent: 100
+  - id: terms_of_service
+    frequency: 14/16
+    percent: 100
+  - id: responsive_design
+    frequency: 16/16
+    percent: 100
+  - id: sticky_header
+    frequency: 10/16
+    percent: 100
+  - id: hero_section
+    frequency: 12/16
+    percent: 100
+  - id: trending_items
+    frequency: 11/16
+    percent: 92
+  - id: wishlist
+    frequency: 12/16
+    percent: 92
+  - id: star_ratings
+    frequency: 10/16
+    percent: 91
+  - id: customer_reviews
+    frequency: 10/16
+    percent: 91
+  - id: personalized_recommendations
+    frequency: 10/16
+    percent: 91
+  - id: breadcrumb_navigation
+    frequency: 10/16
+    percent: 91
+  - id: social_login
+    frequency: 9/16
+    percent: 90
+  - id: review_photos
+    frequency: 9/16
+    percent: 90
+  - id: recently_viewed
+    frequency: 9/16
+    percent: 90
+  - id: push_notifications
+    frequency: 9/16
+    percent: 90
+  - id: skeleton_loading
+    frequency: 9/16
+    percent: 90
+  - id: footer_with_links
+    frequency: 13/16
+    percent: 87
+  required:
+  - id: live_chat
+    frequency: 9/16
+    percent: 82
+  recommended: []
+  nice_to_have: []
+  innovative: []

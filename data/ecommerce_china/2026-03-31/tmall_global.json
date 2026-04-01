@@ -1,0 +1,218 @@
+{
+  "name": "tmall_global",
+  "url": "https://www.tmall.hk",
+  "scanned_at": "2026-04-01T00:00:43.713058",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/tmall_global_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/tmall_global_mobile.png"
+  },
+  "structure": {
+    "title": "\u5929\u732b\u56fd\u9645Tmall.HK -100%\u6b63\u54c1\u4fdd\u969c 100%\u6d77\u5916\u76f4\u4f9b 100%\u552e\u540e\u670d\u52a1-\u7406\u60f3\u751f\u6d3b\u4e0a\u5929\u732b",
+    "url_final": "https://www.tmall.hk/",
+    "nav_items": [],
+    "buttons": [
+      "\u641c\u7d22"
+    ],
+    "forms": [
+      {
+        "action": "//pages.tmall.com/wow/z/import/tmg-rax-home/tmallimportwupr-index",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "wh_pid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "g_channelSrp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "g_bizFilter",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "channelSrp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "from",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "g_closeModues",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "channel_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "g_historyOn",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "g_channelHistoryKey",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 80,
+    "images_count": 1,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "\u5929\u732b\u56fd\u9645"
+      },
+      {
+        "level": 3,
+        "text": "\u670d\u52a1\u4fdd\u969c"
+      },
+      {
+        "level": 3,
+        "text": "\u6d88\u8d39\u8005\u6307\u5357"
+      },
+      {
+        "level": 3,
+        "text": "\u652f\u4ed8\u65b9\u5f0f"
+      },
+      {
+        "level": 3,
+        "text": "\u5546\u5bb6\u652f\u6301"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "wh_pid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "g_channelSrp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "g_bizFilter",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "channelSrp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "from",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "g_closeModues",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "channel_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "g_historyOn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "g_channelHistoryKey",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 2,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 32
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "100% overseas direct supply",
+      "100% genuine product guarantee",
+      "Comprehensive after-sales service"
+    ],
+    "confidence": "high"
+  }
+}

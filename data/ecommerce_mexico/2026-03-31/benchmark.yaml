@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_mexico
+  name: E-commerce Mexico
+  country: Mexico
+  currency: MXN
+  language: es
+  version: 1.0.0
+  generated_at: '2026-03-31T21:38:41.767033'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - mercado_libre_mx
+  - amazon_mexico
+  - walmart_mexico
+  - liverpool
+  - coppel
+  - elektra
+  - soriana
+  - palacio_de_hierro
+  - home_depot_mexico
+  - costco_mexico
+  - sanborns
+  - office_depot_mx
+  - shein_mexico
+  - bodega_aurrera
+  - best_buy_mexico
+  - sams_club_mexico
+  - nike_mexico
+  - adidas_mexico
+  - zara_mexico
+  - suburbia
+  - temu_mexico
+  - samsung_mexico
+  - apple_mexico
+  - decathlon_mexico
+  - ikea_mexico
+  - linio_mexico
+  - sears_mexico
+  - petco_mexico
+  - handm_mexico
+  - italika
+features:
+  critical:
+  - id: product_search
+    frequency: 12/12
+    percent: 100
+  - id: category_browsing
+    frequency: 12/12
+    percent: 100
+  - id: login_signup
+    frequency: 11/12
+    percent: 100
+  - id: guest_checkout
+    frequency: 9/12
+    percent: 100
+  - id: product_images
+    frequency: 12/12
+    percent: 100
+  - id: product_descriptions
+    frequency: 11/12
+    percent: 100
+  - id: price_display
+    frequency: 11/12
+    percent: 100
+  - id: stock_availability
+    frequency: 9/12
+    percent: 100
+  - id: shopping_cart
+    frequency: 12/12
+    percent: 100
+  - id: add_to_cart
+    frequency: 12/12
+    percent: 100
+  - id: multiple_payment
+    frequency: 11/12
+    percent: 100
+  - id: shipping_info
+    frequency: 11/12
+    percent: 100
+  - id: order_tracking
+    frequency: 11/12
+    percent: 100
+  - id: order_history
+    frequency: 10/12
+    percent: 100
+  - id: return_refund_info
+    frequency: 12/12
+    percent: 100
+  - id: help_center
+    frequency: 12/12
+    percent: 100
+  - id: phone_support
+    frequency: 8/12
+    percent: 100
+  - id: language_attribute
+    frequency: 12/12
+    percent: 100
+  - id: privacy_policy
+    frequency: 10/12
+    percent: 100
+  - id: terms_of_service
+    frequency: 10/12
+    percent: 100
+  - id: responsive_design
+    frequency: 12/12
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 11/12
+    percent: 92
+  - id: footer_with_links
+    frequency: 11/12
+    percent: 92
+  - id: contact_form
+    frequency: 10/12
+    percent: 91
+  required:
+  - id: cookie_consent
+    frequency: 8/12
+    percent: 80
+  - id: wishlist
+    frequency: 7/12
+    percent: 78
+  - id: personalized_recommendations
+    frequency: 6/12
+    percent: 75
+  - id: hero_section
+    frequency: 7/12
+    percent: 70
+  - id: trending_items
+    frequency: 6/12
+    percent: 67
+  - id: size_variant_selector
+    frequency: 6/12
+    percent: 67
+  - id: promo_code
+    frequency: 6/12
+    percent: 67
+  recommended:
+  - id: search_autocomplete
+    frequency: 5/12
+    percent: 62
+  - id: search_filters
+    frequency: 5/12
+    percent: 62
+  - id: related_products
+    frequency: 5/12
+    percent: 62
+  - id: estimated_delivery
+    frequency: 5/12
+    percent: 62
+  - id: star_ratings
+    frequency: 5/12
+    percent: 62
+  - id: customer_reviews
+    frequency: 5/12
+    percent: 62
+  - id: review_photos
+    frequency: 5/12
+    percent: 62
+  - id: recently_viewed
+    frequency: 5/12
+    percent: 62
+  - id: live_chat
+    frequency: 5/12
+    percent: 62
+  - id: sticky_header
+    frequency: 5/12
+    percent: 62
+  - id: breadcrumb_navigation
+    frequency: 5/12
+    percent: 62
+  - id: social_login
+    frequency: 4/12
+    percent: 50
+  - id: push_notifications
+    frequency: 4/12
+    percent: 50
+  - id: skeleton_loading
+    frequency: 4/12
+    percent: 50
+  nice_to_have: []
+  innovative: []

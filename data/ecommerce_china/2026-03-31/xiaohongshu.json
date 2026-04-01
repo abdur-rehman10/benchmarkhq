@@ -1,0 +1,134 @@
+{
+  "name": "xiaohongshu",
+  "url": "https://www.xiaohongshu.com",
+  "scanned_at": "2026-03-31T23:58:55.893502",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/xiaohongshu_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/xiaohongshu_mobile.png"
+  },
+  "structure": {
+    "title": "\u5c0f\u7ea2\u4e66 - \u4f60\u7684\u751f\u6d3b\u5174\u8da3\u793e\u533a",
+    "url_final": "https://www.xiaohongshu.com/explore",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/explore"
+      }
+    ],
+    "buttons": [
+      "\u767b\u5f55",
+      "\u521b\u4f5c\u4e2d\u5fc3",
+      "\u4e1a\u52a1\u5408\u4f5c",
+      "\u767b\u5f55",
+      "\u767b\u5f55",
+      "\u6211\u8981\u7533\u8bc9",
+      "\u6211\u77e5\u9053\u4e86",
+      "\u6211\u77e5\u9053\u4e86"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "xhs-pc-web-phone",
+            "placeholder": "\u8f93\u5165\u624b\u673a\u53f7"
+          },
+          {
+            "type": "number",
+            "name": "",
+            "placeholder": "\u8f93\u5165\u9a8c\u8bc1\u7801"
+          }
+        ]
+      }
+    ],
+    "links_count": 119,
+    "images_count": 39,
+    "images_with_alt": 0,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "xhs-pc-web-phone",
+        "placeholder": "\u8f93\u5165\u624b\u673a\u53f7"
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": "\u8f93\u5165\u9a8c\u8bc1\u7801"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u767b\u5f55\u63a2\u7d22\u66f4\u591a\u5185\u5bb9"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 1,
+    "has_og_tags": false,
+    "meta_description": "3 \u4ebf\u4eba\u7684\u751f\u6d3b\u7ecf\u9a8c\uff0c\u90fd\u5728\u5c0f\u7ea2\u4e66",
+    "scripts_count": 24
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "N",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Community-driven content",
+      "Influencer collaborations",
+      "Social commerce integration"
+    ],
+    "confidence": "high"
+  }
+}

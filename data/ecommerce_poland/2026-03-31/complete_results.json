@@ -1,0 +1,6543 @@
+[
+  {
+    "name": "allegro",
+    "url": "https://allegro.pl",
+    "scanned_at": "2026-03-31T22:43:08.141451",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/allegro_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/allegro_mobile.png"
+    },
+    "structure": {
+      "title": "allegro.pl",
+      "url_final": "https://allegro.pl/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "localized payment options",
+        "strong community engagement"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "olx_poland",
+    "url": "https://www.olx.pl",
+    "scanned_at": "2026-03-31T22:43:29.058412",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/olx_poland_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/olx_poland_mobile.png"
+    },
+    "structure": {
+      "title": "Og\u0142oszenia - Sprzedam, kupi\u0119 na OLX.pl",
+      "url_final": "https://www.olx.pl/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Czat",
+          "href": "/myaccount/answers/"
+        },
+        {
+          "text": "",
+          "href": "/obserwowane/search/"
+        },
+        {
+          "text": "Powiadomienia",
+          "href": ""
+        },
+        {
+          "text": "Twoje konto",
+          "href": "http://www.olx.pl/konto/?ref[0][params][url]=http%3A%2F%2Fwww.olx.pl%2F&ref[0][action]=redirector&re"
+        },
+        {
+          "text": "Dodaj og\u0142oszenie",
+          "href": "/adding"
+        },
+        {
+          "text": "Dla biznesuopens in a new tab",
+          "href": "https://biznes.olx.pl/rekrutuje"
+        }
+      ],
+      "buttons": [
+        "Dla biznesuopens in a new tab",
+        "Sprawd\u017a i zg\u0142o\u015b link",
+        "Szukaj",
+        "30 z\u0142 z Pakietem Ochronnym",
+        "730,96 z\u0142 z Pakietem Ochronnym",
+        "107,50 z\u0142 z Pakietem Ochronnym",
+        "75,42 z\u0142 z Pakietem Ochronnym",
+        "992 z\u0142 z Pakietem Ochronnym",
+        "44,90 z\u0142 z Pakietem Ochronnym",
+        "Lista partner\u00f3w (dostawc\u00f3w)",
+        "Akceptuj wszystkie",
+        "Akceptuj niezb\u0119dne",
+        "Ustaw preferencje"
+      ],
+      "forms": [
+        {
+          "action": "#",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Znajd\u017a co\u015b dla siebie"
+            },
+            {
+              "type": "text",
+              "name": "location-Field",
+              "placeholder": "Ca\u0142a Polska"
+            }
+          ]
+        }
+      ],
+      "links_count": 145,
+      "images_count": 55,
+      "images_with_alt": 21,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Kategorie g\u0142\u00f3wne"
+        },
+        {
+          "level": 2,
+          "text": "Og\u0142oszenia promowane"
+        },
+        {
+          "level": 2,
+          "text": "Dbamy o Twoj\u0105 prywatno\u015b\u0107"
+        },
+        {
+          "level": 3,
+          "text": "Wraz z naszymi partnerami przetwarzamy dane w celu zapewnienia:"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Znajd\u017a co\u015b dla siebie"
+        },
+        {
+          "type": "text",
+          "name": "location-Field",
+          "placeholder": "Ca\u0142a Polska"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 23,
+      "has_og_tags": true,
+      "meta_description": "OLX.pl to darmowe og\u0142oszenia lokalne w kategoriach: Praca, Dom i Ogr\u00f3d, Elektronika, Moda, Rolnictwo, Zwierz\u0119ta. Dla Dzieci, Sport i Hobby, Muzyka i Edukacja, Us\u0142ugi i Firmy. Szybko znajdziesz tu ciek",
+      "scripts_count": 68
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "N",
+        "related_products": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "Y",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Business section for recruitment"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "amazon_pl",
+    "url": "https://www.amazon.pl",
+    "scanned_at": "2026-03-31T22:43:51.157516",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/amazon_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/amazon_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.pl: zakupy internetowe elektroniki, odzie\u017cy, komputer\u00f3w, ksi\u0105\u017cek, p\u0142yt DVD i innych",
+      "url_final": "https://www.amazon.pl/",
+      "nav_items": [
+        {
+          "text": "G\u0142\u00f3wna zawarto\u015b\u0107",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Wyszukiwanieklawisz Opt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Koszykklawisz Shift+klawisz Opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Strona g\u0142\u00f3wnaklawisz Shift+klawisz Opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Zam\u00f3wieniaklawisz Shift+klawisz Opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Poka\u017c lub ukryj skr\u00f3tyklawisz Shift+klawisz Opt+Z",
+        "Powr\u00f3t na g\u00f3r\u0119 strony",
+        "Zaloguj si\u0119",
+        "Polska"
+      ],
+      "forms": [
+        {
+          "action": "/privacyprefs/retail/v3/banner",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "anti-csrftoken-a2z",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "timestamp",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "disclosureDecision",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "privacyCustomerId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "sessionId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userType",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "__mk_pl_PL",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Szukaj na Amazon.pl"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 319,
+      "images_count": 205,
+      "images_with_alt": 201,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Przejd\u017a do"
+        },
+        {
+          "level": 2,
+          "text": "Skr\u00f3ty klawiszowe"
+        },
+        {
+          "level": 2,
+          "text": "Elektronika: Najpopularniejsze marki"
+        },
+        {
+          "level": 2,
+          "text": "Organizacja domu poni\u017cej 150 z\u0142"
+        },
+        {
+          "level": 2,
+          "text": "Elektronika poni\u017cej 200 z\u0142"
+        },
+        {
+          "level": 3,
+          "text": "Top okazje"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "anti-csrftoken-a2z",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "timestamp",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "disclosureDecision",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "privacyCustomerId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "sessionId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "consentTypes",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "__mk_pl_PL",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Szukaj na Amazon.pl"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 102,
+      "has_og_tags": false,
+      "meta_description": "Zakupy internetowe elektroniki, komputer\u00f3w, odzie\u017cy, but\u00f3w, zabawek, ksi\u0105\u017cek, p\u0142yt DVD, artyku\u0142\u00f3w sportowych, produkt\u00f3w z kategorii urody i innych.",
+      "scripts_count": 132
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "keyboard_shortcuts",
+        "localized_content"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "media_expert",
+    "url": "https://www.mediaexpert.pl",
+    "scanned_at": "2026-03-31T22:44:10.221016",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/media_expert_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/media_expert_mobile.png"
+    },
+    "structure": {
+      "title": "Media Expert | Sklep internetowy RTV, AGD, komputery",
+      "url_final": "https://www.mediaexpert.pl/",
+      "nav_items": [
+        {
+          "text": "Infolinia: 756 756 756pon.-pt.08:00-20:00sob.-nied",
+          "href": "tel:+48756756756"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "Zaloguj si\u0119",
+        "Menu",
+        "Zaloguj si\u0119",
+        "Koszyk",
+        "Pomi\u0144 menu",
+        "Produkty",
+        "Us\u0142ugi",
+        "Zamknij menu i przejd\u017a do nast\u0119pnej sekcji",
+        "Wstrzymaj karuzel\u0119",
+        "Pomi\u0144 sekcj\u0119",
+        "Zobacz wi\u0119cej",
+        "Produkty",
+        "Us\u0142ugi",
+        "Pomi\u0144",
+        "Zobacz wi\u0119cej promocji",
+        "Pomi\u0144 sekcj\u0119",
+        "Pomi\u0144 sekcj\u0119",
+        "Pomi\u0144",
+        "Pomi\u0144",
+        "Pomi\u0144"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Czego szukasz?"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Czego szukasz?"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Czego szukasz?"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 618,
+      "images_count": 124,
+      "images_with_alt": 40,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Media Expert | Sklep internetowy RTV, AGD, komputeryMedia Expert | Sklep interne"
+        },
+        {
+          "level": 2,
+          "text": "\u015awi\u0105teczne Media Expert Days"
+        },
+        {
+          "level": 2,
+          "text": "Media Expert Days rower Kross"
+        },
+        {
+          "level": 2,
+          "text": "Przeceny na \u015awi\u0119ta!"
+        },
+        {
+          "level": 2,
+          "text": "Rabatosza\u0142 - Taniej z\u00a0kodem"
+        },
+        {
+          "level": 2,
+          "text": "SETTI+ WC700 z\u00a0p\u0142ynem za 1\u00a0z\u0142"
+        },
+        {
+          "level": 3,
+          "text": "-30% na drugi produkt lub pi\u0105ty za 1z\u0142"
+        },
+        {
+          "level": 3,
+          "text": "Im wi\u0119cej tym taniej"
+        },
+        {
+          "level": 3,
+          "text": "Oszcz\u0119dzaj"
+        },
+        {
+          "level": 3,
+          "text": "Ostatnie sztuki w\u00a0Twoim mie\u015bcie"
+        },
+        {
+          "level": 3,
+          "text": "Prezenty na zaj\u0105czka w\u00a0supercenach"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Czego szukasz?"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Czego szukasz?"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Czego szukasz?"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-ME002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-ME003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-ME004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Szukaj..."
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Dowiedz si\u0119\u00a0wi\u0119cej",
+        "Dowiedz si\u0119\u00a0wi\u0119cej",
+        "Dowiedz si\u0119\u00a0wi\u0119cej",
+        "Klient indywidualny",
+        "Klient biznesowy",
+        "Kontakt",
+        "Status zam\u00f3wienia",
+        "Reklamacje",
+        "Akcje serwisowe",
+        "Zwroty",
+        "Odbi\u00f3r zu\u017cytego sprz\u0119tu",
+        "Zg\u0142o\u015b b\u0142\u0105d",
+        "Instrukcje obs\u0142ugi",
+        "Kontakt z Biurem Prezesa Media Expert",
+        "Praca",
+        "Centrum Informacyjne",
+        "Dost\u0119pno\u015b\u0107 cyfrowa",
+        "O firmie",
+        "Regulamin",
+        "Newsletter - regulamin"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 142,
+      "has_og_tags": true,
+      "meta_description": "Media Expert \u2013 lider na rynku RTV i AGD. Szeroki wyb\u00f3r produkt\u00f3w i najnowszych technologii w super cenach!  Zapraszamy do ponad 600 sklep\u00f3w i na www.mediaexpert.pl",
+      "scripts_count": 69
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Infolinia with specific hours",
+        "Multiple 'Pomi\u0144' buttons for accessibility"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "rtv_euro_agd",
+    "url": "https://www.euro.com.pl",
+    "scanned_at": "2026-03-31T22:44:30.743233",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/rtv_euro_agd_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/rtv_euro_agd_mobile.png"
+    },
+    "structure": {
+      "title": "RTV EURO AGD - Sklep internetowy RTV AGD Komputery Foto Telefony",
+      "url_final": "https://www.euro.com.pl/",
+      "nav_items": [],
+      "buttons": [
+        "Przejd\u017a do zawarto\u015bci strony",
+        "Przejd\u017a do wyszukiwarki",
+        "Przejd\u017a do kategorii",
+        "Przejd\u017a do stopki",
+        "Szukaj",
+        "Moje kontoZaloguj / Zarejestruj",
+        "855 855 855",
+        "Obserwowane",
+        "Koszyk",
+        "Szukaj w RTV Euro AGD",
+        "Wszystkie kategorie",
+        "Strefa klienta",
+        "Wielkanocne okazje",
+        "2 raty gratis!",
+        "Prima Aprilis",
+        "Sezon w ogrodzie",
+        "Zestaw wymienny Roborock  za 1 z\u0142",
+        "Pakiet us\u0142ug na Twoje sprz\u0119ty",
+        "Nawet do 6 kg kawy za 1z\u0142/kg",
+        "Macbook Neo",
+        "203"
+      ],
+      "forms": [],
+      "links_count": 1480,
+      "images_count": 357,
+      "images_with_alt": 165,
+      "headings": [
+        {
+          "level": 1,
+          "text": "RTV EURO AGD - Sklep internetowy RTV AGD Komputery Foto Telefony"
+        },
+        {
+          "level": 2,
+          "text": "HIT DNIA"
+        },
+        {
+          "level": 2,
+          "text": "Nowo\u015bci"
+        },
+        {
+          "level": 3,
+          "text": "S\u0142uchawki bezprzewodowe z mikrofonem Redragon H540-PRO Luna Wireless Nauszne Cza"
+        },
+        {
+          "level": 3,
+          "text": "nowo\u015bci"
+        },
+        {
+          "level": 3,
+          "text": "iphone"
+        },
+        {
+          "level": 3,
+          "text": "gaming"
+        },
+        {
+          "level": 3,
+          "text": "telewizory"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Szukaj w RTV Euro AGD"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Szukaj w RTV Euro AGD"
+        }
+      ],
+      "footer_links": [
+        "Zapisz si\u0119",
+        "Dowiedz si\u0119 wi\u0119cej"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 84,
+      "has_og_tags": true,
+      "meta_description": "Sklep z RTV i AGD \u2013 lider na polskim rynku. RTV Euro AGD oferuje najbogatszy wyb\u00f3r produkt\u00f3w, korzystne raty i ubezpieczenie sprz\u0119t\u00f3w. Wejd\u017a do nas \u2013 zakupy jeszcze nigdy nie by\u0142y tak proste!",
+      "scripts_count": 19
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "2 raty gratis!",
+        "Nawet do 6 kg kawy za 1z\u0142/kg"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "empik",
+    "url": "https://www.empik.com",
+    "scanned_at": "2026-03-31T22:44:51.505496",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/empik_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/empik_mobile.png"
+    },
+    "structure": {
+      "title": "Empik.com | 10 000 000 produkt\u00f3w i pomys\u0142\u00f3w na prezent | Dostawa za 0 z\u0142 z Empik Premium",
+      "url_final": "https://www.empik.com/",
+      "nav_items": [
+        {
+          "text": "Start",
+          "href": "/"
+        },
+        {
+          "text": "Koszyk",
+          "href": "/cart/"
+        },
+        {
+          "text": "Ulubione",
+          "href": "/twoje-konto/listy"
+        }
+      ],
+      "buttons": [
+        "Kategorie",
+        "Nasze serwisy i us\u0142ugi",
+        "Kategorie",
+        "Kategorie",
+        "Konto"
+      ],
+      "forms": [
+        {
+          "action": ".",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "search-input",
+              "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+            }
+          ]
+        },
+        {
+          "action": ".",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "search-input",
+              "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+            }
+          ]
+        }
+      ],
+      "links_count": 2127,
+      "images_count": 333,
+      "images_with_alt": 223,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Wiosenne okazje do -40%"
+        },
+        {
+          "level": 2,
+          "text": "Hity z gwarancj\u0105 najni\u017cszej ceny"
+        },
+        {
+          "level": 2,
+          "text": "Top promocje"
+        },
+        {
+          "level": 2,
+          "text": "Prezenty od zaj\u0105czka"
+        },
+        {
+          "level": 2,
+          "text": "Festiwal gier planszowych do -30%"
+        },
+        {
+          "level": 3,
+          "text": "Prezenty"
+        },
+        {
+          "level": 3,
+          "text": "Pomys\u0142y na prezent"
+        },
+        {
+          "level": 3,
+          "text": "Prezenty dla\u2026"
+        },
+        {
+          "level": 3,
+          "text": "Okazje"
+        },
+        {
+          "level": 3,
+          "text": "Popularne zapytania"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "search-input",
+          "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+        },
+        {
+          "type": "search",
+          "name": "search-input",
+          "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147532984",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "147602497",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Prezenty",
+        "Prezenty dla niej",
+        "Prezenty dla niego",
+        "Prezenty dla par",
+        "Prezenty dla babci",
+        "Prezenty dla dziadka",
+        "Prezenty dla dzieci",
+        "Prezenty dla mamy",
+        "Prezenty dla taty",
+        "Prezenty dla przyjaci\u00f3\u0142ki",
+        "Prezenty dla nastolatka",
+        "Karty podarunkowe",
+        "Prezenty dla siostry",
+        "Prezenty dla \u017cony",
+        "Prezenty dla m\u0119\u017ca",
+        "Prezenty dla brata",
+        "Prezenty dla zwierzaka",
+        "Prezenty dla majsterkowicza",
+        "Prezenty \u015blubne",
+        "Prezenty na Baby Shower"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 34,
+      "has_og_tags": true,
+      "meta_description": "Ponad 10 000 000 pomys\u0142\u00f3w na prezent w kategoriach Ksi\u0105\u017cka, Muzyka, Film, Zdrowie i uroda, Zabawki, Dom i ogr\u00f3d, Elektronika, AGD, Sport. Z Empik Premium taniej.",
+      "scripts_count": 79
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Empik Premium free delivery",
+        "Wide range of gift suggestions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zalando_pl",
+    "url": "https://www.zalando.pl",
+    "scanned_at": "2026-03-31T22:45:12.930477",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/zalando_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/zalando_pl_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.zalando.pl/",
+      "nav_items": [],
+      "buttons": [
+        "Od\u015bwie\u017c",
+        "Wy\u015blij raport o b\u0142\u0119dzie"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 2,
+          "text": "W tej chwili strona jest niedost\u0119pna"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 28
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized recommendations",
+        "skeleton loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "morele.net",
+    "url": "https://www.morele.net",
+    "scanned_at": "2026-03-31T22:45:31.566244",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/morele.net_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/morele.net_mobile.png"
+    },
+    "structure": {
+      "title": "Morele - zakupy online to pestka",
+      "url_final": "https://www.morele.net/",
+      "nav_items": [
+        {
+          "text": "Elektronika i komputerymorele.net",
+          "href": "https://www.morele.net/"
+        },
+        {
+          "text": "Laptopy",
+          "href": "/laptopy/"
+        },
+        {
+          "text": "Poka\u017c wszystko w Laptopy",
+          "href": "/laptopy/"
+        },
+        {
+          "text": "Laptopy i tablety",
+          "href": "/laptopy/laptopy-i-tablety/"
+        },
+        {
+          "text": "Laptopy",
+          "href": "/kategoria/laptopy-31/"
+        },
+        {
+          "text": "Laptopy 2w1",
+          "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,30183O978880/1/"
+        },
+        {
+          "text": "Laptopy poleasingowe",
+          "href": "/kategoria/laptopy-poleasingowe-497/"
+        },
+        {
+          "text": "Tablety",
+          "href": "/kategoria/tablety-528/"
+        },
+        {
+          "text": "Tablety poleasingowe",
+          "href": "/kategoria/tablety-poleasingowe-12379/"
+        },
+        {
+          "text": "Czytniki e-book",
+          "href": "/kategoria/czytniki-e-book-542/"
+        },
+        {
+          "text": "Laptopy - zastosowanie",
+          "href": "/kategoria/laptopy-31/"
+        },
+        {
+          "text": "Laptopy biznesowe",
+          "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1098457/1/"
+        },
+        {
+          "text": "Laptopy multimedialne",
+          "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1098456/1/"
+        },
+        {
+          "text": "Laptopy gamingowe",
+          "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1098459/1/"
+        },
+        {
+          "text": "Dla Tw\u00f3rc\u00f3w (stacje robocze)",
+          "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1698659/1/"
+        },
+        {
+          "text": "RTX STUDIO",
+          "href": "/kategoria/laptopy-31/,,,,,,,,0,,,,31463O1721465/1/"
+        },
+        {
+          "text": "Laptopy - popularni producenci",
+          "href": "/kategoria/laptopy-31/"
+        },
+        {
+          "text": "Laptopy Lenovo",
+          "href": "/kategoria/laptopy-31/,,,,,511,,,0,,,,/1/"
+        },
+        {
+          "text": "Laptopy Dell",
+          "href": "/kategoria/laptopy-31/,,,,,248,,,0,,,,/1/"
+        },
+        {
+          "text": "Laptopy HP",
+          "href": "/kategoria/laptopy-31/,,,,,92,,,0,,,,/1/"
+        }
+      ],
+      "buttons": [
+        "Wszystkie dzia\u0142y",
+        "Wybierzkod pocztowyJe\u015bli chcesz pozna\u0107 czasy dosta",
+        "Kontakt",
+        "Listyzakupowe",
+        "0Zaloguj si\u0119Za\u0142\u00f3\u017c konto",
+        "00,00 z\u0142",
+        "Wszystkie dzia\u0142y",
+        "Sprawd\u017a",
+        "Do koszykaPami\u0119\u0107 Viper Elite 5, DDR5, 16 GB, 6000M",
+        "Kontakt",
+        "Zapisz",
+        "Menu",
+        "wi\u0119cej",
+        "wi\u0119cej",
+        "wi\u0119cej",
+        "Ustawienia zaawansowane",
+        "Zapisz",
+        "Akceptuj\u0119 wszystko",
+        "Wr\u00f3\u0107",
+        "Poka\u017c wszystko w Laptopy",
+        "Poka\u017c wszystko w Komputery"
+      ],
+      "forms": [
+        {
+          "action": "/wyszukiwarka/",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+            },
+            {
+              "type": "text",
+              "name": "d",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/wyszukiwarka/",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+            },
+            {
+              "type": "text",
+              "name": "d",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "zip_city",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1112,
+      "images_count": 53,
+      "images_with_alt": 49,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Odkryj Morele"
+        },
+        {
+          "level": 2,
+          "text": "Polecane"
+        },
+        {
+          "level": 2,
+          "text": "Twoje centrum dowodzenia"
+        },
+        {
+          "level": 2,
+          "text": "Aktualno\u015bci"
+        },
+        {
+          "level": 3,
+          "text": "Okazja dnia"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Szukaj w\u015br\u00f3d 2 milion\u00f3w produkt\u00f3w"
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_9836468_1116694561",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "widget_13048131_652735772",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Dodatkowa gwarancja",
+        "Monta\u017c komputera",
+        "Us\u0142ugi",
+        "Ubezpieczenie PZU",
+        "Karta Podarunkowa",
+        "Brand Club - program lojalno\u015bciowy",
+        "Morele MAX",
+        "PayPo",
+        "Raty",
+        "Leasing",
+        "Zakupy dla firmy",
+        "Pomoc",
+        "Sposoby dostawy i p\u0142atno\u015bci",
+        "Zwroty i reklamacje",
+        "Aktualne promocje",
+        "Poradniki",
+        "Wszystkie kategorie produktowe",
+        "Pytanie o produkt i doradztwo produktowe",
+        "Ca\u0142odobowe wsparcie Klienta",
+        "O nas"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 25,
+      "has_og_tags": true,
+      "meta_description": "Szybka i darmowa dostawa, niskie ceny, najlepsze promocje, \u0142atwe reklamacje i zwroty, szeroka oferta bestseller\u00f3w. Nasi eksperci doradz\u0105, co wybra\u0107 z szerokiej oferty bestseller\u00f3w z r\u00f3\u017cnych kategorii.",
+      "scripts_count": 47
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "Y",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Brand Club - program lojalno\u015bciowy",
+        "Morele MAX"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "x-kom",
+    "url": "https://www.x-kom.pl",
+    "scanned_at": "2026-03-31T22:45:52.413247",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/x-kom_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/x-kom_mobile.png"
+    },
+    "structure": {
+      "title": "x-kom - Technologia po prostu. Komputery, elektronika i RTV",
+      "url_final": "https://www.x-kom.pl/",
+      "nav_items": [
+        {
+          "text": "Laptopy i\u00a0komputery",
+          "href": "/g/2-laptopy-i-komputery.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1491065-desktop-g4m3r-hero-20-r7-7800x3d-32gb-1tb-rtx-5060ti.html"
+        },
+        {
+          "text": "Smartfony i\u00a0smartwatche",
+          "href": "/g/4-smartfony-i-smartwatche.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1486483-smartfon-telefon-samsung-galaxy-s26-ultra-12-256gb-czarny.html"
+        },
+        {
+          "text": "Gaming i\u00a0streaming",
+          "href": "/g/7-gaming-i-streaming.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1505206-procesor-intel-core-ultra-5-intel-core-ultra-5-250k-plus.html"
+        },
+        {
+          "text": "Podzespo\u0142y komputerowe",
+          "href": "/g/5-podzespoly-komputerowe.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1246875-zasilacz-do-komputera-smx-okame-m2-650w-80-plus-gold-eu.html"
+        },
+        {
+          "text": "Urz\u0105dzenia peryferyjne",
+          "href": "/g/6-urzadzenia-peryferyjne.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1247303-urzadzenie-wiel-atramentowe-epson-ecotank-l3270.html"
+        },
+        {
+          "text": "TV i\u00a0audio",
+          "href": "/g/8-tv-i-audio.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1366372-telewizor-55-59-philips-55pus8400-55-qled-4k-dolby-atmos.html"
+        },
+        {
+          "text": "Smarthome i\u00a0lifestyle",
+          "href": "/g/64-smarthome-i-lifestyle.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1315278-hulajnoga-elektryczna-xiaomi-electric-scooter-5-max.html"
+        },
+        {
+          "text": "Akcesoria",
+          "href": "/g/12-akcesoria.html"
+        },
+        {
+          "text": "",
+          "href": "https://www.x-kom.pl/p/1502075-ladowarka-do-smartfonow-baseus-ladowarka-sieciowa-enerfill-fe11-2-x-u"
+        },
+        {
+          "text": "Promocje i\u00a0nowo\u015bci",
+          "href": "/trendy"
+        },
+        {
+          "text": "Outlet reStart",
+          "href": "https://promocje.x-kom.pl/outlet"
+        }
+      ],
+      "buttons": [
+        "Nowa generacja G4M3R",
+        "Superokazje na wiosn\u0119",
+        "Kupuj produkty za 1 z\u0142",
+        "Smartfony i s\u0142uchawki taniej",
+        "Wiosenna wyprzeda\u017c",
+        "Outletowe okazje",
+        "Do 20 rat 0%",
+        "W zestawie taniej",
+        "Nowo\u015bci od HyperX",
+        "LEGO\u00ae z rabatami do -150 z\u0142",
+        "Kup teraz",
+        "Nowo\u015b\u0107",
+        "Nowo\u015b\u0107",
+        "Nowo\u015b\u0107"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": " "
+            }
+          ]
+        }
+      ],
+      "links_count": 658,
+      "images_count": 307,
+      "images_with_alt": 286,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Gor\u0105cy Strza\u0142"
+        },
+        {
+          "level": 2,
+          "text": "Hity tygodnia"
+        },
+        {
+          "level": 2,
+          "text": "Promocje"
+        },
+        {
+          "level": 2,
+          "text": "Blog"
+        },
+        {
+          "level": 2,
+          "text": "Polecamy"
+        },
+        {
+          "level": 3,
+          "text": "G4M3R ELITE 2.0 R7\u20119800X3D/32GB/2TB/RTX\u2122 5080/W11x"
+        },
+        {
+          "level": 3,
+          "text": "Nothing Phone (4a) Pro 12/256GB Black"
+        },
+        {
+          "level": 3,
+          "text": "G4M3R HERO 2.0 i5\u201114400F/32GB/1TB/RTX\u2122 5060Ti/W11x"
+        },
+        {
+          "level": 3,
+          "text": "Vencien Ambit\u20112"
+        },
+        {
+          "level": 3,
+          "text": "ASUS Vivobook 16 Ryzen 7\u20117730U/16GB/512/Win11"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Czego szukasz?"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": " "
+        }
+      ],
+      "footer_links": [
+        "Sprawd\u017a lokalizacje",
+        "Zacznij zarabia\u0107",
+        "regulamin",
+        "polityce prywatno\u015bci",
+        "Laptop 13,3 cali",
+        "Laptopy 14 cali",
+        "Laptop 15-16 cali",
+        "Laptop 17,3 cali",
+        "Laptopy 2 w 1",
+        "Laptopy HP",
+        "Laptopy Acer",
+        "Laptopy Asus",
+        "Laptopy Dell",
+        "Laptopy Lenovo",
+        "Smartfony promocje",
+        "Smartfony Samsung",
+        "Smartfony Xiaomi",
+        "iPhone 17",
+        "iPhone 16"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 512,
+      "has_og_tags": true,
+      "meta_description": "x-kom. Technologia po prostu > Posiadamy niezwykle szerok\u0105 ofert\u0119. Oferujemy fachowe doradztwo oraz atrakcyjne ceny.",
+      "scripts_count": 28
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Gor\u0105cy Strza\u0142 - daily deals",
+        "Wide range of electronics and technology products",
+        "Strong focus on gaming and streaming equipment"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon_pl",
+    "url": "https://www.decathlon.pl",
+    "scanned_at": "2026-03-31T22:46:14.371457",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/decathlon_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/decathlon_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Decathlon: sklep sportowy online - sprz\u0119t, odzie\u017c, akcesoria",
+      "url_final": "https://www.decathlon.pl/",
+      "nav_items": [
+        {
+          "text": "Kategorie",
+          "href": "#navbar-0"
+        },
+        {
+          "text": "Zawarto\u015b\u0107 strony g\u0142\u00f3wnej",
+          "href": "#content"
+        },
+        {
+          "text": "Stopka",
+          "href": "#footer-Pomoc-0"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "m\u00f3j sklep",
+          "href": "/store-locator"
+        },
+        {
+          "text": "Moje konto",
+          "href": "/account/dashboard"
+        },
+        {
+          "text": "KoszykWarto\u015b\u0107 koszyka:0,00\u00a0z\u0142",
+          "href": "/checkout/cart"
+        }
+      ],
+      "buttons": [
+        "Dostosuj",
+        "Odrzu\u0107",
+        "Zaakceptuj wszystko",
+        "Wszystkie sporty",
+        "Kobieta",
+        "M\u0119\u017cczyzna",
+        "Dziecko",
+        "Akcesoria",
+        "Zdrowie i od\u017cywianie",
+        "Sportswear",
+        "Styl Casual",
+        "Sporty",
+        "Kobieta",
+        "M\u0119\u017cczyzna",
+        "Dziecko",
+        "Bestsellery",
+        "Ostatnie sztuki",
+        "Sportswear",
+        "Second Life",
+        "Us\u0142ugi"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "Ntt",
+              "placeholder": "Znajd\u017a produkt, sport lub mark\u0119"
+            }
+          ]
+        }
+      ],
+      "links_count": 178,
+      "images_count": 95,
+      "images_with_alt": 85,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Menu"
+        },
+        {
+          "level": 2,
+          "text": "\u3164"
+        },
+        {
+          "level": 2,
+          "text": "\u3164"
+        },
+        {
+          "level": 2,
+          "text": "\u3164"
+        },
+        {
+          "level": 2,
+          "text": "\u3164"
+        },
+        {
+          "level": 3,
+          "text": "Gwarancja Satysfakcji Kipride"
+        },
+        {
+          "level": 3,
+          "text": "-20% z kodem WIOSNA"
+        },
+        {
+          "level": 3,
+          "text": "B\u0105d\u017a gotowy na podb\u00f3j boiska!"
+        },
+        {
+          "level": 3,
+          "text": "Second Life"
+        },
+        {
+          "level": 3,
+          "text": "Trek Days"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "Ntt",
+          "placeholder": "Znajd\u017a produkt, sport lub mark\u0119"
+        }
+      ],
+      "footer_links": [
+        "Znajd\u017a sklepy Decathlon",
+        "Centrum pomocy",
+        "Skontaktuj si\u0119 z nami",
+        "Program lojalno\u015bciowy",
+        "Dostawa",
+        "Zwroty i wymiana",
+        "P\u0142atno\u015bci",
+        "Zadzwo\u0144 i zam\u00f3w",
+        "Reklamacje",
+        "Wycofane produkty",
+        "Regulamin",
+        "Regulaminy promocji",
+        "Informacje prawne",
+        "Program Ochrony Kupuj\u0105cych",
+        "Zg\u0142o\u015b nielegalne tre\u015bci",
+        "Zg\u0142o\u015b luk\u0119 w zabezpieczeniach",
+        "Serwis",
+        "Zakupy na raty",
+        "Leasing",
+        "Karty podarunkowe"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 146,
+      "has_og_tags": false,
+      "meta_description": "\ud83c\udfcb\ufe0f W sklepie sportowym Decathlon znajdziesz sprz\u0119t, odzie\u017c, buty i akcesoria do 60+ dyscyplin! Sprawd\u017a ofert\u0119 i zam\u00f3w wygodnie online!\ud83d\ude9a",
+      "scripts_count": 32
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "Y",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Second Life program",
+        "Gwarancja Satysfakcji Kipride"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "ikea_poland",
+    "url": "https://www.ikea.com/pl/pl/",
+    "scanned_at": "2026-03-31T22:46:38.048292",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/ikea_poland_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/ikea_poland_mobile.png"
+    },
+    "structure": {
+      "title": "Sklepy IKEA - meble i wyposa\u017cenie wn\u0119trz - IKEA",
+      "url_final": "https://www.ikea.com/pl/pl/",
+      "nav_items": [
+        {
+          "text": "Produkty",
+          "href": "https://www.ikea.com/pl/pl/cat/produkty-products/"
+        },
+        {
+          "text": "Pomieszczenia",
+          "href": "https://www.ikea.com/pl/pl/rooms/"
+        },
+        {
+          "text": "Oferty",
+          "href": "https://www.ikea.com/pl/pl/offers/"
+        },
+        {
+          "text": "Inspiracje",
+          "href": "https://www.ikea.com/pl/pl/ideas/"
+        },
+        {
+          "text": "Us\u0142ugi",
+          "href": "https://www.ikea.com/pl/pl/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Wyczy\u015b\u0107 pole wprowadzania danych wyszukiwania",
+        "Wyszukiwarka",
+        "Wstrzymaj film",
+        "Nowa ni\u017csza cena",
+        "Oferty IKEA Family",
+        "Ostatnia szansa",
+        "Nasze najni\u017csze ceny",
+        "Recenzja: 4.8 z 5 gwiazdki. \u0141\u0105czna liczba recenzji",
+        "Recenzja: 4.9 z 5 gwiazdki. \u0141\u0105czna liczba recenzji",
+        "Recenzja: 4.9 z 5 gwiazdki. \u0141\u0105czna liczba recenzji",
+        "Recenzja: 4.3 z 5 gwiazdki. \u0141\u0105czna liczba recenzji"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/pl/pl/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Czego szukasz?"
+            }
+          ]
+        }
+      ],
+      "links_count": 221,
+      "images_count": 127,
+      "images_with_alt": 84,
+      "headings": [
+        {
+          "level": 1,
+          "text": "IKEA. Lepiej pomy\u015blany\u00a0dom"
+        },
+        {
+          "level": 2,
+          "text": "Wiosenne od\u015bwie\u017cenie w ca\u0142ym domu"
+        },
+        {
+          "level": 2,
+          "text": "Aktualnie w IKEA"
+        },
+        {
+          "level": 2,
+          "text": "Sprawd\u017a najlepsze okazje"
+        },
+        {
+          "level": 2,
+          "text": "Inspiracje do ka\u017cdego pomieszczenia"
+        },
+        {
+          "level": 2,
+          "text": "Mog\u0105 Ci\u0119 zainspirowa\u0107"
+        },
+        {
+          "level": 3,
+          "text": "Odkryj najnowsze oferty i promocje"
+        },
+        {
+          "level": 3,
+          "text": "VARIERAPrzegroda na pokrywki, stal nierdz"
+        },
+        {
+          "level": 3,
+          "text": "IKEA 365+Pojemnik na \u017cywno\u015b\u0107 z pokrywk\u0105, prostok\u0105t/plastik, 1.0 l"
+        },
+        {
+          "level": 3,
+          "text": "IVRIGSzklanka, szk\u0142o bezbarwne, 45 cl"
+        },
+        {
+          "level": 3,
+          "text": "M\u00d6RKR\u00c4DDO\u015bwietlenie nocne LED z czujnikiem, bia\u0142y"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Czego szukasz?"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30586783-a501da-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30586783-a501da-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30586783-a501da-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30586783-a501da-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-60616316-cf50c4-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-60616316-cf50c4-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-60616316-cf50c4-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-80605637-cf50c4-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-80605637-cf50c4-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-80605637-cf50c4-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-80605637-cf50c4-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-00602096-cf50c4-P0-4",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-00602096-cf50c4-P0-4",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Dowiedz si\u0119 wi\u0119cej",
+        "Do\u0142\u0105cz i zyskaj wi\u0119cej",
+        "Dowiedz si\u0119 wi\u0119cej",
+        "Do\u0142\u0105cz lub zaloguj si\u0119",
+        "Obs\u0142uga klienta",
+        "Zwroty i reklamacje",
+        "Informacja o dost\u0119pno\u015bci",
+        "Wsparcie produktowe",
+        "Zg\u0142o\u015b problem z bezpiecze\u0144stwem produktu",
+        "Cz\u0119\u015bci monta\u017cowe",
+        "Broszury i poradniki zakupowe",
+        "Skontaktuj si\u0119 z nami",
+        "Zarz\u0105dzaj zam\u00f3wieniem",
+        "Zakupy przez telefon, czat, Messenger",
+        "Sposoby p\u0142atno\u015bci",
+        "Karta upominkowa",
+        "Lista prezent\u00f3w z IKEA",
+        "Sklepy i Studia planowania i zam\u00f3wie\u0144",
+        "Restauracja",
+        "IKEA dla dzieci"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 90,
+      "has_og_tags": true,
+      "meta_description": "Chcesz umeblowa\u0107 kuchni\u0119, pok\u00f3j dzienny i sypialni\u0119? Stw\u00f3rz wymarzony dom razem z IKEA.\nWszystkie nasze produkty zam\u00f3wisz r\u00f3wnie\u017c online. Zobacz ofert\u0119 IKEA!",
+      "scripts_count": 55
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "IKEA Family offers",
+        "Comprehensive customer service options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ceneo",
+    "url": "https://www.ceneo.pl",
+    "scanned_at": "2026-03-31T22:47:01.536261",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/ceneo_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/ceneo_mobile.png"
+    },
+    "structure": {
+      "title": "Ceneo - por\u00f3wnaj ceny i opinie - RTV, AGD, smartfony, laptopy",
+      "url_final": "https://www.ceneo.pl/",
+      "nav_items": [
+        {
+          "text": "Biuro i firma",
+          "href": "/Biuro_i_firma"
+        },
+        {
+          "text": "Kamery przemys\u0142owe",
+          "href": "/Kamery_przemyslowe"
+        },
+        {
+          "text": "Krzes\u0142a konferencyjne",
+          "href": "/Krzesla_konferencyjne"
+        },
+        {
+          "text": "Maski przeciwpy\u0142owe i ochronne",
+          "href": "/Maski_przeciwpylowe_i_ochronne"
+        },
+        {
+          "text": "Niszczarki",
+          "href": "/Niszczarki"
+        },
+        {
+          "text": "Obuwie robocze",
+          "href": "/Obuwie_robocze"
+        },
+        {
+          "text": "Odzie\u017c robocza",
+          "href": "/Odziez_robocza"
+        },
+        {
+          "text": "Sprz\u0119t ga\u015bniczy",
+          "href": "/Sprzet_gasniczy"
+        },
+        {
+          "text": "Symbole narodowe i flagi",
+          "href": "/Symbole_narodowe_i_flagi"
+        },
+        {
+          "text": "Urz\u0105dzenia sprz\u0105taj\u0105ce",
+          "href": "/Urzadzenia_sprzatajace"
+        },
+        {
+          "text": "Wyposa\u017cenie miejsc publicznych",
+          "href": "/Wyposazenie_miejsc_publicznych"
+        },
+        {
+          "text": "Budowa i remont",
+          "href": "/Budowa_i_remont"
+        },
+        {
+          "text": "Baterie \u0142azienkowe",
+          "href": "/Baterie_lazienkowe"
+        },
+        {
+          "text": "Farby",
+          "href": "/Farby"
+        },
+        {
+          "text": "Generatory pr\u0105du",
+          "href": "/Generatory_pradu"
+        },
+        {
+          "text": "Kabiny prysznicowe",
+          "href": "/Kabiny_prysznicowe"
+        },
+        {
+          "text": "Kot\u0142y",
+          "href": "/Kotly"
+        },
+        {
+          "text": "Panele pod\u0142ogowe",
+          "href": "/Panele_podlogowe"
+        },
+        {
+          "text": "Pi\u0142y elektryczne",
+          "href": "/Pily_elektryczne"
+        },
+        {
+          "text": "P\u0142ytki",
+          "href": "/Plytki"
+        }
+      ],
+      "buttons": [
+        "Szukaj",
+        "DLA KIBICA",
+        "WIOSNA",
+        "OGR\u00d3D",
+        "OD ZAJ\u0104CZKA",
+        "DLA KIBICA",
+        "WIOSNA",
+        "OGR\u00d3D",
+        "OD ZAJ\u0104CZKA",
+        "Zapisz",
+        "Ok, zgadzam si\u0119",
+        "Dostosuj zgody",
+        "Nie zgadzam si\u0119",
+        "Potwierd\u017a wyb\u00f3r",
+        "Zaznacz wszystkie",
+        "Powr\u00f3t",
+        "ZapytAI",
+        "Poka\u017c produkty"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "search-query",
+              "placeholder": "Znajd\u017a produkt lub sklep"
+            },
+            {
+              "type": "hidden",
+              "name": "is-voice-search",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "category-id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "is-site-search",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://www.ceneo.pl/ssl-Newsletter/Subscribe",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "newsLetter.Email",
+              "placeholder": "Podaj sw\u00f3j adres email"
+            }
+          ]
+        }
+      ],
+      "links_count": 587,
+      "images_count": 320,
+      "images_with_alt": 292,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Popularne marki"
+        },
+        {
+          "level": 2,
+          "text": "Reklama - oferty sklep\u00f3w?"
+        },
+        {
+          "level": 2,
+          "text": "Sprawd\u017a nasze popularne produkty"
+        },
+        {
+          "level": 2,
+          "text": "2023-11-26T10:00:00"
+        },
+        {
+          "level": 2,
+          "text": "2023-11-26T10:00:00"
+        },
+        {
+          "level": 3,
+          "text": "Pi\u0142ka no\u017cna adidas World Cup 26 Trionda League BOX JD8045 5"
+        },
+        {
+          "level": 3,
+          "text": "EA Sports FC 26 (Gra PS5)"
+        },
+        {
+          "level": 3,
+          "text": "Megazestaw startowy Fifa 365 Adrenalyn XL 2026 Panini"
+        },
+        {
+          "level": 3,
+          "text": "Zenwire Mini R1"
+        },
+        {
+          "level": 3,
+          "text": "adidas Tiro League J350 Ht2427 Bia\u0142y"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "__RequestVerificationToken",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "search-query",
+          "placeholder": "Znajd\u017a produkt lub sklep"
+        },
+        {
+          "type": "hidden",
+          "name": "is-voice-search",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "category-id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "is-site-search",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "newsLetter.Email",
+          "placeholder": "Podaj sw\u00f3j adres email"
+        },
+        {
+          "type": "checkbox",
+          "name": "Advertising",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Analytical",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Functional",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Necessary",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Przechowywanie informacji na urz\u0105dzeniu lub dost\u0119p do nich",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Wykorzystywanie ograniczonych danych do wyboru reklam",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Tworzenie profili w celu spersonalizowanych reklam",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Wykorzystanie profili do wyboru spersonalizowanych reklam",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Tworzenie profili w celu personalizacji tre\u015bci",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Wykorzystywanie profili w celu doboru spersonalizowanych tre\u015bci",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Pomiar efektywno\u015bci reklam",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Pomiar efektywno\u015bci tre\u015bci",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Rozumienie odbiorc\u00f3w dzi\u0119ki statystyce lub kombinacji danych z r\u00f3\u017cnych \u017ar\u00f3de\u0142",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "Rozw\u00f3j i ulepszanie us\u0142ug",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "O nas",
+        "Kontakt",
+        "Prawne",
+        "Mapa strony",
+        "Serwisy partnerskie",
+        "Polityka prywatno\u015bci",
+        "Kariera w Ceneo.pl",
+        "Dla sklep\u00f3w",
+        "Dla producent\u00f3w",
+        "Pressroom",
+        "Reklama - oferty sklep\u00f3w",
+        "Program Partnerski",
+        "Jak to dzia\u0142a",
+        "Bezpieczne zakupy",
+        "Polityka zwrot\u00f3w",
+        "Centrum pomocy",
+        "Zg\u0142o\u015b uwagi",
+        "Sukienki",
+        "Opony",
+        "Laptopy"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 7,
+      "has_og_tags": true,
+      "meta_description": "Por\u00f3wnywarka cen Ceneo.pl - znajd\u017a produkt oraz sprawd\u017a i por\u00f3wnaj jego cen\u0119 w sklepach internetowych. Perfumy, AGD, RTV, komputery, laptopy, fotografia",
+      "scripts_count": 101
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "comprehensive price comparison",
+        "extensive product reviews"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "leroy_merlin_pl",
+    "url": "https://www.leroymerlin.pl",
+    "scanned_at": "2026-03-31T22:47:27.241393",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/leroy_merlin_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/leroy_merlin_pl_mobile.png"
+    },
+    "structure": {
+      "title": "leroymerlin.pl",
+      "url_final": "https://www.leroymerlin.pl/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive DIY project guides",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "pepco",
+    "url": "https://www.pepco.pl",
+    "scanned_at": "2026-03-31T22:47:49.505403",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/pepco_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/pepco_mobile.png"
+    },
+    "structure": {
+      "title": "Pepco - poczuj jako\u015b\u0107, pokochaj cen\u0119",
+      "url_final": "https://www.pepco.pl/",
+      "nav_items": [
+        {
+          "text": "Znajd\u017a sklep Pepco",
+          "href": "/store-locator"
+        },
+        {
+          "text": "Centrum pomocy",
+          "href": "/centrum-pomocy"
+        },
+        {
+          "text": "Pepco Club",
+          "href": "/pepco-club"
+        }
+      ],
+      "buttons": [
+        "Polski",
+        "Dziecko",
+        "Kobieta",
+        "Dom",
+        "Niemowl\u0119",
+        "M\u0119\u017cczyzna",
+        "Pozosta\u0142e",
+        "Sprawd\u017a szczeg\u00f3\u0142y",
+        "Zobacz Hity",
+        "Dowiedz si\u0119 wi\u0119cej",
+        "Odkryj wszystkie korzy\u015bci",
+        "Poprzednie",
+        "Nast\u0119pne",
+        "Zobacz wi\u0119cej",
+        "Poprzednie",
+        "Nast\u0119pne",
+        "Zobacz wi\u0119cej",
+        "Poprzednie",
+        "Nast\u0119pne"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "checkbox",
+              "name": "subscriberEmail",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Wprowad\u017a sw\u00f3j adres e-mail"
+            }
+          ]
+        }
+      ],
+      "links_count": 130,
+      "images_count": 40,
+      "images_with_alt": 40,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pepco - poczuj | jako\u015b\u0107, pokochaj cen\u0119"
+        },
+        {
+          "level": 2,
+          "text": "Promocja 1+1 na produkty wielkanocne"
+        },
+        {
+          "level": 2,
+          "text": "Poznaj ofert\u0119 gazetkow\u0105"
+        },
+        {
+          "level": 2,
+          "text": "Wyj\u0105tkowe kupony tylko w aplikacji"
+        },
+        {
+          "level": 2,
+          "text": "Do\u0142\u0105cz do Pepco Club!"
+        },
+        {
+          "level": 2,
+          "text": "Odkryj naszeHity tygodnia"
+        },
+        {
+          "level": 3,
+          "text": "Rakieta zabawkowa z wyrzutni\u0105"
+        },
+        {
+          "level": 3,
+          "text": "Pi\u0142ka gumowa"
+        },
+        {
+          "level": 3,
+          "text": "Pi\u0142ka gumowa z bohaterami bajek"
+        },
+        {
+          "level": 3,
+          "text": "Zestaw do piasku"
+        },
+        {
+          "level": 3,
+          "text": "Wywrotka do piasku z akcesoriami"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Wyszukaj produkt..."
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Szukaj produkt\u00f3w"
+        },
+        {
+          "type": "checkbox",
+          "name": "subscriberEmail",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Wprowad\u017a sw\u00f3j adres e-mail"
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Szuka\u0107..."
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Polityka prywatno\u015bci"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 287,
+      "has_og_tags": false,
+      "meta_description": "Oficjalna strona sieci sklep\u00f3w Pepco Polska. Informacje o produktach, kolekcjach, promocjach, przecenach! Obejrzyj gazetk\u0119 promocyjn\u0105 i znajd\u017a najbli\u017cszy sklep!",
+      "scripts_count": 12
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Pepco Club membership with exclusive coupons",
+        "Weekly promotional offers"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "reserved",
+    "url": "https://www.reserved.com",
+    "scanned_at": "2026-03-31T22:48:16.182859",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/reserved_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/reserved_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.reserved.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive size variant selector",
+        "personalized recommendations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ccc",
+    "url": "https://ccc.eu/pl",
+    "scanned_at": "2026-03-31T22:48:35.746752",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/ccc_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/ccc_mobile.png"
+    },
+    "structure": {
+      "title": "Sklep internetowy z butami, odzie\u017c\u0105 i akcesoriami - CCC.eu",
+      "url_final": "https://ccc.eu/pl/",
+      "nav_items": [],
+      "buttons": [
+        "Zamknij",
+        "Zamknij",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych",
+        "Dodaj do ulubionych"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "search",
+              "placeholder": "Wpisz, czego szukasz, np. \"buty na jesie\u0144\" lub \"ob"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "search",
+              "placeholder": "Wpisz, czego szukasz, np. \"buty na jesie\u0144\" lub \"ob"
+            }
+          ]
+        }
+      ],
+      "links_count": 881,
+      "images_count": 148,
+      "images_with_alt": 141,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sklep z butami online - zobacz kolekcj\u0119 CCC"
+        },
+        {
+          "level": 2,
+          "text": "Wpisz, czego szukasz"
+        },
+        {
+          "level": 2,
+          "text": "Popularne"
+        },
+        {
+          "level": 2,
+          "text": "Ostatnio wyszukiwaneWyczy\u015b\u0107"
+        },
+        {
+          "level": 2,
+          "text": "Dostosowujemy si\u0119 do Twoich potrzeb."
+        },
+        {
+          "level": 2,
+          "text": "Centrum preferencji prywatno\u015bci"
+        },
+        {
+          "level": 3,
+          "text": "Zarz\u0105dzaj preferencjami zgody"
+        },
+        {
+          "level": 3,
+          "text": "Lista plik\u00f3w Cookie"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "search",
+          "placeholder": "Wpisz, czego szukasz, np. \"buty na jesie\u0144\" lub \"ob"
+        },
+        {
+          "type": "radio",
+          "name": "menuMobileRadio",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "menuMobileRadio",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "menuMobileRadio",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 33,
+      "has_og_tags": true,
+      "meta_description": "Na stronie CCC znajdziesz du\u017cy wyb\u00f3r but\u00f3w damskich, m\u0119skich i dzieci\u0119cych na ka\u017cd\u0105 okazj\u0119! W CCC r\u00f3wnie\u017c dobierzesz modne i stylowe akcesoria - torebki damskie, m\u0119skie plecaki oraz odzie\u017c sportow\u0105.",
+      "scripts_count": 87
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "U",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive wishlist functionality",
+        "personalized recommendations"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "eobuwie",
+    "url": "https://www.eobuwie.com.pl",
+    "scanned_at": "2026-03-31T22:48:57.755450",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/eobuwie_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/eobuwie_mobile.png"
+    },
+    "structure": {
+      "title": "eobuwie.pl \u2022 Modne buty, akcesoria i torebki online",
+      "url_final": "https://eobuwie.com.pl/",
+      "nav_items": [
+        {
+          "text": "Nowo\u015bci",
+          "href": "/c/eobuwie/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar&itm_campaign=nowosc"
+        },
+        {
+          "text": "Sneakersy",
+          "href": "/c/damskie/sneakersy/oferta:nowosc"
+        },
+        {
+          "text": "Baleriny",
+          "href": "/c/damskie/baleriny/oferta:nowosc"
+        },
+        {
+          "text": "Buty sportowe",
+          "href": "/c/damskie/buty-sportowe/oferta:nowosc"
+        },
+        {
+          "text": "Cz\u00f3\u0142enka",
+          "href": "/c/damskie/czolenka/oferta:nowosc"
+        },
+        {
+          "text": "Klapki i japonki",
+          "href": "/c/damskie/klapki-i-japonki/oferta:nowosc"
+        },
+        {
+          "text": "Lordsy",
+          "href": "/c/damskie/lordsy/oferta:nowosc"
+        },
+        {
+          "text": "P\u00f3\u0142buty",
+          "href": "/c/damskie/polbuty/oferta:nowosc"
+        },
+        {
+          "text": "Sanda\u0142y",
+          "href": "/c/damskie/sandaly/oferta:nowosc"
+        },
+        {
+          "text": "Szpilki",
+          "href": "/c/damskie/szpilki/oferta:nowosc"
+        },
+        {
+          "text": "Poka\u017c wszystkie",
+          "href": "/c/damskie/oferta:nowosc"
+        },
+        {
+          "text": "Sneakersy",
+          "href": "/c/meskie/sneakersy/oferta:nowosc"
+        },
+        {
+          "text": "Buty sportowe",
+          "href": "/c/meskie/buty-sportowe/oferta:nowosc"
+        },
+        {
+          "text": "Klapki i japonki",
+          "href": "/c/meskie/klapki-i-japonki/oferta:nowosc"
+        },
+        {
+          "text": "P\u00f3\u0142buty codzienne",
+          "href": "/c/meskie/polbuty/polbuty-codzienne/oferta:nowosc"
+        },
+        {
+          "text": "Mokasyny",
+          "href": "/c/meskie/mokasyny/oferta:nowosc"
+        },
+        {
+          "text": "P\u00f3\u0142buty",
+          "href": "/c/meskie/polbuty/oferta:nowosc"
+        },
+        {
+          "text": "P\u00f3\u0142buty wizytowe",
+          "href": "/c/meskie/polbuty/polbuty-wizytowe/oferta:nowosc"
+        },
+        {
+          "text": "Trampki",
+          "href": "/c/meskie/trampki/oferta:nowosc"
+        },
+        {
+          "text": "Sanda\u0142y",
+          "href": "/c/meskie/sandaly/oferta:nowosc"
+        }
+      ],
+      "buttons": [
+        "Przejd\u017a do wyszukiwania",
+        "Szukaj",
+        "Zapisz si\u0119\u00a0do Newslettera",
+        "Damskie",
+        "M\u0119skie",
+        "Dzieci\u0119ce",
+        "Korzystaj z MODIVOclub",
+        "Zmie\u0144 kraj: Polska (PL)",
+        "Przejd\u017a do g\u0142\u00f3wnej zawarto\u015bci",
+        "Sprawd\u017a",
+        "SNEAKERSY",
+        "BUTY SPORTOWE",
+        "TOREBKI",
+        "TRAMPKI"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input-field-search-name",
+              "placeholder": "Szukaj marki, produktu, stylu"
+            }
+          ]
+        }
+      ],
+      "links_count": 581,
+      "images_count": 81,
+      "images_with_alt": 13,
+      "headings": [
+        {
+          "level": 2,
+          "text": "eobuwie.pl #1 ecommerce platform"
+        },
+        {
+          "level": 2,
+          "text": "Jeszcze bli\u017cej topowych marek z eobuwie.pl"
+        },
+        {
+          "level": 3,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "input-field-search-name",
+          "placeholder": "Szukaj marki, produktu, stylu"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 11,
+      "has_og_tags": true,
+      "meta_description": "Wybierz modne buty, torebki lub akcesoria spo\u015br\u00f3d 140 000 markowych modeli w atrakcyjnych cenach. Skorzystaj z szybkiej dostawy na eobuwie.pl.",
+      "scripts_count": 32
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Integration with MODIVOclub for exclusive benefits",
+        "Extensive range of top fashion brands"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "rossmann_pl",
+    "url": "https://www.rossmann.pl",
+    "scanned_at": "2026-03-31T22:49:19.481812",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/rossmann_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/rossmann_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Attention Required! | Cloudflare",
+      "url_final": "https://www.rossmann.pl/",
+      "nav_items": [],
+      "buttons": [
+        "Click to reveal"
+      ],
+      "forms": [],
+      "links_count": 1,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry, you have been blocked"
+        },
+        {
+          "level": 2,
+          "text": "You are unable to accessrossmann.pl"
+        },
+        {
+          "level": 2,
+          "text": "Why have I been blocked?"
+        },
+        {
+          "level": 2,
+          "text": "What can I do to resolve this?"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "loyalty program",
+        "in-store pickup"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_pl",
+    "url": "https://www.zara.com/pl/",
+    "scanned_at": "2026-03-31T22:49:41.498367",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/zara_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/zara_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/pl/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast fashion focus",
+        "frequent inventory updates"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "handm_pl",
+    "url": "https://www2.hm.com/pl_pl/",
+    "scanned_at": "2026-03-31T22:50:01.501628",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/handm_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/handm_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/pl_pl/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "sustainability-focused collections",
+        "conscious choice labeling"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "notino_pl",
+    "url": "https://www.notino.pl",
+    "scanned_at": "2026-03-31T22:50:22.199311",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/notino_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/notino_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Perfumy i kosmetyki online | Notino",
+      "url_final": "https://www.notino.pl/",
+      "nav_items": [
+        {
+          "text": "Zaloguj si\u0119",
+          "href": "/mynotino/"
+        },
+        {
+          "text": "Promocje",
+          "href": "/znizki/"
+        },
+        {
+          "text": "Perfumy",
+          "href": "/perfumy/"
+        },
+        {
+          "text": "Makija\u017c",
+          "href": "/kosmetyka/kosmetyki-podkreslajace/"
+        },
+        {
+          "text": "W\u0142osy",
+          "href": "/kosmetyka/kosmetyki-do-wlosow/"
+        },
+        {
+          "text": "Twarz",
+          "href": "/kosmetyka/kosmetyki-do-twarzy/"
+        },
+        {
+          "text": "Cia\u0142o",
+          "href": "/kosmetyka/kosmetyki-do-ciala/"
+        },
+        {
+          "text": "Z\u0119by",
+          "href": "/pielegnacja-zebow/"
+        },
+        {
+          "text": "Matka i dziecko",
+          "href": "/matka-i-dziecko/"
+        },
+        {
+          "text": "M\u0119\u017cczy\u017ani",
+          "href": "/kosmetyki-dla-mezczyzn/"
+        },
+        {
+          "text": "Dermokosmetyki",
+          "href": "/dermokosmetyki/"
+        },
+        {
+          "text": "Zdrowie",
+          "href": "/zdrowie/"
+        },
+        {
+          "text": "Opalanie",
+          "href": "/kosmetyka/kosmetyki-do-opalania/"
+        },
+        {
+          "text": "Elektro",
+          "href": "/elektronika/"
+        },
+        {
+          "text": "Luxury",
+          "href": "/luksusowe-kosmetyki-i-perfumy/"
+        },
+        {
+          "text": "Marki",
+          "href": "/marki-kosmetykow/"
+        },
+        {
+          "text": "Inspiracja",
+          "href": ""
+        },
+        {
+          "text": "Inspiracja",
+          "href": "/inspiracja/"
+        },
+        {
+          "text": "Zapachy do domu",
+          "href": "/zapachy-do-domu/"
+        },
+        {
+          "text": "Oddzia\u0142y",
+          "href": "/punkty-odbioru-osobistego/"
+        }
+      ],
+      "buttons": [
+        "Kobieta",
+        "M\u0119\u017cczyzna",
+        "Prze\u0142\u0105cz na pe\u0142n\u0105 wersj\u0119"
+      ],
+      "forms": [
+        {
+          "action": "https://www.notino.pl/emailnews.asp?x-turnstile-token=",
+          "method": "post",
+          "fields": [
+            {
+              "type": "email",
+              "name": "EmailNews",
+              "placeholder": "Wpisz sw\u00f3j adres e-mail"
+            }
+          ]
+        }
+      ],
+      "links_count": 967,
+      "images_count": 115,
+      "images_with_alt": 107,
+      "headings": [
+        {
+          "level": 2,
+          "text": "W tym tygodniu w promocji"
+        },
+        {
+          "level": 2,
+          "text": "CAROLINA HERRERA"
+        },
+        {
+          "level": 2,
+          "text": "La Roche-Posay"
+        },
+        {
+          "level": 2,
+          "text": "CAROLINA HERRERA"
+        },
+        {
+          "level": 2,
+          "text": "Lattafa"
+        },
+        {
+          "level": 3,
+          "text": "La Bomba"
+        },
+        {
+          "level": 3,
+          "text": "Cicaplast Baume B5+"
+        },
+        {
+          "level": 3,
+          "text": "Good Girl"
+        },
+        {
+          "level": 3,
+          "text": "Khamrah"
+        },
+        {
+          "level": 3,
+          "text": "Brazilian Crush Cheirosa '62"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "nazwa produktu, marka"
+        },
+        {
+          "type": "email",
+          "name": "EmailNews",
+          "placeholder": "Wpisz sw\u00f3j adres e-mail"
+        }
+      ],
+      "footer_links": [
+        "22 208 19 42",
+        "info@notino.pl",
+        "Dane kontaktowe",
+        "zasadach przetwarzania danych osobowych",
+        "Black Friday",
+        "Dlaczego Notino",
+        "O nas",
+        "Notino kupon rabatowy  \u2013 kod rabatowy",
+        "Wy\u0142\u0105cznie oryginalne produkty",
+        "Ochrona danych osobowych",
+        "Odbi\u00f3r osobisty",
+        "Opinie klient\u00f3w o Notino",
+        "Centrum preferencji prywatno\u015bci",
+        "Strona g\u0142\u00f3wna",
+        "Odst\u0105pienia od umowy",
+        "Affiliate Program",
+        "FAQ",
+        "Reklamacje",
+        "Jak kupowa\u0107?",
+        "Recenzje produktow"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 7,
+      "has_og_tags": true,
+      "meta_description": "Perfumeria internetowa Notino \u2013 E-shop polecany przez klient\u00f3w \u2713 W ofercie perfumy, kosmetyki i drogeria \u2713 Ekspresowe dor\u0119czenie \u2713 Odbiory osobiste \u2713",
+      "scripts_count": 72
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive range of luxury and dermocosmetic products",
+        "Dedicated sections for men and mother & child",
+        "Strong focus on promotions and discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_pl",
+    "url": "https://www.temu.com/pl",
+    "scanned_at": "2026-03-31T22:50:43.149549",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/temu_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/temu_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Weryfikacja bezpiecze\u0144stwa",
+      "url_final": "https://www.temu.com/pl/bgn_verification.html?verifyCode=8nCSQiAFWk5urCeOlJCjrw7a7e63ff5b36717ca&from=https%3A%2F%2Fwww.temu.com%2Fpl&refer_page_name=home&refer_page_id=10005_1774986644590_lot2sbeuu2&refer_page_sn=10005&_x_sessn_id=3aqyhpwnfy",
+      "nav_items": [],
+      "buttons": [
+        "Zaakceptuj wszystkie",
+        "Odrzu\u0107 wszystkie"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 5,
+      "images_with_alt": 5,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 3,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 35
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive personalization",
+        "integrated social shopping"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "shein_pl",
+    "url": "https://pl.shein.com",
+    "scanned_at": "2026-03-31T22:51:04.340055",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/shein_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/shein_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Kupuj\u00a0popularn\u0105\u00a0mod\u0119\u00a0damsk\u0105\u00a0|\u00a0Odzie\u017c\u00a0damska\u00a0|\u00a0SHEIN\u00a0Polska",
+      "url_final": "https://pl.shein.com/",
+      "nav_items": [
+        {
+          "text": "Nowo\u015bci",
+          "href": "https://pl.shein.com/new/New-In-All-sc-0021884529.html?ici=pl_tab01navbar01&src_module=topcat&src_id"
+        },
+        {
+          "text": "Dostawa w 3 dni",
+          "href": "https://pl.shein.com/recommend/tur-1p-sc-1001867808.html?ici=pl_tab02navbar02&src_module=topcat&src_"
+        },
+        {
+          "text": "Oszcz\u0119dno\u015bci",
+          "href": "https://pl.shein.com/sale/All-Sale-sc-0051884505.html?ici=pl_tab03navbar03&src_module=topcat&src_ide"
+        },
+        {
+          "text": "Odzie\u017c damska",
+          "href": "https://pl.shein.com/RecommendSelection/Women-Clothing-sc-017172961.html?ici=pl_tab04navbar04&src_mo"
+        },
+        {
+          "text": "Stroje pla\u017cowe",
+          "href": "https://pl.shein.com/RecommendSelection/Beachwear-sc-017706887.html?ici=pl_tab05navbar05&src_module="
+        },
+        {
+          "text": "Dom i mieszkanie",
+          "href": "https://pl.shein.com/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=pl_tab06navbar06&src_modu"
+        },
+        {
+          "text": "Bi\u017cuteria i akcesoria",
+          "href": "https://pl.shein.com/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=pl_tab07navbar07&s"
+        },
+        {
+          "text": "Odzie\u017c m\u0119ska",
+          "href": "https://pl.shein.com/RecommendSelection/Men-Clothing-sc-017172963.html?ici=pl_tab08navbar08&src_modu"
+        },
+        {
+          "text": "Bielizna i pi\u017camy",
+          "href": "https://pl.shein.com/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=pl_tab09navbar09&s"
+        },
+        {
+          "text": "Du\u017cy rozmiar",
+          "href": "https://pl.shein.com/RecommendSelection/Curve-sc-017172964.html?ici=pl_tab10navbar10&src_module=topc"
+        },
+        {
+          "text": "Uroda i zdrowie",
+          "href": "https://pl.shein.com/RecommendSelection/Beauty-Health-sc-017172970.html?ici=pl_tab11navbar11&src_mod"
+        },
+        {
+          "text": "Dzieci",
+          "href": "https://pl.shein.com/RecommendSelection/Kids-sc-017185550.html?ici=pl_tab12navbar12&src_module=topca"
+        },
+        {
+          "text": "Buty",
+          "href": "https://pl.shein.com/RecommendSelection/Shoes-sc-017172966.html?ici=pl_tab13navbar13&src_module=topc"
+        },
+        {
+          "text": "Domowe tekstylia",
+          "href": "https://pl.shein.com/RecommendSelection/Home-Textile-sc-017172972.html?ici=pl_tab14navbar14&src_modu"
+        },
+        {
+          "text": "Telefony kom\u00f3rkowe i akcesoria",
+          "href": "https://pl.shein.com/RecommendSelection/Cell-Phones-Accessories-sc-017706910.html?ici=pl_tab15navbar"
+        },
+        {
+          "text": "Elektronika",
+          "href": "https://pl.shein.com/RecommendSelection/Electronics-sc-017706908.html?ici=pl_tab16navbar16&src_modul"
+        },
+        {
+          "text": "Sport i rekreacja",
+          "href": "https://pl.shein.com/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=pl_tab17navbar17&src_m"
+        },
+        {
+          "text": "Narz\u0119dzia",
+          "href": "https://pl.shein.com/RecommendSelection/Tools-Home-Improvement-sc-017185547.html?ici=pl_tab18navbar1"
+        },
+        {
+          "text": "Torby & walizki",
+          "href": "https://pl.shein.com/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=pl_tab19navbar19&src_modu"
+        },
+        {
+          "text": "Dla zwierz\u0105t",
+          "href": "https://pl.shein.com/RecommendSelection/Pet-Supplies-sc-017172974.html?ici=pl_tab20navbar20&src_modu"
+        }
+      ],
+      "buttons": [
+        "sukienka",
+        "sukienki",
+        "sukienka \u015blubna",
+        "sukienka na wesele",
+        "kurtka sk\u00f3rzana damska",
+        "okulary",
+        "kolczyki",
+        "torebka",
+        "okulary przeciws\u0142oneczne",
+        "spodnie",
+        "Kategorie",
+        "NIE",
+        "Tak",
+        "Zbierz wszystkie"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "sukienka"
+            }
+          ]
+        }
+      ],
+      "links_count": 94,
+      "images_count": 83,
+      "images_with_alt": 58,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Specjalne oferty tylko dla Ciebie"
+        },
+        {
+          "level": 3,
+          "text": "szukaj i znajduj"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "sukienka"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 109,
+      "has_og_tags": true,
+      "meta_description": "Darmowa\u00a0wysy\u0142ka\u00a0dla\u00a0kwalifikuj\u0105cych\u00a0si\u0119\u00a0zakup\u00f3w\u00a0\u2713.\u00a0Codziennie\u00a0ponad\u00a0500\u00a0nowych\u00a0przedmiot\u00f3w\u00a0\u2713\u00a0Odkryj\u00a0w\u00a0SHEIN\u00a0przyst\u0119pn\u0105\u00a0i\u00a0modn\u0105\u00a0odzie\u017c\u00a0damsk\u0105\u00a0online.",
+      "scripts_count": 80
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast delivery options",
+        "extensive category range",
+        "personalized offers"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_pl",
+    "url": "https://www.nike.com/pl/",
+    "scanned_at": "2026-03-31T22:51:25.101786",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/nike_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/nike_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Nike. Just Do It. Nike PL",
+      "url_final": "https://www.nike.com/pl/",
+      "nav_items": [
+        {
+          "text": "Pomi\u0144 i przejd\u017a do g\u0142\u00f3wnego materia\u0142u.",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/pl/jordan"
+        },
+        {
+          "text": "Znajd\u017a sklep",
+          "href": "https://www.nike.com/pl/retail"
+        },
+        {
+          "text": "Pomoc",
+          "href": "https://www.nike.com/pl/help"
+        },
+        {
+          "text": "Pomoc",
+          "href": "https://www.nike.com/pl/help"
+        },
+        {
+          "text": "Status zam\u00f3wienia",
+          "href": "https://www.nike.com/pl/orders/details"
+        },
+        {
+          "text": "Wysy\u0142ka i dostawa",
+          "href": "https://www.nike.com/pl/help/a/wysylka-dostawa-ue"
+        },
+        {
+          "text": "Zwroty",
+          "href": "https://www.nike.com/pl/help/a/regulamin-zwrotow-ue"
+        },
+        {
+          "text": "Tabele rozmiar\u00f3w",
+          "href": "https://www.nike.com/pl/help/a/tabele-rozmiarow-ue"
+        },
+        {
+          "text": "Skontaktuj si\u0119 z nami",
+          "href": "https://www.nike.com/pl/help/#contact"
+        },
+        {
+          "text": "Polityka prywatno\u015bci",
+          "href": "https://agreementservice.svs.nike.com/pl/pl_pl/rest/agreement?agreementType=privacyPolicy&uxId=com.n"
+        },
+        {
+          "text": "Regulamin sprzeda\u017cy",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=termsOfSale&uxId=com.nike.tos&cou"
+        },
+        {
+          "text": "Warunki u\u017cytkowania platformy Nike",
+          "href": "https://agreementservice.svs.nike.com/pl/pl_pl/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Prze\u015blij opini\u0119",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Do\u0142\u0105cz do nas",
+          "href": "https://www.nike.com/pl/czlonkostwo"
+        },
+        {
+          "text": "Zaloguj si\u0119",
+          "href": "https://www.nike.com/pl/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/pl/"
+        },
+        {
+          "text": "Nowo\u015bci",
+          "href": "https://www.nike.com/pl/w/nowosci-3n82y"
+        },
+        {
+          "text": "Nowo\u015bci",
+          "href": "https://www.nike.com/pl/w/nowosci-3n82y"
+        },
+        {
+          "text": "Przegl\u0105daj wszystkie nowo\u015bci",
+          "href": "https://www.nike.com/pl/w/nowosci-3n82y"
+        }
+      ],
+      "buttons": [
+        "Polska",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Marki",
+        "Marki",
+        "Cancel",
+        "Anuluj",
+        "Polska",
+        "shox z",
+        "shox",
+        "buty",
+        "air force 1",
+        "air max",
+        "jordan 4",
+        "jordan",
+        "cortez",
+        "Przegl\u0105daj produkty reprezentacji Polski",
+        "Przegl\u0105daj produkty wszystkich dru\u017cyn",
+        "Przegl\u0105daj produkty reprezentacji Polski",
+        "Przegl\u0105daj produkty wszystkich dru\u017cyn",
+        "Przegl\u0105daj",
+        "Przegl\u0105daj"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Wyszukaj"
+            }
+          ]
+        }
+      ],
+      "links_count": 430,
+      "images_count": 22,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 1,
+          "text": "GDY PRESJAZMIENIA SI\u0118 W\u00a0KONTROL\u0118"
+        },
+        {
+          "level": 2,
+          "text": "Przegl\u0105daj nasze kultowe modele"
+        },
+        {
+          "level": 2,
+          "text": "Rabaty dla spo\u0142eczno\u015bci"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 2,
+          "text": "Americas"
+        },
+        {
+          "level": 2,
+          "text": "Asia Pacific"
+        },
+        {
+          "level": 3,
+          "text": "GDY PRESJAZMIENIA SI\u0118 W\u00a0KONTROL\u0118"
+        },
+        {
+          "level": 3,
+          "text": "Nikt na boisku nie mo\u017ce czu\u0107 si\u0119 bezpiecznie"
+        },
+        {
+          "level": 3,
+          "text": "Dziedzictwo i\u00a0charakter"
+        },
+        {
+          "level": 3,
+          "text": "Above the Influence"
+        },
+        {
+          "level": 3,
+          "text": "Kolekcja na si\u0142owni\u0119\u00a0\u2013 wiosna\u00a02026"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Wyszukaj"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Karty upominkowe",
+        "Firmowe karty upominkowe",
+        "Znajd\u017a sklep",
+        "Nike Journal",
+        "Do\u0142\u0105cz do spo\u0142eczno\u015bci cz\u0142onkowskiej",
+        "Prze\u015blij opini\u0119",
+        "Kody promocyjne",
+        "Running Shoe Finder",
+        "Uzyskaj pomoc",
+        "Status zam\u00f3wienia",
+        "Wysy\u0142ka i dostawa",
+        "Zwroty",
+        "Opcje p\u0142atno\u015bci",
+        "Skontaktuj si\u0119 z\u00a0nami",
+        "Opinie",
+        "Informacje o\u00a0Nike",
+        "Aktualno\u015bci",
+        "Praca",
+        "Podmioty inwestuj\u0105ce",
+        "Ochrona \u015brodowiska"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 106,
+      "has_og_tags": true,
+      "meta_description": "Innowacyjne produkty i wyj\u0105tkowe us\u0142ugi Nike inspiruj\u0105 sportowc\u00f3w i sportowczynie.",
+      "scripts_count": 97
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive help center",
+        "global presence with location-based suggestions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_pl",
+    "url": "https://www.samsung.com/pl/",
+    "scanned_at": "2026-03-31T22:51:45.700204",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/samsung_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/samsung_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung Polska | Sklep online | Smartfony, TV, sprz\u0119t AGD",
+      "url_final": "https://www.samsung.com/pl/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/pl/"
+        },
+        {
+          "text": "KoszykLiczba produkt\u00f3w :0",
+          "href": "https://shop.samsung.com/pl/cart/"
+        },
+        {
+          "text": "Zaloguj si\u0119",
+          "href": ""
+        },
+        {
+          "text": "Otw\u00f3rz Moje menu",
+          "href": ""
+        },
+        {
+          "text": "SklepPoznaj Sklep",
+          "href": "/pl/offer/"
+        },
+        {
+          "text": "Sklep",
+          "href": "/pl/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNOWO\u015a\u0106",
+          "href": "/pl/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/pl/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Z Flip7",
+          "href": "/pl/smartphones/galaxy-z-flip7/buy/"
+        },
+        {
+          "text": "Seria Galaxy Tab S11",
+          "href": "/pl/tablets/galaxy-tab-s11/buy/"
+        },
+        {
+          "text": "Galaxy Watch Ultra",
+          "href": "/pl/watches/galaxy-watch-ultra-2025/buy/"
+        },
+        {
+          "text": "Galaxy Buds4 ProNOWO\u015a\u0106",
+          "href": "/pl/audio-sound/galaxy-buds4-pro/buy/"
+        },
+        {
+          "text": "Neo QLED 8K TV",
+          "href": "/pl/tvs/neo-qled/qn990f-75-inch-neo-qled-8k-mini-led-smart-tv-qe75qn990ftxxh/"
+        },
+        {
+          "text": "The Frame Pro",
+          "href": "/pl/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxh/"
+        },
+        {
+          "text": "Soundbar Q-seria",
+          "href": "/pl/audio-devices/soundbar/q990f-black-hw-q990f-en/"
+        },
+        {
+          "text": "Odyssey OLED G8",
+          "href": "/pl/monitors/flat/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg810suxen/"
+        },
+        {
+          "text": "Grand + AI SpaceMax\u2122",
+          "href": "/pl/refrigerators/bottom-mount-freezer/rb7300t-wifi-390l-black-rb38c776cb1-ef/"
+        },
+        {
+          "text": "BESPOKE AI\u2122 AI Home EcoBubble\u2122",
+          "href": "/pl/washers-and-dryers/washing-machines/wf90f24-front-load-washer-a-55-percent-energy-efficiency-ai-"
+        },
+        {
+          "text": "Bespoke AI Jet Ultra",
+          "href": "/pl/vacuum-cleaners/stick/vc9700cl-stick-vc-with-most-powerful-jet-aiultra-400w-mint-vs90f40dem-ge/"
+        },
+        {
+          "text": "Piekarnik Dual Cook",
+          "href": "/pl/cooking-appliances/ovens/nv7000b-4-series-dual-cook-dual-cook-bespoke-design-naturral-steam-air-"
+        }
+      ],
+      "buttons": [
+        "Polska",
+        "Polska / Polski",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Dodaj do koszyka",
+        "OK",
+        "SzukajSzukaj",
+        "Navigation",
+        "Wstecz",
+        "Szukaj",
+        "Sklep",
+        "Urz\u0105dzenia mobilne",
+        "TV & AV",
+        "AGD",
+        "Monitory i pami\u0119ci",
+        "Wearables",
+        "Akcesoria",
+        "Wsparcie",
+        "Rozwi\u0105zania i Porady",
+        "Kontakt",
+        "Gwarancja i Serwis",
+        "Dodatkowe Informacje",
+        "SzukajSzukaj",
+        "Zaloguj si\u0119/Zarejestruj",
+        "Otw\u00f3rz Moje menu",
+        "Close menu",
+        "OK",
+        "Zamknij okno",
+        "OK",
+        "Zamknij okno"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLPL/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLPL/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 344,
+      "images_count": 189,
+      "images_with_alt": 161,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Polecane dla Ciebie"
+        },
+        {
+          "level": 2,
+          "text": "Odkryj \u015bwiat urz\u0105dze\u0144 Samsung"
+        },
+        {
+          "level": 2,
+          "text": "Sprawd\u017a swoj\u0105 rat\u0119"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "otwarty",
+        "Oferta Sklepu",
+        "Prosto od Samsung. Dla Ciebie.",
+        "SmartThings",
+        "Odkryj AI",
+        "Samsung Care+",
+        "Regulamin Sklepu Samsung",
+        "Polityka Prywatno\u015bci Sklepu Samsung",
+        "Regulaminy Promocji",
+        "Cennik us\u0142ug dodatkowych",
+        "Zakupy na raty",
+        "Aplikacja Samsung Shop",
+        "Oferta dla Edukacji",
+        "Samsung Brand Store",
+        "Data Act",
+        "Explore",
+        "otwarty",
+        "Smartfony Galaxy",
+        "Tablety Galaxy",
+        "Galaxy Watch"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 198,
+      "has_og_tags": true,
+      "meta_description": "Odwied\u017a sklep Samsung Polska i poznaj szeroki wyb\u00f3r innowacyjnych urz\u0105dze\u0144 elektronicznych: telewizor\u00f3w, smartfon\u00f3w, tablet\u00f3w, a tak\u017ce sprz\u0119tu AGD.",
+      "scripts_count": 46
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Galaxy S26 Ultra and Galaxy Buds4 Pro marked as 'NOWO\u015a\u0106' (new)"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "apple_pl",
+    "url": "https://www.apple.com/pl/shop",
+    "scanned_at": "2026-03-31T22:52:06.244693",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/apple_pl_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/apple_pl_mobile.png"
+    },
+    "structure": {
+      "title": "Internetowy sklep Apple Store - Apple (PL)",
+      "url_final": "https://www.apple.com/pl/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/pl/"
+        },
+        {
+          "text": "Sklep",
+          "href": "/pl/store"
+        },
+        {
+          "text": "Kup najnowsze",
+          "href": "https://www.apple.com/pl/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/pl/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/pl/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/pl/shop/buy-iphone"
+        },
+        {
+          "text": "Apple\u00a0Watch",
+          "href": "https://www.apple.com/pl/shop/buy-watch"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/pl/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Akcesoria",
+          "href": "https://www.apple.com/pl/shop/accessories/all"
+        },
+        {
+          "text": "Stan zam\u00f3wienia",
+          "href": "https://secure.store.apple.com/pl/shop/order/list"
+        },
+        {
+          "text": "Odnowione i\u00a0certyfikowane",
+          "href": "https://www.apple.com/pl/shop/refurbished"
+        },
+        {
+          "text": "Edukacja",
+          "href": "https://www.apple.com/pl/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/pl/mac/"
+        },
+        {
+          "text": "Wszystkie modele Maca",
+          "href": "https://www.apple.com/pl/mac/"
+        },
+        {
+          "text": "MacBook Neo",
+          "href": "https://www.apple.com/pl/macbook-neo/"
+        },
+        {
+          "text": "MacBook\u00a0Air",
+          "href": "https://www.apple.com/pl/macbook-air/"
+        },
+        {
+          "text": "MacBook\u00a0Pro",
+          "href": "https://www.apple.com/pl/macbook-pro/"
+        },
+        {
+          "text": "iMac",
+          "href": "https://www.apple.com/pl/imac/"
+        },
+        {
+          "text": "Mac\u00a0mini",
+          "href": "https://www.apple.com/pl/mac-mini/"
+        },
+        {
+          "text": "Mac\u00a0Studio",
+          "href": "https://www.apple.com/pl/mac-studio/"
+        }
+      ],
+      "buttons": [
+        "Wstecz - Produkt",
+        "Dalej - Produkt",
+        "Wstecz -",
+        "Dalej -",
+        "Wstecz - S\u0142u\u017cymy pomoc\u0105.",
+        "Dalej - S\u0142u\u017cymy pomoc\u0105.",
+        "Wstecz - Apple Store robi r\u00f3\u017cnic\u0119.",
+        "Dalej - Apple Store robi r\u00f3\u017cnic\u0119.",
+        "Wstecz - Akcesoria.",
+        "Dalej - Akcesoria.",
+        "Wstecz - G\u0142o\u015bno i\u00a0wyra\u017anie.",
+        "Dalej - G\u0142o\u015bno i\u00a0wyra\u017anie.",
+        "Wstecz - Wi\u0119cej z Apple.",
+        "Dalej - Wi\u0119cej z Apple.",
+        "Wstecz - Wyj\u0105tkowe okazje.",
+        "Dalej - Wyj\u0105tkowe okazje."
+      ],
+      "forms": [
+        {
+          "action": "/pl/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Szukaj w\u00a0apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 292,
+      "images_count": 68,
+      "images_with_alt": 53,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sklep"
+        },
+        {
+          "level": 2,
+          "text": "Zobacz"
+        },
+        {
+          "level": 2,
+          "text": "Podr\u0119czne \u0142\u0105cza"
+        },
+        {
+          "level": 2,
+          "text": "Sklepy specjalne"
+        },
+        {
+          "level": 2,
+          "text": "Poznaj Maca"
+        },
+        {
+          "level": 2,
+          "text": "Zobacz Maca"
+        },
+        {
+          "level": 3,
+          "text": "NOWO\u015a\u0106"
+        },
+        {
+          "level": 3,
+          "text": "NOWO\u015a\u0106"
+        },
+        {
+          "level": 3,
+          "text": "NOWO\u015a\u0106"
+        },
+        {
+          "level": 3,
+          "text": "NOWO\u015a\u0106"
+        },
+        {
+          "level": 3,
+          "text": "NOWO\u015a\u0106"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Szukaj w\u00a0apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "warunki",
+        "support.apple.com/121115(Otwiera si\u0119 w\u00a0nowym oknie",
+        "warunki",
+        "support.apple.com/121115(Otwiera si\u0119 w\u00a0nowym oknie",
+        "Apple",
+        "Sklep",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "AirPods",
+        "TV i Dom",
+        "AirTag",
+        "Akcesoria",
+        "Karty upominkowe",
+        "Apple Pay",
+        "Zarz\u0105dzaj swoim kontem Apple",
+        "Konto w Apple Store",
+        "iCloud.com",
+        "Apple One"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 55,
+      "has_og_tags": true,
+      "meta_description": "Zobacz najnowsze produkty, akcesoria i oferty Apple. Skorzystaj z pomocy w zakupach, elastycznych sposob\u00f3w p\u0142atno\u015bci i r\u00f3\u017cnych opcji dostawy.",
+      "scripts_count": 58
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Refurbished products section",
+        "Education discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "komputronik",
+    "url": "https://www.komputronik.pl",
+    "scanned_at": "2026-03-31T22:52:26.897705",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/komputronik_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/komputronik_mobile.png"
+    },
+    "structure": {
+      "title": "Sklep komputerowy - Komputronik",
+      "url_final": "https://www.komputronik.pl/",
+      "nav_items": [
+        {
+          "text": "Laptopy i komputery",
+          "href": "/category/5803/laptopy-i-komputery.html"
+        },
+        {
+          "text": "Laptopy",
+          "href": "/category/5022/laptopy.html"
+        },
+        {
+          "text": "Komputery",
+          "href": "/category/15245/komputery.html"
+        },
+        {
+          "text": "Serwery i podzespo\u0142y",
+          "href": "/category/19118/serwery-i-podzespoly.html"
+        },
+        {
+          "text": "Tablety",
+          "href": "/category/8923/tablety.html"
+        },
+        {
+          "text": "Czytniki e-book",
+          "href": "/category/8011/czytniki-ebook.html"
+        },
+        {
+          "text": "Laptopy do gier",
+          "href": "/search-filter/5022/laptopy-do-gier"
+        },
+        {
+          "text": "Laptopy biznesowe",
+          "href": "/search-filter/5022/laptopy-biznesowe"
+        },
+        {
+          "text": "Laptopy dla nauczyciela",
+          "href": "https://www.komputronik.pl/promocje/laptop-dla-nauczyciela"
+        },
+        {
+          "text": "Laptopy do domu",
+          "href": "/search-filter/5022/laptopy-do-domu"
+        },
+        {
+          "text": "Laptopy konwertowane 2w1",
+          "href": "/search-filter/5022/laptopy-konwertowalne"
+        },
+        {
+          "text": "Laptopy z przek\u0105tn\u0105 15,6\"",
+          "href": "/search-filter/5022/laptopy-15-cali"
+        },
+        {
+          "text": "Laptopy z przek\u0105tn\u0105 17,3\"",
+          "href": "/search-filter/5022/laptopy-17-cali"
+        },
+        {
+          "text": "Laptopy z ekranem dotykowym",
+          "href": "/search-filter/5022/laptopy-z-ekranem-dotykowym"
+        },
+        {
+          "text": "Laptopy z GeForce RTX",
+          "href": "/search-filter/5022/laptopy-geforce-rtx"
+        },
+        {
+          "text": "Laptopy z certyfikatem Intel EVO",
+          "href": "/search-filter/5022/laptopy-intel-evo"
+        },
+        {
+          "text": "Laptopy z technologi\u0105 AI",
+          "href": "/search-filter/5022/laptopy-ai"
+        },
+        {
+          "text": "Laptopy z Intel Core i3",
+          "href": "/search-filter/5022/laptopy-i3"
+        },
+        {
+          "text": "Laptopy z Intel Core i5",
+          "href": "/search-filter/5022/laptopy-i5"
+        },
+        {
+          "text": "Laptopy z Intel Core i7",
+          "href": "/search-filter/5022/laptopy-i7"
+        }
+      ],
+      "buttons": [
+        "Wyloguj"
+      ],
+      "forms": [],
+      "links_count": 1141,
+      "images_count": 506,
+      "images_with_alt": 495,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Okazja dnia"
+        },
+        {
+          "level": 2,
+          "text": "Najnowsze produkty"
+        },
+        {
+          "level": 2,
+          "text": "Najnowsze produkty"
+        },
+        {
+          "level": 2,
+          "text": "Nasze us\u0142ugi"
+        },
+        {
+          "level": 2,
+          "text": "Nasze rekomendacje"
+        },
+        {
+          "level": 3,
+          "text": "Sprawd\u017a, co dla Ciebie mamy"
+        },
+        {
+          "level": 3,
+          "text": "Prywatno\u015b\u0107 u\u017cytkownika"
+        },
+        {
+          "level": 3,
+          "text": "\u015aci\u015ble niezb\u0119dne pliki cookie"
+        },
+        {
+          "level": 3,
+          "text": "Pliki cookie wydajno\u015bci"
+        },
+        {
+          "level": 3,
+          "text": "Pliki cookie zwi\u0105zane z reklamami i ich odbiorcami"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Wpisz czego szukasz"
+        },
+        {
+          "type": "text",
+          "name": "visitUs",
+          "placeholder": " "
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Szuka\u0107..."
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Aplikacja",
+        "Aktualno\u015bci",
+        "Promocje",
+        "Konfigurator PC",
+        "Poradniki zakupowe",
+        "Outlet",
+        "Oferta dla firm (B2B)",
+        "Serwis - reklamacje",
+        "Raty",
+        "Leasing",
+        "Dostawa",
+        "Zwroty towar\u00f3w",
+        "Utylizacja zepsutego sprz\u0119tu",
+        "Regulamin",
+        "Pomoc",
+        "Polityka prywatno\u015bci",
+        "Zarz\u0105dzanie zgodami",
+        "Program partnerski",
+        "Mapa strony",
+        "Nano"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 24,
+      "has_og_tags": true,
+      "meta_description": "Komputronik.pl - sklep komputerowy, posiadaj\u0105cy w swojej ofercie dziesi\u0105tki tysi\u0119cy produkt\u00f3w. Wysoka dost\u0119pno\u015b\u0107, atrakcyjne ceny, szybka wysy\u0142ka.",
+      "scripts_count": 49
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Comprehensive category browsing",
+        "Detailed product filtering options"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "answear",
+    "url": "https://answear.com/pl/",
+    "scanned_at": "2026-03-31T22:52:47.424196",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/answear_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/answear_mobile.png"
+    },
+    "structure": {
+      "title": "404 \u2013 Strony nie znaleziono | ANSWEAR.com",
+      "url_final": "https://answear.com/strona-nie-istnieje",
+      "nav_items": [
+        {
+          "text": "ona",
+          "href": "/c/ona"
+        },
+        {
+          "text": "on",
+          "href": "/c/on"
+        },
+        {
+          "text": "dziecko",
+          "href": "/c/dziecko"
+        },
+        {
+          "text": "home",
+          "href": "/c/home"
+        }
+      ],
+      "buttons": [
+        "Wr\u00f3\u0107 do strony g\u0142\u00f3wnej",
+        "Zapisz mnie",
+        "Twoje Cookies",
+        "Ustawienia",
+        "Odrzu\u0107 opcjonalne",
+        "Zaakceptuj wszystkie",
+        "Przejd\u017a do tre\u015bci",
+        "Dowiedz si\u0119 wi\u0119cej"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Wprowad\u017a adres e-mail."
+            }
+          ]
+        }
+      ],
+      "links_count": 72,
+      "images_count": 2,
+      "images_with_alt": 2,
+      "headings": [
+        {
+          "level": 2,
+          "text": "-15%zni\u017cki** na pierwsze zakupy za zapis do newslettera."
+        }
+      ],
+      "inputs": [
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Wprowad\u017a adres e-mail."
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 26,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 19
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "15% discount on first purchase for newsletter signup"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "modivo",
+    "url": "https://modivo.pl",
+    "scanned_at": "2026-03-31T22:53:08.195532",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/modivo_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/modivo_mobile.png"
+    },
+    "structure": {
+      "title": "Moda damska, m\u0119ska i dzieci\u0119ca | Sklep internetowy MODIVO.PL",
+      "url_final": "https://modivo.pl/",
+      "nav_items": [
+        {
+          "text": "MODIVO Days",
+          "href": "/c/modivo/akcja:modivodays_wmnhd?itm_medium=menu_navbar_women&itm_campaign=modivo_days&itm_content=p"
+        },
+        {
+          "text": "Nowo\u015bci",
+          "href": "/c/kobiety/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm_conten"
+        },
+        {
+          "text": "Odzie\u017c",
+          "href": "/c/kobiety/odziez/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm"
+        },
+        {
+          "text": "Obuwie",
+          "href": "/c/kobiety/obuwie/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm"
+        },
+        {
+          "text": "Torebki",
+          "href": "/c/kobiety/torby-i-torebki/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=no"
+        },
+        {
+          "text": "Akcesoria",
+          "href": "/c/kobiety/akcesoria/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&"
+        },
+        {
+          "text": "Sport",
+          "href": "/c/kobiety/sport/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm_"
+        },
+        {
+          "text": "Premium",
+          "href": "/c/kobiety/oferta:premium-nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&it"
+        },
+        {
+          "text": "Beauty",
+          "href": "/c/kobiety/beauty/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm"
+        },
+        {
+          "text": "Home & Decor",
+          "href": "/c/home-decor/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm_con"
+        },
+        {
+          "text": "Poka\u017c wszystkie",
+          "href": "/c/kobiety/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowosci&itm_conten"
+        },
+        {
+          "text": "Torebki",
+          "href": "/c/kobiety/torby-i-torebki/torebki/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_cam"
+        },
+        {
+          "text": "Sukienki",
+          "href": "/c/kobiety/odziez/sukienki-i-kombinezony/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&i"
+        },
+        {
+          "text": "Jeansy",
+          "href": "/c/kobiety/odziez/jeansy/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowo"
+        },
+        {
+          "text": "Kurtki",
+          "href": "/c/kobiety/odziez/kurtki/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=nowo"
+        },
+        {
+          "text": "T-shirty i polo",
+          "href": "/c/kobiety/odziez/t-shirty-i-polo/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_camp"
+        },
+        {
+          "text": "Bluzki i koszule",
+          "href": "/c/kobiety/odziez/bluzki-i-koszule/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_cam"
+        },
+        {
+          "text": "Marynarki i \u017cakiety",
+          "href": "/c/kobiety/odziez/marynarki-i-zakiety/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_"
+        },
+        {
+          "text": "Bluzy i polary",
+          "href": "/c/kobiety/odziez/bluzy-i-polary/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campa"
+        },
+        {
+          "text": "Sneakersy",
+          "href": "/c/kobiety/obuwie/sneakersy/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar_women&itm_campaign=n"
+        }
+      ],
+      "buttons": [
+        "Przejd\u017a do wyszukiwania",
+        "Szukaj",
+        "Zapisz si\u0119\u00a0do Newslettera",
+        "SPRAWD\u0179",
+        "Poka\u017c wi\u0119cej",
+        "Korzystaj z MODIVOclub",
+        "Zmie\u0144 kraj: Polska (PL)",
+        "Przejd\u017a do g\u0142\u00f3wnej zawarto\u015bci",
+        "Kobieta",
+        "M\u0119\u017cczyzna",
+        "Dziecko",
+        "Home",
+        "Dowiedz si\u0119 wi\u0119cej"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input-field-search-name",
+              "placeholder": "Szukaj marki, produktu, stylu"
+            }
+          ]
+        }
+      ],
+      "links_count": 402,
+      "images_count": 42,
+      "images_with_alt": 21,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Platforma Korzy\u015bci"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "input-field-search-name",
+          "placeholder": "Szukaj marki, produktu, stylu"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 14,
+      "has_og_tags": true,
+      "meta_description": "Stylowa moda m\u0119ska \u2022 Najlepsze marki i topowi producenci \u2022 Szybka dostawa i zwrot \u2022 Stylowe zakupy na MODIVO.PL.",
+      "scripts_count": 31
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "sinsay",
+    "url": "https://www.sinsay.com/pl/pl/",
+    "scanned_at": "2026-03-31T22:53:28.414197",
+    "screenshots": {
+      "desktop": "data/ecommerce_poland/2026-03-31/screenshots/sinsay_desktop.png",
+      "mobile": "data/ecommerce_poland/2026-03-31/screenshots/sinsay_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sinsay.com/pl/pl/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product categorization",
+        "frequent promotions and discounts"
+      ],
+      "confidence": "high"
+    }
+  }
+]

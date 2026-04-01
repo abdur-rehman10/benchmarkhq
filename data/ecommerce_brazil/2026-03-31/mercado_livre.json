@@ -1,0 +1,205 @@
+{
+  "name": "mercado_livre",
+  "url": "https://www.mercadolivre.com.br",
+  "scanned_at": "2026-03-31T21:38:41.790588",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/mercado_livre_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/mercado_livre_mobile.png"
+  },
+  "structure": {
+    "title": "Mercado Livre Brasil - Frete Gr\u00e1tis no mesmo dia",
+    "url_final": "https://www.mercadolivre.com.br/",
+    "nav_items": [
+      {
+        "text": "Pular para o conte\u00fado",
+        "href": "#root-app"
+      },
+      {
+        "text": "Comentar sobre acessibilidade",
+        "href": "https://www.mercadolivre.com.br/acessibilidade/feedback"
+      },
+      {
+        "text": "Buscar/",
+        "href": "#cb1-edit"
+      },
+      {
+        "text": "Minhas comprasP",
+        "href": "https://myaccount.mercadolivre.com.br/purchases/list"
+      },
+      {
+        "text": "CarrinhoC",
+        "href": "https://www.mercadolivre.com.br/gz/cart/v2"
+      },
+      {
+        "text": "Abrir/fechar o menu de atalhosZ",
+        "href": "#"
+      }
+    ],
+    "buttons": [
+      "P\u00e1gina 1",
+      "P\u00e1gina 2",
+      "P\u00e1gina 3",
+      "P\u00e1gina 4",
+      "P\u00e1gina 5",
+      "P\u00e1gina 6",
+      "P\u00e1gina 7",
+      "Informar localiza\u00e7\u00e3oInsira sua localiza\u00e7\u00e3o",
+      "Mostrar meiosMeios de pagamento",
+      "P\u00e1gina 1",
+      "P\u00e1gina 2",
+      "P\u00e1gina 3",
+      "P\u00e1gina 4",
+      "P\u00e1gina 5",
+      "P\u00e1gina 6",
+      "P\u00e1gina 1",
+      "P\u00e1gina 2",
+      "P\u00e1gina 1",
+      "P\u00e1gina 2"
+    ],
+    "forms": [
+      {
+        "action": "https://www.mercadolivre.com.br/jm/search",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "as_word",
+            "placeholder": "Buscar produtos, marcas e muito mais\u2026"
+          }
+        ]
+      }
+    ],
+    "links_count": 286,
+    "images_count": 109,
+    "images_with_alt": 95,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Mercado Livre"
+      },
+      {
+        "level": 2,
+        "text": "Frete gr\u00e1tis"
+      },
+      {
+        "level": 2,
+        "text": "Entre na sua conta"
+      },
+      {
+        "level": 2,
+        "text": "Insira sua localiza\u00e7\u00e3o"
+      },
+      {
+        "level": 2,
+        "text": "Meios de pagamento"
+      },
+      {
+        "level": 2,
+        "text": "Menos de R$100"
+      },
+      {
+        "level": 3,
+        "text": "Termos mais procurados"
+      },
+      {
+        "level": 3,
+        "text": "Pesquise produto por letra inicial"
+      },
+      {
+        "level": 3,
+        "text": "Sobre o"
+      },
+      {
+        "level": 3,
+        "text": "Outros sites"
+      },
+      {
+        "level": 3,
+        "text": "Contato"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "as_word",
+        "placeholder": "Buscar produtos, marcas e muito mais\u2026"
+      }
+    ],
+    "footer_links": [
+      "Trabalhe conosco",
+      "Termos e condi\u00e7\u00f5es",
+      "Promo\u00e7\u00f5es",
+      "Como cuidamos da sua privacidade",
+      "Acessibilidade",
+      "Contato",
+      "Informa\u00e7\u00f5es sobre seguros",
+      "Programa de Afiliados",
+      "Mercado Livre"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 245,
+    "has_og_tags": false,
+    "meta_description": "Compre produtos com Frete Gr\u00e1tis no mesmo dia no Mercado Livre Brasil. Encontre milhares de marcas e produtos a pre\u00e7os incr\u00edveis.",
+    "scripts_count": 95
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Same-day free shipping",
+      "Extensive payment options",
+      "Localized shopping experience"
+    ],
+    "confidence": "high"
+  }
+}

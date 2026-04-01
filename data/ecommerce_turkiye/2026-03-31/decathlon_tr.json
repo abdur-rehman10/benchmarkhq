@@ -1,0 +1,205 @@
+{
+  "name": "decathlon_tr",
+  "url": "https://www.decathlon.com.tr",
+  "scanned_at": "2026-03-31T22:58:00.198422",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/decathlon_tr_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/decathlon_tr_mobile.png"
+  },
+  "structure": {
+    "title": "Decathlon | T\u00fcrkiye'nin En B\u00fcy\u00fck Spor Ma\u011fazas\u0131",
+    "url_final": "https://www.decathlon.com.tr/",
+    "nav_items": [
+      {
+        "text": "\u0130\u00e7eri\u011fe ula\u015f",
+        "href": "#content"
+      },
+      {
+        "text": "Men\u00fc",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Bize Ula\u015f\u0131n",
+        "href": "/help/app/home"
+      },
+      {
+        "text": "Ma\u011faza bul",
+        "href": "/store-locator"
+      },
+      {
+        "text": "Hesab\u0131m",
+        "href": "/account/dashboard"
+      },
+      {
+        "text": "Sepetim",
+        "href": "/checkout/cart"
+      }
+    ],
+    "buttons": [
+      "Ayarlar",
+      "\u0130ste\u011fe Ba\u011fl\u0131 \u00c7erezlerin T\u00fcm\u00fcn\u00fc Reddet",
+      "\u0130ste\u011fe Ba\u011fl\u0131 \u00c7erezlerin T\u00fcm\u00fcn\u00fc Kabul Et",
+      "\u00d6nceki",
+      "Sonraki",
+      "Sporlar",
+      "Kad\u0131n",
+      "Erkek",
+      "\u00c7ocuk",
+      "Ekipmanlar",
+      "T\u00fcm \u00dcr\u00fcnler",
+      "Sa\u011fl\u0131k ve Beslenme",
+      "Servisler",
+      "Sporlar",
+      "Kad\u0131n",
+      "Erkek",
+      "\u00c7ocuk",
+      "Ekipmanlar",
+      "T\u00fcm \u00dcr\u00fcnler",
+      "Sa\u011fl\u0131k ve Beslenme",
+      "Ke\u015ffet!",
+      "Ke\u015ffet!",
+      "Ke\u015ffet!",
+      "Ke\u015ffet!",
+      "Ke\u015ffet!",
+      "Ke\u015ffet!"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "Ntt",
+            "placeholder": "Bir \u00fcr\u00fcn, spor veya marka aray\u0131n..."
+          }
+        ]
+      }
+    ],
+    "links_count": 252,
+    "images_count": 70,
+    "images_with_alt": 56,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "POP\u00dcLER KATEGOR\u0130LER"
+      },
+      {
+        "level": 2,
+        "text": "Katlanabilir Kamp Sandalyesi"
+      },
+      {
+        "level": 2,
+        "text": "Kamp Du\u015f Kabini - 2 Seconds"
+      },
+      {
+        "level": 2,
+        "text": "3 Ki\u015filik Kamp \u00c7ad\u0131r\u0131 - 2 Seconds Fresh&Black"
+      },
+      {
+        "level": 2,
+        "text": "4 Ki\u015filik Kamp \u00c7ad\u0131r\u0131 - Air Seconds 4.2 Fresh & Black"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "Ntt",
+        "placeholder": "Bir \u00fcr\u00fcn, spor veya marka aray\u0131n..."
+      }
+    ],
+    "footer_links": [
+      "Mobil Uygulamam\u0131z",
+      "Biz Kimiz?",
+      "Ma\u011fazalar\u0131m\u0131z",
+      "Bize Ula\u015f\u0131n",
+      "\u00dcyelik S\u00f6zle\u015fmesi",
+      "Bilgi Toplumu Hizmetleri",
+      "\u0130nsan Kaynaklar\u0131",
+      "De\u011ferlerimiz",
+      "Entegre Y\u00f6netim Sistemi Politikas\u0131",
+      "Decathlon Member Avantajlar\u0131",
+      "Ma\u011fazadan Teslim",
+      "Garanti \u015eartlar\u0131",
+      "Bak\u0131m ve Onar\u0131m",
+      "SSS",
+      "\u00dcr\u00fcn Geri \u00c7a\u011f\u0131rma"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 159,
+    "has_og_tags": false,
+    "meta_description": "Arad\u0131\u011f\u0131n\u0131z t\u00fcm sporlar\u0131n ekipman ve giysilerini Decathlon'da bulabilir, T\u00fcrkiye'nin en b\u00fcy\u00fck spor ma\u011fazas\u0131 Decathlon ile 7/24 spor al\u0131\u015fveri\u015fi yapabilirsiniz.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive sports equipment range",
+      "In-store pickup option"
+    ],
+    "confidence": "high"
+  }
+}

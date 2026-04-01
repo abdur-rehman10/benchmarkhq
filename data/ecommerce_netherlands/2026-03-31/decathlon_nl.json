@@ -1,0 +1,203 @@
+{
+  "name": "decathlon_nl",
+  "url": "https://www.decathlon.nl",
+  "scanned_at": "2026-03-31T22:37:45.039443",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/decathlon_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/decathlon_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Decathlon | Sportschoenen, Sportuitrusting & Sportartikelen",
+    "url_final": "https://www.decathlon.nl/",
+    "nav_items": [],
+    "buttons": [
+      "Meer informatie \u2192",
+      "Akkoord en sluiten",
+      "Meld je aan",
+      "Verstuur emailadres",
+      "Wissen",
+      "Sporten",
+      "Heren",
+      "Dames",
+      "Kinderen",
+      "Sport accessoires",
+      "Sportkleding",
+      "Tweedehands",
+      "Sale",
+      "Services",
+      "Ecodesign benadering",
+      "Getest door echte mensen",
+      "Ontworpen samen met atleten",
+      "Cookie-instellingen",
+      "Edit"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Jouw e-mailadres"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Zoeken"
+          }
+        ]
+      }
+    ],
+    "links_count": 226,
+    "images_count": 43,
+    "images_with_alt": 22,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Sportief het voorjaar in"
+      },
+      {
+        "level": 2,
+        "text": "Avonturen op wielen"
+      },
+      {
+        "level": 2,
+        "text": "Sporthorloges"
+      },
+      {
+        "level": 2,
+        "text": "Vind alles wat je nodig hebt"
+      },
+      {
+        "level": 2,
+        "text": "POPULAIRE CATEGORIE\u00cbN"
+      },
+      {
+        "level": 3,
+        "text": "Blijf altijd op de hoogte!"
+      },
+      {
+        "level": 3,
+        "text": "Ecodesign benadering"
+      },
+      {
+        "level": 3,
+        "text": "Getest door echte mensen"
+      },
+      {
+        "level": 3,
+        "text": "Ontworpen samen met atleten"
+      },
+      {
+        "level": 3,
+        "text": "Klantenservice"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Jouw e-mailadres"
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Zoeken"
+      }
+    ],
+    "footer_links": [
+      "Gratis retourneren binnen 365 dagen*",
+      "Afhalen in de winkelStandaard of binnen 1 uur",
+      "Minimaal 2 jaar garantie*",
+      "BuybackRuil je gebruikte product in voor een giftc",
+      "Download de app",
+      "Word Member",
+      "Gast account - bestelling volgen / aanmaken retour",
+      "Contact",
+      "Verzending en bezorging",
+      "Retourneren en ruilen",
+      "Betaling",
+      "Veelgestelde vragen",
+      "Illegale content melden",
+      "Security kwetsbaarheid melden",
+      "Toegankelijkheid website",
+      "Terugroepactie"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 74,
+    "has_og_tags": false,
+    "meta_description": "Winkel in meer dan 70 sporten in de winkel en online, gratis verzending bij geselecteerde in-app aankopen. Gratis afhalen in de winkel. 2 jaar\u2026",
+    "scripts_count": 186
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Ecodesign benadering",
+      "Getest door echte mensen",
+      "Ontworpen samen met atleten"
+    ],
+    "confidence": "medium"
+  }
+}

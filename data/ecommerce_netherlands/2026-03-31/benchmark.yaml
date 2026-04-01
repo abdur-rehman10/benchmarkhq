@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_netherlands
+  name: E-commerce Netherlands
+  country: Netherlands
+  currency: EUR
+  language: nl
+  version: 1.0.0
+  generated_at: '2026-03-31T22:43:08.117995'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - bol.com
+  - coolblue
+  - amazon_nl
+  - albert_heijn
+  - wehkamp
+  - mediamarkt_nl
+  - zalando_nl
+  - hema
+  - kruidvat
+  - blokker
+  - jumbo_nl
+  - praxis
+  - gamma
+  - fonq
+  - decathlon_nl
+  - ikea_nl
+  - bijenkorf
+  - marktplaats
+  - handm_nl
+  - zara_nl
+  - action_nl
+  - temu_nl
+  - shein_nl
+  - samsung_nl
+  - apple_nl
+  - nike_nl
+  - hornbach_nl
+  - pets_place
+  - bax_music
+  - thuisbezorgd
+features:
+  critical:
+  - id: product_search
+    frequency: 23/23
+    percent: 100
+  - id: category_browsing
+    frequency: 23/23
+    percent: 100
+  - id: product_images
+    frequency: 23/23
+    percent: 100
+  - id: product_descriptions
+    frequency: 18/23
+    percent: 100
+  - id: price_display
+    frequency: 19/23
+    percent: 100
+  - id: return_refund_info
+    frequency: 18/23
+    percent: 100
+  - id: help_center
+    frequency: 19/23
+    percent: 100
+  - id: language_attribute
+    frequency: 23/23
+    percent: 100
+  - id: responsive_design
+    frequency: 20/23
+    percent: 100
+  - id: login_signup
+    frequency: 20/23
+    percent: 95
+  - id: shopping_cart
+    frequency: 20/23
+    percent: 95
+  - id: add_to_cart
+    frequency: 19/23
+    percent: 95
+  - id: contact_form
+    frequency: 19/23
+    percent: 95
+  - id: cookie_consent
+    frequency: 18/23
+    percent: 95
+  - id: guest_checkout
+    frequency: 16/23
+    percent: 94
+  - id: shipping_info
+    frequency: 17/23
+    percent: 94
+  - id: privacy_policy
+    frequency: 16/23
+    percent: 94
+  - id: terms_of_service
+    frequency: 16/23
+    percent: 94
+  - id: stock_availability
+    frequency: 14/23
+    percent: 93
+  - id: phone_support
+    frequency: 14/23
+    percent: 93
+  - id: alt_text_on_images
+    frequency: 21/23
+    percent: 91
+  - id: search_filters
+    frequency: 14/23
+    percent: 88
+  - id: multiple_payment
+    frequency: 14/23
+    percent: 88
+  - id: order_tracking
+    frequency: 14/23
+    percent: 88
+  - id: order_history
+    frequency: 15/23
+    percent: 88
+  - id: search_autocomplete
+    frequency: 13/23
+    percent: 87
+  - id: related_products
+    frequency: 13/23
+    percent: 87
+  - id: personalized_recommendations
+    frequency: 13/23
+    percent: 87
+  - id: footer_with_links
+    frequency: 20/23
+    percent: 87
+  required:
+  - id: trending_items
+    frequency: 13/23
+    percent: 81
+  - id: promo_code
+    frequency: 12/23
+    percent: 80
+  - id: estimated_delivery
+    frequency: 12/23
+    percent: 80
+  - id: star_ratings
+    frequency: 12/23
+    percent: 80
+  - id: customer_reviews
+    frequency: 12/23
+    percent: 80
+  - id: recently_viewed
+    frequency: 12/23
+    percent: 80
+  - id: sticky_header
+    frequency: 12/23
+    percent: 80
+  - id: breadcrumb_navigation
+    frequency: 12/23
+    percent: 80
+  - id: hero_section
+    frequency: 12/23
+    percent: 80
+  - id: wishlist
+    frequency: 12/23
+    percent: 75
+  recommended:
+  - id: review_photos
+    frequency: 8/23
+    percent: 53
+  - id: size_variant_selector
+    frequency: 8/23
+    percent: 50
+  - id: live_chat
+    frequency: 8/23
+    percent: 50
+  - id: social_login
+    frequency: 6/23
+    percent: 40
+  nice_to_have:
+  - id: push_notifications
+    frequency: 5/23
+    percent: 36
+  - id: skeleton_loading
+    frequency: 5/23
+    percent: 36
+  innovative: []

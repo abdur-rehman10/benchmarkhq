@@ -1,0 +1,313 @@
+{
+  "name": "ebay_uk",
+  "url": "https://www.ebay.co.uk",
+  "scanned_at": "2026-03-31T21:48:57.548401",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/ebay_uk_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/ebay_uk_mobile.png"
+  },
+  "structure": {
+    "title": "eBay UK | Electronics, Cars, Fashion, Collectibles & More",
+    "url_final": "https://www.ebay.co.uk/",
+    "nav_items": [
+      {
+        "text": "Sign in",
+        "href": "https://signin.ebay.co.uk/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.co.uk%2F"
+      },
+      {
+        "text": "register",
+        "href": "https://signup.ebay.co.uk/pa/crte?ru=https%3A%2F%2Fwww.ebay.co.uk%2F"
+      },
+      {
+        "text": "Collection",
+        "href": "https://www.ebay.co.uk/localcollection"
+      },
+      {
+        "text": "Deals",
+        "href": "https://www.ebay.co.uk/deals"
+      },
+      {
+        "text": "Fashion",
+        "href": "https://www.ebay.co.uk/b/bn_7000259675"
+      },
+      {
+        "text": "Help & Contact",
+        "href": "https://www.ebay.co.uk/help/home"
+      },
+      {
+        "text": "Sell",
+        "href": "https://www.ebay.co.uk/sl/sell"
+      },
+      {
+        "text": "List an item",
+        "href": "https://www.ebay.co.uk/sl/prelist/suggest"
+      },
+      {
+        "text": "Explore selling",
+        "href": "https://www.ebay.co.uk/sl/sell"
+      },
+      {
+        "text": "Watchlist",
+        "href": "https://www.ebay.co.uk/mye/myebay/watchlist"
+      },
+      {
+        "text": "My eBay",
+        "href": "https://www.ebay.co.uk/mys/home?source=GBH"
+      },
+      {
+        "text": "Summary",
+        "href": "https://www.ebay.co.uk/mye/myebay/summary"
+      },
+      {
+        "text": "Recently Viewed",
+        "href": "https://www.ebay.co.uk/mye/myebay/rvi"
+      },
+      {
+        "text": "Bids/Offers",
+        "href": "https://www.ebay.co.uk/mye/myebay/bidsoffers"
+      },
+      {
+        "text": "Watch List",
+        "href": "https://www.ebay.co.uk/mye/myebay/watchlist"
+      },
+      {
+        "text": "Purchase History",
+        "href": "https://www.ebay.co.uk/mye/myebay/purchase"
+      },
+      {
+        "text": "Selling",
+        "href": "https://www.ebay.co.uk/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH"
+      },
+      {
+        "text": "Saved feed",
+        "href": "https://www.ebay.co.uk/mye/myebay/saved"
+      },
+      {
+        "text": "Saved Searches",
+        "href": "https://www.ebay.co.uk/mye/myebay/savedsearches"
+      },
+      {
+        "text": "Saved Sellers",
+        "href": "https://www.ebay.co.uk/mye/myebay/savedsellers"
+      }
+    ],
+    "buttons": [
+      "Expand Sell menu",
+      "Expand Watchlist",
+      "Expand My eBay",
+      "Notifications",
+      "Expand Basket",
+      "Shop by category",
+      "Search",
+      "Accept all",
+      "Decline all",
+      "Expand: Home",
+      "Expand: Garden & DIY",
+      "Expand: Electronics",
+      "Expand: Refurbished",
+      "Expand: Fashion",
+      "Expand: Jewellery & watches",
+      "Expand: Motors",
+      "Expand: Collectables",
+      "Expand: Sports & leisure",
+      "Expand: Health & Beauty",
+      "Expand: More"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ebay.co.uk/sch/i.html",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "_nkw",
+            "placeholder": "Search for anything"
+          },
+          {
+            "type": "text",
+            "name": "_sacat",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_from",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_trksid",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 497,
+    "images_count": 79,
+    "images_with_alt": 50,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Electronics, Cars, Fashion, Collectibles & More | eBay"
+      },
+      {
+        "level": 2,
+        "text": "Look iconic with eBay & SNL\u1d41\u1d37"
+      },
+      {
+        "level": 2,
+        "text": "List local this spring, it\u2019s easy"
+      },
+      {
+        "level": 2,
+        "text": "Up to 70% off M&S fashion vs. RRP"
+      },
+      {
+        "level": 2,
+        "text": "Cash in on your luxury fashion"
+      },
+      {
+        "level": 2,
+        "text": "This week's top deals"
+      },
+      {
+        "level": 3,
+        "text": "Collectables & antiques"
+      },
+      {
+        "level": 3,
+        "text": "Electronics"
+      },
+      {
+        "level": 3,
+        "text": "Fashion"
+      },
+      {
+        "level": 3,
+        "text": "Home & garden"
+      },
+      {
+        "level": 3,
+        "text": "Jewellery & watches"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "_nkw",
+        "placeholder": "Search for anything"
+      },
+      {
+        "type": "hidden",
+        "name": "_from",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_trksid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Buy",
+      "Buying Basics",
+      "Deals",
+      "eBay Mobile",
+      "Shop by Brand",
+      "Sales & Events",
+      "eBay for Charity",
+      "Charity Shop",
+      "eBay Shops",
+      "Seasonal Sales and events",
+      "Sell",
+      "Seller Centre",
+      "Sell Locally",
+      "Selling Basics",
+      "Selling Fees",
+      "eBay Top-rated Sellers",
+      "Posting Items",
+      "Seller Protection",
+      "Sell for Charity",
+      "Community"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 148,
+    "has_og_tags": true,
+    "meta_description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay UK's online marketplace. Top brands, low prices & free shipping on many items.",
+    "scripts_count": 38
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive category browsing with a wide range of products",
+      "Integration with local collection services",
+      "Strong focus on deals and promotions"
+    ],
+    "confidence": "high"
+  }
+}

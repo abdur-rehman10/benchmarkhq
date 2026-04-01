@@ -1,0 +1,121 @@
+{
+  "name": "yanxuan",
+  "url": "https://you.163.com",
+  "scanned_at": "2026-04-01T00:01:18.736522",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/yanxuan_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/yanxuan_mobile.png"
+  },
+  "structure": {
+    "title": "\u7f51\u6613\u4e25\u9009 - \u4ee5\u4e25\u8c28\u7684\u6001\u5ea6\uff0c\u4e3a\u4e2d\u56fd\u6d88\u8d39\u8005\u7504\u9009\u5929\u4e0b\u4f18\u54c1",
+    "url_final": "https://you.163.com/",
+    "nav_items": [],
+    "buttons": [
+      "\u5728\u7ebf\u5ba2\u670d",
+      "\u7528\u6237\u53cd\u9988"
+    ],
+    "forms": [],
+    "links_count": 240,
+    "images_count": 104,
+    "images_with_alt": 44,
+    "headings": [
+      {
+        "level": 3,
+        "text": "\u65b0\u54c1\u9996\u53d1"
+      },
+      {
+        "level": 3,
+        "text": "\u4eba\u6c14\u63a8\u8350"
+      },
+      {
+        "level": 3,
+        "text": "\u5e8a\u54c1\u5bb6\u7eba"
+      },
+      {
+        "level": 3,
+        "text": "\u7537\u88c5"
+      },
+      {
+        "level": 3,
+        "text": "\u4e73\u996e\u9152\u6c34"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "searchInput",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u8f93\u5165\u60a8\u7684\u7535\u5b50\u90ae\u4ef6"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "\u7f51\u6613\u4e25\u9009\u79c9\u627f\u7f51\u6613\u4e00\u8d2f\u7684\u4e25\u8c28\u6001\u5ea6\uff0c\u6df1\u5165\u4e16\u754c\u5404\u5730\uff0c\u4e25\u683c\u628a\u5173\u6240\u6709\u5546\u54c1\u7684\u4ea7\u5730\u3001\u5de5\u827a\u3001\u539f\u6750\u6599\uff0c\u7504\u9009\u5c45\u5bb6\u3001\u53a8\u623f\u3001\u996e\u98df\u7b49\u5404\u7c7b\u5546\u54c1\uff0c\u529b\u6c42\u7ed9\u4f60\u6700\u4f18\u8d28\u7684\u5546\u54c1\u3002",
+    "scripts_count": 21
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "N",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "N",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "\u4e25\u9009's focus on high-quality, curated products",
+      "Integration with NetEase ecosystem"
+    ],
+    "confidence": "high"
+  }
+}

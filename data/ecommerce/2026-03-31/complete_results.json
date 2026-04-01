@@ -1,0 +1,5846 @@
+[
+  {
+    "name": "amazon",
+    "url": "https://www.amazon.com",
+    "scanned_at": "2026-03-31T20:19:43.942235",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/amazon_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/amazon_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.com. Spend less. Smile more.",
+      "url_final": "https://www.amazon.com/",
+      "nav_items": [
+        {
+          "text": "Main content",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Searchopt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Cartshift+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Homeshift+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Ordersshift+opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Show/Hide shortcutsshift+opt+Z",
+        "Back to top",
+        "Sign in",
+        "TRYTurkish Lira",
+        "United States"
+      ],
+      "links_count": 275,
+      "main_links": [
+        {
+          "text": "Main content",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Searchopt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Cartshift+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Homeshift+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Ordersshift+opt+O",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": ".us",
+          "href": "/ref=nav_logo"
+        },
+        {
+          "text": "Deliver toTurkey",
+          "href": ""
+        },
+        {
+          "text": "Hello, sign inAccount & Lists",
+          "href": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazo"
+        },
+        {
+          "text": "Returns& Orders",
+          "href": "/gp/css/order-history?ref_=nav_orders_first"
+        },
+        {
+          "text": "0Cart",
+          "href": "/gp/cart/view.html?ref_=nav_cart"
+        },
+        {
+          "text": "Sign in",
+          "href": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazo"
+        },
+        {
+          "text": "Start here.",
+          "href": "https://www.amazon.com/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.ama"
+        },
+        {
+          "text": "Create a List",
+          "href": "/hz/wishlist/ls?triggerElementID=createList&ref_=nav_ListFlyout_navFlyout_createList_lv_redirect"
+        },
+        {
+          "text": "Find a List or Registry",
+          "href": "/registries?ref_=nav_ListFlyout_find"
+        },
+        {
+          "text": "Account",
+          "href": "/gp/css/homepage.html?ref_=nav_AccountFlyout_ya"
+        },
+        {
+          "text": "Orders",
+          "href": "/gp/css/order-history?ref_=nav_AccountFlyout_orders"
+        },
+        {
+          "text": "Recommendations",
+          "href": "/gp/yourstore?ref_=nav_AccountFlyout_recs"
+        },
+        {
+          "text": "Browsing History",
+          "href": "/gp/history?ref_=nav_AccountFlyout_browsinghistory"
+        },
+        {
+          "text": "Your Shopping preferences",
+          "href": "https://www.amazon.com/slc/hub?ref_=nav_AccountFlyout_sl_ph_navflyout"
+        },
+        {
+          "text": "Watchlist",
+          "href": "/gp/video/watchlist?ref_=nav_AccountFlyout_ywl"
+        },
+        {
+          "text": "Video Purchases & Rentals",
+          "href": "/gp/video/library?ref_=nav_AccountFlyout_yvl"
+        },
+        {
+          "text": "Kindle Unlimited",
+          "href": "/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku"
+        },
+        {
+          "text": "Content & Devices",
+          "href": "/hz/mycd/myx?pageType=content&ref_=nav_AccountFlyout_myk"
+        },
+        {
+          "text": "Subscribe & Save Items",
+          "href": "/gp/subscribe-and-save/manager/viewsubscriptions?ref_=nav_AccountFlyout_sns"
+        },
+        {
+          "text": "Memberships & Subscriptions",
+          "href": "/hz5/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions"
+        },
+        {
+          "text": "Music Library",
+          "href": "https://music.amazon.com?ref=nav_youraccount_cldplyr"
+        },
+        {
+          "text": "All",
+          "href": "javascript: void(0)"
+        },
+        {
+          "text": "Today's Deals",
+          "href": "/gp/goldbox?ref_=nav_cs_gb"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc"
+        },
+        {
+          "text": "Sell",
+          "href": "/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Search Amazon"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 154,
+      "images_with_alt": 150,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Skip to"
+        },
+        {
+          "level": 2,
+          "text": "Keyboard shortcuts"
+        },
+        {
+          "level": 2,
+          "text": "Get your game on"
+        },
+        {
+          "level": 2,
+          "text": "Top categories in Kitchen appliancesTop categories in Kitchen appliances"
+        },
+        {
+          "level": 2,
+          "text": "New home arrivals under $50"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Search Amazon"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ue_back",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, includin",
+      "meta_viewport": "",
+      "has_og_tags": false,
+      "scripts_count": 118,
+      "stylesheets_count": 9,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 111,
+      "footer_links": [],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "related_items": "U",
+        "stock_availability": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment_methods": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "U",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FF9900",
+      "design_quality_1_to_10": 9,
+      "notable_features": [
+        "Extensive product search functionality",
+        "Large number of images",
+        "Help center available"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Customer reviews",
+        "Privacy policy link"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "ebay",
+    "url": "https://www.ebay.com",
+    "scanned_at": "2026-03-31T20:20:15.627459",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/ebay_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/ebay_mobile.png"
+    },
+    "structure": {
+      "title": "Electronics, Cars, Fashion, Collectibles & More | eBay",
+      "url_final": "https://www.ebay.com/",
+      "nav_items": [
+        {
+          "text": "Sign in",
+          "href": "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2F"
+        },
+        {
+          "text": "register",
+          "href": "https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2F"
+        },
+        {
+          "text": "Deals",
+          "href": "https://www.ebay.com/deals"
+        },
+        {
+          "text": "Brand Outlet",
+          "href": "https://www.ebay.com/b/Brand-Outlet/bn_7115532402"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "https://www.ebay.com/giftcards"
+        },
+        {
+          "text": "Help & Contact",
+          "href": "https://www.ebay.com/help/home"
+        },
+        {
+          "text": "Sell",
+          "href": "https://www.ebay.com/sl/sell"
+        },
+        {
+          "text": "Watchlist",
+          "href": "https://www.ebay.com/mye/myebay/watchlist"
+        },
+        {
+          "text": "My eBay",
+          "href": "https://www.ebay.com/mys/home?source=GBH"
+        },
+        {
+          "text": "Summary",
+          "href": "https://www.ebay.com/mye/myebay/summary"
+        },
+        {
+          "text": "Recently Viewed",
+          "href": "https://www.ebay.com/mye/myebay/rvi"
+        },
+        {
+          "text": "Bids/Offers",
+          "href": "https://www.ebay.com/mye/myebay/bidsoffers"
+        },
+        {
+          "text": "Watchlist",
+          "href": "https://www.ebay.com/mye/myebay/watchlist"
+        },
+        {
+          "text": "Purchase History",
+          "href": "https://www.ebay.com/mye/myebay/purchase"
+        },
+        {
+          "text": "Buy Again",
+          "href": "https://www.ebay.com/mye/buyagain"
+        },
+        {
+          "text": "Selling",
+          "href": "https://www.ebay.com/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH"
+        },
+        {
+          "text": "Saved Feed",
+          "href": "https://www.ebay.com/mye/myebay/saved"
+        },
+        {
+          "text": "Saved Searches",
+          "href": "https://www.ebay.com/mye/myebay/savedsearches"
+        },
+        {
+          "text": "Saved Sellers",
+          "href": "https://www.ebay.com/mye/myebay/savedsellers"
+        },
+        {
+          "text": "Payments",
+          "href": "https://ppcapp.ebay.com/myppc/wallet/list"
+        }
+      ],
+      "buttons": [
+        "Ship to",
+        "Expand Watch List",
+        "Expand My eBay",
+        "Notifications",
+        "Expand Cart",
+        "Shop by category",
+        "Search",
+        "Expand: Electronics",
+        "Expand: Motors",
+        "Expand: Fashion",
+        "Expand: Collectibles and Art",
+        "Expand: Sports",
+        "Expand: Health & Beauty",
+        "Expand: Industrial equipment",
+        "Expand: Home & Garden",
+        "Expand: Sell",
+        "Expand: More",
+        "More options"
+      ],
+      "links_count": 365,
+      "main_links": [
+        {
+          "text": "Skip to main content",
+          "href": "#mainContent"
+        },
+        {
+          "text": "Sign in",
+          "href": "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2F"
+        },
+        {
+          "text": "register",
+          "href": "https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2F"
+        },
+        {
+          "text": "Deals",
+          "href": "https://www.ebay.com/deals"
+        },
+        {
+          "text": "Brand Outlet",
+          "href": "https://www.ebay.com/b/Brand-Outlet/bn_7115532402"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "https://www.ebay.com/giftcards"
+        },
+        {
+          "text": "Help & Contact",
+          "href": "https://www.ebay.com/help/home"
+        },
+        {
+          "text": "Sell",
+          "href": "https://www.ebay.com/sl/sell"
+        },
+        {
+          "text": "Watchlist",
+          "href": "https://www.ebay.com/mye/myebay/watchlist"
+        },
+        {
+          "text": "My eBay",
+          "href": "https://www.ebay.com/mys/home?source=GBH"
+        },
+        {
+          "text": "Summary",
+          "href": "https://www.ebay.com/mye/myebay/summary"
+        },
+        {
+          "text": "Recently Viewed",
+          "href": "https://www.ebay.com/mye/myebay/rvi"
+        },
+        {
+          "text": "Bids/Offers",
+          "href": "https://www.ebay.com/mye/myebay/bidsoffers"
+        },
+        {
+          "text": "Watchlist",
+          "href": "https://www.ebay.com/mye/myebay/watchlist"
+        },
+        {
+          "text": "Purchase History",
+          "href": "https://www.ebay.com/mye/myebay/purchase"
+        },
+        {
+          "text": "Buy Again",
+          "href": "https://www.ebay.com/mye/buyagain"
+        },
+        {
+          "text": "Selling",
+          "href": "https://www.ebay.com/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH"
+        },
+        {
+          "text": "Saved Feed",
+          "href": "https://www.ebay.com/mye/myebay/saved"
+        },
+        {
+          "text": "Saved Searches",
+          "href": "https://www.ebay.com/mye/myebay/savedsearches"
+        },
+        {
+          "text": "Saved Sellers",
+          "href": "https://www.ebay.com/mye/myebay/savedsellers"
+        },
+        {
+          "text": "Payments",
+          "href": "https://ppcapp.ebay.com/myppc/wallet/list"
+        },
+        {
+          "text": "My Garage",
+          "href": "https://www.ebay.com/g/mygarage"
+        },
+        {
+          "text": "Preferences",
+          "href": "https://www.ebay.com/d/myebay/preferences"
+        },
+        {
+          "text": "My Collection",
+          "href": "https://www.ebay.com/collection/hub"
+        },
+        {
+          "text": "Messages",
+          "href": "https://mesg.ebay.com/mesgweb/ViewMessages/0"
+        },
+        {
+          "text": "PSA Vault",
+          "href": "https://www.ebay.com/collection/category?notionalTypeId=Vault&period=1Y"
+        },
+        {
+          "text": "sign in",
+          "href": "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=nf&ru=https%3A%2F%2Fwww.ebay.com%2F"
+        },
+        {
+          "text": "eBay Home",
+          "href": "https://www.ebay.com"
+        },
+        {
+          "text": "Motors",
+          "href": "https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334"
+        },
+        {
+          "text": "Parts & accessories",
+          "href": "https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ebay.com/sch/i.html",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "_nkw",
+              "placeholder": "Search for anything"
+            },
+            {
+              "type": "text",
+              "name": "_sacat",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_from",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_trksid",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 41,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Electronics, Cars, Fashion, Collectibles & More | eBay"
+        },
+        {
+          "level": 2,
+          "text": "Where are you shipping to?"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Sell to the world from Turkey"
+        },
+        {
+          "level": 2,
+          "text": "Build an elite collection"
+        },
+        {
+          "level": 2,
+          "text": "Don't miss out on insider perks"
+        },
+        {
+          "level": 3,
+          "text": "Motors"
+        },
+        {
+          "level": 3,
+          "text": "Clothing & Accessories"
+        },
+        {
+          "level": 3,
+          "text": "Sporting goods"
+        },
+        {
+          "level": 3,
+          "text": "Electronics"
+        },
+        {
+          "level": 3,
+          "text": "Business & Industrial"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "_nkw",
+          "placeholder": "Search for anything"
+        },
+        {
+          "type": "hidden",
+          "name": "_from",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_trksid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shiptoflag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.",
+      "meta_viewport": "width=device-width, initial-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 67,
+      "stylesheets_count": 2,
+      "has_lang_attr": true,
+      "has_skip_link": true,
+      "aria_labels_count": 74,
+      "footer_links": [
+        "Buy",
+        "Registration",
+        "Bidding & buying help",
+        "Stores",
+        "Creator Collections",
+        "eBay for Charity",
+        "Charity Shop",
+        "Seasonal Sales and events",
+        "eBay Gift Cards",
+        "Sell",
+        "Start selling",
+        "How to sell",
+        "Business sellers",
+        "Affiliates",
+        "Developers",
+        "Security center",
+        "Site map",
+        "TCGplayer",
+        "Facebook",
+        "X (Twitter)"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "Y",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFFFFF",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Extensive category browsing",
+        "User account management features",
+        "Shopping cart functionality"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Search filters",
+        "Product descriptions",
+        "Price display",
+        "Promo code field",
+        "Multiple payment methods",
+        "Star ratings",
+        "Written reviews",
+        "Return/refund information"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "target",
+    "url": "https://www.target.com",
+    "scanned_at": "2026-03-31T20:20:49.264204",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/target_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/target_mobile.png"
+    },
+    "structure": {
+      "title": "Target : Expect More. Pay Less.",
+      "url_final": "https://www.target.com/",
+      "nav_items": [],
+      "buttons": [
+        "Ship to 52404",
+        "Cedar Rapids South",
+        "search",
+        "Save on style",
+        "Easter Deals",
+        "Baskets & Eggs",
+        "Candy & Treats",
+        "Fresh Flowers",
+        "Decor & Party Supplies",
+        "Top Gift Ideas",
+        "Sign up"
+      ],
+      "links_count": 63,
+      "main_links": [
+        {
+          "text": "skip to main content",
+          "href": "#content"
+        },
+        {
+          "text": "skip to footer",
+          "href": "#footerHeader"
+        },
+        {
+          "text": "Target Circle\u2122",
+          "href": "/circle"
+        },
+        {
+          "text": "Target Circle\u2122 Card",
+          "href": "/circlecard"
+        },
+        {
+          "text": "Target Circle 360\u2122",
+          "href": "/l/target-circle-360/-/N-2rguk"
+        },
+        {
+          "text": "Registry & Wish List",
+          "href": "/gift-registry"
+        },
+        {
+          "text": "Weekly Ad",
+          "href": "/weekly-ad"
+        },
+        {
+          "text": "Find Stores",
+          "href": "/store-locator/find-stores"
+        },
+        {
+          "text": "Categories",
+          "href": "/c/shop-all-categories/-/N-5xsxf?prehydrateClick=true"
+        },
+        {
+          "text": "Deals",
+          "href": "/c/top-deals/-/N-4xw74?prehydrateClick=true"
+        },
+        {
+          "text": "Pickup & delivery",
+          "href": "/c/order-pickup/-/N-ng0a0?l1_nid=5xt1a&prehydrateClick=true"
+        },
+        {
+          "text": "Easter is this Sunday, April 5Easter is this Sunda",
+          "href": "/c/easter/-/N-5xt1n"
+        },
+        {
+          "text": "Up to40percent off\ue017spring style for all*Save on st",
+          "href": "/c/clothing-sale/-/N-4slzs"
+        },
+        {
+          "text": "Women\u2019s",
+          "href": "/c/up-to-40-off-women-s-clothing/-/N-1ppoa"
+        },
+        {
+          "text": "Kids\u2019",
+          "href": "/c/up-to-40-off-kids-toddler-clothing/-/N-ocdl2"
+        },
+        {
+          "text": "Men\u2019s",
+          "href": "/c/up-to-40-off-men-s-clothing/-/N-n2n1y"
+        },
+        {
+          "text": "Save$5when you spend $30 on select toys with",
+          "href": "/c/spend-30-save-5-50-10/-/N-bwld1"
+        },
+        {
+          "text": "$5Target\u25ceGiftCardwhen you spend $30 on select beau",
+          "href": "/pl/435932756"
+        },
+        {
+          "text": "From$1Easter candy & snacks",
+          "href": "/c/easter-candy/-/N-55910"
+        },
+        {
+          "text": "All EasterdealsSweet Easter savings to fill your b",
+          "href": "/c/easter-deals/-/N-qcm87"
+        },
+        {
+          "text": "Basket Ideas",
+          "href": "/c/easter-basket-ideas/-/N-ovmzr"
+        },
+        {
+          "text": "Easter Egg Fillers",
+          "href": "/c/easter-egg-fillers/-/N-41076"
+        },
+        {
+          "text": "Kitchen & Dining",
+          "href": "/c/easter-kitchen-dining/-/N-v18x6"
+        },
+        {
+          "text": "Party Supplies",
+          "href": "/c/easter-party-supplies/-/N-8pexr"
+        },
+        {
+          "text": "Decor",
+          "href": "/c/easter-decorations/-/N-4uswe"
+        },
+        {
+          "text": "All Easter",
+          "href": "/c/easter/-/N-5xt1n"
+        },
+        {
+          "text": "Now serving: Easter brunch",
+          "href": "/c/easter-meal/-/N-asdeq"
+        },
+        {
+          "text": "Saveon Easter meal essentials+ more grocerydeals",
+          "href": "/c/grocery-deals/-/N-k4uyq"
+        },
+        {
+          "text": "$15Target\u25ceGiftCardwhen you spend $50 on household ",
+          "href": "/pl/991797750"
+        },
+        {
+          "text": "Style arrivals from KBB by KAHLANAOnly atTarget\u25ce",
+          "href": "/b/kbb-by-kahlana/-/N-q643levo1q3?sortBy=newest"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/s",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "searchTerm",
+              "placeholder": "What can we help you find?"
+            },
+            {
+              "type": "hidden",
+              "name": "prehydrateSearch",
+              "placeholder": " "
+            }
+          ]
+        },
+        {
+          "action": "/s",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "searchTerm",
+              "placeholder": "What can we help you find?"
+            },
+            {
+              "type": "hidden",
+              "name": "prehydrateSearch",
+              "placeholder": " "
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email-address",
+              "placeholder": " "
+            }
+          ]
+        }
+      ],
+      "images_count": 43,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Homepage"
+        },
+        {
+          "level": 2,
+          "text": "Up to40percent off\ue017"
+        },
+        {
+          "level": 2,
+          "text": "Women\u2019s"
+        },
+        {
+          "level": 2,
+          "text": "Kids\u2019"
+        },
+        {
+          "level": 2,
+          "text": "Men\u2019s"
+        },
+        {
+          "level": 2,
+          "text": "Fill their baskets with low prices"
+        },
+        {
+          "level": 3,
+          "text": "when you spend $30 on select toys with"
+        },
+        {
+          "level": 3,
+          "text": "when you spend $30 on select beauty items with"
+        },
+        {
+          "level": 3,
+          "text": "Easter candy & snacks"
+        },
+        {
+          "level": 3,
+          "text": "Sweet Easter savings to fill your baskets"
+        },
+        {
+          "level": 3,
+          "text": "Loading..."
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "searchTerm",
+          "placeholder": "What can we help you find?"
+        },
+        {
+          "type": "hidden",
+          "name": "prehydrateSearch",
+          "placeholder": " "
+        },
+        {
+          "type": "text",
+          "name": "searchTerm",
+          "placeholder": "What can we help you find?"
+        },
+        {
+          "type": "hidden",
+          "name": "prehydrateSearch",
+          "placeholder": " "
+        },
+        {
+          "type": "email",
+          "name": "email-address",
+          "placeholder": " "
+        }
+      ],
+      "meta_description": "Shop Target online and in-store for everything from groceries and essentials to clothing and electronics. Choose contactless pickup or delivery today.",
+      "meta_viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, interactive-widget=overlays-content",
+      "has_og_tags": true,
+      "scripts_count": 95,
+      "stylesheets_count": 26,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 42,
+      "footer_links": [],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "Y",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Search bar",
+        "Responsive design",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Shopping cart",
+        "Order tracking",
+        "Help center"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "nike",
+    "url": "https://www.nike.com",
+    "scanned_at": "2026-03-31T20:21:18.985470",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/nike_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/nike_mobile.png"
+    },
+    "structure": {
+      "title": "Nike. Just Do It. Nike TR",
+      "url_final": "https://www.nike.com/tr/",
+      "nav_items": [
+        {
+          "text": "Ana i\u00e7eri\u011fe ge\u00e7",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/tr/jordan"
+        },
+        {
+          "text": "Ma\u011faza Bul",
+          "href": "https://www.nike.com/tr/retail"
+        },
+        {
+          "text": "Yard\u0131m",
+          "href": "https://www.nike.com/tr/help"
+        },
+        {
+          "text": "Yard\u0131m",
+          "href": "https://www.nike.com/tr/help"
+        },
+        {
+          "text": "Sipari\u015f Durumu",
+          "href": "https://www.nike.com/tr/orders"
+        },
+        {
+          "text": "Kargo ve Teslimat",
+          "href": "https://www.nike.com/tr/help/a/kargo-teslimat-gs"
+        },
+        {
+          "text": "\u0130adeler",
+          "href": "https://www.nike.com/tr/help/a/iade-politikasi-gs"
+        },
+        {
+          "text": "Beden/Numara \u00c7izelgeleri",
+          "href": "https://www.nike.com/tr/help/a/beden-numara-cizelgeleri-gs"
+        },
+        {
+          "text": "Bize Ula\u015f",
+          "href": "https://www.nike.com/tr/help/#contact"
+        },
+        {
+          "text": "Gizlilik Politikas\u0131",
+          "href": "https://agreementservice.svs.nike.com/tr/tr_tr/rest/agreement?agreementType=privacyPolicy&uxId=com.n"
+        },
+        {
+          "text": "Sat\u0131\u015f \u015eartlar\u0131",
+          "href": "https://www.eshopworld.com/terms-and-conditions-of-sale-tr/"
+        },
+        {
+          "text": "Kullan\u0131m \u015eartlar\u0131",
+          "href": "https://agreementservice.svs.nike.com/tr/tr_tr/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Bize Geri Bildirim G\u00f6nder",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Bize Kat\u0131l",
+          "href": "https://www.nike.com/tr/uyelik"
+        },
+        {
+          "text": "Oturum A\u00e7",
+          "href": "https://www.nike.com/tr/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/tr/"
+        },
+        {
+          "text": "Yeni",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-3n82y"
+        },
+        {
+          "text": "Yeni",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-3n82y"
+        },
+        {
+          "text": "T\u00fcm Yeni \u00c7\u0131kan \u00dcr\u00fcnleri \u0130ncele",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-3n82y"
+        }
+      ],
+      "buttons": [
+        "Markalar",
+        "Markalar",
+        "Cancel",
+        "\u0130ptal",
+        "Play",
+        "Ses A\u00e7",
+        "Seek to live, currently behind liveLIVE",
+        "Playback Rate",
+        "Chapters",
+        "Descriptions",
+        "Altyaz\u0131",
+        "Audio Track",
+        "Fullscreen",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "\u0130zle",
+        "T\u00fcrkiye",
+        "ayakkab\u0131",
+        "air force",
+        "tech",
+        "dunk",
+        "erkek krampon",
+        "kad\u0131n ayakkab\u0131",
+        "basketbol ayakkab\u0131s\u0131",
+        "\u00e7anta"
+      ],
+      "links_count": 344,
+      "main_links": [
+        {
+          "text": "Ana i\u00e7eri\u011fe ge\u00e7",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "Ma\u011faza Bul",
+          "href": "https://www.nike.com/tr/retail"
+        },
+        {
+          "text": "Yard\u0131m",
+          "href": "https://www.nike.com/tr/help"
+        },
+        {
+          "text": "Yard\u0131m",
+          "href": "https://www.nike.com/tr/help"
+        },
+        {
+          "text": "Sipari\u015f Durumu",
+          "href": "https://www.nike.com/tr/orders"
+        },
+        {
+          "text": "Kargo ve Teslimat",
+          "href": "https://www.nike.com/tr/help/a/kargo-teslimat-gs"
+        },
+        {
+          "text": "\u0130adeler",
+          "href": "https://www.nike.com/tr/help/a/iade-politikasi-gs"
+        },
+        {
+          "text": "Beden/Numara \u00c7izelgeleri",
+          "href": "https://www.nike.com/tr/help/a/beden-numara-cizelgeleri-gs"
+        },
+        {
+          "text": "Bize Ula\u015f",
+          "href": "https://www.nike.com/tr/help/#contact"
+        },
+        {
+          "text": "Gizlilik Politikas\u0131",
+          "href": "https://agreementservice.svs.nike.com/tr/tr_tr/rest/agreement?agreementType=privacyPolicy&uxId=com.n"
+        },
+        {
+          "text": "Sat\u0131\u015f \u015eartlar\u0131",
+          "href": "https://www.eshopworld.com/terms-and-conditions-of-sale-tr/"
+        },
+        {
+          "text": "Kullan\u0131m \u015eartlar\u0131",
+          "href": "https://agreementservice.svs.nike.com/tr/tr_tr/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Bize Geri Bildirim G\u00f6nder",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Bize Kat\u0131l",
+          "href": "https://www.nike.com/tr/uyelik"
+        },
+        {
+          "text": "Oturum A\u00e7",
+          "href": "https://www.nike.com/tr/register"
+        },
+        {
+          "text": "Yeni",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-3n82y"
+        },
+        {
+          "text": "Yeni",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-3n82y"
+        },
+        {
+          "text": "T\u00fcm Yeni \u00c7\u0131kan \u00dcr\u00fcnleri \u0130ncele",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-3n82y"
+        },
+        {
+          "text": "En \u00c7ok Satan \u00dcr\u00fcnler",
+          "href": "https://www.nike.com/tr/w/en-cok-satan-urunler-76m50"
+        },
+        {
+          "text": "SNKRS Lansman Takvimi",
+          "href": "https://www.nike.com/gb/launch/upcoming"
+        },
+        {
+          "text": "Yeni: 2026 Milli Tak\u0131m Formalar\u0131",
+          "href": "https://www.nike.com/tr/w/national-team-futbol-1gdj0zav9de"
+        },
+        {
+          "text": "\u00d6ne \u00c7\u0131kanlar",
+          "href": "https://www.nike.com/tr/w/yeni-cikanlar-just-in-3apgqz3n82y"
+        },
+        {
+          "text": "Jordan x Brasil Futebol",
+          "href": "https://www.nike.com/tr/w/jordan-x-brasil-futebol-3eilk"
+        },
+        {
+          "text": "Yeni Krampon: Kylian Mbapp\u00e9",
+          "href": "https://www.nike.com/tr/w/kylian-mbappe-ayakkabilar-8hwqczy7ok"
+        },
+        {
+          "text": "Nike Tech D\u00fcnyas\u0131",
+          "href": "https://www.nike.com/tr/nike-tech"
+        },
+        {
+          "text": "Jordan: Gece G\u00fcnd\u00fcz",
+          "href": "https://www.nike.com/tr/w/kadin-jordan-37eefz5e1x6"
+        },
+        {
+          "text": "Trend \u00dcr\u00fcnler",
+          "href": "https://www.nike.com/tr/w/en-cok-satan-urunler-76m50"
+        },
+        {
+          "text": "Maraton Ayakkab\u0131lar\u0131",
+          "href": "https://www.nike.com/tr/w/marathon-distance-ayakkabilar-6vbyfzy7ok"
+        },
+        {
+          "text": "Spor Giysileri",
+          "href": "https://www.nike.com/tr/w/nike-sportswear-giysiler-43h4uz6ymx6"
+        },
+        {
+          "text": "Elit Futbol Kramponlar\u0131",
+          "href": "https://www.nike.com/tr/w/elite-futbol-ayakkabilar-1gdj0z9vmnhzy7ok"
+        }
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Ara"
+            }
+          ]
+        }
+      ],
+      "images_count": 16,
+      "images_with_alt": 13,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Just Do It."
+        },
+        {
+          "level": 2,
+          "text": "Spora G\u00f6re \u0130ncele"
+        },
+        {
+          "level": 2,
+          "text": "Kategoriye G\u00f6re \u0130ncele"
+        },
+        {
+          "level": 2,
+          "text": "Kategoriye G\u00f6re \u0130ncele"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 2,
+          "text": "Americas"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Ara"
+        }
+      ],
+      "meta_description": "Nike, sporculara ilham vermek i\u00e7in yenilik\u00e7i \u00fcr\u00fcnler, deneyimler ve hizmetler sunar.",
+      "meta_viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+      "has_og_tags": true,
+      "scripts_count": 94,
+      "stylesheets_count": 4,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 82,
+      "footer_links": [
+        "Ma\u011faza Bul",
+        "Nike Journal",
+        "\u00dcye Ol",
+        "Geri Bildirim",
+        "Promosyon Kodlar\u0131",
+        "Yard\u0131m Al",
+        "Sipari\u015f Durumu",
+        "Kargo ve Teslimat",
+        "\u0130adeler",
+        "\u00d6deme Se\u00e7enekleri",
+        "Bize Ula\u015f",
+        "\u0130ncelemeler",
+        "Nike Hakk\u0131nda",
+        "Haberler",
+        "Kariyer",
+        "Yat\u0131r\u0131mc\u0131lar",
+        "S\u00fcrd\u00fcr\u00fclebilirlik",
+        "Ama\u00e7",
+        "Endi\u015fe Bildir",
+        "Kaynaklar"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_selector": "U",
+        "related_items": "U",
+        "stock_availability": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment_methods": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "written_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#000000",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Extensive help center",
+        "Order tracking capability",
+        "Return information visible"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Social login",
+        "Guest checkout option",
+        "Product descriptions",
+        "Price display",
+        "Size/variant selector",
+        "Related/similar items",
+        "Stock availability indicator",
+        "Add to cart button",
+        "Promo code field",
+        "Multiple payment methods",
+        "Estimated delivery date",
+        "Star ratings",
+        "Written customer reviews",
+        "Review photos",
+        "Wishlist",
+        "Recently viewed items",
+        "Personalized recommendations",
+        "Push notification prompt",
+        "Live chat",
+        "Phone number"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "flipkart",
+    "url": "https://www.flipkart.com",
+    "scanned_at": "2026-03-31T20:21:50.318443",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/flipkart_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/flipkart_mobile.png"
+    },
+    "structure": {
+      "title": "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!",
+      "url_final": "https://www.flipkart.com/",
+      "nav_items": [
+        {
+          "text": "Search Icon",
+          "href": "/searchsuggestion"
+        },
+        {
+          "text": "Login",
+          "href": "/account/login?ret=/"
+        },
+        {
+          "text": "New customer?Sign Up",
+          "href": "/account/login?signup=true&ret=/"
+        },
+        {
+          "text": "My Profile",
+          "href": "/account/?rd=0&link=home_account"
+        },
+        {
+          "text": "Flipkart Plus Zone",
+          "href": "/plus"
+        },
+        {
+          "text": "Orders",
+          "href": "/account/orders?link=home_orders"
+        },
+        {
+          "text": "Wishlist",
+          "href": "/wishlist?link=home_wishlist"
+        },
+        {
+          "text": "Become a Seller",
+          "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+        },
+        {
+          "text": "Rewards",
+          "href": "/account/rewards?link=home_rewards"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/the-gift-card-store?link=home_giftcard"
+        },
+        {
+          "text": "Notification Preferences",
+          "href": "/communication-preferences/push?t=all"
+        },
+        {
+          "text": "24x7 Customer Care",
+          "href": "/helpcentre"
+        },
+        {
+          "text": "Advertise",
+          "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+        },
+        {
+          "text": "Download App",
+          "href": "/mobile-apps?otracker=ch_vn_mobile_apps"
+        },
+        {
+          "text": "Login",
+          "href": "/account/login?ret=/"
+        },
+        {
+          "text": "More",
+          "href": "#"
+        },
+        {
+          "text": "Become a Seller",
+          "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+        },
+        {
+          "text": "Notification Settings",
+          "href": "/communication-preferences/push?t=all"
+        },
+        {
+          "text": "24x7 Customer Care",
+          "href": "/helpcentre"
+        },
+        {
+          "text": "Advertise on Flipkart",
+          "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+        }
+      ],
+      "buttons": [
+        "Search Icon",
+        "Search Icon",
+        "Request OTP"
+      ],
+      "links_count": 405,
+      "main_links": [
+        {
+          "text": "Location not setSelect delivery location",
+          "href": ""
+        },
+        {
+          "text": "Search Icon",
+          "href": "/searchsuggestion"
+        },
+        {
+          "text": "Login",
+          "href": "/account/login?ret=/"
+        },
+        {
+          "text": "New customer?Sign Up",
+          "href": "/account/login?signup=true&ret=/"
+        },
+        {
+          "text": "My Profile",
+          "href": "/account/?rd=0&link=home_account"
+        },
+        {
+          "text": "Flipkart Plus Zone",
+          "href": "/plus"
+        },
+        {
+          "text": "Orders",
+          "href": "/account/orders?link=home_orders"
+        },
+        {
+          "text": "Wishlist",
+          "href": "/wishlist?link=home_wishlist"
+        },
+        {
+          "text": "Become a Seller",
+          "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+        },
+        {
+          "text": "Rewards",
+          "href": "/account/rewards?link=home_rewards"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/the-gift-card-store?link=home_giftcard"
+        },
+        {
+          "text": "Notification Preferences",
+          "href": "/communication-preferences/push?t=all"
+        },
+        {
+          "text": "24x7 Customer Care",
+          "href": "/helpcentre"
+        },
+        {
+          "text": "Advertise",
+          "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+        },
+        {
+          "text": "Download App",
+          "href": "/mobile-apps?otracker=ch_vn_mobile_apps"
+        },
+        {
+          "text": "Login",
+          "href": "/account/login?ret=/"
+        },
+        {
+          "text": "More",
+          "href": "#"
+        },
+        {
+          "text": "Become a Seller",
+          "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+        },
+        {
+          "text": "Notification Settings",
+          "href": "/communication-preferences/push?t=all"
+        },
+        {
+          "text": "24x7 Customer Care",
+          "href": "/helpcentre"
+        },
+        {
+          "text": "Advertise on Flipkart",
+          "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+        },
+        {
+          "text": "Cart",
+          "href": "/viewcart?marketplace=FLIPKART"
+        },
+        {
+          "text": "For You",
+          "href": "https://www.flipkart.com/"
+        },
+        {
+          "text": "Fashion",
+          "href": "/aw-base-new-inline-2025-at-store"
+        },
+        {
+          "text": "Mobiles",
+          "href": "/mobile-phone-ab-at-store"
+        },
+        {
+          "text": "Beauty",
+          "href": "/bpc-bau-new-inline-at-store"
+        },
+        {
+          "text": "Electronics",
+          "href": "/new-elec-clp-march-at-store"
+        },
+        {
+          "text": "Home",
+          "href": "/home-kitchen-25-at-store"
+        },
+        {
+          "text": "Appliances",
+          "href": "/tv-and-appliances-inline-ab-at-store"
+        },
+        {
+          "text": "Toys, baby..",
+          "href": "/toys-baby-2025-new-at-store"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Search for Products, Brands and More"
+            },
+            {
+              "type": "hidden",
+              "name": "otracker",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "otracker1",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "marketplace",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "as-show",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "as",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 87,
+      "images_with_alt": 73,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Flipkart: India's Ultimate One-Stop Online Shopping Destination"
+        },
+        {
+          "level": 2,
+          "text": "What Can You Buy from Flipkart?"
+        },
+        {
+          "level": 2,
+          "text": "Flipkart Loyalty and Rewards Program"
+        },
+        {
+          "level": 2,
+          "text": "Payment and Affordability: Shop Smart, Pay Smarter"
+        },
+        {
+          "level": 2,
+          "text": "Flipkart Flights: Book Your Next Getaway Effortlessly"
+        },
+        {
+          "level": 2,
+          "text": "Flipkart Minutes: Groceries and Gadgets in a Flash"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Search for Products, Brands and More"
+        },
+        {
+          "type": "hidden",
+          "name": "otracker",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "otracker1",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "marketplace",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "as-show",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "as",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Search for Products, Brands and More"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,minimum-scale=1,user-scalable=no",
+      "has_og_tags": true,
+      "scripts_count": 20,
+      "stylesheets_count": 5,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 33,
+      "footer_links": [
+        "Brand Directory",
+        "Apple iPhone 17e",
+        "REDMI 15A",
+        "Samsung Galaxy A57",
+        "POCO C85x",
+        "POCO X8 Pro",
+        "Lumio Projectors",
+        "Bags for Men",
+        "Laptop Store",
+        "Mixer Juicer Grinder",
+        "Men's Shoes",
+        "Adidas Men's Shoes",
+        "Boat Earbuds",
+        "Body Lotion",
+        "Campus Shoes",
+        "Earphones",
+        "Red Tape Shoes",
+        "Men's Slippers",
+        "Helmets",
+        "Nike Shoes"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "related_items": "U",
+        "stock_availability": "U",
+        "shopping_cart": "Y",
+        "add_to_cart_button": "U",
+        "promo_code_field": "U",
+        "multiple_payment_methods": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "written_reviews": "U",
+        "review_photos": "U",
+        "wishlist_option": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notification_prompt": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "N",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Flipkart Plus Zone",
+        "Rewards Program",
+        "24x7 Customer Care"
+      ],
+      "missing_common_features": [
+        "Social login",
+        "Guest checkout option",
+        "Written customer reviews",
+        "Live chat widget",
+        "Contact form/email",
+        "Phone number visible"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "shopify_dawn",
+    "url": "https://themes.shopify.com/themes/dawn/styles/default/preview",
+    "scanned_at": "2026-03-31T20:22:22.779962",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/shopify_dawn_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/shopify_dawn_mobile.png"
+    },
+    "structure": {
+      "title": "Ecommerce Website Templates - Free and Premium Themes for Your Online Store.",
+      "url_final": "https://themes.shopify.com/themes/dawn/presets/dawn",
+      "nav_items": [
+        {
+          "text": "Shopify Theme Store",
+          "href": "/"
+        },
+        {
+          "text": "Large catalogs",
+          "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Small catalogs",
+          "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Free themes",
+          "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+        },
+        {
+          "text": "Selling in person",
+          "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+        },
+        {
+          "text": "Selling internationally",
+          "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+        },
+        {
+          "text": "Minimalist style",
+          "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Trending this week",
+          "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "New themes",
+          "href": "/collections/new-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Horizon themes",
+          "href": "/collections/horizon-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra"
+        },
+        {
+          "text": "All themes",
+          "href": "/themes?surface_detail=navbar-all-themes&surface_inter_position=2&surface_intra_position=1&surface_t"
+        },
+        {
+          "text": "Sign up",
+          "href": "https://admin.shopify.com/signup?_s=&_y=&account_signup=true&locale=en&signup_types%5B%5D=online_sto"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Large catalogs",
+          "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Small catalogs",
+          "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Free themes",
+          "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+        },
+        {
+          "text": "Selling in person",
+          "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+        },
+        {
+          "text": "Selling internationally",
+          "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+        },
+        {
+          "text": "Minimalist style",
+          "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Trending this week",
+          "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        }
+      ],
+      "buttons": [
+        "Clear",
+        "Browse themes",
+        "View demo",
+        "Start your free trial",
+        "Sign up",
+        "Log in"
+      ],
+      "links_count": 71,
+      "main_links": [
+        {
+          "text": "FreePrice",
+          "href": "/themes?price%5B%5D=free"
+        },
+        {
+          "text": "Jewelry and accessoriesIndustry",
+          "href": "/themes?industry%5B%5D=jewelry-and-accessories"
+        },
+        {
+          "text": "Some (11-100+)Catalog size",
+          "href": "/themes?catalog-size%5B%5D=some"
+        },
+        {
+          "text": "Food and drinkIndustry",
+          "href": "/themes?industry%5B%5D=food-and-drink"
+        },
+        {
+          "text": "Shopify Theme Store",
+          "href": "/"
+        },
+        {
+          "text": "Large catalogs",
+          "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Small catalogs",
+          "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Free themes",
+          "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+        },
+        {
+          "text": "Selling in person",
+          "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+        },
+        {
+          "text": "Selling internationally",
+          "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+        },
+        {
+          "text": "Minimalist style",
+          "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Trending this week",
+          "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "New themes",
+          "href": "/collections/new-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Horizon themes",
+          "href": "/collections/horizon-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra"
+        },
+        {
+          "text": "All themes",
+          "href": "/themes?surface_detail=navbar-all-themes&surface_inter_position=2&surface_intra_position=1&surface_t"
+        },
+        {
+          "text": "Sign up",
+          "href": "https://admin.shopify.com/signup?_s=&_y=&account_signup=true&locale=en&signup_types%5B%5D=online_sto"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Large catalogs",
+          "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Small catalogs",
+          "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "Free themes",
+          "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+        },
+        {
+          "text": "Selling in person",
+          "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+        },
+        {
+          "text": "Selling internationally",
+          "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+        },
+        {
+          "text": "Minimalist style",
+          "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Trending this week",
+          "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+        },
+        {
+          "text": "New themes",
+          "href": "/collections/new-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+        },
+        {
+          "text": "Horizon themes",
+          "href": "/collections/horizon-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra"
+        },
+        {
+          "text": "All themes",
+          "href": "/themes?surface_detail=navbar-all-themes&surface_inter_position=2&surface_intra_position=1&surface_t"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Sign up",
+          "href": "https://admin.shopify.com/signup?_s=&_y=&account_signup=true&locale=en&signup_types%5B%5D=online_sto"
+        },
+        {
+          "text": "TryTry theme",
+          "href": "https://themes.shopify.com/login?signup_theme=dawn--dawn&ux=signup"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/themes",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search by feature, style, or designer"
+            }
+          ]
+        },
+        {
+          "action": "https://themes.shopify.com/set_locale",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "authenticity_token",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "locale",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 20,
+      "images_with_alt": 16,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Dawn"
+        },
+        {
+          "level": 1,
+          "text": "Dawn"
+        },
+        {
+          "level": 2,
+          "text": "Features"
+        },
+        {
+          "level": 2,
+          "text": "Reviews"
+        },
+        {
+          "level": 2,
+          "text": "Designed by Shopify"
+        },
+        {
+          "level": 2,
+          "text": "More themes for bags"
+        },
+        {
+          "level": 2,
+          "text": "The world\u2019s best online stores use Shopify themes"
+        },
+        {
+          "level": 3,
+          "text": "Cart and checkout"
+        },
+        {
+          "level": 3,
+          "text": "Marketing and conversion"
+        },
+        {
+          "level": 3,
+          "text": "Merchandising"
+        },
+        {
+          "level": 3,
+          "text": "Product discovery"
+        },
+        {
+          "level": 3,
+          "text": "Cart and checkout"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search by feature, style, or designer"
+        },
+        {
+          "type": "hidden",
+          "name": "authenticity_token",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "Explore all 800+ free and paid Shopify themes to launch your online store with.",
+      "meta_viewport": "width=device-width, initial-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 9,
+      "stylesheets_count": 3,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 47,
+      "footer_links": [
+        "Clothing",
+        "Beauty",
+        "Jewelry and accessories",
+        "Home",
+        "All themes",
+        "Free themes",
+        "Shopify Help Center",
+        "API Documentation",
+        "Shopify Community",
+        "Blogs",
+        "About",
+        "Partners",
+        "Legal",
+        "Service status",
+        "Terms of Service",
+        "Privacy Policy",
+        "Your Privacy Choices",
+        "Sitemap"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart_button": "N",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery_date": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "N",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Search bar",
+        "Category navigation",
+        "Trending items section",
+        "Responsive design",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Guest checkout option",
+        "Social login"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "adidas",
+    "url": "https://www.adidas.com",
+    "scanned_at": "2026-03-31T20:22:55.538965",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/adidas_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/adidas_mobile.png"
+    },
+    "structure": {
+      "title": "adidas",
+      "url_final": "https://www.adidas.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Unfortunately we are unable to give you access to our site at this time."
+        },
+        {
+          "level": 3,
+          "text": "What could have caused this?"
+        },
+        {
+          "level": 3,
+          "text": "How can I resolve this?"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no",
+      "has_og_tags": false,
+      "scripts_count": 0,
+      "stylesheets_count": 1,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "U",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "#N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option",
+        "Product/item images",
+        "Add to cart button",
+        "Help center link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea",
+    "url": "https://www.ikea.com",
+    "scanned_at": "2026-03-31T20:23:23.740868",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/ikea_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/ikea_mobile.png"
+    },
+    "structure": {
+      "title": "Hej! Welcome to IKEA Global",
+      "url_final": "https://www.ikea.com/",
+      "nav_items": [
+        {
+          "text": "Stories",
+          "href": "https://www.ikea.com/global/en/stories/"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://www.ikea.com/global/en/jobs/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "https://www.ikea.com/global/en/newsroom/"
+        },
+        {
+          "text": "Our business",
+          "href": "https://www.ikea.com/global/en/our-business/"
+        }
+      ],
+      "buttons": [
+        "IKEA.com.tr(en)",
+        "Open main menu",
+        "Close main menu",
+        "Store:IKEA.com.tr(en)",
+        "Store:IKEA.com.tr(en)",
+        "Pause video",
+        "Cookie settings",
+        "Accept",
+        "Reject",
+        "Cookie settings"
+      ],
+      "links_count": 181,
+      "main_links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "Stories",
+          "href": "https://www.ikea.com/global/en/stories/"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://www.ikea.com/global/en/jobs/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "https://www.ikea.com/global/en/newsroom/"
+        },
+        {
+          "text": "Our business",
+          "href": "https://www.ikea.com/global/en/our-business/"
+        },
+        {
+          "text": "Go shoppingGo shopping at IKEA dot c om.tr(English",
+          "href": "https://www.ikea.com.tr/en/"
+        },
+        {
+          "text": "Go shopping at IKEA dot c om.tr(English), or use t",
+          "href": "https://www.ikea.com.tr/en/"
+        },
+        {
+          "text": "Stories",
+          "href": "https://www.ikea.com/global/en/stories/"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://www.ikea.com/global/en/jobs/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "https://www.ikea.com/global/en/newsroom/"
+        },
+        {
+          "text": "Our business",
+          "href": "https://www.ikea.com/global/en/our-business/"
+        },
+        {
+          "text": "The man behind IKEA100 years of Ingvar Kamprad",
+          "href": "https://www.ikea.com/global/en/stories/our-roots/ingvar-kamprad-100-years-260330/"
+        },
+        {
+          "text": "Go shopping at IKEA dot c om.tr(English), or use t",
+          "href": "https://www.ikea.com.tr/en/"
+        },
+        {
+          "text": "IKEA Catalogue time capsuleRewind to the '90s",
+          "href": "https://www.ikea.com/global/en/stories/our-roots/1996-time-capsule-260225/"
+        },
+        {
+          "text": "A family-friendly hallwayGet ready, get set, go!",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/designer-room-colourful-family-hallway-2603"
+        },
+        {
+          "text": "Let your home come out to playThe GREJSIMOJS colle",
+          "href": "https://www.ikea.com/global/en/stories/design/grejsimojs-collection-260204/"
+        },
+        {
+          "text": "50L Home CoalitionPowerful ways to save water at h",
+          "href": "https://www.ikea.com/global/en/stories/sustainability/saving-water-in-the-home-260323/"
+        },
+        {
+          "text": "Two green thumbs up for spring!Give your outdoor s",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/outdoor-space-ideas-260311/"
+        },
+        {
+          "text": "Style reportBlue & white with a touch of terracott",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/style-report-blue-and-white-bedroom-260304/"
+        },
+        {
+          "text": "Oh, what a year!The IKEA Yearbook",
+          "href": "https://www.ikea.com/global/en/stories/ikea-around-the-world/yearbook-2025-251231/"
+        },
+        {
+          "text": "Cosy country styleCook up a feast in this cottagec",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/country-kitchen-ideas-251217/"
+        },
+        {
+          "text": "IKEA x Teklan collaborationSound, light, colour!",
+          "href": "https://www.ikea.com/global/en/stories/design/teklan-light-and-sound-251210/"
+        },
+        {
+          "text": "Kitchen storage ideasA pantry with room for more",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/food-storage-ideas-260218/"
+        },
+        {
+          "text": "And we have a winner!The IKEA Talents cook-off",
+          "href": "https://www.ikea.com/global/en/stories/ikea-around-the-world/ikea-talents-cook-off-260212/"
+        },
+        {
+          "text": "A bedroom fit for springA fresh start",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/spring-bedroom-refresh-260128/"
+        },
+        {
+          "text": "A dining room filled with festive cheerAlways room",
+          "href": "https://www.ikea.com/global/en/stories/ideas-inspiration/a-dining-room-with-space-for-one-more-25112"
+        },
+        {
+          "text": "Production development at IKEAPaint innovation is ",
+          "href": "https://www.ikea.com/global/en/stories/sustainability/new-paint-technology-250930/"
+        },
+        {
+          "text": "Behind the scenes with IVARMeeting an icon",
+          "href": "https://www.ikea.com/global/en/stories/sustainability/ivar-system-hedlunda-factory-250917/"
+        },
+        {
+          "text": "Water innovation at IKEAFinding the perfect flow",
+          "href": "https://www.ikea.com/global/en/stories/sustainability/water-innovation-ikea-250827/"
+        },
+        {
+          "text": "IKEA home smartSleep smartly",
+          "href": "https://www.ikea.com/global/en/stories/design/ikea-home-smart-for-better-sleep-241210/"
+        }
+      ],
+      "forms": [],
+      "images_count": 50,
+      "images_with_alt": 35,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to IKEA Global!"
+        },
+        {
+          "level": 2,
+          "text": "A peek behind the scenes"
+        },
+        {
+          "level": 2,
+          "text": "Designer stories"
+        },
+        {
+          "level": 2,
+          "text": "KUNGSCISSUS"
+        },
+        {
+          "level": 2,
+          "text": "ANNIKEN"
+        },
+        {
+          "level": 2,
+          "text": "FREDRIKA"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Find online store"
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Find online store"
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Find online store"
+        }
+      ],
+      "meta_description": "Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!",
+      "meta_viewport": "width=device-width, minimum-scale=1.0, initial-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 13,
+      "stylesheets_count": 11,
+      "has_lang_attr": true,
+      "has_skip_link": true,
+      "aria_labels_count": 35,
+      "footer_links": [
+        "International Sales",
+        "Inter IKEA Group",
+        "IKEA Foundation",
+        "IKEA Museum",
+        "IKEA Social Entrepreneurship",
+        "FAQs",
+        "Privacy & Cookie statement",
+        "Contact IKEA / Submit complaint",
+        "Sitemap",
+        "Accessibility"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "U",
+        "trending_items": "N",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#F6F6F6",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Cookie consent banner",
+        "Help center link",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Login/signup option",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking capability"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "costco",
+    "url": "https://www.costco.com",
+    "scanned_at": "2026-03-31T20:23:53.401717",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/costco_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/costco_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.costco.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "",
+      "has_og_tags": false,
+      "scripts_count": 0,
+      "stylesheets_count": 0,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "none",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFFFFF",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option",
+        "Product/item images",
+        "Shopping cart",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "newegg",
+    "url": "https://www.newegg.com",
+    "scanned_at": "2026-03-31T20:24:22.176927",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/newegg_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/newegg_mobile.png"
+    },
+    "structure": {
+      "title": "Electronics Store: Tech, PC Parts, AI PC & More | Newegg",
+      "url_final": "https://www.newegg.com/",
+      "nav_items": [
+        {
+          "text": "Help Center",
+          "href": "https://kb.newegg.com"
+        },
+        {
+          "text": "Track an Order",
+          "href": "https://secure.newegg.com/orders/find?Source=1"
+        },
+        {
+          "text": "Return an Item",
+          "href": "https://secure.newegg.com/orders/find?Source=2"
+        },
+        {
+          "text": "Return Policy",
+          "href": "https://www.newegg.com/promotions/nepro/22-0073/index.html?cm_sp=cs_menu-_-return_policy"
+        },
+        {
+          "text": "Privacy & Security",
+          "href": "https://kb.newegg.com/Article/Index/12/3?id=1166"
+        },
+        {
+          "text": "Feedback",
+          "href": ""
+        },
+        {
+          "text": "Login/Register",
+          "href": "https://secure.newegg.com/login/signin"
+        },
+        {
+          "text": "Browsing History",
+          "href": "https://www.newegg.com/d/browsing-history"
+        },
+        {
+          "text": "Order History",
+          "href": "https://secure.newegg.com/orders/list"
+        },
+        {
+          "text": "Returns History",
+          "href": "https://secure.newegg.com/returns/list"
+        },
+        {
+          "text": "Address Book",
+          "href": "https://secure.newegg.com/account/addressbook"
+        },
+        {
+          "text": "Wish Lists",
+          "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2FwishList%2Fm"
+        },
+        {
+          "text": "My Build Lists",
+          "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2Fpcbuilder%2Fm"
+        },
+        {
+          "text": "My Build Showcase",
+          "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2Fcompletedbuilds%2F"
+        },
+        {
+          "text": "Email Notifications",
+          "href": "https://secure.newegg.com/notifications/guestemail"
+        },
+        {
+          "text": "Subscriptions Orders",
+          "href": "https://secure.newegg.com/orders/subscription"
+        },
+        {
+          "text": "Auto Notifications",
+          "href": "https://secure.newegg.com/notifications/autonotify"
+        },
+        {
+          "text": "About Newegg",
+          "href": "https://www.newegg.com/corporate/about"
+        },
+        {
+          "text": "Investor Relations",
+          "href": "https://investors.newegg.com/"
+        },
+        {
+          "text": "Newegg Student Internship Program",
+          "href": "https://www.newegg.com/NSIP"
+        }
+      ],
+      "buttons": [
+        "Close this dialog",
+        "Close Cookie Preferences",
+        "Search",
+        "Build with it",
+        "Build with it",
+        "Build with it",
+        "Build with it",
+        "Build with it",
+        "Build with it",
+        "Sign up",
+        "Send Link",
+        "COMPARE",
+        "Clear All",
+        "COPY Link",
+        "Feedback",
+        "Help Center",
+        "See all deals"
+      ],
+      "links_count": 3450,
+      "main_links": [
+        {
+          "text": "Privacy Policy",
+          "href": "https://kb.newegg.com/knowledge-base/privacy-policy-newegg/"
+        },
+        {
+          "text": "HelloSelect address",
+          "href": "#"
+        },
+        {
+          "text": "2k monitor",
+          "href": "https://www.newegg.com/p/pl?d=2k+monitor"
+        },
+        {
+          "text": "seagate ironwolf",
+          "href": "https://www.newegg.com/p/pl?d=seagate+ironwolf"
+        },
+        {
+          "text": "dual 8 pin to 16 pin gpu adapter",
+          "href": "https://www.newegg.com/p/pl?d=dual+8+pin+to+16+pin+gpu+adapter"
+        },
+        {
+          "text": "server",
+          "href": "https://www.newegg.com/p/pl?d=server"
+        },
+        {
+          "text": "amd graphics card",
+          "href": "https://www.newegg.com/p/pl?d=amd+graphics+card"
+        },
+        {
+          "text": "Change Country",
+          "href": ""
+        },
+        {
+          "text": "WelcomeSign In / Register",
+          "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fwww.newegg.com%2F"
+        },
+        {
+          "text": "Returns& Orders",
+          "href": "https://secure.newegg.com/orders/list"
+        },
+        {
+          "text": "Shell Shocker",
+          "href": "https://www.newegg.com/Shell-Shocker/EventSaleStore/ID-10381?cm_sp=todaysdeal_alldeals_entrance-_-Ro"
+        },
+        {
+          "text": "Email Deals",
+          "href": "https://promotions.newegg.com/neemail/latest/index-landing.html?cm_sp=emaildeals_entrance-_-Rollover"
+        },
+        {
+          "text": "Clearance Deals",
+          "href": "https://www.newegg.com/ClearanceStore/EventSaleStore/ID-697?cm_sp=Clearance_entrance-_-RolloverMenu"
+        },
+        {
+          "text": "Trade In",
+          "href": "https://www.newegg.com/promotions/nepro/23-1322/index.html?cm_sp=Tradein_entrance-_-RolloverMenu"
+        },
+        {
+          "text": "Newegg Store Credit Card",
+          "href": "https://www.newegg.com/promotions/nepro/18-1881/index.html?cm_sp=neweggstorecreditcard_entrance-_-Ro"
+        },
+        {
+          "text": "Build. Upgrade. Save",
+          "href": "//www.newegg.com/Build-Upgrade-Save/EventSaleStore/ID-1133"
+        },
+        {
+          "text": "PC Builder",
+          "href": "//www.newegg.com/tools/custom-pc-builder?cm_sp=hamburger-_-shopping-tools-_-PC-Builder"
+        },
+        {
+          "text": "Gaming PC Finder",
+          "href": "//www.newegg.com/tools/gaming-pc-finder/"
+        },
+        {
+          "text": "PC Upgrader",
+          "href": "//www.newegg.com/tools/pc-upgrader?cm_sp=shopping-tools-_-pc-upgrader"
+        },
+        {
+          "text": "Laptop Finder",
+          "href": "//www.newegg.com/tools/laptop-finder?cm_sp=hamburger-_-shopping-tools-_-laptop-finder"
+        },
+        {
+          "text": "Memory Finder",
+          "href": "//www.newegg.com/tools/memory-finder?cm_sp=hamburger-_-shopping-tools-_-memory-finder"
+        },
+        {
+          "text": "Network Builder",
+          "href": "//www.newegg.com/tools/networking-builder?cm_sp=hamburger-_-shopping-tools-_-network-builder"
+        },
+        {
+          "text": "NAS Builder",
+          "href": "//www.newegg.com/tools/nas-builder?cm_sp=hamburger-_-shopping-tools-_-nas-buidler"
+        },
+        {
+          "text": "Server Builder",
+          "href": "//www.newegg.com/server-system-configurator/"
+        },
+        {
+          "text": "ASUS NUC Configurator",
+          "href": "//www.newegg.com/asus-nuc-configurator?cm_sp=hamburger-_-shopping-tools-_-asus-nuc-config"
+        },
+        {
+          "text": "Game Room BuilderNEW",
+          "href": "//www.newegg.com/tools/game-room-builder?cm_sp=hamburger-_-shopping-tools-_-game-room-builder"
+        },
+        {
+          "text": "Power Supply Wattage Calculator",
+          "href": "//www.newegg.com/tools/power-supply-calculator?cm_sp=hamburger-_-shopping-tools-_-power-supply-calcu"
+        },
+        {
+          "text": "Build Showcases",
+          "href": "//www.newegg.com/tools/custom-pc-builder/showcase/featured-builds"
+        },
+        {
+          "text": "Components & Storage",
+          "href": "https://www.newegg.com/Components-Storage/Store/ID-1"
+        },
+        {
+          "text": "CPU / Processor",
+          "href": "https://www.newegg.com/CPU-Processor/Category/ID-34"
+        }
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://secure.newegg.com/notifications/api/newslettersubscribe?Action=Manage&source=Footer",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "LoginName",
+              "placeholder": "Enter your e-mail address"
+            },
+            {
+              "type": "hidden",
+              "name": "Subscribe",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 111,
+      "images_with_alt": 109,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Today\u2019s Best Deals"
+        },
+        {
+          "level": 2,
+          "text": "Everyday Tech Essentials"
+        },
+        {
+          "level": 2,
+          "text": "All Laptop"
+        },
+        {
+          "level": 2,
+          "text": "NAS & Network Storage"
+        },
+        {
+          "level": 2,
+          "text": "Software & Services"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "LoginName",
+          "placeholder": "Enter your e-mail address"
+        },
+        {
+          "type": "hidden",
+          "name": "Subscribe",
+          "placeholder": ""
+        },
+        {
+          "type": "tel",
+          "name": "",
+          "placeholder": "Enter your phone number"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Must be 11 characters"
+        },
+        {
+          "type": "radio",
+          "name": "radio1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "radio1",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "Shop Newegg today for all of your gaming, PC & technology needs. Don\u2019t miss today\u2019s best electronics deals with fast shipping & great customer service!",
+      "meta_viewport": "width=device-width, initial-scale=1, minimal-ui, viewport-fit=cover",
+      "has_og_tags": true,
+      "scripts_count": 92,
+      "stylesheets_count": 2,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 306,
+      "footer_links": [
+        "View Latest Email Deals",
+        "Help Center",
+        "Track an Order",
+        "Return an Item",
+        "Return Policy",
+        "Privacy & Security",
+        "Feedback",
+        "Login/Register",
+        "Browsing History",
+        "Order History",
+        "Returns History",
+        "Address Book",
+        "Wish Lists",
+        "My Build Lists",
+        "My Build Showcase",
+        "Email Notifications",
+        "Subscriptions Orders",
+        "Auto Notifications",
+        "About Newegg"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_banner": "U",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_navigation": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFFFFF",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Extensive help center",
+        "Multiple build lists feature",
+        "Email notifications for deals"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Multiple payment methods",
+        "Star ratings",
+        "Written customer reviews",
+        "Live chat",
+        "Contact form"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "overstock",
+    "url": "https://www.overstock.com",
+    "scanned_at": "2026-03-31T20:24:54.748752",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/overstock_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/overstock_mobile.png"
+    },
+    "structure": {
+      "title": "Bed Bath & Beyond | The Best Deals Online: Furniture, Bedding, Rugs, Kitchen Essentials & Moree",
+      "url_final": "https://www.overstock.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Heart",
+          "href": "/profile/me/lists"
+        },
+        {
+          "text": "Bell",
+          "href": ""
+        },
+        {
+          "text": "Cart Empty0",
+          "href": "/cart"
+        }
+      ],
+      "buttons": [
+        "Search",
+        "Search"
+      ],
+      "links_count": 4,
+      "main_links": [
+        {
+          "text": "Heart",
+          "href": "/profile/me/lists"
+        },
+        {
+          "text": "Bell",
+          "href": ""
+        },
+        {
+          "text": "Cart Empty0",
+          "href": "/cart"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "keywords",
+              "placeholder": "Search... everything ships for free"
+            }
+          ]
+        },
+        {
+          "action": "/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "keywords",
+              "placeholder": "Search... everything ships for free"
+            }
+          ]
+        }
+      ],
+      "images_count": 4,
+      "images_with_alt": 3,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "keywords",
+          "placeholder": "Search... everything ships for free"
+        },
+        {
+          "type": "text",
+          "name": "keywords",
+          "placeholder": "Search... everything ships for free"
+        }
+      ],
+      "meta_description": "Let BedBathandBeyond.com help you discover designer brands & home goods at the lowest prices online. With free shipping on EVERYTHING*. See for yourself why shoppers love our selection & award-winning",
+      "meta_viewport": "width=device-width, user-scalable=no",
+      "has_og_tags": false,
+      "scripts_count": 1,
+      "stylesheets_count": 2,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 4,
+      "footer_links": [],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "Y",
+        "return_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFFFFF",
+      "design_quality_1_to_10": 7,
+      "notable_features": [
+        "Search bar",
+        "User account features",
+        "Responsive design"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Multiple payment methods",
+        "Customer support options"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "b&h_photo",
+    "url": "https://www.bhphotovideo.com",
+    "scanned_at": "2026-03-31T20:25:23.243635",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/b&h_photo_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/b&h_photo_mobile.png"
+    },
+    "structure": {
+      "title": "B&H Photo Video Digital Cameras, Photography, Computers",
+      "url_final": "https://www.bhphotovideo.com/",
+      "nav_items": [
+        {
+          "text": "Photography",
+          "href": "/c/browse/Photography/ci/989/N/4294538916"
+        },
+        {
+          "text": "Computers",
+          "href": "/c/browse/Computers-Solutions/ci/9581"
+        },
+        {
+          "text": "Pro Video",
+          "href": "/c/browse/Professional-Video/ci/3755/N/4294545851"
+        },
+        {
+          "text": "Lighting",
+          "href": "/c/browse/Lighting-Studio/ci/1161/N/4294551176"
+        },
+        {
+          "text": "Pro Audio",
+          "href": "/c/browse/Professional-Audio/ci/12154"
+        },
+        {
+          "text": "Drones",
+          "href": "/c/browse/drone-with-camera/ci/27989/N/3765401970"
+        },
+        {
+          "text": "Camcorders",
+          "href": "/c/browse/Camcorders/ci/1820/N/4294548420"
+        },
+        {
+          "text": "TVs & Entertainment",
+          "href": "/c/browse/Home-Entertainment/ci/4600/N/4294544179"
+        },
+        {
+          "text": "Audio-Visual",
+          "href": "/c/browse/A-V-Presentation/ci/3644/N/4294546288"
+        },
+        {
+          "text": "Optics",
+          "href": "/c/browse/optics/ci/978"
+        },
+        {
+          "text": "Mobile",
+          "href": "/c/browse/Portable-Entertainment/ci/8565"
+        },
+        {
+          "text": "Surveillance",
+          "href": "/c/browse/Surveillance-Video/ci/3496/N/4293342959"
+        },
+        {
+          "text": "More...",
+          "href": "/c/browse/more/ci/47088"
+        },
+        {
+          "text": "Used",
+          "href": "/c/browse/Used-Equipment/ci/2870/N/4294247188"
+        },
+        {
+          "text": "Specials",
+          "href": "/deals-promotions-coupons"
+        }
+      ],
+      "buttons": [
+        "Press\u200e\u21b5 Enter\u200efor Accessibility for blind peoplewh",
+        "Press\u200e\u21b5 Enter\u200efor Keyboard Navigation",
+        "Press\u200e\u21b5 Enter\u200efor Accessibility menu",
+        "B2B, Gov, Students & More",
+        "Accessibility",
+        "Live Chat",
+        "See Schedule Details",
+        "Feedback",
+        "Shop Now",
+        "Preorder",
+        "Shop Now",
+        "Sign up",
+        "Live Chat",
+        "Learn More"
+      ],
+      "links_count": 79,
+      "main_links": [
+        {
+          "text": "Download",
+          "href": "//www.google.com/chrome"
+        },
+        {
+          "text": "Download",
+          "href": "//www.apple.com/safari"
+        },
+        {
+          "text": "Download",
+          "href": "//www.mozilla.org/firefox/"
+        },
+        {
+          "text": "Download",
+          "href": "//www.microsoft.com/en-us/edge"
+        },
+        {
+          "text": "News, Tips & Reviews",
+          "href": "/explora"
+        },
+        {
+          "text": "B&H Gift Cards",
+          "href": "/find/eGiftCard.jsp"
+        },
+        {
+          "text": "Help",
+          "href": "/find/HelpCenter/helpcenter.jsp"
+        },
+        {
+          "text": "About Us",
+          "href": "/a/pages/aboutus"
+        },
+        {
+          "text": "My Cart",
+          "href": "/find/cart.jsp"
+        },
+        {
+          "text": "Photography",
+          "href": "/c/browse/Photography/ci/989/N/4294538916"
+        },
+        {
+          "text": "Computers",
+          "href": "/c/browse/Computers-Solutions/ci/9581"
+        },
+        {
+          "text": "Pro Video",
+          "href": "/c/browse/Professional-Video/ci/3755/N/4294545851"
+        },
+        {
+          "text": "Lighting",
+          "href": "/c/browse/Lighting-Studio/ci/1161/N/4294551176"
+        },
+        {
+          "text": "Pro Audio",
+          "href": "/c/browse/Professional-Audio/ci/12154"
+        },
+        {
+          "text": "Drones",
+          "href": "/c/browse/drone-with-camera/ci/27989/N/3765401970"
+        },
+        {
+          "text": "Camcorders",
+          "href": "/c/browse/Camcorders/ci/1820/N/4294548420"
+        },
+        {
+          "text": "TVs & Entertainment",
+          "href": "/c/browse/Home-Entertainment/ci/4600/N/4294544179"
+        },
+        {
+          "text": "Audio-Visual",
+          "href": "/c/browse/A-V-Presentation/ci/3644/N/4294546288"
+        },
+        {
+          "text": "Optics",
+          "href": "/c/browse/optics/ci/978"
+        },
+        {
+          "text": "Mobile",
+          "href": "/c/browse/Portable-Entertainment/ci/8565"
+        },
+        {
+          "text": "Surveillance",
+          "href": "/c/browse/Surveillance-Video/ci/3496/N/4293342959"
+        },
+        {
+          "text": "More...",
+          "href": "/c/browse/more/ci/47088"
+        },
+        {
+          "text": "Used",
+          "href": "/c/browse/Used-Equipment/ci/2870/N/4294247188"
+        },
+        {
+          "text": "Specials",
+          "href": "/deals-promotions-coupons"
+        },
+        {
+          "text": "Photography",
+          "href": "/c/browse/Photography/ci/989/N/4294538916"
+        },
+        {
+          "text": "Computers",
+          "href": "/c/browse/Computers-Solutions/ci/9581"
+        },
+        {
+          "text": "Pro Video",
+          "href": "/c/browse/Professional-Video/ci/3755/N/4294545851"
+        },
+        {
+          "text": "Lighting",
+          "href": "/c/browse/Lighting-Studio/ci/1161/N/4294551176"
+        },
+        {
+          "text": "Pro Audio",
+          "href": "/c/browse/Professional-Audio/ci/12154"
+        },
+        {
+          "text": "Drones",
+          "href": "/c/browse/drone-with-camera/ci/27989/N/3765401970"
+        }
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 8,
+      "images_with_alt": 5,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Please update your browser to take advantage of the latest technology securityen"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "Explore the world's largest independent electronics store for exceptional service, friendly support, and technological expertise for all your multimedia needs.",
+      "meta_viewport": "width=device-width, initial-scale=1.0 ",
+      "has_og_tags": false,
+      "scripts_count": 30,
+      "stylesheets_count": 2,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [
+        "Manage Existing Email Subscriptions",
+        "Return Policy",
+        "Track/Request a Return",
+        "Manage Catalog Subscription",
+        "Payments",
+        "International",
+        "Site Directory",
+        "Shop By Brand",
+        "All Help Topics",
+        "About B&H",
+        "Our NYC SuperStore",
+        "Hours of Operation",
+        "Payboo Credit Card",
+        "Affiliate Program"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFFFFF",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Live Chat",
+        "Accessibility options"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Login/signup option",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking",
+        "Privacy policy link"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "rei",
+    "url": "https://www.rei.com",
+    "scanned_at": "2026-03-31T20:25:52.944270",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rei.com/\nCall log:\n  - navigating to \"https://www.rei.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rei.com/\nCall log:\n  - navigating to \"https://www.rei.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "#N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option",
+        "Product/item images",
+        "Price display",
+        "Shopping cart",
+        "Help center/FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon",
+    "url": "https://www.decathlon.com",
+    "scanned_at": "2026-03-31T20:26:06.822018",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/decathlon_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/decathlon_mobile.png"
+    },
+    "structure": {
+      "title": "Decathlon America | Outdoor Sports Clothing & Gear",
+      "url_final": "https://www.decathlon.com/",
+      "nav_items": [
+        {
+          "text": "Sports",
+          "href": "/collections/shop-all?collection=10000"
+        },
+        {
+          "text": "Men",
+          "href": "/collections/mens?collection=20000"
+        },
+        {
+          "text": "Women",
+          "href": "/collections/womens?collection=30000"
+        },
+        {
+          "text": "Kids",
+          "href": "/collections/all-kids-outdoor-gear?collection=40000"
+        }
+      ],
+      "buttons": [
+        "Check out",
+        "Sports",
+        "Men",
+        "Women",
+        "Kids",
+        "Add to cartSold out",
+        "Choose options",
+        "Choose options",
+        "Choose options",
+        "Choose options",
+        "Add to cartSold out",
+        "Add to cartSold out",
+        "Add to cartSold out",
+        "Add to cartSold out",
+        "Add to cartSold out",
+        "Choose options",
+        "Choose options",
+        "Add to cartSold out",
+        "Choose options"
+      ],
+      "links_count": 571,
+      "main_links": [
+        {
+          "text": "Skip to content",
+          "href": "#MainContent"
+        },
+        {
+          "text": "Continue shopping",
+          "href": "/collections/all"
+        },
+        {
+          "text": "Log in",
+          "href": "https://www.decathlon.com/customer_authentication/redirect?locale=en&region_country=US"
+        },
+        {
+          "text": "shipping",
+          "href": "/policies/shipping-policy"
+        },
+        {
+          "text": "Free Shipping Over $49*",
+          "href": "/policies/shipping-policy"
+        },
+        {
+          "text": "Sports",
+          "href": "/collections/shop-all?collection=10000"
+        },
+        {
+          "text": "Men",
+          "href": "/collections/mens?collection=20000"
+        },
+        {
+          "text": "Women",
+          "href": "/collections/womens?collection=30000"
+        },
+        {
+          "text": "Kids",
+          "href": "/collections/all-kids-outdoor-gear?collection=40000"
+        },
+        {
+          "text": "View All",
+          "href": "/collections/new-arrivals?collection=11000"
+        },
+        {
+          "text": "New Hike & Camp",
+          "href": "/collections/new-arrivals-hike-camp?collection=11100"
+        },
+        {
+          "text": "New Running",
+          "href": "/collections/new-arrivals-running?collection=11200"
+        },
+        {
+          "text": "New Bike & Cycling",
+          "href": "/collections/new-arrivals-bike-cycling?collection=11300"
+        },
+        {
+          "text": "View All",
+          "href": "/collections/camp-hike?collection=12000"
+        },
+        {
+          "text": "View All",
+          "href": "/collections/backpacks-bags?collection=12100"
+        },
+        {
+          "text": "Laptop Backpacks",
+          "href": "/collections/lifestyle-packs?collection=12110"
+        },
+        {
+          "text": "Daypacks",
+          "href": "/collections/daypacks?collection=12120"
+        },
+        {
+          "text": "Hiking Backpacks",
+          "href": "/collections/all-hiking-backpacks?collection=12130"
+        },
+        {
+          "text": "Backpacking Packs",
+          "href": "/collections/backpacking-packs?collection=12140"
+        },
+        {
+          "text": "Travel Backpacks",
+          "href": "/collections/travel-packs?collection=12150"
+        },
+        {
+          "text": "Duffel Bags",
+          "href": "/collections/duffel-bags?collection=12160"
+        },
+        {
+          "text": "Mountaineering Backpacks",
+          "href": "/collections/mountaineering-backpacks?collection=12170"
+        },
+        {
+          "text": "Backpack Accessories",
+          "href": "/collections/backpack-accessories?collection=12180"
+        },
+        {
+          "text": "Men's Backpacks",
+          "href": "/collections/mens-backpacks-and-bags?collection=12190"
+        },
+        {
+          "text": "Women's Backpacks",
+          "href": "/collections/womens-backpacks-and-bags?collection=121100"
+        },
+        {
+          "text": "View All",
+          "href": "/collections/footwear?collection=12200"
+        },
+        {
+          "text": "Shoes",
+          "href": "/collections/hike-camp-shoes?collection=12210"
+        },
+        {
+          "text": "Boots",
+          "href": "/collections/hiking-boots?collection=12220"
+        },
+        {
+          "text": "Socks",
+          "href": "/collections/hiking-socks?collection=12230"
+        },
+        {
+          "text": "Sandals",
+          "href": "/collections/hiking-sandals?collection=12240"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/localization",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_method",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "return_to",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/cart",
+          "method": "post",
+          "fields": []
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search"
+            },
+            {
+              "type": "hidden",
+              "name": "options[prefix]",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "product-id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "section-id",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 146,
+      "images_with_alt": 124,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome Back Spring"
+        },
+        {
+          "level": 1,
+          "text": "High-PerformanceProducts ForEveryone"
+        },
+        {
+          "level": 1,
+          "text": "UNLOCK 10% OFF"
+        },
+        {
+          "level": 2,
+          "text": "Your cart is empty"
+        },
+        {
+          "level": 2,
+          "text": "Your cart"
+        },
+        {
+          "level": 2,
+          "text": "Estimated total"
+        },
+        {
+          "level": 2,
+          "text": "Most Popular"
+        },
+        {
+          "level": 2,
+          "text": "New Arrivals"
+        },
+        {
+          "level": 3,
+          "text": "Van Rysel D100 Home Trainer with Zwift Cog and Click"
+        },
+        {
+          "level": 3,
+          "text": "Van Rysel D100 Home Trainer with Zwift Cog and Click"
+        },
+        {
+          "level": 3,
+          "text": "Simond Men's MT100 Hooded Down Puffer Jacket"
+        },
+        {
+          "level": 3,
+          "text": "Simond Men's MT100 Hooded Down Puffer Jacket"
+        },
+        {
+          "level": 3,
+          "text": "Simond Women's MT100 Hooded Down Puffer Jacket"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_method",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "return_to",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search"
+        },
+        {
+          "type": "hidden",
+          "name": "options[prefix]",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search"
+        },
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "product-id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "section-id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "product-id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "section-id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "id",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,initial-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 226,
+      "stylesheets_count": 186,
+      "has_lang_attr": true,
+      "has_skip_link": true,
+      "aria_labels_count": 168,
+      "footer_links": [
+        "Become a member",
+        "Become a member",
+        "30-Day Returns",
+        "2-Year Warranty",
+        "Sustainability",
+        "Facebook",
+        "Instagram",
+        "YouTube",
+        "X (Twitter)",
+        "Terms",
+        "Privacy Policy",
+        "Giftcards",
+        "Bulk Order Request",
+        "FAQ",
+        "Help / Contact Us",
+        "Return Policy",
+        "Warranty Policy",
+        "Size Guides",
+        "About Us",
+        "Press"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "Y",
+        "related_items": "N",
+        "stock_availability": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "High-Performance Products",
+        "10% Off Promotion"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Login/signup option",
+        "Social login",
+        "Promo code field",
+        "Multiple payment methods",
+        "Star ratings",
+        "Written customer reviews",
+        "Wishlist",
+        "Order tracking"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "crate_&_barrel",
+    "url": "https://www.crateandbarrel.com",
+    "scanned_at": "2026-03-31T20:26:40.769490",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/crate_&_barrel_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/crate_&_barrel_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.crateandbarrel.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "",
+      "has_og_tags": false,
+      "scripts_count": 0,
+      "stylesheets_count": 0,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_navigation": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "#N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Category browsing/navigation",
+        "Login/signup option visible",
+        "Product/item images",
+        "Price display",
+        "Shopping cart / order basket",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sephora",
+    "url": "https://www.sephora.com",
+    "scanned_at": "2026-03-31T20:27:10.344694",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/sephora_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/sephora_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sephora.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "",
+      "has_og_tags": false,
+      "scripts_count": 0,
+      "stylesheets_count": 0,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Category browsing/navigation",
+        "Login/signup option visible",
+        "Product/item images",
+        "Price display",
+        "Shopping cart / order basket",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "home_depot",
+    "url": "https://www.homedepot.com",
+    "scanned_at": "2026-03-31T20:27:39.301712",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/home_depot_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/home_depot_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.homedepot.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "",
+      "has_og_tags": false,
+      "scripts_count": 0,
+      "stylesheets_count": 0,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zappos",
+    "url": "https://www.zappos.com",
+    "scanned_at": "2026-03-31T20:28:08.200142",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/zappos_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/zappos_mobile.png"
+    },
+    "structure": {
+      "title": "Shoes, Sneakers, Boots, & Clothing + FREE SHIPPING | Zappos.com",
+      "url_final": "https://www.zappos.com/",
+      "nav_items": [
+        {
+          "text": "Women",
+          "href": "https://www.zappos.com/women/wAEB4gIBGA.zso"
+        },
+        {
+          "text": "Men",
+          "href": "https://www.zappos.com/men/wAEC4gIBGA.zso"
+        },
+        {
+          "text": "Kids",
+          "href": "https://www.zappos.com/null/OgLWL-ICAQc.zso"
+        },
+        {
+          "text": "Brands",
+          "href": "https://www.zappos.com/brands"
+        },
+        {
+          "text": "Sneakers",
+          "href": "https://www.zappos.com/sneakers-athletic-shoes/CK_XARC81wHiAgIBAg.zso"
+        },
+        {
+          "text": "Sports",
+          "href": "https://www.zappos.com/running"
+        },
+        {
+          "text": "Sale",
+          "href": "https://www.zappos.com/null/4AEB4gIBHA.zso"
+        }
+      ],
+      "buttons": [
+        "Search",
+        "Show Search"
+      ],
+      "links_count": 264,
+      "main_links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "Shop One-Stop Run Shop",
+          "href": "/null/4gIBMIIDA5H0AQ.zso?s=recentSalesStyle%2Fdesc%2F&si=6555010,6733920,6607002,6628363,6606291,661"
+        },
+        {
+          "text": "Women",
+          "href": "https://www.zappos.com/women/wAEB4gIBGA.zso"
+        },
+        {
+          "text": "Men",
+          "href": "https://www.zappos.com/men/wAEC4gIBGA.zso"
+        },
+        {
+          "text": "Kids",
+          "href": "https://www.zappos.com/null/OgLWL-ICAQc.zso"
+        },
+        {
+          "text": "Brands",
+          "href": "https://www.zappos.com/brands"
+        },
+        {
+          "text": "Sneakers",
+          "href": "https://www.zappos.com/sneakers-athletic-shoes/CK_XARC81wHiAgIBAg.zso"
+        },
+        {
+          "text": "Sports",
+          "href": "https://www.zappos.com/running"
+        },
+        {
+          "text": "Sale",
+          "href": "https://www.zappos.com/null/4AEB4gIBHA.zso"
+        },
+        {
+          "text": "Help & Support",
+          "href": "https://www.zappos.com/c/customer-service"
+        },
+        {
+          "text": "Shop Men's",
+          "href": "/men-shoes/CK_XAcABAuICAzABGIIDA4_0AQ.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fde"
+        },
+        {
+          "text": "Shop Men's",
+          "href": "/men-shoes/CK_XAcABAuICAzABGIIDA4_0AQ.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fde"
+        },
+        {
+          "text": "Shop Women's",
+          "href": "/women-shoes/CK_XAcABAeICAzABGIIDA4_0AQ.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2F"
+        },
+        {
+          "text": "Shop Women's",
+          "href": "/women-shoes/CK_XAcABAeICAzABGIIDA4_0AQ.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2F"
+        },
+        {
+          "text": "Shop Kids'",
+          "href": "/shoes/CK_XAToC1i_iAgMwAQeCAwOP9AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%"
+        },
+        {
+          "text": "Shop Kids'",
+          "href": "/shoes/CK_XAToC1i_iAgMwAQeCAwOP9AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%"
+        },
+        {
+          "text": "Running Season",
+          "href": "/running-shoes/CK_XARC81wEY0O4B4gIEMAECA4IDA_vzAQ.zso?si=6608722%2C6605395%2C6604627%2C6668577%2C661"
+        },
+        {
+          "text": "Running Season",
+          "href": "/running-shoes/CK_XARC81wEY0O4B4gIEMAECA4IDA_vzAQ.zso?si=6608722%2C6605395%2C6604627%2C6668577%2C661"
+        },
+        {
+          "text": "Sandal Weather",
+          "href": "/shoes/CK_XAeICAjABggMD9vMB.zso?si=6693684%2C6712819%2C6586747%2C6713744%2C6677893%2C6677923%2C67248"
+        },
+        {
+          "text": "Sandal Weather",
+          "href": "/shoes/CK_XAeICAjABggMD9vMB.zso?si=6693684%2C6712819%2C6586747%2C6713744%2C6677893%2C6677923%2C67248"
+        },
+        {
+          "text": "Sport Mode",
+          "href": "/sneakers-athletic-shoes/CK_XARC81wHiAgMwAQKCAwPx8wE.zso?si=6608728%2C6596997%2C6608701%2C6608789%2C"
+        },
+        {
+          "text": "Sport Mode",
+          "href": "/sneakers-athletic-shoes/CK_XARC81wHiAgMwAQKCAwPx8wE.zso?si=6608728%2C6596997%2C6608701%2C6608789%2C"
+        },
+        {
+          "text": "Everyday Ease",
+          "href": "/shoes/CK_XAeICAjABggMD9_MB.zso?si=6638413%2C6678625%2C6611409%2C6629363%2C6502731%2C6638160%2C66382"
+        },
+        {
+          "text": "Everyday Ease",
+          "href": "/shoes/CK_XAeICAjABggMD9_MB.zso?si=6638413%2C6678625%2C6611409%2C6629363%2C6502731%2C6638160%2C66382"
+        },
+        {
+          "text": "Kids\u2019 Shoes",
+          "href": "/shoes/CK_XAeICAjABggMD-vMB.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=5"
+        },
+        {
+          "text": "Kids\u2019 Shoes",
+          "href": "/shoes/CK_XAeICAjABggMD-vMB.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=5"
+        },
+        {
+          "text": "Best Seller. Nike - Stride Repel UV Running Jacket",
+          "href": "//www.zappos.com/p/nike-stride-repel-uv-running-jacket-work-blue-light-armory-blue-reflective-silver"
+        },
+        {
+          "text": "Best Seller",
+          "href": "//www.zappos.com/p/nike-stride-repel-uv-running-jacket-work-blue-light-armory-blue-reflective-silver"
+        },
+        {
+          "text": "Brand NameNikeProduct NameStride Repel UV Running ",
+          "href": "//www.zappos.com/p/nike-stride-repel-uv-running-jacket-work-blue-light-armory-blue-reflective-silver"
+        },
+        {
+          "text": "New Arrival. Garmin - Forerunner 165 Running Smart",
+          "href": "//www.zappos.com/p/garmin-forerunner-165-running-smartwatch-black/product/10068411/color/3?pf_rd_r=F"
+        }
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "term",
+              "placeholder": "Search for shoes, clothes, etc."
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "email",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 350,
+      "images_with_alt": 327,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Zappos Homepage"
+        },
+        {
+          "level": 2,
+          "text": "Dress to Impress"
+        },
+        {
+          "level": 2,
+          "text": "March Calls For"
+        },
+        {
+          "level": 2,
+          "text": "One-Stop Run Shop"
+        },
+        {
+          "level": 2,
+          "text": "Sandal Season"
+        },
+        {
+          "level": 2,
+          "text": "Push Your Limits"
+        },
+        {
+          "level": 3,
+          "text": "About Zappos"
+        },
+        {
+          "level": 3,
+          "text": "Customer Service"
+        },
+        {
+          "level": 3,
+          "text": "Resources"
+        },
+        {
+          "level": 3,
+          "text": "Explore Zappos"
+        },
+        {
+          "level": 3,
+          "text": "About Zappos"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "term",
+          "placeholder": "Search for shoes, clothes, etc."
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "Fast, FREE shipping on just-landed sneakers, boots, heels & more from your favorite brands. Now that's a win.",
+      "meta_viewport": "width=device-width, initial-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 177,
+      "stylesheets_count": 2,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 350,
+      "footer_links": [
+        "About",
+        "Careers",
+        "Get the Zappos Mobile App",
+        "Amazon Prime Benefits",
+        "Zappos VIP Benefits",
+        "Coupons & Sales",
+        "FAQs",
+        "Contact Info",
+        "\u00bfAyuda en espa\u00f1ol?",
+        "Shipping And Returns Policy",
+        "About Proposition 65",
+        "Return Options",
+        "Size Conversion Chart",
+        "Affiliate Program",
+        "Site Map",
+        "Take Survey",
+        "E-Gift Cards"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_selector": "U",
+        "related_items": "U",
+        "stock_availability": "U",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment_methods": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "written_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_info": "U",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "N",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_navigation": "U",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Free shipping",
+        "Wide variety of brands",
+        "Mobile app availability"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Guest checkout option"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "patagonia",
+    "url": "https://www.patagonia.com",
+    "scanned_at": "2026-03-31T20:28:38.836909",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/patagonia_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/patagonia_mobile.png"
+    },
+    "structure": {
+      "title": "Hang Tight! Routing to checkout...",
+      "url_final": "https://www.patagonia.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 3,
+      "main_links": [
+        {
+          "text": "customer_service@patagonia.com",
+          "href": "mailto:customer_service@patagonia.com?subject=pat:AKAM_REF"
+        },
+        {
+          "text": "directsales.europe@patagonia.com",
+          "href": "mailto:directsales.europe@patagonia.com"
+        },
+        {
+          "text": "customerservice.japan@patagonia.com",
+          "href": "mailto:customerservice.japan@patagonia.com"
+        }
+      ],
+      "forms": [
+        {
+          "action": "file:///Users/jreyesco/Downloads/$(original_url)",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "$(NAMEVALUE{0})",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "$(NAMEVALUE{0})",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "$(NAMEVALUE{0})",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "$(NAMEVALUE{0})",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "__wr",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 1,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Sit tight"
+        },
+        {
+          "level": 3,
+          "text": "U.S.\u00a0&\u00a0CANADA"
+        },
+        {
+          "level": 3,
+          "text": "EUROPE"
+        },
+        {
+          "level": 3,
+          "text": "JAPAN"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "$(NAMEVALUE{0})",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "$(NAMEVALUE{0})",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "$(NAMEVALUE{0})",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "$(NAMEVALUE{0})",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "__wr",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,initial-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 3,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "U",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 3,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lego",
+    "url": "https://www.lego.com",
+    "scanned_at": "2026-03-31T20:29:10.906893",
+    "screenshots": {
+      "desktop": "data/ecommerce/2026-03-31/screenshots/lego_desktop.png",
+      "mobile": "data/ecommerce/2026-03-31/screenshots/lego_mobile.png"
+    },
+    "structure": {
+      "title": "Ana Sayfa | Resmi LEGO Store TR",
+      "url_final": "https://lego.tr/",
+      "nav_items": [
+        {
+          "text": "\u00dcR\u00dcNLER",
+          "href": ""
+        },
+        {
+          "text": "Temalara g\u00f6re setler",
+          "href": ""
+        },
+        {
+          "text": "Ya\u015flar",
+          "href": ""
+        },
+        {
+          "text": "LEGO\u00ae Dekoru",
+          "href": "https://lego.tr/themes/saklama-ve-ev-dekoru"
+        },
+        {
+          "text": "\u0130lgi Alanlar\u0131",
+          "href": ""
+        },
+        {
+          "text": "Sadece Burada",
+          "href": "https://lego.tr/categories/exclusives"
+        },
+        {
+          "text": "Yeni",
+          "href": "https://lego.storeturkey.com.tr/yeni-urunler?sort=3"
+        },
+        {
+          "text": "\u0130ndirimler ve F\u0131rsatlar",
+          "href": "https://lego.tr/lego-firsatlar-indirimler"
+        },
+        {
+          "text": "T\u00fcm Temalara g\u00f6re setler",
+          "href": "https://lego.tr/themes"
+        },
+        {
+          "text": "LEGO\u00ae Animal Crossing\u2122",
+          "href": "https://lego.tr/themes/lego-animal-crossing"
+        },
+        {
+          "text": "Architecture",
+          "href": "https://lego.tr/themes/architecture"
+        },
+        {
+          "text": "LEGO\u00ae Art",
+          "href": "https://lego.tr/themes/lego-art"
+        },
+        {
+          "text": "Batman\u2122",
+          "href": "https://lego.tr/themes/batman"
+        },
+        {
+          "text": "LEGO\u00ae Bluey",
+          "href": "https://lego.tr/themes/lego-bluey"
+        },
+        {
+          "text": "Botanical Collection",
+          "href": "https://lego.tr/themes/lego-botanik-cicekler"
+        },
+        {
+          "text": "BrickHeadz",
+          "href": "https://lego.tr/themes/brickheadz"
+        },
+        {
+          "text": "City",
+          "href": "https://lego.tr/themes/city"
+        },
+        {
+          "text": "Classic",
+          "href": "https://lego.tr/themes/lego-classic"
+        },
+        {
+          "text": "Creator 3-in-1",
+          "href": "https://lego.tr/themes/creator-3-in-1"
+        },
+        {
+          "text": "DC",
+          "href": "https://lego.tr/themes/dc-super-heroes"
+        }
+      ],
+      "buttons": [
+        "T\u00fcm\u00fcn\u00fc Kabul Et",
+        "T\u00fcm\u00fcn\u00fc Reddet",
+        "\u00c7erezleri Y\u00f6net",
+        "Oturum A\u00e7",
+        "Formula 1\u00ae",
+        "Bu K\u0131zlar\u0131n Eseri",
+        "Men\u00fc",
+        "Kay\u0131t Ol",
+        "T\u00fcm\u00fcn\u00fc Ke\u015ffet",
+        "\u015eimdi Al",
+        "\u015eimdi Al",
+        "T\u00fcm\u00fcn\u00fc Ke\u015ffet",
+        "Daha fazla bilgi",
+        "\u015eimdi Al",
+        "Daha fazla bilgi",
+        "\u015eimdi Al",
+        "Hemen Al",
+        "Daha fazla bilgi",
+        "Koleksiyonu ke\u015ffet",
+        "Daha fazla bilgi"
+      ],
+      "links_count": 344,
+      "main_links": [
+        {
+          "text": "OYUN ALANI",
+          "href": "https://kids.lego.com/tr-tr/"
+        },
+        {
+          "text": "Hepsini yakala",
+          "href": "https://lego.tr/themes/lego-pokemon"
+        },
+        {
+          "text": "Hepsini yakala",
+          "href": "https://lego.tr/themes/lego-pokemon"
+        },
+        {
+          "text": "Oturum A\u00e7",
+          "href": "#header-member-panel-305"
+        },
+        {
+          "text": "Men\u00fc",
+          "href": "#mobile-menu-305"
+        },
+        {
+          "text": "\u00dcR\u00dcNLER",
+          "href": ""
+        },
+        {
+          "text": "Temalara g\u00f6re setler",
+          "href": ""
+        },
+        {
+          "text": "Ya\u015flar",
+          "href": ""
+        },
+        {
+          "text": "LEGO\u00ae Dekoru",
+          "href": "https://lego.tr/themes/saklama-ve-ev-dekoru"
+        },
+        {
+          "text": "\u0130lgi Alanlar\u0131",
+          "href": ""
+        },
+        {
+          "text": "Sadece Burada",
+          "href": "https://lego.tr/categories/exclusives"
+        },
+        {
+          "text": "Yeni",
+          "href": "https://lego.storeturkey.com.tr/yeni-urunler?sort=3"
+        },
+        {
+          "text": "\u0130ndirimler ve F\u0131rsatlar",
+          "href": "https://lego.tr/lego-firsatlar-indirimler"
+        },
+        {
+          "text": "T\u00fcm Temalara g\u00f6re setler",
+          "href": "https://lego.tr/themes"
+        },
+        {
+          "text": "LEGO\u00ae Animal Crossing\u2122",
+          "href": "https://lego.tr/themes/lego-animal-crossing"
+        },
+        {
+          "text": "Architecture",
+          "href": "https://lego.tr/themes/architecture"
+        },
+        {
+          "text": "LEGO\u00ae Art",
+          "href": "https://lego.tr/themes/lego-art"
+        },
+        {
+          "text": "Batman\u2122",
+          "href": "https://lego.tr/themes/batman"
+        },
+        {
+          "text": "LEGO\u00ae Bluey",
+          "href": "https://lego.tr/themes/lego-bluey"
+        },
+        {
+          "text": "Botanical Collection",
+          "href": "https://lego.tr/themes/lego-botanik-cicekler"
+        },
+        {
+          "text": "BrickHeadz",
+          "href": "https://lego.tr/themes/brickheadz"
+        },
+        {
+          "text": "City",
+          "href": "https://lego.tr/themes/city"
+        },
+        {
+          "text": "Classic",
+          "href": "https://lego.tr/themes/lego-classic"
+        },
+        {
+          "text": "Creator 3-in-1",
+          "href": "https://lego.tr/themes/creator-3-in-1"
+        },
+        {
+          "text": "Despicable Me",
+          "href": "https://lego.tr/themes/minions"
+        },
+        {
+          "text": "Disney\u2122",
+          "href": "https://lego.tr/themes/disney"
+        },
+        {
+          "text": "LEGO\u00ae DREAMZzz\u2122",
+          "href": "https://lego.tr/themes/lego-dreamzzz"
+        },
+        {
+          "text": "LEGO\u00ae DUPLO\u00ae",
+          "href": "https://lego.tr/themes/duplo"
+        },
+        {
+          "text": "LEGO\u00ae DUPLO\u00ae Peppa Pig",
+          "href": "https://lego.tr/themes/duplo-peppa-pig"
+        },
+        {
+          "text": "LEGO\u00ae Editions",
+          "href": "https://lego.tr/lego-editions"
+        }
+      ],
+      "forms": [
+        {
+          "action": "/arama",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Arad\u0131\u011f\u0131n\u0131z \u00fcr\u00fcn, kategori veya markay\u0131 yaz\u0131n\u0131z."
+            }
+          ]
+        },
+        {
+          "action": "#",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "email",
+              "name": "",
+              "placeholder": "E-posta adresinizi giriniz"
+            },
+            {
+              "type": "password",
+              "name": "",
+              "placeholder": "\u015eifrenizi giriniz"
+            },
+            {
+              "type": "checkbox",
+              "name": "header-remember",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "E-posta adresinizi giriniz"
+            },
+            {
+              "type": "checkbox",
+              "name": "kvkk",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 60,
+      "images_with_alt": 59,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Heyecan\u0131 \u0130n\u015fa Et"
+        },
+        {
+          "level": 1,
+          "text": "Bu K\u0131zlar\u0131n Eseri"
+        },
+        {
+          "level": 2,
+          "text": "Herkesin neler in\u015fa etti\u011fine g\u00f6z at\u0131n"
+        },
+        {
+          "level": 2,
+          "text": "Bu Haftan\u0131n \u00d6ne \u00c7\u0131kanlar\u0131"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Arad\u0131\u011f\u0131n\u0131z \u00fcr\u00fcn, kategori veya markay\u0131 yaz\u0131n\u0131z."
+        },
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": "E-posta adresinizi giriniz"
+        },
+        {
+          "type": "password",
+          "name": "",
+          "placeholder": "\u015eifrenizi giriniz"
+        },
+        {
+          "type": "checkbox",
+          "name": "header-remember",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7826309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7826309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7813309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7813309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7816309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7816309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7807309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7807309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7814309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7814309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7822309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7822309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7821309",
+          "placeholder": ""
+        },
+        {
+          "type": "number",
+          "name": "ProductCount7821309",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "subPro7809309",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "LEGO oyuncak yap\u0131m par\u00e7as\u0131n\u0131n \u00fcr\u00fcnlere, oyunlara, videolara, LEGO\u00ae Ma\u011fazas\u0131na, LEGO tarihine, hayran tasar\u0131mlar\u0131na ve yard\u0131m merkezimize ba\u011flant\u0131lar",
+      "meta_viewport": "width=device-width, initial-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 38,
+      "stylesheets_count": 4,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 48,
+      "footer_links": [
+        "KVKK S\u00f6zle\u015fmesi'ni",
+        "LEGO Group Hakk\u0131nda",
+        "LEGO.tr Hakk\u0131nda",
+        "S\u00fcrd\u00fcr\u00fclebilirlik",
+        "Bize Ula\u015f\u0131n",
+        "Teslimat Ko\u015fullar\u0131",
+        "\u00d6deme Se\u00e7enekleri",
+        "Gizlilik S\u00f6zle\u015fmesi",
+        "Yap\u0131m K\u0131lavuzu Bul",
+        "Yedek Par\u00e7alar",
+        "Anasayfa",
+        "Yeni \u00dcr\u00fcnler",
+        "\u0130ndirimdekiler",
+        "Sipari\u015f Takip",
+        "Ma\u011fazalar\u0131 Listele"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#F6F6F6",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Cookie consent banner",
+        "Help center link",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Stock availability",
+        "Guest checkout",
+        "Social login",
+        "Trending items",
+        "Order tracking",
+        "Customer reviews"
+      ],
+      "confidence": "high"
+    }
+  }
+]

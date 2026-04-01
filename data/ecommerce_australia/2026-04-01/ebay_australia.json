@@ -1,0 +1,333 @@
+{
+  "name": "ebay_australia",
+  "url": "https://www.ebay.com.au",
+  "scanned_at": "2026-04-01T00:15:25.694705",
+  "screenshots": {
+    "desktop": "data/ecommerce_australia/2026-04-01/screenshots/ebay_australia_desktop.png",
+    "mobile": "data/ecommerce_australia/2026-04-01/screenshots/ebay_australia_mobile.png"
+  },
+  "structure": {
+    "title": "eBay Australia | Electronics, Cars, Fashion, Collectibles & More",
+    "url_final": "https://www.ebay.com.au/",
+    "nav_items": [
+      {
+        "text": "Sign in",
+        "href": "https://signin.ebay.com.au/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com.au%2F"
+      },
+      {
+        "text": "register",
+        "href": "https://signup.ebay.com.au/pa/crte?ru=https%3A%2F%2Fwww.ebay.com.au%2F"
+      },
+      {
+        "text": "",
+        "href": "https://www.ebay.com.au/vlp/ebayplus"
+      },
+      {
+        "text": "eBay Deals",
+        "href": "https://www.ebay.com.au/deals"
+      },
+      {
+        "text": "Find a Store",
+        "href": "https://www.ebay.com.au/b/Stores-HUB/bn_7004249158"
+      },
+      {
+        "text": "Help",
+        "href": "https://www.ebay.com.au/help/home"
+      },
+      {
+        "text": "Sell",
+        "href": "https://www.ebay.com.au/sl/sell"
+      },
+      {
+        "text": "Watchlist",
+        "href": "https://www.ebay.com.au/mye/myebay/watchlist"
+      },
+      {
+        "text": "My eBay",
+        "href": "https://www.ebay.com.au/mys/home?source=GBH"
+      },
+      {
+        "text": "My eBay Summary",
+        "href": "https://www.ebay.com.au/mye/myebay/summary"
+      },
+      {
+        "text": "Recently Viewed",
+        "href": "https://www.ebay.com.au/mye/myebay/rvi"
+      },
+      {
+        "text": "Bids/Offers",
+        "href": "https://www.ebay.com.au/mye/myebay/bidsoffers"
+      },
+      {
+        "text": "Watch List",
+        "href": "https://www.ebay.com.au/mye/myebay/watchlist"
+      },
+      {
+        "text": "Purchase History",
+        "href": "https://www.ebay.com.au/mye/myebay/purchase"
+      },
+      {
+        "text": "Selling/Sold",
+        "href": "https://www.ebay.com.au/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GB"
+      },
+      {
+        "text": "Saved Feed",
+        "href": "https://www.ebay.com.au/mye/myebay/saved"
+      },
+      {
+        "text": "Saved Searches",
+        "href": "https://www.ebay.com.au/mye/myebay/savedsearches"
+      },
+      {
+        "text": "Saved Sellers",
+        "href": "https://www.ebay.com.au/mye/myebay/savedsellers"
+      },
+      {
+        "text": "My Garage",
+        "href": "https://www.ebay.com.au/g/mygarage"
+      },
+      {
+        "text": "Preferences",
+        "href": "https://www.ebay.com.au/d/myebay/preferences"
+      }
+    ],
+    "buttons": [
+      "Expand Watchlist",
+      "Expand My eBay",
+      "Notifications",
+      "Expand cart",
+      "Shop by category",
+      "Search",
+      "Expand: Electronics",
+      "Expand: Refurbished",
+      "Expand: Motors",
+      "Expand: Home & Garden",
+      "Expand: Clothing & Accessories",
+      "Expand: Sports",
+      "Expand: Health & Beauty",
+      "Expand: Toys",
+      "Expand: Business & Industrial",
+      "Expand: Collectables",
+      "Expand: Deals & Sales",
+      "Expand: More",
+      "More options",
+      "More options"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ebay.com.au/sch/i.html",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "_nkw",
+            "placeholder": "Search for anything"
+          },
+          {
+            "type": "text",
+            "name": "_sacat",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_from",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_trksid",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 518,
+    "images_count": 106,
+    "images_with_alt": 51,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Electronics, Cars, Fashion, Collectibles & More | eBay"
+      },
+      {
+        "level": 2,
+        "text": "Your autumn drives start here"
+      },
+      {
+        "level": 2,
+        "text": "Tackle the off-road this Easter"
+      },
+      {
+        "level": 2,
+        "text": "Refresh your wardrobe for autumn"
+      },
+      {
+        "level": 2,
+        "text": "Dress for your Easter adventures"
+      },
+      {
+        "level": 2,
+        "text": "Discover more of the things you love"
+      },
+      {
+        "level": 3,
+        "text": "Electronics"
+      },
+      {
+        "level": 3,
+        "text": "Motors"
+      },
+      {
+        "level": 3,
+        "text": "Home & Garden"
+      },
+      {
+        "level": 3,
+        "text": "Clothing Shoes & Accessories"
+      },
+      {
+        "level": 3,
+        "text": "Sports"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "_nkw",
+        "placeholder": "Search for anything"
+      },
+      {
+        "type": "hidden",
+        "name": "_from",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_trksid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Buy",
+      "eBay Deals",
+      "eBay Mobile",
+      "eBay for Charity",
+      "eBay Stores",
+      "Gift Finder",
+      "Holidays and Seasonal Occasions",
+      "Sell",
+      "Seller Centre",
+      "Sell for Charity",
+      "Selling Fees",
+      "Learn to Sell",
+      "eBay for Business",
+      "Facebook",
+      "X (Twitter)",
+      "About eBay",
+      "Media Centre",
+      "Advertising on eBay",
+      "Affiliates",
+      "Law Enforcement"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 120,
+    "has_og_tags": true,
+    "meta_description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay Australia's online marketplace. Top brands, low prices & free shipping on many items.",
+    "scripts_count": 60
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "eBay Deals section",
+      "eBay Plus membership",
+      "eBay for Charity"
+    ],
+    "confidence": "high"
+  }
+}

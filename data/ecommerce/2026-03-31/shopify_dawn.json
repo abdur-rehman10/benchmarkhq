@@ -1,0 +1,418 @@
+{
+  "name": "shopify_dawn",
+  "url": "https://themes.shopify.com/themes/dawn/styles/default/preview",
+  "scanned_at": "2026-03-31T20:22:22.779962",
+  "screenshots": {
+    "desktop": "data/ecommerce/2026-03-31/screenshots/shopify_dawn_desktop.png",
+    "mobile": "data/ecommerce/2026-03-31/screenshots/shopify_dawn_mobile.png"
+  },
+  "structure": {
+    "title": "Ecommerce Website Templates - Free and Premium Themes for Your Online Store.",
+    "url_final": "https://themes.shopify.com/themes/dawn/presets/dawn",
+    "nav_items": [
+      {
+        "text": "Shopify Theme Store",
+        "href": "/"
+      },
+      {
+        "text": "Large catalogs",
+        "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Small catalogs",
+        "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Free themes",
+        "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+      },
+      {
+        "text": "Selling in person",
+        "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+      },
+      {
+        "text": "Selling internationally",
+        "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+      },
+      {
+        "text": "Minimalist style",
+        "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Trending this week",
+        "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "New themes",
+        "href": "/collections/new-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Horizon themes",
+        "href": "/collections/horizon-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra"
+      },
+      {
+        "text": "All themes",
+        "href": "/themes?surface_detail=navbar-all-themes&surface_inter_position=2&surface_intra_position=1&surface_t"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://admin.shopify.com/signup?_s=&_y=&account_signup=true&locale=en&signup_types%5B%5D=online_sto"
+      },
+      {
+        "text": "Log in",
+        "href": "/login"
+      },
+      {
+        "text": "Large catalogs",
+        "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Small catalogs",
+        "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Free themes",
+        "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+      },
+      {
+        "text": "Selling in person",
+        "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+      },
+      {
+        "text": "Selling internationally",
+        "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+      },
+      {
+        "text": "Minimalist style",
+        "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Trending this week",
+        "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      }
+    ],
+    "buttons": [
+      "Clear",
+      "Browse themes",
+      "View demo",
+      "Start your free trial",
+      "Sign up",
+      "Log in"
+    ],
+    "links_count": 71,
+    "main_links": [
+      {
+        "text": "FreePrice",
+        "href": "/themes?price%5B%5D=free"
+      },
+      {
+        "text": "Jewelry and accessoriesIndustry",
+        "href": "/themes?industry%5B%5D=jewelry-and-accessories"
+      },
+      {
+        "text": "Some (11-100+)Catalog size",
+        "href": "/themes?catalog-size%5B%5D=some"
+      },
+      {
+        "text": "Food and drinkIndustry",
+        "href": "/themes?industry%5B%5D=food-and-drink"
+      },
+      {
+        "text": "Shopify Theme Store",
+        "href": "/"
+      },
+      {
+        "text": "Large catalogs",
+        "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Small catalogs",
+        "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Free themes",
+        "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+      },
+      {
+        "text": "Selling in person",
+        "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+      },
+      {
+        "text": "Selling internationally",
+        "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+      },
+      {
+        "text": "Minimalist style",
+        "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Trending this week",
+        "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "New themes",
+        "href": "/collections/new-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Horizon themes",
+        "href": "/collections/horizon-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra"
+      },
+      {
+        "text": "All themes",
+        "href": "/themes?surface_detail=navbar-all-themes&surface_inter_position=2&surface_intra_position=1&surface_t"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://admin.shopify.com/signup?_s=&_y=&account_signup=true&locale=en&signup_types%5B%5D=online_sto"
+      },
+      {
+        "text": "Log in",
+        "href": "/login"
+      },
+      {
+        "text": "Large catalogs",
+        "href": "/collections/large-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Small catalogs",
+        "href": "/collections/small-inventory?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "Free themes",
+        "href": "/collections/free-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_po"
+      },
+      {
+        "text": "Selling in person",
+        "href": "/collections/selling-in-person?surface_detail=navbar-collections&surface_inter_position=1&surface_in"
+      },
+      {
+        "text": "Selling internationally",
+        "href": "/collections/selling-internationally?surface_detail=navbar-collections&surface_inter_position=1&surf"
+      },
+      {
+        "text": "Minimalist style",
+        "href": "/collections/minimalist?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Trending this week",
+        "href": "/collections/trending-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intr"
+      },
+      {
+        "text": "New themes",
+        "href": "/collections/new-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra_pos"
+      },
+      {
+        "text": "Horizon themes",
+        "href": "/collections/horizon-themes?surface_detail=navbar-collections&surface_inter_position=1&surface_intra"
+      },
+      {
+        "text": "All themes",
+        "href": "/themes?surface_detail=navbar-all-themes&surface_inter_position=2&surface_intra_position=1&surface_t"
+      },
+      {
+        "text": "Log in",
+        "href": "/login"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://admin.shopify.com/signup?_s=&_y=&account_signup=true&locale=en&signup_types%5B%5D=online_sto"
+      },
+      {
+        "text": "TryTry theme",
+        "href": "https://themes.shopify.com/login?signup_theme=dawn--dawn&ux=signup"
+      }
+    ],
+    "forms": [
+      {
+        "action": "/themes",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search by feature, style, or designer"
+          }
+        ]
+      },
+      {
+        "action": "https://themes.shopify.com/set_locale",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "authenticity_token",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "locale",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "images_count": 20,
+    "images_with_alt": 16,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dawn"
+      },
+      {
+        "level": 1,
+        "text": "Dawn"
+      },
+      {
+        "level": 2,
+        "text": "Features"
+      },
+      {
+        "level": 2,
+        "text": "Reviews"
+      },
+      {
+        "level": 2,
+        "text": "Designed by Shopify"
+      },
+      {
+        "level": 2,
+        "text": "More themes for bags"
+      },
+      {
+        "level": 2,
+        "text": "The world\u2019s best online stores use Shopify themes"
+      },
+      {
+        "level": 3,
+        "text": "Cart and checkout"
+      },
+      {
+        "level": 3,
+        "text": "Marketing and conversion"
+      },
+      {
+        "level": 3,
+        "text": "Merchandising"
+      },
+      {
+        "level": 3,
+        "text": "Product discovery"
+      },
+      {
+        "level": 3,
+        "text": "Cart and checkout"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search by feature, style, or designer"
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": ""
+      }
+    ],
+    "meta_description": "Explore all 800+ free and paid Shopify themes to launch your online store with.",
+    "meta_viewport": "width=device-width, initial-scale=1",
+    "has_og_tags": true,
+    "scripts_count": 9,
+    "stylesheets_count": 3,
+    "has_lang_attr": true,
+    "has_skip_link": false,
+    "aria_labels_count": 47,
+    "footer_links": [
+      "Clothing",
+      "Beauty",
+      "Jewelry and accessories",
+      "Home",
+      "All themes",
+      "Free themes",
+      "Shopify Help Center",
+      "API Documentation",
+      "Shopify Community",
+      "Blogs",
+      "About",
+      "Partners",
+      "Legal",
+      "Service status",
+      "Terms of Service",
+      "Privacy Policy",
+      "Your Privacy Choices",
+      "Sitemap"
+    ],
+    "has_search_input": true
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup_visible": "Y",
+      "social_login": "N",
+      "guest_checkout": "N",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "N",
+      "related_items": "N",
+      "stock_availability": "N",
+      "shopping_cart": "N",
+      "add_to_cart_button": "N",
+      "promo_code_field": "N",
+      "multiple_payment_methods": "N",
+      "shipping_info": "N",
+      "estimated_delivery_date": "N",
+      "star_ratings": "N",
+      "written_reviews": "N",
+      "review_photos": "N",
+      "wishlist_option": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notification_prompt": "N",
+      "order_tracking": "N",
+      "order_history": "N",
+      "return_refund_info": "N",
+      "help_center_link": "Y",
+      "live_chat": "N",
+      "contact_form": "N",
+      "phone_number": "N",
+      "alt_text_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy_link": "N",
+      "cookie_consent_banner": "N",
+      "terms_of_service_link": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "loading_states": "N",
+      "hero_section": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "color_scheme": "light",
+    "estimated_primary_color": "#ffffff",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Search bar",
+      "Category navigation",
+      "Trending items section",
+      "Responsive design",
+      "Hero section"
+    ],
+    "missing_common_features": [
+      "Product descriptions",
+      "Price display",
+      "Add to cart button",
+      "Guest checkout option",
+      "Social login"
+    ],
+    "confidence": "medium"
+  }
+}

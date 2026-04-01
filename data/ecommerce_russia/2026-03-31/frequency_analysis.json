@@ -1,0 +1,407 @@
+{
+  "product_search": {
+    "present_count": 13,
+    "absent_count": 0,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "category_browsing": {
+    "present_count": 13,
+    "absent_count": 0,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "login_signup": {
+    "present_count": 11,
+    "absent_count": 0,
+    "uncertain_count": 2,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "product_images": {
+    "present_count": 13,
+    "absent_count": 0,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "product_descriptions": {
+    "present_count": 12,
+    "absent_count": 0,
+    "uncertain_count": 1,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "price_display": {
+    "present_count": 13,
+    "absent_count": 0,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "help_center": {
+    "present_count": 10,
+    "absent_count": 0,
+    "uncertain_count": 3,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "responsive_design": {
+    "present_count": 10,
+    "absent_count": 0,
+    "uncertain_count": 3,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "shopping_cart": {
+    "present_count": 12,
+    "absent_count": 1,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 92,
+    "classification": "CRITICAL"
+  },
+  "add_to_cart": {
+    "present_count": 12,
+    "absent_count": 1,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 92,
+    "classification": "CRITICAL"
+  },
+  "language_attribute": {
+    "present_count": 12,
+    "absent_count": 1,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 92,
+    "classification": "CRITICAL"
+  },
+  "privacy_policy": {
+    "present_count": 9,
+    "absent_count": 1,
+    "uncertain_count": 3,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 90,
+    "classification": "CRITICAL"
+  },
+  "terms_of_service": {
+    "present_count": 9,
+    "absent_count": 1,
+    "uncertain_count": 3,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 90,
+    "classification": "CRITICAL"
+  },
+  "stock_availability": {
+    "present_count": 8,
+    "absent_count": 1,
+    "uncertain_count": 4,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 89,
+    "classification": "CRITICAL"
+  },
+  "related_products": {
+    "present_count": 7,
+    "absent_count": 1,
+    "uncertain_count": 5,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 88,
+    "classification": "CRITICAL"
+  },
+  "phone_support": {
+    "present_count": 7,
+    "absent_count": 1,
+    "uncertain_count": 5,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 88,
+    "classification": "CRITICAL"
+  },
+  "personalized_recommendations": {
+    "present_count": 6,
+    "absent_count": 1,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 86,
+    "classification": "CRITICAL"
+  },
+  "cookie_consent": {
+    "present_count": 6,
+    "absent_count": 1,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 86,
+    "classification": "CRITICAL"
+  },
+  "search_autocomplete": {
+    "present_count": 5,
+    "absent_count": 1,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 83,
+    "classification": "REQUIRED"
+  },
+  "search_filters": {
+    "present_count": 5,
+    "absent_count": 1,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 83,
+    "classification": "REQUIRED"
+  },
+  "push_notifications": {
+    "present_count": 5,
+    "absent_count": 1,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 83,
+    "classification": "REQUIRED"
+  },
+  "hero_section": {
+    "present_count": 5,
+    "absent_count": 1,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 83,
+    "classification": "REQUIRED"
+  },
+  "shipping_info": {
+    "present_count": 9,
+    "absent_count": 2,
+    "uncertain_count": 2,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 82,
+    "classification": "REQUIRED"
+  },
+  "return_refund_info": {
+    "present_count": 9,
+    "absent_count": 2,
+    "uncertain_count": 2,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 82,
+    "classification": "REQUIRED"
+  },
+  "footer_with_links": {
+    "present_count": 9,
+    "absent_count": 2,
+    "uncertain_count": 2,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 82,
+    "classification": "REQUIRED"
+  },
+  "trending_items": {
+    "present_count": 7,
+    "absent_count": 2,
+    "uncertain_count": 4,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 78,
+    "classification": "REQUIRED"
+  },
+  "order_tracking": {
+    "present_count": 7,
+    "absent_count": 2,
+    "uncertain_count": 4,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 78,
+    "classification": "REQUIRED"
+  },
+  "order_history": {
+    "present_count": 7,
+    "absent_count": 2,
+    "uncertain_count": 4,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 78,
+    "classification": "REQUIRED"
+  },
+  "contact_form": {
+    "present_count": 7,
+    "absent_count": 2,
+    "uncertain_count": 4,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 78,
+    "classification": "REQUIRED"
+  },
+  "promo_code": {
+    "present_count": 6,
+    "absent_count": 2,
+    "uncertain_count": 5,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 75,
+    "classification": "REQUIRED"
+  },
+  "wishlist": {
+    "present_count": 6,
+    "absent_count": 2,
+    "uncertain_count": 5,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 75,
+    "classification": "REQUIRED"
+  },
+  "guest_checkout": {
+    "present_count": 5,
+    "absent_count": 2,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 71,
+    "classification": "REQUIRED"
+  },
+  "size_variant_selector": {
+    "present_count": 5,
+    "absent_count": 2,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 71,
+    "classification": "REQUIRED"
+  },
+  "multiple_payment": {
+    "present_count": 5,
+    "absent_count": 2,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 71,
+    "classification": "REQUIRED"
+  },
+  "star_ratings": {
+    "present_count": 5,
+    "absent_count": 2,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 71,
+    "classification": "REQUIRED"
+  },
+  "customer_reviews": {
+    "present_count": 5,
+    "absent_count": 2,
+    "uncertain_count": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 71,
+    "classification": "REQUIRED"
+  },
+  "alt_text_on_images": {
+    "present_count": 9,
+    "absent_count": 4,
+    "uncertain_count": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 69,
+    "classification": "REQUIRED"
+  },
+  "social_login": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "estimated_delivery": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "review_photos": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "recently_viewed": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "live_chat": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "sticky_header": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "breadcrumb_navigation": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  },
+  "skeleton_loading": {
+    "present_count": 4,
+    "absent_count": 2,
+    "uncertain_count": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "frequency_percent": 67,
+    "classification": "REQUIRED"
+  }
+}

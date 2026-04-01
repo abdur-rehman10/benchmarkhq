@@ -1,0 +1,174 @@
+{
+  "name": "vipshop",
+  "url": "https://www.vip.com",
+  "scanned_at": "2026-03-31T23:56:06.512923",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/vipshop_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/vipshop_mobile.png"
+  },
+  "structure": {
+    "title": "\u552f\u54c1\u4f1a-\uff08\u539fVipshop.com\uff09\u7279\u5356\u4f1a\uff1a\u54c1\u724c\u7279\u5356_\u786e\u4fdd\u6b63\u54c1_\u786e\u4fdd\u4f4e\u4ef7",
+    "url_final": "https://www.vip.com/",
+    "nav_items": [
+      {
+        "text": "\u552f\u54c1\u4f1a\u9996\u9875",
+        "href": "https://www.vip.com/"
+      },
+      {
+        "text": "\ue609",
+        "href": "###"
+      },
+      {
+        "text": "",
+        "href": "//iclub-pc.vip.com/user_info/vmarkinfo_list"
+      },
+      {
+        "text": "{$J_header_account}",
+        "href": "//myi.vip.com/index.html"
+      },
+      {
+        "text": "{$J_header_account}/\u8bf7\u767b\u5f55",
+        "href": "#"
+      },
+      {
+        "text": "\u8bf7\u767b\u5f55",
+        "href": "https://passport.vip.com/login"
+      },
+      {
+        "text": "\u60a8\u597d\uff01[\u8bf7\u767b\u5f55]",
+        "href": "https://passport.vip.com/login"
+      },
+      {
+        "text": "",
+        "href": "//myi.vip.com/index.html"
+      },
+      {
+        "text": "{$J_header_account}",
+        "href": "//myi.vip.com/index.html"
+      },
+      {
+        "text": "[\u9000\u51fa]",
+        "href": "#"
+      },
+      {
+        "text": "\u6211\u7684\u6536\u85cf",
+        "href": "//fav.vip.com/index.php?r=/fav/brand"
+      },
+      {
+        "text": "\u6211\u7684\u8ba2\u5355",
+        "href": "//order.vip.com/order/orderlist"
+      },
+      {
+        "text": "\u96f6\u94b1",
+        "href": "//myvpal.vip.com/pc/wallet"
+      },
+      {
+        "text": "\u6211\u7684\u4f18\u60e0\u5238",
+        "href": "//myi.vip.com/coupons.html"
+      },
+      {
+        "text": "\u6211\u7684\u552f\u54c1\u5e01",
+        "href": "//myi.vip.com/vipmoney.html"
+      },
+      {
+        "text": "\u552f\u54c1\u91d1\u878d",
+        "href": "//jr.vip.com/center?ep=jinrong"
+      },
+      {
+        "text": "\u6ce8\u518c",
+        "href": "https://passport.vip.com/register"
+      },
+      {
+        "text": "\u6211\u7684\u8ba2\u5355",
+        "href": "//order.vip.com/order/orderlist"
+      },
+      {
+        "text": "\u6211\u7684\u7279\u5356",
+        "href": "//fav.vip.com/brand"
+      },
+      {
+        "text": "\u5546\u54c1\u6536\u85cf",
+        "href": "//fav.vip.com/goods"
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 86,
+    "images_count": 17,
+    "images_with_alt": 13,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u8fd0\u52a8\u5916\u5957"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "\u552f\u54c1\u4f1avip\u8d2d\u7269\u7f51\u4ee51-7\u6298\u8d85\u4f4e\u6298\u6263\u5bf9\u5168\u7403\u5404\u5927\u54c1\u724c\u8fdb\u884c\u9650\u65f6\u7279\u5356\uff0c\u5546\u54c1\u56ca\u62ec\u670d\u88c5\u3001\u5316\u5986\u54c1\u3001\u5bb6\u5c45\u3001\u5962\u4f88\u54c1\u7b49\u4e0a\u5343\u54c1\u724c\u3002100%\u6b63\u54c1\u3001\u4f4e\u4ef7\u30017\u5929\u65e0\u7406\u7531\u9000\u8d27\u3002",
+    "scripts_count": 56
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "flash sales",
+      "brand-specific discounts",
+      "VIP membership benefits"
+    ],
+    "confidence": "high"
+  }
+}

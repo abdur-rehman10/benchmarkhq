@@ -1,0 +1,276 @@
+{
+  "name": "trendyol",
+  "url": "https://www.trendyol.com",
+  "scanned_at": "2026-03-31T22:53:47.371108",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/trendyol_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/trendyol_mobile.png"
+  },
+  "structure": {
+    "title": "En Trend \u00dcr\u00fcnler T\u00fcrkiye'nin Online Al\u0131\u015fveri\u015f Sitesi Trendyol'da",
+    "url_final": "https://www.trendyol.com/",
+    "nav_items": [
+      {
+        "text": "\u0130ndirim Kuponlar\u0131m",
+        "href": "/hesabim/indirim-kuponlari"
+      },
+      {
+        "text": "Trendyol'da Sat\u0131\u015f Yap",
+        "href": "https://partner.trendyol.com/onboarding/satici-formu"
+      },
+      {
+        "text": "Hakk\u0131m\u0131zda",
+        "href": "/s/meet-us"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Giri\u015f Yap",
+        "href": "/giris?cb=%2F"
+      },
+      {
+        "text": "Favorilerim",
+        "href": "/hesabim/favoriler"
+      },
+      {
+        "text": "Sepetim",
+        "href": "/sepetim"
+      },
+      {
+        "text": "Kad\u0131n",
+        "href": "/butik/liste/1/kadin"
+      },
+      {
+        "text": "Erkek",
+        "href": "/butik/liste/2/erkek"
+      },
+      {
+        "text": "Anne & \u00c7ocuk",
+        "href": "/butik/liste/3/anne-cocuk"
+      },
+      {
+        "text": "Ev & Ya\u015fam",
+        "href": "/butik/liste/12/ev-yasam"
+      },
+      {
+        "text": "S\u00fcpermarket",
+        "href": "/butik/liste/16/supermarket"
+      },
+      {
+        "text": "Kozmetik",
+        "href": "/butik/liste/11/kozmetik"
+      },
+      {
+        "text": "Ayakkab\u0131 & \u00c7anta",
+        "href": "/butik/liste/9/ayakkabi-canta"
+      },
+      {
+        "text": "Elektronik",
+        "href": "/butik/liste/5/elektronik"
+      },
+      {
+        "text": "Saat & Aksesuar",
+        "href": "/butik/liste/10/saat-aksesuar"
+      },
+      {
+        "text": "Spor & Outdoor",
+        "href": "/butik/liste/22/spor-outdoor"
+      },
+      {
+        "text": "Fla\u015f \u00dcr\u00fcnlerYeni",
+        "href": "/flas-indirimler"
+      },
+      {
+        "text": "\u00c7ok SatanlarYeni",
+        "href": "/cok-satanlar?type=bestSeller&webGenderId=1"
+      }
+    ],
+    "buttons": [
+      "\u00dcr\u00fcn, kategori veya marka ara"
+    ],
+    "forms": [],
+    "links_count": 317,
+    "images_count": 524,
+    "images_with_alt": 104,
+    "headings": [
+      {
+        "level": 2,
+        "text": "T\u00fcrkiye\u2019nin En Trend Online Al\u0131\u015fveri\u015f Sitesi Trendyol"
+      },
+      {
+        "level": 2,
+        "text": "Gizlilik Tercihi Merkezi"
+      },
+      {
+        "level": 3,
+        "text": "Bunlar da \u0130lginizi \u00c7ekebilir"
+      },
+      {
+        "level": 3,
+        "text": "T\u00fcrkiye\u2019nin Online Al\u0131\u015fveri\u015f Sitesi Trendyol"
+      },
+      {
+        "level": 3,
+        "text": "Online Al\u0131\u015fveri\u015fte Geni\u015f \u00dcr\u00fcn \u00c7e\u015fitlili\u011fiyle Trendyol"
+      },
+      {
+        "level": 3,
+        "text": "Moda, Giyim ve Ayakkab\u0131 Kategorilerinde Trend Se\u00e7enekler"
+      },
+      {
+        "level": 3,
+        "text": "Teknoloji \u00dcr\u00fcnleri ve Ak\u0131ll\u0131 Telefon Modelleri"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0005",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0007",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0009",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Sat\u0131c\u0131lar\u0131 aray\u0131n"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Penti",
+      "Mango",
+      "Vivense",
+      "Watsons",
+      "English Home",
+      "Bershka",
+      "Stradivarius",
+      "The North Face",
+      "Beymen",
+      "Columbia",
+      "Samsung",
+      "Lumberjack",
+      "Puma",
+      "Mudo",
+      "Derimod",
+      "Apple",
+      "New Balance",
+      "Huawei",
+      "Xiaomi",
+      "Oppo"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 218,
+    "has_og_tags": true,
+    "meta_description": "Giyim, bilgisayar, cep telefonu, kozmetik, beyaz e\u015fya, s\u00fcpermarket & daha arad\u0131\u011f\u0131n y\u00fcz binlerce indirimli \u00fcr\u00fcn en uygun fiyatlar ve kampanyalarla Trendyol'da.",
+    "scripts_count": 82
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive brand partnerships",
+      "localized content for Turkish market"
+    ],
+    "confidence": "high"
+  }
+}

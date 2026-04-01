@@ -1,0 +1,179 @@
+{
+  "name": "aliexpress_br",
+  "url": "https://pt.aliexpress.com",
+  "scanned_at": "2026-03-31T21:40:44.496937",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/aliexpress_br_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/aliexpress_br_mobile.png"
+  },
+  "structure": {
+    "title": "Captcha Interception",
+    "url_final": "https://pt.aliexpress.com///_____tmd_____/punish?x5secdata=xfsLuqQqhNmPB_sNxT4q_Nk23CQfZnrbSozJdYE0ugEiUwHhYAhjKb4CK6SzpfarGbA8lRY5USiBmVW6op0st5Tfzr-E008l8BamwKLVF4F5V1HnamhCw86jYUsQ0OBGneVCzw4nGc21ubOQl0XsTfP3V2jzZa2IkSdPuB4PKic1FOULkt55rPvukh49mYzDAC75jOBR0PrN9GG8QLxcBVibICcjGXOf2dCb2T5KJ6lRU-nuW87DiCfL7aKgLfyECqcHbRXE0W6fAjtsSu3RFadMBNPyTD-EfnTLMZKKk7qJrTYeu47pWDcLZEYC630JqhjnmkCUi6JOluPuYRjuIxeFhiiIehk2Nk1na0zKU1CCr9j2S7ypUCMQUELq_IS4uYtfHlKL5dRvNVhiknZru3-Oq2pMDlg-QBv7Z-aMmv1VXowQiLOjG1Kf6Q70AyDjOWNcFEgZBLofMPgE3UO7RJMhd3xShXFM_EjOrs8O3--WyEQT4RxKGvrQKZ_8sdSBWivYgEVzmBxdBqcvNH-7MRcfMsWjoRixlu8smOGAW4A-ILDiL_XsF0bbHq-qAt9PskqnFM4lgo7qw4YN7jofGSZgWuNIgnqGKOpVe7e8NQwXNpvUMsJsGUbveRfzFwI_AnFQ-V9xBX9s5oyDusyKhWmuh_AG0V4N3OOdogQRWPPvMuRF7zPTzanV-e7uJb-4Ax__bx__pt.aliexpress.com%2f&x5step=1",
+    "nav_items": [],
+    "buttons": [],
+    "forms": [
+      {
+        "action": "/_____tmd_____/verify/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "nc_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nc_session_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nc_sig",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x5sec_domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x5secdata",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x5step",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ajax",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nc_app_key",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 2,
+    "images_count": 3,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "nc_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "nc_session_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "nc_sig",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x5sec_domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x5secdata",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x5step",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ajax",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "nc_app_key",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 18
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive international shipping options",
+      "frequent flash sales"
+    ],
+    "confidence": "medium"
+  }
+}

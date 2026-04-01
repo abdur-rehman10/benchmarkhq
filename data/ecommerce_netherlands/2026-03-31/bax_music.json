@@ -1,0 +1,309 @@
+{
+  "name": "bax_music",
+  "url": "https://www.bax-shop.nl",
+  "scanned_at": "2026-03-31T22:42:28.849780",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/bax_music_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/bax_music_mobile.png"
+  },
+  "structure": {
+    "title": "Bax Music | Online muziekwinkel voor DJ, producer en muzikant",
+    "url_final": "https://www.bax-shop.nl/",
+    "nav_items": [
+      {
+        "text": "Lente Deals: Nu 10% Extra korting!",
+        "href": "https://www.bax-shop.nl/lente-deals"
+      },
+      {
+        "text": "Hot & New",
+        "href": "https://www.bax-shop.nl/hot-new-releases"
+      },
+      {
+        "text": "Pro Audio",
+        "href": "/pro-audio"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Pro Audio",
+        "href": "/pro-audio"
+      },
+      {
+        "text": "Speakers",
+        "href": "/speakers"
+      },
+      {
+        "text": "Speakersets",
+        "href": "/speakersets"
+      },
+      {
+        "text": "Speaker-hoezen & cases",
+        "href": "/speaker-bescherming/speaker-hoezen-tassen"
+      },
+      {
+        "text": "Actieve fullrange",
+        "href": "/speakers/actieve-fullrange"
+      },
+      {
+        "text": "Passieve fullrange",
+        "href": "/speakers/passieve-fullrange"
+      },
+      {
+        "text": "Bekijk alles",
+        "href": "/speakers"
+      },
+      {
+        "text": "Speakersets",
+        "href": "/speakersets"
+      },
+      {
+        "text": "PA-startersets",
+        "href": "/dj-startersets/pa-startersets"
+      },
+      {
+        "text": "Speaker-zuilsystemen",
+        "href": "/speakers/speaker-zuilsystemen"
+      },
+      {
+        "text": "Mobiele accu-speakers",
+        "href": "/mobiele-accu-speakers"
+      },
+      {
+        "text": "Zanginstallatie",
+        "href": "/speakers/zanginstallatie"
+      },
+      {
+        "text": "Bekijk alles",
+        "href": "/speakersets"
+      },
+      {
+        "text": "PA mixer & mengpaneel",
+        "href": "/pa-mixers-en-mengpanelen"
+      },
+      {
+        "text": "Analoog mengpaneel",
+        "href": "/analoge-mengpanelen"
+      },
+      {
+        "text": "Digitaal mengpaneel",
+        "href": "/pa-mixer-mengpaneel/digitaal-mengpaneel"
+      }
+    ],
+    "buttons": [
+      "Direct afrekenen",
+      "Bekijk mijn winkelwagen",
+      "Inloggen",
+      "Weigeren",
+      "Aanpassen",
+      "Accepteren",
+      "Cookievoorkeuren opslaan",
+      "Klant worden",
+      "Vergelijken"
+    ],
+    "forms": [
+      {
+        "action": "https://www.bax-shop.nl/login",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "username",
+            "placeholder": "E-mailadres"
+          },
+          {
+            "type": "password",
+            "name": "passwd",
+            "placeholder": "Wachtwoord"
+          },
+          {
+            "type": "hidden",
+            "name": "ajax",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.bax-shop.nl/producten.html",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "keyword",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      },
+      {
+        "action": "/mybax/newsletter/anonymous-signup",
+        "method": "post",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email_address",
+            "placeholder": "E-mailadres"
+          }
+        ]
+      }
+    ],
+    "links_count": 1095,
+    "images_count": 118,
+    "images_with_alt": 100,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Categorie\u00ebn voor jou geselecteerd"
+      },
+      {
+        "level": 2,
+        "text": "Pro Audio"
+      },
+      {
+        "level": 2,
+        "text": "DJ gear & Effects"
+      },
+      {
+        "level": 2,
+        "text": "Studio & Recording"
+      },
+      {
+        "level": 2,
+        "text": "Microfoons"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "CybotCookiebotDialogBodyLevelButtonNecessary",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "CybotCookiebotDialogBodyLevelButtonPreferences",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "CybotCookiebotDialogBodyLevelButtonStatistics",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "CybotCookiebotDialogBodyLevelButtonMarketing",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "placeholder": "E-mailadres"
+      },
+      {
+        "type": "password",
+        "name": "passwd",
+        "placeholder": "Wachtwoord"
+      },
+      {
+        "type": "hidden",
+        "name": "ajax",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "keyword",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "email",
+        "name": "email_address",
+        "placeholder": "E-mailadres"
+      }
+    ],
+    "footer_links": [
+      "Winkels",
+      "Olympiastraat 2-44462 GG Goes",
+      "Pascalweg 157 - 1593076 JN Rotterdam",
+      "Johan Cruijff Boulevard 281101 DJ Amsterdam",
+      "Stationsstraat 1347311 MJ Apeldoorn",
+      "Paleisstraat 1192018 Antwerpen",
+      "Goes",
+      "Rotterdam",
+      "Amsterdam",
+      "Apeldoorn",
+      "Antwerpen",
+      "Lente Deals: Nu 10% Extra korting!",
+      "Hot & New",
+      "Pro Audio",
+      "DJ gear & Effects",
+      "Studio & Recording",
+      "Microfoons",
+      "Hoofdtelefoons",
+      "Muziekinstrumenten",
+      "Gitaar"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Bax Music biedt je altijd de beste XXL service, 30 dagen 'niet-goed-geld-terug' garantie en op werkdagen v\u00f3\u00f3r 23:00 uur besteld is de volgende dag in huis!",
+    "scripts_count": 82
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive physical store locations listed in footer",
+      "Seasonal promotions prominently displayed"
+    ],
+    "confidence": "medium"
+  }
+}

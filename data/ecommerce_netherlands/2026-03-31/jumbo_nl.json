@@ -1,0 +1,294 @@
+{
+  "name": "jumbo_nl",
+  "url": "https://www.jumbo.com",
+  "scanned_at": "2026-03-31T22:35:28.675463",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/jumbo_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/jumbo_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Altijd lage prijzen op je dagelijkse boodschappen | Jumbo",
+    "url_final": "https://www.jumbo.com/",
+    "nav_items": [
+      {
+        "text": "Lekker eten, makkelijke recepten",
+        "href": "/recepten"
+      },
+      {
+        "text": "Gratis bezorging bij bepaalde aanbiedingen",
+        "href": "/boodschappen-bestellen"
+      },
+      {
+        "text": "Vers is ook \u00e9cht vers",
+        "href": "/service/7-zekerheden/vers-is-ook-echt-vers"
+      },
+      {
+        "text": "Winkels & openingstijden",
+        "href": "/winkels"
+      },
+      {
+        "text": "Home",
+        "href": "/"
+      },
+      {
+        "text": "Producten",
+        "href": "/producten/"
+      },
+      {
+        "text": "Nieuwe producten",
+        "href": "/lijstjes/lijst.5dea4a6ac8fd47dba82d04ad.html"
+      },
+      {
+        "text": "Bekroonde producten",
+        "href": "/inspiratie/Bekroond"
+      },
+      {
+        "text": "Jumbo's",
+        "href": "/inspiratie/jumbos"
+      },
+      {
+        "text": "Aanbiedingen & acties",
+        "href": "/aanbiedingen/nu"
+      },
+      {
+        "text": "Aanbiedingen",
+        "href": "/aanbiedingen/nu"
+      },
+      {
+        "text": "Bekijk alles",
+        "href": "/aanbiedingen/nu"
+      },
+      {
+        "text": "Bieraanbiedingen",
+        "href": "/acties/bieraanbieding"
+      },
+      {
+        "text": "Goedkoopjes",
+        "href": "/goedkoopjes"
+      },
+      {
+        "text": "Kies & Mix assortiment",
+        "href": "/acties/kies-en-mix"
+      },
+      {
+        "text": "Korting op je bezorging",
+        "href": "/aanbiedingen/bezorgen"
+      },
+      {
+        "text": "Win- & spaaracties",
+        "href": "/acties"
+      },
+      {
+        "text": "Jumbo Extra's",
+        "href": "/extras"
+      },
+      {
+        "text": "Folder",
+        "href": "/acties/weekaanbiedingen"
+      },
+      {
+        "text": "Recepten",
+        "href": "/recepten"
+      }
+    ],
+    "buttons": [
+      "Nederland",
+      "Menu",
+      "Sluiten",
+      "Inloggen",
+      "Sluiten",
+      "Inloggen",
+      "Bekijk alle aanbiedingen"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "searchTerms",
+            "placeholder": "Welke boodschappen zoek je?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "searchTerms",
+            "placeholder": "Welke boodschappen zoek je?"
+          }
+        ]
+      }
+    ],
+    "links_count": 168,
+    "images_count": 47,
+    "images_with_alt": 23,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Aanbiedingen"
+      },
+      {
+        "level": 2,
+        "text": "Wat eten we?"
+      },
+      {
+        "level": 2,
+        "text": "Paasgourmet"
+      },
+      {
+        "level": 2,
+        "text": "Paasbrunch"
+      },
+      {
+        "level": 2,
+        "text": "Paasassortiment"
+      },
+      {
+        "level": 3,
+        "text": "Aanbiedingen voor jou"
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "searchTerms",
+        "placeholder": "Welke boodschappen zoek je?"
+      },
+      {
+        "type": "search",
+        "name": "searchTerms",
+        "placeholder": "Welke boodschappen zoek je?"
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Bekijk de veelgestelde vragen of neem contact met ",
+      "Bekijk veelgestelde vragen",
+      "Bekijk veelgestelde vragen",
+      "Lees meer over de app",
+      "Nieuwsbrief",
+      "Recepten",
+      "Wat eten we vandaag?",
+      "Folder",
+      "Aanbiedingen",
+      "Duurzame boodschap",
+      "Over Jumbo's recepten",
+      "Jumbo's",
+      "Prijswinnende producten",
+      "Pasen recepten & meer",
+      "Nieuwsbrief",
+      "Recepten",
+      "Wat eten we vandaag?",
+      "Folder"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 120,
+    "has_og_tags": false,
+    "meta_description": "Ontdek het ruime assortiment van Jumbo! \u2713 Altijd lage prijzen \u2713 Boodschappen thuisbezorgen \u2713 Heerlijke recepten \u2713 Handige Jumbo app",
+    "scripts_count": 24
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Vers is ook \u00e9cht vers guarantee",
+      "Gratis bezorging bij bepaalde aanbiedingen"
+    ],
+    "confidence": "medium"
+  }
+}

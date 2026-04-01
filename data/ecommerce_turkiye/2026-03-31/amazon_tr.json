@@ -1,0 +1,357 @@
+{
+  "name": "amazon_tr",
+  "url": "https://www.amazon.com.tr",
+  "scanned_at": "2026-03-31T22:54:52.085853",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/amazon_tr_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/amazon_tr_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.com.tr: Elektronik, bilgisayar, ak\u0131ll\u0131 telefon, kitap, oyuncak, yap\u0131 market, ev, mutfak, oyun konsollar\u0131 \u00fcr\u00fcnleri ve daha fazlas\u0131 i\u00e7in internet al\u0131\u015fveri\u015f sitesi",
+    "url_final": "https://www.amazon.com.tr/",
+    "nav_items": [
+      {
+        "text": "Ana i\u00e7erik",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "AraOption+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "SepetShift+Option+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Ana SayfaShift+Option+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Sipari\u015flerShift+Option+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "K\u0131sayollar\u0131 G\u00f6ster/GizleShift+Option+Z",
+      "Duraklat",
+      "Resetrestore all settings to the default values",
+      "Tamam",
+      "Dialogu Kapat",
+      "Oynat",
+      "Resetrestore all settings to the default values",
+      "Tamam",
+      "Dialogu Kapat",
+      "Ba\u015fa d\u00f6n",
+      "Giri\u015f yap",
+      "T\u00fcrkiye"
+    ],
+    "forms": [
+      {
+        "action": "/privacyprefs/retail/v3/banner",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "anti-csrftoken-a2z",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "timestamp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "disclosureDecision",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "privacyCustomerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "__mk_tr_TR",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Amazon.com.tr aramas\u0131 yap\u0131n"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 293,
+    "images_count": 181,
+    "images_with_alt": 167,
+    "headings": [
+      {
+        "level": 2,
+        "text": "\u015euraya atla:"
+      },
+      {
+        "level": 2,
+        "text": "Klavye k\u0131sayollar\u0131"
+      },
+      {
+        "level": 2,
+        "text": "Sana \u00f6zel avantajlar"
+      },
+      {
+        "level": 2,
+        "text": "Milli ma\u00e7 heyecan\u0131na Pepsi yak\u0131\u015f\u0131r"
+      },
+      {
+        "level": 2,
+        "text": "Yeni gelen Kahu Naturals \u00fcr\u00fcnleri"
+      },
+      {
+        "level": 3,
+        "text": "G\u00fcn\u00fcn F\u0131rsatlar\u0131G\u00fcn\u00fcn F\u0131rsatlar\u0131"
+      },
+      {
+        "level": 3,
+        "text": "Moda kategorisinde f\u0131rsatlar"
+      },
+      {
+        "level": 3,
+        "text": "Spor ve outdoor kategorisinde f\u0131rsatlar"
+      },
+      {
+        "level": 3,
+        "text": "Ev ve ya\u015fam kategorisinde f\u0131rsatlar"
+      },
+      {
+        "level": 3,
+        "text": "1000 TL alt\u0131 f\u0131rsatlar"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "anti-csrftoken-a2z",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "disclosureDecision",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "privacyCustomerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sessionId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "consentTypes",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__mk_tr_TR",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Amazon.com.tr aramas\u0131 yap\u0131n"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 83,
+    "has_og_tags": false,
+    "meta_description": " Elektronik, bilgisayar, ak\u0131ll\u0131 telefon, kitap, oyuncak, yap\u0131 market, ev, mutfak, oyun konsollar\u0131 \u00fcr\u00fcnlerini ve daha fazlas\u0131n\u0131 uygun fiyatlara Amazon.com.tr internet sitesinden sat\u0131n al\u0131n. ",
+    "scripts_count": 143
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product range",
+      "localized promotions",
+      "keyboard shortcuts"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "name": "media_expert",
+  "url": "https://www.mediaexpert.pl",
+  "scanned_at": "2026-03-31T22:44:10.221016",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/media_expert_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/media_expert_mobile.png"
+  },
+  "structure": {
+    "title": "Media Expert | Sklep internetowy RTV, AGD, komputery",
+    "url_final": "https://www.mediaexpert.pl/",
+    "nav_items": [
+      {
+        "text": "Infolinia: 756 756 756pon.-pt.08:00-20:00sob.-nied",
+        "href": "tel:+48756756756"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "Zaloguj si\u0119",
+      "Menu",
+      "Zaloguj si\u0119",
+      "Koszyk",
+      "Pomi\u0144 menu",
+      "Produkty",
+      "Us\u0142ugi",
+      "Zamknij menu i przejd\u017a do nast\u0119pnej sekcji",
+      "Wstrzymaj karuzel\u0119",
+      "Pomi\u0144 sekcj\u0119",
+      "Zobacz wi\u0119cej",
+      "Produkty",
+      "Us\u0142ugi",
+      "Pomi\u0144",
+      "Zobacz wi\u0119cej promocji",
+      "Pomi\u0144 sekcj\u0119",
+      "Pomi\u0144 sekcj\u0119",
+      "Pomi\u0144",
+      "Pomi\u0144",
+      "Pomi\u0144"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Czego szukasz?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Czego szukasz?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Czego szukasz?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 618,
+    "images_count": 124,
+    "images_with_alt": 40,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Media Expert | Sklep internetowy RTV, AGD, komputeryMedia Expert | Sklep interne"
+      },
+      {
+        "level": 2,
+        "text": "\u015awi\u0105teczne Media Expert Days"
+      },
+      {
+        "level": 2,
+        "text": "Media Expert Days rower Kross"
+      },
+      {
+        "level": 2,
+        "text": "Przeceny na \u015awi\u0119ta!"
+      },
+      {
+        "level": 2,
+        "text": "Rabatosza\u0142 - Taniej z\u00a0kodem"
+      },
+      {
+        "level": 2,
+        "text": "SETTI+ WC700 z\u00a0p\u0142ynem za 1\u00a0z\u0142"
+      },
+      {
+        "level": 3,
+        "text": "-30% na drugi produkt lub pi\u0105ty za 1z\u0142"
+      },
+      {
+        "level": 3,
+        "text": "Im wi\u0119cej tym taniej"
+      },
+      {
+        "level": 3,
+        "text": "Oszcz\u0119dzaj"
+      },
+      {
+        "level": 3,
+        "text": "Ostatnie sztuki w\u00a0Twoim mie\u015bcie"
+      },
+      {
+        "level": 3,
+        "text": "Prezenty na zaj\u0105czka w\u00a0supercenach"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Czego szukasz?"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Czego szukasz?"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Czego szukasz?"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-ME002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-ME003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-ME004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Szukaj..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Dowiedz si\u0119\u00a0wi\u0119cej",
+      "Dowiedz si\u0119\u00a0wi\u0119cej",
+      "Dowiedz si\u0119\u00a0wi\u0119cej",
+      "Klient indywidualny",
+      "Klient biznesowy",
+      "Kontakt",
+      "Status zam\u00f3wienia",
+      "Reklamacje",
+      "Akcje serwisowe",
+      "Zwroty",
+      "Odbi\u00f3r zu\u017cytego sprz\u0119tu",
+      "Zg\u0142o\u015b b\u0142\u0105d",
+      "Instrukcje obs\u0142ugi",
+      "Kontakt z Biurem Prezesa Media Expert",
+      "Praca",
+      "Centrum Informacyjne",
+      "Dost\u0119pno\u015b\u0107 cyfrowa",
+      "O firmie",
+      "Regulamin",
+      "Newsletter - regulamin"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 142,
+    "has_og_tags": true,
+    "meta_description": "Media Expert \u2013 lider na rynku RTV i AGD. Szeroki wyb\u00f3r produkt\u00f3w i najnowszych technologii w super cenach!  Zapraszamy do ponad 600 sklep\u00f3w i na www.mediaexpert.pl",
+    "scripts_count": 69
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Infolinia with specific hours",
+      "Multiple 'Pomi\u0144' buttons for accessibility"
+    ],
+    "confidence": "medium"
+  }
+}

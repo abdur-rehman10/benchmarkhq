@@ -1,0 +1,195 @@
+{
+  "name": "nike_argentina",
+  "url": "https://www.nike.com/ar/",
+  "scanned_at": "2026-03-31T22:01:22.844352",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/nike_argentina_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/nike_argentina_mobile.png"
+  },
+  "structure": {
+    "title": "Nike Oficial - Zapatillas y accesorios deportivos | Nike AR",
+    "url_final": "https://www.nike.com.ar/",
+    "nav_items": [
+      {
+        "text": "Destacados",
+        "href": "/nike"
+      },
+      {
+        "text": "Destacados",
+        "href": "/nike"
+      },
+      {
+        "text": "Ver Todo",
+        "href": "/nike"
+      },
+      {
+        "text": "SALE",
+        "href": "/oportunidades"
+      },
+      {
+        "text": "Calzado hasta 50% Off",
+        "href": "/calzado/oportunidades/oportunidades?map=categorias,productclusternames,productclusternames"
+      },
+      {
+        "text": "Colecci\u00f3n de Invierno \u2744\ufe0f",
+        "href": "/coleccion-invierno"
+      },
+      {
+        "text": "Total 90",
+        "href": "/next-gen-football?map=productclusternames"
+      },
+      {
+        "text": "Jordan",
+        "href": "/nike?initialMap=c&initialQuery=nike&map=category-1,colecciones&page=2&query=/nike/jordan&searchStat"
+      },
+      {
+        "text": "Ojotas",
+        "href": "/nike/sandalias-ojotas?map=category-1,tipo-de-producto"
+      },
+      {
+        "text": "Los M\u00e1s Vendidos",
+        "href": "/mas-vendidos-calzado-indumentaria?map=productclusternames"
+      },
+      {
+        "text": "Buscador de Calzado",
+        "href": "/buscador-de-calzado"
+      },
+      {
+        "text": "\u00cdconos",
+        "href": "/nike/air-force-1/air-jordan-1/air-jordan-4/air-max/dunk/pegasus?map=category-1,icono,icono,icono,ic"
+      },
+      {
+        "text": "Air Force 1",
+        "href": "/air-force-1"
+      },
+      {
+        "text": "Air Jordan 1",
+        "href": "/air-jordan-1"
+      },
+      {
+        "text": "Dunk",
+        "href": "/dunk"
+      },
+      {
+        "text": "Air Max",
+        "href": "/air-max"
+      },
+      {
+        "text": "Pegasus",
+        "href": "/pegasus"
+      },
+      {
+        "text": "Tech Fleece",
+        "href": "/tech-fleece"
+      },
+      {
+        "text": "Nike Pro",
+        "href": "/nike-pro"
+      },
+      {
+        "text": "Lanzamientos",
+        "href": "/ultimos-lanzamientos"
+      }
+    ],
+    "buttons": [
+      "Registrate / Login",
+      "En compras superiores a $99.999"
+    ],
+    "forms": [],
+    "links_count": 287,
+    "images_count": 48,
+    "images_with_alt": 30,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Descubr\u00ed lo nuevo"
+      },
+      {
+        "level": 3,
+        "text": "Air Max 90"
+      },
+      {
+        "level": 3,
+        "text": "Air Max DN8"
+      },
+      {
+        "level": 3,
+        "text": "AIR MAX PLUS"
+      },
+      {
+        "level": 3,
+        "text": "AIR MAX MUSE"
+      },
+      {
+        "level": 3,
+        "text": "Air Max 90"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 225,
+    "has_og_tags": true,
+    "meta_description": "Tienda oficial de Nike en Argentina. Productos en cuotas sin inter\u00e9s y beneficios para socios.",
+    "scripts_count": 178
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "N",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Winter Collection",
+      "Air Max Series"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "name": "samsung_argentina",
+  "url": "https://www.samsung.com/ar/",
+  "scanned_at": "2026-03-31T22:02:05.142161",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/samsung_argentina_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/samsung_argentina_mobile.png"
+  },
+  "structure": {
+    "title": "Samsung Argentina | Dispositivos M\u00f3viles | TV & Audio | L\u00ednea Hogar",
+    "url_final": "https://www.samsung.com/ar/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/ar/"
+      },
+      {
+        "text": "CarritoCantidad de productos :0",
+        "href": "https://shop.samsung.com/ar/cart"
+      },
+      {
+        "text": "Iniciar sesi\u00f3n",
+        "href": ""
+      },
+      {
+        "text": "Abrir Mi men\u00fa",
+        "href": ""
+      },
+      {
+        "text": "ShopExplor\u00e1 la tienda",
+        "href": "/ar/offer/"
+      },
+      {
+        "text": "Shop",
+        "href": "/ar/offer/"
+      },
+      {
+        "text": "Galaxy S26 UltraNuevo",
+        "href": "/ar/smartphones/galaxy-s26-ultra/"
+      },
+      {
+        "text": "Galaxy Z Fold7",
+        "href": "/ar/smartphones/galaxy-z-fold7/"
+      },
+      {
+        "text": "Galaxy Tab S11 Ultra",
+        "href": "/ar/tablets/galaxy-tab-s/galaxy-tab-s11-ultra-gray-256gb-sm-x930nzadaro/"
+      },
+      {
+        "text": "Galaxy Watch8",
+        "href": "/ar/watches/galaxy-watch/galaxy-watch8-classic-46mm-black-bluetooth-sm-l500nzkaaro/"
+      },
+      {
+        "text": "Neo QLED 8K TV",
+        "href": "/ar/tvs/qled-tv/qn900f-85-inch-neo-qled-8k-mini-led-smart-tv-qn85qn900fgxzb/"
+      },
+      {
+        "text": "QLED",
+        "href": "/ar/tvs/qled-tv/q7f-85-inch-qled-4k-smart-tv-qn85q7faagczb/"
+      },
+      {
+        "text": "OLED",
+        "href": "/ar/tvs/oled-tv/s95f-77-inch-oled-4k-smart-tv-qn77s95fagxzb/"
+      },
+      {
+        "text": "Crystal UHD",
+        "href": "/ar/tvs/uhd-4k-tv/u8000f-65-inch-crystal-uhd-4k-smart-tv-un65u8000fgczb/"
+      },
+      {
+        "text": "Q-series Soundbar",
+        "href": "/ar/audio-devices/soundbar/q930f-black-hw-q930f-zb/"
+      },
+      {
+        "text": "Odyssey OLED G8",
+        "href": "/ar/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg800slxzb/"
+      },
+      {
+        "text": "Heladeras",
+        "href": "/ar/refrigerators/french-door/rf9000-t-style-french-door-32inch-family-hub-699l-clean-white-rf29db99"
+      },
+      {
+        "text": "Lavado",
+        "href": "/ar/washers-and-dryers/washer-dryer-combo/wd8000dk-combo--all-in-one-combo-super-speed-22kg-gray-wd2"
+      },
+      {
+        "text": "Aspiradoras Jet Bot",
+        "href": "/ar/vacuum-cleaners/robot/vr5000rm-slim-design-wi-fi-control-ez-empty-dustbin-black-vr05r5050wk-bg/"
+      },
+      {
+        "text": "Climatizaci\u00f3n",
+        "href": "/ar/air-conditioners/wall-mount/ar5000h-wall-mount-air-conditioner-with-energy-savingfast-cooling-ar"
+      }
+    ],
+    "buttons": [
+      "Argentina",
+      "Argentina / Espa\u00f1ol",
+      "T\u00fcrkiye / T\u00fcrk\u00e7e",
+      "Other Countries",
+      "Continuar",
+      "Cerrar",
+      "B\u00fasquedaB\u00fasqueda",
+      "Navegaci\u00f3n",
+      "Volver",
+      "B\u00fasqueda",
+      "Shop",
+      "M\u00f3viles",
+      "TV & AV",
+      "Electrodom\u00e9sticos",
+      "Computadoras y Monitores",
+      "Wearables",
+      "Accesorios",
+      "Soporte",
+      "Ayuda Con Mi Producto",
+      "Soporte",
+      "Reparaciones Y Garant\u00eda",
+      "Soporte Adicional",
+      "B\u00fasquedaB\u00fasqueda",
+      "Iniciar sesi\u00f3n/Sign-Up",
+      "Abrir Mi men\u00fa",
+      "Close menu",
+      "Aceptar",
+      "Cerrar la capa de ventana emergente",
+      "Aceptar",
+      "Cerrar la capa de ventana emergente"
+    ],
+    "forms": [
+      {
+        "action": "https://account.samsung.com/accounts/v1/DCGLAR/signInGate",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "response_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "client_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "redirect_uri",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "scope",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/accounts/v1/DCGLAR/signOutGate",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "client_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "signOutURL",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "registURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "returnURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 286,
+    "images_count": 169,
+    "images_with_alt": 55,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Samsung"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "La m\u00e1s elegida"
+      },
+      {
+        "level": 2,
+        "text": "Recomendado para vos"
+      },
+      {
+        "level": 2,
+        "text": "Explor\u00e1 las historias"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "searchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "esapiSearchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "scene7domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reviewUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "aplautYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reevooUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvRTLFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "multiLanguageYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "localLang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "runmodeInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "apiStageInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tempTitle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "siteCode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "store_sitecode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "serverType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gpvStoreDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "storeWebDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "shopIntegrationFlag",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "abierto",
+      "Ofertas",
+      "Compr\u00e1 directo. Obten\u00e9 m\u00e1s",
+      "SmartThings",
+      "Descubre AI",
+      "Samsung Care+",
+      "Compr\u00e1 & Prob\u00e1",
+      "Buscar Locales",
+      "Samsung Experience Store",
+      "Samsung Members",
+      "Bot\u00f3n de Arrepentimiento",
+      "Preguntas frecuentes del Shop",
+      "Explorar",
+      "abierto",
+      "Galaxy Smartphone",
+      "Galaxy Tab",
+      "Galaxy Book",
+      "Galaxy Watch",
+      "Galaxy Buds",
+      "TVs"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 164,
+    "has_og_tags": true,
+    "meta_description": "\u00a1Bienvenido a Samsung! Descubr\u00ed aqu\u00ed dispositivos con la tecnolog\u00eda m\u00e1s avanzada: Smart TVs, Smartphones, Tablets, Monitores, Electrodom\u00e9sticos y mucho m\u00e1s.",
+    "scripts_count": 116
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "N",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Samsung Care+",
+      "SmartThings integration",
+      "Samsung Experience Store locator"
+    ],
+    "confidence": "medium"
+  }
+}

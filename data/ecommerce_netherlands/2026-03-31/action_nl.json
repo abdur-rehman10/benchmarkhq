@@ -1,0 +1,307 @@
+{
+  "name": "action_nl",
+  "url": "https://www.action.com/nl-nl/",
+  "scanned_at": "2026-03-31T22:39:47.563901",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/action_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/action_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Action Nederland: Kleine prijzen, grote glimlach | Action NL",
+    "url_final": "https://www.action.com/nl-nl/",
+    "nav_items": [
+      {
+        "text": "Nieuw",
+        "href": "/nl-nl/nieuw/"
+      },
+      {
+        "text": "Weekactie",
+        "href": "/nl-nl/weekactie/"
+      },
+      {
+        "text": "Basics",
+        "href": "/nl-nl/moment/basics/"
+      },
+      {
+        "text": "Lente",
+        "href": "/nl-nl/moment/lente/"
+      },
+      {
+        "text": "Buitenverlichting",
+        "href": "/nl-nl/c/tuin/buitenverlichting/"
+      },
+      {
+        "text": "Wonen",
+        "href": "/nl-nl/c/wonen/"
+      },
+      {
+        "text": "Opbergen",
+        "href": "/nl-nl/c/huishouden/opbergboxen/"
+      },
+      {
+        "text": "Plaids & dekens",
+        "href": "/nl-nl/c/wonen/plaids--dekens/"
+      },
+      {
+        "text": "Woonaccessoires",
+        "href": "/nl-nl/c/wonen/woonaccessoires/"
+      },
+      {
+        "text": "Persoonlijke verzorging",
+        "href": "/nl-nl/c/persoonlijke-verzorging/"
+      },
+      {
+        "text": "Sportartikelen",
+        "href": "/nl-nl/c/sportartikelen/"
+      },
+      {
+        "text": "Eten & drinken",
+        "href": "/nl-nl/c/eten--drinken/"
+      },
+      {
+        "text": "Kantoor & school",
+        "href": "/nl-nl/c/kantoor--school/"
+      },
+      {
+        "text": "Hobby",
+        "href": "/nl-nl/c/hobby/"
+      },
+      {
+        "text": "Badtextiel",
+        "href": "/nl-nl/c/wonen/badtextiel/"
+      },
+      {
+        "text": "Wonen",
+        "href": "/nl-nl/c/wonen/"
+      },
+      {
+        "text": "Huishouden",
+        "href": "/nl-nl/c/huishouden/"
+      },
+      {
+        "text": "Kinderknutselen",
+        "href": "/nl-nl/c/speelgoed/kinderknutselen/"
+      },
+      {
+        "text": "Multimedia",
+        "href": "/nl-nl/c/multimedia/"
+      },
+      {
+        "text": "Keuken",
+        "href": "/nl-nl/c/keuken/"
+      }
+    ],
+    "buttons": [
+      "Producten",
+      "Thema's",
+      "Sluiten",
+      "Sluiten"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Je e-mailadres"
+          }
+        ]
+      }
+    ],
+    "links_count": 170,
+    "images_count": 108,
+    "images_with_alt": 2,
+    "headings": [
+      {
+        "level": 1,
+        "text": "De laagste prijzenNergens goedkoper!"
+      },
+      {
+        "level": 2,
+        "text": "Weekactie"
+      },
+      {
+        "level": 2,
+        "text": "Webshop"
+      },
+      {
+        "level": 2,
+        "text": "Nieuw"
+      },
+      {
+        "level": 2,
+        "text": "Alles voor elke dag"
+      },
+      {
+        "level": 2,
+        "text": "A-merken"
+      },
+      {
+        "level": 3,
+        "text": "De leukste Pasen"
+      },
+      {
+        "level": 3,
+        "text": "Kleine prijzen"
+      },
+      {
+        "level": 3,
+        "text": "Fleur je tuin op"
+      },
+      {
+        "level": 3,
+        "text": "Buiten bewegen = top"
+      },
+      {
+        "level": 3,
+        "text": "Twee favorieten"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Je e-mailadres"
+      },
+      {
+        "type": "checkbox",
+        "name": "necessary",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "preference",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "statistics",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "marketing",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Klantenservice",
+      "Winkels",
+      "Belangrijke productinformatie",
+      "Cadeaukaart",
+      "Download de Action app",
+      "Company website",
+      "Over ons",
+      "Disclaimer",
+      "Werken bij Action",
+      "Privacy statement",
+      "Persinformatie",
+      "Cookiestatement en instellingen",
+      "Duurzaamheid",
+      "Conformiteitsverklaringen",
+      "Winkelruimte gezocht",
+      "Blogs",
+      "Eigen merken",
+      "Alle momenten",
+      "Prijswinnaars"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 209,
+    "has_og_tags": true,
+    "meta_description": "6000+ producten in decoratie, schoonmaak, verzorging en meer \u2713 Voor minder dan je verwacht \u2713 Altijd dichtbij. Bekijk ons assortiment op de Action website >  | Bezoek vandaag jouw favoriete Action wink",
+    "scripts_count": 193
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "N",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Focus on low prices",
+      "Wide range of categories"
+    ],
+    "confidence": "medium"
+  }
+}

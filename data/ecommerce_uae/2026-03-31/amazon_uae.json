@@ -1,0 +1,226 @@
+{
+  "name": "amazon_uae",
+  "url": "https://www.amazon.ae",
+  "scanned_at": "2026-03-31T23:12:33.691749",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/amazon_uae_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/amazon_uae_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.ae: Shop Online in UAE - Low Prices on Electronics, Fashion, Mobiles, Grocery & more",
+    "url_final": "https://www.amazon.ae/",
+    "nav_items": [
+      {
+        "text": "Main content",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Searchopt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Cartshift+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Homeshift+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Ordersshift+opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Show/Hide shortcutsshift+opt+Z",
+      "Back to top",
+      "Sign in",
+      "United Arab Emirates"
+    ],
+    "forms": [
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Search Amazon.ae"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 331,
+    "images_count": 204,
+    "images_with_alt": 200,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Skip to"
+      },
+      {
+        "level": 2,
+        "text": "Keyboard shortcuts"
+      },
+      {
+        "level": 2,
+        "text": "Safety is our priority"
+      },
+      {
+        "level": 2,
+        "text": "Extra 15% off coupon | Join Prime"
+      },
+      {
+        "level": 2,
+        "text": "Up to 20% off - Electronics"
+      },
+      {
+        "level": 3,
+        "text": "Just for Prime | Use code: SAVE15"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to Amazon! Home of deals!"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Search Amazon.ae"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ue_back",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 135,
+    "has_og_tags": false,
+    "meta_description": "Find everything you need on Amazon. Low Prices, Fast Shipping & Easy Returns on millions of items in Dubai, Abu Dhabi, UAE. Try Prime for FREE and enjoy unlimited fast and FREE delivery. Shop now and ",
+    "scripts_count": 118
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive product range",
+      "Prime membership benefits",
+      "Localized offers and promotions"
+    ],
+    "confidence": "high"
+  }
+}

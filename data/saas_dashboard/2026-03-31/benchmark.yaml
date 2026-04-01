@@ -1,0 +1,221 @@
+metadata:
+  industry: saas_dashboard
+  industry_name: SaaS Dashboard
+  version: 1.0.0
+  generated_at: '2026-03-31T20:17:14.475706'
+  methodology: automated_scraping_with_ai_analysis
+  sites_analyzed: 20
+  sites_list:
+  - stripe_dashboard
+  - shopify
+  - hubspot
+  - monday.com
+  - notion
+  - linear
+  - asana
+  - clickup
+  - airtable
+  - datadog
+  - mixpanel
+  - intercom
+  - zendesk
+  - vercel
+  - figma
+  - jira
+  - slack
+  - amplitude
+  - posthog
+  - grafana
+features:
+  critical:
+  - id: login_option_visible
+    frequency: 2/2
+    frequency_percent: 100
+  - id: product_images
+    frequency: 20/20
+    frequency_percent: 100
+  - id: alt_text_on_images
+    frequency: 20/20
+    frequency_percent: 100
+  - id: responsive_design
+    frequency: 20/20
+    frequency_percent: 100
+  - id: footer_links
+    frequency: 19/19
+    frequency_percent: 100
+  - id: login_option
+    frequency: 15/15
+    frequency_percent: 100
+  - id: login_signup_option
+    frequency: 3/3
+    frequency_percent: 100
+  - id: footer_with_links
+    frequency: 1/1
+    frequency_percent: 100
+  - id: price_display
+    frequency: 19/20
+    frequency_percent: 95
+  - id: language_attribute
+    frequency: 18/20
+    frequency_percent: 90
+  - id: hero_section
+    frequency: 18/20
+    frequency_percent: 90
+  - id: product_descriptions
+    frequency: 17/20
+    frequency_percent: 85
+  required:
+  - id: help_center_link
+    frequency: 4/6
+    frequency_percent: 67
+  recommended:
+  - id: help_center
+    frequency: 6/14
+    frequency_percent: 43
+  nice_to_have:
+  - id: product_search
+    frequency: 7/20
+    frequency_percent: 35
+  - id: privacy_policy
+    frequency: 1/3
+    frequency_percent: 33
+  - id: terms_of_service
+    frequency: 1/3
+    frequency_percent: 33
+  - id: sticky_header
+    frequency: 6/20
+    frequency_percent: 30
+  - id: contact_form
+    frequency: 4/14
+    frequency_percent: 29
+  - id: category_browsing
+    frequency: 5/20
+    frequency_percent: 25
+  - id: cookie_consent_banner
+    frequency: 4/20
+    frequency_percent: 20
+  - id: privacy_policy_link
+    frequency: 3/17
+    frequency_percent: 18
+  - id: terms_of_service_link
+    frequency: 3/17
+    frequency_percent: 18
+  - id: add_to_cart_button
+    frequency: 1/6
+    frequency_percent: 17
+  innovative:
+  - id: phone_number
+    frequency: 1/13
+    frequency_percent: 8
+  - id: social_login
+    frequency: 1/20
+    frequency_percent: 5
+  - id: guest_checkout
+    frequency: 1/20
+    frequency_percent: 5
+  - id: shopping_cart
+    frequency: 1/20
+    frequency_percent: 5
+  - id: search_autocomplete
+    frequency: 0/20
+    frequency_percent: 0
+  - id: search_filters
+    frequency: 0/20
+    frequency_percent: 0
+  - id: trending_items
+    frequency: 0/20
+    frequency_percent: 0
+  - id: size_variant_selector
+    frequency: 0/20
+    frequency_percent: 0
+  - id: related_items
+    frequency: 0/20
+    frequency_percent: 0
+  - id: stock_availability
+    frequency: 0/20
+    frequency_percent: 0
+  - id: promo_code_field
+    frequency: 0/6
+    frequency_percent: 0
+  - id: multiple_payment_methods
+    frequency: 0/20
+    frequency_percent: 0
+  - id: shipping_info
+    frequency: 0/20
+    frequency_percent: 0
+  - id: estimated_delivery_date
+    frequency: 0/20
+    frequency_percent: 0
+  - id: star_ratings
+    frequency: 0/20
+    frequency_percent: 0
+  - id: written_customer_reviews
+    frequency: 0/7
+    frequency_percent: 0
+  - id: review_photos
+    frequency: 0/19
+    frequency_percent: 0
+  - id: wishlist_option
+    frequency: 0/6
+    frequency_percent: 0
+  - id: recently_viewed_items
+    frequency: 0/12
+    frequency_percent: 0
+  - id: personalized_recommendations
+    frequency: 0/20
+    frequency_percent: 0
+  - id: push_notification_prompt
+    frequency: 0/20
+    frequency_percent: 0
+  - id: order_tracking
+    frequency: 0/20
+    frequency_percent: 0
+  - id: order_history
+    frequency: 0/20
+    frequency_percent: 0
+  - id: return_refund_info
+    frequency: 0/20
+    frequency_percent: 0
+  - id: live_chat_widget
+    frequency: 0/12
+    frequency_percent: 0
+  - id: contact_form_email
+    frequency: 0/6
+    frequency_percent: 0
+  - id: phone_number_visible
+    frequency: 0/7
+    frequency_percent: 0
+  - id: breadcrumb_navigation
+    frequency: 0/20
+    frequency_percent: 0
+  - id: loading_states
+    frequency: 0/20
+    frequency_percent: 0
+  - id: customer_reviews
+    frequency: 0/8
+    frequency_percent: 0
+  - id: add_to_cart
+    frequency: 0/14
+    frequency_percent: 0
+  - id: promo_code
+    frequency: 0/14
+    frequency_percent: 0
+  - id: wishlist
+    frequency: 0/14
+    frequency_percent: 0
+  - id: recently_viewed
+    frequency: 0/8
+    frequency_percent: 0
+  - id: live_chat
+    frequency: 0/8
+    frequency_percent: 0
+  - id: written_reviews
+    frequency: 0/5
+    frequency_percent: 0
+performance_targets:
+  lighthouse_performance:
+    median: 0
+    min_acceptable: 0
+  lighthouse_accessibility:
+    median: 0
+    min_acceptable: 0

@@ -1,0 +1,220 @@
+{
+  "name": "walmart",
+  "url": "https://www.walmart.com",
+  "scanned_at": "2026-03-31T21:07:14.155708",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/walmart_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/walmart_mobile.png"
+  },
+  "structure": {
+    "title": "Walmart | Save Money. Live better.",
+    "url_final": "https://www.walmart.com/",
+    "nav_items": [
+      {
+        "text": "ReorderMy Items",
+        "href": "/my-items"
+      },
+      {
+        "text": "Reorder",
+        "href": "/my-items"
+      },
+      {
+        "text": "Lists",
+        "href": "/lists"
+      },
+      {
+        "text": "Registries",
+        "href": "/my-registries"
+      },
+      {
+        "text": "Sign InAccount",
+        "href": "https://identity.walmart.com/account/login?client_id=5f3fb121-076a-45f6-9587-249f0bc160ff&redirect_u"
+      },
+      {
+        "text": "Sign in or create account",
+        "href": "https://identity.walmart.com/account/login?client_id=5f3fb121-076a-45f6-9587-249f0bc160ff&redirect_u"
+      },
+      {
+        "text": "Purchase History",
+        "href": "/orders"
+      },
+      {
+        "text": "Walmart+",
+        "href": "/plus"
+      },
+      {
+        "text": "Subscriptions",
+        "href": "/cp/subscriptions/4191733"
+      }
+    ],
+    "buttons": [
+      "Cancel",
+      "Language | English",
+      "$0.00",
+      "Departments",
+      "Services",
+      "Add",
+      "Give feedback",
+      "Sign in or create account",
+      "Shop now",
+      "Try Walmart+ today",
+      "Shop now",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Options",
+      "Learn more"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search everything at Walmart online and in store"
+          }
+        ]
+      }
+    ],
+    "links_count": 81,
+    "images_count": 25,
+    "images_with_alt": 24,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Walmart | Save Money. Live better."
+      },
+      {
+        "level": 2,
+        "text": "Flash Deals"
+      },
+      {
+        "level": 2,
+        "text": "Robot or human?"
+      },
+      {
+        "level": 3,
+        "text": "Up to 65% off"
+      },
+      {
+        "level": 3,
+        "text": "Tvdfgts 12 inch Twin Mattress, Cooling Gel Memory Foam Mattress in a Box, Indivi"
+      },
+      {
+        "level": 3,
+        "text": "Tvdfgts 12 inch Twin Mattress, Cooling Gel Memory Foam Mattress in a Box, Indivi"
+      },
+      {
+        "level": 3,
+        "text": "16\" Oscillating Pedestal Fan with Remote, Ultra-High 3-Speed,3-Mode Standing Flo"
+      },
+      {
+        "level": 3,
+        "text": "16\" Oscillating Pedestal Fan with Remote, Ultra-High 3-Speed,3-Mode Standing Flo"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search everything at Walmart online and in store"
+      }
+    ],
+    "footer_links": [
+      "All Departments",
+      "Store Directory",
+      "Careers",
+      "Our Company",
+      "Sell on Walmart.com",
+      "Help",
+      "Product Recalls",
+      "Accessibility",
+      "Tax Exempt Program",
+      "Get the Walmart App",
+      "Safety Data Sheet",
+      "Terms of Use",
+      "Privacy Notice",
+      "California Supply Chain Act",
+      "Your Privacy Choices",
+      "Customer Privacy Center",
+      "Notice at Collection",
+      "AdChoices",
+      "Consumer Health Data Privacy Notices",
+      "Brand Shop Directory"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 44,
+    "has_og_tags": true,
+    "meta_description": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+    "scripts_count": 144
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Walmart+ membership benefits",
+      "In-store pickup and delivery options",
+      "Extensive product range including groceries"
+    ],
+    "confidence": "high"
+  }
+}

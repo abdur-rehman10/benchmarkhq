@@ -1,0 +1,140 @@
+{
+  "name": "sodimac_ar",
+  "url": "https://www.sodimac.com.ar",
+  "scanned_at": "2026-03-31T22:00:58.593347",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/sodimac_ar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/sodimac_ar_mobile.png"
+  },
+  "structure": {
+    "title": "Sodimac Argentina - Aire libre, electro, muebles, decoraci\u00f3n, herramientas y materiales de construcci\u00f3n",
+    "url_final": "https://www.sodimac.com.ar/sodimac-ar/",
+    "nav_items": [
+      {
+        "text": "SERVICIO AL CLIENTE",
+        "href": "https://www.sodimac.com.ar/sodimac-ar/content/Centro_de_Atencion_al_Cliente/?cid=bnchom8478"
+      },
+      {
+        "text": "TIENDAS",
+        "href": "https://www.sodimac.com.ar/sodimac-ar/content/Tiendas/?cid=bnchom8477"
+      },
+      {
+        "text": "SODIMAC EMPRESAS",
+        "href": "https://www.sodimac.com.ar/sodimac-ar/content/Sodimac_Empresa?cid=inf_hom_46164"
+      },
+      {
+        "text": "FINANCIACI\u00d3N",
+        "href": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/?cid=bnchom8481"
+      }
+    ],
+    "buttons": [
+      "Men\u00fa",
+      "Argentina",
+      "Aceptar",
+      "M\u00e1s informaci\u00f3n"
+    ],
+    "forms": [],
+    "links_count": 112,
+    "images_count": 16,
+    "images_with_alt": 15,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Juntos construyendo sue\u00f1os de hogar"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+      }
+    ],
+    "footer_links": [
+      "Tiendas y horarios",
+      "Servicios Hogar",
+      "Pag\u00e1 en cuotas",
+      "Venta telef\u00f3nica",
+      "Servicio al cliente",
+      "Legales",
+      "T\u00e9rminos y Condiciones",
+      "Privacidad",
+      "Sodimac Empresas",
+      "Mi cuenta",
+      "Reg\u00edstrate ahora",
+      "Agente Virtual",
+      "Nuestra empresa",
+      "Sostenibilidad",
+      "Trabaj\u00e1 con nosotros",
+      "Rendici\u00f3n de cuentas",
+      "Canal de Integridad",
+      "Descarg\u00e1 nuestra APP",
+      "Apple Store",
+      "Google Play"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Sodimac tienda online, compra en l\u00ednea decoraci\u00f3n para el hogar, muebles, herramientas, materiales de construcci\u00f3n y m\u00e1s.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "N",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Sodimac Empresas section",
+      "Financing options"
+    ],
+    "confidence": "high"
+  }
+}

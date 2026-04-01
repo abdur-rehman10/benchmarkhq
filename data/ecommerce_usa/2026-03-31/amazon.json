@@ -1,0 +1,219 @@
+{
+  "name": "amazon",
+  "url": "https://www.amazon.com",
+  "scanned_at": "2026-03-31T21:06:31.611514",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/amazon_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/amazon_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.com. Spend less. Smile more.",
+    "url_final": "https://www.amazon.com/",
+    "nav_items": [
+      {
+        "text": "Main content",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Searchopt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Cartshift+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Homeshift+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Ordersshift+opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Show/Hide shortcutsshift+opt+Z",
+      "Back to top",
+      "Sign in",
+      "TRYTurkish Lira",
+      "United States"
+    ],
+    "forms": [
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Search Amazon"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 256,
+    "images_count": 137,
+    "images_with_alt": 133,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Skip to"
+      },
+      {
+        "level": 2,
+        "text": "Keyboard shortcuts"
+      },
+      {
+        "level": 2,
+        "text": "Get your game on"
+      },
+      {
+        "level": 2,
+        "text": "Top categories in Kitchen appliancesTop categories in Kitchen appliances"
+      },
+      {
+        "level": 2,
+        "text": "New home arrivals under $50"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Search Amazon"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ue_back",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 109,
+    "has_og_tags": false,
+    "meta_description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, includin",
+    "scripts_count": 113
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product catalog",
+      "personalized recommendations",
+      "Amazon Prime benefits"
+    ],
+    "confidence": "high"
+  }
+}

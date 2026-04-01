@@ -1,0 +1,362 @@
+{
+  "name": "chemist_warehouse",
+  "url": "https://www.chemistwarehouse.com.au",
+  "scanned_at": "2026-04-01T00:21:22.864886",
+  "screenshots": {
+    "desktop": "data/ecommerce_australia/2026-04-01/screenshots/chemist_warehouse_desktop.png",
+    "mobile": "data/ecommerce_australia/2026-04-01/screenshots/chemist_warehouse_mobile.png"
+  },
+  "structure": {
+    "title": "Chemist Warehouse | Australia's Largest Pharmacy Retailer",
+    "url_final": "https://www.chemistwarehouse.com.au/",
+    "nav_items": [
+      {
+        "text": "All Fragrance",
+        "href": "/shop-online/542/fragrances"
+      },
+      {
+        "text": "Women's Fragrance",
+        "href": "/shop-online/601/fragrances-womens"
+      },
+      {
+        "text": "Men's Fragrance",
+        "href": "/shop-online/600/fragrances-mens"
+      },
+      {
+        "text": "Unisex Fragrance",
+        "href": "/shop-online/602/unisex-fragrances"
+      },
+      {
+        "text": "Body Mists",
+        "href": "/shop-online/3391/body-mist"
+      },
+      {
+        "text": "Gift Sets",
+        "href": "/shop-online/919/fragrance-gift-sets"
+      },
+      {
+        "text": "All Vitamins & Supplements",
+        "href": "/shop-online/81/vitamins-supplements"
+      },
+      {
+        "text": "Women's Health",
+        "href": "/shop-online/500026/womens-health"
+      },
+      {
+        "text": "Men's Health",
+        "href": "/shop-online/500019/mens-health"
+      },
+      {
+        "text": "Kid's Health",
+        "href": "/shop-online/500018/kids-health"
+      },
+      {
+        "text": "Brain & Memory",
+        "href": "/shop-online/500001/brain-memory"
+      },
+      {
+        "text": "Cold, Flu & Immunity",
+        "href": "/shop-online/500002/cold-flu-immunity"
+      },
+      {
+        "text": "Digestion & Gut Health",
+        "href": "/shop-online/500003/digestion-gut-health"
+      },
+      {
+        "text": "Energy & Fitness",
+        "href": "/shop-online/500004/energy-fitness"
+      },
+      {
+        "text": "Eye Health",
+        "href": "/shop-online/500005/eye-health"
+      },
+      {
+        "text": "Hair, Skin & Nails",
+        "href": "/shop-online/500008/hair-skin-nails"
+      },
+      {
+        "text": "Heart & Circulation",
+        "href": "/shop-online/500016/heart-circulation"
+      },
+      {
+        "text": "Muscles, Bones & Joints",
+        "href": "/shop-online/500021/muscles-bones-joints"
+      },
+      {
+        "text": "Sleep, Stress & Mood",
+        "href": "/shop-online/500025/sleep-stress-mood"
+      },
+      {
+        "text": "Multivitamins",
+        "href": "/shop-online/500020/multivitamins"
+      }
+    ],
+    "buttons": [
+      "AccountMy AccountLogin or Sign up",
+      "$0.00",
+      "Products",
+      "Fragrance",
+      "Vitamins & Supplements",
+      "Shop by Family Health",
+      "Shop by Need",
+      "Pregnancy & Baby",
+      "Cleaning & Bathing",
+      "Eating & Drinking",
+      "Baby Medicine",
+      "For Parents",
+      "Clothing",
+      "Sleeping",
+      "Cosmetics",
+      "Lips",
+      "Eyes",
+      "Complexion",
+      "Cheeks",
+      "Nails",
+      "Tools, Accessories & Storage",
+      "Skincare",
+      "Shop By Need",
+      "Sun Care & Tanning",
+      "Lotions & Creams",
+      "Cleansers"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Enter your search keywords..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 511,
+    "images_count": 84,
+    "images_with_alt": 84,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Fragrance"
+      },
+      {
+        "level": 2,
+        "text": "Vitamins & Supplements"
+      },
+      {
+        "level": 2,
+        "text": "Shop by Family Health"
+      },
+      {
+        "level": 2,
+        "text": "Shop by Need"
+      },
+      {
+        "level": 2,
+        "text": "Pregnancy & Baby"
+      },
+      {
+        "level": 3,
+        "text": "My Account"
+      },
+      {
+        "level": 3,
+        "text": "Heat, Colour, Repeat: Why Your Hair is Working Harder Than Ever (And What it Nee"
+      },
+      {
+        "level": 3,
+        "text": "Why Omega-3 Supplements Aren\u2019t One-Size-Fits-All (and How to Choose)"
+      },
+      {
+        "level": 3,
+        "text": "We\u2019re Not Skipping Foot Care Anymore, Because It\u2019s Easier Than You Think"
+      },
+      {
+        "level": 3,
+        "text": "Get The Glow: Glass Skin in Two Easy Steps"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Enter your search keywords..."
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Find a Store",
+      "Competitions",
+      "Blog",
+      "Help Centre",
+      "Privacy Policy",
+      "Privacy Policy",
+      "Catalogue",
+      "Gift Cards",
+      "Click & Collect",
+      "Fast Delivery",
+      "Shipping & Delivery",
+      "Prescriptions",
+      "Vaccinations",
+      "Instant Consult",
+      "Chemist Warehouse App",
+      "Help Centre"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 56,
+    "has_og_tags": true,
+    "meta_description": "Australia\u2019s largest pharmacy retailer Chemist Warehouse offers low prices on fragrances, prescriptions, vitamins, beauty, baby care, and more.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive range of health and wellness products",
+      "Focus on family health categories"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,4477 @@
+[
+  {
+    "name": "doordash",
+    "url": "https://www.doordash.com",
+    "scanned_at": "2026-03-31T20:29:47.726591",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/doordash_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/doordash_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.doordash.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 2,
+      "main_links": [
+        {
+          "text": "Cloudflare",
+          "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
+        },
+        {
+          "text": "Privacy",
+          "href": "https://www.cloudflare.com/privacypolicy/"
+        }
+      ],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.doordash.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.doordash.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,initial-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 4,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "#N/A",
+      "design_quality_1_to_10": 2,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Star ratings visible",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "uber_eats",
+    "url": "https://www.ubereats.com",
+    "scanned_at": "2026-03-31T20:30:26.427431",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/uber_eats_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/uber_eats_mobile.png"
+    },
+    "structure": {
+      "title": "Uber Eats | Food & Grocery Delivery | Order Groceries and Food Online",
+      "url_final": "https://www.ubereats.com/?mod=feedLocationRequestModal&modctx=%257B%2522mode%2522%253A%2522REQUEST%2522%257D&ps=1",
+      "nav_items": [
+        {
+          "text": "Sign up",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Log in",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Create a business account",
+          "href": "//www.uber.com/business/eats"
+        },
+        {
+          "text": "Add your restaurant",
+          "href": "//merchants.ubereats.com/s/signup/"
+        },
+        {
+          "text": "Sign up to deliver",
+          "href": "//www.uber.com/deliver/"
+        },
+        {
+          "text": "Get a rideArrow launch",
+          "href": "//www.uber.com/ride"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277"
+        },
+        {
+          "text": "Android",
+          "href": "https://play.google.com/store/apps/details?id=com.ubercab.eats"
+        }
+      ],
+      "buttons": [
+        "Three lines",
+        "Search here",
+        "Close",
+        "Allow",
+        "Type in delivery address instead"
+      ],
+      "links_count": 98,
+      "main_links": [
+        {
+          "text": "Sign up",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Log in",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Create a business account",
+          "href": "//www.uber.com/business/eats"
+        },
+        {
+          "text": "Add your restaurant",
+          "href": "//merchants.ubereats.com/s/signup/"
+        },
+        {
+          "text": "Sign up to deliver",
+          "href": "//www.uber.com/deliver/"
+        },
+        {
+          "text": "Get a rideArrow launch",
+          "href": "//www.uber.com/ride"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277"
+        },
+        {
+          "text": "Android",
+          "href": "https://play.google.com/store/apps/details?id=com.ubercab.eats"
+        },
+        {
+          "text": "Skip to content",
+          "href": "#main-content"
+        },
+        {
+          "text": "Get a rideArrow launch",
+          "href": "//www.uber.com/ride"
+        },
+        {
+          "text": "Log in",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Sign up",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://auth.uber.com/v2/?next_url=https%3A%2F%2Fwww.ubereats.com%2Flogin-redirect%2F%3Fcampaign%3Ds"
+        },
+        {
+          "text": "Feed your employeesCreate a business account",
+          "href": "//www.uber.com/business/eats"
+        },
+        {
+          "text": "Your restaurant, deliveredAdd your restaurant",
+          "href": "//merchants.ubereats.com/s/signup/"
+        },
+        {
+          "text": "Deliver with Uber EatsSign up to deliver",
+          "href": "//www.uber.com/deliver/"
+        },
+        {
+          "text": "View all 500+ cities",
+          "href": "/location"
+        },
+        {
+          "text": "Akron",
+          "href": "/city/akron-oh"
+        },
+        {
+          "text": "Albuquerque",
+          "href": "/city/albuquerque-nm"
+        },
+        {
+          "text": "Bridgeport",
+          "href": "/city/bridgeport-ct"
+        },
+        {
+          "text": "Concord",
+          "href": "/city/concord-ca"
+        },
+        {
+          "text": "Dayton",
+          "href": "/city/dayton-oh"
+        },
+        {
+          "text": "El Paso",
+          "href": "/city/el-paso-tx"
+        },
+        {
+          "text": "Hartford",
+          "href": "/city/hartford-ct"
+        },
+        {
+          "text": "Houston",
+          "href": "/city/houston-tx"
+        },
+        {
+          "text": "Indianapolis",
+          "href": "/city/indianapolis-in"
+        },
+        {
+          "text": "McAllen",
+          "href": "/city/mcallen-tx"
+        },
+        {
+          "text": "Mesa",
+          "href": "/city/mesa-az"
+        },
+        {
+          "text": "Milwaukee",
+          "href": "/city/milwaukee-wi"
+        },
+        {
+          "text": "Nashville",
+          "href": "/city/nashville-tn"
+        }
+      ],
+      "forms": [],
+      "images_count": 13,
+      "images_with_alt": 10,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Order delivery near you"
+        },
+        {
+          "level": 2,
+          "text": "Cities near me"
+        },
+        {
+          "level": 2,
+          "text": "Countries with Uber Eats"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "searchTerm",
+          "placeholder": "Enter delivery address"
+        }
+      ],
+      "meta_description": "Find the best restaurants that deliver. Get contactless delivery for restaurant takeout, groceries, and more! Order food online or in the Uber Eats app and support local restaurants.",
+      "meta_viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+      "has_og_tags": true,
+      "scripts_count": 191,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 7,
+      "footer_links": [
+        "Get Help",
+        "Buy gift cards",
+        "Add your restaurant",
+        "Sign up to deliver",
+        "Create a business account",
+        "Promotions",
+        "Restaurants near me",
+        "View all cities",
+        "View all countries",
+        "Pickup near me",
+        "About Uber Eats",
+        "Shop groceries",
+        "English",
+        "Facebook",
+        "Twitter",
+        "Instagram",
+        "Privacy Policy",
+        "Terms"
+      ],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "U",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart_button": "U",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "U",
+        "estimated_delivery_date": "U",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "N",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Order delivery near you",
+        "Cities near me",
+        "Countries with Uber Eats"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Promo code field",
+        "Multiple payment methods",
+        "Star ratings",
+        "Written reviews",
+        "Wishlist option",
+        "Order tracking",
+        "Return/refund information"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "grubhub",
+    "url": "https://www.grubhub.com",
+    "scanned_at": "2026-03-31T20:31:08.081565",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/grubhub_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/grubhub_mobile.png"
+    },
+    "structure": {
+      "title": "Grubhub food delivery is not available in your country",
+      "url_final": "https://www.grubhub.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 1,
+      "main_links": [],
+      "forms": [],
+      "images_count": 2,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry about that"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "Free online ordering from restaurants near you! With more than 30,000 restaurants in 500+ cities, food delivery or takeout is just a click away. Because with Grubhub: Click, click, food!",
+      "meta_viewport": "width=device-width,initial-scale=1,user-scalable=no",
+      "has_og_tags": true,
+      "scripts_count": 0,
+      "stylesheets_count": 1,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N"
+      },
+      "navigation_pattern": "none",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 3,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "just_eat",
+    "url": "https://www.just-eat.co.uk",
+    "scanned_at": "2026-03-31T20:31:38.201372",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/just_eat_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/just_eat_mobile.png"
+    },
+    "structure": {
+      "title": "Order Takeaway, Groceries, and Food Delivery | Just Eat",
+      "url_final": "https://www.just-eat.co.uk/",
+      "nav_items": [
+        {
+          "text": "Corporate Ordering",
+          "href": "https://business.just-eat.co.uk/what-we-do"
+        },
+        {
+          "text": "Become a courier",
+          "href": "https://couriers.just-eat.co.uk/jobs?utm_source=mainsite&utm_medium=Referral&utm_campaign=RC_M_WS_GB"
+        },
+        {
+          "text": "Partner with us",
+          "href": "https://www.just-eat.co.uk/partner/signup/"
+        }
+      ],
+      "buttons": [
+        "Corporate Ordering",
+        "Become a courier",
+        "Partner with us",
+        "Log in",
+        "Search"
+      ],
+      "links_count": 44,
+      "main_links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main-content"
+        },
+        {
+          "text": "Corporate Ordering",
+          "href": "https://business.just-eat.co.uk/what-we-do"
+        },
+        {
+          "text": "Become a courier",
+          "href": "https://couriers.just-eat.co.uk/jobs?utm_source=mainsite&utm_medium=Referral&utm_campaign=RC_M_WS_GB"
+        },
+        {
+          "text": "Partner with us",
+          "href": "https://www.just-eat.co.uk/partner/signup/"
+        },
+        {
+          "text": "Receive stamps",
+          "href": "#stampCards"
+        },
+        {
+          "text": "About us",
+          "href": "https://www.justeattakeaway.com"
+        },
+        {
+          "text": "Contact us",
+          "href": "/help"
+        },
+        {
+          "text": "Restaurant sign up",
+          "href": "https://partnersignup.just-eat.co.uk"
+        },
+        {
+          "text": "Deliver with Just Eat",
+          "href": "https://couriers.just-eat.co.uk/jobs?utm_source=mainsite&utm_medium=Referral&utm_campaign=RC_M_WS_GB"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.justeattakeaway.com/global/en"
+        },
+        {
+          "text": "Just Eat for Business",
+          "href": "https://business.just-eat.co.uk"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "text": "Price promise",
+          "href": "/help/article/204298552/whats-the-just-eat-price-promise-all-about"
+        },
+        {
+          "text": "Cookies Policy",
+          "href": "/cookies-policy"
+        },
+        {
+          "text": "Newsroom",
+          "href": "https://www.justeattakeaway.com/newsroom/en-GB/"
+        },
+        {
+          "text": "Investor Relations",
+          "href": "https://www.justeattakeaway.com/"
+        },
+        {
+          "text": "Bistro.sk",
+          "href": "https://www.bistro.sk"
+        },
+        {
+          "text": "Just Eat - Switzerland",
+          "href": "https://www.just-eat.ch"
+        },
+        {
+          "text": "Just Eat - Denmark",
+          "href": "https://www.just-eat.dk"
+        },
+        {
+          "text": "Just Eat - Spain",
+          "href": "https://www.just-eat.es"
+        },
+        {
+          "text": "Just Eat - United Kingdom",
+          "href": "https://www.just-eat.co.uk"
+        },
+        {
+          "text": "Just Eat - Ireland",
+          "href": "https://www.just-eat.ie"
+        },
+        {
+          "text": "Just Eat - Italy",
+          "href": "https://www.justeat.it"
+        },
+        {
+          "text": "Lieferando.at",
+          "href": "https://www.lieferando.at"
+        },
+        {
+          "text": "Lieferando.de",
+          "href": "https://www.lieferando.de"
+        },
+        {
+          "text": "Pyszne.pl",
+          "href": "https://www.pyszne.pl"
+        },
+        {
+          "text": "SkipTheDishes",
+          "href": "https://www.skipthedishes.com"
+        },
+        {
+          "text": "Takeaway.com - Belgium",
+          "href": "https://www.takeaway.com/be"
+        },
+        {
+          "text": "Takeaway.com - Luxembourg",
+          "href": "https://www.takeaway.com/lu"
+        },
+        {
+          "text": "Takeaway.com - Bulgaria",
+          "href": "https://www.takeaway.com/bg"
+        }
+      ],
+      "forms": [],
+      "images_count": 1,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Order food and more"
+        },
+        {
+          "level": 2,
+          "text": "Restaurants and grocery stores delivering near you"
+        },
+        {
+          "level": 2,
+          "text": "It's as easy as this."
+        },
+        {
+          "level": 3,
+          "text": "How to order"
+        },
+        {
+          "level": 3,
+          "text": "Download the appClick, sit back, and enjoy."
+        },
+        {
+          "level": 3,
+          "text": "Just EatYour time."
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "searchText",
+          "placeholder": "Full address"
+        }
+      ],
+      "meta_description": "Order online with Just Eat from local takeaways, restaurants, supermarkets, pharmacies and much more. Choose from food, groceries, and household essentials, delivered to your door in minutes.",
+      "meta_viewport": "initial-scale=1.0, width=device-width",
+      "has_og_tags": false,
+      "scripts_count": 31,
+      "stylesheets_count": 4,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 13,
+      "footer_links": [
+        "About us",
+        "Contact us",
+        "Restaurant sign up",
+        "Deliver with Just Eat",
+        "Careers",
+        "Just Eat for Business",
+        "Privacy Policy",
+        "Price promise",
+        "Cookies Policy",
+        "Newsroom",
+        "Investor Relations",
+        "Bistro.sk",
+        "Just Eat - Switzerland",
+        "Just Eat - Denmark",
+        "Just Eat - Spain",
+        "Just Eat - United Kingdom"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "U",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart_button": "U",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "U",
+        "estimated_delivery_date": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "Y",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "N",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Corporate Ordering",
+        "Become a courier",
+        "Partner with us"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking capability"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "deliveroo",
+    "url": "https://deliveroo.co.uk",
+    "scanned_at": "2026-03-31T20:32:15.272543",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/deliveroo_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/deliveroo_mobile.png"
+    },
+    "structure": {
+      "title": "Deliveroo - Food, Groceries, Pharmacy, Gifts & More. Delivered In A Tap.",
+      "url_final": "https://deliveroo.co.uk/",
+      "nav_items": [
+        {
+          "text": "Investors",
+          "href": "https://corporate.deliveroo.co.uk"
+        },
+        {
+          "text": "About us",
+          "href": "/about-us"
+        },
+        {
+          "text": "Takeaway",
+          "href": "/takeaway/"
+        },
+        {
+          "text": "More",
+          "href": "/more/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "https://uk.deliveroo.news/"
+        },
+        {
+          "text": "Engineering blog",
+          "href": "https://deliveroo.engineering"
+        },
+        {
+          "text": "Design blog",
+          "href": "https://deliveroo.design"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/gift-cards"
+        },
+        {
+          "text": "Deliveroo Students",
+          "href": "https://www.deliveroostudents.co.uk/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.deliveroo.co.uk"
+        },
+        {
+          "text": "Restaurant signup",
+          "href": "https://restaurants.deliveroo.com/"
+        },
+        {
+          "text": "Become a rider",
+          "href": "/apply?utm-campaign=ridewithus&utm-medium=organic&utm-source=sitefooter"
+        },
+        {
+          "text": "Deliveroo Talent Directory",
+          "href": "/talent"
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "/legal"
+        },
+        {
+          "text": "Privacy",
+          "href": "/privacy"
+        },
+        {
+          "text": "Cookies",
+          "href": "/cookies"
+        },
+        {
+          "text": "Modern Slavery Statement",
+          "href": "/modern-slavery-act-statement"
+        },
+        {
+          "text": "Tax Strategy",
+          "href": "/tax-strategy"
+        },
+        {
+          "text": "Section 172 Statement",
+          "href": "https://corporate.deliveroo.co.uk/about-us/governance/"
+        },
+        {
+          "text": "Public Authority Requests",
+          "href": "/public-authority-requests"
+        }
+      ],
+      "buttons": [
+        "Log in",
+        "Sign up",
+        "Search",
+        "Get started",
+        "Get started",
+        "Get started",
+        "Get started",
+        "Customise",
+        "Continue without accepting",
+        "Accept all",
+        "Accept All",
+        "View Vendor Details\u200e",
+        "View Vendor Details\u200e",
+        "View Vendor Details\u200e",
+        "View Vendor Details\u200e",
+        "Back Button",
+        "Filter Icon",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Reject All",
+        "Confirm My Choices"
+      ],
+      "links_count": 43,
+      "main_links": [
+        {
+          "text": "Footer",
+          "href": "#page-footer"
+        },
+        {
+          "text": "Deliveroo",
+          "href": "/"
+        },
+        {
+          "text": "Log in",
+          "href": "/login?redirect=/"
+        },
+        {
+          "text": "Download Deliveroo in the App Store",
+          "href": "/app/?platform=ios&home_page=true&home_page_variant=homepage_variant_d&mobile_banner=false"
+        },
+        {
+          "text": "Get Deliveroo on Google Play",
+          "href": "/app/?platform=android&home_page=true&home_page_variant=homepage_variant_d&mobile_banner=false"
+        },
+        {
+          "text": "T&Cs",
+          "href": "/legal"
+        },
+        {
+          "text": "Get started",
+          "href": "https://restaurants.deliveroo.com/?utm-campaign=workwithus&utm-medium=organic&utm-source=landingpage"
+        },
+        {
+          "text": "Get started",
+          "href": "/apply?utm-campaign=ridewithus&utm-medium=organic&utm-source=landingpage"
+        },
+        {
+          "text": "Get started",
+          "href": "https://deliveroo.co.uk/for-work"
+        },
+        {
+          "text": "Get started",
+          "href": "https://deliveroo.co.uk/gift-cards"
+        },
+        {
+          "text": "Investors",
+          "href": "https://corporate.deliveroo.co.uk"
+        },
+        {
+          "text": "About us",
+          "href": "/about-us"
+        },
+        {
+          "text": "Takeaway",
+          "href": "/takeaway/"
+        },
+        {
+          "text": "More",
+          "href": "/more/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "https://uk.deliveroo.news/"
+        },
+        {
+          "text": "Engineering blog",
+          "href": "https://deliveroo.engineering"
+        },
+        {
+          "text": "Design blog",
+          "href": "https://deliveroo.design"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/gift-cards"
+        },
+        {
+          "text": "Deliveroo Students",
+          "href": "https://www.deliveroostudents.co.uk/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.deliveroo.co.uk"
+        },
+        {
+          "text": "Restaurant signup",
+          "href": "https://restaurants.deliveroo.com/"
+        },
+        {
+          "text": "Become a rider",
+          "href": "/apply?utm-campaign=ridewithus&utm-medium=organic&utm-source=sitefooter"
+        },
+        {
+          "text": "Deliveroo Talent Directory",
+          "href": "/talent"
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "/legal"
+        },
+        {
+          "text": "Privacy",
+          "href": "/privacy"
+        },
+        {
+          "text": "Cookies",
+          "href": "/cookies"
+        },
+        {
+          "text": "Modern Slavery Statement",
+          "href": "/modern-slavery-act-statement"
+        },
+        {
+          "text": "Tax Strategy",
+          "href": "/tax-strategy"
+        },
+        {
+          "text": "Section 172 Statement",
+          "href": "https://corporate.deliveroo.co.uk/about-us/governance/"
+        },
+        {
+          "text": "Public Authority Requests",
+          "href": "/public-authority-requests"
+        }
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "authToken",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirectPath",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "localePrefix",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_count": 53,
+      "images_with_alt": 8,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Restaurants, takeaways, supermarkets and shops.Delivered."
+        },
+        {
+          "level": 2,
+          "text": "Track orders to your door"
+        },
+        {
+          "level": 2,
+          "text": "Up to 25% off meal deals"
+        },
+        {
+          "level": 2,
+          "text": "Partner with us"
+        },
+        {
+          "level": 2,
+          "text": "Ride with us"
+        },
+        {
+          "level": 2,
+          "text": "Deliveroo for Work"
+        },
+        {
+          "level": 3,
+          "text": "Discover Deliveroo"
+        },
+        {
+          "level": 3,
+          "text": "Legal"
+        },
+        {
+          "level": 3,
+          "text": "Support"
+        },
+        {
+          "level": 3,
+          "text": "Take Deliveroo with you"
+        },
+        {
+          "level": 3,
+          "text": "Manage Consent Preferences"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "location-search",
+          "placeholder": "e.g. EC4R 3TE"
+        },
+        {
+          "type": "hidden",
+          "name": "authToken",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "redirectPath",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localePrefix",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search vendors"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "From food to flowers, gifts to groceries, we bring the best of your neighbourhood to your door. All in as little as 30 minutes. Download our app or order online. ",
+      "meta_viewport": "width=device-width, initial-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 62,
+      "stylesheets_count": 13,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 20,
+      "footer_links": [
+        "Investors",
+        "About us",
+        "Takeaway",
+        "More",
+        "Newsroom",
+        "Engineering blog",
+        "Design blog",
+        "Gift Cards",
+        "Deliveroo Students",
+        "Careers",
+        "Restaurant signup",
+        "Become a rider",
+        "Deliveroo Talent Directory",
+        "Terms and conditions",
+        "Privacy",
+        "Cookies",
+        "Modern Slavery Statement",
+        "Tax Strategy",
+        "Section 172 Statement",
+        "Public Authority Requests"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart_button": "U",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "U",
+        "estimated_delivery_date": "U",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "Y",
+        "cookie_consent_banner": "Y",
+        "terms_of_service_link": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#00B140",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Order tracking capability",
+        "Cookie consent banner",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Social login",
+        "Guest checkout option",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Multiple payment methods",
+        "Star ratings",
+        "Written customer reviews"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "wolt",
+    "url": "https://wolt.com",
+    "scanned_at": "2026-03-31T20:32:45.683668",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/wolt_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/wolt_mobile.png"
+    },
+    "structure": {
+      "title": "Wolt Delivery | Food, Groceries and more in 30 minutes \u2013 Wolt",
+      "url_final": "https://wolt.com/",
+      "nav_items": [
+        {
+          "text": "For couriers",
+          "href": "https://explore.wolt.com/en/tur/couriers"
+        },
+        {
+          "text": "For merchants",
+          "href": "https://explore.wolt.com/en/tur/merchant"
+        },
+        {
+          "text": "For affiliates",
+          "href": "https://explore.wolt.com/en/tur/affiliates"
+        }
+      ],
+      "buttons": [
+        "Burgas",
+        "Partners",
+        "Log in",
+        "Sign up",
+        "Albania",
+        "Austria",
+        "Azerbaijan",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "Georgia",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Iceland",
+        "Israel",
+        "Japan",
+        "Kazakhstan",
+        "Kosovo",
+        "Latvia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta"
+      ],
+      "links_count": 66,
+      "main_links": [
+        {
+          "text": "Jobs",
+          "href": "https://careers.wolt.com/"
+        },
+        {
+          "text": "Delivered sustainably",
+          "href": "https://explore.wolt.com/about/better-cities"
+        },
+        {
+          "text": "Log in for saved addresses",
+          "href": ""
+        },
+        {
+          "text": "Popular around you right now",
+          "href": "/en/discovery"
+        },
+        {
+          "text": "Become a courier partnerEarn by delivering to loca",
+          "href": "https://explore.wolt.com/couriers"
+        },
+        {
+          "text": "For couriers",
+          "href": "https://explore.wolt.com/couriers"
+        },
+        {
+          "text": "Reach new customersWe help you to grow your busine",
+          "href": "https://explore.wolt.com/merchant"
+        },
+        {
+          "text": "For merchants",
+          "href": "https://explore.wolt.com/merchant"
+        },
+        {
+          "text": "Zero delivery fees with Wolt+Enjoy zero delivery f",
+          "href": "https://explore.wolt.com/wolt-plus"
+        },
+        {
+          "text": "Check out Wolt Market",
+          "href": "https://explore.wolt.com/wolt-market"
+        },
+        {
+          "text": "Check out Wolt for Work",
+          "href": "https://explore.wolt.com/wolt-for-work"
+        },
+        {
+          "text": "AppStore",
+          "href": "https://itunes.apple.com/fi/app/wolt/id943905271?mt=8"
+        },
+        {
+          "text": "Google Play",
+          "href": "https://play.google.com/store/apps/details?id=com.wolt.android"
+        },
+        {
+          "text": "Get started",
+          "href": "https://explore.wolt.com/merchant"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://explore.wolt.com/wolt-drive"
+        },
+        {
+          "text": "Reach new customers and get more ordersFor restaur",
+          "href": "https://explore.wolt.com/merchant/business/restaurants"
+        },
+        {
+          "text": "Become a store partnerFor stores",
+          "href": "https://explore.wolt.com/merchant/business/retailers"
+        },
+        {
+          "text": "Get started",
+          "href": "https://explore.wolt.com/couriers"
+        },
+        {
+          "text": "Competitive earningsThe more you deliver, the more",
+          "href": "https://explore.wolt.com/couriers/faq"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://explore.wolt.com/couriers/faq"
+        },
+        {
+          "text": "Flexible hoursChoose your own hours and set your o",
+          "href": "https://explore.wolt.com/couriers/faq"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://explore.wolt.com/couriers/faq"
+        },
+        {
+          "text": "Become a Wolt courier partnerFor couriers",
+          "href": "https://explore.wolt.com/couriers"
+        },
+        {
+          "text": "For couriers",
+          "href": "https://explore.wolt.com/en/tur/couriers"
+        },
+        {
+          "text": "For merchants",
+          "href": "https://explore.wolt.com/en/tur/merchant"
+        },
+        {
+          "text": "For affiliates",
+          "href": "https://explore.wolt.com/en/tur/affiliates"
+        },
+        {
+          "text": "About us",
+          "href": "https://explore.wolt.com/en/tur/about"
+        },
+        {
+          "text": "What we stand for",
+          "href": "https://explore.wolt.com/en/tur/about/wolt-values"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://careers.wolt.com"
+        },
+        {
+          "text": "Sustainability",
+          "href": "https://explore.wolt.com/en/tur/about/better-cities"
+        }
+      ],
+      "forms": [],
+      "images_count": 47,
+      "images_with_alt": 24,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Burgers.Delivered."
+        },
+        {
+          "level": 2,
+          "text": "Life tastes better with Wolt"
+        },
+        {
+          "level": 2,
+          "text": "Explore Wolt cities"
+        },
+        {
+          "level": 2,
+          "text": "Partner with Wolt"
+        },
+        {
+          "level": 2,
+          "text": "Company"
+        },
+        {
+          "level": 2,
+          "text": "Products"
+        },
+        {
+          "level": 3,
+          "text": "Become a courier partner"
+        },
+        {
+          "level": 3,
+          "text": "Reach new customers"
+        },
+        {
+          "level": 3,
+          "text": "Real support from real people"
+        },
+        {
+          "level": 3,
+          "text": "Zero delivery fees with Wolt+"
+        },
+        {
+          "level": 3,
+          "text": "Fresh groceries, delivered"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Enter delivery address"
+        }
+      ],
+      "meta_description": "When people try Wolt, they love it! The joy of food, groceries and more from local stores and restaurants, delivered in 30 minutes. Try the most-loved delivery app now.",
+      "meta_viewport": "width=device-width, initial-scale=1.0",
+      "has_og_tags": true,
+      "scripts_count": 50,
+      "stylesheets_count": 13,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 12,
+      "footer_links": [
+        "For couriers",
+        "For merchants",
+        "For affiliates",
+        "About us",
+        "What we stand for",
+        "Jobs",
+        "Sustainability",
+        "Security",
+        "Investors",
+        "Community Standards",
+        "Wolt Drive",
+        "Wolt Market",
+        "Wolt+",
+        "Wolt for Work",
+        "Wolt Ads",
+        "Support",
+        "Newsroom",
+        "Contact"
+      ],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart_button": "N",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery_date": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "Y",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Wolt+ subscription for zero delivery fees",
+        "Partnership options for couriers and merchants"
+      ],
+      "missing_common_features": [
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking capability"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "glovo",
+    "url": "https://glovoapp.com",
+    "scanned_at": "2026-03-31T20:33:15.275841",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/glovo_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/glovo_mobile.png"
+    },
+    "structure": {
+      "title": "Glovo: whatever you order, in minutes! | Glovo",
+      "url_final": "https://glovoapp.com/en",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/en"
+        },
+        {
+          "text": "",
+          "href": "/en"
+        }
+      ],
+      "buttons": [
+        "Login",
+        "Login",
+        "Use current location",
+        "Explore stores around you",
+        "Spain",
+        "Italy",
+        "Ukraine",
+        "Romania",
+        "Georgia",
+        "Portugal",
+        "Poland",
+        "Morocco",
+        "Kazakhstan",
+        "Croatia",
+        "Kenya",
+        "C\u00f4te D'Ivoire",
+        "Serbia",
+        "Moldova",
+        "Uganda",
+        "Kyrgyzstan",
+        "Bosnia and Herzegovina",
+        "Bulgaria",
+        "Montenegro",
+        "Nigeria",
+        "Armenia",
+        "Tunisia",
+        "Register here"
+      ],
+      "links_count": 48,
+      "main_links": [
+        {
+          "text": "Spain",
+          "href": "/es/es"
+        },
+        {
+          "text": "Italy",
+          "href": "/it/it"
+        },
+        {
+          "text": "Ukraine",
+          "href": "/uk/ua"
+        },
+        {
+          "text": "Romania",
+          "href": "/ro/ro"
+        },
+        {
+          "text": "Georgia",
+          "href": "/ka/ge"
+        },
+        {
+          "text": "Portugal",
+          "href": "/pt/pt"
+        },
+        {
+          "text": "Poland",
+          "href": "/pl/pl"
+        },
+        {
+          "text": "Morocco",
+          "href": "/fr/ma"
+        },
+        {
+          "text": "Kazakhstan",
+          "href": "/ru/kz"
+        },
+        {
+          "text": "Croatia",
+          "href": "/hr/hr"
+        },
+        {
+          "text": "Kenya",
+          "href": "/en/ke"
+        },
+        {
+          "text": "C\u00f4te D'Ivoire",
+          "href": "/fr/ci"
+        },
+        {
+          "text": "Serbia",
+          "href": "/sr/rs"
+        },
+        {
+          "text": "Moldova",
+          "href": "/ro/md"
+        },
+        {
+          "text": "Uganda",
+          "href": "/en/ug"
+        },
+        {
+          "text": "Kyrgyzstan",
+          "href": "/ru/kg"
+        },
+        {
+          "text": "Bosnia and Herzegovina",
+          "href": "/bs/ba"
+        },
+        {
+          "text": "Bulgaria",
+          "href": "/bg/bg"
+        },
+        {
+          "text": "Montenegro",
+          "href": "/sr/me"
+        },
+        {
+          "text": "Nigeria",
+          "href": "/en/ng"
+        },
+        {
+          "text": "Armenia",
+          "href": "/hy/am"
+        },
+        {
+          "text": "Tunisia",
+          "href": "/fr/tn"
+        },
+        {
+          "text": "Register here",
+          "href": "https://riderhub.glovoapp.com"
+        },
+        {
+          "text": "Register here",
+          "href": "https://sell.glovoapp.com"
+        },
+        {
+          "text": "Register here",
+          "href": "https://jobs.glovoapp.com"
+        },
+        {
+          "text": "Careers",
+          "href": "https://jobs.glovoapp.com"
+        },
+        {
+          "text": "Glovo for Partners",
+          "href": "https://sell.glovoapp.com"
+        },
+        {
+          "text": "Couriers",
+          "href": "https://riderhub.glovoapp.com/"
+        },
+        {
+          "text": "Glovo Business",
+          "href": "https://business.glovoapp.com"
+        },
+        {
+          "text": "About us",
+          "href": "https://about.glovoapp.com"
+        }
+      ],
+      "forms": [],
+      "images_count": 25,
+      "images_with_alt": 21,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Food delivery and more"
+        },
+        {
+          "level": 1,
+          "text": "Anything delivered"
+        },
+        {
+          "level": 1,
+          "text": "Countries where we deliver"
+        },
+        {
+          "level": 3,
+          "text": "Let\u2019s do it together"
+        },
+        {
+          "level": 3,
+          "text": "Links of interest"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "What's your address?"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "What's your address?"
+        }
+      ],
+      "meta_description": "Glovo is the food delivery site that will get you anything you want to your doorstep. You order online, you'll have it!",
+      "meta_viewport": "width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",
+      "has_og_tags": true,
+      "scripts_count": 51,
+      "stylesheets_count": 11,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 2,
+      "footer_links": [
+        "Careers",
+        "Glovo for Partners",
+        "Couriers",
+        "Glovo Business",
+        "About us",
+        "FAQ",
+        "Blog",
+        "Contact us",
+        "Security",
+        "Log in",
+        "Terms & Conditions",
+        "Privacy Policy",
+        "Cookies Policy",
+        "Compliance",
+        "Configure the cookies",
+        "Digital Services Act",
+        "European Accessibility Act"
+      ],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart_button": "N",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery_date": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "Y",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFCC00",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Use current location",
+        "Explore stores around you"
+      ],
+      "missing_common_features": [
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Shopping cart",
+        "Guest checkout option"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "swiggy",
+    "url": "https://www.swiggy.com",
+    "scanned_at": "2026-03-31T20:33:45.307643",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/swiggy_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/swiggy_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.swiggy.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "",
+      "has_og_tags": false,
+      "scripts_count": 0,
+      "stylesheets_count": 0,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Star ratings visible",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zomato",
+    "url": "https://www.zomato.com",
+    "scanned_at": "2026-03-31T20:34:14.859708",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/\nCall log:\n  - navigating to \"https://www.zomato.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/\nCall log:\n  - navigating to \"https://www.zomato.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "U",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Star ratings visible",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ifood",
+    "url": "https://www.ifood.com.br",
+    "scanned_at": "2026-03-31T20:34:30.429092",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/ifood_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/ifood_mobile.png"
+    },
+    "structure": {
+      "title": "Attention Required! | Cloudflare",
+      "url_final": "https://www.ifood.com.br/",
+      "nav_items": [],
+      "buttons": [
+        "Click to reveal"
+      ],
+      "links_count": 1,
+      "main_links": [
+        {
+          "text": "Cloudflare",
+          "href": "https://www.cloudflare.com/5xx-error-landing"
+        }
+      ],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry, you have been blocked"
+        },
+        {
+          "level": 2,
+          "text": "You are unable to accesswww.ifood.com.br"
+        },
+        {
+          "level": 2,
+          "text": "Why have I been blocked?"
+        },
+        {
+          "level": 2,
+          "text": "What can I do to resolve this?"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,initial-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 3,
+      "stylesheets_count": 1,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 2,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Star ratings visible",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "rappi",
+    "url": "https://www.rappi.com",
+    "scanned_at": "2026-03-31T20:34:59.697302",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/rappi_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/rappi_mobile.png"
+    },
+    "structure": {
+      "title": "Pide Comida a Domicilio y el S\u00faper en l\u00ednea - Rappi M\u00e9xico",
+      "url_final": "https://www.rappi.com.mx/",
+      "nav_items": [],
+      "buttons": [
+        "Descubre lasPROMOCIONESque tenemospara ti",
+        "Usa tu ubicaci\u00f3n actual",
+        "Descargar",
+        "Conocer m\u00e1s",
+        "Conocer m\u00e1s",
+        "\u00a1Reg\u00edstrate ahora!",
+        "App Store",
+        "Google play",
+        "AppGallery",
+        "App Store",
+        "Google play",
+        "AppGallery"
+      ],
+      "links_count": 103,
+      "main_links": [
+        {
+          "text": "Ingreso",
+          "href": "/login"
+        },
+        {
+          "text": "Descubre lasPROMOCIONESque tenemospara ti",
+          "href": "/promociones"
+        },
+        {
+          "text": "Restaurantes",
+          "href": "/restaurantes"
+        },
+        {
+          "text": "Super",
+          "href": "/tiendas/tipo/market"
+        },
+        {
+          "text": "Farmacia",
+          "href": "/tiendas/tipo/farmatodo"
+        },
+        {
+          "text": "Express",
+          "href": "/tiendas/tipo/express"
+        },
+        {
+          "text": "Tiendas",
+          "href": "/tiendas/tipo/rappimall-parent"
+        },
+        {
+          "text": "Turbo",
+          "href": "/tiendas/tipo/chiper-home"
+        },
+        {
+          "text": "Licores",
+          "href": "/tiendas/tipo/liquor"
+        },
+        {
+          "text": "Rappi Travel",
+          "href": "https://travel.rappi.com.mx/"
+        },
+        {
+          "text": "RappiCard",
+          "href": "https://www.rappicard.mx/?utm_source=web&utm_medium=web&utm_campaign=RPAY_MX_AQ_NB_RAPPI_20221018&is"
+        },
+        {
+          "text": "Little Caesars",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/642-little-caesars"
+        },
+        {
+          "text": "Carl's Jr.",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/13229-carls-jr"
+        },
+        {
+          "text": "McDonald's",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/706-mcdonald-s"
+        },
+        {
+          "text": "Burger King",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/29-burger-king"
+        },
+        {
+          "text": "Starbucks",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/1010-starbucks"
+        },
+        {
+          "text": "KFC",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/2096-kfc"
+        },
+        {
+          "text": "Subway",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/1017-subway"
+        },
+        {
+          "text": "Cin\u00e9polis Tradicional",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/10199-cinepolis"
+        },
+        {
+          "text": "Pizza Hut",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/1983-pizza-hut"
+        },
+        {
+          "text": "Dairy Queen",
+          "href": "/ciudad-de-mexico/restaurantes/delivery/276-dairy-queen"
+        },
+        {
+          "text": "Descargar",
+          "href": "https://play.google.com/store/apps/details?id=com.grability.rappi"
+        },
+        {
+          "text": "Conocer m\u00e1s",
+          "href": "https://merchants.rappi.com/es-mx?utm_source=rappicom&utm_medium=home&utm_campaign=referral"
+        },
+        {
+          "text": "Conocer m\u00e1s",
+          "href": "https://mitienda.rappi.com.mx"
+        },
+        {
+          "text": "\u00a1Reg\u00edstrate ahora!",
+          "href": "https://soyrappi.com.mx/"
+        },
+        {
+          "text": "M\u00e1s informaci\u00f3n",
+          "href": "https://legal.rappi.com.co/mexico/politica-de-cookies-mexico/"
+        },
+        {
+          "text": "Ok, entendido",
+          "href": ""
+        },
+        {
+          "text": "Cadenas de Restaurantes",
+          "href": "https://www.rappi.com.mx/catalogo/restaurants/a-1"
+        },
+        {
+          "text": "Cadenas de Tiendas",
+          "href": "https://www.rappi.com.mx/catalogo/cpgs/a-1"
+        },
+        {
+          "text": "Little Caesars",
+          "href": "https://www.rappi.com.mx/restaurantes/delivery/642-little-caesars"
+        }
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Comida, restaurantes, tiendas, productos,..."
+            }
+          ]
+        }
+      ],
+      "images_count": 29,
+      "images_with_alt": 26,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Farmacia"
+        },
+        {
+          "level": 2,
+          "text": "Express"
+        },
+        {
+          "level": 2,
+          "text": "Tiendas"
+        },
+        {
+          "level": 2,
+          "text": "Turbo"
+        },
+        {
+          "level": 2,
+          "text": "Licores"
+        },
+        {
+          "level": 3,
+          "text": "\ud83d\udc49Rappi es mejor en la App"
+        },
+        {
+          "level": 3,
+          "text": "Registra tu restaurante"
+        },
+        {
+          "level": 3,
+          "text": "Registra tu comercio"
+        },
+        {
+          "level": 3,
+          "text": "\u00a1\u00danete como repartidor!"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Comida, restaurantes, tiendas, productos,..."
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "\u00bfD\u00f3nde quieres recibir tu compra?"
+        }
+      ],
+      "meta_description": "Pide en l\u00ednea domicilio de restaurantes, supermercado, medicamentos y \u00a1mucho m\u00e1s! Tus tiendas favoritas est\u00e1n en Rappi. Entregamos con amor en todo M\u00e9xico \u2665\u2665",
+      "meta_viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 60,
+      "stylesheets_count": 2,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 8,
+      "footer_links": [
+        "Cadenas de Restaurantes",
+        "Cadenas de Tiendas",
+        "Little Caesars",
+        "Subway",
+        "Carls Jr",
+        "Buffalo Wild Wings",
+        "Gordibuenas",
+        "Antojitos Mexicanos",
+        "Hooters",
+        "Cerveceria Chapultepec",
+        "Don Asado",
+        "La Casa de To\u00f1o",
+        "Ihop",
+        "KFC",
+        "Dairy Queen",
+        "Starbucks",
+        "Mc Donald's",
+        "Pasteler\u00edas Esperanza",
+        "Pollo Feliz",
+        "Las Alitas"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FF5733",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Search bar for food and products",
+        "Multiple app download options",
+        "Promotional banners"
+      ],
+      "missing_common_features": [
+        "Product descriptions",
+        "Price display",
+        "Guest checkout option",
+        "Social login options",
+        "Order tracking capability"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "foodpanda",
+    "url": "https://www.foodpanda.com",
+    "scanned_at": "2026-03-31T20:35:28.651553",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/foodpanda_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/foodpanda_mobile.png"
+    },
+    "structure": {
+      "title": "Home | foodpanda | food and more, delivered",
+      "url_final": "https://www.foodpanda.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "https://www.foodpanda.com"
+        },
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "https://www.foodpanda.com/about-foodpanda/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "/newsroom"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.foodpanda.com/partners/"
+        },
+        {
+          "text": "panda ads",
+          "href": "https://pandaads.foodpanda.com"
+        },
+        {
+          "text": "Contact",
+          "href": "https://www.foodpanda.com/contact/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.foodpanda.com"
+        },
+        {
+          "text": "Choose location",
+          "href": "#"
+        },
+        {
+          "text": "Bangladesh",
+          "href": "https://www.foodpanda.com.bd?src=foodpanda.com"
+        },
+        {
+          "text": "Cambodia",
+          "href": "https://www.foodpanda.com.kh?src=foodpanda.com"
+        },
+        {
+          "text": "Hong Kong",
+          "href": "https://www.foodpanda.hk?src=foodpanda.com"
+        },
+        {
+          "text": "Laos",
+          "href": "https://www.foodpanda.la?src=foodpanda.com"
+        },
+        {
+          "text": "Malaysia",
+          "href": "https://www.foodpanda.my?src=foodpanda.com"
+        },
+        {
+          "text": "Myanmar",
+          "href": "https://www.foodpanda.com.mm?src=foodpanda.com"
+        },
+        {
+          "text": "Pakistan",
+          "href": "https://www.foodpanda.pk?src=foodpanda.com"
+        },
+        {
+          "text": "Philippines",
+          "href": "https://www.foodpanda.ph?src=foodpanda.com"
+        },
+        {
+          "text": "Singapore",
+          "href": "https://www.foodpanda.sg?src=foodpanda.com"
+        },
+        {
+          "text": "Taiwan",
+          "href": "https://www.foodpanda.com.tw?src=foodpanda.com"
+        },
+        {
+          "text": "Thailand",
+          "href": "https://www.foodpanda.co.th?src=foodpanda.com"
+        }
+      ],
+      "buttons": [
+        "About",
+        "Join us!",
+        "Explore"
+      ],
+      "links_count": 79,
+      "main_links": [
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "https://www.foodpanda.com/about-foodpanda/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "/newsroom"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.foodpanda.com/partners/"
+        },
+        {
+          "text": "panda ads",
+          "href": "https://pandaads.foodpanda.com"
+        },
+        {
+          "text": "Contact",
+          "href": "https://www.foodpanda.com/contact/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.foodpanda.com"
+        },
+        {
+          "text": "Choose location",
+          "href": "#"
+        },
+        {
+          "text": "Bangladesh",
+          "href": "https://www.foodpanda.com.bd?src=foodpanda.com"
+        },
+        {
+          "text": "Cambodia",
+          "href": "https://www.foodpanda.com.kh?src=foodpanda.com"
+        },
+        {
+          "text": "Hong Kong",
+          "href": "https://www.foodpanda.hk?src=foodpanda.com"
+        },
+        {
+          "text": "Laos",
+          "href": "https://www.foodpanda.la?src=foodpanda.com"
+        },
+        {
+          "text": "Malaysia",
+          "href": "https://www.foodpanda.my?src=foodpanda.com"
+        },
+        {
+          "text": "Myanmar",
+          "href": "https://www.foodpanda.com.mm?src=foodpanda.com"
+        },
+        {
+          "text": "Pakistan",
+          "href": "https://www.foodpanda.pk?src=foodpanda.com"
+        },
+        {
+          "text": "Philippines",
+          "href": "https://www.foodpanda.ph?src=foodpanda.com"
+        },
+        {
+          "text": "Singapore",
+          "href": "https://www.foodpanda.sg?src=foodpanda.com"
+        },
+        {
+          "text": "Taiwan",
+          "href": "https://www.foodpanda.com.tw?src=foodpanda.com"
+        },
+        {
+          "text": "Thailand",
+          "href": "https://www.foodpanda.co.th?src=foodpanda.com"
+        },
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "About",
+          "href": "https://www.foodpanda.com/about-foodpanda/"
+        },
+        {
+          "text": "Newsroom",
+          "href": "/newsroom"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.foodpanda.com/partners/"
+        },
+        {
+          "text": "panda ads",
+          "href": "https://pandaads.foodpanda.com"
+        },
+        {
+          "text": "Contact",
+          "href": "https://www.foodpanda.com/contact/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.foodpanda.com"
+        },
+        {
+          "text": "Choose location",
+          "href": "#"
+        },
+        {
+          "text": "Bangladesh",
+          "href": "https://www.foodpanda.com.bd?src=foodpanda.com"
+        },
+        {
+          "text": "Cambodia",
+          "href": "https://www.foodpanda.com.kh?src=foodpanda.com"
+        },
+        {
+          "text": "Hong Kong",
+          "href": "https://www.foodpanda.hk?src=foodpanda.com"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.foodpanda.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search"
+            }
+          ]
+        }
+      ],
+      "images_count": 16,
+      "images_with_alt": 2,
+      "headings": [
+        {
+          "level": 1,
+          "text": "foodand groceriesin a tap"
+        },
+        {
+          "level": 2,
+          "text": "We\u2019re here to help you live life the panda way.Spend more time doing what you lo"
+        },
+        {
+          "level": 2,
+          "text": "Meet the next generation of delivery!"
+        },
+        {
+          "level": 2,
+          "text": "Taste the convenience."
+        },
+        {
+          "level": 2,
+          "text": "Find the job you\u2019d love"
+        },
+        {
+          "level": 2,
+          "text": "Have you heard?"
+        },
+        {
+          "level": 3,
+          "text": "foodpanda Singapore strengthens support for delivery partners through signed MOU"
+        },
+        {
+          "level": 3,
+          "text": "foodpanda delivered 2024"
+        },
+        {
+          "level": 3,
+          "text": "foodpanda Partners with Fiserv to Enable More Streamlined and Secure eCommerce P"
+        },
+        {
+          "level": 3,
+          "text": "foodpanda Singapore launches inaugural Rider Safety Month in partnership with Tr"
+        },
+        {
+          "level": 3,
+          "text": "foodpanda boosts bigger grocery runs with new, upsized pandamart stores"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "s",
+          "placeholder": "Search"
+        }
+      ],
+      "meta_description": "Online food and grocery delivery",
+      "meta_viewport": "width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0",
+      "has_og_tags": true,
+      "scripts_count": 31,
+      "stylesheets_count": 5,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 22,
+      "footer_links": [
+        "Navigate",
+        "Home",
+        "About",
+        "Contact",
+        "Newsroom",
+        "Collaborate",
+        "Explore careers",
+        "Become a rider",
+        "Feed your team",
+        "Follow us on",
+        "foodpanda",
+        "Privacy Policy"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "U",
+        "trending_items": "N",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FF6F61",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Search bar",
+        "Responsive design",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Login/signup option",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking capability"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "talabat",
+    "url": "https://www.talabat.com",
+    "scanned_at": "2026-03-31T20:36:00.224909",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/talabat_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/talabat_mobile.png"
+    },
+    "structure": {
+      "title": "Food delivery from your nearest restaurants in UAE | Talabat",
+      "url_final": "https://www.talabat.com/uae",
+      "nav_items": [
+        {
+          "text": "Corporate",
+          "href": "https://corporate.talabat.com/"
+        },
+        {
+          "text": "Become a partner",
+          "href": "https://ae.partner.talabat.com/s/?language=en_US&utm_source=homepage&utm_medium=referral&utm_campaig"
+        },
+        {
+          "text": "",
+          "href": "/ar/uae"
+        },
+        {
+          "text": "",
+          "href": "#"
+        }
+      ],
+      "buttons": [
+        "Let's go",
+        "Find out more",
+        "See open job opportunities"
+      ],
+      "links_count": 66,
+      "main_links": [
+        {
+          "text": "Corporate",
+          "href": "https://corporate.talabat.com/"
+        },
+        {
+          "text": "Become a partner",
+          "href": "https://ae.partner.talabat.com/s/?language=en_US&utm_source=homepage&utm_medium=referral&utm_campaig"
+        },
+        {
+          "text": "Order foodFind deals, free delivery, and more from",
+          "href": "/uae/restaurants"
+        },
+        {
+          "text": "Order groceriesDon't stand in line. Order from top",
+          "href": "/uae/groceries"
+        },
+        {
+          "text": "Order flowersWhatever the occasion, say it with fl",
+          "href": "/uae/flowers"
+        },
+        {
+          "text": "Order medicineGot the sniffles? Get medicine deliv",
+          "href": "/uae/pharmacies"
+        },
+        {
+          "text": "DonationsHelp those in need with a donation. Toget",
+          "href": "/uae/donations"
+        },
+        {
+          "text": "Get anything you want, delivered in 20 mins right ",
+          "href": "/uae/talabat-mart"
+        },
+        {
+          "text": "Meet DineOut DealsGet up to 50% off when you dine ",
+          "href": ""
+        },
+        {
+          "text": "Find out more",
+          "href": "https://ae.partner.talabat.com/s/?language=en_US&utm_source=homepage&utm_medium=referral&utm_campaig"
+        },
+        {
+          "text": "See open job opportunities",
+          "href": "https://careers.deliveryhero.com/talabat"
+        },
+        {
+          "text": "AjmanSee more places",
+          "href": "/uae/city/ajman"
+        },
+        {
+          "text": "DubaiSee more places",
+          "href": "/uae/city/dubai"
+        },
+        {
+          "text": "Al AinSee more places",
+          "href": "/uae/city/al-ain"
+        },
+        {
+          "text": "SharjahSee more places",
+          "href": "/uae/city/sharjah"
+        },
+        {
+          "text": "FujairahSee more places",
+          "href": "/uae/city/fujairah"
+        },
+        {
+          "text": "Abu DhabiSee more places",
+          "href": "/uae/city/abu-dhabi"
+        },
+        {
+          "text": "Ras Al KhaimaSee more places",
+          "href": "/uae/city/ras-al-khaima"
+        },
+        {
+          "text": "Umm Al-QuwainSee more places",
+          "href": "/uae/city/umm-al-quwain"
+        },
+        {
+          "text": "Corporate",
+          "href": "https://corporate.talabat.com/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://careers.deliveryhero.com/talabat"
+        },
+        {
+          "text": "Terms and Conditions",
+          "href": "/uae/terms"
+        },
+        {
+          "text": "FAQ",
+          "href": "/uae/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/uae/privacy"
+        },
+        {
+          "text": "Contact Us",
+          "href": "/uae/contact-us"
+        },
+        {
+          "text": "Sitemap",
+          "href": "/uae/sitemap"
+        },
+        {
+          "text": "Burger King",
+          "href": "/uae/burger-king3"
+        },
+        {
+          "text": "Subway",
+          "href": "/uae/subway96"
+        },
+        {
+          "text": "Texas Chicken",
+          "href": "/uae/texas-chicken3"
+        },
+        {
+          "text": "PizzaExpress",
+          "href": "/uae/pizzaexpress"
+        }
+      ],
+      "forms": [],
+      "images_count": 25,
+      "images_with_alt": 18,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Fast delivery of food, groceries and more"
+        },
+        {
+          "level": 2,
+          "text": "Order food"
+        },
+        {
+          "level": 2,
+          "text": "Order groceries"
+        },
+        {
+          "level": 2,
+          "text": "Order flowers"
+        },
+        {
+          "level": 2,
+          "text": "Order medicine"
+        },
+        {
+          "level": 2,
+          "text": "Donations"
+        },
+        {
+          "level": 3,
+          "text": "Ajman"
+        },
+        {
+          "level": 3,
+          "text": "Dubai"
+        },
+        {
+          "level": 3,
+          "text": "Al Ain"
+        },
+        {
+          "level": 3,
+          "text": "Sharjah"
+        },
+        {
+          "level": 3,
+          "text": "Fujairah"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for area, street name, landmark..."
+        }
+      ],
+      "meta_description": "Your favorite food delivered in UAE with Talabat. A wide food variety from the top restaurants near you: burger,s pizza and more! Hungry? Ready, set, Talabat!",
+      "meta_viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "has_og_tags": true,
+      "scripts_count": 52,
+      "stylesheets_count": 1,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 18,
+      "footer_links": [],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "U",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center": "U",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Fast delivery of food, groceries and more",
+        "Order food, groceries, flowers, medicine, and donations"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Login/signup option",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking capability",
+        "Help center link"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "grab_food",
+    "url": "https://food.grab.com",
+    "scanned_at": "2026-03-31T20:36:31.702617",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/grab_food_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/grab_food_mobile.png"
+    },
+    "structure": {
+      "title": "Food Delivery Menu | GrabFood",
+      "url_final": "https://food.grab.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 24,
+      "main_links": [
+        {
+          "text": "Indonesia",
+          "href": "/id/id"
+        },
+        {
+          "text": "Singapore",
+          "href": "/sg/en"
+        },
+        {
+          "text": "Philippines",
+          "href": "/ph/en"
+        },
+        {
+          "text": "Malaysia",
+          "href": "/my/en"
+        },
+        {
+          "text": "Vietnam",
+          "href": "/vn/vi"
+        },
+        {
+          "text": "Thailand",
+          "href": "/th/th"
+        },
+        {
+          "text": "Myanmar",
+          "href": "/mm/en"
+        },
+        {
+          "text": "Cambodia",
+          "href": "/kh/km"
+        },
+        {
+          "text": "About GrabFood",
+          "href": "https://www.grab.com/food"
+        },
+        {
+          "text": "About Grab",
+          "href": "https://www.grab.com/about"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.grab.com/food-blog"
+        },
+        {
+          "text": "Be a Merchant",
+          "href": "https://www.grab.com/merchant/food"
+        },
+        {
+          "text": "Drive with GrabFood",
+          "href": "https://www.grab.com/driver/food"
+        },
+        {
+          "text": "Help",
+          "href": "https://help.grab.com/115002258448-GrabFood"
+        },
+        {
+          "text": "FAQs",
+          "href": "https://help.grab.com/115002258448-GrabFood"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://www.grab.com/terms"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.grab.com/privacy"
+        }
+      ],
+      "forms": [],
+      "images_count": 5,
+      "images_with_alt": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Crave it?Grab it on the web."
+        }
+      ],
+      "inputs": [],
+      "meta_description": "Fast and easy food delivery service to spoil the foodie within you. Find international cuisines and top restaurant promos.",
+      "meta_viewport": "width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no",
+      "has_og_tags": false,
+      "scripts_count": 53,
+      "stylesheets_count": 1,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "U",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 7,
+      "notable_features": [
+        "Responsive design",
+        "Hero section"
+      ],
+      "missing_common_features": [
+        "Product search",
+        "Login/signup option",
+        "Price display",
+        "Add to cart button",
+        "Help center"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "postmates",
+    "url": "https://postmates.com",
+    "scanned_at": "2026-03-31T20:37:02.273604",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/postmates_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/postmates_mobile.png"
+    },
+    "structure": {
+      "title": "Postmates: Food Delivery, Groceries, Alcohol - Anything from Anywhere",
+      "url_final": "https://postmates.com/?mod=feedLocationRequestModal&modctx=%257B%2522mode%2522%253A%2522REQUEST%2522%257D&ps=1",
+      "nav_items": [
+        {
+          "text": "Sign up",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Log in",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Create a business account",
+          "href": "//www.uber.com/business/eats"
+        },
+        {
+          "text": "Add your restaurant",
+          "href": "//www.postmates.com/restaurant/en-US/signup"
+        },
+        {
+          "text": "Sign up to deliver",
+          "href": "//www.uber.com/deliver/"
+        },
+        {
+          "text": "Get a rideArrow launch",
+          "href": "//www.uber.com/ride"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://itunes.apple.com/us/app/postmates-food-delivery/id512393983?mt=8"
+        },
+        {
+          "text": "Android",
+          "href": "https://play.google.com/store/apps/details?id=com.postmates.android&hl=en"
+        }
+      ],
+      "buttons": [
+        "Three lines",
+        "Search here",
+        "Close",
+        "Allow",
+        "Type in delivery address instead"
+      ],
+      "links_count": 34,
+      "main_links": [
+        {
+          "text": "Sign up",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Log in",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Create a business account",
+          "href": "//www.uber.com/business/eats"
+        },
+        {
+          "text": "Add your restaurant",
+          "href": "//www.postmates.com/restaurant/en-US/signup"
+        },
+        {
+          "text": "Sign up to deliver",
+          "href": "//www.uber.com/deliver/"
+        },
+        {
+          "text": "Get a rideArrow launch",
+          "href": "//www.uber.com/ride"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://itunes.apple.com/us/app/postmates-food-delivery/id512393983?mt=8"
+        },
+        {
+          "text": "Android",
+          "href": "https://play.google.com/store/apps/details?id=com.postmates.android&hl=en"
+        },
+        {
+          "text": "Skip to content",
+          "href": "#main-content"
+        },
+        {
+          "text": "Get a rideArrow launch",
+          "href": "//www.uber.com/ride"
+        },
+        {
+          "text": "Log in",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Sign up",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://postmates.com/login-redirect/?campaign=signin_universal_link&marketing_vistor_id=9ddb5a43-c3"
+        },
+        {
+          "text": "Get Help",
+          "href": "//help.uber.com/postmates"
+        },
+        {
+          "text": "Buy gift cards",
+          "href": "//www.postmates.com/gift/"
+        },
+        {
+          "text": "Add your restaurant",
+          "href": "//www.postmates.com/restaurant/en-US/signup"
+        },
+        {
+          "text": "Sign up to deliver",
+          "href": "//www.uber.com/deliver/"
+        },
+        {
+          "text": "Save on your first order",
+          "href": "/promo"
+        },
+        {
+          "text": "Nearby restaurants",
+          "href": "/near-me"
+        },
+        {
+          "text": "View all cities",
+          "href": "/location"
+        },
+        {
+          "text": "Pickup near me",
+          "href": "/pickup/near-me"
+        },
+        {
+          "text": "English",
+          "href": "/?mod=selectLanguage&ps=1"
+        },
+        {
+          "text": "Facebook",
+          "href": "//www.facebook.com/Postmates/"
+        },
+        {
+          "text": "Twitter",
+          "href": "//twitter.com/Postmates"
+        },
+        {
+          "text": "Instagram",
+          "href": "//www.instagram.com/postmates"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "//www.postmates.com/legal/privacy/"
+        },
+        {
+          "text": "Terms",
+          "href": "//www.uber.com/terms"
+        },
+        {
+          "text": "Pricing",
+          "href": "//help.uber.com/postmates/article/uber-eats-pricing?nodeId=2adbed88-9822-4690-9529-3061c4821755"
+        },
+        {
+          "text": "Do not sell or share my personal information",
+          "href": "//privacy.uber.com/privacy/california/"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "//policies.google.com/privacy"
+        }
+      ],
+      "forms": [],
+      "images_count": 9,
+      "images_with_alt": 6,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Order on Postmates"
+        },
+        {
+          "level": 2,
+          "text": "Get food, drinks, groceries, and more delivered."
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "searchTerm",
+          "placeholder": "Enter delivery address"
+        }
+      ],
+      "meta_description": "Order delivery or pickup from more than 600,000 restaurants, retailers, grocers, and more all across your city. Download the app now to get everything you crave, on-demand.",
+      "meta_viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+      "has_og_tags": true,
+      "scripts_count": 132,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 7,
+      "footer_links": [
+        "Get Help",
+        "Buy gift cards",
+        "Add your restaurant",
+        "Sign up to deliver",
+        "Save on your first order",
+        "Nearby restaurants",
+        "View all cities",
+        "Pickup near me",
+        "English",
+        "Facebook",
+        "Twitter",
+        "Instagram",
+        "Privacy Policy",
+        "Terms",
+        "Pricing",
+        "Do not sell or share my personal information",
+        "Privacy Policy",
+        "Terms of Service"
+      ],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup_visible": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart_button": "U",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "U",
+        "estimated_delivery_date": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center_link": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy_link": "Y",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Order on Postmates",
+        "Delivery of food, drinks, groceries, and more"
+      ],
+      "missing_common_features": [
+        "Search autocomplete",
+        "Product descriptions",
+        "Price display",
+        "Add to cart button",
+        "Multiple payment methods",
+        "Star ratings",
+        "Written reviews",
+        "Wishlist option",
+        "Order tracking"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "caviar",
+    "url": "https://www.trycaviar.com",
+    "scanned_at": "2026-03-31T20:37:37.073989",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/caviar_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/caviar_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.trycaviar.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 2,
+      "main_links": [
+        {
+          "text": "Cloudflare",
+          "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=j"
+        },
+        {
+          "text": "Privacy",
+          "href": "https://www.cloudflare.com/privacypolicy/"
+        }
+      ],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "www.trycaviar.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for www.trycaviar.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,initial-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 3,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 2,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "instacart",
+    "url": "https://www.instacart.com",
+    "scanned_at": "2026-03-31T20:38:05.999660",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/instacart_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/instacart_mobile.png"
+    },
+    "structure": {
+      "title": "Instacart | Grocery Delivery or Pickup from Local Stores Near You",
+      "url_final": "https://www.instacart.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "",
+          "href": "/"
+        }
+      ],
+      "buttons": [
+        "Log in",
+        "Sign up",
+        "Sign up to get $0 delivery fee*",
+        "All",
+        "EBT",
+        "Fastest",
+        "Offers",
+        "Low prices",
+        "Grocery",
+        "Alcohol",
+        "Pickup",
+        "No markups",
+        "Convenience",
+        "Wholesale",
+        "Retail",
+        "Show all",
+        "1 billion products",
+        "80,000 stores",
+        "14,000 cities",
+        "Millions of orders",
+        "How does Instacart delivery and curbside pickup wo",
+        "How much does Instacart cost?",
+        "Will I pay the same price on Instacart as I would ",
+        "What happens if something is out of stock and I ne"
+      ],
+      "links_count": 174,
+      "main_links": [
+        {
+          "text": "Food",
+          "href": "https://www.instacart.com/categories/316-food"
+        },
+        {
+          "text": "Pantry",
+          "href": "https://www.instacart.com/categories/316-food/844-pantry"
+        },
+        {
+          "text": "Seafood",
+          "href": "https://www.instacart.com/categories/316-food/1974-seafood"
+        },
+        {
+          "text": "Baked goods",
+          "href": "https://www.instacart.com/categories/316-food/1300-baked-goods"
+        },
+        {
+          "text": "Dairy",
+          "href": "https://www.instacart.com/categories/316-food/1326-dairy"
+        },
+        {
+          "text": "Fresh produce",
+          "href": "https://www.instacart.com/categories/316-food/317-fresh-produce"
+        },
+        {
+          "text": "Deli",
+          "href": "https://www.instacart.com/categories/316-food/1268-deli"
+        },
+        {
+          "text": "Frozen food",
+          "href": "https://www.instacart.com/categories/316-food/627-frozen-food"
+        },
+        {
+          "text": "Meat",
+          "href": "https://www.instacart.com/categories/316-food/1807-meat"
+        },
+        {
+          "text": "Meat alternatives",
+          "href": "https://www.instacart.com/categories/316-food/831-meat-alternatives"
+        },
+        {
+          "text": "Beverages",
+          "href": "https://www.instacart.com/categories/243-beverages"
+        },
+        {
+          "text": "Alcohol",
+          "href": "https://www.instacart.com/categories/2-alcohol"
+        },
+        {
+          "text": "Wine",
+          "href": "https://www.instacart.com/categories/2-alcohol/91-wine"
+        },
+        {
+          "text": "Liquor",
+          "href": "https://www.instacart.com/categories/2-alcohol/56-spirits"
+        },
+        {
+          "text": "Beer",
+          "href": "https://www.instacart.com/categories/2-alcohol/3-beer"
+        },
+        {
+          "text": "Coffee",
+          "href": "https://www.instacart.com/categories/243-beverages/244-coffee"
+        },
+        {
+          "text": "Juice",
+          "href": "https://www.instacart.com/categories/243-beverages/255-juice"
+        },
+        {
+          "text": "Soda",
+          "href": "https://www.instacart.com/categories/243-beverages/285-soda"
+        },
+        {
+          "text": "Tea",
+          "href": "https://www.instacart.com/categories/243-beverages/293-tea"
+        },
+        {
+          "text": "Water",
+          "href": "https://www.instacart.com/categories/243-beverages/311-water"
+        },
+        {
+          "text": "Organic grocery",
+          "href": "https://www.instacart.com/shop/organic-food"
+        },
+        {
+          "text": "Shop by location",
+          "href": "https://www.instacart.com/grocery-delivery"
+        },
+        {
+          "text": "Shop online deals",
+          "href": "https://www.instacart.com/store/hub/deals_tab"
+        },
+        {
+          "text": "Send gifts",
+          "href": "https://www.instacart.com/store/hub/gifts"
+        },
+        {
+          "text": "Alcohol",
+          "href": "https://www.instacart.com/store/hub/alcohol"
+        },
+        {
+          "text": "Convenience",
+          "href": "https://www.instacart.com/store/hub/convenience"
+        },
+        {
+          "text": "Ready meals",
+          "href": "https://www.instacart.com/store/hub/ready_meals"
+        },
+        {
+          "text": "Automotive",
+          "href": "https://www.instacart.com/categories/2964-automotive"
+        },
+        {
+          "text": "Baby supplies",
+          "href": "https://www.instacart.com/categories/1728-baby"
+        },
+        {
+          "text": "Beauty products",
+          "href": "https://www.instacart.com/categories/1484-beauty"
+        }
+      ],
+      "forms": [
+        {
+          "action": ".",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search products and stores"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Enter your address"
+            }
+          ]
+        }
+      ],
+      "images_count": 39,
+      "images_with_alt": 33,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Order groceries for delivery or pickup today"
+        },
+        {
+          "level": 1,
+          "text": "Find stores near you"
+        },
+        {
+          "level": 2,
+          "text": "Stores to help you save"
+        },
+        {
+          "level": 2,
+          "text": "All stores inSan Francisco Bay Area"
+        },
+        {
+          "level": 2,
+          "text": "Get the full Instacart experience"
+        },
+        {
+          "level": 2,
+          "text": "Grocery delivery you can count on"
+        },
+        {
+          "level": 2,
+          "text": "The largest online grocery marketplace in North America"
+        },
+        {
+          "level": 3,
+          "text": "Choose what you want"
+        },
+        {
+          "level": 3,
+          "text": "See real-time updates"
+        },
+        {
+          "level": 3,
+          "text": "Get your items same-day"
+        },
+        {
+          "level": 3,
+          "text": "1 billion products"
+        },
+        {
+          "level": 3,
+          "text": "1 billion products"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search products and stores"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Enter your address"
+        }
+      ],
+      "meta_description": "Order same-day delivery or pickup from more than 300 retailers and grocers. Download the Instacart app or start shopping online now with Instacart to get groceries, alcohol, home essentials, and more ",
+      "meta_viewport": "width=device-width,initial-scale=1,user-scalable=yes",
+      "has_og_tags": true,
+      "scripts_count": 75,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 42,
+      "footer_links": [
+        "iOS",
+        "Android",
+        "Fresh Produce",
+        "Dairy Products",
+        "Meat",
+        "Meat Alternatives",
+        "Seafood",
+        "Pantry Food",
+        "Baked Goods",
+        "View all departments",
+        "Gift Delivery Near Me",
+        "Flower Delivery Near Me",
+        "Asian Groceries",
+        "Business Office Food",
+        "Coffee Shop Supplies",
+        "Sprouts Farmers Market Weekly Ad",
+        "Giant Eagle Weekly Ad",
+        "Alcohol",
+        "Alcohol by location",
+        "Frozen Food"
+      ],
+      "has_search_input": true
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment_methods": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "N",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_links": "Y",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#ffffff",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Grocery delivery or pickup from local stores",
+        "1 billion products available",
+        "Real-time updates on orders"
+      ],
+      "missing_common_features": [
+        "Search autocomplete/suggestions",
+        "Price display",
+        "Add to cart button",
+        "Order tracking capability",
+        "Written customer reviews"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "gopuff",
+    "url": "https://gopuff.com",
+    "scanned_at": "2026-03-31T20:38:40.298344",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/gopuff_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/gopuff_mobile.png"
+    },
+    "structure": {
+      "title": "Gopuff: 15-Min Delivery | Groceries, Snacks, Alcohol & More",
+      "url_final": "https://www.gopuff.com/",
+      "nav_items": [],
+      "buttons": [
+        "Privacy Notice",
+        "Accept All",
+        "Manage Cookies",
+        "Reject All"
+      ],
+      "links_count": 0,
+      "main_links": [],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "JavaScript Disabled"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "Gopuff delivers groceries, snacks, alcohol, and more in just 15 minutes. With no middleman, we offer Cheapest on the Planet prices and reliable service every time.",
+      "meta_viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+      "has_og_tags": true,
+      "scripts_count": 56,
+      "stylesheets_count": 0,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 3,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "Y",
+        "terms_of_service": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "color_scheme": "light",
+      "estimated_primary_color": "#FFFFFF",
+      "design_quality_1_to_10": 3,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Star ratings visible",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "chownow",
+    "url": "https://www.chownow.com",
+    "scanned_at": "2026-03-31T20:39:10.881619",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/chownow_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/chownow_mobile.png"
+    },
+    "structure": {
+      "title": "Attention Required! | Cloudflare",
+      "url_final": "https://www.chownow.com/",
+      "nav_items": [],
+      "buttons": [
+        "Click to reveal"
+      ],
+      "links_count": 1,
+      "main_links": [
+        {
+          "text": "Cloudflare",
+          "href": "https://www.cloudflare.com/5xx-error-landing"
+        }
+      ],
+      "forms": [],
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry, you have been blocked"
+        },
+        {
+          "level": 2,
+          "text": "You are unable to accesschownow.com"
+        },
+        {
+          "level": 2,
+          "text": "Why have I been blocked?"
+        },
+        {
+          "level": 2,
+          "text": "What can I do to resolve this?"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "",
+      "meta_viewport": "width=device-width,initial-scale=1",
+      "has_og_tags": false,
+      "scripts_count": 4,
+      "stylesheets_count": 1,
+      "has_lang_attr": true,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "N",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "N",
+        "sticky_header": "N",
+        "footer_links": "N",
+        "breadcrumb_navigation": "N",
+        "loading_states": "N",
+        "hero_section": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 1,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option",
+        "Product/item images",
+        "Shopping cart / order basket",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "seamless",
+    "url": "https://www.seamless.com",
+    "scanned_at": "2026-03-31T20:39:40.095024",
+    "screenshots": {
+      "desktop": "data/food_delivery/2026-03-31/screenshots/seamless_desktop.png",
+      "mobile": "data/food_delivery/2026-03-31/screenshots/seamless_mobile.png"
+    },
+    "structure": {
+      "title": "Something went wrong",
+      "url_final": "https://www.seamless.com/",
+      "nav_items": [],
+      "buttons": [],
+      "links_count": 1,
+      "main_links": [],
+      "forms": [],
+      "images_count": 2,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Oh, hello!"
+        },
+        {
+          "level": 2,
+          "text": "Thanks for stopping by, but unfortunately Seamless food delivery is not availabl"
+        }
+      ],
+      "inputs": [],
+      "meta_description": "Free online ordering from restaurants near you! With more than 30,000 restaurants in 500+ cities, food delivery or takeout is just a click away. Because with Grubhub: Click, click, food!",
+      "meta_viewport": "width=device-width,initial-scale=1,user-scalable=no",
+      "has_og_tags": true,
+      "scripts_count": 0,
+      "stylesheets_count": 1,
+      "has_lang_attr": false,
+      "has_skip_link": false,
+      "aria_labels_count": 0,
+      "footer_links": [],
+      "has_search_input": false
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "N",
+        "trending_items": "N",
+        "login_signup_option": "N",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "related_items": "N",
+        "stock_availability": "N",
+        "shopping_cart": "N",
+        "add_to_cart_button": "N",
+        "promo_code_field": "N",
+        "multiple_payment_methods": "N",
+        "shipping_info": "N",
+        "estimated_delivery_date": "N",
+        "star_ratings": "N",
+        "written_reviews": "N",
+        "review_photos": "N",
+        "wishlist_option": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notification_prompt": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center_link": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_number": "N",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy_link": "N",
+        "cookie_consent_banner": "N",
+        "terms_of_service_link": "N"
+      },
+      "navigation_pattern": "N/A",
+      "color_scheme": "N/A",
+      "estimated_primary_color": "N/A",
+      "design_quality_1_to_10": 2,
+      "notable_features": [],
+      "missing_common_features": [
+        "Product/item search bar",
+        "Login/signup option visible",
+        "Product descriptions",
+        "Price display",
+        "Shopping cart / order basket",
+        "Add to cart button",
+        "Help center / FAQ link"
+      ],
+      "confidence": "high"
+    }
+  }
+]

@@ -1,0 +1,442 @@
+{
+  "name": "flipkart",
+  "url": "https://www.flipkart.com",
+  "scanned_at": "2026-03-31T20:21:50.318443",
+  "screenshots": {
+    "desktop": "data/ecommerce/2026-03-31/screenshots/flipkart_desktop.png",
+    "mobile": "data/ecommerce/2026-03-31/screenshots/flipkart_mobile.png"
+  },
+  "structure": {
+    "title": "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!",
+    "url_final": "https://www.flipkart.com/",
+    "nav_items": [
+      {
+        "text": "Search Icon",
+        "href": "/searchsuggestion"
+      },
+      {
+        "text": "Login",
+        "href": "/account/login?ret=/"
+      },
+      {
+        "text": "New customer?Sign Up",
+        "href": "/account/login?signup=true&ret=/"
+      },
+      {
+        "text": "My Profile",
+        "href": "/account/?rd=0&link=home_account"
+      },
+      {
+        "text": "Flipkart Plus Zone",
+        "href": "/plus"
+      },
+      {
+        "text": "Orders",
+        "href": "/account/orders?link=home_orders"
+      },
+      {
+        "text": "Wishlist",
+        "href": "/wishlist?link=home_wishlist"
+      },
+      {
+        "text": "Become a Seller",
+        "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+      },
+      {
+        "text": "Rewards",
+        "href": "/account/rewards?link=home_rewards"
+      },
+      {
+        "text": "Gift Cards",
+        "href": "/the-gift-card-store?link=home_giftcard"
+      },
+      {
+        "text": "Notification Preferences",
+        "href": "/communication-preferences/push?t=all"
+      },
+      {
+        "text": "24x7 Customer Care",
+        "href": "/helpcentre"
+      },
+      {
+        "text": "Advertise",
+        "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+      },
+      {
+        "text": "Download App",
+        "href": "/mobile-apps?otracker=ch_vn_mobile_apps"
+      },
+      {
+        "text": "Login",
+        "href": "/account/login?ret=/"
+      },
+      {
+        "text": "More",
+        "href": "#"
+      },
+      {
+        "text": "Become a Seller",
+        "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+      },
+      {
+        "text": "Notification Settings",
+        "href": "/communication-preferences/push?t=all"
+      },
+      {
+        "text": "24x7 Customer Care",
+        "href": "/helpcentre"
+      },
+      {
+        "text": "Advertise on Flipkart",
+        "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+      }
+    ],
+    "buttons": [
+      "Search Icon",
+      "Search Icon",
+      "Request OTP"
+    ],
+    "links_count": 405,
+    "main_links": [
+      {
+        "text": "Location not setSelect delivery location",
+        "href": ""
+      },
+      {
+        "text": "Search Icon",
+        "href": "/searchsuggestion"
+      },
+      {
+        "text": "Login",
+        "href": "/account/login?ret=/"
+      },
+      {
+        "text": "New customer?Sign Up",
+        "href": "/account/login?signup=true&ret=/"
+      },
+      {
+        "text": "My Profile",
+        "href": "/account/?rd=0&link=home_account"
+      },
+      {
+        "text": "Flipkart Plus Zone",
+        "href": "/plus"
+      },
+      {
+        "text": "Orders",
+        "href": "/account/orders?link=home_orders"
+      },
+      {
+        "text": "Wishlist",
+        "href": "/wishlist?link=home_wishlist"
+      },
+      {
+        "text": "Become a Seller",
+        "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+      },
+      {
+        "text": "Rewards",
+        "href": "/account/rewards?link=home_rewards"
+      },
+      {
+        "text": "Gift Cards",
+        "href": "/the-gift-card-store?link=home_giftcard"
+      },
+      {
+        "text": "Notification Preferences",
+        "href": "/communication-preferences/push?t=all"
+      },
+      {
+        "text": "24x7 Customer Care",
+        "href": "/helpcentre"
+      },
+      {
+        "text": "Advertise",
+        "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+      },
+      {
+        "text": "Download App",
+        "href": "/mobile-apps?otracker=ch_vn_mobile_apps"
+      },
+      {
+        "text": "Login",
+        "href": "/account/login?ret=/"
+      },
+      {
+        "text": "More",
+        "href": "#"
+      },
+      {
+        "text": "Become a Seller",
+        "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+      },
+      {
+        "text": "Notification Settings",
+        "href": "/communication-preferences/push?t=all"
+      },
+      {
+        "text": "24x7 Customer Care",
+        "href": "/helpcentre"
+      },
+      {
+        "text": "Advertise on Flipkart",
+        "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+      },
+      {
+        "text": "Cart",
+        "href": "/viewcart?marketplace=FLIPKART"
+      },
+      {
+        "text": "For You",
+        "href": "https://www.flipkart.com/"
+      },
+      {
+        "text": "Fashion",
+        "href": "/aw-base-new-inline-2025-at-store"
+      },
+      {
+        "text": "Mobiles",
+        "href": "/mobile-phone-ab-at-store"
+      },
+      {
+        "text": "Beauty",
+        "href": "/bpc-bau-new-inline-at-store"
+      },
+      {
+        "text": "Electronics",
+        "href": "/new-elec-clp-march-at-store"
+      },
+      {
+        "text": "Home",
+        "href": "/home-kitchen-25-at-store"
+      },
+      {
+        "text": "Appliances",
+        "href": "/tv-and-appliances-inline-ab-at-store"
+      },
+      {
+        "text": "Toys, baby..",
+        "href": "/toys-baby-2025-new-at-store"
+      }
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search for Products, Brands and More"
+          },
+          {
+            "type": "hidden",
+            "name": "otracker",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "otracker1",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "marketplace",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "as-show",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "as",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "images_count": 87,
+    "images_with_alt": 73,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Flipkart: India's Ultimate One-Stop Online Shopping Destination"
+      },
+      {
+        "level": 2,
+        "text": "What Can You Buy from Flipkart?"
+      },
+      {
+        "level": 2,
+        "text": "Flipkart Loyalty and Rewards Program"
+      },
+      {
+        "level": 2,
+        "text": "Payment and Affordability: Shop Smart, Pay Smarter"
+      },
+      {
+        "level": 2,
+        "text": "Flipkart Flights: Book Your Next Getaway Effortlessly"
+      },
+      {
+        "level": 2,
+        "text": "Flipkart Minutes: Groceries and Gadgets in a Flash"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search for Products, Brands and More"
+      },
+      {
+        "type": "hidden",
+        "name": "otracker",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "otracker1",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "marketplace",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "as-show",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "as",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search for Products, Brands and More"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "meta_description": "",
+    "meta_viewport": "width=device-width,minimum-scale=1,user-scalable=no",
+    "has_og_tags": true,
+    "scripts_count": 20,
+    "stylesheets_count": 5,
+    "has_lang_attr": true,
+    "has_skip_link": false,
+    "aria_labels_count": 33,
+    "footer_links": [
+      "Brand Directory",
+      "Apple iPhone 17e",
+      "REDMI 15A",
+      "Samsung Galaxy A57",
+      "POCO C85x",
+      "POCO X8 Pro",
+      "Lumio Projectors",
+      "Bags for Men",
+      "Laptop Store",
+      "Mixer Juicer Grinder",
+      "Men's Shoes",
+      "Adidas Men's Shoes",
+      "Boat Earbuds",
+      "Body Lotion",
+      "Campus Shoes",
+      "Earphones",
+      "Red Tape Shoes",
+      "Men's Slippers",
+      "Helmets",
+      "Nike Shoes"
+    ],
+    "has_search_input": true
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup_visible": "Y",
+      "social_login": "N",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "related_items": "U",
+      "stock_availability": "U",
+      "shopping_cart": "Y",
+      "add_to_cart_button": "U",
+      "promo_code_field": "U",
+      "multiple_payment_methods": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "written_reviews": "U",
+      "review_photos": "U",
+      "wishlist_option": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notification_prompt": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "N",
+      "phone_number": "N",
+      "alt_text_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "N",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_links": "Y",
+      "breadcrumb_navigation": "N",
+      "loading_states": "N",
+      "hero_section": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "color_scheme": "light",
+    "estimated_primary_color": "#ffffff",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Flipkart Plus Zone",
+      "Rewards Program",
+      "24x7 Customer Care"
+    ],
+    "missing_common_features": [
+      "Social login",
+      "Guest checkout option",
+      "Written customer reviews",
+      "Live chat widget",
+      "Contact form/email",
+      "Phone number visible"
+    ],
+    "confidence": "medium"
+  }
+}

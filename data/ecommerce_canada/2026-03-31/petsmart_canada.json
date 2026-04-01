@@ -1,0 +1,300 @@
+{
+  "name": "petsmart_canada",
+  "url": "https://www.petsmart.ca",
+  "scanned_at": "2026-03-31T21:25:44.907687",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/petsmart_canada_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/petsmart_canada_mobile.png"
+  },
+  "structure": {
+    "title": "Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart",
+    "url_final": "https://www.petsmart.ca/",
+    "nav_items": [
+      {
+        "text": "Shop by brand",
+        "href": "/shop-by-brand/"
+      },
+      {
+        "text": "Shop by pet",
+        "href": "#"
+      },
+      {
+        "text": "Pet Services",
+        "href": "https://services.petsmart.ca/"
+      },
+      {
+        "text": "Learning",
+        "href": "/learning-center/"
+      },
+      {
+        "text": "Deals",
+        "href": "#"
+      },
+      {
+        "text": "Made in Canada",
+        "href": "/featured-shops/made-in-canada/"
+      },
+      {
+        "text": "Find a Store",
+        "href": "/store-locator/"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "Search",
+      "Cancel",
+      "Sign in",
+      "Activate now",
+      "RSVP now",
+      "arrow-prev",
+      "arrow-next",
+      "Activate now",
+      "Shop & save",
+      "Enter now",
+      "Download now",
+      "Close",
+      "Use my current location",
+      "Close",
+      "Reset password",
+      "Close",
+      "Got it",
+      "Close",
+      "Close",
+      "Close",
+      "Show",
+      "Sign in",
+      "Create account",
+      "Close",
+      "Shop by pet",
+      "Pet Services",
+      "Learning"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "#",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": " "
+          }
+        ]
+      },
+      {
+        "action": "#",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": " "
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": " "
+          }
+        ]
+      }
+    ],
+    "links_count": 130,
+    "images_count": 77,
+    "images_with_alt": 73,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Faves at your door, today"
+      },
+      {
+        "level": 2,
+        "text": "Shop by pet"
+      },
+      {
+        "level": 2,
+        "text": "Easter Party"
+      },
+      {
+        "level": 2,
+        "text": "Springtime favourites"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Dog Food"
+      },
+      {
+        "level": 3,
+        "text": "Cat Food"
+      },
+      {
+        "level": 3,
+        "text": "Cat Litter"
+      },
+      {
+        "level": 3,
+        "text": "Flea & Tick"
+      },
+      {
+        "level": 3,
+        "text": "Salon Services"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "City or postal code"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": " "
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": " "
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": " "
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-BG39",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 49,
+    "has_og_tags": true,
+    "meta_description": "PetSmart pet stores offer quality pet products, pet food, and accessories. Find pet service locations for pet grooming, dog training, and boarding.",
+    "scripts_count": 177
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Made in Canada section",
+      "Pet Services integration"
+    ],
+    "confidence": "medium"
+  }
+}

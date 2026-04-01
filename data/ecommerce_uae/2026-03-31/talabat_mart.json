@@ -1,0 +1,158 @@
+{
+  "name": "talabat_mart",
+  "url": "https://www.talabat.com/uae",
+  "scanned_at": "2026-03-31T23:21:29.333638",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/talabat_mart_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/talabat_mart_mobile.png"
+  },
+  "structure": {
+    "title": "Food delivery from your nearest restaurants in UAE | Talabat",
+    "url_final": "https://www.talabat.com/uae",
+    "nav_items": [
+      {
+        "text": "Corporate",
+        "href": "https://corporate.talabat.com/"
+      },
+      {
+        "text": "Become a partner",
+        "href": "https://ae.partner.talabat.com/s/?language=en_US&utm_source=homepage&utm_medium=referral&utm_campaig"
+      },
+      {
+        "text": "",
+        "href": "/ar/uae"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "buttons": [
+      "Let's go",
+      "Find out more",
+      "See open job opportunities"
+    ],
+    "forms": [],
+    "links_count": 66,
+    "images_count": 25,
+    "images_with_alt": 18,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Fast delivery of food, groceries and more"
+      },
+      {
+        "level": 2,
+        "text": "Order food"
+      },
+      {
+        "level": 2,
+        "text": "Order groceries"
+      },
+      {
+        "level": 2,
+        "text": "Order flowers"
+      },
+      {
+        "level": 2,
+        "text": "Order medicine"
+      },
+      {
+        "level": 2,
+        "text": "Donations"
+      },
+      {
+        "level": 3,
+        "text": "Ajman"
+      },
+      {
+        "level": 3,
+        "text": "Dubai"
+      },
+      {
+        "level": 3,
+        "text": "Al Ain"
+      },
+      {
+        "level": 3,
+        "text": "Sharjah"
+      },
+      {
+        "level": 3,
+        "text": "Fujairah"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for area, street name, landmark..."
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 18,
+    "has_og_tags": true,
+    "meta_description": "Your favorite food delivered in UAE with Talabat. A wide food variety from the top restaurants near you: burger,s pizza and more! Hungry? Ready, set, Talabat!",
+    "scripts_count": 52
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Fast delivery of food, groceries, and more",
+      "Order from a wide range of categories including food, groceries, flowers, and medicine"
+    ],
+    "confidence": "medium"
+  }
+}

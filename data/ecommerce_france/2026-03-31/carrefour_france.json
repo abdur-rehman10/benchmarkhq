@@ -1,0 +1,372 @@
+{
+  "name": "carrefour_france",
+  "url": "https://www.carrefour.fr",
+  "scanned_at": "2026-03-31T22:24:25.473159",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/carrefour_france_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/carrefour_france_mobile.png"
+  },
+  "structure": {
+    "title": "Carrefour : Magasins et Courses en ligne (Drive, Livraison \u00e0 Domicile)",
+    "url_final": "https://www.carrefour.fr/",
+    "nav_items": [
+      {
+        "text": "Catalogues",
+        "href": "/catalogue"
+      },
+      {
+        "text": "Catalogues",
+        "href": "/catalogue"
+      },
+      {
+        "text": "Promotions",
+        "href": "/promotions"
+      },
+      {
+        "text": "Act for Food",
+        "href": "/engagements/act-for-food"
+      },
+      {
+        "text": "Nouveaut\u00e9s du mois",
+        "href": "/boutique/nouveaute-du-mois"
+      },
+      {
+        "text": "P\u00e2ques",
+        "href": "/evenements/paques"
+      },
+      {
+        "text": "Mon march\u00e9 frais",
+        "href": "/boutique/le-marche-carrefour"
+      },
+      {
+        "text": "Fruits et L\u00e9gumes",
+        "href": "/r/fruits-et-legumes"
+      },
+      {
+        "text": "Viandes et Poissons",
+        "href": "/r/viandes-et-poissons"
+      },
+      {
+        "text": "Cr\u00e8merie et Produits laitiers",
+        "href": "/r/cremerie"
+      },
+      {
+        "text": "Charcuterie et Traiteur",
+        "href": "/r/charcuterie-traiteur"
+      },
+      {
+        "text": "Surgel\u00e9s",
+        "href": "/r/surgeles"
+      },
+      {
+        "text": "B\u00e9b\u00e9",
+        "href": "/r/bebe"
+      },
+      {
+        "text": "Epicerie sucr\u00e9e",
+        "href": "/r/epicerie-sucree"
+      },
+      {
+        "text": "Epicerie sal\u00e9e",
+        "href": "/r/epicerie-salee"
+      },
+      {
+        "text": "Boissons",
+        "href": "/r/boissons"
+      },
+      {
+        "text": "Pains et P\u00e2tisseries",
+        "href": "/r/pains-et-patisseries"
+      },
+      {
+        "text": "Bio et Ecologie",
+        "href": "/r/bio-et-ecologie"
+      },
+      {
+        "text": "Entretien et Nettoyage",
+        "href": "/r/entretien-et-nettoyage"
+      },
+      {
+        "text": "Hygi\u00e8ne et Beaut\u00e9",
+        "href": "/r/hygiene-et-beaute"
+      }
+    ],
+    "buttons": [
+      "DriveRetrait gratuit en\u00a0magasin",
+      "LivraisonVotre plein de course en\u00a024h",
+      "Livraison ExpressVos courses livr\u00e9es en\u00a01h",
+      "Faire mes courses",
+      "Acheter",
+      "337g",
+      "Acheter",
+      "350g",
+      "Acheter",
+      "337g",
+      "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+      "Acheter",
+      "180g",
+      "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+      "Acheter",
+      "200g",
+      "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+      "Acheter",
+      "350g",
+      "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+      "Acheter",
+      "180g",
+      "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+      "Acheter",
+      "180g"
+    ],
+    "forms": [
+      {
+        "action": "/s",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Pain, lait, oeufs..."
+          }
+        ]
+      }
+    ],
+    "links_count": 242,
+    "images_count": 73,
+    "images_with_alt": 46,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Bienvenue chez Carrefour"
+      },
+      {
+        "level": 2,
+        "text": "Courses du quotidien"
+      },
+      {
+        "level": 2,
+        "text": "Maison & loisirs"
+      },
+      {
+        "level": 2,
+        "text": "La s\u00e9lection du moment"
+      },
+      {
+        "level": 2,
+        "text": "Nos top rayons"
+      },
+      {
+        "level": 2,
+        "text": "Nos services"
+      },
+      {
+        "level": 3,
+        "text": "Assortiment de Chocolats Lait Fourr\u00e9s LINDT"
+      },
+      {
+        "level": 3,
+        "text": "\u0152ufs Chocolat Lait Noir et Blanc Assortiment Lindor LINDT"
+      },
+      {
+        "level": 3,
+        "text": "Bouch\u00e9es de Chocolat Lait Noir et Blanc Assortiment Lindor LINDT"
+      },
+      {
+        "level": 3,
+        "text": "\u0152ufs Chocolat Lait Noir et Blanc Fourr\u00e9s Lindor LINDT"
+      },
+      {
+        "level": 3,
+        "text": "Bouch\u00e9es de Chocolat Lait Lindor LINDT"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Pain, lait, oeufs..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Pain"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Lait"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Oeufs"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Trouver un magasin",
+      "Obtenir de l'aide",
+      "T\u00e9l\u00e9charger l'application",
+      "Consulter la FAQ",
+      "Promotions",
+      "Ch\u00e8ques diff\u00e9r\u00e9s",
+      "Ramadan 2026",
+      "Saint Patrick",
+      "MacBook Neo",
+      "PC Portable Asus",
+      "Tondeuse Babyliss",
+      "TV Samsung",
+      "Aspirateur Tineco",
+      "Nintendo Switch 2",
+      "PlayStation 5",
+      "iPhone 17",
+      "Matelas Emma",
+      "Cafeti\u00e8res Senseo",
+      "Samsung Galaxy S26",
+      "Lego Minecraft"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 167,
+    "has_og_tags": true,
+    "meta_description": "Faites vos Courses sur Carrefour.fr et retrouvez des milliers de produits au meilleur prix dans vos Magasins, en retrait Drive ou en Livraison \u00e0 Domicile. Toutes les infos magasins, catalogues, servic",
+    "scripts_count": 20
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Drive and express delivery options",
+      "Act for Food initiative"
+    ],
+    "confidence": "high"
+  }
+}

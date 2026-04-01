@@ -1,0 +1,184 @@
+{
+  "name": "decathlon_spain",
+  "url": "https://www.decathlon.es",
+  "scanned_at": "2026-04-01T00:05:44.575476",
+  "screenshots": {
+    "desktop": "data/ecommerce_spain/2026-04-01/screenshots/decathlon_spain_desktop.png",
+    "mobile": "data/ecommerce_spain/2026-04-01/screenshots/decathlon_spain_mobile.png"
+  },
+  "structure": {
+    "title": "Tienda de deportes, ropa y material deportivo | Decathlon",
+    "url_final": "https://www.decathlon.es/es",
+    "nav_items": [],
+    "buttons": [
+      "Configurar",
+      "Aceptar",
+      "Borrar",
+      "Deportes",
+      "Mujer",
+      "Hombre",
+      "Ni\u00f1os",
+      "Equipamiento deportivo",
+      "Electr\u00f3nica",
+      "Nutrici\u00f3n y salud",
+      "Descuentos",
+      "Segunda vida",
+      "Servicios",
+      "Tarjeta regalo",
+      "Compramos tu material deportivo",
+      "\u00bfConoces nuestro servicio de alquiler?",
+      "\u00bfNecesitas reparar o hacer mantenimiento de tus pr"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Buscar"
+          }
+        ]
+      }
+    ],
+    "links_count": 298,
+    "images_count": 66,
+    "images_with_alt": 32,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "La primavera te pide deporte"
+      },
+      {
+        "level": 2,
+        "text": "Esenciales para tu viaje"
+      },
+      {
+        "level": 2,
+        "text": "Siente la velocidad"
+      },
+      {
+        "level": 2,
+        "text": "Nuestras colecciones"
+      },
+      {
+        "level": 3,
+        "text": "Compramos tu material deportivo"
+      },
+      {
+        "level": 3,
+        "text": "\u00bfConoces nuestro servicio de alquiler?"
+      },
+      {
+        "level": 3,
+        "text": "\u00bfNecesitas reparar o hacer mantenimiento de tus productos?"
+      },
+      {
+        "level": 3,
+        "text": "TE AYUDAMOS"
+      },
+      {
+        "level": 3,
+        "text": "SERVICIOS"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Buscar"
+      }
+    ],
+    "footer_links": [
+      "Devoluci\u00f3n en 60 d\u00edasPara productos de marca Decat",
+      "Date un respiroFinancia hasta 15.000\u20ac",
+      "Recompramos tu materialY recibe el importe en dine",
+      "Tu pedido disponibledesde 1h en tienda",
+      "APP Decathlon",
+      "Hazte miembro",
+      "Ayuda y atenci\u00f3n al cliente",
+      "M\u00e9todos y gastos de env\u00edo",
+      "M\u00e9todos de pago",
+      "Factura electr\u00f3nica",
+      "Devoluciones y reembolsos",
+      "Soporte t\u00e9cnico",
+      "Consejos deportivos",
+      "Recompramos tu material",
+      "Decathlon Segunda Vida"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 114,
+    "has_og_tags": false,
+    "meta_description": "Entra y descubre nuestra amplia gama de material para todos los deportes que te puedas imaginar. \u00a1Siempre con la garant\u00eda de Decathlon y al mejor\u2026",
+    "scripts_count": 173
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Service for buying back used sports equipment",
+      "Equipment rental service",
+      "60-day return policy for Decathlon brand products"
+    ],
+    "confidence": "medium"
+  }
+}

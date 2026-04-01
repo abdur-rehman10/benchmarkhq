@@ -1,0 +1,285 @@
+{
+  "name": "ikea_spain",
+  "url": "https://www.ikea.com/es/es/",
+  "scanned_at": "2026-04-01T00:07:13.765381",
+  "screenshots": {
+    "desktop": "data/ecommerce_spain/2026-04-01/screenshots/ikea_spain_desktop.png",
+    "mobile": "data/ecommerce_spain/2026-04-01/screenshots/ikea_spain_mobile.png"
+  },
+  "structure": {
+    "title": "Muebles y Decoraci\u00f3n al Mejor Precio - IKEA",
+    "url_final": "https://www.ikea.com/es/es/",
+    "nav_items": [
+      {
+        "text": "Productos",
+        "href": "https://www.ikea.com/es/es/cat/productos-products/"
+      },
+      {
+        "text": "Estancias",
+        "href": "https://www.ikea.com/es/es/rooms/"
+      },
+      {
+        "text": "Special Prices",
+        "href": "https://www.ikea.com/es/es/offers/"
+      },
+      {
+        "text": "Dise\u00f1o e ideas",
+        "href": "https://www.ikea.com/es/es/ideas/"
+      },
+      {
+        "text": "Servicios",
+        "href": "https://www.ikea.com/es/es/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Borra el campo de entrada de b\u00fasqueda",
+      "Buscar",
+      "Cerrar",
+      "Hemos bajado el precio",
+      "Ofertas IKEA Family",
+      "Outlet",
+      "Nuestro precio m\u00e1s bajo",
+      "Revisa: 4.4 de 5 estrellas. Total opiniones:(799)",
+      "Revisa: 4.7 de 5 estrellas. Total opiniones:(1813)",
+      "Revisa: 4.6 de 5 estrellas. Total opiniones:(933)",
+      "Revisa: 4.5 de 5 estrellas. Total opiniones:(289)",
+      "Revisa: 4.7 de 5 estrellas. Total opiniones:(1384)"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/es/es/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "\u00bfQu\u00e9 es lo que buscas?"
+          }
+        ]
+      }
+    ],
+    "links_count": 201,
+    "images_count": 116,
+    "images_with_alt": 74,
+    "headings": [
+      {
+        "level": 1,
+        "text": "IKEA, tu tienda de muebles y decoraci\u00f3n"
+      },
+      {
+        "level": 2,
+        "text": "Ofertas Family"
+      },
+      {
+        "level": 2,
+        "text": "Special prices"
+      },
+      {
+        "level": 2,
+        "text": "Ahora en IKEA"
+      },
+      {
+        "level": 2,
+        "text": "Inspiraci\u00f3n para cada estancia"
+      },
+      {
+        "level": 2,
+        "text": "M\u00e1s ideas e inspiraci\u00f3n"
+      },
+      {
+        "level": 3,
+        "text": "KLEPPSTADArmario con 2 puertas, blanco, 79x55x176 cm"
+      },
+      {
+        "level": 3,
+        "text": "IVRIGVaso, vidrio incoloro, 45 cl"
+      },
+      {
+        "level": 3,
+        "text": "SORGMANTELFunda n\u00f3rdica y 2 fundas almohada, blanco/verde, 240x220/50x60 cm"
+      },
+      {
+        "level": 3,
+        "text": "GLADELIGVajilla 18 piezas, gris"
+      },
+      {
+        "level": 3,
+        "text": "FEJKAPlanta artificial, interior/exterior colgante/eucalipto, 9 cm"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "\u00bfQu\u00e9 es lo que buscas?"
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-10588684-49c570-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-10588684-49c570-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30586783-49c570-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30586783-49c570-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30586783-49c570-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60610946-285e9a-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60610946-285e9a-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60610946-285e9a-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60610946-285e9a-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60610946-285e9a-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70610738-285e9a-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70610738-285e9a-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70610738-285e9a-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-80629308-285e9a-P0-4",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-80629308-285e9a-P0-4",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Descubre todos los beneficios",
+      "Unirse o iniciar sesi\u00f3n",
+      "Descubre todas las ventajas",
+      "Unirse o iniciar sesi\u00f3n",
+      "Todos los productos IKEA",
+      "Gu\u00edas de productos",
+      "Planificadores",
+      "Lista de regalos",
+      "Tarjetas regalo",
+      "Tiendas IKEA",
+      "Medios de pago",
+      "IKEA Apps",
+      "Env\u00edo a domicilio",
+      "Click & collect",
+      "Planificaci\u00f3n y asesoramiento",
+      "Dise\u00f1o de interiores",
+      "Venta a distancia",
+      "Financiaci\u00f3n",
+      "Montaje de muebles",
+      "Instalaci\u00f3n"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 87,
+    "has_og_tags": true,
+    "meta_description": "En la tienda de muebles y decoraci\u00f3n IKEA encontrar\u00e1s sof\u00e1s, colchones, decoraci\u00f3n, electrodom\u00e9sticos y muebles para tu dormitorio, sal\u00f3n, ba\u00f1o y cocina. \u00a1Dise\u00f1o y decoraci\u00f3n para todos en IKEA!",
+    "scripts_count": 58
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "IKEA Family offers",
+      "Special prices section",
+      "Inspiration and ideas section"
+    ],
+    "confidence": "high"
+  }
+}

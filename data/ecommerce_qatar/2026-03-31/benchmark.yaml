@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_qatar
+  name: E-commerce Qatar
+  country: Qatar
+  currency: QAR
+  language: en
+  version: 1.0.0
+  generated_at: '2026-03-31T23:31:08.601321'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - noon_qatar
+  - amazon_qatar
+  - lulu_qatar
+  - jarir_qatar
+  - carrefour_qatar
+  - ikea_qatar
+  - shein_qatar
+  - namshi_qatar
+  - snoonu
+  - talabat_qatar
+  - 6th_street_qatar
+  - max_fashion_qatar
+  - handm_qatar
+  - zara_qatar
+  - nike_qatar
+  - samsung_qatar
+  - apple_qatar
+  - centrepoint_qatar
+  - sun_sand_sports_qa
+  - home_centre_qa
+  - monoprix_qatar
+  - al_meera
+  - virgin_megastore_qa
+  - bath_body_works_qa
+  - ounass_qa
+  - sivvi_qa
+  - temu_qatar
+  - adidas_qatar
+  - decathlon_qatar
+  - floward_qa
+features:
+  critical:
+  - id: product_search
+    frequency: 15/15
+    percent: 100
+  - id: category_browsing
+    frequency: 15/15
+    percent: 100
+  - id: login_signup
+    frequency: 12/15
+    percent: 100
+  - id: guest_checkout
+    frequency: 8/15
+    percent: 100
+  - id: product_images
+    frequency: 15/15
+    percent: 100
+  - id: product_descriptions
+    frequency: 11/15
+    percent: 100
+  - id: price_display
+    frequency: 13/15
+    percent: 100
+  - id: stock_availability
+    frequency: 8/15
+    percent: 100
+  - id: shopping_cart
+    frequency: 14/15
+    percent: 100
+  - id: add_to_cart
+    frequency: 13/15
+    percent: 100
+  - id: multiple_payment
+    frequency: 8/15
+    percent: 100
+  - id: shipping_info
+    frequency: 8/15
+    percent: 100
+  - id: order_tracking
+    frequency: 9/15
+    percent: 100
+  - id: order_history
+    frequency: 9/15
+    percent: 100
+  - id: return_refund_info
+    frequency: 10/15
+    percent: 100
+  - id: help_center
+    frequency: 12/15
+    percent: 100
+  - id: phone_support
+    frequency: 9/15
+    percent: 100
+  - id: language_attribute
+    frequency: 15/15
+    percent: 100
+  - id: privacy_policy
+    frequency: 10/15
+    percent: 100
+  - id: terms_of_service
+    frequency: 10/15
+    percent: 100
+  - id: responsive_design
+    frequency: 12/15
+    percent: 100
+  - id: wishlist
+    frequency: 8/15
+    percent: 89
+  - id: trending_items
+    frequency: 7/15
+    percent: 88
+  - id: promo_code
+    frequency: 6/15
+    percent: 86
+  - id: push_notifications
+    frequency: 6/15
+    percent: 86
+  - id: contact_form
+    frequency: 6/15
+    percent: 86
+  required:
+  - id: search_filters
+    frequency: 5/15
+    percent: 83
+  - id: estimated_delivery
+    frequency: 5/15
+    percent: 83
+  - id: star_ratings
+    frequency: 5/15
+    percent: 83
+  - id: customer_reviews
+    frequency: 5/15
+    percent: 83
+  - id: personalized_recommendations
+    frequency: 5/15
+    percent: 83
+  - id: cookie_consent
+    frequency: 5/15
+    percent: 83
+  - id: hero_section
+    frequency: 5/15
+    percent: 83
+  - id: search_autocomplete
+    frequency: 4/15
+    percent: 80
+  - id: social_login
+    frequency: 4/15
+    percent: 80
+  - id: related_products
+    frequency: 4/15
+    percent: 80
+  - id: review_photos
+    frequency: 4/15
+    percent: 80
+  - id: recently_viewed
+    frequency: 4/15
+    percent: 80
+  - id: live_chat
+    frequency: 4/15
+    percent: 80
+  - id: sticky_header
+    frequency: 4/15
+    percent: 80
+  - id: breadcrumb_navigation
+    frequency: 4/15
+    percent: 80
+  - id: skeleton_loading
+    frequency: 4/15
+    percent: 80
+  - id: alt_text_on_images
+    frequency: 11/15
+    percent: 73
+  - id: footer_with_links
+    frequency: 11/15
+    percent: 73
+  - id: size_variant_selector
+    frequency: 5/15
+    percent: 71
+  recommended: []
+  nice_to_have: []
+  innovative: []

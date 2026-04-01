@@ -1,0 +1,426 @@
+{
+  "name": "cdiscount",
+  "url": "https://www.cdiscount.com",
+  "scanned_at": "2026-03-31T22:21:45.681029",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/cdiscount_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/cdiscount_mobile.png"
+  },
+  "structure": {
+    "title": "Cdiscount : des prix bas qui ont de la voix !",
+    "url_final": "https://www.cdiscount.com/",
+    "nav_items": [
+      {
+        "text": "Aller au contenu principal",
+        "href": "#main-content"
+      },
+      {
+        "text": "Aller \u00e0 la recherche",
+        "href": "#search"
+      },
+      {
+        "text": "Aller au pied de page",
+        "href": "#footer-scene"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "Menu",
+      "Fermer le menu",
+      "Voir les items pr\u00e9c\u00e9dents",
+      "Voir les items suivants",
+      "Mentions et conditions",
+      "Qu\u2019est-ce qu\u2019un\n    petit colis ?",
+      "Apr\u00e8s combien de\n    jours mes euros cagnott\u00e9s son",
+      "Combien ai-je de\n    temps pour d\u00e9penser ma cagnot",
+      "Contacter le service client",
+      "G\u00e9rer mes cookies",
+      "Continuer sans accepter",
+      "Accepter",
+      "Param\u00e9trer les cookies"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.SiteMapNodeId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.DepartmentId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.ProductId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hdnPageType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.ContentTypeId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.SellerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.PageType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.LazyLoading.ProductSheets",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "TechnicalForm.BrandLicenseId",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "#",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Qu\u2019est-ce qui vous ferait plaisir ?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "AlgoFormData.Index",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].ControlId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].ProductId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].SkuList",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].Category",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].SellerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].Name",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].Algorithm",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].PaginationMode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "AlgoFormData[12726553].Context",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/PSAddBskPS.mvc",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ProductFormData.ProductPostedForm.OfferId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ProductFormData.ProductPostedForm.ProductId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ProductFormData.ProductPostedForm.siteMapNodeId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ProductFormData.ProductPostedForm.RedirectToBackOnAddToBasket",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ProductFormData.ProductPostedForm.SellerId",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 334,
+    "images_count": 135,
+    "images_with_alt": 134,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Les incontournables"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "L'offre du moment"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Paiement en 4x#"
+      },
+      {
+        "level": 3,
+        "text": "Prix bas toute l'ann\u00e9e"
+      },
+      {
+        "level": 3,
+        "text": "E-commerce engag\u00e9"
+      },
+      {
+        "level": 3,
+        "text": "Livraison sur mesure"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.SiteMapNodeId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.DepartmentId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.ProductId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hdnPageType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.ContentTypeId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.SellerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.PageType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.LazyLoading.ProductSheets",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "TechnicalForm.BrandLicenseId",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Qu\u2019est-ce qui vous ferait plaisir ?"
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData.Index",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].ControlId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].ProductId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].SkuList",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].Category",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].SellerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].Name",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].Algorithm",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].PaginationMode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "AlgoFormData[12726553].Context",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Accueil de l\u2019espace client",
+      "Mon suivi de commande",
+      "Les modes et frais de livraison",
+      "Les moyens de paiement",
+      "Nos engagements RSE",
+      "Devenir vendeur",
+      "Contact service client",
+      "Notifier du contenu illicite",
+      "Rappels de produits",
+      "Qui sommes-nous ?",
+      "Accessibilit\u00e9 num\u00e9rique",
+      "Conditions g\u00e9n\u00e9rales de vente",
+      "Conditions g\u00e9n\u00e9rales d\u2019utilisation marketplace",
+      "Mentions l\u00e9gales",
+      "R\u00e9f\u00e9rencement et classement",
+      "Protection de la vie priv\u00e9e et des cookies",
+      "Eco-participation et reprise",
+      "Rapport de transparence DSA"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 20,
+    "has_og_tags": true,
+    "meta_description": "Des milliers de produits les moins chers du march\u00e9 | Paiement 4X | E-commerce fran\u00e7ais | Livraison sur mesure | Large offre de produits plus responsables",
+    "scripts_count": 95
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "hamburger",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "E-commerce engag\u00e9",
+      "Livraison sur mesure",
+      "Paiement en 4x"
+    ],
+    "confidence": "high"
+  }
+}

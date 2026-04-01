@@ -1,0 +1,308 @@
+{
+  "name": "currys",
+  "url": "https://www.currys.co.uk",
+  "scanned_at": "2026-03-31T21:50:29.439572",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/currys_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/currys_mobile.png"
+  },
+  "structure": {
+    "title": "Currys | Washing Machines, Laptops, TVs, Consoles",
+    "url_final": "https://www.currys.co.uk/",
+    "nav_items": [
+      {
+        "text": "Flexpay",
+        "href": "#"
+      },
+      {
+        "text": "Stores",
+        "href": "/store-finder"
+      },
+      {
+        "text": "signin iconAccount",
+        "href": ""
+      },
+      {
+        "text": "Saveditems0.0",
+        "href": "https://www.currys.co.uk/wishlist-show"
+      },
+      {
+        "text": "Your basket is emptyBasket0Basket",
+        "href": "https://www.currys.co.uk/cart"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "left-iconBack tomain menu",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Sign up",
+      "Allow all",
+      "Allow required cookies only",
+      "Manage cookies",
+      "Allow All",
+      "Cookies Details",
+      "Cookies Details",
+      "Cookies Details"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search our products, brands & services"
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search our products, brands & services"
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "hpEmailSignUp",
+            "placeholder": "Enter email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 207,
+    "images_count": 122,
+    "images_with_alt": 112,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Shop deals"
+      },
+      {
+        "level": 2,
+        "text": "Discover our amazing offers"
+      },
+      {
+        "level": 2,
+        "text": "Big brand deals"
+      },
+      {
+        "level": 2,
+        "text": "Sponsored products"
+      },
+      {
+        "level": 2,
+        "text": "Personalise your shopping experience"
+      },
+      {
+        "level": 3,
+        "text": "Your Currys flexpay account"
+      },
+      {
+        "level": 3,
+        "text": "Your Currys flexpay account"
+      },
+      {
+        "level": 3,
+        "text": "*Representative example"
+      },
+      {
+        "level": 3,
+        "text": "Manage Consent Preferences"
+      },
+      {
+        "level": 3,
+        "text": "Cookie List"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search our products, brands & services"
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search our products, brands & services"
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "placeholder": "Enter email address"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0008",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0007",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0009",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact us",
+      "Stores",
+      "TechTalk",
+      "Price Promise",
+      "Product reviews",
+      "Track my order",
+      "Delivery options",
+      "Order & collect",
+      "Returns & cancellations",
+      "ShopLive",
+      "Care & Repair",
+      "Instant Replacement",
+      "Mobile Insurance",
+      "Tablet Insurance",
+      "Currys Business",
+      "Currys Ireland",
+      "Partmaster",
+      "Carphone Warehouse",
+      "Leave us a review on Trustpilot \u2605",
+      "Corporate site"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 49,
+    "has_og_tags": false,
+    "meta_description": "Huge Savings on TVs, Washing Machines, Laptops, Headphones, Gaming, Phones & more. Order online or collect in store.",
+    "scripts_count": 107
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Flexpay payment option",
+      "ShopLive feature for live assistance"
+    ],
+    "confidence": "high"
+  }
+}

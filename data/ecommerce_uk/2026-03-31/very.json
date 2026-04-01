@@ -1,0 +1,403 @@
+{
+  "name": "very",
+  "url": "https://www.very.co.uk",
+  "scanned_at": "2026-03-31T21:53:34.455223",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/very_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/very_mobile.png"
+  },
+  "structure": {
+    "title": "Very | Womens, Mens and Kids Fashion, Furniture, Electricals & More!",
+    "url_final": "https://www.very.co.uk/",
+    "nav_items": [],
+    "buttons": [],
+    "forms": [
+      {
+        "action": "/content/index.jsp;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!551945743?cm_re=H",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_dyncharset",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "header-searchInput",
+            "placeholder": "Search Very"
+          },
+          {
+            "type": "hidden",
+            "name": "_D:header-searchInput",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/endeca/form/SearchFormHandler.keywordSearch",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/endeca/form/SearchFormHandler.keywordSearch",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/endeca/form/SearchFormHandler.minSearchLength",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/endeca/form/SearchFormHandler.minSearchLength",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/endeca/form/SearchFormHandler.searchDelayPeriod",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/content/template/slots/;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!551945743?_",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_dyncharset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_dynSessConf",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.addProductSuccessUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.addProductSuccessUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.addProductErrorUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.addProductErrorUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "addProductButton",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:addProductButton",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/content/slots/include/speedtrap/;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!55",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_dyncharset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "/atg/userprofiling/Profile.id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/atg/userprofiling/Profile.id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_DARGS",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/content/slots/moneyzone/;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!551945743?",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_dyncharset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_dynSessConf",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "/sdg/userprofiling/MoneyZoneFormHandler.moneyZoneRedirect",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_D:/sdg/userprofiling/MoneyZoneFormHandler.moneyZoneRedirect",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_DARGS",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 874,
+    "images_count": 15,
+    "images_with_alt": 14,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Popular searches"
+      },
+      {
+        "level": 2,
+        "text": "HOME INSURANCE WITH A HOT OFFER!"
+      },
+      {
+        "level": 2,
+        "text": "Pay in 3 with Take 3"
+      },
+      {
+        "level": 2,
+        "text": "Very Pay gives you a choice of ways to pay"
+      },
+      {
+        "level": 2,
+        "text": "Monthly"
+      },
+      {
+        "level": 3,
+        "text": "We Love..."
+      },
+      {
+        "level": 3,
+        "text": "Womens Clothing"
+      },
+      {
+        "level": 3,
+        "text": "Womens Shoes"
+      },
+      {
+        "level": 3,
+        "text": "Womens Accessories"
+      },
+      {
+        "level": 3,
+        "text": "Designers"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_dyncharset",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "header-searchInput",
+        "placeholder": "Search Very"
+      },
+      {
+        "type": "hidden",
+        "name": "_D:header-searchInput",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/sdg/endeca/form/SearchFormHandler.keywordSearch",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:/sdg/endeca/form/SearchFormHandler.keywordSearch",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/sdg/endeca/form/SearchFormHandler.minSearchLength",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:/sdg/endeca/form/SearchFormHandler.minSearchLength",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/sdg/endeca/form/SearchFormHandler.searchDelayPeriod",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:/sdg/endeca/form/SearchFormHandler.searchDelayPeriod",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_DARGS",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_dyncharset",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_dynSessConf",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.addProductSuccessUrl",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Discover fashion, home, tech & more online with a choice of ways to pay and next day delivery with click & collect. Download our app for exclusive offers",
+    "scripts_count": 78
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Very Pay options",
+      "Pay in 3 with Take 3"
+    ],
+    "confidence": "high"
+  }
+}

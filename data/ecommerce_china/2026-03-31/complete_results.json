@@ -1,0 +1,5322 @@
+[
+  {
+    "name": "taobao",
+    "url": "https://world.taobao.com",
+    "scanned_at": "2026-03-31T23:52:18.201984",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/taobao_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/taobao_mobile.png"
+    },
+    "structure": {
+      "title": "taobao | \u6dd8\u5bf6",
+      "url_final": "https://world.taobao.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u641c\u7d22",
+        "Previous",
+        "Next",
+        "1",
+        "\u6ce8\u518c",
+        "\u5f00\u5e97",
+        "\u7acb\u5373\u767b\u5f55",
+        "\u56de\u9876\u90e8"
+      ],
+      "forms": [
+        {
+          "action": "//s.taobao.com/search",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "commend",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssid",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "search_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "sourceId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ie",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "initiative_id",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1442,
+      "images_count": 25,
+      "images_with_alt": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u6dd8\u5b9d\u6d77\u5916"
+        },
+        {
+          "level": 2,
+          "text": "\u6dd8\u5b9d\u6d77\u5916"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "commend",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ssid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "search_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "sourceId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ie",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "initiative_id",
+          "placeholder": ""
+        },
+        {
+          "type": "file",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 13,
+      "has_og_tags": false,
+      "meta_description": "\u6dd8\u5bf6\uff08Taobao\uff09\u8b93\u60a8\u96a8\u5fc3\u6dd8\u8d85\u503c\u5546\u54c1\uff0c\u7232\u60a8\u63d0\u4f9b\u6d41\u884c\u670d\u98fe\u3001\u7f8e\u599d\u6d17\u8b77\u30013C\u6578\u78bc\u3001\u5927\u5c0f\u5bb6\u96fb\u3001\u5bb6\u4fec\u5bb6\u5c45\u3001\u7bb1\u5305\u76ae\u5177\u3001\u904b\u52d5\u6236\u5916\u3001\u4e94\u91d1\u5de5\u5177\u3001\u73a9\u5177\u7b49\u5343\u842c\u4ef6\u71b1\u92b7\u597d\u8ca8\uff0c\u6dd8\u5bf6\u652f\u6301\u6587\u5b57\u6216\u5716\u7247\u641c\u7d22\u5546\u54c1\u3002\u5929\u8c93\u6dd8\u5bf6\u6d77\u5916\u4f5c\u7232Taobao\u9762\u5411\u83ef\u4eba\u7684\u8de8\u5883\u96fb\u5546\u5e73\u53f0\uff0c\u8986\u84cb200\u591a\u500b\u570b\u5bb6\u548c\u5730\u5340\u7684\u6d88\u8cbb\u8005\uff0c\u5176\u4e2d\u6838\u5fc3\u7ad9\u9ede\u5305\u62ec\uff1a\u6dd8\u5bf6\u9999\u6e2f\uff08taobao hk\uff09\u3001\u6dd8\u5bf6\u53f0\u7063\uff08taobao tw\uff09\u3001\u6dd8\u5bf6\u6fb3\u9580\u3001\u6dd8\u5b9d\u65b0\u52a0\u5761\u3001\u6dd8\u5b9d\u9a6c\u6765\u897f\u4e9a\u3001\u6dd8\u5b9d\u97e9\u56fd\uff08\ud0c0\uc624\ubc14\uc624",
+      "scripts_count": 46
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive product variety",
+        "Strong integration with Alipay for payments",
+        "Localized shopping experience for international users"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "tmall",
+    "url": "https://www.tmall.com",
+    "scanned_at": "2026-03-31T23:52:40.707652",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/tmall_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/tmall_mobile.png"
+    },
+    "structure": {
+      "title": "\u5929\u732bTmall.com - \u4e70\u6b63\u54c1\u4e0a\u5929\u732b\u5c31\u8d2d\u4e86",
+      "url_final": "https://www.tmall.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u641c\u7d22"
+      ],
+      "forms": [
+        {
+          "action": "//s.taobao.com/search",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "commend",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssid",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "search_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "sourceId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ie",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "initiative_id",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1810,
+      "images_count": 100,
+      "images_with_alt": 92,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u5929\u732b"
+        },
+        {
+          "level": 2,
+          "text": "\u5929\u732b"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "commend",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ssid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "search_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "sourceId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ie",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "initiative_id",
+          "placeholder": ""
+        },
+        {
+          "type": "file",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 12,
+      "has_og_tags": false,
+      "meta_description": "\u5929\u732b\u5546\u57ce\u662f\u4e00\u4e2a\u8d2d\u7269\u5e73\u53f0\uff0c\u66f4\u662f\u4e00\u79cd\u751f\u6d3b\u65b9\u5f0f\u3002\u5929\u732b\u51ed\u501f\u4e30\u5bcc\u7684\u5bb6\u7535\u3001\u624b\u673a\u3001\u7535\u8111\u3001\u670d\u88c5\u3001\u5c45\u5bb6\u3001\u6bcd\u5a74\u3001\u7f8e\u5986\u3001\u4e2a\u62a4\u3001\u98df\u54c1\u7b49\u4f17\u591a\u5546\u54c1\u79cd\u7c7b\u53ca\u5305\u542b\u4f17\u591a\u54c1\u724c\u5b98\u65b9\u65d7\u8230\u5e97\u3001\u4f18\u8d28\u7684\u670d\u52a1\u548c\u4fbf\u6377\u7684\u8d2d\u7269\u4f53\u9a8c\uff0c\u6210\u4e3a\u4e86\u6d88\u8d39\u8005\u5fc3\u4e2d\u4fe1\u8d56\u7684\u7efc\u5408\u6027\u8d2d\u7269\u5546\u57ce\u3002",
+      "scripts_count": 51
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive brand partnerships",
+        "integrated with Alibaba ecosystem",
+        "live streaming for product showcases"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "jd.com",
+    "url": "https://www.jd.com",
+    "scanned_at": "2026-03-31T23:52:59.843656",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/jd.com_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/jd.com_mobile.png"
+    },
+    "structure": {
+      "title": "\u4eac\u4e1c\u5168\u7403\u7248-\u4e13\u4e1a\u7684\u7efc\u5408\u7f51\u4e0a\u8d2d\u7269\u5546\u57ce",
+      "url_final": "https://global.jd.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u641c\u7d22"
+      ],
+      "forms": [],
+      "links_count": 143,
+      "images_count": 12,
+      "images_with_alt": 6,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "searchValHidden",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "trandingValHidden",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 11,
+      "has_og_tags": false,
+      "meta_description": "\u4eac\u4e1c\u5168\u7403\u7248-\u4e13\u4e1a\u7684\u7efc\u5408\u7f51\u4e0a\u8d2d\u7269\u5546\u57ce\uff0c\u4e3a\u60a8\u63d0\u4f9b\u6b63\u54c1\u4f4e\u4ef7\u7684\u8d2d\u7269\u9009\u62e9\u3001\u4f18\u8d28\u4fbf\u6377\u7684\u670d\u52a1\u4f53\u9a8c\u3002\u5546\u54c1\u6765\u81ea\u5168\u7403\u6570\u5341\u4e07\u54c1\u724c\u5546\u5bb6\uff0c\u56ca\u62ec\u5bb6\u7535\u3001\u624b\u673a\u3001\u8ba1\u7b97\u673a\u3001\u670d\u88c5\u3001\u5c45\u5bb6\u3001\u6bcd\u5a74\u3001\u7f8e\u5986\u3001\u4e2a\u62a4\u3001\u98df\u54c1\u7b49\u4e30\u5bcc\u54c1\u7c7b\uff0c\u6ee1\u8db3\u5404\u79cd\u8d2d\u7269\u9700\u6c42\u3002\u9999\u6e2f\u7684\u7528\u6237\u652f\u6301\u81ea\u63d0\u3001\u4eac\u4e1c\u96c6\u8fd0\u548c\u56fd\u9645\u5361\u652f\u4ed8\uff0c\u73b0\u65f6\u5df2\u8986\u76d6\u9999\u6e2f\u3001\u6fb3\u95e8\u3001\u53f0\u6e7e\u3001\u65b0\u52a0\u5761\u3001\u9a6c\u6765\u897f\u4e9a\u3001\u7f8e\u56fd\u3001\u52a0\u62ff\u5927\u3001\u6fb3\u5927\u5229\u4e9a\u3001\u65b0\u897f\u5170\u548c\u65e5\u672c\u7b49\u6d77\u5916200\u591a\u4e2a\u56fd\u5bb6\u548c\u5730\u533a\u3002",
+      "scripts_count": 27
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive logistics network",
+        "fast delivery options",
+        "integration with WeChat"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "pinduoduo",
+    "url": "https://www.pinduoduo.com",
+    "scanned_at": "2026-03-31T23:53:20.838340",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/pinduoduo_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/pinduoduo_mobile.png"
+    },
+    "structure": {
+      "title": "\u62fc\u591a\u591a \u65b0\u7535\u5546\u5f00\u521b\u8005",
+      "url_final": "https://www.pinduoduo.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 55,
+      "images_count": 29,
+      "images_with_alt": 21,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "\u62fc\u591a\u591a\u4f5c\u4e3a\u65b0\u7535\u5546\u5f00\u521b\u8005\uff0c\u81f4\u529b\u4e8e\u5c06\u5a31\u4e50\u793e\u4ea4\u7684\u5143\u7d20\u878d\u5165\u7535\u5546\u8fd0\u8425\u4e2d\uff0c\u901a\u8fc7\u201c\u793e\u4ea4+\u7535\u5546\u201d\u7684\u6a21\u5f0f\uff0c\u8ba9\u66f4\u591a\u7684\u7528\u6237\u5e26\u7740\u4e50\u8da3\u5206\u4eab\u5b9e\u60e0\uff0c\u4eab\u53d7\u5168\u65b0\u7684\u5171\u4eab\u5f0f\u8d2d\u7269\u4f53\u9a8c\u3002",
+      "scripts_count": 10
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "group buying discounts",
+        "social sharing for discounts",
+        "interactive shopping experience"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "aliexpress",
+    "url": "https://www.aliexpress.com",
+    "scanned_at": "2026-03-31T23:53:42.333840",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/aliexpress_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/aliexpress_mobile.png"
+    },
+    "structure": {
+      "title": "Captcha Interception",
+      "url_final": "https://www.aliexpress.com///_____tmd_____/punish?x5secdata=xf5CzeVt-h42LZu3JR0W-sOvkCEtK_y6LrkgVaZCw78gattnq3KFWjHKSqaIgbCrEU2s7l5NM2fenAzcnFTGAjlPFNmX5LObP0od0MbjWrL-DPzSwADOnetsVcqSp_nzLmuXRsQb6Q4MIExL2gbYMipLbnRmi0P9_5EyZkbHIOusiAWI5Ke2PjmTM3UF-sTMukSjJo-w0Kwit6tc0jJLxV7ZOJKg7uI9owiA5XgDMM16dGI9KEDE-gM519nJyBN7yAxX3XypMwj1LAvLaOLwJ6lcNcCBkUR9Jd_sJ1jDA7AOApJNibArYKnUaFSJYdNFo8u5EzeNA7wS4FX4Ox4b95WK_lQ4ZsCEjXoCq391sM8fLRDAZv9mm80udQxm1UQykMVEo8W6KMlSGloBHHv0zxGac5mpApL4aXaxicfkQbA6dlN6guGrjM5lCFzQXNUy74xbkBE2HU7cefMp4sZS-DZ6tJ1e-I_DkHGXSTb1J6G7eqDiypWVVrE_EMHHchgmDFHPeTWLNq_pLOPbMFSNjUrqeTdJO7f9Ifp1gCLC49fkZD9ZBKSGKn7QbXQk029XaweJEZy_t8FYhEwJVC9_XD-CR6uRy5o-0p4MHRnZYxxvJSI_mjkOLW-WC011ap4OGB7Au7QNIccE8RaAZWttYdl7OeoEBquAeRdvzJqu_6G2VErYBxRtwOZ2i6HDGYuXsCL67ZITnypE3ohpRz2luA1B2IpXYaj-z2pFWj9o9tkSnDNzDOWMkMqQwUeyZEKze6yTgbuUgKQYLNMX085ZOo0jJFD0CEoJZZnJQWNegmqgMLq0Vti_JNI1V90ALRUMPf__bx__www.aliexpress.com%2f&x5step=1",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [
+        {
+          "action": "/_____tmd_____/verify/",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "nc_token",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "nc_session_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "nc_sig",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "x5sec_domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "x5secdata",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "x5step",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ajax",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "nc_app_key",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 2,
+      "images_count": 3,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "nc_token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "nc_session_id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "nc_sig",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "x5sec_domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "x5secdata",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "x5step",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ajax",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "nc_app_key",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 22
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "global shipping options",
+        "extensive product variety",
+        "buyer protection program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu",
+    "url": "https://www.temu.com",
+    "scanned_at": "2026-03-31T23:54:04.376513",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/temu_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/temu_mobile.png"
+    },
+    "structure": {
+      "title": "Temu | Giri\u015f yap",
+      "url_final": "https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2F&login_scene=2&refer_page_name=home&refer_page_id=10005_1774990445508_fg60zv8oc2&refer_page_sn=10005&_x_sessn_id=7nky3x6552",
+      "nav_items": [],
+      "buttons": [
+        "Devam et"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 30,
+      "images_count": 33,
+      "images_with_alt": 16,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Giri\u015f Yap / \u00dcye Ol"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Temu Hakk\u0131nda",
+        "Ortakl\u0131k ve Etkileyici Program\u0131: Kazanmak \u0130\u00e7in Kat",
+        "Bize Ula\u015f\u0131n",
+        "Bas\u0131n",
+        "Temu'nun A\u011fa\u00e7 Dikme Program\u0131",
+        "\u0130ade ve Para \u0130adesi Politikas\u0131",
+        "Fikri M\u00fclkiyet Politikas\u0131",
+        "Nakliyat bilgileri",
+        "\u00dcr\u00fcn g\u00fcvenli\u011fi uyar\u0131lar\u0131",
+        "\u015e\u00fcpheli faaliyetleri bildirin",
+        "Minimum Sipari\u015f De\u011feri",
+        "Destek merkezi ve SSS",
+        "G\u00fcvenlik merkezi",
+        "Temu sat\u0131n alma korumas\u0131",
+        "Temu ile \u0130\u015f Ortakl\u0131\u011f\u0131",
+        "Temu Uygulamas\u0131n\u0131 indir",
+        "\u015euradan indirinApp Store",
+        "\u015euradan al\u0131nGoogle Play"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 32,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 33
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Temu'nun A\u011fa\u00e7 Dikme Program\u0131",
+        "Ortakl\u0131k ve Etkileyici Program\u0131"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "shein",
+    "url": "https://www.shein.com",
+    "scanned_at": "2026-03-31T23:54:23.403929",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/shein_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/shein_mobile.png"
+    },
+    "structure": {
+      "title": "Bayan K\u0131yafetleri, Moda \u0130ndirimi | SHEIN TR",
+      "url_final": "https://tr.shein.com/?cdn_rsite=ak&ref=www&rep=dir&ret=tr",
+      "nav_items": [
+        {
+          "text": "Yeni Gelenler",
+          "href": "https://tr.shein.com/new/New-In-All-sc-0021884529.html?ici=tr_tab01navbar01&src_module=topcat&src_id"
+        },
+        {
+          "text": "\u0130ndirim",
+          "href": "https://tr.shein.com/sale/All-Sale-sc-0051884505.html?ici=tr_tab02navbar02&src_module=topcat&src_ide"
+        },
+        {
+          "text": "Kad\u0131n Giyim",
+          "href": "https://tr.shein.com/RecommendSelection/Women-Clothing-sc-017172961.html?ici=tr_tab03navbar03&src_mo"
+        },
+        {
+          "text": "Plaj giyimleri",
+          "href": "https://tr.shein.com/RecommendSelection/Beachwear-sc-017706887.html?ici=tr_tab04navbar04&src_module="
+        },
+        {
+          "text": "Ev & Ya\u015fam",
+          "href": "https://tr.shein.com/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=tr_tab05navbar05&src_modu"
+        },
+        {
+          "text": "\u0130\u00e7 \u00c7ama\u015f\u0131r\u0131 ve Gecelik",
+          "href": "https://tr.shein.com/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=tr_tab06navbar06&s"
+        },
+        {
+          "text": "Erkek Giyim",
+          "href": "https://tr.shein.com/RecommendSelection/Men-Clothing-sc-017172963.html?ici=tr_tab07navbar07&src_modu"
+        },
+        {
+          "text": "\u00c7ocuklar",
+          "href": "https://tr.shein.com/RecommendSelection/Kids-sc-017185550.html?ici=tr_tab08navbar08&src_module=topca"
+        },
+        {
+          "text": "B\u00fcy\u00fck Beden",
+          "href": "https://tr.shein.com/RecommendSelection/Curve-sc-017172964.html?ici=tr_tab09navbar09&src_module=topc"
+        },
+        {
+          "text": "M\u00fccevher ve Aksesuarlar",
+          "href": "https://tr.shein.com/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=tr_tab10navbar10&s"
+        },
+        {
+          "text": "G\u00fczellik ve Sa\u011fl\u0131k",
+          "href": "https://tr.shein.com/RecommendSelection/Beauty-Health-sc-017172970.html?ici=tr_tab11navbar11&src_mod"
+        },
+        {
+          "text": "Ayakkab\u0131",
+          "href": "https://tr.shein.com/RecommendSelection/Shoes-sc-017172966.html?ici=tr_tab12navbar12&src_module=topc"
+        },
+        {
+          "text": "Ev Tekstili",
+          "href": "https://tr.shein.com/RecommendSelection/Home-Textile-sc-017172972.html?ici=tr_tab13navbar13&src_modu"
+        },
+        {
+          "text": "Cep Telefonlar\u0131 ve Aksesuarlar\u0131",
+          "href": "https://tr.shein.com/RecommendSelection/Cell-Phones-Accessories-sc-017706910.html?ici=tr_tab14navbar"
+        },
+        {
+          "text": "Elektronik",
+          "href": "https://tr.shein.com/RecommendSelection/Electronics-sc-017706908.html?ici=tr_tab15navbar15&src_modul"
+        },
+        {
+          "text": "Spor ve A\u00e7\u0131k Hava",
+          "href": "https://tr.shein.com/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=tr_tab16navbar16&src_m"
+        },
+        {
+          "text": "Aletler ve Ev Geli\u015ftirme",
+          "href": "https://tr.shein.com/RecommendSelection/Tools-Home-Improvement-sc-017185547.html?ici=tr_tab17navbar1"
+        },
+        {
+          "text": "\u00c7anta ve Valiz",
+          "href": "https://tr.shein.com/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=tr_tab18navbar18&src_modu"
+        },
+        {
+          "text": "Bebek ve Annelik",
+          "href": "https://tr.shein.com/RecommendSelection/Baby-Maternity-sc-017172967.html?ici=tr_tab19navbar19&src_mo"
+        },
+        {
+          "text": "Oyuncaklar ve Oyunlar",
+          "href": "https://tr.shein.com/RecommendSelection/Toys-Games-sc-017172978.html?ici=tr_tab20navbar20&src_module"
+        }
+      ],
+      "buttons": [
+        "elbise",
+        "y2k",
+        "topuklu ayakkab\u0131",
+        "\u00e7anta",
+        "bikini",
+        "\u00e7orap",
+        "dress",
+        "abiye",
+        "g\u00f6mlek",
+        "flexra",
+        "Kategoriler",
+        "HAYIR",
+        "EVET"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "topuklu ayakkab\u0131"
+            }
+          ]
+        }
+      ],
+      "links_count": 68,
+      "images_count": 45,
+      "images_with_alt": 32,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Ke\u015fif Arama"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "topuklu ayakkab\u0131"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 63,
+      "has_og_tags": true,
+      "meta_description": "SHEIN'de \u00d6zel \u0130ndirimler ve en yeni Trendler ---Elbiseler, B\u00fcy\u00fck Beden, \u00dcstve Alt Giyim, Ayakkab\u0131lar ve daha fazlas\u0131",
+      "scripts_count": 79
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "personalized recommendations",
+        "multi-language support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "1688",
+    "url": "https://www.1688.com",
+    "scanned_at": "2026-03-31T23:54:43.976790",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/1688_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/1688_mobile.png"
+    },
+    "structure": {
+      "title": "Captcha Interception",
+      "url_final": "https://www.1688.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [
+        {
+          "action": "/_____tmd_____/verify/",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "nc_token",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "nc_session_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "nc_sig",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "x5sec_domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "x5secdata",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "x5step",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ajax",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "nc_app_key",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 2,
+      "images_count": 3,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "nc_token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "nc_session_id",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "nc_sig",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "x5sec_domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "x5secdata",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "x5step",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ajax",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "nc_app_key",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 24
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "bulk purchasing options",
+        "supplier verification"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "suning",
+    "url": "https://www.suning.com",
+    "scanned_at": "2026-03-31T23:55:04.462716",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/suning_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/suning_mobile.png"
+    },
+    "structure": {
+      "title": "\u82cf\u5b81\u6613\u8d2d(Suning.com)-\u6362\u65b0\u5230\u82cf\u5b81 \u7701\u94b1\u66f4\u7701\u5fc3\uff01",
+      "url_final": "https://www.suning.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u53bb\u7533\u8bf7",
+        "\u53d6\u6d88",
+        "\u786e\u5b9a",
+        "\u53d6\u6d88"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "index1_none_search_ss2",
+              "placeholder": ""
+            },
+            {
+              "type": "submit",
+              "name": "index1_none_search_ss1",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 247,
+      "images_count": 160,
+      "images_with_alt": 67,
+      "headings": [
+        {
+          "level": 3,
+          "text": "\u9886\u53d6\u4f18\u60e0\u5238"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "index1_none_search_ss2",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "index1_none_search_ss1",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "//image5.suning.cn/uimg/cms/img/161185062303520336.png",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "100",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "//image4.suning.cn/uimg/cms/img/159533153596347678.png",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "//image4.suning.cn/uimg/cms/img/159533154337628618.png",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "//image2.suning.cn/uimg/cms/img/159533155118200511.png",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "1",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "2-1",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "2-2",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "2-3",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "2-4",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "3",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "4",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "5",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "6",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 168,
+      "has_og_tags": false,
+      "meta_description": "\u82cf\u5b81\u6613\u8d2d(Suning.com)-\u7ebf\u4e0a\u7ebf\u4e0b\u6df1\u5ea6\u878d\u5408\u7684\u96f6\u552e\u5e73\u53f0,\u5546\u54c1\u6db5\u76d6\u5bb6\u7535\u3001\u624b\u673a\u3001\u7535\u8111\u3001\u8d85\u5e02\u3001\u6bcd\u5a74\u3001\u767e\u8d27\u3001\u6d77\u5916\u8d2d\u7b49\u54c1\u7c7b\u3002\u6362\u65b0\u5230\u82cf\u5b81 \u7701\u94b1\u66f4\u7701\u5fc3\uff01\u4e94\u91cd\u8865\u8d34 \u4e70\u8d35\u5c31\u8d54 \u591a\u91cd\u4fdd\u969c \u4e00\u7ad9\u6362\u65b0\u3002 \u6b63\u54c1\u884c\u8d27\u3001\u5168\u56fd\u8054\u4fdd\u3001\u53ef\u95e8\u5e97\u81ea\u63d0,\u5168\u7f51\u66f4\u4f4e\u4ef7,\u5bb6\u7535\u5bb6\u88c5\u6210\u5957\u8d2d,\u4e13\u6ce8\u670d\u52a1\u7701\u5fc3\u8d2d!",
+      "scripts_count": 38
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "U",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "strong offline-online integration"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "dangdang",
+    "url": "https://www.dangdang.com",
+    "scanned_at": "2026-03-31T23:55:34.874916",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/dangdang_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/dangdang_mobile.png"
+    },
+    "structure": {
+      "title": "\u5f53\u5f53\u7f51",
+      "url_final": "https://www.dangdang.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u6211\u7684\u5f53\u5f53",
+        "\u4f01\u4e1a\u91c7\u8d2d",
+        "\u5ba2\u6237\u670d\u52a1"
+      ],
+      "forms": [
+        {
+          "action": "//search.dangdang.com",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "key",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "SearchFromTop",
+              "placeholder": ""
+            },
+            {
+              "type": "button",
+              "name": "suggestproduct_btn",
+              "placeholder": ""
+            },
+            {
+              "type": "button",
+              "name": "suggestclass_btn",
+              "placeholder": ""
+            },
+            {
+              "type": "submit",
+              "name": "suggestsearchkey_btn",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "catalog",
+              "placeholder": ""
+            },
+            {
+              "type": "button",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 174,
+      "images_count": 33,
+      "images_with_alt": 16,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "key",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "SearchFromTop",
+          "placeholder": ""
+        },
+        {
+          "type": "button",
+          "name": "suggestproduct_btn",
+          "placeholder": ""
+        },
+        {
+          "type": "button",
+          "name": "suggestclass_btn",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "suggestsearchkey_btn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "catalog",
+          "placeholder": ""
+        },
+        {
+          "type": "button",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "\u5168\u7403\u9886\u5148\u7684\u7efc\u5408\u6027\u7f51\u4e0a\u8d2d\u7269\u4e2d\u5fc3\u3002\u8d85\u8fc7100\u4e07\u79cd\u5546\u54c1\u5728\u7ebf\u70ed\u9500\uff01\u56fe\u4e66\u3001\u7ae5\u4e66\u3001\u7ed8\u672c\u3001\u4e2d\u5c0f\u5b66\u6559\u8f85\u3001\u6587\u5b66\u5c0f\u8bf4\u3001\u97f3\u50cf\u3001\u6bcd\u5a74\u3001\u5bb6\u5c45\u3001\u670d\u88c5\u3001\u978b\u5305\u7b49\u51e0\u5341\u5927\u7c7b\uff0c\u6b63\u7248\u4fdd\u8bc1\uff0c\u4f4e\u81f32\u6298\uff08\u81ea\u8425\u56fe\u4e66\u6ee149\u5143\u514d\u8fd0\u8d39\u3002\u5f53\u5f53\u7f51\u4e00\u8d2f\u79c9\u627f\u63d0\u5347\u987e\u5ba2\u4f53\u9a8c\u7684\u627f\u8bfa\uff0c\u81ea\u52a9\u9000\u6362\u8d27\u4fbf\u6377\u53c8\u653e\u5fc3\uff09",
+      "scripts_count": 33
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive book selection",
+        "integrated e-book reader"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "vipshop",
+    "url": "https://www.vip.com",
+    "scanned_at": "2026-03-31T23:56:06.512923",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/vipshop_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/vipshop_mobile.png"
+    },
+    "structure": {
+      "title": "\u552f\u54c1\u4f1a-\uff08\u539fVipshop.com\uff09\u7279\u5356\u4f1a\uff1a\u54c1\u724c\u7279\u5356_\u786e\u4fdd\u6b63\u54c1_\u786e\u4fdd\u4f4e\u4ef7",
+      "url_final": "https://www.vip.com/",
+      "nav_items": [
+        {
+          "text": "\u552f\u54c1\u4f1a\u9996\u9875",
+          "href": "https://www.vip.com/"
+        },
+        {
+          "text": "\ue609",
+          "href": "###"
+        },
+        {
+          "text": "",
+          "href": "//iclub-pc.vip.com/user_info/vmarkinfo_list"
+        },
+        {
+          "text": "{$J_header_account}",
+          "href": "//myi.vip.com/index.html"
+        },
+        {
+          "text": "{$J_header_account}/\u8bf7\u767b\u5f55",
+          "href": "#"
+        },
+        {
+          "text": "\u8bf7\u767b\u5f55",
+          "href": "https://passport.vip.com/login"
+        },
+        {
+          "text": "\u60a8\u597d\uff01[\u8bf7\u767b\u5f55]",
+          "href": "https://passport.vip.com/login"
+        },
+        {
+          "text": "",
+          "href": "//myi.vip.com/index.html"
+        },
+        {
+          "text": "{$J_header_account}",
+          "href": "//myi.vip.com/index.html"
+        },
+        {
+          "text": "[\u9000\u51fa]",
+          "href": "#"
+        },
+        {
+          "text": "\u6211\u7684\u6536\u85cf",
+          "href": "//fav.vip.com/index.php?r=/fav/brand"
+        },
+        {
+          "text": "\u6211\u7684\u8ba2\u5355",
+          "href": "//order.vip.com/order/orderlist"
+        },
+        {
+          "text": "\u96f6\u94b1",
+          "href": "//myvpal.vip.com/pc/wallet"
+        },
+        {
+          "text": "\u6211\u7684\u4f18\u60e0\u5238",
+          "href": "//myi.vip.com/coupons.html"
+        },
+        {
+          "text": "\u6211\u7684\u552f\u54c1\u5e01",
+          "href": "//myi.vip.com/vipmoney.html"
+        },
+        {
+          "text": "\u552f\u54c1\u91d1\u878d",
+          "href": "//jr.vip.com/center?ep=jinrong"
+        },
+        {
+          "text": "\u6ce8\u518c",
+          "href": "https://passport.vip.com/register"
+        },
+        {
+          "text": "\u6211\u7684\u8ba2\u5355",
+          "href": "//order.vip.com/order/orderlist"
+        },
+        {
+          "text": "\u6211\u7684\u7279\u5356",
+          "href": "//fav.vip.com/brand"
+        },
+        {
+          "text": "\u5546\u54c1\u6536\u85cf",
+          "href": "//fav.vip.com/goods"
+        }
+      ],
+      "buttons": [],
+      "forms": [],
+      "links_count": 86,
+      "images_count": 17,
+      "images_with_alt": 13,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "\u8fd0\u52a8\u5916\u5957"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "\u552f\u54c1\u4f1avip\u8d2d\u7269\u7f51\u4ee51-7\u6298\u8d85\u4f4e\u6298\u6263\u5bf9\u5168\u7403\u5404\u5927\u54c1\u724c\u8fdb\u884c\u9650\u65f6\u7279\u5356\uff0c\u5546\u54c1\u56ca\u62ec\u670d\u88c5\u3001\u5316\u5986\u54c1\u3001\u5bb6\u5c45\u3001\u5962\u4f88\u54c1\u7b49\u4e0a\u5343\u54c1\u724c\u3002100%\u6b63\u54c1\u3001\u4f4e\u4ef7\u30017\u5929\u65e0\u7406\u7531\u9000\u8d27\u3002",
+      "scripts_count": 56
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "flash sales",
+        "brand-specific discounts",
+        "VIP membership benefits"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "xiaomi_mall",
+    "url": "https://www.mi.com",
+    "scanned_at": "2026-03-31T23:56:35.911198",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/xiaomi_mall_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/xiaomi_mall_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.mi.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "integrated smart home device management",
+        "Mi Community integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "huawei_mall",
+    "url": "https://www.vmall.com",
+    "scanned_at": "2026-03-31T23:56:54.584659",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/huawei_mall_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/huawei_mall_mobile.png"
+    },
+    "structure": {
+      "title": "\u9996\u9875",
+      "url_final": "https://www.vmall.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u66f4\u591a",
+        "\u7acb\u5373\u8d2d\u4e70",
+        "\u66f4\u591a",
+        "\u7acb\u5373\u8d2d\u4e70",
+        "\u66f4\u591a",
+        "\u7acb\u5373\u8d2d\u4e70",
+        "\u66f4\u591a",
+        "\u66f4\u591a",
+        "\u66f4\u591a",
+        "\u66f4\u591a",
+        "\u66f4\u591a"
+      ],
+      "forms": [],
+      "links_count": 142,
+      "images_count": 97,
+      "images_with_alt": 1,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 140,
+      "has_og_tags": false,
+      "meta_description": "\u534e\u4e3a\u5546\u57ce\u662f\u534e\u4e3a\u516c\u53f8\u65d7\u4e0b\u5b98\u65b9\u7535\u5546\u5e73\u53f0\uff0c\u63d0\u4f9b\u534e\u4e3a\u624b\u673a\u3001PC\u3001\u5e73\u677f\u3001\u7a7f\u6234\u3001\u97f3\u9891\u3001\u667a\u6167\u5c4f\u3001IoT\u7b49\u667a\u80fd\u7ec8\u7aef\u4ea7\u54c1\uff0c\u6301\u7eed\u6253\u9020\u4fbf\u6377\u3001\u6696\u5fc3\u7684\u8d2d\u7269\u4f53\u9a8c\uff0c\u529b\u4e89\u5c06\u5168\u573a\u666f\u667a\u6167\u751f\u6d3b\u5e26\u7ed9\u6bcf\u4e00\u4f4d\u6d88\u8d39\u8005\u3002",
+      "scripts_count": 32
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "integration with Huawei ecosystem",
+        "exclusive Huawei product launches"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "gome",
+    "url": "https://www.gome.com.cn",
+    "scanned_at": "2026-03-31T23:57:20.960864",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/gome_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/gome_mobile.png"
+    },
+    "structure": {
+      "title": "\u56fd\u7f8e",
+      "url_final": "https://www.gome.com.cn/#/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 59,
+      "images_count": 19,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 3,
+          "text": "\u6362\u65b0\u7a7a\u8c03 \u6362\u65b0\u751f\u6d3b"
+        },
+        {
+          "level": 3,
+          "text": "\u51b0\u6d17\u72c2\u6b22\u8db4"
+        },
+        {
+          "level": 3,
+          "text": "\u7535\u89c6\u67dc\u72c2\u6b22"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "\u56fd\u7f8e(Gome.com.cn)\u56fd\u7f8e\u7535\u5668\u552f\u4e00\u5b98\u65b9\u7f51\u4e0a\u5546\u57ce\uff0c\u4e2d\u56fd\u9886\u5148\u7684\u4e13\u4e1a\u5bb6\u7535\u7f51\u8d2d\u5e73\u53f0.\u5168\u7403\u54c1\u724c\u7535\u89c6\u3001\u6d17\u8863\u673a\u3001\u7535\u8111\u3001\u624b\u673a\u3001\u6570\u7801\u3001\u7a7a\u8c03\u3001\u7535\u8111\u914d\u4ef6\u3001\u751f\u6d3b\u7535\u5668\u3001\u7f51\u7edc\u4ea7\u54c1\u7b49\u6b63\u54c1\u884c\u8d27\uff0c\u66f4\u4f4e\u4ef7\u683c\uff0c\u66f4\u5feb\u9001\u8fbe\uff0c\u4e3a\u60a8\u63d0\u4f9b\u4fbf\u6377\u3001\u8bda\u4fe1\u7684\u670d\u52a1.",
+      "scripts_count": 11
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive electronics and home appliance offerings",
+        "Localized promotions and discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "meituan",
+    "url": "https://www.meituan.com",
+    "scanned_at": "2026-03-31T23:57:57.826647",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/meituan_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/meituan_mobile.png"
+    },
+    "structure": {
+      "title": "\u7f8e\u56e2 - \u5e2e\u5927\u5bb6\u5403\u5f97\u66f4\u597d\uff0c\u751f\u6d3b\u66f4\u597d",
+      "url_final": "https://www.meituan.com/",
+      "nav_items": [
+        {
+          "text": "\u9996\u9875",
+          "href": "/"
+        },
+        {
+          "text": "\u548c\u7f8e\u56e2\u5408\u4f5c",
+          "href": "/win-together"
+        },
+        {
+          "text": "\u6211\u4eec\u7684\u79d1\u6280",
+          "href": "/technology"
+        },
+        {
+          "text": "\u4f01\u4e1a\u793e\u4f1a\u8d23\u4efb",
+          "href": "/csr"
+        },
+        {
+          "text": "\u4fbf\u5229\u7528\u6237\u751f\u6d3b",
+          "href": "/csr/people/user-rights"
+        },
+        {
+          "text": "\u9a91\u624b\u5173\u6000\u4e0e\u53d1\u5c55",
+          "href": "/csr/people/couriers-development"
+        },
+        {
+          "text": "\u6d8c\u73b0\u65b0\u804c\u4e1a",
+          "href": "/csr/people/new-professions"
+        },
+        {
+          "text": "\u52a9\u529b\u5e02\u573a\u7e41\u8363",
+          "href": "/csr/industry/market"
+        },
+        {
+          "text": "\u652f\u6301\u5c0f\u5546\u6237\u53d1\u5c55",
+          "href": "/csr/industry/small-businesses"
+        },
+        {
+          "text": "\u52a9\u529b\u5546\u5bb6\u7ecf\u8425\u6210\u957f",
+          "href": "https://daxue.meituan.com/web?mtdxSource=llq_m1wdfa"
+        },
+        {
+          "text": "\u4e2d\u534e\u8001\u5b57\u53f7\u652f\u6301\u8ba1\u5212",
+          "href": "/csr/industry/time-honored"
+        },
+        {
+          "text": "\u63a8\u52a8\u7eff\u8272\u6d88\u8d39",
+          "href": "/csr/society/environment"
+        },
+        {
+          "text": "\u652f\u6301\u4e61\u6751\u632f\u5174",
+          "href": "/csr/society/rural"
+        },
+        {
+          "text": "\u53c2\u4e0e\u5e94\u6025\u6551\u707e",
+          "href": "/csr/society/disaster-relief"
+        },
+        {
+          "text": "\u4e0b\u8f7d\u4e2d\u5fc3",
+          "href": "/csr/report"
+        },
+        {
+          "text": "\u7f8e\u56e2\u516c\u76ca",
+          "href": "/public-welfare"
+        },
+        {
+          "text": "\u7f8e\u56e2\u4e61\u6751\u513f\u7ae5\u64cd\u573a",
+          "href": "/public-welfare/playground"
+        },
+        {
+          "text": "\u7f8e\u56e2\u516c\u76ca\u57fa\u91d1\u4f1a",
+          "href": "https://www.meituan.org.cn"
+        },
+        {
+          "text": "\u9752\u5c71\u79d1\u6280\u57fa\u91d1",
+          "href": "https://greentech.meituan.com"
+        },
+        {
+          "text": "\u4fe1\u606f\u516c\u5f00",
+          "href": "/newsroom/algorithm-transparency"
+        }
+      ],
+      "buttons": [],
+      "forms": [],
+      "links_count": 93,
+      "images_count": 17,
+      "images_with_alt": 17,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u7f8e\u56e2\u662f\u4e00\u5bb6\u79d1\u6280\u96f6\u552e\u516c\u53f8"
+        },
+        {
+          "level": 2,
+          "text": "\u4f01\u4e1a\u793e\u4f1a\u8d23\u4efb"
+        },
+        {
+          "level": 2,
+          "text": "\u7f8e\u56e2\u516c\u76ca"
+        },
+        {
+          "level": 2,
+          "text": "\u4fe1\u606f\u516c\u5f00"
+        },
+        {
+          "level": 2,
+          "text": "\u6700\u65b0\u52a8\u6001"
+        },
+        {
+          "level": 2,
+          "text": "\u4e0b\u8f7d\u548c\u5173\u6ce8"
+        },
+        {
+          "level": 3,
+          "text": "\u4e0b\u8f7d\u548c\u5173\u6ce8"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "\u65b0\u95fb\u4e2d\u5fc3",
+        "\u5a92\u4f53\u8d44\u6e90",
+        "\u4f9b\u5e94\u5546",
+        "\u793e\u4f1a\u62db\u8058",
+        "\u6821\u56ed\u62db\u8058",
+        "\u5de5\u4f5c\u517c\u804c",
+        "\u670d\u52a1\u70ed\u7ebf",
+        "\u5ec9\u6b63\u4e3e\u62a5",
+        "\u77e5\u8bc6\u4ea7\u6743",
+        "\u4eacICP\u590710211739\u53f7",
+        "\u4eac\u516c\u7f51\u5b89\u5907 11000002002052\u53f7",
+        "\u9690\u79c1\u653f\u7b56",
+        "\u89c4\u5219\u4e2d\u5fc3"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 3,
+      "has_og_tags": true,
+      "meta_description": "\u7f8e\u56e2\u662f\u4e00\u5bb6\u79d1\u6280\u96f6\u552e\u516c\u53f8\u3002\u7f8e\u56e2\u4ee5\u201c\u96f6\u552e + \u79d1\u6280\u201d\u7684\u6218\u7565\u8df5\u884c\u201c\u5e2e\u5927\u5bb6\u5403\u5f97\u66f4\u597d\uff0c\u751f\u6d3b\u66f4\u597d\u201d\u7684\u516c\u53f8\u4f7f\u547d\u3002\u81ea2010\u5e743\u6708\u6210\u7acb\u4ee5\u6765\uff0c\u7f8e\u56e2\u6301\u7eed\u63a8\u52a8\u670d\u52a1\u96f6\u552e\u548c\u5546\u54c1\u96f6\u552e\u5728\u9700\u6c42\u4fa7\u548c\u4f9b\u7ed9\u4fa7\u7684\u6570\u5b57\u5316\u5347\u7ea7\uff0c\u548c\u5e7f\u5927\u5408\u4f5c\u4f19\u4f34\u4e00\u8d77\u52aa\u529b\u4e3a\u6d88\u8d39\u8005\u63d0\u4f9b\u54c1\u8d28\u670d\u52a1\u30022018\u5e749\u670820\u65e5\uff0c\u7f8e\u56e2\u5728\u6e2f\u4ea4\u6240\u6302\u724c\u4e0a\u5e02\u3002\u7f8e\u56e2\u59cb\u7ec8\u4ee5\u5ba2\u6237\u4e3a\u4e2d\u5fc3\uff0c\u4e0d\u65ad\u52a0\u5927\u5728\u65b0\u6280\u672f\u4e0a\u7684\u7814\u53d1\u6295\u5165\u3002\u7f8e\u56e2\u4f1a\u548c\u5927\u5bb6\u4e00\u8d77\u52aa\u529b\uff0c\u66f4\u597d\u627f\u62c5\u793e\u4f1a\u8d23\u4efb\uff0c\u66f4\u591a\u521b\u9020\u793e\u4f1a\u4ef7\u503c\u3002",
+      "scripts_count": 20
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Comprehensive CSR initiatives",
+        "Integration with local services",
+        "Focus on technology and innovation"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "dewu",
+    "url": "https://www.dewu.com",
+    "scanned_at": "2026-03-31T23:58:18.888523",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/dewu_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/dewu_mobile.png"
+    },
+    "structure": {
+      "title": "\u5f97\u7269App-\u65b0\u4e00\u4ee3\u6f6e\u6d41\u7f51\u8d2d\u793e\u533a",
+      "url_final": "https://www.dewu.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "\u9996\u9875",
+          "href": "/"
+        },
+        {
+          "text": "\u793e\u533a\u7cbe\u9009",
+          "href": "/community"
+        },
+        {
+          "text": "\u4f01\u4e1a\u5546\u5bb6\u5165\u9a7b",
+          "href": "https://stark.dewu.com/"
+        },
+        {
+          "text": "\u4e2a\u4eba\u5356\u5bb6\u5165\u9a7b",
+          "href": "/personal-enter.html"
+        },
+        {
+          "text": "\u56fd\u9645\u5356\u5bb6\u5165\u9a7b",
+          "href": "https://www.poizon.com/seller"
+        },
+        {
+          "text": "\u53d1\u5e03\u89c6\u9891",
+          "href": "https://creator.dewu.com/"
+        },
+        {
+          "text": "\u5de5\u4f1a\u7ba1\u7406",
+          "href": "https://livemcn.dewu.com/"
+        },
+        {
+          "text": "\u76f4\u64ad\u4e2d\u63a7\u53f0",
+          "href": "https://liveplatform.dewu.com/live/room"
+        },
+        {
+          "text": "MCN\u7ba1\u7406",
+          "href": "https://mcn.dewu.com/"
+        },
+        {
+          "text": "\u5173\u4e8e\u5f97\u7269",
+          "href": "/about.html"
+        },
+        {
+          "text": "\u52a0\u5165\u5f97\u7269",
+          "href": "https://poizon.jobs.feishu.cn/index"
+        },
+        {
+          "text": "\u5e38\u89c1\u95ee\u9898",
+          "href": "/faq.html"
+        },
+        {
+          "text": "\u4e0b\u8f7d\u5f97\u7269App",
+          "href": ""
+        }
+      ],
+      "buttons": [],
+      "forms": [],
+      "links_count": 31,
+      "images_count": 61,
+      "images_with_alt": 8,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [
+        "\u5f97\u7269\u5546\u5bb6\u540e\u53f0",
+        "\u5f97\u7269\u5f00\u653e\u5e73\u53f0",
+        "\u52a0\u5165\u6211\u4eec",
+        "\u5e38\u89c1\u95ee\u9898",
+        "\u9690\u79c1\u653f\u7b56",
+        "\u7528\u6237\u534f\u8bae",
+        "\u77e5\u8bc6\u4ea7\u6743",
+        "\u81ea\u5f8b\u58f0\u660e",
+        "\u5ec9\u653f\u4e3e\u62a5",
+        "\u6caaICP\u590716019780\u53f7-9\u53f7",
+        "\u6caa\u516c\u7f51\u5b89\u590731010902003239\u53f7",
+        "banwu@dewu.com"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 3,
+      "has_og_tags": false,
+      "meta_description": "\u5f97\u7269App\u662f\u5168\u7403\u9886\u5148\u7684\u96c6\u6b63\u54c1\u6f6e\u6d41\u88c5\u5907\u3001\u6f6e\u6d41\u5546\u54c1\u9274\u522b\u3001\u6f6e\u6d41\u751f\u6d3b\u793e\u533a\u4e8e\u4e00\u4f53\u7684\u65b0\u4e00\u4ee3\u6f6e\u6d41\u7f51\u8d2d\u793e\u533a\u3002\u201c\u591a\u9053\u9274\u522b\u67e5\u9a8c\u5de5\u5e8f\u201d\u7684\u5e73\u53f0\u54c1\u63a7\uff0c\u4e3a\u65b0\u4e16\u4ee3\u6d88\u8d39\u8005\u5e26\u6765\u66f4\u5b89\u5fc3\u7684\u7f51\u8d2d\u4f53\u9a8c\u3002\u5f97\u7269App\u81f4\u529b\u4e8e\u6253\u9020\u5e74\u8f7b\u4eba\u7684\u6f6e\u6d41\u751f\u6d3b\u793e\u533a\uff0c\u6210\u4e3a\u4e2d\u56fd\u6f6e\u6d41\u6587\u5316\u98ce\u5411\u6807\u548c\u5e74\u8f7b\u4eba\u7684\u53d1\u58f0\u9635\u5730\u3002",
+      "scripts_count": 26
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "community-driven shopping experience",
+        "integration with live streaming for product showcases",
+        "strong focus on streetwear and sneaker culture"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "xiaohongshu",
+    "url": "https://www.xiaohongshu.com",
+    "scanned_at": "2026-03-31T23:58:55.893502",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/xiaohongshu_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/xiaohongshu_mobile.png"
+    },
+    "structure": {
+      "title": "\u5c0f\u7ea2\u4e66 - \u4f60\u7684\u751f\u6d3b\u5174\u8da3\u793e\u533a",
+      "url_final": "https://www.xiaohongshu.com/explore",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/explore"
+        }
+      ],
+      "buttons": [
+        "\u767b\u5f55",
+        "\u521b\u4f5c\u4e2d\u5fc3",
+        "\u4e1a\u52a1\u5408\u4f5c",
+        "\u767b\u5f55",
+        "\u767b\u5f55",
+        "\u6211\u8981\u7533\u8bc9",
+        "\u6211\u77e5\u9053\u4e86",
+        "\u6211\u77e5\u9053\u4e86"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "xhs-pc-web-phone",
+              "placeholder": "\u8f93\u5165\u624b\u673a\u53f7"
+            },
+            {
+              "type": "number",
+              "name": "",
+              "placeholder": "\u8f93\u5165\u9a8c\u8bc1\u7801"
+            }
+          ]
+        }
+      ],
+      "links_count": 119,
+      "images_count": 39,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "xhs-pc-web-phone",
+          "placeholder": "\u8f93\u5165\u624b\u673a\u53f7"
+        },
+        {
+          "type": "number",
+          "name": "",
+          "placeholder": "\u8f93\u5165\u9a8c\u8bc1\u7801"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "\u767b\u5f55\u63a2\u7d22\u66f4\u591a\u5185\u5bb9"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "3 \u4ebf\u4eba\u7684\u751f\u6d3b\u7ecf\u9a8c\uff0c\u90fd\u5728\u5c0f\u7ea2\u4e66",
+      "scripts_count": 24
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Community-driven content",
+        "Influencer collaborations",
+        "Social commerce integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "jd_worldwide",
+    "url": "https://www.joybuy.com",
+    "scanned_at": "2026-03-31T23:59:20.024804",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/jd_worldwide_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/jd_worldwide_mobile.png"
+    },
+    "structure": {
+      "title": "403 Forbidden | Joybuy",
+      "url_final": "https://www.joybuy.co.uk/country-selection",
+      "nav_items": [],
+      "buttons": [
+        "Customize",
+        "Accept all",
+        "Convenient next day and same day delivery",
+        "Trusted brands, hand picked for quality",
+        "24/7 customer service, we're here to help",
+        "Subscribe",
+        "Notifications",
+        "Chats",
+        "Feedback"
+      ],
+      "forms": [],
+      "links_count": 18,
+      "images_count": 8,
+      "images_with_alt": 6,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Contact us",
+        "About us",
+        "Joybuy news",
+        "Cookies Policy",
+        "Privacy policy",
+        "Terms and Conditions",
+        "Your account",
+        "Your order",
+        "Payment, invoice & refund",
+        "Shipping & delivery",
+        "Returns & refunds",
+        "> Go to customer service",
+        "Privacy Policy",
+        "Terms of Service"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 3,
+      "has_og_tags": false,
+      "meta_description": "European online retail platform backed by Fortune 500 JD.com. Choose your local site in the UK, Germany, the Netherlands, France & more for joyful shopping",
+      "scripts_count": 110
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Convenient next day and same day delivery",
+        "Trusted brands, hand picked for quality",
+        "24/7 customer service"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "dhgate",
+    "url": "https://www.dhgate.com",
+    "scanned_at": "2026-03-31T23:59:43.099760",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/dhgate_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/dhgate_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.dhgate.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive supplier network",
+        "Focus on B2B transactions",
+        "Customizable product options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "banggood",
+    "url": "https://www.banggood.com",
+    "scanned_at": "2026-04-01T00:00:02.113638",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/banggood_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/banggood_mobile.png"
+    },
+    "structure": {
+      "title": "Banggood : Global Leading Online Shop for Gadgets and Fashion",
+      "url_final": "https://www.banggood.com/",
+      "nav_items": [
+        {
+          "text": "categories",
+          "href": "/all-wholesale-products.html?from=nav&last_spm=1a981.Homepage.0001127294.0001681903.0f7cdd793abf45d0"
+        },
+        {
+          "text": "Toys Hobbies and Robot",
+          "href": "https://www.banggood.com/Wholesale-Toys-Hobbies-and-Robot-c-133.html?bid=210701"
+        },
+        {
+          "text": "Sports & Outdoor",
+          "href": "https://www.banggood.com/Wholesale-Sports-and-Outdoors-ca-6001.html?bid=210702"
+        },
+        {
+          "text": "Tools, Industrial & Scientific",
+          "href": "https://www.banggood.com/Wholesale-Tools,Industrial-and-Scientific-ca-3001.html?bid=210703"
+        },
+        {
+          "text": "Automobiles & Motorcycles",
+          "href": "https://www.banggood.com/Wholesale-Automobiles-and-Motorcycles-ca-4001.html?bid=210704"
+        },
+        {
+          "text": "Electronics",
+          "href": "https://www.banggood.com/Wholesale-Electronics-ca-2001.html?bid=210705"
+        },
+        {
+          "text": "Audio, Mobile Phones & Accessories",
+          "href": "https://www.banggood.com/Wholesale-Phones-and-Accessories-ca-1001.html?bid=210706"
+        },
+        {
+          "text": "Computers,Videos & Games",
+          "href": "https://www.banggood.com/Wholesale-Computers-and-Office-ca-5001.html?bid=210707"
+        },
+        {
+          "text": "Home Appliances & Health",
+          "href": "https://www.banggood.com/Wholesale-Home-Appliance-and-Health-ca-18949.html?bid=210708"
+        },
+        {
+          "text": "Home, Garden & Furniture",
+          "href": "https://www.banggood.com/Wholesale-Home,Garden-and-Furniture-ca-12001.html?bid=210709"
+        },
+        {
+          "text": "Lights & Lighting",
+          "href": "https://www.banggood.com/Wholesale-Lights-and-Lighting-ca-14001.html?bid=210710"
+        },
+        {
+          "text": "Men & Women's Clothing",
+          "href": "https://www.banggood.com/Wholesale-Men-and-Womens-Clothing-ca-18941.html?bid=210711"
+        },
+        {
+          "text": "Flash Deals",
+          "href": "https://www.banggood.com/Flashdeals.html?bid=56264&from=nav"
+        },
+        {
+          "text": "1-Week Delivery",
+          "href": "https://www.banggood.com/marketing-Local-Warehouse/tid-6645.html?bid=56271&from=nav"
+        },
+        {
+          "text": "Discover New",
+          "href": "https://www.banggood.com/discover-new.html?utmid=22238&bid=56272&from=nav"
+        },
+        {
+          "text": "Clearance Sale",
+          "href": "https://www.banggood.com/marketing-clearance-sale/tid-59045.html?utmid=23392&bid=60346&from=nav"
+        },
+        {
+          "text": "Top Sellers",
+          "href": "https://www.banggood.com/ranking.html?bid=56273&from=nav"
+        }
+      ],
+      "buttons": [
+        "Cookie Settings",
+        "Allow and Close",
+        "Cookie Settings",
+        "Allow and Close",
+        "iOS",
+        "Android",
+        "Sign in",
+        "Join us",
+        "OK"
+      ],
+      "forms": [
+        {
+          "action": "https://www.banggood.com/index.php",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "keywords",
+              "placeholder": ""
+            },
+            {
+              "type": "submit",
+              "name": "header-submit",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "com",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "from",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "hint_search_active",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "hint_search_tagname",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "hint_search_url",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 154,
+      "images_count": 37,
+      "images_with_alt": 20,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 1,
+          "text": "Welcome to Banggood,"
+        },
+        {
+          "level": 1,
+          "text": "You Allow:"
+        },
+        {
+          "level": 2,
+          "text": "Welcome to Banggood"
+        },
+        {
+          "level": 2,
+          "text": "Notice of Website System Upgrade & Maintenance"
+        },
+        {
+          "level": 3,
+          "text": "Happy birthday to You !"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "keywords",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "header-submit",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "com",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "from",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "hint_search_active",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "hint_search_tagname",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "hint_search_url",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Quick Find"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Quick Find"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Quick Find"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Quick Find"
+        },
+        {
+          "type": "button",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "About Banggood.com",
+        "Guarantees & Return Policy",
+        "Contact Us",
+        "Help Center",
+        "Site Map",
+        "Intellectual Property Claims",
+        "Payment Methods",
+        "BGpay Instruction",
+        "Shipping Guide",
+        "Locations We Ship To",
+        "Estimated Delivery Time",
+        "Drop shipping",
+        "Review Club",
+        "Affiliate Program",
+        "Wholesale Program"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "Shop Banggood online for electronics, phones & projectors, e-bikes & scooters, RC toys & parts, tools & millions of items. Top brands, valuable prices.",
+      "scripts_count": 91
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 7,
+      "notable_unique_features": [
+        "1-Week Delivery",
+        "Flash Deals"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lightinthebox",
+    "url": "https://www.lightinthebox.com",
+    "scanned_at": "2026-04-01T00:00:22.671005",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/lightinthebox_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/lightinthebox_mobile.png"
+    },
+    "structure": {
+      "title": "LightInTheBox-Worldwide Shipping | Trendy Clothing & Fashion",
+      "url_final": "https://www.lightinthebox.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "https://www.lightinthebox.com/"
+        },
+        {
+          "text": "APP Only! Get Up To60% Off",
+          "href": "https://www.lightinthebox.com//nh/App-Download.html"
+        },
+        {
+          "text": "",
+          "href": "https://itunes.apple.com/us/app/lightinthebox-online-shopping/id438474115"
+        },
+        {
+          "text": "",
+          "href": "https://play.google.com/store/apps/details?id=com.lightinthebox.android"
+        },
+        {
+          "text": "English",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "English",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Fran\u00e7ais",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Espa\u00f1ol",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Deutsch",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Italiano",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Portugu\u00eas",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u65e5\u672c\u8a9e",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Nederlands",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Norsk",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Svenska",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Suomi",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Polski",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Save",
+        "Cancel",
+        "View My Cart"
+      ],
+      "forms": [
+        {
+          "action": "https://www.lightinthebox.com/search?query_type=1",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "query_type",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1228,
+      "images_count": 215,
+      "images_with_alt": 199,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Women's Clothing"
+        },
+        {
+          "level": 2,
+          "text": "Men's Clothing"
+        },
+        {
+          "level": 2,
+          "text": "Shoes & Bags"
+        },
+        {
+          "level": 2,
+          "text": "Home & Garden"
+        },
+        {
+          "level": 2,
+          "text": "Weddings & Events"
+        },
+        {
+          "level": 3,
+          "text": "Recent SearchesClear All"
+        },
+        {
+          "level": 3,
+          "text": "Top Search"
+        },
+        {
+          "level": 3,
+          "text": "Shop by Occasion"
+        },
+        {
+          "level": 3,
+          "text": "Women's Dresses"
+        },
+        {
+          "level": 3,
+          "text": "Women's Tops"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "query_type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "url",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": "Your Email Address"
+        },
+        {
+          "type": "button",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "Find everything you want- a wide range of hot selling apparels and more at reasonable prices.Sign up now to get the latest deal & daily new products.",
+      "scripts_count": 94
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Worldwide shipping",
+        "Multi-language support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "tmall_global",
+    "url": "https://www.tmall.hk",
+    "scanned_at": "2026-04-01T00:00:43.713058",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/tmall_global_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/tmall_global_mobile.png"
+    },
+    "structure": {
+      "title": "\u5929\u732b\u56fd\u9645Tmall.HK -100%\u6b63\u54c1\u4fdd\u969c 100%\u6d77\u5916\u76f4\u4f9b 100%\u552e\u540e\u670d\u52a1-\u7406\u60f3\u751f\u6d3b\u4e0a\u5929\u732b",
+      "url_final": "https://www.tmall.hk/",
+      "nav_items": [],
+      "buttons": [
+        "\u641c\u7d22"
+      ],
+      "forms": [
+        {
+          "action": "//pages.tmall.com/wow/z/import/tmg-rax-home/tmallimportwupr-index",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "wh_pid",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "g_channelSrp",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "g_bizFilter",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "channelSrp",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "from",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "g_closeModues",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "channel_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "g_historyOn",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "g_channelHistoryKey",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 80,
+      "images_count": 1,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u5929\u732b\u56fd\u9645"
+        },
+        {
+          "level": 3,
+          "text": "\u670d\u52a1\u4fdd\u969c"
+        },
+        {
+          "level": 3,
+          "text": "\u6d88\u8d39\u8005\u6307\u5357"
+        },
+        {
+          "level": 3,
+          "text": "\u652f\u4ed8\u65b9\u5f0f"
+        },
+        {
+          "level": 3,
+          "text": "\u5546\u5bb6\u652f\u6301"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "wh_pid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "g_channelSrp",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "g_bizFilter",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "channelSrp",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "from",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "g_closeModues",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "channel_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "g_historyOn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "g_channelHistoryKey",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 2,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 32
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "100% overseas direct supply",
+        "100% genuine product guarantee",
+        "Comprehensive after-sales service"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "xianyu",
+    "url": "https://www.xianyu.com",
+    "scanned_at": "2026-04-01T00:01:05.427206",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xianyu.com/\nCall log:\n  - navigating to \"https://www.xianyu.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xianyu.com/\nCall log:\n  - navigating to \"https://www.xianyu.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "second-hand marketplace",
+        "community-driven listings"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "yanxuan",
+    "url": "https://you.163.com",
+    "scanned_at": "2026-04-01T00:01:18.736522",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/yanxuan_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/yanxuan_mobile.png"
+    },
+    "structure": {
+      "title": "\u7f51\u6613\u4e25\u9009 - \u4ee5\u4e25\u8c28\u7684\u6001\u5ea6\uff0c\u4e3a\u4e2d\u56fd\u6d88\u8d39\u8005\u7504\u9009\u5929\u4e0b\u4f18\u54c1",
+      "url_final": "https://you.163.com/",
+      "nav_items": [],
+      "buttons": [
+        "\u5728\u7ebf\u5ba2\u670d",
+        "\u7528\u6237\u53cd\u9988"
+      ],
+      "forms": [],
+      "links_count": 240,
+      "images_count": 104,
+      "images_with_alt": 44,
+      "headings": [
+        {
+          "level": 3,
+          "text": "\u65b0\u54c1\u9996\u53d1"
+        },
+        {
+          "level": 3,
+          "text": "\u4eba\u6c14\u63a8\u8350"
+        },
+        {
+          "level": 3,
+          "text": "\u5e8a\u54c1\u5bb6\u7eba"
+        },
+        {
+          "level": 3,
+          "text": "\u7537\u88c5"
+        },
+        {
+          "level": 3,
+          "text": "\u4e73\u996e\u9152\u6c34"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "searchInput",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "\u8f93\u5165\u60a8\u7684\u7535\u5b50\u90ae\u4ef6"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "\u7f51\u6613\u4e25\u9009\u79c9\u627f\u7f51\u6613\u4e00\u8d2f\u7684\u4e25\u8c28\u6001\u5ea6\uff0c\u6df1\u5165\u4e16\u754c\u5404\u5730\uff0c\u4e25\u683c\u628a\u5173\u6240\u6709\u5546\u54c1\u7684\u4ea7\u5730\u3001\u5de5\u827a\u3001\u539f\u6750\u6599\uff0c\u7504\u9009\u5c45\u5bb6\u3001\u53a8\u623f\u3001\u996e\u98df\u7b49\u5404\u7c7b\u5546\u54c1\uff0c\u529b\u6c42\u7ed9\u4f60\u6700\u4f18\u8d28\u7684\u5546\u54c1\u3002",
+      "scripts_count": 21
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "\u4e25\u9009's focus on high-quality, curated products",
+        "Integration with NetEase ecosystem"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_china",
+    "url": "https://www.samsung.com/cn/",
+    "scanned_at": "2026-04-01T00:01:47.777351",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/samsung_china_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/samsung_china_mobile.png"
+    },
+    "structure": {
+      "title": "\u4e09\u661f\u7535\u5b50 \u4e2d\u56fd | \u4e09\u661f\u624b\u673a | \u7535\u89c6 | \u663e\u793a\u5668 \u56fa\u6001\u786c\u76d8 | \u51b0\u7bb1 \u6d17\u8863\u673a\u7b49\u4ea7\u54c1\u5b98\u7f51",
+      "url_final": "https://www.samsung.com.cn/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/cn/"
+        },
+        {
+          "text": "\u8d2d\u7269\u8f66\u4ea7\u54c1\u6570\u91cf :0",
+          "href": "https://shop.samsung.com.cn/cn/cart/"
+        },
+        {
+          "text": "\u767b\u5f55",
+          "href": ""
+        },
+        {
+          "text": "\u6253\u5f00\u6211\u7684\u83dc\u5355",
+          "href": ""
+        },
+        {
+          "text": "\u4e09\u661f\u5546\u57ce\u5546\u57ce\u4f18\u60e0",
+          "href": "/offer/"
+        },
+        {
+          "text": "\u4e09\u661f\u5546\u57ce",
+          "href": "/offer/"
+        },
+        {
+          "text": "Galaxy S26 Ultra\u65b0",
+          "href": "/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy S26 | S26+\u65b0",
+          "href": "/smartphones/galaxy-s26/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy S25 Ultra",
+          "href": "/smartphones/galaxy-s25-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Watch8 Classic",
+          "href": "/watches/galaxy-watch8/buy/?modelCode=SM-L500NZKACHC"
+        },
+        {
+          "text": "Galaxy Buds4 Pro\u65b0",
+          "href": "/audio-sound/galaxy-buds4-pro/buy/"
+        },
+        {
+          "text": "Neo QLED 4K\n\u7535\u89c6",
+          "href": "/tvs/qled-tv/qnx8f-85-inch-neo-qled-4k-vision-ai-smart-tv-qa85qnx8fajxxz/"
+        },
+        {
+          "text": "Crystal UHD\u7535\u89c6",
+          "href": "/tvs/uhd-4k-tv/du8000-85-inch-crystal-uhd-4k-tizen-os-smart-tv-ua85du8000jxxz/"
+        },
+        {
+          "text": "\u4e09\u661f\u753b\u58c1\u827a\u672f\u7535\u89c6",
+          "href": "/lifestyle-tvs/the-frame/ls03f-65-inch-black-qa65ls03fajxxz/"
+        },
+        {
+          "text": "OLED\u7535\u89c6",
+          "href": "/tvs/oled-tv/s95f-77-inch-oled-4k-smart-tv-qa77s95fajxxz/"
+        },
+        {
+          "text": "\u9664\u83cc\u6d17\u8863\u673a",
+          "href": "/washers-and-dryers/washing-machines/ww5000d-washer-space-max-ai-ecobubble-smartthings-ai-energy-mod"
+        },
+        {
+          "text": "\u5bf9\u5f00\u95e8\u51b0\u7bb1",
+          "href": "/refrigerators/french-door/rs5000f-655l-silver-rs70f65p1tsc/"
+        },
+        {
+          "text": "\u5341\u5b57\u95e8\u51b0\u7bb1",
+          "href": "/refrigerators/french-door/rf8500-501l-vibe-dark-metal-rf50dg5131qqsc/"
+        },
+        {
+          "text": "AI\u795e\u6d17\u8863\u673a",
+          "href": "/washers-and-dryers/washing-machines/ww7400d-front-loading-spacemax-ai-wash-smartthings-ai-energy-mo"
+        }
+      ],
+      "buttons": [
+        "\u4e86\u89e3\u66f4\u591a",
+        "\u5173\u95ed",
+        "\u4e2d\u56fd",
+        "\u4e2d\u56fd / \u4e2d\u6587",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "\u7ee7\u7eed",
+        "\u5173\u95ed",
+        "\u641c\u7d22\u641c\u7d22",
+        "\u5bfc\u822a",
+        "\u8fd4\u56de",
+        "\u641c\u7d22",
+        "\u4e09\u661f\u5546\u57ce",
+        "\u624b\u673a/\u5e73\u677f",
+        "\u7535\u89c6/\u5f71\u97f3",
+        "\u751f\u6d3b\u5bb6\u7535",
+        "\u663e\u793a\u5668/\u5b58\u50a8",
+        "\u667a\u80fd\u7a7f\u6234\u8bbe\u5907",
+        "\u914d\u4ef6",
+        "\u552e\u540e\u670d\u52a1",
+        "\u4ea7\u54c1\u5e2e\u52a9",
+        "\u81ea\u52a9\u670d\u52a1",
+        "\u8054\u7cfb\u6211\u4eec",
+        "\u67e5\u770b\u66f4\u591a",
+        "\u641c\u7d22\u641c\u7d22",
+        "\u767b\u5f55/\u6ce8\u518c",
+        "\u6253\u5f00\u6211\u7684\u83dc\u5355",
+        "Close menu",
+        "\u5b8c\u6210",
+        "\u5173\u95ed\u6d6e\u5c42"
+      ],
+      "forms": [
+        {
+          "action": "https://shop-support.samsung.com.cn/api/auth/login/oauth/authorize",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://shop-support.samsung.com.cn/api/auth/login/logout",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 287,
+      "images_count": 162,
+      "images_with_alt": 139,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": "\u672c\u6708\u7cbe\u9009"
+        },
+        {
+          "level": 2,
+          "text": "\u63a2\u7d22\u6545\u4e8b"
+        },
+        {
+          "level": 2,
+          "text": "Estimate your installment plan"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "\u6253\u5f00",
+        "\u4e09\u661f\u5546\u57ce",
+        "\u4e09\u661f\u5b98\u65b9\u5c0a\u4eab\u793c",
+        "SmartThings",
+        "Samsung Care+",
+        "AI for All",
+        "\u9886\u5238\u4e2d\u5fc3",
+        "\u4e09\u661f\u95ea\u8d2d",
+        "\u6821\u56ed\u4f18\u60e0",
+        "\u4f01\u4e1a\u4f18\u60e0",
+        "\u4e09\u661f\u4f53\u9a8c\u5e97",
+        "\u975e\u5168\u65b0\u673a",
+        "\u65b0\u578b\u8fdb\u7f51\u8bb8\u53ef\u8bc1\u6807\u6ce8",
+        "\u95e8\u5e97\u6d3b\u52a8",
+        "\u5e38\u89c1\u95ee\u9898",
+        "Explore",
+        "\u6253\u5f00",
+        "\u667a\u80fd\u624b\u673a",
+        "\u667a\u80fd\u5e73\u677f",
+        "\u667a\u80fd\u624b\u8868"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 179,
+      "has_og_tags": true,
+      "meta_description": "\u63a2\u7d22\u4e09\u661f\u8ba9\u60a8\u611f\u53d7\u54c1\u4f4d\u751f\u6d3b\uff0c\u5728\u8fd9\u91cc\u60a8\u53ef\u4ee5\u627e\u5230Galaxy S26 Ultra , Galaxy S26 | S26+\uff0cGalaxy Z Fold7 | Z Flip7\uff0cGalaxy S25 Edge\uff0cGalaxy Tab S10\u7cfb\u5217\uff0cGalaxy Watch ultra\uff0cGalaxy Watch8\uff0cGalaxy Watch8 Classic\uff0c\u4e09\u661f W25 | W25 Flip\uff0cGalaxy Buds",
+      "scripts_count": 49
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "N",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "N",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Localized content for China",
+        "Integration with Samsung's global account system"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "apple_china",
+    "url": "https://www.apple.com/cn/shop",
+    "scanned_at": "2026-04-01T00:02:10.996825",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/apple_china_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/apple_china_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store \u5728\u7ebf\u5546\u5e97 - Apple (\u4e2d\u56fd\u5927\u9646)",
+      "url_final": "https://www.apple.com.cn/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com.cn/"
+        },
+        {
+          "text": "\u5546\u5e97",
+          "href": "/store"
+        },
+        {
+          "text": "\u9009\u8d2d\u6700\u65b0\u4ea7\u54c1",
+          "href": "https://www.apple.com.cn/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com.cn/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com.cn/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com.cn/shop/buy-iphone"
+        },
+        {
+          "text": "Apple\u00a0Watch",
+          "href": "https://www.apple.com.cn/shop/buy-watch"
+        },
+        {
+          "text": "Apple Vision Pro",
+          "href": "https://www.apple.com.cn/cn/shop/goto/buy_vision"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com.cn/cn/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "\u914d\u4ef6",
+          "href": "https://www.apple.com.cn/shop/accessories/all"
+        },
+        {
+          "text": "\u67e5\u627e\u96f6\u552e\u5e97",
+          "href": "https://www.apple.com.cn/retail/"
+        },
+        {
+          "text": "\u8ba2\u5355\u72b6\u6001",
+          "href": "https://secure.www.apple.com.cn/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In \u6362\u8d2d\u8ba1\u5212",
+          "href": "https://www.apple.com.cn/shop/trade-in"
+        },
+        {
+          "text": "\u5206\u671f\u4ed8\u6b3e",
+          "href": "https://www.apple.com.cn/cn/shop/goto/ww/financing"
+        },
+        {
+          "text": "\u4e2a\u4eba\u8bbe\u7f6e\u8f85\u5bfc",
+          "href": "https://www.apple.com.cn/cn/shop/goto/personal_setup"
+        },
+        {
+          "text": "\u8ba4\u8bc1\u7684\u7ffb\u65b0\u4ea7\u54c1",
+          "href": "https://www.apple.com.cn/shop/refurbished"
+        },
+        {
+          "text": "\u6559\u80b2",
+          "href": "https://www.apple.com.cn/shop/browse/home/education_routing"
+        },
+        {
+          "text": "\u5546\u52a1",
+          "href": "https://www.apple.com.cn/retail/business/"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com.cn/mac/"
+        },
+        {
+          "text": "\u63a2\u7d22\u5168\u90e8 Mac \u673a\u578b",
+          "href": "https://www.apple.com.cn/mac/"
+        }
+      ],
+      "buttons": [
+        "\u4e0a\u4e00\u4e2a - \u4ea7\u54c1",
+        "\u4e0b\u4e00\u4e2a - \u4ea7\u54c1",
+        "\u4e0a\u4e00\u4e2a -",
+        "\u4e0b\u4e00\u4e2a -",
+        "\u4e0a\u4e00\u4e2a - \u5e2e\u624b\u5728\u6b64\uff0c",
+        "\u4e0b\u4e00\u4e2a - \u5e2e\u624b\u5728\u6b64\uff0c",
+        "\u4e0a\u4e00\u4e2a - Apple Store \u6709\u7279\u8272\uff0c",
+        "\u4e0b\u4e00\u4e2a - Apple Store \u6709\u7279\u8272\uff0c",
+        "\u4e0a\u4e00\u4e2a - \u4e30\u5bcc\u914d\u4ef6\u3002",
+        "\u4e0b\u4e00\u4e2a - \u4e30\u5bcc\u914d\u4ef6\u3002",
+        "\u4e0a\u4e00\u4e2a - \u58f0\u58f0\u52a8\u542c\u3002",
+        "\u4e0b\u4e00\u4e2a - \u58f0\u58f0\u52a8\u542c\u3002",
+        "\u4e0a\u4e00\u4e2a - Nike x Beats\u3002",
+        "\u4e0b\u4e00\u4e2a - Nike x Beats\u3002"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "\u641c\u7d22 apple.com.cn"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 361,
+      "images_count": 93,
+      "images_with_alt": 77,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u5546\u5e97"
+        },
+        {
+          "level": 2,
+          "text": "\u9009\u8d2d"
+        },
+        {
+          "level": 2,
+          "text": "\u5feb\u901f\u94fe\u63a5"
+        },
+        {
+          "level": 2,
+          "text": "\u4e13\u5c5e\u5546\u5e97\u9009\u8d2d"
+        },
+        {
+          "level": 2,
+          "text": "\u63a2\u7d22 Mac"
+        },
+        {
+          "level": 2,
+          "text": "\u9009\u8d2d Mac"
+        },
+        {
+          "level": 3,
+          "text": "\u65b0\u6b3e"
+        },
+        {
+          "level": 3,
+          "text": "\u65b0\u6b3e"
+        },
+        {
+          "level": 3,
+          "text": "\u65b0\u6b3e"
+        },
+        {
+          "level": 3,
+          "text": "\u65b0\u6b3e"
+        },
+        {
+          "level": 3,
+          "text": "\u65b0\u6b3e"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "\u641c\u7d22 apple.com.cn"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "\u6761\u6b3e",
+        "\u6761\u6b3e",
+        "Apple",
+        "\u5546\u5e97",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "Vision",
+        "AirPods",
+        "\u5bb6\u5c45",
+        "AirTag",
+        "\u914d\u4ef6",
+        "App Store \u5145\u503c\u5361",
+        "Apple Pay",
+        "\u7ba1\u7406\u4f60\u7684 Apple \u8d26\u6237",
+        "Apple Store \u8d26\u6237",
+        "iCloud.com",
+        "Apple Music",
+        "Apple \u64ad\u5ba2"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 65,
+      "has_og_tags": true,
+      "meta_description": "Apple Store \u96f6\u552e\u5e97\u91cc\u7684\u5404\u79cd\u597d\uff0c\u7ebf\u4e0a\u4e00\u6837\u4e0d\u5c11 - \u5373\u523b\u5f00\u59cb\u9009\u8d2d\uff0c\u4f53\u9a8c\u6211\u4eec\u7684\u4e13\u5bb6\u5bfc\u8d2d\u4e0e\u4ea7\u54c1\u63a8\u8350\u670d\u52a1\uff0c\u5e76\u4ee5\u7075\u6d3b\u7684\u6298\u62b5\u6362\u8d2d\u4e0e\u514d\u606f\u5206\u671f\u4ed8\u6b3e\uff0c\u8fd8\u6709\u514d\u8d39\u9001\u8d27\u670d\u52a1\u3002",
+      "scripts_count": 63
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Apple Trade In program",
+        "Personal setup guidance"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "nike_china",
+    "url": "https://www.nike.com/cn/",
+    "scanned_at": "2026-04-01T00:02:34.064164",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/nike_china_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/nike_china_mobile.png"
+    },
+    "structure": {
+      "title": "\u8010\u514bNike-\u8010\u514b(Nike)\u4e2d\u56fd\u5b98\u7f51-NIKE \u4e2d\u6587\u5b98\u65b9\u7f51\u7ad9",
+      "url_final": "https://www.nike.com.cn/",
+      "nav_items": [
+        {
+          "text": "\u8df3\u8f6c\u81f3\u4e3b\u8981\u5185\u5bb9",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com.cn/jordan"
+        },
+        {
+          "text": "",
+          "href": "https://www.converse.com.cn/"
+        },
+        {
+          "text": "\u5e2e\u52a9",
+          "href": "https://www.nike.com.cn/help"
+        },
+        {
+          "text": "\u5e2e\u52a9",
+          "href": "https://www.nike.com.cn/help"
+        },
+        {
+          "text": "\u8ba2\u5355\u72b6\u6001",
+          "href": "https://www.nike.com.cn/orders"
+        },
+        {
+          "text": "\u914d\u9001",
+          "href": "https://www.nike.com.cn/help/a/free-shipping-cn"
+        },
+        {
+          "text": "\u9000\u6362\u8d27",
+          "href": "https://www.nike.com.cn/help/a/returns-policy-cn"
+        },
+        {
+          "text": "\u8054\u7cfb\u6211\u4eec",
+          "href": "https://www.nike.com.cn/help/#contact"
+        },
+        {
+          "text": "\u9690\u79c1\u653f\u7b56",
+          "href": "https://agreementservice.svs.nike.com.cn/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.un"
+        },
+        {
+          "text": "\u9500\u552e\u6761\u6b3e",
+          "href": "https://agreementservice.svs.nike.com.cn/rest/agreement?agreementType=termsOfSale&uxId=com.nike.tos&"
+        },
+        {
+          "text": "\u4f7f\u7528\u6761\u6b3e",
+          "href": "https://agreementservice.svs.nike.com.cn/rest/agreement?agreementType=termsOfUse&uxId=com.nike&count"
+        },
+        {
+          "text": "\u7acb\u5373\u52a0\u5165",
+          "href": "https://www.nike.com.cn/membership"
+        },
+        {
+          "text": "\u767b\u5f55",
+          "href": "https://www.nike.com.cn/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com.cn"
+        },
+        {
+          "text": "\u56fd\u5bb6\u961f\u7cfb\u5217",
+          "href": "https://www.nike.com.cn/w/national-team-av9de"
+        },
+        {
+          "text": "Nike Mind",
+          "href": "https://www.nike.com.cn/w/nike-training-studios-2ackp"
+        },
+        {
+          "text": "\u8010\u514b\u8dd1\u6b65\u4e13\u533a",
+          "href": "https://www.nike.com.cn/w/running-37v7j"
+        },
+        {
+          "text": "\u4e2d\u8d85\u7cfb\u5217",
+          "href": "https://www.nike.com.cn/w/nike-fc-a4rvy"
+        },
+        {
+          "text": "\u8010\u514b\u7bee\u7403\u65b0\u54c1",
+          "href": "https://www.nike.com.cn/w/basketball-3glsm"
+        }
+      ],
+      "buttons": [
+        "\u65b0\u54c1&\u6f6e\u6d41",
+        "\u6f6e\u6d41\u8d8b\u52bf",
+        "\u5c16\u8d27\u4e13\u533a",
+        "\u65b0\u54c1\u4e0a\u5e02",
+        "\u8fd0\u52a8\u4e13\u533a",
+        "\u7cbe\u9009\u670d\u9970",
+        "\u7cbe\u9009\u978b\u6b3e",
+        "\u70ed\u95e8\u63a8\u8350",
+        "\u978b\u7c7b",
+        "\u914d\u4ef6",
+        "\u670d\u88c5",
+        "\u7ecf\u5178\u7cfb\u5217",
+        "\u8fd0\u52a8\u96c6\u7ed3",
+        "\u70ed\u95e8\u63a8\u8350",
+        "\u670d\u88c5",
+        "\u7ecf\u5178\u7cfb\u5217",
+        "\u8fd0\u52a8\u96c6\u7ed3",
+        "\u70ed\u95e8\u63a8\u8350",
+        "\u7537\u5b69\u978b\u7c7b",
+        "\u7537\u5b69\u670d\u88c5",
+        "\u5973\u5b69\u670d\u88c5",
+        "\u7ecf\u5178\u7cfb\u5217",
+        "\u914d\u4ef6",
+        "\u8fd0\u52a8\u96c6\u7ed3",
+        "\u70ed\u95e8\u63a8\u8350",
+        "\u8fd0\u52a8",
+        "\u6237\u5916\u8d8a\u91ce",
+        "Cancel"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "\u641c\u7d22"
+            }
+          ]
+        }
+      ],
+      "links_count": 571,
+      "images_count": 35,
+      "images_with_alt": 33,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Nike United\u7cfb\u5217"
+        },
+        {
+          "level": 2,
+          "text": "\u9009\u8d2d\u7403\u661f\u540c\u6b3e"
+        },
+        {
+          "level": 2,
+          "text": "\u9009\u8d2d\u7403\u661f\u540c\u6b3e"
+        },
+        {
+          "level": 2,
+          "text": "\u7cbe\u9009\u513f\u7ae5\u4ea7\u54c1"
+        },
+        {
+          "level": 2,
+          "text": "\u7cbe\u9009\u513f\u7ae5\u4ea7\u54c1"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 3,
+          "text": "\u4e3b\u89d2\u767b\u573a"
+        },
+        {
+          "level": 3,
+          "text": "\u8010\u9ad8\u8d85\u65b0\u661f\u7bee\u7403\u7cfb\u5217"
+        },
+        {
+          "level": 3,
+          "text": "\u4e3b\u89d2\u767b\u573a"
+        },
+        {
+          "level": 3,
+          "text": "\u8010\u9ad8\u8d85\u65b0\u661f\u7bee\u7403\u7cfb\u5217"
+        },
+        {
+          "level": 3,
+          "text": "NIKE \u00d7 LEGO\u00ae\ufe0f\u7cfb\u5217 Air Max 95"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "\u641c\u7d22"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "\u4f01\u4e1a\u56e2\u8d2d",
+        "\u6ce8\u518cNIKE\u4f1a\u5458",
+        "\u8ba2\u5355\u72b6\u6001",
+        "\u914d\u9001\u65b9\u5f0f",
+        "\u9000\u6362\u8d27",
+        "\u4ed8\u6b3e\u9009\u9879",
+        "\u8054\u7cfb\u6211\u4eec",
+        "\u65b0\u95fb",
+        "\u6295\u8d44\u8005",
+        "\u62db\u8d24\u7eb3\u58eb",
+        "\u7535\u5b50\u793c\u54c1\u5361",
+        "\u4f01\u4e1a\u56e2\u8d2d",
+        "\u6ce8\u518cNIKE\u4f1a\u5458",
+        "\u83b7\u5f97\u5e2e\u52a9",
+        "\u8ba2\u5355\u72b6\u6001",
+        "\u914d\u9001\u65b9\u5f0f",
+        "\u9000\u6362\u8d27",
+        "\u4ed8\u6b3e\u9009\u9879",
+        "\u8054\u7cfb\u6211\u4eec",
+        "\u5173\u4e8eNIKE"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 240,
+      "has_og_tags": true,
+      "meta_description": "\u767b\u5f55\u8010\u514bNike\u4e2d\u56fd\u5b98\u65b9\u7f51\u7ad9,\u8fd9\u91cc\u6709\u6700\u65b0\u7684\u8fd0\u52a8\u8bad\u7ec3\u7406\u5ff5,\u81ea\u7531\u7545\u5feb\u7684\u8d2d\u7269\u4f53\u9a8c\u4ee5\u53ca\u66f4\u591a\u8010\u514bNike\u6700\u65b0\u4ea7\u54c1\u4fe1\u606f,\u4eba\u6c14\u5c16\u8d27\u96c6\u7ed3\u8010\u514bNike\u5b98\u7f51,\u5373\u523b\u767b\u5f55\u8010\u514bNIKE\u4e2d\u6587\u5b98\u65b9\u7f51\u7ad9\u8f7b\u677eGET\u6f6e\u6d41\u65f6\u5c1a\u7a7f\u642d.Just Do It.",
+      "scripts_count": 48
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Nike United series",
+        "NIKE \u00d7 LEGO\u00ae series"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "adidas_china",
+    "url": "https://www.adidas.com.cn",
+    "scanned_at": "2026-04-01T00:03:01.256555",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.adidas.com.cn/\nCall log:\n  - navigating to \"https://www.adidas.com.cn/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.adidas.com.cn/\nCall log:\n  - navigating to \"https://www.adidas.com.cn/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product personalization options",
+        "integrated WeChat shopping"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_china",
+    "url": "https://www.ikea.com/cn/zh/",
+    "scanned_at": "2026-04-01T00:03:11.477934",
+    "screenshots": {
+      "desktop": "data/ecommerce_china/2026-03-31/screenshots/ikea_china_desktop.png",
+      "mobile": "data/ecommerce_china/2026-03-31/screenshots/ikea_china_mobile.png"
+    },
+    "structure": {
+      "title": "\u5b9c\u5bb6\u5bb6\u5c45\u5b98\u7f51-\u5bb6 \u7ed9\u751f\u6d3b\u66f4\u591a-\u5b9c\u5bb6\u7535\u5546-\u63d0\u4f9b\u5ba2\u5385\uff0c\u5367\u5ba4\uff0c\u53a8\u623f\uff0c\u5404\u7c7b\u5bb6\u5c45\u7075\u611f\u548c\u4ea7\u54c1\u89e3\u51b3\u65b9\u6848- IKEA",
+      "url_final": "https://www.ikea.cn/cn/zh/",
+      "nav_items": [],
+      "buttons": [
+        "\u5168\u90e8",
+        "\u5367\u5ba4",
+        "\u5ba2\u5385",
+        "\u53a8\u623f",
+        "\u4e66\u623f",
+        "\u6d74\u5ba4",
+        "\u9633\u53f0",
+        "\u513f\u7ae5\u623f",
+        "\u6237\u5916",
+        "\u9910\u5385",
+        "\u95e8\u5385",
+        "\u7535\u7ade",
+        "\u65b0\u54c1",
+        "\u52a0\u8f7d\u66f4\u591a\u5185\u5bb9"
+      ],
+      "forms": [],
+      "links_count": 93,
+      "images_count": 65,
+      "images_with_alt": 3,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u5b9c\u5bb6\u5bb6\u5c45\u5b98\u7f51-\u5b9c\u5bb6\u7535\u5546-\u63d0\u4f9b\u5ba2\u5385\uff0c\u5367\u5ba4\uff0c\u53a8\u623f\uff0c\u5404\u7c7b\u5bb6\u5c45\u7075\u611f\u548c\u4ea7\u54c1\u89e3\u51b3\u65b9\u6848- IKEA"
+        },
+        {
+          "level": 2,
+          "text": "\u8fd1\u671f\u63a8\u8350"
+        },
+        {
+          "level": 2,
+          "text": "\u628a\u5feb\u4e50\u5e26\u56de\u5bb6"
+        },
+        {
+          "level": 2,
+          "text": "\u53d1\u73b0\u66f4\u591a\u5bb6\u5c45\u7075\u611f"
+        },
+        {
+          "level": 2,
+          "text": "\u4ea7\u54c1\u4fe1\u606f\u53ca\u901a\u77e5"
+        },
+        {
+          "level": 2,
+          "text": "\u4ea7\u54c1\u4fe1\u606f\u53ca\u901a\u77e5"
+        },
+        {
+          "level": 3,
+          "text": "\u63a2\u7d22\u5f53\u5b63\u65b0\u54c1"
+        },
+        {
+          "level": 3,
+          "text": "\u9650\u65f6\u7279\u60e0"
+        },
+        {
+          "level": 3,
+          "text": "\u66f4\u4f4e\u4ef7\u683c\uff0c\u7ed9\u751f\u6d3b\u66f4\u591a"
+        },
+        {
+          "level": 3,
+          "text": "\u5b9c\u5bb6\u5bf9\u516c\u4e1a\u52a1"
+        },
+        {
+          "level": 3,
+          "text": "\u4f4e\u4ef7\u4f18\u9009"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 5,
+      "has_og_tags": false,
+      "meta_description": "IKEA \u5b9c\u5bb6\u5bb6\u5c45\u662f\u6765\u81ea\u745e\u5178\u7684\u5168\u7403\u77e5\u540d\u7684\u5bb6\u5177\u548c\u5bb6\u5c45\u7528\u54c1\u96f6\u552e\u5546\u3002\u8bbf\u95ee\u5b9c\u5bb6\u7535\u5546\u5b98\u7f51\uff0c\u83b7\u53d69000\u591a\u79cd\u4ea7\u54c1\u7684\u8be6\u7ec6\u4fe1\u606f\u4ee5\u53ca\u6e90\u6e90\u4e0d\u65ad\u7684\u5bb6\u5c45\u7075\u611f\u3002",
+      "scripts_count": 10
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "localized content for Chinese market",
+        "integration with WeChat for customer service"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "gearbest",
+    "url": "https://www.gearbest.com",
+    "scanned_at": "2026-04-01T00:03:52.748038",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gearbest.com/\nCall log:\n  - navigating to \"https://www.gearbest.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gearbest.com/\nCall log:\n  - navigating to \"https://www.gearbest.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "flash sales",
+        "global shipping options"
+      ],
+      "confidence": "high"
+    }
+  }
+]

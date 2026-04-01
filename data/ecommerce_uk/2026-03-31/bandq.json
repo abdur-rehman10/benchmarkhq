@@ -1,0 +1,329 @@
+{
+  "name": "bandq",
+  "url": "https://www.diy.com",
+  "scanned_at": "2026-03-31T21:53:14.532747",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/bandq_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/bandq_mobile.png"
+  },
+  "structure": {
+    "title": "DIY Products at Everyday Low Prices at B&Q",
+    "url_final": "https://www.diy.com/",
+    "nav_items": [
+      {
+        "text": "B&Q Club",
+        "href": "/bandqclub#icamp=header_Club"
+      },
+      {
+        "text": "Customer support",
+        "href": "/customer-support/?icamp=Nav_HelpSupport"
+      },
+      {
+        "text": "Sell on diy.com",
+        "href": "https://merchanthub.kingfisher.com/uk-en/start-selling/"
+      },
+      {
+        "text": "Wish list",
+        "href": "/wishlist"
+      },
+      {
+        "text": "Register",
+        "href": "/customer/register?redirectTo=%2F"
+      },
+      {
+        "text": "Sign in",
+        "href": "/customer/signin?redirectTo=%2F"
+      }
+    ],
+    "buttons": [
+      "Enter your postcode",
+      "Menu",
+      "Clear",
+      "Search",
+      "Stores",
+      "Enter your postcode",
+      "Previous slide",
+      "Show slide 1 of 2",
+      "Show slide 2 of 2",
+      "Next slide",
+      "Previous slide",
+      "Show slide 1 of 1",
+      "Next slide",
+      "Previous slide",
+      "Show slide 1 of 1",
+      "Next slide",
+      "Previous slide",
+      "Show slide 1 of 2",
+      "Show slide 2 of 2",
+      "Next slide",
+      "Previous slide",
+      "Show slide 1 of 1",
+      "Next slide",
+      "Previous slide",
+      "Show slide 1 of 2",
+      "Show slide 2 of 2",
+      "Next slide",
+      "Previous slide",
+      "Show slide 1 of 1"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "term",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "quantity",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "quantity",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "quantity",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "quantity",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 203,
+    "images_count": 85,
+    "images_with_alt": 28,
+    "headings": [
+      {
+        "level": 1,
+        "text": "DIY.com homepage"
+      },
+      {
+        "level": 2,
+        "text": "Shop our top big sale offers"
+      },
+      {
+        "level": 2,
+        "text": "Jump straight in"
+      },
+      {
+        "level": 2,
+        "text": "Today we enjoy"
+      },
+      {
+        "level": 2,
+        "text": "Today we gather"
+      },
+      {
+        "level": 2,
+        "text": "Today we transform"
+      },
+      {
+        "level": 3,
+        "text": "All Spring Sale"
+      },
+      {
+        "level": 3,
+        "text": "Paint"
+      },
+      {
+        "level": 3,
+        "text": "Garden power"
+      },
+      {
+        "level": 3,
+        "text": "Sheds"
+      },
+      {
+        "level": 3,
+        "text": "Bathrooms"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "term",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "quantity",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "B&Q corporate",
+      "Careers",
+      "Media centre",
+      "Responsible business",
+      "Business services",
+      "Affiliate program",
+      "Modern slavery act",
+      "View all our services",
+      "Join B&Q club",
+      "B&Q finance",
+      "B&Q bulk delivery",
+      "Become a B&Q approved installer",
+      "Green star",
+      "Our own brands",
+      "Product information",
+      "Product recalls & safety notices",
+      "Health & safety data sheets",
+      "Promotional terms & conditions",
+      "B&Q Marketplace",
+      "Support and contact us"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 31,
+    "has_og_tags": true,
+    "meta_description": "Shop for everything you need to complete your home and garden project. Order online for 1hr Click+Collect, or free home delivery on orders over \u00a375.",
+    "scripts_count": 26
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "B&Q Club membership",
+      "Sell on diy.com feature"
+    ],
+    "confidence": "medium"
+  }
+}

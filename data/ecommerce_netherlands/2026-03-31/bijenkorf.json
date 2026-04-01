@@ -1,0 +1,250 @@
+{
+  "name": "bijenkorf",
+  "url": "https://www.debijenkorf.nl",
+  "scanned_at": "2026-03-31T22:38:28.370962",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/bijenkorf_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/bijenkorf_mobile.png"
+  },
+  "structure": {
+    "title": "de Bijenkorf \u2022 Mode, Cosmetica & Interieur \u2022 Snel in huis",
+    "url_final": "https://www.debijenkorf.nl/",
+    "nav_items": [
+      {
+        "text": "Dames",
+        "href": "/categorie/dames"
+      },
+      {
+        "text": "Outlet",
+        "href": "/l/outlet"
+      },
+      {
+        "text": "Dameshome",
+        "href": "/categorie/dames"
+      },
+      {
+        "text": "Nieuw",
+        "href": "/net-binnen/damesmode"
+      },
+      {
+        "text": "Inspiratie & trends",
+        "href": "/inspiratie/dames"
+      },
+      {
+        "text": "Designer",
+        "href": "/l/designer/damesmode"
+      },
+      {
+        "text": "Cadeaus",
+        "href": "/categorie/cadeaus"
+      },
+      {
+        "text": "Kleding",
+        "href": "/categorie/dames/kleding"
+      },
+      {
+        "text": "Jassen",
+        "href": "/l/damesmode/jassen"
+      },
+      {
+        "text": "Jurken",
+        "href": "/l/damesmode/jurken"
+      },
+      {
+        "text": "Accessoires",
+        "href": "/categorie/dames/accessoires"
+      },
+      {
+        "text": "Schoenen",
+        "href": "/l/damesschoenen"
+      },
+      {
+        "text": "Sneakers",
+        "href": "/categorie/dames/schoenen/sneakers"
+      },
+      {
+        "text": "Tassen",
+        "href": "/l/tassen"
+      },
+      {
+        "text": "Sieraden & horloges",
+        "href": "/categorie/dames/sieraden-horloges"
+      },
+      {
+        "text": "Zonnebrillen",
+        "href": "/categorie/dames/accessoires/zonnebrillen"
+      },
+      {
+        "text": "Cosmetica",
+        "href": "/cosmetica"
+      },
+      {
+        "text": "Outlet",
+        "href": "/outlet/damesmode"
+      },
+      {
+        "text": "Duurzaamheid",
+        "href": "/duurzaamheid/damesmode"
+      },
+      {
+        "text": "Merken",
+        "href": "/merken/dames"
+      }
+    ],
+    "buttons": [
+      "Niet akkoord",
+      "Akkoord",
+      "Nu besteld, donderdag 2 april in huis",
+      "Klantenservice",
+      "menu",
+      "0",
+      "0",
+      "Dames",
+      "Heren",
+      "Kinderen",
+      "Cosmetica",
+      "Wonen & vrije tijd",
+      "Designer",
+      "Cadeaus",
+      "Terug",
+      "Dames",
+      "Heren",
+      "Kinderen",
+      "Cosmetica",
+      "Wonen & vrije tijd",
+      "Designer",
+      "Cadeaus",
+      "Terug"
+    ],
+    "forms": [
+      {
+        "action": "/l/query",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "SearchTerm",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      },
+      {
+        "action": "/l/query",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "SearchTerm",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      }
+    ],
+    "links_count": 197,
+    "images_count": 9,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Home"
+      },
+      {
+        "level": 2,
+        "text": "dbk-components.cookieBar.accessibleTitle"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Besteed je member vouchers en ontvang tot \u20ac200 voordeel\u200b"
+      },
+      {
+        "level": 2,
+        "text": "Dames"
+      },
+      {
+        "level": 2,
+        "text": "Heren"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "SearchTerm",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "search",
+        "name": "SearchTerm",
+        "placeholder": "Waar ben je naar op zoek?"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 23,
+    "has_og_tags": true,
+    "meta_description": "de Bijenkorf is h\u00e9t meest inspirerende, verrassende en creatieve warenhuis. Voel je alledaags bijzonder met de musthaves uit de nieuwe collectie. Snelle bezorging.",
+    "scripts_count": 30
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "High-end designer collections",
+      "Member vouchers with significant discounts"
+    ],
+    "confidence": "high"
+  }
+}

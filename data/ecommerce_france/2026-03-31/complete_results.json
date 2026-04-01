@@ -1,0 +1,6121 @@
+[
+  {
+    "name": "amazon_france",
+    "url": "https://www.amazon.fr",
+    "scanned_at": "2026-03-31T22:21:05.794542",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/amazon_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/amazon_france_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.fr : livres, DVD, jeux vid\u00e9o, musique, high-tech, informatique, jouets, v\u00eatements, chaussures, sport, bricolage, maison, beaut\u00e9, pu\u00e9riculture, \u00e9picerie et plus encore !",
+      "url_final": "https://www.amazon.fr/",
+      "nav_items": [
+        {
+          "text": "Contenu principal",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Rechercheropt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Paniershift+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Accueilshift+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Commandesshift+opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Afficher/masquer les raccourcisshift+opt+Z",
+        "Retour en haut",
+        "Identifiez-vous",
+        "France"
+      ],
+      "forms": [
+        {
+          "action": "/privacyprefs/retail/v3/banner",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "anti-csrftoken-a2z",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "timestamp",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "disclosureDecision",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "privacyCustomerId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "sessionId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userType",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "__mk_fr_FR",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Rechercher Amazon.fr"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 285,
+      "images_count": 132,
+      "images_with_alt": 128,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Passer \u00e0"
+        },
+        {
+          "level": 2,
+          "text": "Raccourcis clavier"
+        },
+        {
+          "level": 2,
+          "text": "Am\u00e9nagez votre maison"
+        },
+        {
+          "level": 2,
+          "text": "Maison et cuisine"
+        },
+        {
+          "level": 2,
+          "text": "Meilleures ventes: -40% \u00e0 partir de 2 articles"
+        },
+        {
+          "level": 3,
+          "text": "Ventes Flash Ebooks Kindle"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "anti-csrftoken-a2z",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "timestamp",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "disclosureDecision",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "privacyCustomerId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "sessionId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "consentTypes",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "__mk_fr_FR",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Rechercher Amazon.fr"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 122,
+      "has_og_tags": false,
+      "meta_description": "Achat et vente en ligne parmi des millions de produits en stock. Livraison gratuite \u00e0 partir de 25\u20ac. Vos articles \u00e0 petits prix : culture, high-tech, mode, jouets, sport, maison et bien plus !",
+      "scripts_count": 119
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "personalized recommendations",
+        "Amazon Prime benefits"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "leboncoin",
+    "url": "https://www.leboncoin.fr",
+    "scanned_at": "2026-03-31T22:21:25.853248",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/leboncoin_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/leboncoin_mobile.png"
+    },
+    "structure": {
+      "title": "leboncoin.fr",
+      "url_final": "https://www.leboncoin.fr/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "N",
+        "add_to_cart": "N",
+        "promo_code": "N",
+        "multiple_payment": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "local classifieds",
+        "user-to-user sales"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "cdiscount",
+    "url": "https://www.cdiscount.com",
+    "scanned_at": "2026-03-31T22:21:45.681029",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/cdiscount_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/cdiscount_mobile.png"
+    },
+    "structure": {
+      "title": "Cdiscount : des prix bas qui ont de la voix !",
+      "url_final": "https://www.cdiscount.com/",
+      "nav_items": [
+        {
+          "text": "Aller au contenu principal",
+          "href": "#main-content"
+        },
+        {
+          "text": "Aller \u00e0 la recherche",
+          "href": "#search"
+        },
+        {
+          "text": "Aller au pied de page",
+          "href": "#footer-scene"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "Menu",
+        "Fermer le menu",
+        "Voir les items pr\u00e9c\u00e9dents",
+        "Voir les items suivants",
+        "Mentions et conditions",
+        "Qu\u2019est-ce qu\u2019un\n    petit colis ?",
+        "Apr\u00e8s combien de\n    jours mes euros cagnott\u00e9s son",
+        "Combien ai-je de\n    temps pour d\u00e9penser ma cagnot",
+        "Contacter le service client",
+        "G\u00e9rer mes cookies",
+        "Continuer sans accepter",
+        "Accepter",
+        "Param\u00e9trer les cookies"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.SiteMapNodeId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.DepartmentId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.ProductId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "hdnPageType",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.ContentTypeId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.SellerId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.PageType",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.LazyLoading.ProductSheets",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "TechnicalForm.BrandLicenseId",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "#",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Qu\u2019est-ce qui vous ferait plaisir ?"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "AlgoFormData.Index",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].ControlId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].ProductId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].SkuList",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].Category",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].SellerId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].Name",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].Algorithm",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].PaginationMode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "AlgoFormData[12726553].Context",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/PSAddBskPS.mvc",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ProductFormData.ProductPostedForm.OfferId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ProductFormData.ProductPostedForm.ProductId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ProductFormData.ProductPostedForm.siteMapNodeId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ProductFormData.ProductPostedForm.RedirectToBackOnAddToBasket",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ProductFormData.ProductPostedForm.SellerId",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 334,
+      "images_count": 135,
+      "images_with_alt": 134,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Les incontournables"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "L'offre du moment"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 3,
+          "text": "Paiement en 4x#"
+        },
+        {
+          "level": 3,
+          "text": "Prix bas toute l'ann\u00e9e"
+        },
+        {
+          "level": 3,
+          "text": "E-commerce engag\u00e9"
+        },
+        {
+          "level": 3,
+          "text": "Livraison sur mesure"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.SiteMapNodeId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.DepartmentId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.ProductId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "hdnPageType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.ContentTypeId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.SellerId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.PageType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.LazyLoading.ProductSheets",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "TechnicalForm.BrandLicenseId",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Qu\u2019est-ce qui vous ferait plaisir ?"
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData.Index",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].ControlId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].ProductId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].SkuList",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].Category",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].SellerId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].Name",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].Algorithm",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].PaginationMode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "AlgoFormData[12726553].Context",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Accueil de l\u2019espace client",
+        "Mon suivi de commande",
+        "Les modes et frais de livraison",
+        "Les moyens de paiement",
+        "Nos engagements RSE",
+        "Devenir vendeur",
+        "Contact service client",
+        "Notifier du contenu illicite",
+        "Rappels de produits",
+        "Qui sommes-nous ?",
+        "Accessibilit\u00e9 num\u00e9rique",
+        "Conditions g\u00e9n\u00e9rales de vente",
+        "Conditions g\u00e9n\u00e9rales d\u2019utilisation marketplace",
+        "Mentions l\u00e9gales",
+        "R\u00e9f\u00e9rencement et classement",
+        "Protection de la vie priv\u00e9e et des cookies",
+        "Eco-participation et reprise",
+        "Rapport de transparence DSA"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 20,
+      "has_og_tags": true,
+      "meta_description": "Des milliers de produits les moins chers du march\u00e9 | Paiement 4X | E-commerce fran\u00e7ais | Livraison sur mesure | Large offre de produits plus responsables",
+      "scripts_count": 95
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "hamburger",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "E-commerce engag\u00e9",
+        "Livraison sur mesure",
+        "Paiement en 4x"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "fnac",
+    "url": "https://www.fnac.com",
+    "scanned_at": "2026-03-31T22:22:08.124803",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/fnac_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/fnac_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.fnac.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive multimedia product offerings",
+        "integrated ticketing services for events"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "darty",
+    "url": "https://www.darty.com",
+    "scanned_at": "2026-03-31T22:22:27.678626",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/darty_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/darty_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.darty.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "integrated services like installation and repair"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "veepee",
+    "url": "https://www.veepee.fr",
+    "scanned_at": "2026-03-31T22:22:46.322123",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/veepee_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/veepee_mobile.png"
+    },
+    "structure": {
+      "title": "Veepee - Accueil",
+      "url_final": "https://www.veepee.fr/gr/home/default",
+      "nav_items": [
+        {
+          "text": "Accueil",
+          "href": "/gr/home/default"
+        },
+        {
+          "text": "Mode",
+          "href": "/gr/h/mode"
+        },
+        {
+          "text": "Voyage",
+          "href": "/gr/voyage/default"
+        },
+        {
+          "text": "Maison",
+          "href": "/gr/h/maison"
+        },
+        {
+          "text": "Enfant",
+          "href": "/gr/h/mode-enfant"
+        },
+        {
+          "text": "Chaussures",
+          "href": "/gr/h/mode-chaussures"
+        },
+        {
+          "text": "Beaut\u00e9",
+          "href": "/gr/h/beaute-et-bien-etre"
+        },
+        {
+          "text": "Sport",
+          "href": "/gr/h/mode-sportswear"
+        },
+        {
+          "text": "Vin et Epicerie",
+          "href": "/gr/h/vin-et-epicerie"
+        },
+        {
+          "text": "Loisir",
+          "href": "/gr/h/loisirs"
+        },
+        {
+          "text": "Rosedealsnew",
+          "href": "/gr/h/rosedeals-coupons"
+        },
+        {
+          "text": "The Place",
+          "href": "/gr/home/brandsplace"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "S'identifier",
+        "S'inscrire",
+        "S'identifier",
+        "S'identifier",
+        "G\u00e9rer mes cookies",
+        "France",
+        "D\u00e9tails des cookies\u200e",
+        "D\u00e9tails des cookies\u200e",
+        "D\u00e9tails des cookies\u200e",
+        "D\u00e9tails des cookies\u200e",
+        "D\u00e9tails des cookies\u200e",
+        "D\u00e9tails des cookies\u200e",
+        "D\u00e9tails des cookies\u200e",
+        "Back Button",
+        "Filter Button",
+        "View Third Party Cookies",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Confirmer la s\u00e9lection"
+      ],
+      "forms": [],
+      "links_count": 77,
+      "images_count": 13,
+      "images_with_alt": 11,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u00c7a va vous plaire"
+        },
+        {
+          "level": 2,
+          "text": "Re-turn"
+        },
+        {
+          "level": 2,
+          "text": "Vous n\u2019avez encore rien vu"
+        },
+        {
+          "level": 2,
+          "text": "On s'habitue vite aux prix doux"
+        },
+        {
+          "level": 2,
+          "text": "Les surprises, c\u2019est notre quotidien"
+        },
+        {
+          "level": 3,
+          "text": "Coup de foudre in\u00e9vitable."
+        },
+        {
+          "level": 3,
+          "text": "Vos retours \u00e0 prix plus doux"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Recherchez une marque, un produit..."
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Recherchez une marque, un produit..."
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Recherchez une marque, un produit..."
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0010",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0008",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0009",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search..."
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Instagram",
+        "Facebook",
+        "Youtube",
+        "iOS",
+        "Android",
+        "Qui sommes-nous ?",
+        "Mentions l\u00e9gales",
+        "Informations r\u00e9glementaires",
+        "Livraison",
+        "Les retours et remboursements",
+        "Les Garanties",
+        "Le paiement",
+        "S\u00e9curit\u00e9",
+        "CGV Veepee",
+        "CGU Veepee",
+        "CGU Veepee Voyage",
+        "CGU Ventes partenaires",
+        "Classement/R\u00e9f\u00e9rencement",
+        "Politique de confidentialit\u00e9",
+        "Mediation"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 48,
+      "has_og_tags": false,
+      "meta_description": "Grandes marques \u00e0 prix discount, ventes priv\u00e9es tous les jours \u00e0 7h et 19h ! Veepee c'est le nouveau site de vente-privee.com. D\u00e9couvrez tous les jours des nouvelles offres de grandes marques et de vo",
+      "scripts_count": 73
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Rosedealsnew section for coupons"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "leroy_merlin_fr",
+    "url": "https://www.leroymerlin.fr",
+    "scanned_at": "2026-03-31T22:23:07.183620",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/leroy_merlin_fr_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/leroy_merlin_fr_mobile.png"
+    },
+    "structure": {
+      "title": "leroymerlin.fr",
+      "url_final": "https://www.leroymerlin.fr/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive DIY project guides",
+        "in-store pickup options",
+        "virtual product demonstrations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "la_redoute",
+    "url": "https://www.laredoute.fr",
+    "scanned_at": "2026-03-31T22:23:26.384549",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/la_redoute_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/la_redoute_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://www.laredoute.fr/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Un c\u0153ur bat en vous."
+        },
+        {
+          "level": 2,
+          "text": "Merci de confirmer que vous n\u2019\u00eates pas un robot."
+        },
+        {
+          "level": 2,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 5
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "strong brand partnerships",
+        "focus on French fashion"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon_france",
+    "url": "https://www.decathlon.fr",
+    "scanned_at": "2026-03-31T22:23:46.879246",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/decathlon_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/decathlon_france_mobile.png"
+    },
+    "structure": {
+      "title": "Decathlon | Chaussures de sport, \u00e9quipements et mat\u00e9riel sportif",
+      "url_final": "https://www.decathlon.fr/",
+      "nav_items": [],
+      "buttons": [
+        "Personnaliser",
+        "Tout accepter",
+        "Effacer",
+        "Tous les sports",
+        "Femme",
+        "Homme",
+        "Enfant & b\u00e9b\u00e9",
+        "Equipements & loisirs",
+        "Nutrition & Sant\u00e9",
+        "Seconde vie",
+        "Bons plans",
+        "Services et voyages",
+        "Connaissez-vous le service de location ?",
+        "Toutes nos solutions de r\u00e9paration",
+        "On rach\u00e8te votre ancien mat\u00e9riel.",
+        "G\u00e9rer mes cookies",
+        "Edit"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Rechercher"
+            }
+          ]
+        }
+      ],
+      "links_count": 250,
+      "images_count": 61,
+      "images_with_alt": 33,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "\u00c0 partir de 7\u20ac/mois*"
+        },
+        {
+          "level": 2,
+          "text": "Pour prolonger votre aventure"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 3,
+          "text": "Connaissez-vous le service de location ?"
+        },
+        {
+          "level": 3,
+          "text": "Toutes nos solutions de r\u00e9paration"
+        },
+        {
+          "level": 3,
+          "text": "On rach\u00e8te votre ancien mat\u00e9riel."
+        },
+        {
+          "level": 3,
+          "text": "Notre entreprise"
+        },
+        {
+          "level": 3,
+          "text": "Besoin d'aide ?"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Rechercher"
+        }
+      ],
+      "footer_links": [
+        "Livraison offerteEn magasin et point relais (1) (2",
+        "Retrait offert 1hen magasin (1)",
+        "Retours & \u00e9changesofferts 365 jours (1)",
+        "Service client\u00e0 votre \u00e9coute",
+        "T\u00e9l\u00e9chargez notre application",
+        "Compte fid\u00e9lit\u00e9",
+        "Qui sommes-nous ?",
+        "Nos magasins",
+        "Recrutement",
+        "Presse et actualit\u00e9",
+        "La vie de nos produits",
+        "Engagements durables",
+        "Fondation Decathlon",
+        "Decathlon Pulse",
+        "Decathlon Lab",
+        "Modes de livraison"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 77,
+      "has_og_tags": false,
+      "meta_description": "Plus de 70 sports en magasin et en ligne. Livraison offerte sur certains achats en ligne et sur l'application. Click & Collect gratuit en magasin.\u2026",
+      "scripts_count": 158
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Service de location",
+        "Solutions de r\u00e9paration",
+        "Rachat de mat\u00e9riel ancien"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "boulanger",
+    "url": "https://www.boulanger.com",
+    "scanned_at": "2026-03-31T22:24:07.423282",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/boulanger_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/boulanger_mobile.png"
+    },
+    "structure": {
+      "title": "Invalid URL",
+      "url_final": "https://www.boulanger.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Invalid URL"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "in-store pickup options",
+        "integrated smart home solutions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "carrefour_france",
+    "url": "https://www.carrefour.fr",
+    "scanned_at": "2026-03-31T22:24:25.473159",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/carrefour_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/carrefour_france_mobile.png"
+    },
+    "structure": {
+      "title": "Carrefour : Magasins et Courses en ligne (Drive, Livraison \u00e0 Domicile)",
+      "url_final": "https://www.carrefour.fr/",
+      "nav_items": [
+        {
+          "text": "Catalogues",
+          "href": "/catalogue"
+        },
+        {
+          "text": "Catalogues",
+          "href": "/catalogue"
+        },
+        {
+          "text": "Promotions",
+          "href": "/promotions"
+        },
+        {
+          "text": "Act for Food",
+          "href": "/engagements/act-for-food"
+        },
+        {
+          "text": "Nouveaut\u00e9s du mois",
+          "href": "/boutique/nouveaute-du-mois"
+        },
+        {
+          "text": "P\u00e2ques",
+          "href": "/evenements/paques"
+        },
+        {
+          "text": "Mon march\u00e9 frais",
+          "href": "/boutique/le-marche-carrefour"
+        },
+        {
+          "text": "Fruits et L\u00e9gumes",
+          "href": "/r/fruits-et-legumes"
+        },
+        {
+          "text": "Viandes et Poissons",
+          "href": "/r/viandes-et-poissons"
+        },
+        {
+          "text": "Cr\u00e8merie et Produits laitiers",
+          "href": "/r/cremerie"
+        },
+        {
+          "text": "Charcuterie et Traiteur",
+          "href": "/r/charcuterie-traiteur"
+        },
+        {
+          "text": "Surgel\u00e9s",
+          "href": "/r/surgeles"
+        },
+        {
+          "text": "B\u00e9b\u00e9",
+          "href": "/r/bebe"
+        },
+        {
+          "text": "Epicerie sucr\u00e9e",
+          "href": "/r/epicerie-sucree"
+        },
+        {
+          "text": "Epicerie sal\u00e9e",
+          "href": "/r/epicerie-salee"
+        },
+        {
+          "text": "Boissons",
+          "href": "/r/boissons"
+        },
+        {
+          "text": "Pains et P\u00e2tisseries",
+          "href": "/r/pains-et-patisseries"
+        },
+        {
+          "text": "Bio et Ecologie",
+          "href": "/r/bio-et-ecologie"
+        },
+        {
+          "text": "Entretien et Nettoyage",
+          "href": "/r/entretien-et-nettoyage"
+        },
+        {
+          "text": "Hygi\u00e8ne et Beaut\u00e9",
+          "href": "/r/hygiene-et-beaute"
+        }
+      ],
+      "buttons": [
+        "DriveRetrait gratuit en\u00a0magasin",
+        "LivraisonVotre plein de course en\u00a024h",
+        "Livraison ExpressVos courses livr\u00e9es en\u00a01h",
+        "Faire mes courses",
+        "Acheter",
+        "337g",
+        "Acheter",
+        "350g",
+        "Acheter",
+        "337g",
+        "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+        "Acheter",
+        "180g",
+        "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+        "Acheter",
+        "200g",
+        "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+        "Acheter",
+        "350g",
+        "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+        "Acheter",
+        "180g",
+        "Ouvrir description de la promotionLe 2\u00e8me \u00e0 -50%",
+        "Acheter",
+        "180g"
+      ],
+      "forms": [
+        {
+          "action": "/s",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Pain, lait, oeufs..."
+            }
+          ]
+        }
+      ],
+      "links_count": 242,
+      "images_count": 73,
+      "images_with_alt": 46,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Bienvenue chez Carrefour"
+        },
+        {
+          "level": 2,
+          "text": "Courses du quotidien"
+        },
+        {
+          "level": 2,
+          "text": "Maison & loisirs"
+        },
+        {
+          "level": 2,
+          "text": "La s\u00e9lection du moment"
+        },
+        {
+          "level": 2,
+          "text": "Nos top rayons"
+        },
+        {
+          "level": 2,
+          "text": "Nos services"
+        },
+        {
+          "level": 3,
+          "text": "Assortiment de Chocolats Lait Fourr\u00e9s LINDT"
+        },
+        {
+          "level": 3,
+          "text": "\u0152ufs Chocolat Lait Noir et Blanc Assortiment Lindor LINDT"
+        },
+        {
+          "level": 3,
+          "text": "Bouch\u00e9es de Chocolat Lait Noir et Blanc Assortiment Lindor LINDT"
+        },
+        {
+          "level": 3,
+          "text": "\u0152ufs Chocolat Lait Noir et Blanc Fourr\u00e9s Lindor LINDT"
+        },
+        {
+          "level": 3,
+          "text": "Bouch\u00e9es de Chocolat Lait Lindor LINDT"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Pain, lait, oeufs..."
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Pain"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Lait"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Oeufs"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Trouver un magasin",
+        "Obtenir de l'aide",
+        "T\u00e9l\u00e9charger l'application",
+        "Consulter la FAQ",
+        "Promotions",
+        "Ch\u00e8ques diff\u00e9r\u00e9s",
+        "Ramadan 2026",
+        "Saint Patrick",
+        "MacBook Neo",
+        "PC Portable Asus",
+        "Tondeuse Babyliss",
+        "TV Samsung",
+        "Aspirateur Tineco",
+        "Nintendo Switch 2",
+        "PlayStation 5",
+        "iPhone 17",
+        "Matelas Emma",
+        "Cafeti\u00e8res Senseo",
+        "Samsung Galaxy S26",
+        "Lego Minecraft"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 167,
+      "has_og_tags": true,
+      "meta_description": "Faites vos Courses sur Carrefour.fr et retrouvez des milliers de produits au meilleur prix dans vos Magasins, en retrait Drive ou en Livraison \u00e0 Domicile. Toutes les infos magasins, catalogues, servic",
+      "scripts_count": 20
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Drive and express delivery options",
+        "Act for Food initiative"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "auchan",
+    "url": "https://www.auchan.fr",
+    "scanned_at": "2026-03-31T22:24:48.990971",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/auchan_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/auchan_mobile.png"
+    },
+    "structure": {
+      "title": "Auchan. Promos, infos drives et magasins, courses en ligne livr\u00e9es \u00e0 domicile.",
+      "url_final": "https://www.auchan.fr/",
+      "nav_items": [
+        {
+          "text": "Promos",
+          "href": "/boutique/promos"
+        },
+        {
+          "text": "Foire aux vins** de printemps",
+          "href": "/foire-aux-vins/ca-b201904021858"
+        },
+        {
+          "text": "Repas de P\u00e2ques",
+          "href": "/repas-de-paques/ca-b202215031130"
+        },
+        {
+          "text": "Chocolats de P\u00e2ques",
+          "href": "/epicerie-sucree/chocolats-confiseries/chocolats-oeufs-de-paques/ca-n050709"
+        },
+        {
+          "text": "Nos marques Auchan",
+          "href": "/marques-auchan/ep-marques-auchan"
+        },
+        {
+          "text": "Service traiteur",
+          "href": "/charcuterie-traiteur-pain/service-traiteur-sur-commande/ca-n120211"
+        },
+        {
+          "text": "Les halles d'Auchan",
+          "href": "/les-halles-d-auchan/ca-b202209050930"
+        },
+        {
+          "text": "Produits laitiers, oeufs, fromages",
+          "href": "/oeufs-produits-laitiers/ca-n01"
+        },
+        {
+          "text": "Fruits, l\u00e9gumes",
+          "href": "/fruits-legumes/ca-n03"
+        },
+        {
+          "text": "Boucherie, volaille, poissonnerie",
+          "href": "/boucherie-volaille-poissonnerie/ca-n02"
+        },
+        {
+          "text": "Charcuterie, traiteur",
+          "href": "/charcuterie-traiteur-pain/ca-n12"
+        },
+        {
+          "text": "Pain, p\u00e2tisserie",
+          "href": "/pain-patisserie/ca-n1203"
+        },
+        {
+          "text": "Surgel\u00e9s",
+          "href": "/surgeles/ca-n04"
+        },
+        {
+          "text": "Epicerie sucr\u00e9e",
+          "href": "/epicerie-sucree/ca-n05"
+        },
+        {
+          "text": "Epicerie sal\u00e9e",
+          "href": "/epicerie-salee/ca-n06"
+        },
+        {
+          "text": "Eaux, jus, soda, th\u00e9s glac\u00e9s",
+          "href": "/boissons-sans-alcool/ca-n13"
+        },
+        {
+          "text": "Vins, bi\u00e8res, alcools",
+          "href": "/vins-bieres-alcool/ca-n07"
+        },
+        {
+          "text": "Hygi\u00e8ne, beaut\u00e9",
+          "href": "/hygiene-beaute-parapharmacie/ca-n09"
+        },
+        {
+          "text": "Entretien, accessoires de la maison",
+          "href": "/entretien-maison/ca-n10"
+        },
+        {
+          "text": "Tout pour b\u00e9b\u00e9",
+          "href": "/bebe/ca-n08"
+        }
+      ],
+      "buttons": [
+        "Choisir vos courses",
+        "Me connecter",
+        "Rayons",
+        "Recherche",
+        "Lancer la recherche",
+        "Annuler",
+        "Fermer le menu de navigation",
+        "Choisir un drive ou la livraisonC'est vous qui d\u00e9c",
+        "Diapositive pr\u00e9c\u00e9dente - Les catalogues du moment",
+        "Diapositive suivante - Les catalogues du moment",
+        "Besoin d'aide\u00a0?",
+        "Nos services",
+        "\u00c0 propos d'Auchan",
+        "Voir plus",
+        "Liste de nos partenaires (fournisseurs)",
+        "Afficher toutes les finalit\u00e9s",
+        "Tout refuser",
+        "J'accepte",
+        "Continuer sans accepter",
+        "Tout autoriser",
+        "D\u00e9tails du fournisseur",
+        "D\u00e9tails du fournisseur",
+        "D\u00e9tails du fournisseur"
+      ],
+      "forms": [
+        {
+          "action": "/recherche",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "text",
+              "placeholder": "Rechercher un produit..."
+            }
+          ]
+        }
+      ],
+      "links_count": 248,
+      "images_count": 85,
+      "images_with_alt": 43,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Nos rayons"
+        },
+        {
+          "level": 2,
+          "text": "En ce moment"
+        },
+        {
+          "level": 2,
+          "text": "Mes courses"
+        },
+        {
+          "level": 2,
+          "text": "Maison & Loisirs"
+        },
+        {
+          "level": 2,
+          "text": "Les catalogues du moment"
+        },
+        {
+          "level": 3,
+          "text": "Paiement 3x ou 4x Oney"
+        },
+        {
+          "level": 3,
+          "text": "Auchan Photo"
+        },
+        {
+          "level": 3,
+          "text": "Auchan Billetterie"
+        },
+        {
+          "level": 3,
+          "text": "Service Auchan traiteur"
+        },
+        {
+          "level": 3,
+          "text": "Auchan telecom"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "text",
+          "placeholder": "Rechercher un produit..."
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-IAB2V2_1",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-V2STACK42",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-ISF2V2_1",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-ISF2V2_2",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Rechercher des fournisseurs"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Vos courses \u00e0 domicile, en drive ou click & collec",
+        "Service client 7j/703\u00a059\u00a030\u00a059\u00a0308h>21h, dimanche "
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 91,
+      "has_og_tags": false,
+      "meta_description": "Pour les courses ou le shopping, un vaste choix de produits \u00e0 petit prix livr\u00e9s en drive, \u00e0 domicile, en magasin, en consigne ou en point relais. Infos sur nos magasins.",
+      "scripts_count": 85
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "Y",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Service Auchan traiteur",
+        "Auchan telecom"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "ikea_france",
+    "url": "https://www.ikea.com/fr/fr/",
+    "scanned_at": "2026-03-31T22:25:08.009092",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/ikea_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/ikea_france_mobile.png"
+    },
+    "structure": {
+      "title": "Mobilier et d\u00e9corations - Int\u00e9rieur et ext\u00e9rieur - IKEA",
+      "url_final": "https://www.ikea.com/fr/fr/",
+      "nav_items": [
+        {
+          "text": "Produits",
+          "href": "https://www.ikea.com/fr/fr/cat/produits-products/"
+        },
+        {
+          "text": "Pi\u00e8ces",
+          "href": "https://www.ikea.com/fr/fr/rooms/"
+        },
+        {
+          "text": "Bonnes affaires",
+          "href": "https://www.ikea.com/fr/fr/offers/"
+        },
+        {
+          "text": "Conception",
+          "href": "https://www.ikea.com/fr/fr/ideas/"
+        },
+        {
+          "text": "Services",
+          "href": "https://www.ikea.com/fr/fr/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Effacer le champ de recherche",
+        "Rechercher",
+        "Mettre la vid\u00e9o en pause",
+        "Prix baiss\u00e9",
+        "Offres Outlet",
+        "Notre prix le plus bas",
+        "R\u00e9vision: 4.7 hors de 5 \u00e9toiles. Nombre total de c",
+        "R\u00e9vision: 4.1 hors de 5 \u00e9toiles. Nombre total de c",
+        "R\u00e9vision: 4.5 hors de 5 \u00e9toiles. Nombre total de c",
+        "R\u00e9vision: 4.3 hors de 5 \u00e9toiles. Nombre total de c",
+        "R\u00e9vision: 4.6 hors de 5 \u00e9toiles. Nombre total de c"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/fr/fr/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Que cherchez-vous ?"
+            }
+          ]
+        }
+      ],
+      "links_count": 210,
+      "images_count": 126,
+      "images_with_alt": 86,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Rafra\u00eechissez votre int\u00e9rieur \u00e0 petit prix !"
+        },
+        {
+          "level": 2,
+          "text": "Un ext\u00e9rieur qui sent bon le printemps"
+        },
+        {
+          "level": 2,
+          "text": "Toutes nos bonnes affaires"
+        },
+        {
+          "level": 2,
+          "text": "C'est nouveau chez IKEA !"
+        },
+        {
+          "level": 2,
+          "text": "On oublie tout en cuisinant."
+        },
+        {
+          "level": 2,
+          "text": "De l'inspiration pour chaque pi\u00e8ce"
+        },
+        {
+          "level": 3,
+          "text": "Profitez des beaux jours avec nos nouveaut\u00e9s !"
+        },
+        {
+          "level": 3,
+          "text": "IKEA 365+Verre \u00e0 pied, verre transparent, 30 cl"
+        },
+        {
+          "level": 3,
+          "text": "ANNONSBatterie de cuisine, 3 pi\u00e8ces, verre/acier inoxydable"
+        },
+        {
+          "level": 3,
+          "text": "LYCKSELE L\u00d6V\u00c5SChauffeuse convertible, Ransta naturel"
+        },
+        {
+          "level": 3,
+          "text": "NYSJ\u00d6NColonne, blanc, 30x190 cm"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Que cherchez-vous ?"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59386967-ccd5cf-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59386967-ccd5cf-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59386967-ccd5cf-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59386967-ccd5cf-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59386967-ccd5cf-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-60233426-ccd5cf-P0-4",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-60233426-ccd5cf-P0-4",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s99387007-ccd5cf-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s99387007-ccd5cf-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s99387007-ccd5cf-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s99387007-ccd5cf-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s99387007-ccd5cf-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89425910-ccd5cf-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89425910-ccd5cf-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89425910-ccd5cf-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89425910-ccd5cf-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89425910-ccd5cf-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s89425910-ccd5cf-P0-6",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "D\u00e9couvrir IKEA Family",
+        "Rejoindre ou se connecter",
+        "D\u00e9couvrir le R\u00e9seau IKEA Pro",
+        "Rejoindre ou se connecter",
+        "Outils de conception",
+        "Notre app IKEA",
+        "Demande de facture",
+        "Demande de visserie",
+        "Carte cadeau et cagnotte",
+        "Objets trouv\u00e9s en magasin",
+        "Besoin d'aide",
+        "FAQ",
+        "Suivre et g\u00e9rer ma commande",
+        "Contactez-nous",
+        "Signaler un probl\u00e8me de s\u00e9curit\u00e9 produit",
+        "Nos magasins",
+        "Manger chez IKEA",
+        "Voici IKEA",
+        "Espace de presse",
+        "Travailler chez IKEA"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 94,
+      "has_og_tags": true,
+      "meta_description": "Le n\u00b01 du mobilier et de la d\u00e9coration en France \u2192 D\u00e9couvrez nos produits, inspirations et conseils d\u2019am\u00e9nagement pour grands r\u00eaves et petits budgets",
+      "scripts_count": 54
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "IKEA Family membership benefits",
+        "Design tools for room planning"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zalando_france",
+    "url": "https://www.zalando.fr",
+    "scanned_at": "2026-03-31T22:25:29.855103",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/zalando_france_desktop.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.zalando.fr/",
+      "nav_items": [],
+      "buttons": [
+        "Actualiser",
+        "Signaler le probl\u00e8me"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Toutes les cabines d'essayage sont prises"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 30
+    },
+    "errors": [
+      "mobile: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.zalando.fr/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive size variant selector",
+        "personalized recommendations based on browsing history"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sephora_france",
+    "url": "https://www.sephora.fr",
+    "scanned_at": "2026-03-31T22:26:14.212933",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/sephora_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/sephora_france_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sephora.fr/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive beauty product range",
+        "exclusive brand collaborations",
+        "beauty community features"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "cultura",
+    "url": "https://www.cultura.com",
+    "scanned_at": "2026-03-31T22:26:33.106281",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/cultura_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/cultura_mobile.png"
+    },
+    "structure": {
+      "title": "cultura.com",
+      "url_final": "https://www.cultura.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive cultural and creative product range",
+        "in-store event booking"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "maisons_du_monde",
+    "url": "https://www.maisonsdumonde.com",
+    "scanned_at": "2026-03-31T22:26:53.090031",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/maisons_du_monde_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/maisons_du_monde_mobile.png"
+    },
+    "structure": {
+      "title": "maisonsdumonde.com",
+      "url_final": "https://www.maisonsdumonde.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "inspirational room ideas"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "conforama",
+    "url": "https://www.conforama.fr",
+    "scanned_at": "2026-03-31T22:27:11.697163",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/conforama_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/conforama_mobile.png"
+    },
+    "structure": {
+      "title": "Conforama : meuble, cuisine, \u00e9lectrom\u00e9nager, d\u00e9coration",
+      "url_final": "https://www.conforama.fr/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Une question ?",
+          "href": "/service/contact/a-votre-ecoute"
+        },
+        {
+          "text": "Nos Promotions",
+          "href": "/boutique/boutique-promotions"
+        },
+        {
+          "text": "Destockage",
+          "href": "/boutique/boutique-destockage"
+        },
+        {
+          "text": "Nos Promotions",
+          "href": "/boutique/boutique-promotions"
+        },
+        {
+          "text": "Canap\u00e9 Salon S\u00e9jour",
+          "href": "/canape-salon-sejour/c/02"
+        },
+        {
+          "text": "Canap\u00e9",
+          "href": "/canape-salon-sejour/canape/c/0201"
+        },
+        {
+          "text": "Tous les canap\u00e9s",
+          "href": "/canape-salon-sejour/canape/tous-les-canapes/c/020117"
+        },
+        {
+          "text": "Canap\u00e9 droit",
+          "href": "/canape-salon-sejour/canape/canape-droit/c/020101"
+        },
+        {
+          "text": "Canap\u00e9 d'angle",
+          "href": "/canape-salon-sejour/canape/canape-d-angle/c/020111"
+        },
+        {
+          "text": "Canap\u00e9 convertible",
+          "href": "/canape-salon-sejour/canape/canape-convertible/c/020112"
+        },
+        {
+          "text": "Canap\u00e9 relax",
+          "href": "/canape-salon-sejour/canape/canape-relax/c/020113"
+        },
+        {
+          "text": "Canap\u00e9 cuir",
+          "href": "/canape-salon-sejour/canape/canape-cuir/c/020114"
+        },
+        {
+          "text": "Canap\u00e9 tissu",
+          "href": "/canape-salon-sejour/canape/canape-tissu/c/020115"
+        },
+        {
+          "text": "Housse de canap\u00e9",
+          "href": "/canape-salon-sejour/canape/housse-et-structure-de-canape/c/020104"
+        },
+        {
+          "text": "Canap\u00e9 made in France",
+          "href": "/canape-salon-sejour/canape/canape-made-in-france/c/020403"
+        },
+        {
+          "text": "Bobochic x Conforama",
+          "href": "/bobochic"
+        },
+        {
+          "text": "Lomoco",
+          "href": "/lomoco"
+        },
+        {
+          "text": "Bien choisir son canap\u00e9",
+          "href": "/guide-achat-canape-accueil"
+        },
+        {
+          "text": "Par Taille",
+          "href": "/canape-salon-sejour/par-taille/c/0202"
+        }
+      ],
+      "buttons": [
+        "Produits",
+        "Canap\u00e9 Salon S\u00e9jour",
+        "Bureau Rangement",
+        "Chambre Literie",
+        "Cuisine Salle de bain",
+        "D\u00e9coration Textile",
+        "Enfant B\u00e9b\u00e9",
+        "Gros Electrom\u00e9nager",
+        "Petit Electrom\u00e9nager",
+        "TV Son Multim\u00e9dia",
+        "Jardin Loisirs Sport",
+        "Le Bon Plan",
+        "Exclu Web",
+        "Top Confo",
+        "Le moins cher",
+        "Prix Confo +",
+        "Meilleures Notes"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Rechercher un meuble, de la d\u00e9coration, de l'\u00e9lect"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Email"
+            }
+          ]
+        }
+      ],
+      "links_count": 811,
+      "images_count": 211,
+      "images_with_alt": 207,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "S\u00e9lectionConforama"
+        },
+        {
+          "level": 2,
+          "text": "Nos marques exclusives"
+        },
+        {
+          "level": 2,
+          "text": "Nos coups de c\u0153ur partenaires"
+        },
+        {
+          "level": 2,
+          "text": "Nos marques"
+        },
+        {
+          "level": 2,
+          "text": "Nos s\u00e9lections incontournables"
+        },
+        {
+          "level": 3,
+          "text": "Ameublement"
+        },
+        {
+          "level": 3,
+          "text": "Canap\u00e9s et Fauteuils"
+        },
+        {
+          "level": 3,
+          "text": "\u00c9quiper sa maison"
+        },
+        {
+          "level": 3,
+          "text": "Nos clients recherchent"
+        },
+        {
+          "level": 3,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Rechercher un meuble, de la d\u00e9coration, de l'\u00e9lect"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Retrait gratuit en magasin",
+        "Livraison \u00e0 domicile",
+        "Extensions de garantie",
+        "Location de camionnette",
+        "Outil de conception cuisine",
+        "Paiement plusieurs fois",
+        "Cartes cadeaux",
+        "Carte Confo+",
+        "Tous nos services",
+        "Service apr\u00e8s vente",
+        "Une question ?",
+        "Contactez-nous",
+        "Trouver un magasin",
+        "Signalez un contenu (DSA)",
+        "Pi\u00e8ces d\u00e9tach\u00e9es",
+        "Le catalogue",
+        "Code promo",
+        "Offres de remboursement",
+        "Conseils et astuces",
+        "Fonctionnement Marketplace"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 194,
+      "has_og_tags": false,
+      "meta_description": "Achat en ligne et en magasins de meubles, canap\u00e9s, literie, cuisine, d\u00e9coration, \u00e9lectrom\u00e9nager, image et son, jardin et loisirs et bien plus. Tout pour la maison sur Conforama.fr !",
+      "scripts_count": 159
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive product categories",
+        "In-store pickup option"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "but",
+    "url": "https://www.but.fr",
+    "scanned_at": "2026-03-31T22:27:34.117453",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/but_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/but_mobile.png"
+    },
+    "structure": {
+      "title": "Magasins BUT : achat meubles (canap\u00e9, lit, matelas, table, salon et bureau), achat \u00e9lectrom\u00e9nager, Tv et Hi-Fi - le design pas cher.",
+      "url_final": "https://www.but.fr/",
+      "nav_items": [
+        {
+          "text": "NOS EXCLUS WEB",
+          "href": "/themes/produits-exclusifs-internet/index-c10504.html"
+        },
+        {
+          "text": "TOUTES VOS CUISINES \u00c0 -40%",
+          "href": "https://www.but-cuisines.fr/collection-cuisine-signature-design"
+        },
+        {
+          "text": "LES OFFRES DU PRINTEMPS JUSQU'\u00c0 -30%",
+          "href": "/themes/home-collection-toute-la-selection/index-c536304.html"
+        },
+        {
+          "text": "PRIX BAISS\u00c9S",
+          "href": "/themes/prix-en-baisse/index-c1179200.html"
+        },
+        {
+          "text": "NOS OFFRES PARTENAIRES",
+          "href": "/themes/selection-mkp/index-c342856.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/themes/nouveautes/index-c1543220.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/mobilier/canape-fauteuil/index-b11545.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/mobilier/index-a10316.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/chambre-literie/matelas/index-b11475.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/chambre-literie/index-a10317.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/cuisine/index-a10315.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/jardin/index-a10324.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/electromenager/index-a10322.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/electromenager/lave-linge/index-b11065.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/cuisine-et-cuisson/index-a1543223.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/tv-image-et-son/index-a10325.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/decoration/index-a10320.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/entretien-de-la-maison-traitement-de-l-air/index-a1543224.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/salle-de-bain/index-a10318.html"
+        },
+        {
+          "text": "Tout l'univers",
+          "href": "/puericulture/index-a10319.html"
+        }
+      ],
+      "buttons": [
+        "Saisir un code postal",
+        "Choisir un magasin",
+        "Menu",
+        "Nouveaut\u00e9s",
+        "Canap\u00e9",
+        "Mobilier",
+        "Matelas",
+        "Chambre - Literie",
+        "Cuisine",
+        "Jardin",
+        "Gros \u00e9lectrom\u00e9nager",
+        "Lave-linge"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "email",
+              "placeholder": "Votre adresse e-mail"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "HEADER_SHIPPING_BLOC_zipCodeSearch",
+              "placeholder": "Code postal ou ville"
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "header_zipCodeSearch",
+              "placeholder": "Code postal ou ville"
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "layerLoginEmail",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 256,
+      "images_count": 14,
+      "images_with_alt": 14,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Inscrivez-vous \u00e0 notreNewsletter"
+        },
+        {
+          "level": 2,
+          "text": "Suivez-nous sur les r\u00e9seaux\u00a0!"
+        },
+        {
+          "level": 2,
+          "text": "Achat Meubles, Electrom\u00e9nager, TV Son et High Tech, Matelas et sommiers, Cuisine"
+        },
+        {
+          "level": 2,
+          "text": "Nos produits Meubles, Electrom\u00e9nager"
+        },
+        {
+          "level": 2,
+          "text": "Meuble Salon"
+        },
+        {
+          "level": 3,
+          "text": "Canap\u00e9"
+        },
+        {
+          "level": 3,
+          "text": "Canap\u00e9 convertible"
+        },
+        {
+          "level": 3,
+          "text": "Fauteuil"
+        },
+        {
+          "level": 3,
+          "text": "Mobilier chambre adulte"
+        },
+        {
+          "level": 3,
+          "text": "Meubles chambre enfant"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Rechercher un produit, un magasin..."
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": "Votre adresse e-mail"
+        },
+        {
+          "type": "text",
+          "name": "HEADER_SHIPPING_BLOC_zipCodeSearch",
+          "placeholder": "Code postal ou ville"
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "header_zipCodeSearch",
+          "placeholder": "Code postal ou ville"
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "layerLoginEmail",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Click and collect",
+        "Livraison \u00e0 domicile",
+        "Aide & contact",
+        "Ma carte BUT",
+        "Retour achats",
+        "R\u00e9glez avec la Carte BUT CPAY MASTERCARD",
+        "Cartes cadeaux BUT et ch\u00e8ques partenaires",
+        "Retrait gratuit",
+        "Livraison et montage",
+        "Location de camionnette",
+        "SAV",
+        "Reprise",
+        "Recyclage et reprise Mobilier",
+        "Recyclage et reprise Electrom\u00e9nager",
+        "N\u00b0Registre de suivi Ademe/Ecomobilier"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 7,
+      "has_og_tags": false,
+      "meta_description": "Retrouvez tout l'\u00e9quipement de la maison dans vos magasins BUT : achat meubles ( canap\u00e9, lit, matelas, table, salon et bureau ), \u00e9lectrom\u00e9nager, d\u00e9coration, Tv et Hi-Fi, multimedia.",
+      "scripts_count": 84
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "N",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Click and collect",
+        "Livraison \u00e0 domicile",
+        "Recyclage et reprise Mobilier"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "kiabi",
+    "url": "https://www.kiabi.com",
+    "scanned_at": "2026-03-31T22:27:52.909352",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/kiabi_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/kiabi_mobile.png"
+    },
+    "structure": {
+      "title": "kiabi.com",
+      "url_final": "https://www.kiabi.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive size variant selector",
+        "personalized recommendations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_france",
+    "url": "https://www.zara.com/fr/",
+    "scanned_at": "2026-03-31T22:28:11.440063",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/zara_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/zara_france_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/fr/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast fashion updates",
+        "sustainability initiatives"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "handm_france",
+    "url": "https://www2.hm.com/fr_fr/",
+    "scanned_at": "2026-03-31T22:28:30.068678",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/handm_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/handm_france_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/fr_fr/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "sustainable fashion collections",
+        "conscious choice products"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "galeries_lafayette",
+    "url": "https://www.galerieslafayette.com",
+    "scanned_at": "2026-03-31T22:28:48.720396",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/galeries_lafayette_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/galeries_lafayette_mobile.png"
+    },
+    "structure": {
+      "title": "Boutique en ligne : mode, maison et beaut\u00e9 | Galeries Lafayette",
+      "url_final": "https://www.galerieslafayette.com/",
+      "nav_items": [],
+      "buttons": [
+        "Acc\u00e9der \u00e0\u00a0: En-t\u00eate",
+        "Acc\u00e9der \u00e0\u00a0: Contenu principal",
+        "Acc\u00e9der \u00e0\u00a0: Pied de page",
+        "R\u00e9initialiser la recherche",
+        "Lancer la recherche",
+        "Annuler",
+        "Mettre en pause la vid\u00e9o",
+        "Mettre en pause la vid\u00e9o",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris",
+        "Retirer des favoris"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Marques, cat\u00e9gories, articles\u2026"
+            }
+          ]
+        }
+      ],
+      "links_count": 98,
+      "images_count": 51,
+      "images_with_alt": 38,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Page d\u2019accueil des Galeries Lafayette"
+        },
+        {
+          "level": 1,
+          "text": "Toutes les collections"
+        },
+        {
+          "level": 2,
+          "text": "Les 3J"
+        },
+        {
+          "level": 2,
+          "text": "Femme"
+        },
+        {
+          "level": 2,
+          "text": "Homme"
+        },
+        {
+          "level": 2,
+          "text": "Enfant"
+        },
+        {
+          "level": 2,
+          "text": "Beaut\u00e9"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Marques, cat\u00e9gories, articles\u2026"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 53,
+      "has_og_tags": false,
+      "meta_description": "D\u00e9couvrez nos larges collections de v\u00eatements et chaussures femme, homme et enfant sur GaleriesLafayette.com. Plus de 2000 marques. Livraison Gratuite en magasin.",
+      "scripts_count": 13
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Les 3J sales event",
+        "Extensive luxury brand offerings"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sarenza",
+    "url": "https://www.sarenza.com",
+    "scanned_at": "2026-03-31T22:29:07.967339",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/sarenza_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/sarenza_mobile.png"
+    },
+    "structure": {
+      "title": "Chaussures, V\u00eatements & Sacs | Sarenza La boutique de mode",
+      "url_final": "https://www.sarenza.com/",
+      "nav_items": [
+        {
+          "text": "Promo",
+          "href": "/fr/fr/promo/femme-promo3femme/"
+        },
+        {
+          "text": "Nouveaut\u00e9s",
+          "href": "/fr/fr/femme/nouveautes-nouveautesfemme/"
+        },
+        {
+          "text": "Chaussures",
+          "href": "/fr/fr/femme/chaussures-14/"
+        },
+        {
+          "text": "V\u00eatements",
+          "href": "/fr/fr/femme/vetements-10/"
+        },
+        {
+          "text": "Lingerie",
+          "href": "/fr/fr/femme/lingerie-11/"
+        },
+        {
+          "text": "Sacs et accessoires",
+          "href": "/fr/fr/femme/sacs-et-valises-15/"
+        },
+        {
+          "text": "Premium",
+          "href": "/fr/fr/page-viewer/premium-femme/"
+        },
+        {
+          "text": "Sport",
+          "href": "/fr/fr/page-viewer/landing-sport-women/"
+        },
+        {
+          "text": "Marques",
+          "href": "/fr/fr/brand-categories-page/?gender=femme"
+        }
+      ],
+      "buttons": [
+        "Annuler",
+        "Aide",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Que recherchez-vous ?"
+            }
+          ]
+        }
+      ],
+      "links_count": 88,
+      "images_count": 85,
+      "images_with_alt": 55,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "-10% SUPP d\u00e8s 100\u20ac* | code : POUSSIN"
+        },
+        {
+          "level": 2,
+          "text": "Les marques du moment"
+        },
+        {
+          "level": 2,
+          "text": "Tamaris"
+        },
+        {
+          "level": 2,
+          "text": "Un air de printemps"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Que recherchez-vous ?"
+        },
+        {
+          "type": "radio",
+          "name": "radio-:r7:",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "radio-:r7:",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": " "
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 70,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 18
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive brand selection",
+        "Frequent promotions"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "temu_france",
+    "url": "https://www.temu.com/fr",
+    "scanned_at": "2026-03-31T22:29:27.326148",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/temu_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/temu_france_mobile.png"
+    },
+    "structure": {
+      "title": "V\u00e9rification de s\u00e9curit\u00e9",
+      "url_final": "https://www.temu.com/bgn_verification.html?verifyCode=E5YKKBWocq08hwCbpANozA584147ad0af89550f&from=https%3A%2F%2Fwww.temu.com%2Ffr&refer_page_name=home&refer_page_id=10005_1774985368654_vrxc4ydx5y&refer_page_sn=10005&_x_sessn_id=gi3foskbe1",
+      "nav_items": [],
+      "buttons": [
+        "Tout accepter",
+        "Tout refuser"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 5,
+      "images_with_alt": 5,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 3,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 35
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "competitive pricing",
+        "flash sales"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "shein_france",
+    "url": "https://fr.shein.com",
+    "scanned_at": "2026-03-31T22:29:46.264528",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/shein_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/shein_france_mobile.png"
+    },
+    "structure": {
+      "title": "SHEIN FRANCE | Femme, Enfant, Maison, Homme et plus",
+      "url_final": "https://fr.shein.com/",
+      "nav_items": [
+        {
+          "text": "Nouveaut\u00e9s",
+          "href": "https://fr.shein.com/new/New-In-All-sc-0021884529.html?ici=fr_tab01navbar01&src_module=topcat&src_id"
+        },
+        {
+          "text": "Entrep\u00f4t UE",
+          "href": "https://fr.shein.com/recommend/tur-1p-sc-1001867808.html?ici=fr_tab02navbar02&src_module=topcat&src_"
+        },
+        {
+          "text": "Prix de ouf",
+          "href": "https://fr.shein.com/sale/All-Sale-sc-0051884505.html?ici=fr_tab03navbar03&src_module=topcat&src_ide"
+        },
+        {
+          "text": "V\u00eatements pour femmes",
+          "href": "https://fr.shein.com/RecommendSelection/Women-Clothing-sc-017172961.html?ici=fr_tab04navbar04&src_mo"
+        },
+        {
+          "text": "Tenues de plage",
+          "href": "https://fr.shein.com/RecommendSelection/Beachwear-sc-017706887.html?ici=fr_tab05navbar05&src_module="
+        },
+        {
+          "text": "Grandes tailles",
+          "href": "https://fr.shein.com/RecommendSelection/Curve-sc-017172964.html?ici=fr_tab06navbar06&src_module=topc"
+        },
+        {
+          "text": "V\u00eatements pour hommes",
+          "href": "https://fr.shein.com/RecommendSelection/Men-Clothing-sc-017172963.html?ici=fr_tab07navbar07&src_modu"
+        },
+        {
+          "text": "Sous-v\u00eatements et v\u00eatements de nuit",
+          "href": "https://fr.shein.com/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=fr_tab08navbar08&s"
+        },
+        {
+          "text": "Sports & ext\u00e9rieur",
+          "href": "https://fr.shein.com/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=fr_tab09navbar09&src_m"
+        },
+        {
+          "text": "Enfants",
+          "href": "https://fr.shein.com/RecommendSelection/Kids-sc-017185550.html?ici=fr_tab10navbar10&src_module=topca"
+        },
+        {
+          "text": "B\u00e9b\u00e9 & maternit\u00e9",
+          "href": "https://fr.shein.com/RecommendSelection/Baby-Maternity-sc-017172967.html?ici=fr_tab11navbar11&src_mo"
+        },
+        {
+          "text": "Beaut\u00e9 & sant\u00e9",
+          "href": "https://fr.shein.com/RecommendSelection/Beauty-Health-sc-017172970.html?ici=fr_tab12navbar12&src_mod"
+        },
+        {
+          "text": "Chaussures",
+          "href": "https://fr.shein.com/RecommendSelection/Shoes-sc-017172966.html?ici=fr_tab13navbar13&src_module=topc"
+        },
+        {
+          "text": "Bijoux et accessoires",
+          "href": "https://fr.shein.com/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=fr_tab14navbar14&s"
+        },
+        {
+          "text": "Maison et Habitat",
+          "href": "https://fr.shein.com/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=fr_tab15navbar15&src_modu"
+        },
+        {
+          "text": "Outils & bricolage",
+          "href": "https://fr.shein.com/RecommendSelection/Tools-Home-Improvement-sc-017185547.html?ici=fr_tab16navbar1"
+        },
+        {
+          "text": "Sacs et bagages",
+          "href": "https://fr.shein.com/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=fr_tab17navbar17&src_modu"
+        },
+        {
+          "text": "Linge de maison",
+          "href": "https://fr.shein.com/RecommendSelection/Home-Textile-sc-017172972.html?ici=fr_tab18navbar18&src_modu"
+        },
+        {
+          "text": "Automobile",
+          "href": "https://fr.shein.com/RecommendSelection/Automotive-sc-017172975.html?ici=fr_tab19navbar19&src_module"
+        },
+        {
+          "text": "\u00c9lectronique",
+          "href": "https://fr.shein.com/RecommendSelection/Electronics-sc-017706908.html?ici=fr_tab20navbar20&src_modul"
+        }
+      ],
+      "buttons": [
+        "Robe",
+        "Maillot De Bain",
+        "Jupe",
+        "Robe \u00e9t\u00e9",
+        "Short",
+        "Bijoux",
+        "Pantalon Femme",
+        "Ensemble Femme",
+        "Top",
+        "Robe Femme",
+        "Cat\u00e9gories",
+        "NON",
+        "OUI",
+        "Collecter Tout"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "Bijoux"
+            }
+          ]
+        }
+      ],
+      "links_count": 89,
+      "images_count": 71,
+      "images_with_alt": 54,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Offres sp\u00e9ciales rien que pour vous"
+        },
+        {
+          "level": 3,
+          "text": "Rechercher et Trouver"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "Bijoux"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 100,
+      "has_og_tags": true,
+      "meta_description": "Livraison gratuite d\u00e8s 39\u20ac \u2713Retours gratuits \u2713Paiement s\u00e9curis\u00e9\u2713 Une seule adresse. Toutes vos envies\u2713D\u00e9couvrez les derni\u00e8res tendances mode pour tous \u00e0 prix mini sur SHEIN.",
+      "scripts_count": 83
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive category browsing",
+        "Frequent promotions and discounts",
+        "Wide range of product categories"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_france",
+    "url": "https://www.nike.com/fr/",
+    "scanned_at": "2026-03-31T22:30:05.801808",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/nike_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/nike_france_mobile.png"
+    },
+    "structure": {
+      "title": "Nike. Just Do It. Nike FR",
+      "url_final": "https://www.nike.com/fr/",
+      "nav_items": [
+        {
+          "text": "Passer au contenu principal",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/fr/jordan"
+        },
+        {
+          "text": "",
+          "href": "https://www.converse.com/fr/"
+        },
+        {
+          "text": "Trouver un magasin",
+          "href": "https://www.nike.com/fr/retail"
+        },
+        {
+          "text": "Aide",
+          "href": "https://www.nike.com/fr/help"
+        },
+        {
+          "text": "Aide",
+          "href": "https://www.nike.com/fr/help"
+        },
+        {
+          "text": "Statut de la commande",
+          "href": "https://www.nike.com/fr/orders/details"
+        },
+        {
+          "text": "Exp\u00e9dition et livraison",
+          "href": "https://www.nike.com/fr/help/a/expedition-livraison-ue"
+        },
+        {
+          "text": "Retours",
+          "href": "https://www.nike.com/fr/help/a/conditions-de-retour-ue"
+        },
+        {
+          "text": "Guides des tailles",
+          "href": "https://www.nike.com/fr/help/a/guide-tailles-ue"
+        },
+        {
+          "text": "Nous contacter",
+          "href": "https://www.nike.com/fr/help/#contact"
+        },
+        {
+          "text": "Politique de confidentialit\u00e9",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=default&countr"
+        },
+        {
+          "text": "Conditions g\u00e9n\u00e9rales de vente",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=termsOfSale&uxId=com.nike.tos&cou"
+        },
+        {
+          "text": "Conditions d'utilisation",
+          "href": "https://agreementservice.svs.nike.com/fr/fr_fr/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Envoie-nous tes commentaires",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Rejoins-nous",
+          "href": "https://www.nike.com/fr/adhesion"
+        },
+        {
+          "text": "S'identifier",
+          "href": "https://www.nike.com/fr/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/fr/"
+        },
+        {
+          "text": "Nouveau",
+          "href": "https://www.nike.com/fr/w/nouveau-3n82y"
+        },
+        {
+          "text": "Nouveau",
+          "href": "https://www.nike.com/fr/w/nouveau-3n82y"
+        }
+      ],
+      "buttons": [
+        "France",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Marques",
+        "Marques",
+        "Cancel",
+        "Annuler",
+        "France",
+        "shox z",
+        "shox",
+        "tn",
+        "chaussure",
+        "air max",
+        "nike tech",
+        "air force 1",
+        "nike mind 001",
+        "\u00c9quipe de France",
+        "Voir toutes les \u00e9quipes",
+        "\u00c9quipe de France",
+        "Voir toutes les \u00e9quipes",
+        "Acheter",
+        "Acheter"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Rechercher"
+            }
+          ]
+        }
+      ],
+      "links_count": 441,
+      "images_count": 22,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 1,
+          "text": "FRANCE"
+        },
+        {
+          "level": 2,
+          "text": "Nos mod\u00e8les iconiques"
+        },
+        {
+          "level": 2,
+          "text": "Promotions li\u00e9es \u00e0 la communaut\u00e9"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 2,
+          "text": "Americas"
+        },
+        {
+          "level": 2,
+          "text": "Asia Pacific"
+        },
+        {
+          "level": 3,
+          "text": "FRANCE"
+        },
+        {
+          "level": 3,
+          "text": "Aucun terrain n'est s\u00fbr"
+        },
+        {
+          "level": 3,
+          "text": "H\u00e9ritage et attitude"
+        },
+        {
+          "level": 3,
+          "text": "Above the Influence"
+        },
+        {
+          "level": 3,
+          "text": "Collection Spring\u00a0'26 pour la salle"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Rechercher"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Cartes cadeaux",
+        "Cartes cadeaux d'entreprise",
+        "Trouver un magasin",
+        "Nike Journal",
+        "Devenir membre",
+        "Commentaires",
+        "Codes promo",
+        "Conseil produit",
+        "Running Shoe Finder",
+        "Aide",
+        "Statut de la commande",
+        "Exp\u00e9dition et livraison",
+        "Retours",
+        "Modes de paiement",
+        "Nous contacter",
+        "Avis",
+        "Aide - Codes promo Nike",
+        "\u00c0 propos de Nike",
+        "Actualit\u00e9s",
+        "Carri\u00e8res"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 107,
+      "has_og_tags": true,
+      "meta_description": "Nike inspire les athl\u00e8tes du monde entier avec des produits, des exp\u00e9riences et des services innovants. Livraison et retours gratuits.",
+      "scripts_count": 94
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Nike Journal",
+        "Running Shoe Finder"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_france",
+    "url": "https://www.samsung.com/fr/",
+    "scanned_at": "2026-03-31T22:30:25.797081",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/samsung_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/samsung_france_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung France | Smartphone | TV | \u00c9lectrom\u00e9nager | PC | Audio",
+      "url_final": "https://www.samsung.com/fr/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/fr/"
+        },
+        {
+          "text": "PanierNombre de produits :0",
+          "href": "https://shop.samsung.com/fr/cart/"
+        },
+        {
+          "text": "Se connecter",
+          "href": ""
+        },
+        {
+          "text": "Ouvrir Mon menu",
+          "href": ""
+        },
+        {
+          "text": "OffresVoir les offres",
+          "href": "/fr/offer/"
+        },
+        {
+          "text": "Offres",
+          "href": "/fr/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNouveau",
+          "href": "/fr/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/fr/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Z Flip7",
+          "href": "/fr/smartphones/galaxy-z-flip7/buy/"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "/fr/tablets/galaxy-tab-s11/buy/"
+        },
+        {
+          "text": "Galaxy Buds4 ProNouveau",
+          "href": "/fr/audio-sound/galaxy-buds4-pro/buy/"
+        },
+        {
+          "text": "Galaxy Book6 ProNouveau",
+          "href": "/fr/computers/galaxy-book/galaxy-book6-series/buy/"
+        },
+        {
+          "text": "TV The Frame 65\" QLED 2025",
+          "href": "/fr/lifestyle-tvs/the-frame/ls03f-65-inch-art-store-black-tq65ls03fauxxc/"
+        },
+        {
+          "text": "TV AI OLED 4K S95F 2025",
+          "href": "/fr/tvs/oled-tv/s95f-65-inch-oled-4k-smart-tv-tq65s95fatxxc/"
+        },
+        {
+          "text": "Enceinte Music Frame",
+          "href": "/fr/audio-devices/music-frame/ls60d-black-hw-ls60d-xe/"
+        },
+        {
+          "text": "\u00c9cran Gaming Odyssey OLED G8",
+          "href": "/fr/monitors/gaming/odyssey-oled-g8-g81sf-27-inch-240hz-oled-uhd-ls27fg814suxen/"
+        },
+        {
+          "text": "R\u00e9frig\u00e9rateur Bespoke AI",
+          "href": "/fr/refrigerators/side-by-side/refrigerator-sbs-9-inch-ai-home-621l-silver-rs90f64eetef/"
+        },
+        {
+          "text": "Lave-linge Bespoke AI Ecobubble",
+          "href": "/fr/washers-and-dryers/washing-machines/wf90f24-front-load-washer-a-55-percent-energy-efficiency-ai-"
+        },
+        {
+          "text": "Aspirateur Bespoke Jet AI Ultra",
+          "href": "/fr/vacuum-cleaners/stick/vc9700cl-stick-vc-with-most-powerful-jet-aiultra-400w-black-vs90f40eek-wd/"
+        },
+        {
+          "text": "Four S\u00e9rie 4 Dual Cook",
+          "href": "/fr/cooking-appliances/ovens/nv7000b-4-series-dual-cook-4series-dual-cook-nv7b4430zab-u1/"
+        }
+      ],
+      "buttons": [
+        "France",
+        "France / Fran\u00e7ais",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Continuer",
+        "Fermer",
+        "RechercheRecherche",
+        "Navigation",
+        "Retour",
+        "Recherche",
+        "Offres",
+        "Mobile",
+        "TV & Audio",
+        "\u00c9lectrom\u00e9nager",
+        "Informatique & \u00c9crans",
+        "Objets connect\u00e9s",
+        "Accessoires",
+        "Assistance",
+        "Support",
+        "R\u00e9paration et Garantie",
+        "Nous contacter",
+        "Informations",
+        "RechercheRecherche",
+        "Se connecter/S\u2019inscrire",
+        "Ouvrir Mon menu",
+        "Close menu",
+        "OK",
+        "Fermer la fen\u00eatre pop-up",
+        "OK",
+        "Fermer la fen\u00eatre pop-up"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/Samsung_com_FR/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/Samsung_com_FR/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 350,
+      "images_count": 204,
+      "images_with_alt": 77,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Recommand\u00e9 pour vous"
+        },
+        {
+          "level": 2,
+          "text": "Explorez les histoires"
+        },
+        {
+          "level": 2,
+          "text": "Chat Samsung"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "ouvrir",
+        "Toutes les offres",
+        "Avantages exclusifs Samsung",
+        "SmartThings",
+        "Produits IA",
+        "Assurance Samsung Care+",
+        "Offres de remboursement",
+        "Offres de reprise",
+        "Offres Mobile",
+        "Offres TV & Audio",
+        "Offres \u00c9lectrom\u00e9nager",
+        "Offres Informatique",
+        "Offres \u00e9tudiants",
+        "Data Act",
+        "Explore",
+        "ouvrir",
+        "Smartphones Galaxy",
+        "Tablettes Galaxy Tab",
+        "Ordinateurs portables Galaxy Book",
+        "Montres Galaxy Watch"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 190,
+      "has_og_tags": true,
+      "meta_description": "Bienvenue chez Samsung ! D\u00e9couvrez nos produits High-Tech pour am\u00e9liorer votre vie au quotidien \ud83d\uddf8 Offres exclusives \ud83d\uddf8 Achat en ligne \ud83d\uddf8 Livraison offerte",
+      "scripts_count": 58
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "AI-powered product recommendations",
+        "Integration with SmartThings for connected devices"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "apple_france",
+    "url": "https://www.apple.com/fr/shop",
+    "scanned_at": "2026-03-31T22:30:45.811170",
+    "screenshots": {
+      "desktop": "data/ecommerce_france/2026-03-31/screenshots/apple_france_desktop.png",
+      "mobile": "data/ecommerce_france/2026-03-31/screenshots/apple_france_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store en ligne - Apple (FR)",
+      "url_final": "https://www.apple.com/fr/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/fr/"
+        },
+        {
+          "text": "Store",
+          "href": "/fr/store"
+        },
+        {
+          "text": "Tout derniers produits",
+          "href": "https://www.apple.com/fr/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/fr/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/fr/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/fr/shop/buy-iphone"
+        },
+        {
+          "text": "Apple\u00a0Watch",
+          "href": "https://www.apple.com/fr/shop/buy-watch"
+        },
+        {
+          "text": "Apple Vision Pro",
+          "href": "https://www.apple.com/fr/shop/goto/buy_vision"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/fr/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Accessoires",
+          "href": "https://www.apple.com/fr/shop/accessories/all"
+        },
+        {
+          "text": "Trouver un\u00a0magasin",
+          "href": "https://www.apple.com/fr/retail/"
+        },
+        {
+          "text": "\u00c9tat de votre commande",
+          "href": "https://secure.store.apple.com/fr/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In",
+          "href": "https://www.apple.com/fr/shop/trade-in"
+        },
+        {
+          "text": "Financement",
+          "href": "https://www.apple.com/fr/shop/goto/ww/financing"
+        },
+        {
+          "text": "Configuration personnalis\u00e9e",
+          "href": "https://www.apple.com/fr/shop/goto/personal_setup"
+        },
+        {
+          "text": "Produits reconditionn\u00e9s",
+          "href": "https://www.apple.com/fr/shop/refurbished"
+        },
+        {
+          "text": "\u00c9ducation",
+          "href": "https://www.apple.com/fr/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Entreprises",
+          "href": "https://www.apple.com/fr/retail/business/"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/fr/mac/"
+        },
+        {
+          "text": "D\u00e9couvrir tous les Mac",
+          "href": "https://www.apple.com/fr/mac/"
+        }
+      ],
+      "buttons": [
+        "Pr\u00e9c\u00e9dent - Produit",
+        "Suivant - Produit",
+        "Pr\u00e9c\u00e9dent -",
+        "Suivant -",
+        "Pr\u00e9c\u00e9dent - Assistance.",
+        "Suivant - Assistance.",
+        "Pr\u00e9c\u00e9dent - L\u2019exception Apple Store.",
+        "Suivant - L\u2019exception Apple Store.",
+        "Pr\u00e9c\u00e9dent - Accessoires.",
+        "Suivant - Accessoires.",
+        "Pr\u00e9c\u00e9dent - Le\u00e7on de son.",
+        "Suivant - Le\u00e7on de son.",
+        "Pr\u00e9c\u00e9dent - Nike x Beats.",
+        "Suivant - Nike x Beats."
+      ],
+      "forms": [
+        {
+          "action": "/fr/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Rechercher sur apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 411,
+      "images_count": 101,
+      "images_with_alt": 83,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Store"
+        },
+        {
+          "level": 2,
+          "text": "Acheter"
+        },
+        {
+          "level": 2,
+          "text": "Liens rapides"
+        },
+        {
+          "level": 2,
+          "text": "Acheter - Programmes sp\u00e9ciaux"
+        },
+        {
+          "level": 2,
+          "text": "Univers Mac"
+        },
+        {
+          "level": 2,
+          "text": "Acheter - Mac"
+        },
+        {
+          "level": 3,
+          "text": "NOUVEAU"
+        },
+        {
+          "level": 3,
+          "text": "NOUVEAU"
+        },
+        {
+          "level": 3,
+          "text": "NOUVEAU"
+        },
+        {
+          "level": 3,
+          "text": "NOUVEAU"
+        },
+        {
+          "level": 3,
+          "text": "NOUVEAU"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Rechercher sur apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "www.orias.fr(s\u2019ouvre dans une nouvelle fen\u00eatre)",
+        "Soumis \u00e0 conditions(s\u2019ouvre dans une nouvelle fen\u00ea",
+        "conditions",
+        "support.apple.com/121115(s\u2019ouvre dans une nouvelle",
+        "www.orias.fr(s\u2019ouvre dans une nouvelle fen\u00eatre)",
+        "Soumis \u00e0 conditions(s\u2019ouvre dans une nouvelle fen\u00ea",
+        "conditions",
+        "support.apple.com/121115(s\u2019ouvre dans une nouvelle",
+        "Apple",
+        "Store",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "Vision",
+        "AirPods",
+        "TV & Maison",
+        "AirTag",
+        "Accessoires",
+        "Cartes Cadeaux"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 65,
+      "has_og_tags": true,
+      "meta_description": "D\u00e9couvrez les derniers produits, accessoires et offres Apple. B\u00e9n\u00e9ficiez de nombreuses options d\u2019aide \u00e0 l\u2019achat, de paiement flexible et de livraison.",
+      "scripts_count": 61
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 9,
+      "notable_unique_features": [
+        "Apple Trade In program",
+        "Personalized setup service",
+        "Integration with Apple ecosystem"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "rue_du_commerce",
+    "url": "https://www.rueducommerce.fr",
+    "scanned_at": "2026-03-31T22:31:08.131168",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_CONNECTION_RESET at https://www.rueducommerce.fr/\nCall log:\n  - navigating to \"https://www.rueducommerce.fr/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_CONNECTION_RESET at https://www.rueducommerce.fr/\nCall log:\n  - navigating to \"https://www.rueducommerce.fr/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "competitive pricing"
+      ],
+      "confidence": "high"
+    }
+  }
+]

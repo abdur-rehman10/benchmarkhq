@@ -1,0 +1,337 @@
+{
+  "name": "decathlon_saudi",
+  "url": "https://www.decathlon.sa",
+  "scanned_at": "2026-03-31T23:10:57.708106",
+  "screenshots": {
+    "desktop": "data/ecommerce_saudi/2026-03-31/screenshots/decathlon_saudi_desktop.png",
+    "mobile": "data/ecommerce_saudi/2026-03-31/screenshots/decathlon_saudi_mobile.png"
+  },
+  "structure": {
+    "title": "Shop Sports Gear & Fitness Equipment Online \u2013 Decathlon KSA",
+    "url_final": "https://decathlon.com.sa/",
+    "nav_items": [],
+    "buttons": [
+      "Previous",
+      "Next",
+      "Navigation",
+      "ENGLISH",
+      "All sports",
+      "Hiking & Camping",
+      "Fitness & Proteins",
+      "WATER SPORTS",
+      "Cycling",
+      "Men",
+      "Women",
+      "Kids",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Previous",
+      "Next",
+      "Previous"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "Search for F"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "p_handle",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "p_handle",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 955,
+    "images_count": 172,
+    "images_with_alt": 143,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Decathlon KSA"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Popular sports"
+      },
+      {
+        "level": 3,
+        "text": "Discover our partners from top sports brands"
+      },
+      {
+        "level": 3,
+        "text": "Hiking"
+      },
+      {
+        "level": 3,
+        "text": "Cycling"
+      },
+      {
+        "level": 3,
+        "text": "Camping"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "Search for F"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "contact us",
+      "our stores",
+      "size guide",
+      "return and exchange",
+      "Terms",
+      "Privacy Policy",
+      "Refund Policy",
+      "Shipping Policy",
+      "VAT Number: 3000554527",
+      "Terms and Conditions",
+      "Visa",
+      "MADA",
+      "MasterCard",
+      "Tabby"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 27,
+    "has_og_tags": true,
+    "meta_description": "Shop affordable sports gear at Decathlon Saudi Arabia. Discover high-quality equipment for running, cycling, swimming, hiking, and team sports today.",
+    "scripts_count": 138
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "name": "hema",
+  "url": "https://www.hema.nl",
+  "scanned_at": "2026-03-31T22:34:25.205559",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/hema_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/hema_mobile.png"
+  },
+  "structure": {
+    "title": "HEMA.nl - Met liefde gemaakt - Echt HEMA",
+    "url_final": "https://www.hema.nl/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.hema.nl/"
+      },
+      {
+        "text": "fotoservice",
+        "href": "https://foto.hema.nl/"
+      },
+      {
+        "text": "tickets & deals",
+        "href": "https://tickets.hema.nl/"
+      },
+      {
+        "text": "HEMA app",
+        "href": "/i/app"
+      },
+      {
+        "text": "inspiratie",
+        "href": "/inspiratie"
+      },
+      {
+        "text": "winkels",
+        "href": "/winkel-zoeken"
+      },
+      {
+        "text": "klantenpas",
+        "href": "/pas"
+      },
+      {
+        "text": "klantenservice",
+        "href": "/klantenservice"
+      },
+      {
+        "text": "Pasen",
+        "href": "/pasen"
+      },
+      {
+        "text": "nieuw en populair",
+        "href": "https://www.hema.nl/nieuw"
+      },
+      {
+        "text": "baby",
+        "href": "https://www.hema.nl/baby"
+      },
+      {
+        "text": "kind",
+        "href": "https://www.hema.nl/kind"
+      },
+      {
+        "text": "dames",
+        "href": "https://www.hema.nl/dames"
+      },
+      {
+        "text": "heren",
+        "href": "https://www.hema.nl/heren"
+      },
+      {
+        "text": "wonen en slapen",
+        "href": "https://www.hema.nl/wonen-slapen"
+      },
+      {
+        "text": "taart, eten en drinken",
+        "href": "https://www.hema.nl/eten-drinken"
+      },
+      {
+        "text": "koken en tafelen",
+        "href": "https://www.hema.nl/koken-tafelen"
+      },
+      {
+        "text": "school en kantoor",
+        "href": "https://www.hema.nl/school-kantoor"
+      },
+      {
+        "text": "buiten en onderweg",
+        "href": "https://www.hema.nl/buiten-onderweg"
+      },
+      {
+        "text": "feest en cadeau",
+        "href": "https://www.hema.nl/cadeau"
+      }
+    ],
+    "buttons": [
+      "categorie\u00ebn",
+      "waar ben je naar op zoek?",
+      "sluiten",
+      "verder winkelen",
+      "global.close",
+      "wachtwoord vergeten?",
+      "inloggen",
+      "account aanmaken",
+      "wachtwoord aanvragen",
+      "terug",
+      "sluiten",
+      "verder winkelen",
+      "verwijder",
+      "Submit",
+      "annuleren",
+      "verwijder",
+      "in winkelmandje",
+      "in winkelmandje"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "dwfrm_login_username",
+            "placeholder": "e-mailadres"
+          },
+          {
+            "type": "password",
+            "name": "dwfrm_login_password",
+            "placeholder": "wachtwoord"
+          },
+          {
+            "type": "text",
+            "name": "g-recaptcha-response",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "dwfrm_preregister_username",
+            "placeholder": "e-mailadres"
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "createAccountFlag",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "isCart",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "dwfrm_forgotpassword_email",
+            "placeholder": "e-mailadres"
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "forgotPasswordFlag",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.hema.nl/search?lang=nl_NL",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "waar ben je naar op zoek?"
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.hema.nl/winkel-zoeken",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "searchKey",
+            "placeholder": "vul postcode of plaats in"
+          },
+          {
+            "type": "hidden",
+            "name": "dwfrm_storelocator_findbyquery",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 510,
+    "images_count": 127,
+    "images_with_alt": 127,
+    "headings": [
+      {
+        "level": 2,
+        "text": "klaar voor de lente"
+      },
+      {
+        "level": 2,
+        "text": "nu in de aanbieding"
+      },
+      {
+        "level": 2,
+        "text": "paaskriebels"
+      },
+      {
+        "level": 2,
+        "text": "paasfeest"
+      },
+      {
+        "level": 2,
+        "text": "voor kleine dromers en grote uitslapers"
+      },
+      {
+        "level": 3,
+        "text": "je winkelmandje is nog leeg..."
+      },
+      {
+        "level": 3,
+        "text": "bestaande klant"
+      },
+      {
+        "level": 3,
+        "text": "wachtwoord vergeten?"
+      },
+      {
+        "level": 3,
+        "text": "vrolijke voorjaarsfavorieten voor baby en kind"
+      },
+      {
+        "level": 3,
+        "text": "kinderkledingset shirt en short regular fit lichtbruin"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "isCustomerLoggedIn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product-quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "quantity-specific-product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "quantity-before-changing",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "dwfrm_login_username",
+        "placeholder": "e-mailadres"
+      },
+      {
+        "type": "password",
+        "name": "dwfrm_login_password",
+        "placeholder": "wachtwoord"
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "dwfrm_preregister_username",
+        "placeholder": "e-mailadres"
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "createAccountFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "isCart",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "dwfrm_forgotpassword_email",
+        "placeholder": "e-mailadres"
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPasswordFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "waar ben je naar op zoek?"
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "searchKey",
+        "placeholder": "vul postcode of plaats in"
+      },
+      {
+        "type": "hidden",
+        "name": "dwfrm_storelocator_findbyquery",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "dwfrm_guestnewsletter_email_Webshop_subscribe_email",
+        "placeholder": "e-mailadres*"
+      }
+    ],
+    "footer_links": [
+      "mijn bestelling",
+      "bezorgen of afhalen",
+      "ruilen en retourneren",
+      "020 224 2424",
+      "dameskleding",
+      "kinderkleding",
+      "babykleding",
+      "beddengoed",
+      "woonaccessoires",
+      "handdoeken",
+      "raamdecoratie",
+      "speelgoed"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 116,
+    "has_og_tags": true,
+    "meta_description": "Met liefde gemaakt voor jou \u00e9n de wereld. Gratis thuisbezorgd vanaf \u20ac30 \u2713 Afhalen in 550+ HEMA winkels \u2713 Verrassend lage prijzen \u2713 Echt HEMA.",
+    "scripts_count": 136
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "N",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment": "N",
+      "shipping_info": "N",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "N",
+      "order_history": "N",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "N",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "N",
+      "cookie_consent": "N",
+      "terms_of_service": "N",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "HEMA app",
+      "Fotoservice",
+      "Tickets & Deals"
+    ],
+    "confidence": "medium"
+  }
+}

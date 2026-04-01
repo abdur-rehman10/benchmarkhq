@@ -1,0 +1,457 @@
+{
+  "name": "metro_shoes_pk",
+  "url": "https://www.metroshoes.com.pk",
+  "scanned_at": "2026-03-31T23:41:31.892160",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/metro_shoes_pk_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/metro_shoes_pk_mobile.png"
+  },
+  "structure": {
+    "title": "Metro Shoes Pakistan Official Online Store",
+    "url_final": "https://www.metroshoes.com.pk/",
+    "nav_items": [
+      {
+        "text": "Luxe Edition",
+        "href": "/pages/exclusive-articles "
+      },
+      {
+        "text": "Sale",
+        "href": "/collections/metro-sale"
+      },
+      {
+        "text": "New In",
+        "href": "/collections/new-in "
+      },
+      {
+        "text": "Women",
+        "href": "/collections/view-all"
+      },
+      {
+        "text": "Pumps",
+        "href": "/collections/pumps-shoes"
+      },
+      {
+        "text": "Slides",
+        "href": "/collections/sliders"
+      },
+      {
+        "text": "Heels",
+        "href": "/collections/heels"
+      },
+      {
+        "text": "Wedges",
+        "href": "/collections/wedges-heels"
+      },
+      {
+        "text": "Sneakers",
+        "href": "https://www.metroshoes.com.pk/collections/sneakers"
+      },
+      {
+        "text": "Court Shoes",
+        "href": "/collections/court-shoe"
+      },
+      {
+        "text": "Sandals",
+        "href": "/collections/sandals"
+      },
+      {
+        "text": "Fancy",
+        "href": "/collections/fancy"
+      },
+      {
+        "text": "Loafers",
+        "href": "/collections/loafers"
+      },
+      {
+        "text": "Softy",
+        "href": "/collections/softys"
+      },
+      {
+        "text": "Men",
+        "href": "https://www.metroshoes.com.pk/collections/mens-shoes"
+      },
+      {
+        "text": "Men Sale",
+        "href": "/collections/gents-sale-shoes"
+      },
+      {
+        "text": "Formals",
+        "href": "/collections/formals"
+      },
+      {
+        "text": "Casuals",
+        "href": "/collections/casuals"
+      },
+      {
+        "text": "Sandals",
+        "href": "/collections/gents-sandals"
+      },
+      {
+        "text": "Slippers",
+        "href": "/collections/slippers"
+      }
+    ],
+    "buttons": [
+      "Subscribe",
+      "Check Out",
+      "Save",
+      "Cancel",
+      "Estimate",
+      "Cancel",
+      "Save",
+      "Cancel",
+      "Reset Password",
+      "Sign In",
+      "Register",
+      "View All",
+      "Login to use Wishlist",
+      "Compare",
+      "Login to use Wishlist",
+      "Compare",
+      "Login to use Wishlist"
+    ],
+    "forms": [
+      {
+        "action": "/contact#t4s-form-footer-12",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "Your email address"
+          }
+        ]
+      },
+      {
+        "action": "/cart",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "attributes[collection_items_per_row]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "discount",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "discount",
+            "placeholder": "GK-12345678ABCD-1234"
+          }
+        ]
+      },
+      {
+        "action": "/localization",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "return_to",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "language_code",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/account/recover",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ]
+      },
+      {
+        "action": "/account/login",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "checkout_url",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "customer[email]",
+            "placeholder": "Email"
+          },
+          {
+            "type": "password",
+            "name": "customer[password]",
+            "placeholder": "Password"
+          }
+        ]
+      }
+    ],
+    "links_count": 340,
+    "images_count": 186,
+    "images_with_alt": 168,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Metro Shoes Pakistan"
+      },
+      {
+        "level": 3,
+        "text": "Explore Our Collections"
+      },
+      {
+        "level": 3,
+        "text": "We think you\u2019ll love new arrivals"
+      },
+      {
+        "level": 3,
+        "text": "Slides For Women-40450619"
+      },
+      {
+        "level": 3,
+        "text": "Pay for your purchase, thora abhi, baqi?"
+      },
+      {
+        "level": 3,
+        "text": "Added items to your cart?"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "Your email address"
+      },
+      {
+        "type": "hidden",
+        "name": "attributes[collection_items_per_row]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "discount",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "discount",
+        "placeholder": "GK-12345678ABCD-1234"
+      },
+      {
+        "type": "text",
+        "name": "zip",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Coupon code"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language_code",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "checkout_url",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Women",
+      "Men",
+      "Sale",
+      "Bags",
+      "Pret",
+      "About Us",
+      "Contact Us",
+      "Search",
+      "FAQs",
+      "Terms & Condition",
+      "Privacy Policy",
+      "Return & Exchange",
+      "Blogs",
+      "Size Chart"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 11,
+    "has_og_tags": true,
+    "meta_description": "Metro shoes is offering their customers the highest quality ladies shoes and men's shoes. Get the best available trendy shoes designs in Pakistan. Buy the best women\u2019s handbags online from Metro shoes",
+    "scripts_count": 67
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Luxe Edition exclusive articles",
+      "Localized language support"
+    ],
+    "confidence": "medium"
+  }
+}

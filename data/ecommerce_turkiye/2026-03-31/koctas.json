@@ -1,0 +1,473 @@
+{
+  "name": "koctas",
+  "url": "https://www.koctas.com.tr",
+  "scanned_at": "2026-03-31T22:59:35.002169",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/koctas_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/koctas_mobile.png"
+  },
+  "structure": {
+    "title": "Ko\u00e7ta\u015f | Evimi \u00c7ok Seviyorum",
+    "url_final": "https://www.koctas.com.tr/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.koctas.com.tr/mobil-uygulamalar"
+      },
+      {
+        "text": "Toptan Sat\u0131\u015f",
+        "href": "/toptan-satis"
+      },
+      {
+        "text": "Hizmetlerimiz",
+        "href": "/hizmetlerimiz"
+      },
+      {
+        "text": "Ya\u015fayan Evler Blog",
+        "href": "https://blog.koctas.com.tr/"
+      },
+      {
+        "text": "Ma\u011fazalar",
+        "href": "/store-finder"
+      },
+      {
+        "text": "Ko\u00e7ta\u015f'ta Sat\u0131c\u0131 Ol",
+        "href": "/koctasta-satici-ol"
+      },
+      {
+        "text": "Sipari\u015f Takip",
+        "href": "/my-account/orders"
+      },
+      {
+        "text": "Bize Ula\u015f\u0131n",
+        "href": "/commercial/add-support-ticket?type=communication"
+      },
+      {
+        "text": "",
+        "href": "javascript:;"
+      },
+      {
+        "text": "",
+        "href": "javascript:;"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "javascript:;"
+      },
+      {
+        "text": "KonumKonum Se\u00e7",
+        "href": "#modal-location"
+      },
+      {
+        "text": "Giri\u015f Yapveya\u00a0\u00dcye Ol",
+        "href": "javascript:;"
+      },
+      {
+        "text": "Giri\u015f Yap",
+        "href": "/login"
+      },
+      {
+        "text": "\u00dcye Ol",
+        "href": "/sregister/register"
+      },
+      {
+        "text": "Sipari\u015flerim",
+        "href": "/my-account/orders"
+      },
+      {
+        "text": "Favori Listelerim",
+        "href": "/my-account/lists"
+      },
+      {
+        "text": "Sat\u0131c\u0131 Sorular\u0131m",
+        "href": "/my-account/sorularim"
+      },
+      {
+        "text": "\u0130ndirim Kuponlar\u0131m",
+        "href": "/my-account/coupons"
+      }
+    ],
+    "buttons": [
+      "Kaydet",
+      "Giri\u015f Yap\u00a0 veya\u00a0 \u00dcye Ol",
+      "Kampanyalar",
+      "Sana \u00d6zel",
+      "\ud83c\udf3e Bah\u00e7e ve Balkona \u00d6zel\ud83c\udf40",
+      "\u0130lham & \u00d6neri \ud83d\udcab",
+      "ALI\u015eVER\u0130\u015eE BA\u015eLA",
+      "ALI\u015eVER\u0130\u015eE BA\u015eLA",
+      "HEMEN \u0130NCELE",
+      "ALI\u015eVER\u0130\u015eE BA\u015eLA",
+      "HEMEN \u0130NCELE",
+      "ALI\u015eVER\u0130\u015eE BA\u015eLA",
+      "ALI\u015eVER\u0130\u015eE BA\u015eLA",
+      "ALI\u015eVER\u0130\u015eE BA\u015eLA"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "\u00dcr\u00fcn, kategori veya marka ara..."
+          }
+        ]
+      },
+      {
+        "action": "/select-location/change-location",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "city",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "town",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "district",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "promotionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionImageUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionPosition",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionUrl",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "promotionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionImageUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionPosition",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionUrl",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "promotionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionImageUrl",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionPosition",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "promotionUrl",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 2488,
+    "images_count": 600,
+    "images_with_alt": 454,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ko\u00e7ta\u015f | Evimi \u00c7ok Seviyorum"
+      },
+      {
+        "level": 2,
+        "text": "\u0130yi ki Alm\u0131\u015f\u0131m Diyece\u011finiz \u00dcr\u00fcnler"
+      },
+      {
+        "level": 2,
+        "text": "Ko\u00e7ta\u015f \u0130le Evinizi G\u00fczelle\u015ftirin!"
+      },
+      {
+        "level": 2,
+        "text": "Ya\u015fam Alanlar\u0131na Yenilik Katacak T\u00fcm \u00dcr\u00fcnler Ko\u00e7ta\u015f\u2019ta!"
+      },
+      {
+        "level": 2,
+        "text": "Modern & Yenilik\u00e7i \u00c7izgilerle Tasarlanan B\u00fct\u00e7e Dostu Mobilyalar"
+      },
+      {
+        "level": 2,
+        "text": "Hayalinizdeki Bah\u00e7e \u0130\u00e7in Peyzaj ve Bah\u00e7e \u00dcr\u00fcnlerine Dair Arad\u0131\u011f\u0131n\u0131z Her \u015eey Ko\u00e7t"
+      },
+      {
+        "level": 3,
+        "text": "\u0130n\u015faat ve Ah\u015fap \u0130\u015flerinizin Yard\u0131mc\u0131s\u0131 Olan Yap\u0131 Marketi \u00dcr\u00fcnleri"
+      },
+      {
+        "level": 3,
+        "text": "Ko\u00e7ta\u015f Yap\u0131 Marketlerinde M\u00fc\u015fterilere Sunulan \u00d6zel Hizmetler"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "firstName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "phone",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "birthdate",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "favoriteCategory",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gender",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "\u00dcr\u00fcn, kategori veya marka ara..."
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "promotionID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "promotionName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "promotionImageUrl",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "mobilyalar",
+      "masa ve masa tak\u0131mlar\u0131n\u0131n",
+      "koltuk ve kanepeler",
+      "Tv \u00fcnitesi",
+      "\u00c7ift ki\u015filik yataklar",
+      "tek ki\u015filik yataklar",
+      "bilgisayar ve \u00e7al\u0131\u015fma masalar\u0131",
+      "bah\u00e7e mobilyalar\u0131",
+      "du\u015fakabin",
+      "kombi",
+      "klima",
+      "Daha fazla g\u00f6sterK\u0131salt",
+      "Kampanyalar",
+      "Pop\u00fcler Kategoriler",
+      "Pop\u00fcler Kategoriler",
+      "Mobilya",
+      "Bah\u00e7e ve                                         B",
+      "Is\u0131tma                                         ve ",
+      "Banyo",
+      "Mutfak"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 320,
+    "has_og_tags": true,
+    "meta_description": "Kaliteli ve uygun fiyatl\u0131 Mutfak, Banyo, Bah\u00e7e Mobilyalar\u0131, Beyaz E\u015fya ve El aletleri \u00fcr\u00fcnlerine online al\u0131\u015fveri\u015fin adresi Ko\u00e7ta\u015f Yap\u0131 Marketi ile ula\u015f\u0131n!",
+    "scripts_count": 134
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive range of home improvement products",
+      "Dedicated blog for home living ideas"
+    ],
+    "confidence": "medium"
+  }
+}

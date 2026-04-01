@@ -1,0 +1,215 @@
+metadata:
+  industry: food_delivery
+  industry_name: Food Delivery
+  version: 1.0.0
+  generated_at: '2026-03-31T20:40:10.426596'
+  methodology: automated_scraping_with_ai_analysis
+  sites_analyzed: 20
+  sites_list:
+  - doordash
+  - uber_eats
+  - grubhub
+  - just_eat
+  - deliveroo
+  - wolt
+  - glovo
+  - swiggy
+  - zomato
+  - ifood
+  - rappi
+  - foodpanda
+  - talabat
+  - grab_food
+  - postmates
+  - caviar
+  - instacart
+  - gopuff
+  - chownow
+  - seamless
+features:
+  critical:
+  - id: login_signup_visible
+    frequency: 6/6
+    frequency_percent: 100
+  - id: help_center_link
+    frequency: 6/7
+    frequency_percent: 86
+  required:
+  - id: language_attribute
+    frequency: 16/20
+    frequency_percent: 80
+  - id: responsive_design
+    frequency: 10/14
+    frequency_percent: 77
+  - id: privacy_policy_link
+    frequency: 5/7
+    frequency_percent: 71
+  - id: hero_section
+    frequency: 10/14
+    frequency_percent: 71
+  - id: product_images
+    frequency: 13/20
+    frequency_percent: 65
+  recommended:
+  - id: alt_text_images
+    frequency: 11/18
+    frequency_percent: 61
+  - id: terms_of_service_link
+    frequency: 4/7
+    frequency_percent: 57
+  - id: footer_links
+    frequency: 8/14
+    frequency_percent: 57
+  - id: help_center
+    frequency: 5/13
+    frequency_percent: 42
+  - id: product_search
+    frequency: 8/20
+    frequency_percent: 40
+  nice_to_have:
+  - id: category_browsing
+    frequency: 6/20
+    frequency_percent: 38
+  - id: sticky_header
+    frequency: 4/14
+    frequency_percent: 29
+  - id: login_signup
+    frequency: 2/13
+    frequency_percent: 20
+  innovative:
+  - id: cookie_consent_banner
+    frequency: 1/7
+    frequency_percent: 14
+  - id: contact_form
+    frequency: 2/20
+    frequency_percent: 10
+  - id: order_tracking
+    frequency: 1/20
+    frequency_percent: 8
+  - id: privacy_policy
+    frequency: 1/13
+    frequency_percent: 8
+  - id: cookie_consent
+    frequency: 1/13
+    frequency_percent: 8
+  - id: search_autocomplete
+    frequency: 0/20
+    frequency_percent: 0
+  - id: search_filters
+    frequency: 0/20
+    frequency_percent: 0
+  - id: trending_items
+    frequency: 0/20
+    frequency_percent: 0
+  - id: social_login
+    frequency: 0/20
+    frequency_percent: 0
+  - id: guest_checkout
+    frequency: 0/20
+    frequency_percent: 0
+  - id: product_descriptions
+    frequency: 0/20
+    frequency_percent: 0
+  - id: price_display
+    frequency: 0/20
+    frequency_percent: 0
+  - id: size_variant_selector
+    frequency: 0/20
+    frequency_percent: 0
+  - id: related_items
+    frequency: 0/20
+    frequency_percent: 0
+  - id: stock_availability
+    frequency: 0/20
+    frequency_percent: 0
+  - id: shopping_cart
+    frequency: 0/20
+    frequency_percent: 0
+  - id: add_to_cart
+    frequency: 0/13
+    frequency_percent: 0
+  - id: promo_code
+    frequency: 0/13
+    frequency_percent: 0
+  - id: multiple_payment_methods
+    frequency: 0/20
+    frequency_percent: 0
+  - id: shipping_info
+    frequency: 0/20
+    frequency_percent: 0
+  - id: estimated_delivery
+    frequency: 0/13
+    frequency_percent: 0
+  - id: star_ratings
+    frequency: 0/20
+    frequency_percent: 0
+  - id: written_reviews
+    frequency: 0/18
+    frequency_percent: 0
+  - id: review_photos
+    frequency: 0/20
+    frequency_percent: 0
+  - id: wishlist
+    frequency: 0/13
+    frequency_percent: 0
+  - id: recently_viewed
+    frequency: 0/20
+    frequency_percent: 0
+  - id: personalized_recommendations
+    frequency: 0/20
+    frequency_percent: 0
+  - id: push_notifications
+    frequency: 0/13
+    frequency_percent: 0
+  - id: order_history
+    frequency: 0/20
+    frequency_percent: 0
+  - id: return_refund_info
+    frequency: 0/20
+    frequency_percent: 0
+  - id: live_chat
+    frequency: 0/20
+    frequency_percent: 0
+  - id: phone_number
+    frequency: 0/20
+    frequency_percent: 0
+  - id: terms_of_service
+    frequency: 0/13
+    frequency_percent: 0
+  - id: add_to_cart_button
+    frequency: 0/7
+    frequency_percent: 0
+  - id: promo_code_field
+    frequency: 0/7
+    frequency_percent: 0
+  - id: estimated_delivery_date
+    frequency: 0/7
+    frequency_percent: 0
+  - id: wishlist_option
+    frequency: 0/7
+    frequency_percent: 0
+  - id: push_notification_prompt
+    frequency: 0/7
+    frequency_percent: 0
+  - id: breadcrumb_navigation
+    frequency: 0/14
+    frequency_percent: 0
+  - id: loading_states
+    frequency: 0/14
+    frequency_percent: 0
+  - id: customer_reviews
+    frequency: 0/2
+    frequency_percent: 0
+  - id: alt_text_on_images
+    frequency: 0/2
+    frequency_percent: 0
+  - id: login_signup_option
+    frequency: 0/1
+    frequency_percent: 0
+performance_targets:
+  lighthouse_performance:
+    median: 0
+    min_acceptable: 0
+  lighthouse_accessibility:
+    median: 0
+    min_acceptable: 0

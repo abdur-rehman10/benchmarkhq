@@ -1,0 +1,235 @@
+{
+  "name": "aritzia",
+  "url": "https://www.aritzia.com",
+  "scanned_at": "2026-03-31T21:23:31.941103",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/aritzia_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/aritzia_mobile.png"
+  },
+  "structure": {
+    "title": "Women's Fashion Boutique | Aritzia INTL",
+    "url_final": "https://www.aritzia.com/intl/en",
+    "nav_items": [
+      {
+        "text": "New",
+        "href": "/intl/en/new"
+      },
+      {
+        "text": "Clothing",
+        "href": "/intl/en/clothing"
+      },
+      {
+        "text": "Dresses",
+        "href": "/intl/en/clothing/dresses"
+      },
+      {
+        "text": "Activewear",
+        "href": "/intl/en/clothing/womens-workout-clothes"
+      },
+      {
+        "text": "Sweatfleece",
+        "href": "/intl/en/clothing/sweatsuit-sets"
+      },
+      {
+        "text": "Accessories",
+        "href": "/intl/en/clothing/accessories"
+      },
+      {
+        "text": "Discover",
+        "href": "/intl/en/discover"
+      }
+    ],
+    "buttons": [
+      "close-small",
+      "search",
+      "search",
+      "wishlist-large",
+      "()",
+      "()",
+      "Manage Cookies",
+      "Accept All",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Confirm My Choices"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "mail",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 50,
+    "images_count": 4,
+    "images_with_alt": 4,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Cookie Preference Center"
+      },
+      {
+        "level": 3,
+        "text": "Manage Preferences"
+      },
+      {
+        "level": 3,
+        "text": "Cookie List"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search"
+      },
+      {
+        "type": "email",
+        "name": "mail",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Privacy Policy",
+      "Participate in User Research Studies",
+      "About Us",
+      "Careers",
+      "Impact",
+      "Investor Relations",
+      "Store Locator",
+      "Fabric Care",
+      "Accessibility",
+      "Find a List",
+      "Our Services",
+      "Contact Us",
+      "Size Guide",
+      "Shipping",
+      "Returns & Exchanges",
+      "Payment & Security"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 24,
+    "has_og_tags": false,
+    "meta_description": "Shop the latest women's clothing and accessories - jackets, coats, sweaters, and dresses.",
+    "scripts_count": 22
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "High-quality product images",
+      "Extensive size guide",
+      "Participate in user research studies"
+    ],
+    "confidence": "high"
+  }
+}

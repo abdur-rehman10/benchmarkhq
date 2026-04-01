@@ -1,0 +1,232 @@
+{
+  "name": "the_iconic",
+  "url": "https://www.theiconic.com.au",
+  "scanned_at": "2026-04-01T00:19:56.039210",
+  "screenshots": {
+    "desktop": "data/ecommerce_australia/2026-04-01/screenshots/the_iconic_desktop.png",
+    "mobile": "data/ecommerce_australia/2026-04-01/screenshots/the_iconic_mobile.png"
+  },
+  "structure": {
+    "title": "Got You Looking \ud83d\udc40 | Fashion | THE ICONIC",
+    "url_final": "https://www.theiconic.com.au/",
+    "nav_items": [
+      {
+        "text": "Contact & FAQs",
+        "href": "https://theiconicsupport.zendesk.com/hc/en-us/"
+      },
+      {
+        "text": "Delivery",
+        "href": "https://www.theiconic.com.au/shipping-policy/"
+      },
+      {
+        "text": "Returns",
+        "href": "https://www.theiconic.com.au/customer/order/index/?returns=1/"
+      },
+      {
+        "text": "Track Orders",
+        "href": "https://www.theiconic.com.au/customer/order/index/"
+      },
+      {
+        "text": "Share Your Ideas",
+        "href": "https://theiconic.uservoice.com/forums/380349-product-suggestions-for-the-iconic"
+      },
+      {
+        "text": "Gift Cards",
+        "href": "/gift-cards/"
+      }
+    ],
+    "buttons": [
+      "Submit",
+      "GET THE APP",
+      "\u00d7",
+      "\u00d7",
+      "GET THE APP"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search for products, brands, or categories"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "gender",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address..."
+          }
+        ]
+      }
+    ],
+    "links_count": 1911,
+    "images_count": 145,
+    "images_with_alt": 29,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Shop For The Latest Clothing, Shoes, Home & Beauty Products"
+      },
+      {
+        "level": 2,
+        "text": "Shop Your Favourites"
+      },
+      {
+        "level": 2,
+        "text": "Shop the Latest"
+      },
+      {
+        "level": 2,
+        "text": "New from m\u00ednima esenciales"
+      },
+      {
+        "level": 2,
+        "text": "Just In: THE ICONIC Front Row"
+      },
+      {
+        "level": 2,
+        "text": "Just Landed: Korean Beauty"
+      },
+      {
+        "level": 3,
+        "text": "Dresses"
+      },
+      {
+        "level": 3,
+        "text": "Tops"
+      },
+      {
+        "level": 3,
+        "text": "Pants"
+      },
+      {
+        "level": 3,
+        "text": "Footwear"
+      },
+      {
+        "level": 3,
+        "text": "Coats & Jackets"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for products, brands, or categories"
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search for products, brands, or categories"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for products, brands, or categories"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address..."
+      }
+    ],
+    "footer_links": [
+      "Help",
+      "About Us",
+      "Acknowledgement Of Country",
+      "Affiliates",
+      "Brands",
+      "Grow with Us",
+      "Sell with Us",
+      "Press",
+      "Careers",
+      "Promotions and Competitions",
+      "Coupons",
+      "Terms\n                        &\n                  ",
+      "Privacy Policy",
+      "THE ICONIC Front Row Terms\n                       ",
+      "Online Security Advice",
+      "UNiDAYS",
+      "Uber One",
+      "THE ICONIC X Hubbed",
+      "Terms &\n                    Conditions",
+      "Privacy Policy"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": true,
+    "meta_description": "Australia's go-to online fashion & lifestyle retailer. Shop trending selections of clothing, sportswear, accessories, beauty products and more. Free delivery & returns available.",
+    "scripts_count": 86
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "THE ICONIC Front Row",
+      "Acknowledgement Of Country"
+    ],
+    "confidence": "high"
+  }
+}

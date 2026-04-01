@@ -1,0 +1,319 @@
+{
+  "name": "decathlon_qatar",
+  "url": "https://www.decathlon.qa",
+  "scanned_at": "2026-03-31T23:30:25.693037",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/decathlon_qatar_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/decathlon_qatar_mobile.png"
+  },
+  "structure": {
+    "title": "Shop Sports Gear and Equipment Online \u2013 Decathlon Qatar",
+    "url_final": "https://decathlon.qa/",
+    "nav_items": [],
+    "buttons": [
+      "Navigation",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Go to slide 1",
+      "Go to slide 2",
+      "Go to slide 3",
+      "Go to slide 4",
+      "View all results",
+      "Back",
+      "ALL SPORTS",
+      "FITNESS",
+      "HIKE & CAMP",
+      "WINTER SPORTS",
+      "TEAM SPORTS",
+      "RACKET SPORTS",
+      "WATER SPORTS",
+      "MEN",
+      "WOMEN",
+      "KIDS",
+      "EXERCISE",
+      "COMBAT SPORTS"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "p_handle",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "p_handle",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 943,
+    "images_count": 64,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Decathlon Qatar"
+      },
+      {
+        "level": 3,
+        "text": "Top Brands. Peak Performance."
+      },
+      {
+        "level": 3,
+        "text": "Popular Sports"
+      },
+      {
+        "level": 3,
+        "text": "Racket Sports"
+      },
+      {
+        "level": 3,
+        "text": "Hike & Camp"
+      },
+      {
+        "level": 3,
+        "text": "Cycling"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "CONTACT US",
+      "OUR SHOP",
+      "SITE MAP",
+      "TERMS",
+      "PRIVACY POLICY",
+      "DELIVERY & RETURNS",
+      "WHO WE ARE",
+      "WWW.AZADEA.COM",
+      "BLOGS"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 23,
+    "has_og_tags": true,
+    "meta_description": "Discover a wide range of Sports Gear and Equipment online at Decathlon Qatar. Shop for Sports Clothing, Shoes, Accessories, and more at the best prices.",
+    "scripts_count": 119
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Multilingual support",
+      "Comprehensive footer links"
+    ],
+    "confidence": "medium"
+  }
+}

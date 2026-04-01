@@ -1,0 +1,201 @@
+{
+  "name": "ikea_uae",
+  "url": "https://www.ikea.com/ae/en/",
+  "scanned_at": "2026-03-31T23:13:47.594379",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/ikea_uae_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/ikea_uae_mobile.png"
+  },
+  "structure": {
+    "title": "Furniture Store for Dubai, Abu Dhabi & the Entire UAE - IKEA",
+    "url_final": "https://www.ikea.com/ae/en/",
+    "nav_items": [
+      {
+        "text": "Products",
+        "href": "https://www.ikea.com/ae/en/cat/products-products/"
+      },
+      {
+        "text": "Rooms",
+        "href": "https://www.ikea.com/ae/en/rooms/"
+      },
+      {
+        "text": "Offers",
+        "href": "https://www.ikea.com/ae/en/offers/"
+      },
+      {
+        "text": "Design & ideas",
+        "href": "https://www.ikea.com/ae/en/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/ae/en/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Clear the search input field",
+      "Search IKEA products using a photo",
+      "Search",
+      "Recommended for you",
+      "Price lowered furniture",
+      "Price lowered accessories",
+      "Our most popular picks",
+      "Last chance"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/ae/en/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      }
+    ],
+    "links_count": 361,
+    "images_count": 220,
+    "images_with_alt": 191,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Welcome to IKEA UAE!"
+      },
+      {
+        "level": 2,
+        "text": "Price Lowered"
+      },
+      {
+        "level": 2,
+        "text": "Rain or shine, your productivity shouldn\u2019t slow down."
+      },
+      {
+        "level": 2,
+        "text": "Play is for everyone, let the fun begin"
+      },
+      {
+        "level": 2,
+        "text": "This season's must-haves!"
+      },
+      {
+        "level": 2,
+        "text": "Shop news by category"
+      },
+      {
+        "level": 3,
+        "text": "SKANSN\u00c4SChair"
+      },
+      {
+        "level": 3,
+        "text": "DYVLINGESwivel easy chair"
+      },
+      {
+        "level": 3,
+        "text": "\u00c4RENDERug, high pile"
+      },
+      {
+        "level": 3,
+        "text": "DOMSTENStool"
+      },
+      {
+        "level": 3,
+        "text": "STOCKHOLMMirror"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "What are you looking for?"
+      }
+    ],
+    "footer_links": [
+      "Join IKEA Family",
+      "Download IKEA app",
+      "Offers",
+      "Swedish restaurant",
+      "Swedish Food",
+      "Planning tools",
+      "Brochures",
+      "Stores",
+      "About services",
+      "About shopping",
+      "Spare parts",
+      "Return policy",
+      "Guarantees & warranties",
+      "Contact us",
+      "FAQ",
+      "Terms & conditions",
+      "About IKEA",
+      "Democratic Design",
+      "Sustainable everyday",
+      "Community engagement"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 352,
+    "has_og_tags": true,
+    "meta_description": "Shop stylish furniture, d\u00e9cor & storage online at IKEA UAE. Discover limited-time offers, affordable home solutions & fast delivery.",
+    "scripts_count": 88
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "Y",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Search IKEA products using a photo",
+      "Price lowered sections",
+      "Join IKEA Family program"
+    ],
+    "confidence": "high"
+  }
+}

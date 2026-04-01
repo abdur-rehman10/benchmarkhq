@@ -1,0 +1,239 @@
+{
+  "name": "samsung_qatar",
+  "url": "https://www.samsung.com/qa/",
+  "scanned_at": "2026-03-31T23:26:15.938651",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/samsung_qatar_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/samsung_qatar_mobile.png"
+  },
+  "structure": {
+    "title": "Home Electronics | Home Appliances | Mobile | Computing |",
+    "url_final": "https://www.samsung.com/qa/",
+    "nav_items": [],
+    "buttons": [
+      "Layer Popup Close",
+      "Close",
+      "Submit",
+      "Close popup",
+      "Submit",
+      "Close popup",
+      "Layer Popup Close",
+      "My Wishlist",
+      "My Wishlist 1",
+      "My Wishlist 2",
+      "My Wishlist 3",
+      "My Wishlist 4",
+      "My Wishlist 5",
+      "My Wishlist 6",
+      "My Wishlist 7",
+      "My Wishlist 8",
+      "My Wishlist 9",
+      "Close popup",
+      "Enter serial number/IMEI",
+      "Scan QR code",
+      "How to find Serial Number or IMEIExpand",
+      "TV & AV",
+      "TV & AV",
+      "Mobile Device",
+      "Home Appliance",
+      "PC & Office"
+    ],
+    "forms": [],
+    "links_count": 171,
+    "images_count": 5,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Visit Your Location"
+      },
+      {
+        "level": 3,
+        "text": "Africa"
+      },
+      {
+        "level": 3,
+        "text": "Asia - pacific"
+      },
+      {
+        "level": 3,
+        "text": "Europe"
+      },
+      {
+        "level": 3,
+        "text": "Latin America"
+      },
+      {
+        "level": 3,
+        "text": "Middle East"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "searchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "esapiSearchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "scene7domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reviewUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "aplautYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reevooUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvRTLFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "multiLanguageYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "localLang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "runmodeInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "apiStageInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tempTitle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "siteCode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "store_sitecode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "serverType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gpvStoreDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "storeWebDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "shopIntegrationFlag",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Welcome to Samsung IN. Discover a wide range of home electronics with cutting-edge technology including TVs, smartphones, tablets, home appliances & more!",
+    "scripts_count": 11
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "regional site selection",
+      "QR code scanning for product verification"
+    ],
+    "confidence": "high"
+  }
+}

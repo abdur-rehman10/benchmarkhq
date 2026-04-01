@@ -1,0 +1,4621 @@
+[
+  {
+    "name": "mercado_libre_mx",
+    "url": "https://www.mercadolibre.com.mx",
+    "scanned_at": "2026-03-31T21:28:04.391638",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+      "mobile: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.mercadolibre.com.mx/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "personalized recommendations",
+        "multiple payment options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "amazon_mexico",
+    "url": "https://www.amazon.com.mx",
+    "scanned_at": "2026-03-31T21:29:19.192228",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/amazon_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/amazon_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.com.mx: Precios bajos - Env\u00edo r\u00e1pido - Millones de productos",
+      "url_final": "https://www.amazon.com.mx/",
+      "nav_items": [
+        {
+          "text": "Contenido principal",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Buscaropt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Carritomay\u00fas+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Iniciomay\u00fas+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Pedidosmay\u00fas+opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Mostrar/ocultar m\u00e9todos abreviadosmay\u00fas+opt+Z",
+        "Inicio de p\u00e1gina",
+        "Identificarse",
+        "M\u00e9xico"
+      ],
+      "forms": [
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "__mk_es_MX",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Buscar en Amazon.com.mx"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 301,
+      "images_count": 184,
+      "images_with_alt": 180,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Saltar a"
+        },
+        {
+          "level": 2,
+          "text": "M\u00e9todos abreviados de teclado"
+        },
+        {
+          "level": 2,
+          "text": "Ofertas en tendenciaOfertas en tendencia"
+        },
+        {
+          "level": 2,
+          "text": "Grandes Rebajas de Primavera"
+        },
+        {
+          "level": 2,
+          "text": "Todo lo que necesitas en Estadio Amazon"
+        },
+        {
+          "level": 3,
+          "text": "Ahorra con promociones rel\u00e1mpago"
+        },
+        {
+          "level": 3,
+          "text": "Moda por menos de $499"
+        },
+        {
+          "level": 3,
+          "text": "Promociones en menos de $299"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "__mk_es_MX",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Buscar en Amazon.com.mx"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ue_back",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 89,
+      "has_og_tags": false,
+      "meta_description": "Env\u00edo gratis en pedidos elegibles. Pagos f\u00e1ciles y seguros. Compra ahora electr\u00f3nicos, libros, ropa y mucho m\u00e1s. Devoluciones f\u00e1ciles. Inicia tu prueba de Amazon Prime gratis.",
+      "scripts_count": 124
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "fast shipping options",
+        "localized promotions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "walmart_mexico",
+    "url": "https://www.walmart.com.mx",
+    "scanned_at": "2026-03-31T21:29:38.377010",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/walmart_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/walmart_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Verifica tu identidad",
+      "url_final": "https://www.walmart.com.mx/blocked?url=Lw==&uuid=93da568b-2d2f-11f1-8955-f3a9e9ea4e74&vid=&g=b",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Verifica tu identidad"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 18
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "integrated grocery shopping"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "liverpool",
+    "url": "https://www.liverpool.com.mx",
+    "scanned_at": "2026-03-31T21:30:00.900379",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/liverpool_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/liverpool_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.liverpool.com.mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "mega_menu",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product catalog",
+        "integrated loyalty program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "coppel",
+    "url": "https://www.coppel.com",
+    "scanned_at": "2026-03-31T21:30:19.443238",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/coppel_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/coppel_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.coppel.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "financial services integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "elektra",
+    "url": "https://www.elektra.com.mx",
+    "scanned_at": "2026-03-31T21:30:39.717496",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/elektra_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/elektra_mobile.png"
+    },
+    "structure": {
+      "title": "Elektra, Tu Familia Vive Mejor",
+      "url_final": "https://www.elektra.mx/",
+      "nav_items": [
+        {
+          "text": "Ingresa tu C.P.",
+          "href": ""
+        },
+        {
+          "text": "Ubica tu tienda",
+          "href": "/buscador-de-tiendas"
+        },
+        {
+          "text": "Ingresa tu C.P.",
+          "href": ""
+        }
+      ],
+      "buttons": [
+        "Ver m\u00e1s",
+        "0",
+        "Servicios",
+        "Confirmar",
+        "Confirmar"
+      ],
+      "forms": [],
+      "links_count": 21,
+      "images_count": 42,
+      "images_with_alt": 3,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Buscar en Elektra..."
+        },
+        {
+          "type": "tel",
+          "name": "zipcode",
+          "placeholder": ""
+        },
+        {
+          "type": "tel",
+          "name": "zipcode",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 41,
+      "has_og_tags": true,
+      "meta_description": "Disfruta en Elektra comprando en l\u00ednea los productos que buscas a precios incre\u00edbles. Ahora con tu Cr\u00e9dito Elektra, estrenar es m\u00e1s f\u00e1cil. Compras 100% protegidas.",
+      "scripts_count": 126
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive payment options",
+        "store locator"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "soriana",
+    "url": "https://www.soriana.com",
+    "scanned_at": "2026-03-31T21:31:02.741544",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/soriana_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/soriana_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.soriana.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive grocery selection",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "palacio_de_hierro",
+    "url": "https://www.elpalaciodehierro.com",
+    "scanned_at": "2026-03-31T21:31:20.913979",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/palacio_de_hierro_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/palacio_de_hierro_mobile.png"
+    },
+    "structure": {
+      "title": "Attention Required! | Cloudflare",
+      "url_final": "https://www.elpalaciodehierro.com/",
+      "nav_items": [],
+      "buttons": [
+        "Click to reveal"
+      ],
+      "forms": [],
+      "links_count": 1,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry, you have been blocked"
+        },
+        {
+          "level": 2,
+          "text": "You are unable to accesselpalaciodehierro.com"
+        },
+        {
+          "level": 2,
+          "text": "Why have I been blocked?"
+        },
+        {
+          "level": 2,
+          "text": "What can I do to resolve this?"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 5
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "luxury brand focus",
+        "exclusive collections"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "home_depot_mexico",
+    "url": "https://www.homedepot.com.mx",
+    "scanned_at": "2026-03-31T21:31:39.405273",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/home_depot_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/home_depot_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.homedepot.com.mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive DIY project guides",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "costco_mexico",
+    "url": "https://www.costco.com.mx",
+    "scanned_at": "2026-03-31T21:31:57.510544",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/costco_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/costco_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.costco.com.mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "membership-based shopping",
+        "bulk purchase discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sanborns",
+    "url": "https://www.sanborns.com.mx",
+    "scanned_at": "2026-03-31T21:32:15.657916",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/sanborns_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/sanborns_mobile.png"
+    },
+    "structure": {
+      "title": "Solo Sanborns",
+      "url_final": "https://www.sanborns.com.mx/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "https://www.sanborns.com.mx"
+        }
+      ],
+      "buttons": [],
+      "forms": [],
+      "links_count": 3,
+      "images_count": 1,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u00a1Acceso denegado!"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "T\u00e9rminos y condiciones",
+        "Pol\u00edticas de privacidad"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Wide range of product categories",
+        "Integration with physical stores"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "office_depot_mx",
+    "url": "https://www.officedepot.com.mx",
+    "scanned_at": "2026-03-31T21:32:35.629635",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/office_depot_mx_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/office_depot_mx_mobile.png"
+    },
+    "structure": {
+      "title": "Office Depot Mexico | Compra en l\u00ednea Art\u00edculos de Oficina, Laptops, Sillas, Escritorios y m\u00e1s",
+      "url_final": "https://www.officedepot.com.mx/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "https://www.officedepot.com.mx/"
+        },
+        {
+          "text": "",
+          "href": "https://www.officedepot.com.mx/"
+        },
+        {
+          "text": "Blog",
+          "href": "/officedepot/en/blog"
+        },
+        {
+          "text": "Favoritos",
+          "href": "/officedepot/en/my-shoppinglists/view"
+        },
+        {
+          "text": "0Mis productos$0.00",
+          "href": "/officedepot/en/cart"
+        },
+        {
+          "text": "",
+          "href": "#"
+        },
+        {
+          "text": "Categor\u00edas",
+          "href": ""
+        },
+        {
+          "text": "C\u00f3mputo",
+          "href": ""
+        },
+        {
+          "text": "Computadoras de EscritorioComputadoras de Escritor",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/c/0"
+        },
+        {
+          "text": "Computadoras de EscritorioVelocidad y potenciapara",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/c/0"
+        },
+        {
+          "text": "LaptopsLaptopsM\u00e1ximo rendimientopara trabajar y cr",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/laptops-y-macbook/c/04-039-0-0"
+        },
+        {
+          "text": "LaptopsM\u00e1ximo rendimientopara trabajar y crear con",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/laptops-y-macbook/c/04-039-0-0"
+        },
+        {
+          "text": "TabletsTabletsLigeras, vers\u00e1tiles y listas parapot",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/ipad-y-tablets/c/04-041-904-0"
+        },
+        {
+          "text": "TabletsLigeras, vers\u00e1tiles y listas parapotenciar ",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/ipad-y-tablets/c/04-041-904-0"
+        },
+        {
+          "text": "MonitoresMonitoresDetalles que cobran vida conreso",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/mon"
+        },
+        {
+          "text": "MonitoresDetalles que cobran vida conresoluci\u00f3n y ",
+          "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/mon"
+        },
+        {
+          "text": "Servicios",
+          "href": ""
+        },
+        {
+          "text": "Creaci\u00f3n de contenido digitalCreaci\u00f3n de contenido",
+          "href": "https://www.officedepot.com.mx/officedepot/en/fabrica-de-contenido"
+        },
+        {
+          "text": "Creaci\u00f3n de contenido digitalImpulsa tupresencia o",
+          "href": "https://www.officedepot.com.mx/officedepot/en/fabrica-de-contenido"
+        },
+        {
+          "text": "giit!giit!La nuevatelefon\u00eda celular SMS, MIN y Nav",
+          "href": "https://www.officedepot.com.mx/officedepot/en/giit"
+        }
+      ],
+      "buttons": [
+        "COMPRAR Y RECOGER EN TIENDA",
+        "COMPRAR Y RECOGER EN TIENDA"
+      ],
+      "forms": [
+        {
+          "action": "/officedepot/en/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "text",
+              "placeholder": "*Buscar por categor\u00eda, producto o marca"
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "productNamePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productCodePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productPostPrice",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "productNamePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productCodePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productPostPrice",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "productNamePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productCodePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productPostPrice",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/cart/add",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "productNamePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productCodePost",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "productPostPrice",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "CSRFToken",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 873,
+      "images_count": 359,
+      "images_with_alt": 68,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Office Depot M\u00e9xico: Papeler\u00eda y electr\u00f3nica al mejor precio"
+        },
+        {
+          "level": 2,
+          "text": "Aprovecha nuestras promociones en Office Depot"
+        },
+        {
+          "level": 2,
+          "text": "Descubre los mejores productos seg\u00fan tu perfil en Office Depot M\u00e9xico"
+        },
+        {
+          "level": 2,
+          "text": "Encuentra las mejores marcas en nuestra tienda en l\u00ednea"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "text",
+          "placeholder": "*Buscar por categor\u00eda, producto o marca"
+        },
+        {
+          "type": "radio",
+          "name": "actMenu",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuSec",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuTer",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actMenu",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuSec",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuSec",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuTer",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuTer",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "openMore-ProductosODNavNodeNew",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "actSMenuCua",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        ".",
+        ".",
+        "Herramientas de                                 co",
+        "Facturaci\u00f3n",
+        "\u00bfBuscas alguna tienda?",
+        "Encuentra                             ofertas cerc",
+        "Folleto                             del mes",
+        "Cat\u00e1logo                             anual",
+        "Informaci\u00f3n                                 legal",
+        "Aviso de privacidad",
+        "T\u00e9rminos                             y Condiciones",
+        "T\u00e9rminos y Condiciones de Uso del Portal",
+        "T\u00e9rminos y Condiciones Office Depot Rewards",
+        "T\u00e9rminos                             y condiciones",
+        "T\u00e9rminos                             y Condiciones",
+        "T\u00e9rminos y Condiciones P\u00f3liza De Servicio De Mante",
+        "T\u00e9rminos y Condiciones                            ",
+        "T\u00e9rminos y                             Condiciones",
+        "Nosotros te                                 ayudam",
+        "Proveedores"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 86,
+      "has_og_tags": false,
+      "meta_description": " Compra en l\u00ednea lo mejor en art\u00edculos de oficina, laptops, tablets, televisiones, impresoras, multifuncionales, cajas de papel, computadoras, sillas, escritorios, archiveros, cartuchos de tinta, t\u00f3ne",
+      "scripts_count": 246
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 7,
+      "notable_unique_features": [
+        "COMPRAR Y RECOGER EN TIENDA option",
+        "Extensive product categories"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "shein_mexico",
+    "url": "https://mx.shein.com",
+    "scanned_at": "2026-03-31T21:32:56.412604",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/shein_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/shein_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Ropa y Moda para Todos al Mejor Precio Online | SHEIN M\u00e9xico",
+      "url_final": "https://www.shein.com.mx/",
+      "nav_items": [
+        {
+          "text": "Solo para ti",
+          "href": "https://www.shein.com.mx/Cellphones-c-4703.html?ici=mx_tab01navbar01&src_module=topcat&src_identifie"
+        },
+        {
+          "text": "Novedades",
+          "href": "https://www.shein.com.mx/new/New-In-All-sc-0021884529.html?ici=mx_tab02navbar02&src_module=topcat&sr"
+        },
+        {
+          "text": "Ofertas",
+          "href": "https://www.shein.com.mx/sale/All-Sale-sc-0051884505.html?ici=mx_tab03navbar03&src_module=topcat&src"
+        },
+        {
+          "text": "Ropa de mujer",
+          "href": "https://www.shein.com.mx/RecommendSelection/Women-Clothing-sc-017172961.html?ici=mx_tab04navbar04&sr"
+        },
+        {
+          "text": "Trajes de ba\u00f1o",
+          "href": "https://www.shein.com.mx/RecommendSelection/Beachwear-sc-017706887.html?ici=mx_tab05navbar05&src_mod"
+        },
+        {
+          "text": "Talla Grande",
+          "href": "https://www.shein.com.mx/RecommendSelection/Curve-sc-017172964.html?ici=mx_tab06navbar06&src_module="
+        },
+        {
+          "text": "Ni\u00f1os",
+          "href": "https://www.shein.com.mx/RecommendSelection/Kids-sc-017185550.html?ici=mx_tab07navbar07&src_module=t"
+        },
+        {
+          "text": "Ropa para hombre",
+          "href": "https://www.shein.com.mx/RecommendSelection/Men-Clothing-sc-017172963.html?ici=mx_tab08navbar08&src_"
+        },
+        {
+          "text": "Ropa interior y ropa de dormir",
+          "href": "https://www.shein.com.mx/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=mx_tab09navbar"
+        },
+        {
+          "text": "Bisuter\u00eda y accesorios",
+          "href": "https://www.shein.com.mx/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=mx_tab10navbar"
+        },
+        {
+          "text": "Zapatos",
+          "href": "https://www.shein.com.mx/RecommendSelection/Shoes-sc-017172966.html?ici=mx_tab11navbar11&src_module="
+        },
+        {
+          "text": "Hogar y Vida",
+          "href": "https://www.shein.com.mx/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=mx_tab12navbar12&src_"
+        },
+        {
+          "text": "Deportes y aire libre",
+          "href": "https://www.shein.com.mx/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=mx_tab13navbar13&s"
+        },
+        {
+          "text": "Beb\u00e9 y maternidad",
+          "href": "https://www.shein.com.mx/RecommendSelection/Baby-Maternity-sc-017172967.html?ici=mx_tab14navbar14&sr"
+        },
+        {
+          "text": "Belleza y salud",
+          "href": "https://www.shein.com.mx/RecommendSelection/Beauty-Health-sc-017172970.html?ici=mx_tab15navbar15&src"
+        },
+        {
+          "text": "Bolsas y equipaje",
+          "href": "https://www.shein.com.mx/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=mx_tab16navbar16&src_"
+        },
+        {
+          "text": "Herramientas y mejoras para el hogar",
+          "href": "https://www.shein.com.mx/RecommendSelection/Tools-Home-Improvement-sc-017185547.html?ici=mx_tab17nav"
+        },
+        {
+          "text": "Textiles de hogar",
+          "href": "https://www.shein.com.mx/RecommendSelection/Home-Textile-sc-017172972.html?ici=mx_tab18navbar18&src_"
+        },
+        {
+          "text": "M\u00f3viles & accesorios",
+          "href": "https://www.shein.com.mx/RecommendSelection/Cell-Phones-Accessories-sc-017706910.html?ici=mx_tab19na"
+        },
+        {
+          "text": "Electr\u00f3nica",
+          "href": "https://www.shein.com.mx/RecommendSelection/Electronics-sc-017706908.html?ici=mx_tab20navbar20&src_m"
+        }
+      ],
+      "buttons": [
+        "Vestidos",
+        "Blusas",
+        "Traje De Ba\u00f1o Mujer",
+        "Blusas Para Mujer",
+        "Glowmode",
+        "Playa",
+        "Categor\u00edas",
+        "NO",
+        "S\u00cd",
+        "\u00a1Cons\u00edguelos Todos!"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "Vestidos"
+            }
+          ]
+        }
+      ],
+      "links_count": 96,
+      "images_count": 92,
+      "images_with_alt": 62,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Ofertas especiales solo para ti"
+        },
+        {
+          "level": 3,
+          "text": "Busca y Encuentra"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "Vestidos"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 106,
+      "has_og_tags": true,
+      "meta_description": "\u2705 30% dto. en tu primer pedido \u2705 2000+Novedades diarias. \u00a1Descubre las \u00faltimas tendencias de moda para mujeres de todas tallas, hombres, ni\u00f1os y hazlas tuyas con los s\u00faper precios en SHEIN!",
+      "scripts_count": 91
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "personalized recommendations",
+        "multiple language support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "bodega_aurrera",
+    "url": "https://www.bodegaaurrera.com.mx",
+    "scanned_at": "2026-03-31T21:33:18.267306",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/bodega_aurrera_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/bodega_aurrera_mobile.png"
+    },
+    "structure": {
+      "title": "Verify Your Identity",
+      "url_final": "https://www.bodegaaurrera.com.mx/blocked?url=L2luaWNpbw==&uuid=17305c17-2d30-11f1-a70c-62eba83549d1&vid=&g=b",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Verifica tu identidad"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 18
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 7,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "localized promotions"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "best_buy_mexico",
+    "url": "https://www.bestbuy.com.mx",
+    "scanned_at": "2026-03-31T21:33:38.080249",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bestbuy.com.mx/\nCall log:\n  - navigating to \"https://www.bestbuy.com.mx/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bestbuy.com.mx/\nCall log:\n  - navigating to \"https://www.bestbuy.com.mx/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "strong customer support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sams_club_mexico",
+    "url": "https://www.sams.com.mx",
+    "scanned_at": "2026-03-31T21:33:45.863840",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/sams_club_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/sams_club_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Verify Your Identity",
+      "url_final": "https://www.sams.com.mx/blocked?url=Lw==&uuid=2756292f-2d30-11f1-b8c1-227be37fe254&vid=&g=b",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Verifica tu identidad"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 19
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "membership-based shopping",
+        "exclusive member discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_mexico",
+    "url": "https://www.nike.com/mx/",
+    "scanned_at": "2026-03-31T21:34:08.353074",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/nike_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/nike_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Sitio web oficial de Nike. Nike MX",
+      "url_final": "https://www.nike.com/mx/",
+      "nav_items": [
+        {
+          "text": "Ir al contenido principal",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/mx/jordan"
+        },
+        {
+          "text": "Buscar tienda",
+          "href": "https://www.nike.com/mx/retail"
+        },
+        {
+          "text": "Ayuda",
+          "href": "https://www.nike.com/mx/help"
+        },
+        {
+          "text": "Ayuda",
+          "href": "https://www.nike.com/mx/help"
+        },
+        {
+          "text": "Estado del pedido",
+          "href": "https://www.nike.com/mx/orders"
+        },
+        {
+          "text": "Env\u00edo y entrega",
+          "href": "https://www.nike.com/mx/help/a/envio-entrega-gs"
+        },
+        {
+          "text": "Devoluciones",
+          "href": "https://www.nike.com/mx/help/a/politica-de-devoluciones-gs"
+        },
+        {
+          "text": "Tablas de tallas",
+          "href": "https://www.nike.com/mx/help/a/tablas-de-tallas-gs"
+        },
+        {
+          "text": "Comun\u00edcate con nosotros",
+          "href": "https://www.nike.com/mx/help/#contact"
+        },
+        {
+          "text": "Pol\u00edtica de privacidad",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=default&countr"
+        },
+        {
+          "text": "T\u00e9rminos de rebajas",
+          "href": "https://www.eshopworld.com/terms-and-conditions-of-sale-es/"
+        },
+        {
+          "text": "T\u00e9rminos de uso",
+          "href": "https://agreementservice.svs.nike.com/mx/es_la/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Env\u00edanos tus comentarios",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "\u00danete",
+          "href": "https://www.nike.com/mx/membresia"
+        },
+        {
+          "text": "Iniciar sesi\u00f3n",
+          "href": "https://www.nike.com/mx/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/mx/"
+        },
+        {
+          "text": "Hombre",
+          "href": "https://www.nike.com/mx/hombre"
+        },
+        {
+          "text": "Lo nuevo para hombre",
+          "href": "https://www.nike.com/mx/w/nuevos-lanzamientos-hombres-3n82yznik1"
+        },
+        {
+          "text": "Lo m\u00e1s vendido",
+          "href": "https://www.nike.com/mx/w/hombres-los-mas-vendidos-76m50znik1"
+        }
+      ],
+      "buttons": [
+        "M\u00e9xico",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Lo m\u00e1s destacado",
+        "Jerseys",
+        "Lo m\u00e1s destacado",
+        "Lo m\u00e1s destacado",
+        "Lo m\u00e1s destacado",
+        "Deportes",
+        "M\u00e1s deportes",
+        "Looker room",
+        "Cancel",
+        "Cancelar"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Buscar"
+            }
+          ]
+        }
+      ],
+      "links_count": 499,
+      "images_count": 47,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 1,
+          "text": "AIR LIQUID MAX"
+        },
+        {
+          "level": 2,
+          "text": "Descuentos de Fin de Temporada"
+        },
+        {
+          "level": 2,
+          "text": "Comprar por deporte"
+        },
+        {
+          "level": 2,
+          "text": "Compra por categorias"
+        },
+        {
+          "level": 2,
+          "text": "Recursos"
+        },
+        {
+          "level": 2,
+          "text": "Ayuda"
+        },
+        {
+          "level": 3,
+          "text": "Estados Unidos"
+        },
+        {
+          "level": 3,
+          "text": "BRASIL"
+        },
+        {
+          "level": 3,
+          "text": "FRANCIA"
+        },
+        {
+          "level": 3,
+          "text": "INGLATERRA"
+        },
+        {
+          "level": 3,
+          "text": "URUGUAY"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Buscar"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Buscar Tienda",
+        "Hazte Miembro",
+        "Env\u00edanos tus Comentarios",
+        "Descuento para Estudiantes",
+        "Obtener Ayuda",
+        "Estado del Pedido",
+        "Env\u00edo y Entrega",
+        "Devoluciones",
+        "Opciones de Pago",
+        "Comun\u00edcate con Nosotros",
+        "Acerca de Nike",
+        "Noticias",
+        "Empleo",
+        "Inversionistas",
+        "Sostenibilidad",
+        "Reportar un Problema",
+        "Buscar Tienda",
+        "Hazte Miembro",
+        "Env\u00edanos tus Comentarios",
+        "Descuento para Estudiantes"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 131,
+      "has_og_tags": true,
+      "meta_description": "Nike ofrece productos innovadores, experiencias y servicios para inspirar a los atletas del mundo.",
+      "scripts_count": 97
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Localized content for Mexico",
+        "Membership program"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "adidas_mexico",
+    "url": "https://www.adidas.mx",
+    "scanned_at": "2026-03-31T21:34:27.770708",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/adidas_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/adidas_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "adidas",
+      "url_final": "https://www.adidas.mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Unfortunately we are unable to give you access to our site at this time."
+        },
+        {
+          "level": 3,
+          "text": "What could have caused this?"
+        },
+        {
+          "level": 3,
+          "text": "How can I resolve this?"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product customization options",
+        "integration with fitness apps"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_mexico",
+    "url": "https://www.zara.com/mx/",
+    "scanned_at": "2026-03-31T21:34:46.248355",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/zara_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/zara_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast fashion updates",
+        "sustainable collections"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "suburbia",
+    "url": "https://www.suburbia.com.mx",
+    "scanned_at": "2026-03-31T21:35:04.275324",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/suburbia_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/suburbia_mobile.png"
+    },
+    "structure": {
+      "title": "Suburbia | Descuentos en moda | Env\u00edo gratis",
+      "url_final": "https://www.suburbia.com.mx/tienda/home",
+      "nav_items": [
+        {
+          "text": "Viajes Suburbia",
+          "href": "https://viajes.suburbia.com.mx/"
+        },
+        {
+          "text": "Tiempo aire",
+          "href": "/tienda/checkout/airtimeTicket"
+        },
+        {
+          "text": "Centro de seguros",
+          "href": "https://miseguro.suburbia.com.mx/"
+        },
+        {
+          "text": "Encuentra tu tienda",
+          "href": "/tienda/browse/storelocator"
+        },
+        {
+          "text": "Sorteos y concursos",
+          "href": "https://sorteos.suburbia.com.mx/app/"
+        },
+        {
+          "text": "Viajes Suburbia",
+          "href": "https://viajes.suburbia.com.mx/"
+        },
+        {
+          "text": "Tiempo aire",
+          "href": "/tienda/checkout/airtimeTicket"
+        },
+        {
+          "text": "Centro de seguros",
+          "href": "https://miseguro.suburbia.com.mx/"
+        },
+        {
+          "text": "Encuentra tu tienda",
+          "href": "/tienda/browse/storelocator"
+        },
+        {
+          "text": "Sorteos y concursos",
+          "href": "https://sorteos.suburbia.com.mx/app/"
+        },
+        {
+          "text": "Otros sitios",
+          "href": "/tienda/home#!"
+        },
+        {
+          "text": "Liverpool",
+          "href": "https://www.liverpool.com.mx/tienda/home"
+        },
+        {
+          "text": "Babies R Us",
+          "href": "http://www.babiesrus.com.mx/tienda/home"
+        },
+        {
+          "text": "Banana Republic",
+          "href": "https://www.bananarepublic.com.mx/tienda/home"
+        },
+        {
+          "text": "Dupuis",
+          "href": "https://www.dupuis.com.mx/tienda/home"
+        },
+        {
+          "text": "Fabletics",
+          "href": "https://www.fabletics.mx/tienda/home"
+        },
+        {
+          "text": "GAP",
+          "href": "https://www.gap.com.mx/tienda/home"
+        },
+        {
+          "text": "Pottery Barn",
+          "href": "https://www.potterybarn.com.mx/tienda/home"
+        },
+        {
+          "text": "Pottery Barn Kids",
+          "href": "https://www.potterybarnkids.com.mx/tienda/home"
+        },
+        {
+          "text": "Toys R Us",
+          "href": "http://www.toysrus.com.mx/tienda/home"
+        }
+      ],
+      "buttons": [
+        "Te escuchamos",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "forms": [],
+      "links_count": 206,
+      "images_count": 153,
+      "images_with_alt": 149,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u00a1T\u00fa eres el protagonista! \ud83d\udc9c"
+        },
+        {
+          "level": 2,
+          "text": "Encuentra lo mejor en hogar y tecnolog\u00eda"
+        },
+        {
+          "level": 2,
+          "text": "Haz de tu casa tu destino favorito"
+        },
+        {
+          "level": 2,
+          "text": "\u00a1Lo que no te puedes perder!"
+        },
+        {
+          "level": 2,
+          "text": "Lo que tu estilo estaba esperando"
+        },
+        {
+          "level": 2,
+          "text": "Moda, zapatos y accesorios para estrenar"
+        },
+        {
+          "level": 3,
+          "text": "Celulares"
+        },
+        {
+          "level": 3,
+          "text": "Pantallas"
+        },
+        {
+          "level": 3,
+          "text": "Audio"
+        },
+        {
+          "level": 3,
+          "text": "Clima y Ventilaci\u00f3n"
+        },
+        {
+          "level": 3,
+          "text": "Lavadoras y Secadoras"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Buscar por producto, categor\u00eda y m\u00e1s"
+        }
+      ],
+      "footer_links": [
+        "Mis Compras",
+        "Devoluciones",
+        "Ayuda",
+        "Mi Cr\u00e9dito",
+        "Viajes Suburbia",
+        "Tiempo Aire",
+        "Facturaci\u00f3n",
+        "Sorteos, concursos y din\u00e1micas",
+        "Servicios en tienda",
+        "Bolsa de trabajo",
+        "\u00bfQui\u00e9nes somos?",
+        "Tienda Segura ve las medidas",
+        "Sostenibilidad",
+        "Buen Fin",
+        "Hot Sale",
+        "Ofertas",
+        "WhatsApp",
+        "T\u00e9rminos y condiciones",
+        "Aviso de privacidad",
+        "Mapa del sitio"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "Nueva temporada en Suburbia con descuentos en moda para toda la familia. Descubre tendencias y renueva tu look al mejor precio con env\u00edo gratis.",
+      "scripts_count": 109
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Integration with travel and insurance services",
+        "Multiple brand partnerships"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "temu_mexico",
+    "url": "https://www.temu.com/mx",
+    "scanned_at": "2026-03-31T21:35:24.488944",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/temu_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/temu_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Verificaci\u00f3n de seguridad",
+      "url_final": "https://www.temu.com/bgn_verification.html?verifyCode=qbRPt1qTYuEjVfqQKBw-_gfb73dd6597b911c9e&from=https%3A%2F%2Fwww.temu.com%2Fmx&refer_page_name=home&refer_page_id=10005_1774982126010_ytfnz95r58&refer_page_sn=10005&_x_sessn_id=ktkcqws0xc",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 5,
+      "images_with_alt": 5,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 2,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 34
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "competitive pricing",
+        "localized content for Mexican market"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_mexico",
+    "url": "https://www.samsung.com/mx/",
+    "scanned_at": "2026-03-31T21:35:45.437004",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/samsung_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/samsung_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung M\u00e9xico | Celulares | Pantallas | L\u00ednea Blanca | Monitores y m\u00e1s",
+      "url_final": "https://www.samsung.com/mx/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/mx/"
+        },
+        {
+          "text": "Carrito de comprasCantidad de productos :0",
+          "href": "https://shop.samsung.com/mx/cart"
+        },
+        {
+          "text": "Iniciar Sesi\u00f3n",
+          "href": ""
+        },
+        {
+          "text": "Abrir Mi men\u00fa",
+          "href": ""
+        },
+        {
+          "text": "Tienda en l\u00edneaExplorar tienda",
+          "href": "/mx/offer/"
+        },
+        {
+          "text": "Tienda en l\u00ednea",
+          "href": "/mx/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNuevo",
+          "href": "/mx/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/mx/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Z Flip7",
+          "href": "/mx/smartphones/galaxy-z-flip7/buy/"
+        },
+        {
+          "text": "Galaxy S25 Edge",
+          "href": "/mx/smartphones/galaxy-s25-edge/buy/"
+        },
+        {
+          "text": "Galaxy Watch Ultra",
+          "href": "/mx/watches/galaxy-watch/galaxy-watch-ultra-2025-47mm-titanium-blue-lte-sm-l705fzb1mxo/buy/"
+        },
+        {
+          "text": "Galaxy Buds4 ProNuevo",
+          "href": "/mx/audio-sound/galaxy-buds4-pro/buy/"
+        },
+        {
+          "text": "Neo QLED 8K TV",
+          "href": "/mx/tvs/qled-tv/qn990f-75-inch-neo-qled-8k-vision-ai-smart-tv-qn75qn990ffxzx/"
+        },
+        {
+          "text": "The Frame Pro",
+          "href": "/mx/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qn75ls03fwfxzx/"
+        },
+        {
+          "text": "Q-series Soundbar",
+          "href": "/mx/audio-devices/soundbar/q990d-black-hw-q990d-zx/"
+        },
+        {
+          "text": "Odyssey OLED G8",
+          "href": "/mx/monitors/gaming/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg810slxzx/"
+        },
+        {
+          "text": "Refrigerador Bespoke AI",
+          "href": "/mx/refrigerators/french-door/rm90f-36-4-door-french-door-refrigerators-with-ai-home-and-ai-hybrid-c"
+        },
+        {
+          "text": "Lavadora Bespoke AI",
+          "href": "/mx/washers-and-dryers/washing-machines/wf90f27-front-loading-ai-home-ai-optiwash-plus-ultra-capacit"
+        },
+        {
+          "text": "Aspiradora Bespoke AI",
+          "href": "/mx/vacuum-cleaners/stick/vc9700cl-stick-vc-with-most-powerful-jet-aiultra-400w-greige-satin-greige-"
+        },
+        {
+          "text": "Inverter WindFree\u2122",
+          "href": "/mx/air-conditioners/wall-mount/ar9500t-ar70f12caawneu-ai-fast---comfort-cooling--ai-fast---comfort-"
+        }
+      ],
+      "buttons": [
+        "M\u00e9xico",
+        "M\u00e9xico / Espa\u00f1o",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Continuar",
+        "Cerrar",
+        "B\u00fasquedaB\u00fasqueda",
+        "Navegaci\u00f3n",
+        "Retroceder",
+        "B\u00fasqueda",
+        "Tienda en l\u00ednea",
+        "M\u00f3viles",
+        "TV y AV",
+        "L\u00ednea blanca",
+        "Monitores",
+        "Wearables",
+        "Accesorios",
+        "Soporte",
+        "Ayuda del Producto",
+        "Contacto",
+        "Reparaciones y Garant\u00eda",
+        "Soporte Adicional",
+        "B\u00fasquedaB\u00fasqueda",
+        "Iniciar Sesi\u00f3n/Registrarme",
+        "Abrir Mi men\u00fa",
+        "Close menu",
+        "Aceptar",
+        "Cerrar la ventana emergente",
+        "Aceptar",
+        "Cerrar la ventana emergente"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLMX/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/DCGLMX/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 312,
+      "images_count": 177,
+      "images_with_alt": 58,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Recomendado para ti"
+        },
+        {
+          "level": 2,
+          "text": "Explora las historias"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "abierto",
+        "Tienda en l\u00ednea",
+        "Compra directo. Obten m\u00e1s",
+        "SmartThings",
+        "Descubre AI",
+        "Samsung Care+",
+        "Compra y Prueba",
+        "Select AI",
+        "One Stop Service",
+        "WindFree Club",
+        "Samsung Experience Store",
+        "Hot Sale",
+        "Buen Fin",
+        "Explore",
+        "abierto",
+        "Smartphones Galaxy",
+        "Galaxy Tab",
+        "Galaxy Watch",
+        "Galaxy Buds",
+        "TVs"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 178,
+      "has_og_tags": true,
+      "meta_description": "Descubre la gama de celulares, pantallas, lavadoras, monitores, barras de sonido y m\u00e1s que tenemos en Samsung. Adem\u00e1s, MSI + Env\u00edo \u00a1Gratis!",
+      "scripts_count": 155
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Personalized recommendations",
+        "Multiple payment options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "apple_mexico",
+    "url": "https://www.apple.com/mx/shop",
+    "scanned_at": "2026-03-31T21:36:06.426260",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/apple_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/apple_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store Online - Apple (MX)",
+      "url_final": "https://www.apple.com/mx/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/mx/"
+        },
+        {
+          "text": "Tienda",
+          "href": "/mx/store"
+        },
+        {
+          "text": "Ver lo \u00faltimo",
+          "href": "https://www.apple.com/mx/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/mx/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/mx/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/mx/shop/buy-iphone"
+        },
+        {
+          "text": "Apple\u00a0Watch",
+          "href": "https://www.apple.com/mx/shop/buy-watch"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/mx/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Accesorios",
+          "href": "https://www.apple.com/mx/shop/accessories/all"
+        },
+        {
+          "text": "Busca una tienda",
+          "href": "https://www.apple.com/mx/retail/"
+        },
+        {
+          "text": "Encuentra tu pedido",
+          "href": "https://secure.store.apple.com/mx/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In",
+          "href": "https://www.apple.com/mx/shop/trade-in"
+        },
+        {
+          "text": "Financiamiento",
+          "href": "https://www.apple.com/mx/shop/goto/ww/financing"
+        },
+        {
+          "text": "Configuraci\u00f3n Personalizada",
+          "href": "https://www.apple.com/mx/shop/goto/personal_setup"
+        },
+        {
+          "text": "Educaci\u00f3n",
+          "href": "https://www.apple.com/mx/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Empresas",
+          "href": "https://www.apple.com/mx/retail/business/"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/mx/mac/"
+        },
+        {
+          "text": "Ver todos los modelos de\u00a0Mac",
+          "href": "https://www.apple.com/mx/mac/"
+        },
+        {
+          "text": "MacBook Neo",
+          "href": "https://www.apple.com/mx/macbook-neo/"
+        },
+        {
+          "text": "MacBook\u00a0Air",
+          "href": "https://www.apple.com/mx/macbook-air/"
+        }
+      ],
+      "buttons": [
+        "Anterior - Producto",
+        "Siguiente - Producto",
+        "Anterior -",
+        "Siguiente -",
+        "Anterior - Te ayudamos.",
+        "Siguiente - Te ayudamos.",
+        "Anterior - El Apple Store hace la diferencia.",
+        "Siguiente - El Apple Store hace la diferencia.",
+        "Anterior - Accesorios.",
+        "Siguiente - Accesorios.",
+        "Anterior - Esc\u00fachalo todo.",
+        "Siguiente - Esc\u00fachalo todo.",
+        "Anterior - La experiencia Apple.",
+        "Siguiente - La experiencia Apple.",
+        "Anterior - Precios especiales."
+      ],
+      "forms": [
+        {
+          "action": "/mx/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Buscar en apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 366,
+      "images_count": 70,
+      "images_with_alt": 53,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Tienda"
+        },
+        {
+          "level": 2,
+          "text": "Comprar"
+        },
+        {
+          "level": 2,
+          "text": "Enlaces r\u00e1pidos"
+        },
+        {
+          "level": 2,
+          "text": "Comprar en las tiendas especiales"
+        },
+        {
+          "level": 2,
+          "text": "Conoce la\u00a0Mac"
+        },
+        {
+          "level": 2,
+          "text": "Comprar la\u00a0Mac"
+        },
+        {
+          "level": 3,
+          "text": "NUEVO"
+        },
+        {
+          "level": 3,
+          "text": "NUEVO"
+        },
+        {
+          "level": 3,
+          "text": "NUEVO"
+        },
+        {
+          "level": 3,
+          "text": "NUEVO"
+        },
+        {
+          "level": 3,
+          "text": "NUEVO"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Buscar en apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "aqu\u00ed",
+        "t\u00e9rminos(se abre en una nueva ventana)",
+        "support.apple.com/121115para ver la disponibilidad",
+        "aqu\u00ed",
+        "t\u00e9rminos(se abre en una nueva ventana)",
+        "support.apple.com/121115para ver la disponibilidad",
+        "Apple",
+        "Tienda",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "AirPods",
+        "TV y Casa",
+        "AirTag",
+        "Accesorios",
+        "Tarjetas de regalo",
+        "Wallet",
+        "Apple Pay",
+        "Administra tu Cuenta de Apple"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 56,
+      "has_og_tags": true,
+      "meta_description": "Ve las nuevas ofertas, productos y accesorios de Apple. Obt\u00e9n ayuda para comprar, flexibilidad de pago y opciones de entrega.",
+      "scripts_count": 59
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Apple Trade In program",
+        "Personalized setup service",
+        "Education discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon_mexico",
+    "url": "https://www.decathlon.com.mx",
+    "scanned_at": "2026-03-31T21:36:26.674330",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/decathlon_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/decathlon_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Decathlon M\u00e9xico | Tu gran tienda de deporte: material, ropa y calzado deportivo",
+      "url_final": "https://www.decathlon.com.mx/",
+      "nav_items": [
+        {
+          "text": "Membres\u00eda",
+          "href": "https://membership.decathlon.com/es-MX"
+        },
+        {
+          "text": "Facturar",
+          "href": "https://face-suite.com/decathlon"
+        },
+        {
+          "text": "Tiendas",
+          "href": "https://www.decathlon.com.mx/content/102-filialen-decathlon"
+        },
+        {
+          "text": "Mi cuenta",
+          "href": "//www.decathlon.com.mx/module/oneshop_member/login"
+        },
+        {
+          "text": "My cartN\u00famero de productos a\u00f1adidos al carrito:0",
+          "href": "https://www.decathlon.com.mx/carrito?action=show"
+        }
+      ],
+      "buttons": [
+        "Leer m\u00e1s",
+        "Aceptar",
+        "Pause",
+        "Menu",
+        "Nueva Busqueda",
+        "Deportes",
+        "Cerrar",
+        "Mujer",
+        "Cerrar",
+        "Hombre",
+        "Cerrar",
+        "Infantil",
+        "Cerrar",
+        "Accesorios",
+        "Cerrar",
+        "Servicios",
+        "Cerrar"
+      ],
+      "forms": [
+        {
+          "action": "/search/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "query",
+              "placeholder": "Buscar"
+            }
+          ]
+        }
+      ],
+      "links_count": 548,
+      "images_count": 109,
+      "images_with_alt": 8,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Decathlon M\u00e9xico | Tu gran tienda de deporte: material, ropa y calzado deportivo"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "3 y 6 Meses Sin Intereses."
+        },
+        {
+          "level": 2,
+          "text": "10% de Descuento al pagar a meses sin tarjeta"
+        },
+        {
+          "level": 2,
+          "text": "Exclusivo en APP"
+        },
+        {
+          "level": 2,
+          "text": "Semana Santa \u26f1\ufe0f"
+        },
+        {
+          "level": 3,
+          "text": ""
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "pseudo",
+          "placeholder": "Buscar"
+        },
+        {
+          "type": "search",
+          "name": "query",
+          "placeholder": "Buscar"
+        }
+      ],
+      "footer_links": [
+        "M\u00e1s de 65 deportesEncuentra una enorme variedad de",
+        "Recoge gratis en tiendaEntrega gratuita Clic y Rec",
+        "Devoluciones gratuitasDevuelve de forma sencilla t",
+        "Env\u00edo, Condiciones y tipos de entregaEnv\u00edo est\u00e1nda",
+        "Garantias generales de productos DecathlonHaz v\u00e1li",
+        "Decathlon AppDescargar",
+        "S\u00edguenos en Facebook",
+        "S\u00edguenos en YouTube",
+        "S\u00edguenos en Instagram",
+        "Formas de pago",
+        "Cambios y devoluciones",
+        "Condiciones y tiempos de entrega",
+        "Gu\u00eda de tallas",
+        "Cont\u00e1ctanos",
+        "Condiciones generales de promociones",
+        "Garant\u00eda productos Decathlon",
+        "Facturaci\u00f3n",
+        "Tarjeta de Regalo",
+        "Mi Membres\u00eda",
+        "Renta"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 261,
+      "has_og_tags": false,
+      "meta_description": "\u00a1Equ\u00edpate ahora en tu tienda de deportes! Ropa, calzado y accesorios deportivos. M\u00e1s de 65 deportes. Garant\u00eda. Productos Test. Membres\u00eda. Opciones de pago.",
+      "scripts_count": 21
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "Y",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Membership program",
+        "Exclusive app discounts"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "ikea_mexico",
+    "url": "https://www.ikea.com/mx/es/",
+    "scanned_at": "2026-03-31T21:36:47.654374",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/ikea_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/ikea_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "IKEA Muebles y decoraci\u00f3n para el hogar - IKEA M\u00e9xico",
+      "url_final": "https://www.ikea.com/mx/es/",
+      "nav_items": [
+        {
+          "text": "Productos",
+          "href": "https://www.ikea.com/mx/es/cat/products-products/"
+        },
+        {
+          "text": "Habitaciones",
+          "href": "https://www.ikea.com/mx/es/rooms/"
+        },
+        {
+          "text": "Ofertas",
+          "href": "https://www.ikea.com/mx/es/offers/"
+        },
+        {
+          "text": "Inspiraci\u00f3n",
+          "href": "https://www.ikea.com/mx/es/ideas/"
+        },
+        {
+          "text": "Servicios",
+          "href": "https://www.ikea.com/mx/es/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Borra el campo de entrada de b\u00fasqueda",
+        "Buscar",
+        "Cargar 6 m\u00e1sLoading\u2026",
+        "ESMXespa\u00f1ol",
+        "Cambia entre temas oscuros y claros",
+        "Aceptar todas las cookies",
+        "Solo las cookies necesarias",
+        "Configuraci\u00f3n de cookies",
+        "Saltar al contenido principal",
+        "Introduce el c\u00f3digo postal",
+        "Seleccionar tienda",
+        "Hej! Inicia sesi\u00f3n o reg\u00edstrate",
+        "Hej!",
+        "IKHej {{firstName}} !"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/mx/es/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "\u00bfQu\u00e9 es lo que buscas?"
+            }
+          ]
+        }
+      ],
+      "links_count": 173,
+      "images_count": 69,
+      "images_with_alt": 46,
+      "headings": [
+        {
+          "level": 1,
+          "text": "\u00a1Bienvenidos a IKEA M\u00e9xico!"
+        },
+        {
+          "level": 2,
+          "text": "Hasta 30% de descuento en nuestras ofertas de Semana Santa"
+        },
+        {
+          "level": 2,
+          "text": "\u00a1Nuestra oferta semanal est\u00e1 aqu\u00ed!"
+        },
+        {
+          "level": 2,
+          "text": "Un nuevo mejor amigo te espera este mes"
+        },
+        {
+          "level": 2,
+          "text": "Descubre diversas formas de organizar tus cosas"
+        },
+        {
+          "level": 2,
+          "text": "Descubre IKEA"
+        },
+        {
+          "level": 3,
+          "text": "FLISATMesa para ni\u00f1os"
+        },
+        {
+          "level": 3,
+          "text": "MIXTURFuente de servir para horno"
+        },
+        {
+          "level": 3,
+          "text": "NEREBYRecipiente"
+        },
+        {
+          "level": 3,
+          "text": "NEREBYRiel"
+        },
+        {
+          "level": 3,
+          "text": "Entrega a domicilio"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "\u00bfQu\u00e9 es lo que buscas?"
+        }
+      ],
+      "footer_links": [
+        "Conoce m\u00e1s",
+        "Reg\u00edstrate o inicia sesi\u00f3n",
+        "Home Tours",
+        "Herramientas de planeaci\u00f3n",
+        "Mi tienda local",
+        "App de compras IKEA",
+        "Restaurante, Bistro y Mercado de comida sueca",
+        "IKEA para tu Negocio",
+        "Opciones de pago",
+        "Tarjetas de regalo IKEA",
+        "Rastrea tu pedido",
+        "Preguntas frecuentes",
+        "Cont\u00e1ctanos",
+        "Servicios IKEA",
+        "Devoluciones y reclamaciones",
+        "\u00a1Aseg\u00faralo o devu\u00e9lvelo!",
+        "Garant\u00edas",
+        "Facturaci\u00f3n",
+        "Cu\u00e9ntanos tu experiencia",
+        "T\u00e9rminos y condiciones"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 48,
+      "has_og_tags": true,
+      "meta_description": "IKEA muebles y art\u00edculos de decoraci\u00f3n para hogar y oficina F\u00e1ciles de armar con dise\u00f1os modernos y minimalistas para ba\u00f1o, cocina y m\u00e1s \u00a1Precio accesible!",
+      "scripts_count": 40
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive product categories",
+        "Inspiration and ideas section"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "linio_mexico",
+    "url": "https://www.linio.com.mx",
+    "scanned_at": "2026-03-31T21:37:10.162595",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linio.com.mx/\nCall log:\n  - navigating to \"https://www.linio.com.mx/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linio.com.mx/\nCall log:\n  - navigating to \"https://www.linio.com.mx/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "personalized recommendations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sears_mexico",
+    "url": "https://www.sears.com.mx",
+    "scanned_at": "2026-03-31T21:37:17.571407",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/sears_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/sears_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sears.com.mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product catalog",
+        "integrated Sears services"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "petco_mexico",
+    "url": "https://www.petco.com.mx",
+    "scanned_at": "2026-03-31T21:37:36.518155",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/petco_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/petco_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.petco.com.mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive pet care resources",
+        "community events"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "handm_mexico",
+    "url": "https://www2.hm.com/es_mx/",
+    "scanned_at": "2026-03-31T21:37:54.681193",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/handm_mexico_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/handm_mexico_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/es_mx/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "sustainability-focused product lines",
+        "conscious collection"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "italika",
+    "url": "https://www.italika.com.mx",
+    "scanned_at": "2026-03-31T21:38:13.860968",
+    "screenshots": {
+      "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/italika_desktop.png",
+      "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/italika_mobile.png"
+    },
+    "structure": {
+      "title": "Tienda Motos ITALIKA",
+      "url_final": "https://www.italika.mx/",
+      "nav_items": [
+        {
+          "text": "Sigue tu pedido",
+          "href": "/rastrear-pedido"
+        },
+        {
+          "text": "Ingresa tu C.P.",
+          "href": ""
+        },
+        {
+          "text": "Ubica tu tienda",
+          "href": "/"
+        },
+        {
+          "text": "Ingresa tu C.P.",
+          "href": ""
+        }
+      ],
+      "buttons": [
+        "Entrar",
+        "0",
+        "Trabajo",
+        "MOTONETA",
+        "Linea-Z",
+        "deportiva",
+        "doble prop\u00f3sito",
+        "cuatrimoto",
+        "chopper",
+        "vort-x",
+        "cafe racer",
+        "Morbidelli",
+        "Servicios",
+        "Confirmar",
+        "Confirmar"
+      ],
+      "forms": [],
+      "links_count": 117,
+      "images_count": 31,
+      "images_with_alt": 17,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Buscar en Italika..."
+        },
+        {
+          "type": "tel",
+          "name": "zipcode",
+          "placeholder": ""
+        },
+        {
+          "type": "tel",
+          "name": "zipcode",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Ingresa tu correo aqu\u00ed"
+        }
+      ],
+      "footer_links": [
+        "800 4825452",
+        "Poliza de garant\u00eda",
+        "Precios de servicios",
+        "Pregunta Frecuentes",
+        "Manuales de usuarios",
+        "Diagramas El\u00e9ctricos",
+        "Informaci\u00f3n Importante",
+        "Consulta tu factura",
+        "\u00bfC\u00f3mo comprar?",
+        "Meses Sin Intereses",
+        "Pol\u00edticas de cancelaciones y devoluciones",
+        "Formas de pago",
+        "Tr\u00e1mite de licencia",
+        "Tr\u00e1mite de placas",
+        "Cursos de manejo",
+        "El Buen Fin en Italika"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 35,
+      "has_og_tags": true,
+      "meta_description": "Italika es una marca de motos mexicanas con un amplio cat\u00e1logo de motocicletas, motonetas, cuatrimotos, motos deportivas y motos el\u00e9ctricas entre muchas otras",
+      "scripts_count": 85
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "N",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 7,
+      "notable_unique_features": [
+        "Order tracking",
+        "Phone support"
+      ],
+      "confidence": "medium"
+    }
+  }
+]

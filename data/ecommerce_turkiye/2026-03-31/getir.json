@@ -1,0 +1,161 @@
+{
+  "name": "getir",
+  "url": "https://getir.com",
+  "scanned_at": "2026-03-31T23:01:55.184624",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/getir_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/getir_mobile.png"
+  },
+  "structure": {
+    "title": "Getir - Dakikalar \u0130\u00e7inde Kap\u0131n\u0131zda",
+    "url_final": "https://getir.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "/yemek/"
+      },
+      {
+        "text": "",
+        "href": "/buyuk/"
+      },
+      {
+        "text": "",
+        "href": "/su/"
+      },
+      {
+        "text": "",
+        "href": "/carsi/"
+      }
+    ],
+    "buttons": [
+      "T\u00fcm\u00fcn\u00fc Kabul Et",
+      "T\u00fcm\u00fcn\u00fc Reddet",
+      "\u00c7erezleri Y\u00f6net",
+      "T\u00fcrk\u00e7e \n            (TR)",
+      "Giri\u015f yap",
+      "Kay\u0131t Ol",
+      "Telefon numaras\u0131 ile devam et",
+      "T\u00fcrk\u00e7e \n            (TR)"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "tel",
+            "name": "gsm",
+            "placeholder": "Telefon Numaras\u0131"
+          }
+        ]
+      }
+    ],
+    "links_count": 51,
+    "images_count": 25,
+    "images_with_alt": 24,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dakikalar i\u00e7inde kap\u0131nda"
+      },
+      {
+        "level": 2,
+        "text": "Getir'i indir!"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "tel",
+        "name": "gsm",
+        "placeholder": "Telefon Numaras\u0131"
+      }
+    ],
+    "footer_links": [
+      "Hakk\u0131m\u0131zda",
+      "Kariyer",
+      "Teknoloji Kariyerleri",
+      "\u0130leti\u015fim",
+      "Sosyal Sorumluluk Projeleri",
+      "Bas\u0131n B\u00fcltenleri",
+      "S\u0131k\u00e7a Sorulan Sorular",
+      "Ki\u015fisel Verilerin Korunmas\u0131",
+      "Gizlilik Politikas\u0131",
+      "Kullan\u0131m Ko\u015fullar\u0131",
+      "\u00c7erez Politikas\u0131",
+      "\u0130\u015flem Rehberi",
+      "Bayimiz Olun",
+      "Deponu Kirala",
+      "GetirYemek Restoran\u0131 Ol",
+      "Getir\u00c7ar\u015f\u0131 \u0130\u015fletmesi Ol",
+      "Zincir Restoranlar"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 15,
+    "has_og_tags": false,
+    "meta_description": "At\u0131\u015ft\u0131rmal\u0131ktan i\u00e7eceklere, kahvalt\u0131l\u0131klardan ki\u015fisel bak\u0131m \u00fcr\u00fcnlerine kadar binlerce \u00fcr\u00fcn\u00fc dakikalar i\u00e7inde kap\u0131na getiriyoruz.",
+    "scripts_count": 20
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "instant delivery within minutes",
+      "wide range of categories including groceries, water, and more"
+    ],
+    "confidence": "high"
+  }
+}

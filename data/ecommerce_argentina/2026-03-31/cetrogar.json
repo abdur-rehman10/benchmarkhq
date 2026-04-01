@@ -1,0 +1,432 @@
+{
+  "name": "cetrogar",
+  "url": "https://www.cetrogar.com.ar",
+  "scanned_at": "2026-03-31T22:05:40.989939",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/cetrogar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/cetrogar_mobile.png"
+  },
+  "structure": {
+    "title": "Cetrogar: Electrodom\u00e9sticos, Tecnolog\u00eda y Art\u00edculos de Hogar",
+    "url_final": "https://www.cetrogar.com.ar/",
+    "nav_items": [
+      {
+        "text": "Tecnolog\u00eda",
+        "href": "https://www.cetrogar.com.ar/tecnologia.html"
+      },
+      {
+        "text": "Tecnolog\u00eda",
+        "href": "https://www.cetrogar.com.ar/tecnologia.html"
+      },
+      {
+        "text": "Ver todoVer todo Tecnolog\u00eda",
+        "href": "https://www.cetrogar.com.ar/tecnologia.html"
+      },
+      {
+        "text": "Tv y Video",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video.html"
+      },
+      {
+        "text": "Tv y Video",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video.html"
+      },
+      {
+        "text": "Ver todoVer todo Tv y Video",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video.html"
+      },
+      {
+        "text": "Smart TV & Led TV",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/led-y-smartv.html"
+      },
+      {
+        "text": "Smart TV & Led TV",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/led-y-smartv.html"
+      },
+      {
+        "text": "Ver todoVer todo Smart TV & Led TV",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/led-y-smartv.html"
+      },
+      {
+        "text": "Proyectores",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/proyectores.html"
+      },
+      {
+        "text": "Proyectores",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/proyectores.html"
+      },
+      {
+        "text": "Ver todoVer todo Proyectores",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/proyectores.html"
+      },
+      {
+        "text": "Barras de Sonido",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/barras-de-sonido.html"
+      },
+      {
+        "text": "Barras de Sonido",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/barras-de-sonido.html"
+      },
+      {
+        "text": "Ver todoVer todo Barras de Sonido",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/barras-de-sonido.html"
+      },
+      {
+        "text": "Accesorios de TV",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/accesorios-tv.html"
+      },
+      {
+        "text": "Accesorios de TV",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/accesorios-tv.html"
+      },
+      {
+        "text": "Ver todoVer todo Accesorios de TV",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video/accesorios-tv.html"
+      },
+      {
+        "text": "Ver todo",
+        "href": "https://www.cetrogar.com.ar/tecnologia/tv-video.html"
+      },
+      {
+        "text": "Computaci\u00f3n",
+        "href": "https://www.cetrogar.com.ar/tecnologia/informatica.html"
+      }
+    ],
+    "buttons": [
+      "Clear form",
+      "Buscar",
+      "Cerrar",
+      "Previous",
+      "Next",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "Previous",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito",
+      "Agregar al carrito"
+    ],
+    "forms": [
+      {
+        "action": "https://www.cetrogar.com.ar/catalogsearch/result/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Estoy buscando..."
+          }
+        ]
+      },
+      {
+        "action": "https://www.cetrogar.com.ar/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2V0cm9nYXIuY29tLmFyLw%2C%2C/prod",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.cetrogar.com.ar/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2V0cm9nYXIuY29tLmFyLw%2C%2C/prod",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.cetrogar.com.ar/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2V0cm9nYXIuY29tLmFyLw%2C%2C/prod",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.cetrogar.com.ar/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2V0cm9nYXIuY29tLmFyLw%2C%2C/prod",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1194,
+    "images_count": 309,
+    "images_with_alt": 289,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Cetrogar: Electrodom\u00e9sticos, Tecnolog\u00eda y Art\u00edculos de Hogar"
+      },
+      {
+        "level": 1,
+        "text": "Sign in"
+      },
+      {
+        "level": 2,
+        "text": "Ofertas nocturnas"
+      },
+      {
+        "level": 2,
+        "text": "Ofertas rel\u00e1mpago"
+      },
+      {
+        "level": 2,
+        "text": "D\u00edas de Ahorro"
+      },
+      {
+        "level": 2,
+        "text": "Outlet"
+      },
+      {
+        "level": 2,
+        "text": "Ofertas exclusivas"
+      },
+      {
+        "level": 3,
+        "text": "Mi cuenta"
+      },
+      {
+        "level": 3,
+        "text": "ELEG\u00cd TU UBICACI\u00d3N"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Estoy buscando..."
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Tecnolog\u00eda",
+      "Electrodom\u00e9sticos",
+      "Hogar y Jard\u00edn",
+      "Bazar y Decoraci\u00f3n",
+      "Herramientas",
+      "Televisores",
+      "Lavarropas",
+      "Celulares",
+      "Heladeras",
+      "Sobre nosotros",
+      "Trabaj\u00e1 con nosotros",
+      "Sucursales",
+      "Informaci\u00f3n Legal",
+      "Venta Empresas",
+      "Centro de Ayuda",
+      "Contactanos",
+      "Marketing y Proveedores",
+      "Bot\u00f3n de Arrepentimiento",
+      "Libro de Quejas Online"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 240,
+    "has_og_tags": true,
+    "meta_description": "Cetrogar - Tecnolog\u00eda, Art\u00edculos para el Hogar y Electrodom\u00e9sticos",
+    "scripts_count": 256
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "N",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment": "Y",
+      "shipping_info": "N",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "N",
+      "order_history": "N",
+      "return_refund_info": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "N",
+      "phone_support": "N",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "N",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_unique_features": [
+      "Night offers",
+      "Exclusive offers"
+    ],
+    "confidence": "medium"
+  }
+}

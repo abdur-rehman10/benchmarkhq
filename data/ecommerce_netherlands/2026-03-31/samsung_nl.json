@@ -1,0 +1,560 @@
+{
+  "name": "samsung_nl",
+  "url": "https://www.samsung.com/nl/",
+  "scanned_at": "2026-03-31T22:40:48.363489",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/samsung_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/samsung_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Samsung Nederland | Smartphones | TV | Huishoudelijk | IT",
+    "url_final": "https://www.samsung.com/nl/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/nl/"
+      },
+      {
+        "text": "WinkelwagenAantal producten :0",
+        "href": "https://shop.samsung.com/nl/cart/"
+      },
+      {
+        "text": "Inloggen",
+        "href": ""
+      },
+      {
+        "text": "Mijn menu openen",
+        "href": ""
+      },
+      {
+        "text": "ShopOntdek Shop",
+        "href": "/nl/offer/"
+      },
+      {
+        "text": "Shop",
+        "href": "/nl/offer/"
+      },
+      {
+        "text": "Galaxy S26 UltraNIEUW",
+        "href": "/nl/smartphones/galaxy-s26-ultra/buy/"
+      },
+      {
+        "text": "Galaxy Z Fold7",
+        "href": "/nl/smartphones/galaxy-z-fold7/buy/"
+      },
+      {
+        "text": "Galaxy Z Flip7",
+        "href": "/nl/smartphones/galaxy-z-flip7/buy/"
+      },
+      {
+        "text": "Galaxy Tab S11 Series",
+        "href": "/nl/tablets/galaxy-tab-s11/buy/"
+      },
+      {
+        "text": "Galaxy Watch8",
+        "href": "/nl/watches/galaxy-watch8/buy/?modelCode=SM-L320NZSAEUB"
+      },
+      {
+        "text": "Galaxy Book6 SeriesNIEUW",
+        "href": "/nl/computers/galaxy-book/galaxy-book6-series/buy/"
+      },
+      {
+        "text": "OLED TV",
+        "href": "/nl/tvs/oled-tv/s95f-65-inch-oled-4k-smart-tv-qe65s95fatxxn/"
+      },
+      {
+        "text": "The Frame Pro",
+        "href": "/nl/lifestyle-tvs/the-frame/ls03fw-75-inch-black-qe75ls03fwuxxn/#benefits"
+      },
+      {
+        "text": "Q-series Soundbar",
+        "href": "/nl/audio-devices/soundbar/q990f-black-hw-q990f-xn/#benefits"
+      },
+      {
+        "text": "Odyssey OLED G8",
+        "href": "/nl/monitors/gaming/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg812suxen/"
+      },
+      {
+        "text": "Amerikaanse koelkast",
+        "href": "/nl/refrigerators/side-by-side/refrigerator-sbs-rs90f-aod-634l-black-doi-rs80f66kbfef/"
+      },
+      {
+        "text": "9kg Bespoke AI Wasmachine",
+        "href": "/nl/washers-and-dryers/washing-machines/wf90f24-front-load-washer-a-55-percent-energy-efficiency-ai-"
+      },
+      {
+        "text": "Bespoke AI Jet Ultra",
+        "href": "/nl/vacuum-cleaners/stick/vc9700cl-stick-vc-with-most-powerful-jet-aiultra-400w-black-vs90f40dek-wa/"
+      },
+      {
+        "text": "Oven Dual Cook Flex\u2122",
+        "href": "/nl/cooking-appliances/ovens/nv7000b-4series-dual-cook-flex-simple-steam-4series-dual-cook-flex-simp"
+      }
+    ],
+    "buttons": [
+      "Nederland",
+      "Nederland / Nederlands",
+      "T\u00fcrkiye / T\u00fcrk\u00e7e",
+      "Other Countries",
+      "Verdergaan",
+      "Sluiten",
+      "ZoekenZoeken",
+      "Navigation",
+      "Terug",
+      "Zoeken",
+      "Shop",
+      "Mobiel",
+      "TV & AV",
+      "Huishouden",
+      "Computers & Monitoren",
+      "Wearables",
+      "Accessoires",
+      "Support",
+      "Product Support",
+      "Contact",
+      "Reparaties & Garantie",
+      "Extra Support",
+      "ZoekenZoeken",
+      "Inloggen/Account maken",
+      "Mijn menu openen",
+      "Close menu",
+      "OK",
+      "Pop-up-laag sluiten",
+      "OK",
+      "Pop-up-laag sluiten"
+    ],
+    "forms": [
+      {
+        "action": "https://account.samsung.com/accounts/v1/Samsung_com_NL/signInGate",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "response_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "client_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "redirect_uri",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "scope",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/accounts/v1/Samsung_com_NL/signOutGate",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "client_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "signOutURL",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "registURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "returnURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 307,
+    "images_count": 177,
+    "images_with_alt": 155,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Samsung"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "2025 AI TV\u2019s"
+      },
+      {
+        "level": 2,
+        "text": "Ontdek de verhalen"
+      },
+      {
+        "level": 2,
+        "text": "Samsung-Chat"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "searchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "esapiSearchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "scene7domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reviewUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "aplautYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reevooUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvRTLFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "multiLanguageYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "localLang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "runmodeInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "apiStageInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tempTitle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "siteCode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "store_sitecode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "serverType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gpvStoreDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "storeWebDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "shopIntegrationFlag",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Open",
+      "Shop Home",
+      "Koop Samsung op samsung.com",
+      "Ontdek AI",
+      "SmartThings",
+      "Samsung Care+",
+      "Promotie registratie",
+      "Mobiel voordelen",
+      "TV & Soundbar voordelen",
+      "Huishoudelijke voordelen",
+      "Data Act",
+      "Samsung Inruil",
+      "Bestellen",
+      "Betalen",
+      "Retour",
+      "Explore",
+      "Open",
+      "Galaxy Smartphone",
+      "Galaxy Tab",
+      "Galaxy Book"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 180,
+    "has_og_tags": true,
+    "meta_description": "Welkom bij Samsung Nederland. Ontdek onze producten en de nieuwste innovaties binnen smartphones, tablets, smartwatches, TVs en huishoudelijke apparaten.",
+    "scripts_count": 45
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "Y",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Galaxy S26 Ultra and other new product highlights"
+    ],
+    "confidence": "medium"
+  }
+}

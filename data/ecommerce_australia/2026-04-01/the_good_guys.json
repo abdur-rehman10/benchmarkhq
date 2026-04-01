@@ -1,0 +1,237 @@
+{
+  "name": "the_good_guys",
+  "url": "https://www.thegoodguys.com.au",
+  "scanned_at": "2026-04-01T00:16:45.464470",
+  "screenshots": {
+    "desktop": "data/ecommerce_australia/2026-04-01/screenshots/the_good_guys_desktop.png",
+    "mobile": "data/ecommerce_australia/2026-04-01/screenshots/the_good_guys_mobile.png"
+  },
+  "structure": {
+    "title": "The Good Guys - Leading Appliance & Entertainment Retailer",
+    "url_final": "https://www.thegoodguys.com.au/",
+    "nav_items": [],
+    "buttons": [
+      "Set your store",
+      "Sign In",
+      "My Cart",
+      "Search",
+      "Shop Products",
+      "Brands",
+      "Deals",
+      "Services & Partner Offers",
+      "Claim Offer",
+      "Help Centre",
+      "Jump to slide 0",
+      "Jump to slide 1",
+      "Jump to slide 2",
+      "Jump to slide 3",
+      "Jump to slide 4"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "header-search-input",
+            "placeholder": "Search products, brands or get help"
+          }
+        ]
+      }
+    ],
+    "links_count": 195,
+    "images_count": 90,
+    "images_with_alt": 63,
+    "headings": [
+      {
+        "level": 3,
+        "text": "Solt 4.5kg Vented Dryer"
+      },
+      {
+        "level": 3,
+        "text": "Samsung 5.0ch All in one Soundbar"
+      },
+      {
+        "level": 3,
+        "text": "Hisense 205L Top Mount Refrigerator"
+      },
+      {
+        "level": 3,
+        "text": "Shark Cordless Vacuum with Self Cleaning Brushroll"
+      },
+      {
+        "level": 3,
+        "text": "Garmin Venu 3 -  Black/ Slate"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "header-search-input",
+        "placeholder": "Search products, brands or get help"
+      },
+      {
+        "type": "checkbox",
+        "name": "add eufy S340 Security Solocam (Generation 2) to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add eufy Eufycam E42 4-Camera 4K Wireless Security System to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Reolink Argus 4K PT Ultra Solar + Solar Panel to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Ring Indoor Camera (2nd Gen) White to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add eufy 2K Indoor Pan & Tilt Security Camera to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add TP-LINK 2K 3MP Solar-Powered Security Camera (2 Pack) to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Ring Outdoor Camera Plus Battery (2 Pack) to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Reolink Wireless Battery Doorbell 2K with Chime to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add JBL Live Free 2 TW Earbuds to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Skullcandy Hesh ANC Headphones to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Sennheiser CX True Wireless to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add JBL PartyBox Stage 320 Portable Speaker to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Bose QuietComfort Headphones - Sandstone to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Bose QuietComfort Earbuds to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Audio Technica Standard belt drive turntable to compare ",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "add Sonos Era 100 to compare ",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Store & Trading Hours",
+      "Buying Guides",
+      "Mobile & Broadband Plans",
+      "90 Day StoreCash>",
+      "Payment Options",
+      "Gift Cards",
+      "The Good Guys",
+      "Careers",
+      "New and Trending",
+      "Trade-In",
+      "AGL Offer",
+      "Sustainability",
+      "Investor Information",
+      "Affiliate Program",
+      "Help Centre",
+      "Delivery Options"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 211,
+    "has_og_tags": true,
+    "meta_description": "Pay less on cooking appliances, TVs, washing machines, air conditioners and more at The Good Guys. Shop online or in 100+ stores.",
+    "scripts_count": 35
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Set your store functionality"
+    ],
+    "confidence": "medium"
+  }
+}

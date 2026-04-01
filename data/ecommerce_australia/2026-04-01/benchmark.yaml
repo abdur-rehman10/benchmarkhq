@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_australia
+  name: E-commerce Australia
+  country: Australia
+  currency: AUD
+  language: en
+  version: 1.0.0
+  generated_at: '2026-04-01T00:24:59.770054'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - amazon_australia
+  - ebay_australia
+  - kmart_australia
+  - target_australia
+  - jb_hi-fi
+  - the_good_guys
+  - harvey_norman
+  - bunnings
+  - woolworths
+  - coles
+  - big_w
+  - myer
+  - david_jones
+  - catch
+  - officeworks
+  - the_iconic
+  - nike_australia
+  - adidas_australia
+  - ikea_australia
+  - chemist_warehouse
+  - pet_circle
+  - temple_webster
+  - cotton_on
+  - decathlon_australia
+  - samsung_australia
+  - apple_australia
+  - temu_australia
+  - shein_australia
+  - gumtree
+  - asos_australia
+features:
+  critical:
+  - id: product_search
+    frequency: 17/17
+    percent: 100
+  - id: category_browsing
+    frequency: 17/17
+    percent: 100
+  - id: login_signup
+    frequency: 17/17
+    percent: 100
+  - id: guest_checkout
+    frequency: 14/17
+    percent: 100
+  - id: product_images
+    frequency: 17/17
+    percent: 100
+  - id: product_descriptions
+    frequency: 15/17
+    percent: 100
+  - id: price_display
+    frequency: 17/17
+    percent: 100
+  - id: stock_availability
+    frequency: 14/17
+    percent: 100
+  - id: related_products
+    frequency: 12/17
+    percent: 100
+  - id: shopping_cart
+    frequency: 17/17
+    percent: 100
+  - id: add_to_cart
+    frequency: 17/17
+    percent: 100
+  - id: promo_code
+    frequency: 12/17
+    percent: 100
+  - id: multiple_payment
+    frequency: 14/17
+    percent: 100
+  - id: shipping_info
+    frequency: 16/17
+    percent: 100
+  - id: star_ratings
+    frequency: 11/17
+    percent: 100
+  - id: customer_reviews
+    frequency: 11/17
+    percent: 100
+  - id: personalized_recommendations
+    frequency: 12/17
+    percent: 100
+  - id: order_tracking
+    frequency: 15/17
+    percent: 100
+  - id: order_history
+    frequency: 14/17
+    percent: 100
+  - id: return_refund_info
+    frequency: 16/17
+    percent: 100
+  - id: help_center
+    frequency: 17/17
+    percent: 100
+  - id: contact_form
+    frequency: 13/17
+    percent: 100
+  - id: phone_support
+    frequency: 11/17
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 17/17
+    percent: 100
+  - id: language_attribute
+    frequency: 17/17
+    percent: 100
+  - id: privacy_policy
+    frequency: 15/17
+    percent: 100
+  - id: terms_of_service
+    frequency: 14/17
+    percent: 100
+  - id: responsive_design
+    frequency: 17/17
+    percent: 100
+  - id: hero_section
+    frequency: 13/17
+    percent: 93
+  - id: search_filters
+    frequency: 11/17
+    percent: 92
+  - id: trending_items
+    frequency: 11/17
+    percent: 92
+  - id: estimated_delivery
+    frequency: 11/17
+    percent: 92
+  - id: wishlist
+    frequency: 12/17
+    percent: 92
+  - id: search_autocomplete
+    frequency: 10/17
+    percent: 91
+  - id: recently_viewed
+    frequency: 10/17
+    percent: 91
+  - id: cookie_consent
+    frequency: 10/17
+    percent: 91
+  - id: sticky_header
+    frequency: 10/17
+    percent: 91
+  - id: breadcrumb_navigation
+    frequency: 10/17
+    percent: 91
+  - id: footer_with_links
+    frequency: 15/17
+    percent: 88
+  required:
+  - id: size_variant_selector
+    frequency: 10/17
+    percent: 83
+  recommended:
+  - id: review_photos
+    frequency: 7/17
+    percent: 64
+  - id: social_login
+    frequency: 6/17
+    percent: 55
+  - id: push_notifications
+    frequency: 6/17
+    percent: 55
+  - id: skeleton_loading
+    frequency: 6/17
+    percent: 55
+  - id: live_chat
+    frequency: 5/17
+    percent: 45
+  nice_to_have: []
+  innovative: []

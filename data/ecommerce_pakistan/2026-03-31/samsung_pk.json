@@ -1,0 +1,557 @@
+{
+  "name": "samsung_pk",
+  "url": "https://www.samsung.com/pk/",
+  "scanned_at": "2026-03-31T23:39:47.568750",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/samsung_pk_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/samsung_pk_mobile.png"
+  },
+  "structure": {
+    "title": "Samsung Pakistan | Mobile | TV | Home Appliances",
+    "url_final": "https://www.samsung.com/pk/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/pk/"
+      },
+      {
+        "text": "CartNumber of Products :0",
+        "href": "https://shop.samsung.com/pk/cart"
+      },
+      {
+        "text": "Log-In",
+        "href": ""
+      },
+      {
+        "text": "Open My Menu",
+        "href": ""
+      },
+      {
+        "text": "ShopExplore Shop",
+        "href": "/pk/offer/"
+      },
+      {
+        "text": "Shop",
+        "href": "/pk/offer/"
+      },
+      {
+        "text": "Galaxy S26 UltraNEW",
+        "href": "/pk/smartphones/galaxy-s26-ultra/"
+      },
+      {
+        "text": "Galaxy S25 | S25+",
+        "href": "/pk/smartphones/galaxy-s25/buy/"
+      },
+      {
+        "text": "Galaxy S25 FE",
+        "href": "/pk/smartphones/galaxy-s25/buy/?modelCode=SM-S731BDBWPKD"
+      },
+      {
+        "text": "Galaxy A17",
+        "href": "/pk/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbcpkd/buy/"
+      },
+      {
+        "text": "Galaxy A56",
+        "href": "/pk/smartphones/galaxy-a56-5g/buy/?modelCode=SM-A566BLIWPKD"
+      },
+      {
+        "text": "Galaxy Buds4 ProNEW",
+        "href": "/pk/audio-sound/galaxy-buds/galaxy-buds4-pro-white-sm-r640nzwamea/"
+      },
+      {
+        "text": "QLED Q8F 4K TV",
+        "href": "/pk/tvs/qled-tv/q8f-75-inch-qled-4k-smart-tv-qa75q8faausmm/"
+      },
+      {
+        "text": "QLED Q60D 4K TV",
+        "href": "/pk/tvs/qled-tv/q60d-65-inch-qled-4k-tizen-os-smart-tv-qa65q60dauswk/"
+      },
+      {
+        "text": "Crystal UHD DU7000 4K TV",
+        "href": "/pk/tvs/uhd-4k-tv/du7000-55-inch-crystal-uhd-4k-tizen-os-smart-tv-ua55du7000uswk/"
+      },
+      {
+        "text": "Curved Gaming Monitor",
+        "href": "/pk/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwmxue/"
+      },
+      {
+        "text": "Side-by-Side Refrigerator",
+        "href": "/pk/refrigerators/side-by-side/refrigerator-sbs-rs90f-basic-655l-black-doi-rs70f65qeftr/"
+      },
+      {
+        "text": "9KG\u00a0Laundry",
+        "href": "/pk/washers-and-dryers/washing-machines/ww5000d-front-loading-smartthings-ai-energy-mode-a-10-percen"
+      },
+      {
+        "text": "15KG\u00a0Laundry",
+        "href": "/pk/washers-and-dryers/washing-machines/wa5000c-top-load-ecobubble-digital-inverter-technology-super"
+      },
+      {
+        "text": "Air Conditioner",
+        "href": "/pk/air-conditioners/wall-mount/ar9500t-ar50f12c1uhnsa-non-windfree-ar50f18c1nh2pm/"
+      }
+    ],
+    "buttons": [
+      "Read More",
+      "close",
+      "Pakistan",
+      "Pakistan / English",
+      "T\u00fcrkiye / T\u00fcrk\u00e7e",
+      "Other Countries",
+      "Continue",
+      "Close",
+      "SearchSearch",
+      "Navigation",
+      "Back",
+      "Search",
+      "Shop",
+      "Mobile",
+      "TV & AV",
+      "Appliances",
+      "Monitors",
+      "Wearables",
+      "Support",
+      "Product Help",
+      "Contact",
+      "Repairs & Warranty",
+      "Additional Support",
+      "SearchSearch",
+      "Log-In/Sign-Up",
+      "Open My Menu",
+      "Close menu",
+      "OK",
+      "Layer Popup Close",
+      "OK"
+    ],
+    "forms": [
+      {
+        "action": "https://account.samsung.com/accounts/v1/DCGLPK/signInGate",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "response_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "client_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "redirect_uri",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "scope",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/accounts/v1/DCGLPK/signOutGate",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "client_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "signOutURL",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "registURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "returnURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://account.samsung.com/membership/",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "actionID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "serviceName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "countryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languageCode",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "goBackURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ssoType",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 248,
+    "images_count": 134,
+    "images_with_alt": 69,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Samsung"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Recommended for you"
+      },
+      {
+        "level": 2,
+        "text": "Explore the Stories"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "searchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "esapiSearchDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "scene7domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reviewUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "aplautYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "reevooUseYN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "bvRTLFlag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "multiLanguageYn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "localLang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "runmodeInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "apiStageInfo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tempTitle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "siteCode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "store_sitecode",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "serverType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gpvStoreDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "storeWebDomain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "shopIntegrationFlag",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "open",
+      "Shop Home",
+      "Buy Direct Get More",
+      "Smartphone",
+      "SmartThings",
+      "Discover AI",
+      "New and featured",
+      "Wearables",
+      "Tablets",
+      "Explore",
+      "open",
+      "Galaxy Smartphone",
+      "Galaxy Tab",
+      "Galaxy Watch",
+      "Galaxy Buds",
+      "TVs",
+      "Projectors",
+      "Refrigerators",
+      "Laundry",
+      "Monitors"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 158,
+    "has_og_tags": true,
+    "meta_description": "Explore the latest Samsung electronics, designed with cutting-edge technology to provide superior quality and performance. Shop Galaxy S25 at Samsung Pakistan.",
+    "scripts_count": 82
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "Y",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Integration with Samsung account for login",
+      "Localized content for Pakistan"
+    ],
+    "confidence": "medium"
+  }
+}

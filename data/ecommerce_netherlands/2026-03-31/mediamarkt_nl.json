@@ -1,0 +1,262 @@
+{
+  "name": "mediamarkt_nl",
+  "url": "https://www.mediamarkt.nl",
+  "scanned_at": "2026-03-31T22:33:42.505031",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/mediamarkt_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/mediamarkt_nl_mobile.png"
+  },
+  "structure": {
+    "title": "De elektronica retailer van Nederland | MediaMarkt",
+    "url_final": "https://www.mediamarkt.nl/nl/",
+    "nav_items": [
+      {
+        "text": "Tv",
+        "href": "https://www.mediamarkt.nl/nl/specials/televisies"
+      },
+      {
+        "text": "Huishouden",
+        "href": "/nl/category/huishouden-1.html"
+      },
+      {
+        "text": "Computer",
+        "href": "https://www.mediamarkt.nl/nl/category/computer-362.html"
+      },
+      {
+        "text": "Telefonie & Wearables",
+        "href": "/nl/category/telefonie-wearables-281.html"
+      },
+      {
+        "text": "Kleine keukenapparatuur",
+        "href": "/nl/category/kleine-keukenapparatuur-2737.html"
+      },
+      {
+        "text": "Grote keukenapparatuur",
+        "href": "/nl/category/grote-keukenapparatuur-64.html"
+      },
+      {
+        "text": "Klantenservice",
+        "href": "/nl/service/klantenservice"
+      },
+      {
+        "text": "Services",
+        "href": "/nl/service/services"
+      },
+      {
+        "text": "Highlights van de week",
+        "href": "/nl/campaign/alle-deals"
+      },
+      {
+        "text": "Telefoonabonnementen",
+        "href": "https://telefoonabonnementen.mediamarkt.nl/"
+      },
+      {
+        "text": "Outlet",
+        "href": "https://outlet.mediamarkt.nl/"
+      },
+      {
+        "text": "Business",
+        "href": "/nl/specials/mediamarkt-business"
+      }
+    ],
+    "buttons": [
+      "Alle categorie\u00ebn",
+      "Mijn winkelSelecteer winkel",
+      "languageSwitch.voiceOverDescription: Nederlandsnl",
+      "Alle categorie\u00ebn",
+      "Meer informatie",
+      "Accepteren",
+      "Categorie\u00ebn",
+      "Over MediaMarkt",
+      "Services",
+      "Klantenservice",
+      "MediaMarkt-app",
+      "Trends & Advies",
+      "Merken bij MediaMarkt",
+      "Beeld & Geluid",
+      "Computer",
+      "Foto & Video",
+      "Telefonie & Wearables"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1167,
+    "images_count": 59,
+    "images_with_alt": 29,
+    "headings": [
+      {
+        "level": 1,
+        "text": "h1"
+      },
+      {
+        "level": 2,
+        "text": "Uitgelicht deze week"
+      },
+      {
+        "level": 2,
+        "text": "Onze highlights"
+      },
+      {
+        "level": 2,
+        "text": "Onze beste categorie\u00ebn"
+      },
+      {
+        "level": 2,
+        "text": "Onze top selectie van de week"
+      },
+      {
+        "level": 2,
+        "text": "Uitgelichte bundels"
+      },
+      {
+        "level": 3,
+        "text": "Bereid je voor op een heerlijk paasweekend"
+      },
+      {
+        "level": 3,
+        "text": "MacBook Neo. Geweldige Mac. Verrassende prijs"
+      },
+      {
+        "level": 3,
+        "text": "E-mobility"
+      },
+      {
+        "level": 3,
+        "text": "Marathon season starts with Shokz!"
+      },
+      {
+        "level": 3,
+        "text": "Onze aanbevolen sets"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Vind je antwoord hier",
+      "Vul het contactformulier in",
+      "Computer",
+      "Tv",
+      "Audio",
+      "Kleine keukenapparatuur",
+      "Grote keukenapparatuur",
+      "Huishouden",
+      "Telefonie & Wearables",
+      "Smart home & Wonen",
+      "Foto & Video",
+      "Gaming",
+      "Verzorging & beweging",
+      "Tuin & klussen"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 489,
+    "has_og_tags": true,
+    "meta_description": "MediaMarkt is de nummer \u00e9\u00e9n winkelketen voor consumentenelektronica in Europa. Niet alleen het grootste assortiment onder \u00e9\u00e9n dak, maar ook altijd de nieuwste en innovatiefste producten.",
+    "scripts_count": 37
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Weekly highlights section",
+      "Business-specific offerings"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_uae
+  name: E-commerce UAE
+  country: United Arab Emirates
+  currency: AED
+  language: en
+  version: 1.0.0
+  generated_at: '2026-03-31T23:21:51.147156'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - noon_uae
+  - amazon_uae
+  - namshi_uae
+  - sharaf_dg
+  - carrefour_uae
+  - lulu_uae
+  - ikea_uae
+  - shein_uae
+  - temu_uae
+  - mumzworld
+  - nike_uae
+  - adidas_uae
+  - handm_uae
+  - zara_uae
+  - max_fashion_uae
+  - sivvi
+  - ounass
+  - 6th_street_uae
+  - samsung_uae
+  - apple_uae
+  - emax
+  - sun_sand_sports_uae
+  - centrepoint_uae
+  - home_centre_uae
+  - faces
+  - kibsons
+  - decathlon_uae
+  - bath_body_works_uae
+  - floward_uae
+  - talabat_mart
+features:
+  critical:
+  - id: product_search
+    frequency: 16/16
+    percent: 100
+  - id: category_browsing
+    frequency: 16/16
+    percent: 100
+  - id: login_signup
+    frequency: 15/16
+    percent: 100
+  - id: guest_checkout
+    frequency: 13/16
+    percent: 100
+  - id: product_images
+    frequency: 16/16
+    percent: 100
+  - id: product_descriptions
+    frequency: 14/16
+    percent: 100
+  - id: price_display
+    frequency: 16/16
+    percent: 100
+  - id: shopping_cart
+    frequency: 16/16
+    percent: 100
+  - id: add_to_cart
+    frequency: 16/16
+    percent: 100
+  - id: multiple_payment
+    frequency: 14/16
+    percent: 100
+  - id: shipping_info
+    frequency: 14/16
+    percent: 100
+  - id: order_tracking
+    frequency: 15/16
+    percent: 100
+  - id: order_history
+    frequency: 14/16
+    percent: 100
+  - id: language_attribute
+    frequency: 16/16
+    percent: 100
+  - id: privacy_policy
+    frequency: 13/16
+    percent: 100
+  - id: terms_of_service
+    frequency: 14/16
+    percent: 100
+  - id: responsive_design
+    frequency: 16/16
+    percent: 100
+  - id: hero_section
+    frequency: 12/16
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 15/16
+    percent: 94
+  - id: footer_with_links
+    frequency: 15/16
+    percent: 94
+  - id: help_center
+    frequency: 14/16
+    percent: 93
+  - id: stock_availability
+    frequency: 12/16
+    percent: 92
+  - id: wishlist
+    frequency: 12/16
+    percent: 92
+  - id: return_refund_info
+    frequency: 12/16
+    percent: 92
+  - id: contact_form
+    frequency: 12/16
+    percent: 92
+  - id: phone_support
+    frequency: 12/16
+    percent: 92
+  - id: trending_items
+    frequency: 11/16
+    percent: 85
+  - id: related_products
+    frequency: 11/16
+    percent: 85
+  - id: cookie_consent
+    frequency: 11/16
+    percent: 85
+  required:
+  - id: personalized_recommendations
+    frequency: 10/16
+    percent: 83
+  - id: star_ratings
+    frequency: 9/16
+    percent: 82
+  - id: customer_reviews
+    frequency: 9/16
+    percent: 82
+  - id: search_autocomplete
+    frequency: 8/16
+    percent: 80
+  - id: search_filters
+    frequency: 8/16
+    percent: 80
+  - id: promo_code
+    frequency: 8/16
+    percent: 80
+  - id: estimated_delivery
+    frequency: 8/16
+    percent: 80
+  - id: recently_viewed
+    frequency: 8/16
+    percent: 80
+  - id: sticky_header
+    frequency: 8/16
+    percent: 80
+  - id: breadcrumb_navigation
+    frequency: 8/16
+    percent: 80
+  - id: size_variant_selector
+    frequency: 8/16
+    percent: 73
+  - id: review_photos
+    frequency: 7/16
+    percent: 70
+  - id: push_notifications
+    frequency: 7/16
+    percent: 70
+  - id: live_chat
+    frequency: 7/16
+    percent: 70
+  - id: skeleton_loading
+    frequency: 7/16
+    percent: 70
+  recommended:
+  - id: social_login
+    frequency: 6/16
+    percent: 60
+  nice_to_have: []
+  innovative: []

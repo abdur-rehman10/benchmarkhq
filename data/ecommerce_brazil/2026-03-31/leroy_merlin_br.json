@@ -1,0 +1,219 @@
+{
+  "name": "leroy_merlin_br",
+  "url": "https://www.leroymerlin.com.br",
+  "scanned_at": "2026-03-31T21:41:52.238997",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/leroy_merlin_br_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/leroy_merlin_br_mobile.png"
+  },
+  "structure": {
+    "title": "Leroy Merlin - Constru\u00e7\u00e3o, Acabamento, Decora\u00e7\u00e3o e Jardinagem",
+    "url_final": "https://www.leroymerlin.com.br/",
+    "nav_items": [
+      {
+        "text": "Miss\u00e3o Reforma",
+        "href": "https://blog.leroymerlin.com.br/missao-reforma/?_gl=1*19c1cfe*_gcl_au*MTM4MzM1NDMxOC4xNzY4NDg0ODcxLj"
+      },
+      {
+        "text": "Ofertas",
+        "href": "https://www.leroymerlin.com.br/pagina-de-ofertas-promocoes?utm_medium=menu&utm_source=site&utm_campa"
+      },
+      {
+        "text": "Para empresas",
+        "href": "https://www.leroymerlin.com.br/modular/parasuaempresa"
+      },
+      {
+        "text": "Leroy Merlin Pay",
+        "href": "https://www.leroymerlin.com.br/modular/leroy-merlin-pay-?utm_medium=menu&utm_source=site"
+      },
+      {
+        "text": "Programa de Fidelidade",
+        "href": "https://www.leroymerlin.com.br/fidelidade/programa"
+      }
+    ],
+    "buttons": [
+      "Demais Regi\u00f5es",
+      "Departamentos",
+      "Tend\u00eancias",
+      "Projetos",
+      "Dicas",
+      "Servi\u00e7os"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "De Produtos a Servi\u00e7os: Digite o que voc\u00ea precisa"
+          }
+        ]
+      }
+    ],
+    "links_count": 141,
+    "images_count": 36,
+    "images_with_alt": 25,
+    "headings": [
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Produtos Patrocinados"
+      },
+      {
+        "level": 2,
+        "text": "Centro de Prefer\u00eancias de Privacidade"
+      },
+      {
+        "level": 3,
+        "text": "Cuba de Sobrepor Angra 100% Porcelana 30x30cm - Branco"
+      },
+      {
+        "level": 3,
+        "text": "Veneziana 6 Folhas Aluminio Preto 1,00x1,00"
+      },
+      {
+        "level": 3,
+        "text": "Veneziana 3 Folhas Aluminio Branco 1,00x1,50"
+      },
+      {
+        "level": 3,
+        "text": "Vitr\u00f4 2 Folhas De Correr Aluminio Preto Com Grade 1,00x1,20"
+      },
+      {
+        "level": 3,
+        "text": "Vitr\u00f4 2 Folhas De Correr Aluminio Preto 1,00x1,20"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "De Produtos a Servi\u00e7os: Digite o que voc\u00ea precisa"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Pesquisar..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "(11) 4007-1380",
+      "4007-1380",
+      "0800-602-1380",
+      "4020-5376",
+      "0800-020-5376",
+      "Banheiros",
+      "Cama, Mesa e Banho",
+      "Climatiza\u00e7\u00e3o e Ventila\u00e7\u00e3o",
+      "Cozinhas e \u00c1reas de Servi\u00e7o",
+      "Decora\u00e7\u00e3o",
+      "Eletros",
+      "Ferragens",
+      "Ferramentas"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 64,
+    "has_og_tags": true,
+    "meta_description": "Precisa construir, reformar ou decorar a sua casa? Aqui voc\u00ea encontra mais de 100 mil itens com a garantia de menor pre\u00e7o. Confira nossas ofertas!",
+    "scripts_count": 130
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Leroy Merlin Pay",
+      "Programa de Fidelidade"
+    ],
+    "confidence": "medium"
+  }
+}

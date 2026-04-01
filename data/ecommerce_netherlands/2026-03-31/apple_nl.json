@@ -1,0 +1,278 @@
+{
+  "name": "apple_nl",
+  "url": "https://www.apple.com/nl/shop",
+  "scanned_at": "2026-03-31T22:41:09.632849",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/apple_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/apple_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Apple Store Online - Apple (NL)",
+    "url_final": "https://www.apple.com/nl/store",
+    "nav_items": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/nl/"
+      },
+      {
+        "text": "Store",
+        "href": "/nl/store"
+      },
+      {
+        "text": "Shop de nieuwste producten",
+        "href": "https://www.apple.com/nl/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/nl/shop/buy-mac"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/nl/shop/buy-ipad"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/nl/shop/buy-iphone"
+      },
+      {
+        "text": "Apple\u00a0Watch",
+        "href": "https://www.apple.com/nl/shop/buy-watch"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/nl/shop/goto/airpods/accessories"
+      },
+      {
+        "text": "Accessoires",
+        "href": "https://www.apple.com/nl/shop/accessories/all"
+      },
+      {
+        "text": "Zoek een\u00a0Store",
+        "href": "https://www.apple.com/nl/retail/"
+      },
+      {
+        "text": "Bestelstatus",
+        "href": "https://secure.store.apple.com/nl/shop/order/list"
+      },
+      {
+        "text": "Apple Trade In",
+        "href": "https://www.apple.com/nl/shop/trade-in"
+      },
+      {
+        "text": "Persoonlijke configuratie",
+        "href": "https://www.apple.com/nl/shop/goto/personal_setup"
+      },
+      {
+        "text": "Certified Refurbished",
+        "href": "https://www.apple.com/nl/shop/refurbished"
+      },
+      {
+        "text": "Onderwijs",
+        "href": "https://www.apple.com/nl/shop/browse/home/education_routing"
+      },
+      {
+        "text": "Bedrijven",
+        "href": "https://www.apple.com/nl/retail/business/"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/nl/mac/"
+      },
+      {
+        "text": "Alle Mac-modellen",
+        "href": "https://www.apple.com/nl/mac/"
+      },
+      {
+        "text": "MacBook Neo",
+        "href": "https://www.apple.com/nl/macbook-neo/"
+      },
+      {
+        "text": "MacBook\u00a0Air",
+        "href": "https://www.apple.com/nl/macbook-air/"
+      }
+    ],
+    "buttons": [
+      "Vorige - Product",
+      "Volgende - Product",
+      "Vorige -",
+      "Volgende -",
+      "Vorige - Een helpende hand.",
+      "Volgende - Een helpende hand.",
+      "Vorige - De Apple Store maakt het verschil.",
+      "Volgende - De Apple Store maakt het verschil.",
+      "Vorige - Accessoires.",
+      "Volgende - Accessoires.",
+      "Vorige - Luid en duidelijk.",
+      "Volgende - Luid en duidelijk.",
+      "Vorige - Nike x Beats.",
+      "Volgende - Nike x Beats.",
+      "Vorige - De Apple ervaring."
+    ],
+    "forms": [
+      {
+        "action": "/nl/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Zoek op apple.com"
+          },
+          {
+            "type": "hidden",
+            "name": "src",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 351,
+    "images_count": 99,
+    "images_with_alt": 82,
+    "headings": [
+      {
+        "level": 1,
+        "text": "De\u00a0Store"
+      },
+      {
+        "level": 2,
+        "text": "Shop"
+      },
+      {
+        "level": 2,
+        "text": "Direct naar"
+      },
+      {
+        "level": 2,
+        "text": "Shop in speciale Stores"
+      },
+      {
+        "level": 2,
+        "text": "Ontdek Mac"
+      },
+      {
+        "level": 2,
+        "text": "Shop Mac"
+      },
+      {
+        "level": 3,
+        "text": "NIEUW"
+      },
+      {
+        "level": 3,
+        "text": "NIEUW"
+      },
+      {
+        "level": 3,
+        "text": "NIEUW"
+      },
+      {
+        "level": 3,
+        "text": "NIEUW"
+      },
+      {
+        "level": 3,
+        "text": "NIEUW"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Zoek op apple.com"
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "voorwaarden",
+      "voorwaarden",
+      "Apple",
+      "Store",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV & Woning",
+      "AirTag",
+      "Accessoires",
+      "Cadeaukaarten",
+      "Apple Pay",
+      "Beheer je Apple Account",
+      "Apple Store-account",
+      "iCloud.com",
+      "Apple One",
+      "Apple TV",
+      "Apple Music"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 63,
+    "has_og_tags": true,
+    "meta_description": "Shop de nieuwste producten, accessoires en acties van Apple. Hulp bij het shoppen, flexibel betalen en meerdere opties voor bezorgen.",
+    "scripts_count": 60
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 9,
+    "notable_unique_features": [
+      "Apple Trade In",
+      "Certified Refurbished",
+      "Personal Setup"
+    ],
+    "confidence": "high"
+  }
+}

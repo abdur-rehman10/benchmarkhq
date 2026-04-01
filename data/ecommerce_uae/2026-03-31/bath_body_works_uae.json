@@ -1,0 +1,249 @@
+{
+  "name": "bath_body_works_uae",
+  "url": "https://www.bathandbodyworks.ae",
+  "scanned_at": "2026-03-31T23:20:45.034563",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/bath_body_works_uae_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/bath_body_works_uae_mobile.png"
+  },
+  "structure": {
+    "title": "Bath & Body Works UAE | Shop Bath And Body Products Online",
+    "url_final": "https://www.bathandbodyworks.ae/en/",
+    "nav_items": [
+      {
+        "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "href": "https://www.bathandbodyworks.ae/ar/"
+      },
+      {
+        "text": "Find Stores",
+        "href": "/en/store-finder"
+      },
+      {
+        "text": "Help Center",
+        "href": "/en/help-center"
+      },
+      {
+        "text": "Sign In / Register",
+        "href": "/en/user/login"
+      },
+      {
+        "text": "",
+        "href": "/en/"
+      },
+      {
+        "text": "",
+        "href": "/en/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "/en/user/account"
+      },
+      {
+        "text": "",
+        "href": "/en/wishlist"
+      },
+      {
+        "text": "0",
+        "href": "/en/cart/"
+      },
+      {
+        "text": "",
+        "href": "/en/cart/"
+      },
+      {
+        "text": "New",
+        "href": "/en/shop-new"
+      },
+      {
+        "text": "Top Offers",
+        "href": "/en/shop-top-offers"
+      },
+      {
+        "text": "Body Care",
+        "href": "/en/shop-body-care"
+      },
+      {
+        "text": "Candles",
+        "href": "/en/shop-candles"
+      },
+      {
+        "text": "Hand Soaps & Sanitizers",
+        "href": "/en/shop-hand-soaps-sanitizers"
+      },
+      {
+        "text": "Fresheners",
+        "href": "/en/shop-fresheners"
+      },
+      {
+        "text": "Gifts",
+        "href": "/en/shop-gifts"
+      },
+      {
+        "text": "Get Inspired",
+        "href": "/en/shop-get-inspired"
+      },
+      {
+        "text": "New",
+        "href": "/en/shop-new/new"
+      }
+    ],
+    "buttons": [
+      "Join Aura",
+      "Add to Bag",
+      "Add to Bag",
+      "Add to Bag",
+      "Add to Bag",
+      "Add to Bag",
+      "Add to Bag"
+    ],
+    "forms": [
+      {
+        "action": "https://www.bathandbodyworks.ae/rest/are_en/V1/newsletter/subscription",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Enter your email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 249,
+    "images_count": 138,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 2,
+        "text": "THE BIG SALE"
+      },
+      {
+        "level": 2,
+        "text": "Give Big Little Moments"
+      },
+      {
+        "level": 3,
+        "text": "SHOP BY"
+      },
+      {
+        "level": 3,
+        "text": "DISCOVER"
+      },
+      {
+        "level": 3,
+        "text": "CUSTOMER CARE"
+      },
+      {
+        "level": 3,
+        "text": "Get email offers and the latest news from Bath & Body Works"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Enter your email address"
+      }
+    ],
+    "footer_links": [
+      "English",
+      "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "Fragrance Finder",
+      "New",
+      "Top Offers",
+      "Body Care",
+      "Candles",
+      "Hand Soaps & Sanitizers",
+      "Fresheners",
+      "Gifts",
+      "Get Inspired",
+      "Our Story",
+      "Delivery Information",
+      "Terms & Conditions Of Sale",
+      "Terms & Conditions",
+      "Privacy Policy",
+      "Returns & Refunds",
+      "Help Center",
+      "Connect via WhatsApp",
+      "Store Locator"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 75,
+    "has_og_tags": true,
+    "meta_description": "Buy online from Bath and Body Works UAE best online shopping site for home fragrances, candles, gifts and bath & body products! Online shopping in UAE is now available!",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Arabic language support",
+      "Newsletter subscription"
+    ],
+    "confidence": "medium"
+  }
+}

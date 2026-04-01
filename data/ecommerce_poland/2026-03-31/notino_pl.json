@@ -1,0 +1,257 @@
+{
+  "name": "notino_pl",
+  "url": "https://www.notino.pl",
+  "scanned_at": "2026-03-31T22:50:22.199311",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/notino_pl_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/notino_pl_mobile.png"
+  },
+  "structure": {
+    "title": "Perfumy i kosmetyki online | Notino",
+    "url_final": "https://www.notino.pl/",
+    "nav_items": [
+      {
+        "text": "Zaloguj si\u0119",
+        "href": "/mynotino/"
+      },
+      {
+        "text": "Promocje",
+        "href": "/znizki/"
+      },
+      {
+        "text": "Perfumy",
+        "href": "/perfumy/"
+      },
+      {
+        "text": "Makija\u017c",
+        "href": "/kosmetyka/kosmetyki-podkreslajace/"
+      },
+      {
+        "text": "W\u0142osy",
+        "href": "/kosmetyka/kosmetyki-do-wlosow/"
+      },
+      {
+        "text": "Twarz",
+        "href": "/kosmetyka/kosmetyki-do-twarzy/"
+      },
+      {
+        "text": "Cia\u0142o",
+        "href": "/kosmetyka/kosmetyki-do-ciala/"
+      },
+      {
+        "text": "Z\u0119by",
+        "href": "/pielegnacja-zebow/"
+      },
+      {
+        "text": "Matka i dziecko",
+        "href": "/matka-i-dziecko/"
+      },
+      {
+        "text": "M\u0119\u017cczy\u017ani",
+        "href": "/kosmetyki-dla-mezczyzn/"
+      },
+      {
+        "text": "Dermokosmetyki",
+        "href": "/dermokosmetyki/"
+      },
+      {
+        "text": "Zdrowie",
+        "href": "/zdrowie/"
+      },
+      {
+        "text": "Opalanie",
+        "href": "/kosmetyka/kosmetyki-do-opalania/"
+      },
+      {
+        "text": "Elektro",
+        "href": "/elektronika/"
+      },
+      {
+        "text": "Luxury",
+        "href": "/luksusowe-kosmetyki-i-perfumy/"
+      },
+      {
+        "text": "Marki",
+        "href": "/marki-kosmetykow/"
+      },
+      {
+        "text": "Inspiracja",
+        "href": ""
+      },
+      {
+        "text": "Inspiracja",
+        "href": "/inspiracja/"
+      },
+      {
+        "text": "Zapachy do domu",
+        "href": "/zapachy-do-domu/"
+      },
+      {
+        "text": "Oddzia\u0142y",
+        "href": "/punkty-odbioru-osobistego/"
+      }
+    ],
+    "buttons": [
+      "Kobieta",
+      "M\u0119\u017cczyzna",
+      "Prze\u0142\u0105cz na pe\u0142n\u0105 wersj\u0119"
+    ],
+    "forms": [
+      {
+        "action": "https://www.notino.pl/emailnews.asp?x-turnstile-token=",
+        "method": "post",
+        "fields": [
+          {
+            "type": "email",
+            "name": "EmailNews",
+            "placeholder": "Wpisz sw\u00f3j adres e-mail"
+          }
+        ]
+      }
+    ],
+    "links_count": 967,
+    "images_count": 115,
+    "images_with_alt": 107,
+    "headings": [
+      {
+        "level": 2,
+        "text": "W tym tygodniu w promocji"
+      },
+      {
+        "level": 2,
+        "text": "CAROLINA HERRERA"
+      },
+      {
+        "level": 2,
+        "text": "La Roche-Posay"
+      },
+      {
+        "level": 2,
+        "text": "CAROLINA HERRERA"
+      },
+      {
+        "level": 2,
+        "text": "Lattafa"
+      },
+      {
+        "level": 3,
+        "text": "La Bomba"
+      },
+      {
+        "level": 3,
+        "text": "Cicaplast Baume B5+"
+      },
+      {
+        "level": 3,
+        "text": "Good Girl"
+      },
+      {
+        "level": 3,
+        "text": "Khamrah"
+      },
+      {
+        "level": 3,
+        "text": "Brazilian Crush Cheirosa '62"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "nazwa produktu, marka"
+      },
+      {
+        "type": "email",
+        "name": "EmailNews",
+        "placeholder": "Wpisz sw\u00f3j adres e-mail"
+      }
+    ],
+    "footer_links": [
+      "22 208 19 42",
+      "info@notino.pl",
+      "Dane kontaktowe",
+      "zasadach przetwarzania danych osobowych",
+      "Black Friday",
+      "Dlaczego Notino",
+      "O nas",
+      "Notino kupon rabatowy  \u2013 kod rabatowy",
+      "Wy\u0142\u0105cznie oryginalne produkty",
+      "Ochrona danych osobowych",
+      "Odbi\u00f3r osobisty",
+      "Opinie klient\u00f3w o Notino",
+      "Centrum preferencji prywatno\u015bci",
+      "Strona g\u0142\u00f3wna",
+      "Odst\u0105pienia od umowy",
+      "Affiliate Program",
+      "FAQ",
+      "Reklamacje",
+      "Jak kupowa\u0107?",
+      "Recenzje produktow"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "Perfumeria internetowa Notino \u2013 E-shop polecany przez klient\u00f3w \u2713 W ofercie perfumy, kosmetyki i drogeria \u2713 Ekspresowe dor\u0119czenie \u2713 Odbiory osobiste \u2713",
+    "scripts_count": 72
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive range of luxury and dermocosmetic products",
+      "Dedicated sections for men and mother & child",
+      "Strong focus on promotions and discounts"
+    ],
+    "confidence": "high"
+  }
+}

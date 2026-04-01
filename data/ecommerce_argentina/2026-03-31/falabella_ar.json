@@ -1,0 +1,167 @@
+{
+  "name": "falabella_ar",
+  "url": "https://www.falabella.com.ar",
+  "scanned_at": "2026-03-31T22:00:34.639393",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/falabella_ar_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/falabella_ar_mobile.png"
+  },
+  "structure": {
+    "title": "falabella.com\u26a1El Black de las Mejores Marcas",
+    "url_final": "https://www.falabella.com/falabella-cl",
+    "nav_items": [
+      {
+        "text": "Vende en falabella.com",
+        "href": "https://www.falabella.com/falabella-cl/page/Vende-en-Falabella.com?sid=HO_HO_SEL_1924"
+      },
+      {
+        "text": "Novios",
+        "href": "https://novios.falabella.com/"
+      }
+    ],
+    "buttons": [
+      "Men\u00fa",
+      "\u2715",
+      "Aceptar"
+    ],
+    "forms": [],
+    "links_count": 410,
+    "images_count": 70,
+    "images_with_alt": 40,
+    "headings": [
+      {
+        "level": 3,
+        "text": "55\" Crystal UHD U8000F 4K Smart TV (2025)"
+      },
+      {
+        "level": 3,
+        "text": "Tablet IdeaTab 11 8GB 128GB Octa Core 11\" 2.5K 90Hz (Wi-fi) L\u00e1piz + Sleeve Lenov"
+      },
+      {
+        "level": 3,
+        "text": "Monitor Gamer 24\" FHD IPS HDR 180Hz 1Ms MGMG2441P Master-G"
+      },
+      {
+        "level": 3,
+        "text": "50\" Crystal UHD U8000F 4K Smart TV (2025)"
+      },
+      {
+        "level": 3,
+        "text": "Smart TV LED 55\" 4K UHD 2025 LG"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Buscar en falabella.com"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Cont\u00e1ctanos",
+      "Centro de ayuda",
+      "Devoluciones y cambios",
+      "Boletas y facturas",
+      "Estado del pedido",
+      "Concursos y bases legales",
+      "Canal de integridad - Integrity Channel",
+      "Defensor\u00eda Vendedores y Proveedores",
+      "C\u00f3mo cuidamos tus datos",
+      "Consulta tu Gift Card",
+      "Compra Gift Card",
+      "Vende en falabella.com",
+      "Nuestros inversionistas",
+      "Venta empresa",
+      "Trabaja en Grupo Falabella",
+      "Cyber Monday",
+      "Cyberday",
+      "Black Friday",
+      "Black Week",
+      "Hot Sale"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 4,
+    "has_og_tags": true,
+    "meta_description": "No te pierdas el Black Week en falabella.com \ud83d\udc9a Ofertas imperdibles en Adidas, New Balance, Nike, Samsung, Apple y mucho m\u00e1s en un solo lugar!",
+    "scripts_count": 122
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Vende en falabella.com",
+      "Novios gift registry"
+    ],
+    "confidence": "medium"
+  }
+}

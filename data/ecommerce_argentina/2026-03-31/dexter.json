@@ -1,0 +1,396 @@
+{
+  "name": "dexter",
+  "url": "https://www.dexter.com.ar",
+  "scanned_at": "2026-03-31T22:03:46.050816",
+  "screenshots": {
+    "desktop": "data/ecommerce_argentina/2026-03-31/screenshots/dexter_desktop.png",
+    "mobile": "data/ecommerce_argentina/2026-03-31/screenshots/dexter_mobile.png"
+  },
+  "structure": {
+    "title": "Ropa deportiva, zapatillas, indumentaria y m\u00e1s - Dexter",
+    "url_final": "https://www.dexter.com.ar/",
+    "nav_items": [
+      {
+        "text": "\u00a1Gan\u00e1 puntos!",
+        "href": "https://tribu.dexter.com.ar"
+      },
+      {
+        "text": "Ver sucursales",
+        "href": "/sucursales?showMap=true"
+      },
+      {
+        "text": "Mujer",
+        "href": "/mujer\n                "
+      },
+      {
+        "text": "Ver todo Mujer",
+        "href": "/mujer"
+      },
+      {
+        "text": "Calzado",
+        "href": "/mujer/calzado"
+      },
+      {
+        "text": "Ver todo Calzado",
+        "href": "/mujer/calzado"
+      },
+      {
+        "text": "Zapatillas",
+        "href": "/mujer/calzado/zapatillas"
+      },
+      {
+        "text": "Ojotas",
+        "href": "/mujer/calzado/ojotas"
+      },
+      {
+        "text": "Botines",
+        "href": "/mujer/calzado/botines"
+      },
+      {
+        "text": "Botas",
+        "href": "/mujer/calzado/botas"
+      },
+      {
+        "text": "Sandalias",
+        "href": "/mujer/calzado/sandalias"
+      },
+      {
+        "text": "Indumentaria",
+        "href": "/mujer/indumentaria"
+      },
+      {
+        "text": "Ver todo Indumentaria",
+        "href": "/mujer/indumentaria"
+      },
+      {
+        "text": "Remeras",
+        "href": "/mujer/indumentaria/remeras"
+      },
+      {
+        "text": "Musculosas",
+        "href": "/mujer/indumentaria/musculosas"
+      },
+      {
+        "text": "Shorts",
+        "href": "/mujer/indumentaria/shorts"
+      },
+      {
+        "text": "Pantalones",
+        "href": "/mujer/indumentaria/pantalones"
+      },
+      {
+        "text": "Buzos",
+        "href": "/mujer/indumentaria/buzos"
+      },
+      {
+        "text": "Camperas",
+        "href": "/mujer/indumentaria/camperas"
+      },
+      {
+        "text": "Camisetas",
+        "href": "/mujer/indumentaria/camisetas"
+      }
+    ],
+    "buttons": [
+      "Mujer",
+      "Hombre",
+      "Categor\u00edas",
+      "Marcas",
+      "USAR",
+      "Cancelar",
+      "Eliminar",
+      "Suscribirme",
+      "Institucional",
+      "Ayuda",
+      "Atenci\u00f3n al Cliente",
+      "ACEPTO",
+      "Ver sucursales",
+      "Ver sucursales",
+      "Bot\u00f3n de Arrepentimiento",
+      "Bot\u00f3n de Arrepentimiento"
+    ],
+    "forms": [
+      {
+        "action": "/buscar",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/buscar",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/on/demandware.store/Sites-Dexter-Site/default/PostalCode-SaveOnSession",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "number",
+            "name": "postalCode",
+            "placeholder": "Ej: 1234"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "NewsLetterHome",
+            "placeholder": " "
+          },
+          {
+            "type": "number",
+            "name": "NewsLetterHomePhone",
+            "placeholder": " "
+          },
+          {
+            "type": "checkbox",
+            "name": "whatsappCheckHome",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "smsCheckHome",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 392,
+    "images_count": 190,
+    "images_with_alt": 119,
+    "headings": [
+      {
+        "level": 1,
+        "text": "\u00a1Bienvenido a Dexter!"
+      },
+      {
+        "level": 2,
+        "text": "Eliminar Producto"
+      },
+      {
+        "level": 3,
+        "text": "ENCONTR\u00c1 LO MEJOR"
+      },
+      {
+        "level": 3,
+        "text": "NAVEG\u00c1 POR MARCAS"
+      },
+      {
+        "level": 3,
+        "text": "Suscribite a nuestro newsletter"
+      },
+      {
+        "level": 3,
+        "text": "Suscribite a nuestro newsletter"
+      },
+      {
+        "level": 3,
+        "text": "Institucional"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "postalCode",
+        "placeholder": "Ej: 1234"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "InstitucionalInstitucional",
+      "Qui\u00e9nes Somos",
+      "Pol\u00edticas de Privacidad",
+      "T\u00e9rminos y Condiciones",
+      "Sustentabilidad",
+      "Defensa del Consumidor",
+      "Trabaj\u00e1 con Nosotros",
+      "Venta Corporativa",
+      "Condiciones de pago",
+      "Preguntas Frecuentes",
+      "\u00bfC\u00f3mo comprar?"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 26,
+    "has_og_tags": true,
+    "meta_description": "Somos la mejor tienda deportiva del pa\u00eds. Entr\u00e1 en Dexter y aprovech\u00e1 los mejores descuentos en tus productos y marcas favoritas: zapatillas, ropa deportiva y m\u00e1s.",
+    "scripts_count": 86
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Points earning system",
+      "Store locator"
+    ],
+    "confidence": "medium"
+  }
+}

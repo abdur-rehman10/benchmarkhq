@@ -1,0 +1,328 @@
+{
+  "name": "amazon_nl",
+  "url": "https://www.amazon.nl",
+  "scanned_at": "2026-03-31T22:32:39.325167",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/amazon_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/amazon_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.nl: Groot aanbod, kleine prijzen in o.a. Elektronica, boeken, sport en meer",
+    "url_final": "https://www.amazon.nl/",
+    "nav_items": [
+      {
+        "text": "Hoofdinhoud",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Zoekenopt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Winkelwagenshift+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Homeshift+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Bestellingenshift+opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Sneltoetsen tonen/verbergenshift+opt+Z",
+      "Terug naar boven",
+      "Inloggen",
+      "Nederland"
+    ],
+    "forms": [
+      {
+        "action": "/privacyprefs/retail/v3/banner",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "anti-csrftoken-a2z",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "timestamp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "disclosureDecision",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "privacyCustomerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "__mk_nl_NL",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Zoeken op Amazon.nl"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 243,
+    "images_count": 135,
+    "images_with_alt": 131,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Ga naar"
+      },
+      {
+        "level": 2,
+        "text": "Sneltoetsen"
+      },
+      {
+        "level": 2,
+        "text": "Elektronica onder \u20ac50"
+      },
+      {
+        "level": 2,
+        "text": "Wooninspiratie onder \u20ac40"
+      },
+      {
+        "level": 2,
+        "text": "Leg mooie momenten vast"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "anti-csrftoken-a2z",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "disclosureDecision",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "privacyCustomerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sessionId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "consentTypes",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__mk_nl_NL",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Zoeken op Amazon.nl"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 118,
+    "has_og_tags": false,
+    "meta_description": "Online winkel voor elektronica, computers, kleding, schoenen, speelgoed, boeken, sport, beauty, persoonlijke verzorging en meer.",
+    "scripts_count": 114
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product range",
+      "localized content for Dutch market"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "name": "staples_canada",
+  "url": "https://www.staples.ca",
+  "scanned_at": "2026-03-31T21:21:54.173488",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/staples_canada_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/staples_canada_mobile.png"
+  },
+  "structure": {
+    "title": "Staples.ca: Next-Day Shipping, On All Orders",
+    "url_final": "https://www.staples.ca/",
+    "nav_items": [
+      {
+        "text": "Shop",
+        "href": "#"
+      },
+      {
+        "text": "Deals",
+        "href": "#"
+      },
+      {
+        "text": "Top Tech",
+        "href": "#"
+      },
+      {
+        "text": "Staples Kids",
+        "href": "#"
+      },
+      {
+        "text": "Mobility + Internet",
+        "href": "#"
+      },
+      {
+        "text": "Services",
+        "href": "#"
+      },
+      {
+        "text": "Ink + Toner",
+        "href": "#"
+      },
+      {
+        "text": "For Business",
+        "href": "#"
+      },
+      {
+        "text": "Print Documents + Photos",
+        "href": "#"
+      }
+    ],
+    "buttons": [
+      "Close",
+      "Find Store",
+      "Search",
+      "Close",
+      "Search",
+      "Find Store",
+      "Search",
+      "Search",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search for products, services and articles"
+          }
+        ]
+      },
+      {
+        "action": "#",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search for nearby stores"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search for products, services and articles"
+          }
+        ]
+      },
+      {
+        "action": "#",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search for nearby stores"
+          }
+        ]
+      }
+    ],
+    "links_count": 397,
+    "images_count": 137,
+    "images_with_alt": 91,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Shop by category"
+      },
+      {
+        "level": 2,
+        "text": "Best deals of the week"
+      },
+      {
+        "level": 2,
+        "text": "Savings made easy"
+      },
+      {
+        "level": 2,
+        "text": "Print services and solutions"
+      },
+      {
+        "level": 2,
+        "text": "Save up to $40 on print solutions."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search for products, services and articles"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for nearby stores"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search for products, services and articles"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for nearby stores"
+      }
+    ],
+    "footer_links": [
+      "Change Store",
+      "Help Centre",
+      "Self Serve Returns",
+      "Track Your Order",
+      "Invoice Copy/Packing Slip",
+      "Sign Up for Promotional Emails",
+      "Print and Marketing Services",
+      "Tech Services",
+      "Credit Centre",
+      "Staples Studio",
+      "Spotlight",
+      "Wireless, Internet, and TV Services",
+      "Promotional Products",
+      "Account Details",
+      "Track Your Order",
+      "Staples Business",
+      "Staples for Small Business",
+      "Staples for Enterprise",
+      "Staples Buying Integration",
+      "Coupon Centre"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 322,
+    "has_og_tags": false,
+    "meta_description": "Shop Staples Canada for business essentials, back to school, electronics, office supplies, and more. Fast Free Delivery, Curbside Pickup, and Easy Returns.",
+    "scripts_count": 147
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Next-Day Shipping on all orders",
+      "Print services and solutions"
+    ],
+    "confidence": "medium"
+  }
+}

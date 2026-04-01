@@ -1,0 +1,434 @@
+{
+  "name": "newegg",
+  "url": "https://www.newegg.com",
+  "scanned_at": "2026-03-31T20:24:22.176927",
+  "screenshots": {
+    "desktop": "data/ecommerce/2026-03-31/screenshots/newegg_desktop.png",
+    "mobile": "data/ecommerce/2026-03-31/screenshots/newegg_mobile.png"
+  },
+  "structure": {
+    "title": "Electronics Store: Tech, PC Parts, AI PC & More | Newegg",
+    "url_final": "https://www.newegg.com/",
+    "nav_items": [
+      {
+        "text": "Help Center",
+        "href": "https://kb.newegg.com"
+      },
+      {
+        "text": "Track an Order",
+        "href": "https://secure.newegg.com/orders/find?Source=1"
+      },
+      {
+        "text": "Return an Item",
+        "href": "https://secure.newegg.com/orders/find?Source=2"
+      },
+      {
+        "text": "Return Policy",
+        "href": "https://www.newegg.com/promotions/nepro/22-0073/index.html?cm_sp=cs_menu-_-return_policy"
+      },
+      {
+        "text": "Privacy & Security",
+        "href": "https://kb.newegg.com/Article/Index/12/3?id=1166"
+      },
+      {
+        "text": "Feedback",
+        "href": ""
+      },
+      {
+        "text": "Login/Register",
+        "href": "https://secure.newegg.com/login/signin"
+      },
+      {
+        "text": "Browsing History",
+        "href": "https://www.newegg.com/d/browsing-history"
+      },
+      {
+        "text": "Order History",
+        "href": "https://secure.newegg.com/orders/list"
+      },
+      {
+        "text": "Returns History",
+        "href": "https://secure.newegg.com/returns/list"
+      },
+      {
+        "text": "Address Book",
+        "href": "https://secure.newegg.com/account/addressbook"
+      },
+      {
+        "text": "Wish Lists",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2FwishList%2Fm"
+      },
+      {
+        "text": "My Build Lists",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2Fpcbuilder%2Fm"
+      },
+      {
+        "text": "My Build Showcase",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fsecure.newegg.com%2Fcompletedbuilds%2F"
+      },
+      {
+        "text": "Email Notifications",
+        "href": "https://secure.newegg.com/notifications/guestemail"
+      },
+      {
+        "text": "Subscriptions Orders",
+        "href": "https://secure.newegg.com/orders/subscription"
+      },
+      {
+        "text": "Auto Notifications",
+        "href": "https://secure.newegg.com/notifications/autonotify"
+      },
+      {
+        "text": "About Newegg",
+        "href": "https://www.newegg.com/corporate/about"
+      },
+      {
+        "text": "Investor Relations",
+        "href": "https://investors.newegg.com/"
+      },
+      {
+        "text": "Newegg Student Internship Program",
+        "href": "https://www.newegg.com/NSIP"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Close Cookie Preferences",
+      "Search",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Build with it",
+      "Sign up",
+      "Send Link",
+      "COMPARE",
+      "Clear All",
+      "COPY Link",
+      "Feedback",
+      "Help Center",
+      "See all deals"
+    ],
+    "links_count": 3450,
+    "main_links": [
+      {
+        "text": "Privacy Policy",
+        "href": "https://kb.newegg.com/knowledge-base/privacy-policy-newegg/"
+      },
+      {
+        "text": "HelloSelect address",
+        "href": "#"
+      },
+      {
+        "text": "2k monitor",
+        "href": "https://www.newegg.com/p/pl?d=2k+monitor"
+      },
+      {
+        "text": "seagate ironwolf",
+        "href": "https://www.newegg.com/p/pl?d=seagate+ironwolf"
+      },
+      {
+        "text": "dual 8 pin to 16 pin gpu adapter",
+        "href": "https://www.newegg.com/p/pl?d=dual+8+pin+to+16+pin+gpu+adapter"
+      },
+      {
+        "text": "server",
+        "href": "https://www.newegg.com/p/pl?d=server"
+      },
+      {
+        "text": "amd graphics card",
+        "href": "https://www.newegg.com/p/pl?d=amd+graphics+card"
+      },
+      {
+        "text": "Change Country",
+        "href": ""
+      },
+      {
+        "text": "WelcomeSign In / Register",
+        "href": "https://secure.newegg.com/login/signin?nextpage=https%3A%2F%2Fwww.newegg.com%2F"
+      },
+      {
+        "text": "Returns& Orders",
+        "href": "https://secure.newegg.com/orders/list"
+      },
+      {
+        "text": "Shell Shocker",
+        "href": "https://www.newegg.com/Shell-Shocker/EventSaleStore/ID-10381?cm_sp=todaysdeal_alldeals_entrance-_-Ro"
+      },
+      {
+        "text": "Email Deals",
+        "href": "https://promotions.newegg.com/neemail/latest/index-landing.html?cm_sp=emaildeals_entrance-_-Rollover"
+      },
+      {
+        "text": "Clearance Deals",
+        "href": "https://www.newegg.com/ClearanceStore/EventSaleStore/ID-697?cm_sp=Clearance_entrance-_-RolloverMenu"
+      },
+      {
+        "text": "Trade In",
+        "href": "https://www.newegg.com/promotions/nepro/23-1322/index.html?cm_sp=Tradein_entrance-_-RolloverMenu"
+      },
+      {
+        "text": "Newegg Store Credit Card",
+        "href": "https://www.newegg.com/promotions/nepro/18-1881/index.html?cm_sp=neweggstorecreditcard_entrance-_-Ro"
+      },
+      {
+        "text": "Build. Upgrade. Save",
+        "href": "//www.newegg.com/Build-Upgrade-Save/EventSaleStore/ID-1133"
+      },
+      {
+        "text": "PC Builder",
+        "href": "//www.newegg.com/tools/custom-pc-builder?cm_sp=hamburger-_-shopping-tools-_-PC-Builder"
+      },
+      {
+        "text": "Gaming PC Finder",
+        "href": "//www.newegg.com/tools/gaming-pc-finder/"
+      },
+      {
+        "text": "PC Upgrader",
+        "href": "//www.newegg.com/tools/pc-upgrader?cm_sp=shopping-tools-_-pc-upgrader"
+      },
+      {
+        "text": "Laptop Finder",
+        "href": "//www.newegg.com/tools/laptop-finder?cm_sp=hamburger-_-shopping-tools-_-laptop-finder"
+      },
+      {
+        "text": "Memory Finder",
+        "href": "//www.newegg.com/tools/memory-finder?cm_sp=hamburger-_-shopping-tools-_-memory-finder"
+      },
+      {
+        "text": "Network Builder",
+        "href": "//www.newegg.com/tools/networking-builder?cm_sp=hamburger-_-shopping-tools-_-network-builder"
+      },
+      {
+        "text": "NAS Builder",
+        "href": "//www.newegg.com/tools/nas-builder?cm_sp=hamburger-_-shopping-tools-_-nas-buidler"
+      },
+      {
+        "text": "Server Builder",
+        "href": "//www.newegg.com/server-system-configurator/"
+      },
+      {
+        "text": "ASUS NUC Configurator",
+        "href": "//www.newegg.com/asus-nuc-configurator?cm_sp=hamburger-_-shopping-tools-_-asus-nuc-config"
+      },
+      {
+        "text": "Game Room BuilderNEW",
+        "href": "//www.newegg.com/tools/game-room-builder?cm_sp=hamburger-_-shopping-tools-_-game-room-builder"
+      },
+      {
+        "text": "Power Supply Wattage Calculator",
+        "href": "//www.newegg.com/tools/power-supply-calculator?cm_sp=hamburger-_-shopping-tools-_-power-supply-calcu"
+      },
+      {
+        "text": "Build Showcases",
+        "href": "//www.newegg.com/tools/custom-pc-builder/showcase/featured-builds"
+      },
+      {
+        "text": "Components & Storage",
+        "href": "https://www.newegg.com/Components-Storage/Store/ID-1"
+      },
+      {
+        "text": "CPU / Processor",
+        "href": "https://www.newegg.com/CPU-Processor/Category/ID-34"
+      }
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://secure.newegg.com/notifications/api/newslettersubscribe?Action=Manage&source=Footer",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "LoginName",
+            "placeholder": "Enter your e-mail address"
+          },
+          {
+            "type": "hidden",
+            "name": "Subscribe",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "images_count": 111,
+    "images_with_alt": 109,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Today\u2019s Best Deals"
+      },
+      {
+        "level": 2,
+        "text": "Everyday Tech Essentials"
+      },
+      {
+        "level": 2,
+        "text": "All Laptop"
+      },
+      {
+        "level": 2,
+        "text": "NAS & Network Storage"
+      },
+      {
+        "level": 2,
+        "text": "Software & Services"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "LoginName",
+        "placeholder": "Enter your e-mail address"
+      },
+      {
+        "type": "hidden",
+        "name": "Subscribe",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": "Enter your phone number"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Must be 11 characters"
+      },
+      {
+        "type": "radio",
+        "name": "radio1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "radio1",
+        "placeholder": ""
+      }
+    ],
+    "meta_description": "Shop Newegg today for all of your gaming, PC & technology needs. Don\u2019t miss today\u2019s best electronics deals with fast shipping & great customer service!",
+    "meta_viewport": "width=device-width, initial-scale=1, minimal-ui, viewport-fit=cover",
+    "has_og_tags": true,
+    "scripts_count": 92,
+    "stylesheets_count": 2,
+    "has_lang_attr": true,
+    "has_skip_link": false,
+    "aria_labels_count": 306,
+    "footer_links": [
+      "View Latest Email Deals",
+      "Help Center",
+      "Track an Order",
+      "Return an Item",
+      "Return Policy",
+      "Privacy & Security",
+      "Feedback",
+      "Login/Register",
+      "Browsing History",
+      "Order History",
+      "Returns History",
+      "Address Book",
+      "Wish Lists",
+      "My Build Lists",
+      "My Build Showcase",
+      "Email Notifications",
+      "Subscriptions Orders",
+      "Auto Notifications",
+      "About Newegg"
+    ],
+    "has_search_input": true
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "N",
+      "related_items": "N",
+      "stock_availability": "N",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "N",
+      "multiple_payment_methods": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "N",
+      "written_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "N",
+      "phone_number": "N",
+      "alt_text_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_banner": "U",
+      "terms_of_service": "N",
+      "responsive_design": "Y",
+      "sticky_navigation": "N",
+      "footer_links": "Y",
+      "breadcrumb_navigation": "N",
+      "loading_states": "N",
+      "hero_section": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "color_scheme": "light",
+    "estimated_primary_color": "#FFFFFF",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Extensive help center",
+      "Multiple build lists feature",
+      "Email notifications for deals"
+    ],
+    "missing_common_features": [
+      "Search autocomplete",
+      "Product descriptions",
+      "Price display",
+      "Add to cart button",
+      "Multiple payment methods",
+      "Star ratings",
+      "Written customer reviews",
+      "Live chat",
+      "Contact form"
+    ],
+    "confidence": "medium"
+  }
+}

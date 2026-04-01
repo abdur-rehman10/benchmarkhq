@@ -1,0 +1,377 @@
+{
+  "name": "gamma",
+  "url": "https://www.gamma.nl",
+  "scanned_at": "2026-03-31T22:37:03.197223",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/gamma_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/gamma_mobile.png"
+  },
+  "structure": {
+    "title": "GAMMA bouwmarkten - doe het zelf bouwmarkt",
+    "url_final": "https://www.gamma.nl/",
+    "nav_items": [
+      {
+        "text": "Auto & fiets",
+        "href": "/assortiment/k/auto-fiets"
+      },
+      {
+        "text": "Aanhanger onderdelen",
+        "href": "/assortiment/l/auto-fiets/aanhanger-onderdelen"
+      },
+      {
+        "text": "Spanbanden",
+        "href": "/assortiment/l/auto-fiets/aanhanger-onderdelen/spanbanden"
+      },
+      {
+        "text": "Auto-onderhoud",
+        "href": "/assortiment/k/auto-fiets/auto-onderhoud"
+      },
+      {
+        "text": "Accu & startkabels",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/accu-startkabels"
+      },
+      {
+        "text": "Autogereedschappen",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/autogereedschappen"
+      },
+      {
+        "text": "Autopoets en polijsten",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/autopoets-en-polijsten"
+      },
+      {
+        "text": "Motorolie",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/motorolie"
+      },
+      {
+        "text": "Ruitenwissers",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/ruitenwissers"
+      },
+      {
+        "text": "Smeermiddelen & auto onderhoud",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/smeermiddelen-auto-onderhoud"
+      },
+      {
+        "text": "Steekzekeringen & kabelschoentjes",
+        "href": "/assortiment/l/auto-fiets/auto-onderhoud/steekzekeringen-kabelschoentjes"
+      },
+      {
+        "text": "Autoaccessoires",
+        "href": "/assortiment/k/auto-fiets/autoaccessoires"
+      },
+      {
+        "text": "Auto interieur accessoires",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/auto-interieur-accessoires"
+      },
+      {
+        "text": "Autostoeltjes",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/auto-interieur-accessoires/autostoeltjes"
+      },
+      {
+        "text": "Auto onderdelen & accessoires",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/auto-onderdelen-accessoires"
+      },
+      {
+        "text": "Autolampen",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/auto-onderdelen-accessoires/autolampen"
+      },
+      {
+        "text": "Wieldoppen",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/auto-onderdelen-accessoires/wieldoppen"
+      },
+      {
+        "text": "Autoveiligheid",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/autoveiligheid"
+      },
+      {
+        "text": "Transport & bagage",
+        "href": "/assortiment/l/auto-fiets/autoaccessoires/transport-bagage"
+      },
+      {
+        "text": "Caravan onderdelen",
+        "href": "/assortiment/l/auto-fiets/caravan-onderdelen"
+      }
+    ],
+    "buttons": [
+      "Zoeken",
+      "Inloggen",
+      "Inloggen",
+      "Zoeken",
+      "Zoekbalk sluiten",
+      "Alle categorie\u00ebnAlles",
+      "Assortiment",
+      "Auto & fiets",
+      "Bouwmaterialen & hout",
+      "Deuren, ramen & trappen",
+      "Elektra, verlichting & beveiliging",
+      "Gereedschap",
+      "IJzerwaren",
+      "Meubelen & opbergen",
+      "Raamdecoratie",
+      "Sanitair & keuken",
+      "Tuin",
+      "Verf, behang & wandbekleding",
+      "Verhuur",
+      "Verwarming, isolatie & ventilatie",
+      "Vloeren & tegels",
+      "Shop nu"
+    ],
+    "forms": [
+      {
+        "action": "/assortiment/zoeken",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "text",
+            "placeholder": "Zoeken"
+          }
+        ]
+      },
+      {
+        "action": "/assortiment/zoeken",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "text",
+            "placeholder": "Zoeken"
+          }
+        ]
+      }
+    ],
+    "links_count": 1127,
+    "images_count": 60,
+    "images_with_alt": 48,
+    "headings": [
+      {
+        "level": 1,
+        "text": "op alle buitenbeits"
+      },
+      {
+        "level": 2,
+        "text": "Menu"
+      },
+      {
+        "level": 2,
+        "text": "Assortiment"
+      },
+      {
+        "level": 2,
+        "text": "Categorie\u00ebn"
+      },
+      {
+        "level": 2,
+        "text": "Doe het lekker zelf"
+      },
+      {
+        "level": 2,
+        "text": "Doe het lekker zelf"
+      },
+      {
+        "level": 3,
+        "text": "Verf"
+      },
+      {
+        "level": 3,
+        "text": "Gereedschap"
+      },
+      {
+        "level": 3,
+        "text": "Isolatie"
+      },
+      {
+        "level": 3,
+        "text": "Hout"
+      },
+      {
+        "level": 3,
+        "text": "Bouwmaterialen"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "text",
+        "placeholder": "Zoeken"
+      },
+      {
+        "type": "search",
+        "name": "text",
+        "placeholder": "Zoeken"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0005",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Zoeken\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "rating-group-121",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "rating-group-121",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "rating-group-121",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "rating-group-121",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "rating-group-121",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "klusadviezen",
+      "GAMMA Klusservice",
+      "Gereedschap",
+      "Verf",
+      "Vloeren & tegels",
+      "Tuin",
+      "Alle merken",
+      "Bekijk het assortiment",
+      "Verven",
+      "Isoleren",
+      "Tuin aanleg en onderhoud",
+      "Vloer leggen",
+      "Wanden",
+      "Bekijk alle klusadviezen",
+      "Gereedschap huren",
+      "Klusservice",
+      "Bezorgen",
+      "PostNL Pakketpunt",
+      "Bekijk alle services",
+      "Bouwmarkten"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 86,
+    "has_og_tags": true,
+    "meta_description": "Klus je mee? Ontdek het ruime assortiment aan doe-het-zelf materialen bij GAMMA. Alles voor je huis en tuin. Bestel nu online of kom naar onze bouwmarkt!",
+    "scripts_count": 105
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [],
+    "confidence": "medium"
+  }
+}

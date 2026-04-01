@@ -1,0 +1,156 @@
+{
+  "name": "madeira_madeira",
+  "url": "https://www.madeiramadeira.com.br",
+  "scanned_at": "2026-03-31T21:46:39.086074",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/madeira_madeira_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/madeira_madeira_mobile.png"
+  },
+  "structure": {
+    "title": "MadeiraMadeira | Loja de M\u00f3veis e Decora\u00e7\u00e3o",
+    "url_final": "https://www.madeiramadeira.com.br/",
+    "nav_items": [],
+    "buttons": [
+      "Informe o seu CEP",
+      "Confirmar",
+      "Chat",
+      "Concordar e fechar"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Busque tudo para sua casa"
+          }
+        ]
+      }
+    ],
+    "links_count": 53,
+    "images_count": 21,
+    "images_with_alt": 19,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Confira as nossas ofertas"
+      },
+      {
+        "level": 2,
+        "text": "Ofertas do dia"
+      },
+      {
+        "level": 2,
+        "text": "Frete gr\u00e1tis"
+      },
+      {
+        "level": 2,
+        "text": "Cupom de desconto"
+      },
+      {
+        "level": 2,
+        "text": "M\u00eas do Consumidor com at\u00e9 60% OFF"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Busque tudo para sua casa"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Insira o CEP"
+      }
+    ],
+    "footer_links": [
+      "Sobre a Madeira",
+      "Trabalhe Conosco",
+      "Lojas F\u00edsicas",
+      "Baixe o App",
+      "Blog da Madeira",
+      "Black Friday",
+      "Responsabilidade Social",
+      "Para empresas",
+      "Para arquitetos",
+      "Venda na Madeira",
+      "Servi\u00e7os",
+      "Cashback",
+      "Blog Marketplace",
+      "Portal Integridade",
+      "M\u00f3veis para Quarto",
+      "M\u00f3veis para Sala de Estar",
+      "M\u00f3veis para Cozinha",
+      "M\u00f3veis para Escrit\u00f3rio",
+      "Mapa do Site",
+      "Compra Parcelada"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "MadeiraMadeira \u00e9 a maior loja de m\u00f3veis e decora\u00e7\u00e3o do Brasil. S\u00e3o mais de 3 milh\u00f5es de produtos para voc\u00ea comprar e decorar o seu lar. Confira!",
+    "scripts_count": 106
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "M\u00eas do Consumidor with up to 60% OFF",
+      "Frete gr\u00e1tis offers"
+    ],
+    "confidence": "high"
+  }
+}

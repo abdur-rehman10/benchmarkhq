@@ -1,0 +1,239 @@
+{
+  "name": "pepco",
+  "url": "https://www.pepco.pl",
+  "scanned_at": "2026-03-31T22:47:49.505403",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/pepco_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/pepco_mobile.png"
+  },
+  "structure": {
+    "title": "Pepco - poczuj jako\u015b\u0107, pokochaj cen\u0119",
+    "url_final": "https://www.pepco.pl/",
+    "nav_items": [
+      {
+        "text": "Znajd\u017a sklep Pepco",
+        "href": "/store-locator"
+      },
+      {
+        "text": "Centrum pomocy",
+        "href": "/centrum-pomocy"
+      },
+      {
+        "text": "Pepco Club",
+        "href": "/pepco-club"
+      }
+    ],
+    "buttons": [
+      "Polski",
+      "Dziecko",
+      "Kobieta",
+      "Dom",
+      "Niemowl\u0119",
+      "M\u0119\u017cczyzna",
+      "Pozosta\u0142e",
+      "Sprawd\u017a szczeg\u00f3\u0142y",
+      "Zobacz Hity",
+      "Dowiedz si\u0119 wi\u0119cej",
+      "Odkryj wszystkie korzy\u015bci",
+      "Poprzednie",
+      "Nast\u0119pne",
+      "Zobacz wi\u0119cej",
+      "Poprzednie",
+      "Nast\u0119pne",
+      "Zobacz wi\u0119cej",
+      "Poprzednie",
+      "Nast\u0119pne"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "subscriberEmail",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Wprowad\u017a sw\u00f3j adres e-mail"
+          }
+        ]
+      }
+    ],
+    "links_count": 130,
+    "images_count": 40,
+    "images_with_alt": 40,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Pepco - poczuj | jako\u015b\u0107, pokochaj cen\u0119"
+      },
+      {
+        "level": 2,
+        "text": "Promocja 1+1 na produkty wielkanocne"
+      },
+      {
+        "level": 2,
+        "text": "Poznaj ofert\u0119 gazetkow\u0105"
+      },
+      {
+        "level": 2,
+        "text": "Wyj\u0105tkowe kupony tylko w aplikacji"
+      },
+      {
+        "level": 2,
+        "text": "Do\u0142\u0105cz do Pepco Club!"
+      },
+      {
+        "level": 2,
+        "text": "Odkryj naszeHity tygodnia"
+      },
+      {
+        "level": 3,
+        "text": "Rakieta zabawkowa z wyrzutni\u0105"
+      },
+      {
+        "level": 3,
+        "text": "Pi\u0142ka gumowa"
+      },
+      {
+        "level": 3,
+        "text": "Pi\u0142ka gumowa z bohaterami bajek"
+      },
+      {
+        "level": 3,
+        "text": "Zestaw do piasku"
+      },
+      {
+        "level": 3,
+        "text": "Wywrotka do piasku z akcesoriami"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Wyszukaj produkt..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Szukaj produkt\u00f3w"
+      },
+      {
+        "type": "checkbox",
+        "name": "subscriberEmail",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Wprowad\u017a sw\u00f3j adres e-mail"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Szuka\u0107..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Polityka prywatno\u015bci"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 287,
+    "has_og_tags": false,
+    "meta_description": "Oficjalna strona sieci sklep\u00f3w Pepco Polska. Informacje o produktach, kolekcjach, promocjach, przecenach! Obejrzyj gazetk\u0119 promocyjn\u0105 i znajd\u017a najbli\u017cszy sklep!",
+    "scripts_count": 12
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Pepco Club membership with exclusive coupons",
+      "Weekly promotional offers"
+    ],
+    "confidence": "medium"
+  }
+}

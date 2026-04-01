@@ -1,0 +1,387 @@
+{
+  "name": "ceneo",
+  "url": "https://www.ceneo.pl",
+  "scanned_at": "2026-03-31T22:47:01.536261",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/ceneo_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/ceneo_mobile.png"
+  },
+  "structure": {
+    "title": "Ceneo - por\u00f3wnaj ceny i opinie - RTV, AGD, smartfony, laptopy",
+    "url_final": "https://www.ceneo.pl/",
+    "nav_items": [
+      {
+        "text": "Biuro i firma",
+        "href": "/Biuro_i_firma"
+      },
+      {
+        "text": "Kamery przemys\u0142owe",
+        "href": "/Kamery_przemyslowe"
+      },
+      {
+        "text": "Krzes\u0142a konferencyjne",
+        "href": "/Krzesla_konferencyjne"
+      },
+      {
+        "text": "Maski przeciwpy\u0142owe i ochronne",
+        "href": "/Maski_przeciwpylowe_i_ochronne"
+      },
+      {
+        "text": "Niszczarki",
+        "href": "/Niszczarki"
+      },
+      {
+        "text": "Obuwie robocze",
+        "href": "/Obuwie_robocze"
+      },
+      {
+        "text": "Odzie\u017c robocza",
+        "href": "/Odziez_robocza"
+      },
+      {
+        "text": "Sprz\u0119t ga\u015bniczy",
+        "href": "/Sprzet_gasniczy"
+      },
+      {
+        "text": "Symbole narodowe i flagi",
+        "href": "/Symbole_narodowe_i_flagi"
+      },
+      {
+        "text": "Urz\u0105dzenia sprz\u0105taj\u0105ce",
+        "href": "/Urzadzenia_sprzatajace"
+      },
+      {
+        "text": "Wyposa\u017cenie miejsc publicznych",
+        "href": "/Wyposazenie_miejsc_publicznych"
+      },
+      {
+        "text": "Budowa i remont",
+        "href": "/Budowa_i_remont"
+      },
+      {
+        "text": "Baterie \u0142azienkowe",
+        "href": "/Baterie_lazienkowe"
+      },
+      {
+        "text": "Farby",
+        "href": "/Farby"
+      },
+      {
+        "text": "Generatory pr\u0105du",
+        "href": "/Generatory_pradu"
+      },
+      {
+        "text": "Kabiny prysznicowe",
+        "href": "/Kabiny_prysznicowe"
+      },
+      {
+        "text": "Kot\u0142y",
+        "href": "/Kotly"
+      },
+      {
+        "text": "Panele pod\u0142ogowe",
+        "href": "/Panele_podlogowe"
+      },
+      {
+        "text": "Pi\u0142y elektryczne",
+        "href": "/Pily_elektryczne"
+      },
+      {
+        "text": "P\u0142ytki",
+        "href": "/Plytki"
+      }
+    ],
+    "buttons": [
+      "Szukaj",
+      "DLA KIBICA",
+      "WIOSNA",
+      "OGR\u00d3D",
+      "OD ZAJ\u0104CZKA",
+      "DLA KIBICA",
+      "WIOSNA",
+      "OGR\u00d3D",
+      "OD ZAJ\u0104CZKA",
+      "Zapisz",
+      "Ok, zgadzam si\u0119",
+      "Dostosuj zgody",
+      "Nie zgadzam si\u0119",
+      "Potwierd\u017a wyb\u00f3r",
+      "Zaznacz wszystkie",
+      "Powr\u00f3t",
+      "ZapytAI",
+      "Poka\u017c produkty"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search-query",
+            "placeholder": "Znajd\u017a produkt lub sklep"
+          },
+          {
+            "type": "hidden",
+            "name": "is-voice-search",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "category-id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "is-site-search",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.ceneo.pl/ssl-Newsletter/Subscribe",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "newsLetter.Email",
+            "placeholder": "Podaj sw\u00f3j adres email"
+          }
+        ]
+      }
+    ],
+    "links_count": 587,
+    "images_count": 320,
+    "images_with_alt": 292,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Popularne marki"
+      },
+      {
+        "level": 2,
+        "text": "Reklama - oferty sklep\u00f3w?"
+      },
+      {
+        "level": 2,
+        "text": "Sprawd\u017a nasze popularne produkty"
+      },
+      {
+        "level": 2,
+        "text": "2023-11-26T10:00:00"
+      },
+      {
+        "level": 2,
+        "text": "2023-11-26T10:00:00"
+      },
+      {
+        "level": 3,
+        "text": "Pi\u0142ka no\u017cna adidas World Cup 26 Trionda League BOX JD8045 5"
+      },
+      {
+        "level": 3,
+        "text": "EA Sports FC 26 (Gra PS5)"
+      },
+      {
+        "level": 3,
+        "text": "Megazestaw startowy Fifa 365 Adrenalyn XL 2026 Panini"
+      },
+      {
+        "level": 3,
+        "text": "Zenwire Mini R1"
+      },
+      {
+        "level": 3,
+        "text": "adidas Tiro League J350 Ht2427 Bia\u0142y"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "search-query",
+        "placeholder": "Znajd\u017a produkt lub sklep"
+      },
+      {
+        "type": "hidden",
+        "name": "is-voice-search",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "category-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "is-site-search",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "newsLetter.Email",
+        "placeholder": "Podaj sw\u00f3j adres email"
+      },
+      {
+        "type": "checkbox",
+        "name": "Advertising",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Analytical",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Functional",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Necessary",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Przechowywanie informacji na urz\u0105dzeniu lub dost\u0119p do nich",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Wykorzystywanie ograniczonych danych do wyboru reklam",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Tworzenie profili w celu spersonalizowanych reklam",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Wykorzystanie profili do wyboru spersonalizowanych reklam",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Tworzenie profili w celu personalizacji tre\u015bci",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Wykorzystywanie profili w celu doboru spersonalizowanych tre\u015bci",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Pomiar efektywno\u015bci reklam",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Pomiar efektywno\u015bci tre\u015bci",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Rozumienie odbiorc\u00f3w dzi\u0119ki statystyce lub kombinacji danych z r\u00f3\u017cnych \u017ar\u00f3de\u0142",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Rozw\u00f3j i ulepszanie us\u0142ug",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "O nas",
+      "Kontakt",
+      "Prawne",
+      "Mapa strony",
+      "Serwisy partnerskie",
+      "Polityka prywatno\u015bci",
+      "Kariera w Ceneo.pl",
+      "Dla sklep\u00f3w",
+      "Dla producent\u00f3w",
+      "Pressroom",
+      "Reklama - oferty sklep\u00f3w",
+      "Program Partnerski",
+      "Jak to dzia\u0142a",
+      "Bezpieczne zakupy",
+      "Polityka zwrot\u00f3w",
+      "Centrum pomocy",
+      "Zg\u0142o\u015b uwagi",
+      "Sukienki",
+      "Opony",
+      "Laptopy"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "Por\u00f3wnywarka cen Ceneo.pl - znajd\u017a produkt oraz sprawd\u017a i por\u00f3wnaj jego cen\u0119 w sklepach internetowych. Perfumy, AGD, RTV, komputery, laptopy, fotografia",
+    "scripts_count": 101
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "comprehensive price comparison",
+      "extensive product reviews"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "name": "bandh_photo",
+  "url": "https://www.bhphotovideo.com",
+  "scanned_at": "2026-03-31T21:13:38.625520",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/bandh_photo_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/bandh_photo_mobile.png"
+  },
+  "structure": {
+    "title": "B&H Photo Video Digital Cameras, Photography, Computers",
+    "url_final": "https://www.bhphotovideo.com/",
+    "nav_items": [
+      {
+        "text": "Photography",
+        "href": "/c/browse/Photography/ci/989/N/4294538916"
+      },
+      {
+        "text": "Computers",
+        "href": "/c/browse/Computers-Solutions/ci/9581"
+      },
+      {
+        "text": "Pro Video",
+        "href": "/c/browse/Professional-Video/ci/3755/N/4294545851"
+      },
+      {
+        "text": "Lighting",
+        "href": "/c/browse/Lighting-Studio/ci/1161/N/4294551176"
+      },
+      {
+        "text": "Pro Audio",
+        "href": "/c/browse/Professional-Audio/ci/12154"
+      },
+      {
+        "text": "Drones",
+        "href": "/c/browse/drone-with-camera/ci/27989/N/3765401970"
+      },
+      {
+        "text": "Camcorders",
+        "href": "/c/browse/Camcorders/ci/1820/N/4294548420"
+      },
+      {
+        "text": "TVs & Entertainment",
+        "href": "/c/browse/Home-Entertainment/ci/4600/N/4294544179"
+      },
+      {
+        "text": "Audio-Visual",
+        "href": "/c/browse/A-V-Presentation/ci/3644/N/4294546288"
+      },
+      {
+        "text": "Optics",
+        "href": "/c/browse/optics/ci/978"
+      },
+      {
+        "text": "Mobile",
+        "href": "/c/browse/Portable-Entertainment/ci/8565"
+      },
+      {
+        "text": "Surveillance",
+        "href": "/c/browse/Surveillance-Video/ci/3496/N/4293342959"
+      },
+      {
+        "text": "More...",
+        "href": "/c/browse/more/ci/47088"
+      },
+      {
+        "text": "Used",
+        "href": "/c/browse/Used-Equipment/ci/2870/N/4294247188"
+      },
+      {
+        "text": "Specials",
+        "href": "/deals-promotions-coupons"
+      }
+    ],
+    "buttons": [
+      "Press\u200e\u21b5 Enter\u200efor Accessibility for blind peoplewh",
+      "Press\u200e\u21b5 Enter\u200efor Keyboard Navigation",
+      "Press\u200e\u21b5 Enter\u200efor Accessibility menu",
+      "B2B, Gov, Students & More",
+      "Accessibility",
+      "Live Chat",
+      "See Schedule Details",
+      "Feedback",
+      "Shop Now",
+      "Preorder",
+      "Shop Now",
+      "Sign up",
+      "Live Chat",
+      "Learn More"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 79,
+    "images_count": 10,
+    "images_with_alt": 5,
+    "headings": [
+      {
+        "level": 3,
+        "text": "Please update your browser to take advantage of the latest technology securityen"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Manage Existing Email Subscriptions",
+      "Return Policy",
+      "Track/Request a Return",
+      "Manage Catalog Subscription",
+      "Payments",
+      "International",
+      "Site Directory",
+      "Shop By Brand",
+      "All Help Topics",
+      "About B&H",
+      "Our NYC SuperStore",
+      "Hours of Operation",
+      "Payboo Credit Card",
+      "Affiliate Program"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "Explore the world's largest independent electronics store for exceptional service, friendly support, and technological expertise for all your multimedia needs.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "B2B, Gov, Students & More section",
+      "Payboo Credit Card offering"
+    ],
+    "confidence": "high"
+  }
+}

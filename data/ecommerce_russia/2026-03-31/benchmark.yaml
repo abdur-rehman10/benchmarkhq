@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_russia
+  name: E-commerce Russia
+  country: Russia
+  currency: RUB
+  language: ru
+  version: 1.0.0
+  generated_at: '2026-03-31T22:21:05.768840'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - ozon
+  - wildberries
+  - yandex_market
+  - dns_shop
+  - citilink
+  - mvideo
+  - lamoda
+  - eldorado
+  - avito
+  - detsky_mir
+  - leroy_merlin_ru
+  - sportmaster
+  - petrovich
+  - vseinstrumenti
+  - bonprix_ru
+  - svyaznoy
+  - mts_shop
+  - apteka.ru
+  - megamarket
+  - re_store
+  - chitai_gorod
+  - gloria_jeans
+  - samokat
+  - kazanexpress
+  - aliexpress_ru
+  - samsung_ru
+  - nike_ru
+  - adidas_ru
+  - ikea_ru
+  - rendez_vous
+features:
+  critical:
+  - id: product_search
+    frequency: 13/13
+    percent: 100
+  - id: category_browsing
+    frequency: 13/13
+    percent: 100
+  - id: login_signup
+    frequency: 11/13
+    percent: 100
+  - id: product_images
+    frequency: 13/13
+    percent: 100
+  - id: product_descriptions
+    frequency: 12/13
+    percent: 100
+  - id: price_display
+    frequency: 13/13
+    percent: 100
+  - id: help_center
+    frequency: 10/13
+    percent: 100
+  - id: responsive_design
+    frequency: 10/13
+    percent: 100
+  - id: shopping_cart
+    frequency: 12/13
+    percent: 92
+  - id: add_to_cart
+    frequency: 12/13
+    percent: 92
+  - id: language_attribute
+    frequency: 12/13
+    percent: 92
+  - id: privacy_policy
+    frequency: 9/13
+    percent: 90
+  - id: terms_of_service
+    frequency: 9/13
+    percent: 90
+  - id: stock_availability
+    frequency: 8/13
+    percent: 89
+  - id: related_products
+    frequency: 7/13
+    percent: 88
+  - id: phone_support
+    frequency: 7/13
+    percent: 88
+  - id: personalized_recommendations
+    frequency: 6/13
+    percent: 86
+  - id: cookie_consent
+    frequency: 6/13
+    percent: 86
+  required:
+  - id: search_autocomplete
+    frequency: 5/13
+    percent: 83
+  - id: search_filters
+    frequency: 5/13
+    percent: 83
+  - id: push_notifications
+    frequency: 5/13
+    percent: 83
+  - id: hero_section
+    frequency: 5/13
+    percent: 83
+  - id: shipping_info
+    frequency: 9/13
+    percent: 82
+  - id: return_refund_info
+    frequency: 9/13
+    percent: 82
+  - id: footer_with_links
+    frequency: 9/13
+    percent: 82
+  - id: trending_items
+    frequency: 7/13
+    percent: 78
+  - id: order_tracking
+    frequency: 7/13
+    percent: 78
+  - id: order_history
+    frequency: 7/13
+    percent: 78
+  - id: contact_form
+    frequency: 7/13
+    percent: 78
+  - id: promo_code
+    frequency: 6/13
+    percent: 75
+  - id: wishlist
+    frequency: 6/13
+    percent: 75
+  - id: guest_checkout
+    frequency: 5/13
+    percent: 71
+  - id: size_variant_selector
+    frequency: 5/13
+    percent: 71
+  - id: multiple_payment
+    frequency: 5/13
+    percent: 71
+  - id: star_ratings
+    frequency: 5/13
+    percent: 71
+  - id: customer_reviews
+    frequency: 5/13
+    percent: 71
+  - id: alt_text_on_images
+    frequency: 9/13
+    percent: 69
+  - id: social_login
+    frequency: 4/13
+    percent: 67
+  - id: estimated_delivery
+    frequency: 4/13
+    percent: 67
+  - id: review_photos
+    frequency: 4/13
+    percent: 67
+  - id: recently_viewed
+    frequency: 4/13
+    percent: 67
+  - id: live_chat
+    frequency: 4/13
+    percent: 67
+  - id: sticky_header
+    frequency: 4/13
+    percent: 67
+  - id: breadcrumb_navigation
+    frequency: 4/13
+    percent: 67
+  - id: skeleton_loading
+    frequency: 4/13
+    percent: 67
+  recommended: []
+  nice_to_have: []
+  innovative: []

@@ -1,0 +1,373 @@
+{
+  "name": "lego",
+  "url": "https://www.lego.com",
+  "scanned_at": "2026-03-31T21:16:04.911311",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/lego_desktop.png"
+  },
+  "structure": {
+    "title": "Ana Sayfa | Resmi LEGO Store TR",
+    "url_final": "https://lego.tr/",
+    "nav_items": [
+      {
+        "text": "\u00dcR\u00dcNLER",
+        "href": ""
+      },
+      {
+        "text": "Temalara g\u00f6re setler",
+        "href": ""
+      },
+      {
+        "text": "Ya\u015flar",
+        "href": ""
+      },
+      {
+        "text": "LEGO\u00ae Dekoru",
+        "href": "https://lego.tr/themes/saklama-ve-ev-dekoru"
+      },
+      {
+        "text": "\u0130lgi Alanlar\u0131",
+        "href": ""
+      },
+      {
+        "text": "Sadece Burada",
+        "href": "https://lego.tr/categories/exclusives"
+      },
+      {
+        "text": "Yeni",
+        "href": "https://lego.storeturkey.com.tr/yeni-urunler?sort=3"
+      },
+      {
+        "text": "\u0130ndirimler ve F\u0131rsatlar",
+        "href": "https://lego.tr/lego-firsatlar-indirimler"
+      },
+      {
+        "text": "T\u00fcm Temalara g\u00f6re setler",
+        "href": "https://lego.tr/themes"
+      },
+      {
+        "text": "LEGO\u00ae Animal Crossing\u2122",
+        "href": "https://lego.tr/themes/lego-animal-crossing"
+      },
+      {
+        "text": "Architecture",
+        "href": "https://lego.tr/themes/architecture"
+      },
+      {
+        "text": "LEGO\u00ae Art",
+        "href": "https://lego.tr/themes/lego-art"
+      },
+      {
+        "text": "Batman\u2122",
+        "href": "https://lego.tr/themes/batman"
+      },
+      {
+        "text": "LEGO\u00ae Bluey",
+        "href": "https://lego.tr/themes/lego-bluey"
+      },
+      {
+        "text": "Botanical Collection",
+        "href": "https://lego.tr/themes/lego-botanik-cicekler"
+      },
+      {
+        "text": "BrickHeadz",
+        "href": "https://lego.tr/themes/brickheadz"
+      },
+      {
+        "text": "City",
+        "href": "https://lego.tr/themes/city"
+      },
+      {
+        "text": "Classic",
+        "href": "https://lego.tr/themes/lego-classic"
+      },
+      {
+        "text": "Creator 3-in-1",
+        "href": "https://lego.tr/themes/creator-3-in-1"
+      },
+      {
+        "text": "DC",
+        "href": "https://lego.tr/themes/dc-super-heroes"
+      }
+    ],
+    "buttons": [
+      "T\u00fcm\u00fcn\u00fc Kabul Et",
+      "T\u00fcm\u00fcn\u00fc Reddet",
+      "\u00c7erezleri Y\u00f6net",
+      "Oturum A\u00e7",
+      "Formula 1\u00ae",
+      "Bu K\u0131zlar\u0131n Eseri",
+      "Men\u00fc",
+      "Kay\u0131t Ol",
+      "T\u00fcm\u00fcn\u00fc Ke\u015ffet",
+      "\u015eimdi Al",
+      "\u015eimdi Al",
+      "T\u00fcm\u00fcn\u00fc Ke\u015ffet",
+      "Daha fazla bilgi",
+      "\u015eimdi Al",
+      "Daha fazla bilgi",
+      "\u015eimdi Al",
+      "Hemen Al",
+      "Daha fazla bilgi",
+      "Koleksiyonu ke\u015ffet",
+      "Daha fazla bilgi"
+    ],
+    "forms": [
+      {
+        "action": "/arama",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Arad\u0131\u011f\u0131n\u0131z \u00fcr\u00fcn, kategori veya markay\u0131 yaz\u0131n\u0131z."
+          }
+        ]
+      },
+      {
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "E-posta adresinizi giriniz"
+          },
+          {
+            "type": "password",
+            "name": "",
+            "placeholder": "\u015eifrenizi giriniz"
+          },
+          {
+            "type": "checkbox",
+            "name": "header-remember",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "E-posta adresinizi giriniz"
+          },
+          {
+            "type": "checkbox",
+            "name": "kvkk",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 344,
+    "images_count": 60,
+    "images_with_alt": 59,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Heyecan\u0131 \u0130n\u015fa Et"
+      },
+      {
+        "level": 1,
+        "text": "Bu K\u0131zlar\u0131n Eseri"
+      },
+      {
+        "level": 2,
+        "text": "Herkesin neler in\u015fa etti\u011fine g\u00f6z at\u0131n"
+      },
+      {
+        "level": 2,
+        "text": "Bu Haftan\u0131n \u00d6ne \u00c7\u0131kanlar\u0131"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Arad\u0131\u011f\u0131n\u0131z \u00fcr\u00fcn, kategori veya markay\u0131 yaz\u0131n\u0131z."
+      },
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "E-posta adresinizi giriniz"
+      },
+      {
+        "type": "password",
+        "name": "",
+        "placeholder": "\u015eifrenizi giriniz"
+      },
+      {
+        "type": "checkbox",
+        "name": "header-remember",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7826309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7826309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7813309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7813309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7816309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7816309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7807309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7807309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7814309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7814309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7822309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7822309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7821309",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "ProductCount7821309",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "subPro7809309",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "KVKK S\u00f6zle\u015fmesi'ni",
+      "LEGO Group Hakk\u0131nda",
+      "LEGO.tr Hakk\u0131nda",
+      "S\u00fcrd\u00fcr\u00fclebilirlik",
+      "Bize Ula\u015f\u0131n",
+      "Teslimat Ko\u015fullar\u0131",
+      "\u00d6deme Se\u00e7enekleri",
+      "Gizlilik S\u00f6zle\u015fmesi",
+      "Yap\u0131m K\u0131lavuzu Bul",
+      "Yedek Par\u00e7alar",
+      "Anasayfa",
+      "Yeni \u00dcr\u00fcnler",
+      "\u0130ndirimdekiler",
+      "Sipari\u015f Takip",
+      "Ma\u011fazalar\u0131 Listele"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 48,
+    "has_og_tags": true,
+    "meta_description": "LEGO oyuncak yap\u0131m par\u00e7as\u0131n\u0131n \u00fcr\u00fcnlere, oyunlara, videolara, LEGO\u00ae Ma\u011fazas\u0131na, LEGO tarihine, hayran tasar\u0131mlar\u0131na ve yard\u0131m merkezimize ba\u011flant\u0131lar",
+    "scripts_count": 38
+  },
+  "errors": [
+    "mobile: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.lego.com/\", waiting until \"domcontentloaded\"\n"
+  ],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "LEGO\u00ae Animal Crossing\u2122 theme",
+      "LEGO\u00ae Art",
+      "Botanical Collection"
+    ],
+    "confidence": "medium"
+  }
+}

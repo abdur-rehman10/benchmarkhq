@@ -1,0 +1,201 @@
+{
+  "name": "ikea_qatar",
+  "url": "https://www.ikea.com/qa/en/",
+  "scanned_at": "2026-03-31T23:22:58.431545",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/ikea_qatar_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/ikea_qatar_mobile.png"
+  },
+  "structure": {
+    "title": "Furniture Store & Home Accessories in Doha, Qatar - IKEA",
+    "url_final": "https://www.ikea.com/qa/en/",
+    "nav_items": [
+      {
+        "text": "Products",
+        "href": "https://www.ikea.com/qa/en/cat/products-products/"
+      },
+      {
+        "text": "Rooms",
+        "href": "https://www.ikea.com/qa/en/rooms/"
+      },
+      {
+        "text": "Offers",
+        "href": "https://www.ikea.com/qa/en/offers/"
+      },
+      {
+        "text": "Design & ideas",
+        "href": "https://www.ikea.com/qa/en/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/qa/en/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Clear the search input field",
+      "Search IKEA products using a photo",
+      "Search",
+      "Recommended for you",
+      "Lower prices best sellers",
+      "Living room",
+      "Daily essentials",
+      "Bedroom",
+      "Dining"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/qa/en/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      }
+    ],
+    "links_count": 476,
+    "images_count": 282,
+    "images_with_alt": 249,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Welcome to IKEA Qatar!"
+      },
+      {
+        "level": 2,
+        "text": "Discover our Top sellers"
+      },
+      {
+        "level": 2,
+        "text": "Shop Lower Price by category"
+      },
+      {
+        "level": 2,
+        "text": "Play is for everyone, let the fun begin"
+      },
+      {
+        "level": 2,
+        "text": "This season's must-haves!"
+      },
+      {
+        "level": 2,
+        "text": "Shop news by category"
+      },
+      {
+        "level": 3,
+        "text": "OSKARSHAMNWing chair"
+      },
+      {
+        "level": 3,
+        "text": "SANELACushion cover"
+      },
+      {
+        "level": 3,
+        "text": "OSKARSHAMNFootstool with storage"
+      },
+      {
+        "level": 3,
+        "text": "KLIPPOXELThrow"
+      },
+      {
+        "level": 3,
+        "text": "SANELACurtains, 1 pair"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "What are you looking for?"
+      }
+    ],
+    "footer_links": [
+      "See all IKEA Family offers",
+      "Join IKEA Family",
+      "Download IKEA app",
+      "Offers",
+      "IKEA shopping app",
+      "Planning tools",
+      "Doha store",
+      "Swedish restaurant",
+      "IKEA Family",
+      "Brochures",
+      "About services",
+      "About shopping",
+      "Spare parts",
+      "Return policy",
+      "Guarantees & warranties",
+      "Contact us",
+      "FAQ",
+      "About IKEA",
+      "Democratic design",
+      "Sustainable everyday"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 492,
+    "has_og_tags": true,
+    "meta_description": "Welcome to IKEA Qatar, your go-to furniture store for stylish & affordable home solutions in Doha & all Qatar.\u2b50Lower prices and IKEA family offers.",
+    "scripts_count": 80
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "Y",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Search IKEA products using a photo",
+      "IKEA Family offers and membership"
+    ],
+    "confidence": "medium"
+  }
+}

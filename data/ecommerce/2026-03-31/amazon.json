@@ -1,0 +1,348 @@
+{
+  "name": "amazon",
+  "url": "https://www.amazon.com",
+  "scanned_at": "2026-03-31T20:19:43.942235",
+  "screenshots": {
+    "desktop": "data/ecommerce/2026-03-31/screenshots/amazon_desktop.png",
+    "mobile": "data/ecommerce/2026-03-31/screenshots/amazon_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.com. Spend less. Smile more.",
+    "url_final": "https://www.amazon.com/",
+    "nav_items": [
+      {
+        "text": "Main content",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Searchopt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Cartshift+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Homeshift+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Ordersshift+opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Show/Hide shortcutsshift+opt+Z",
+      "Back to top",
+      "Sign in",
+      "TRYTurkish Lira",
+      "United States"
+    ],
+    "links_count": 275,
+    "main_links": [
+      {
+        "text": "Main content",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Searchopt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Cartshift+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Homeshift+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Ordersshift+opt+O",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": ".us",
+        "href": "/ref=nav_logo"
+      },
+      {
+        "text": "Deliver toTurkey",
+        "href": ""
+      },
+      {
+        "text": "Hello, sign inAccount & Lists",
+        "href": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazo"
+      },
+      {
+        "text": "Returns& Orders",
+        "href": "/gp/css/order-history?ref_=nav_orders_first"
+      },
+      {
+        "text": "0Cart",
+        "href": "/gp/cart/view.html?ref_=nav_cart"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazo"
+      },
+      {
+        "text": "Start here.",
+        "href": "https://www.amazon.com/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.ama"
+      },
+      {
+        "text": "Create a List",
+        "href": "/hz/wishlist/ls?triggerElementID=createList&ref_=nav_ListFlyout_navFlyout_createList_lv_redirect"
+      },
+      {
+        "text": "Find a List or Registry",
+        "href": "/registries?ref_=nav_ListFlyout_find"
+      },
+      {
+        "text": "Account",
+        "href": "/gp/css/homepage.html?ref_=nav_AccountFlyout_ya"
+      },
+      {
+        "text": "Orders",
+        "href": "/gp/css/order-history?ref_=nav_AccountFlyout_orders"
+      },
+      {
+        "text": "Recommendations",
+        "href": "/gp/yourstore?ref_=nav_AccountFlyout_recs"
+      },
+      {
+        "text": "Browsing History",
+        "href": "/gp/history?ref_=nav_AccountFlyout_browsinghistory"
+      },
+      {
+        "text": "Your Shopping preferences",
+        "href": "https://www.amazon.com/slc/hub?ref_=nav_AccountFlyout_sl_ph_navflyout"
+      },
+      {
+        "text": "Watchlist",
+        "href": "/gp/video/watchlist?ref_=nav_AccountFlyout_ywl"
+      },
+      {
+        "text": "Video Purchases & Rentals",
+        "href": "/gp/video/library?ref_=nav_AccountFlyout_yvl"
+      },
+      {
+        "text": "Kindle Unlimited",
+        "href": "/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku"
+      },
+      {
+        "text": "Content & Devices",
+        "href": "/hz/mycd/myx?pageType=content&ref_=nav_AccountFlyout_myk"
+      },
+      {
+        "text": "Subscribe & Save Items",
+        "href": "/gp/subscribe-and-save/manager/viewsubscriptions?ref_=nav_AccountFlyout_sns"
+      },
+      {
+        "text": "Memberships & Subscriptions",
+        "href": "/hz5/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions"
+      },
+      {
+        "text": "Music Library",
+        "href": "https://music.amazon.com?ref=nav_youraccount_cldplyr"
+      },
+      {
+        "text": "All",
+        "href": "javascript: void(0)"
+      },
+      {
+        "text": "Today's Deals",
+        "href": "/gp/goldbox?ref_=nav_cs_gb"
+      },
+      {
+        "text": "Gift Cards",
+        "href": "/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc"
+      },
+      {
+        "text": "Sell",
+        "href": "/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell"
+      }
+    ],
+    "forms": [
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Search Amazon"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "images_count": 154,
+    "images_with_alt": 150,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Skip to"
+      },
+      {
+        "level": 2,
+        "text": "Keyboard shortcuts"
+      },
+      {
+        "level": 2,
+        "text": "Get your game on"
+      },
+      {
+        "level": 2,
+        "text": "Top categories in Kitchen appliancesTop categories in Kitchen appliances"
+      },
+      {
+        "level": 2,
+        "text": "New home arrivals under $50"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Search Amazon"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ue_back",
+        "placeholder": ""
+      }
+    ],
+    "meta_description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, includin",
+    "meta_viewport": "",
+    "has_og_tags": false,
+    "scripts_count": 118,
+    "stylesheets_count": 9,
+    "has_lang_attr": true,
+    "has_skip_link": false,
+    "aria_labels_count": 111,
+    "footer_links": [],
+    "has_search_input": true
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "related_items": "U",
+      "stock_availability": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment_methods": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "U",
+      "phone_number": "N",
+      "alt_text_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "N",
+      "cookie_consent": "N",
+      "terms_of_service": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "color_scheme": "light",
+    "estimated_primary_color": "#FF9900",
+    "design_quality_1_to_10": 9,
+    "notable_features": [
+      "Extensive product search functionality",
+      "Large number of images",
+      "Help center available"
+    ],
+    "missing_common_features": [
+      "Search autocomplete",
+      "Product descriptions",
+      "Price display",
+      "Add to cart button",
+      "Customer reviews",
+      "Privacy policy link"
+    ],
+    "confidence": "medium"
+  }
+}

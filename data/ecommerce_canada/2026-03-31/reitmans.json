@@ -1,0 +1,363 @@
+{
+  "name": "reitmans",
+  "url": "https://www.reitmans.com",
+  "scanned_at": "2026-03-31T21:26:24.734169",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/reitmans_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/reitmans_mobile.png"
+  },
+  "structure": {
+    "title": "Reitmans",
+    "url_final": "https://www.reitmans.com/",
+    "nav_items": [
+      {
+        "text": "FIND A STORE",
+        "href": "https://locations.reitmans.com/"
+      }
+    ],
+    "buttons": [
+      "Back",
+      "en",
+      "Ok",
+      "Cancel",
+      "Bigger TextBigger Text",
+      "Bigger CursorBigger Cursor",
+      "Text ReaderTooltips",
+      "Line HeightLine Height",
+      "Hide ImagesHide images",
+      "Readable FontsReadable fonts",
+      "Dyslexic FontDyslexic Font",
+      "Bionic ReadingBionic Reading",
+      "Stop AnimationsStop Animations",
+      "Invert ColorInvert Colors",
+      "BrightnessBrightness",
+      "ContrastContrast",
+      "SaturationSaturation",
+      "Grayscale",
+      "Red/Green",
+      "Blue/Yellow",
+      "Green/Red",
+      "Reading LineReading Line",
+      "Highlight LinksHighlight Links",
+      "Text ReaderRead page",
+      "Reading MaskReading Mask",
+      "Page StructurePage Structure",
+      "English (British)",
+      "English (United States)",
+      "Danish"
+    ],
+    "forms": [
+      {
+        "action": "/localization",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "return_to",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale_code",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "radio",
+            "name": "Color-1\n",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "Color-1\n",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "radio",
+            "name": "Color-1\n",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "Color-1\n",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 427,
+    "images_count": 57,
+    "images_with_alt": 4,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Quick Shop"
+      },
+      {
+        "level": 2,
+        "text": "40% off Outerwear*"
+      },
+      {
+        "level": 2,
+        "text": "30% off Dresses*"
+      },
+      {
+        "level": 2,
+        "text": "40% off Outerwear*"
+      },
+      {
+        "level": 2,
+        "text": "30% off Dresses*"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search language"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale_code",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search"
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "Color-1\n",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Facebook\n          (Opens in a new tab)",
+      "Instagram\n          (Opens in a new tab)",
+      "TikTok",
+      "YouTube\n          (Opens in a new tab)",
+      "Pinterest\n          (Opens in a new tab)",
+      "X (Twitter)\n          (Opens in a new tab)",
+      "Track an Order",
+      "Start a Return",
+      "Track an Order",
+      "Start a Return",
+      "Help Center",
+      "Orders, Pick-up & Delivery",
+      "Returns, Exchanges & Refunds",
+      "Payments & Gift Cards",
+      "Shopping & Promotions",
+      "Account",
+      "Store Locator",
+      "Accessibility Options",
+      "Help Center",
+      "Orders, Pick-up & Delivery"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 135,
+    "has_og_tags": true,
+    "meta_description": "Shop online from Reitmans, Canada's largest women\u2019s apparel retailer and leading fashion brand. Buy women\u2019s clothing including tops, pants, career clothes and more.",
+    "scripts_count": 136
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Accessibility options like dyslexic font and bionic reading"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "name": "kabum",
+  "url": "https://www.kabum.com.br",
+  "scanned_at": "2026-03-31T21:41:06.772574",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/kabum_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/kabum_mobile.png"
+  },
+  "structure": {
+    "title": "KaBuM! | Ofertas em Tech e Gamer? S\u00f3 se for no KaBuM!",
+    "url_final": "https://www.kabum.com.br/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "\ue8cc",
+        "href": "/carrinho"
+      },
+      {
+        "text": "\ue8cc",
+        "href": "/carrinho"
+      },
+      {
+        "text": "\ue87d",
+        "href": "/minha-conta/favoritos"
+      },
+      {
+        "text": "\ue8cc",
+        "href": "/carrinho"
+      },
+      {
+        "text": "Cupons",
+        "href": "/hotsite/cupons"
+      },
+      {
+        "text": "Mais Vendidos",
+        "href": "/promocao/maisvendidos"
+      },
+      {
+        "text": "Mais-v-",
+        "href": ""
+      },
+      {
+        "text": "Hardware",
+        "href": "/promocao/HARDWAREKABUM"
+      },
+      {
+        "text": "PC Gamer",
+        "href": "/promocao/PCGAMER"
+      },
+      {
+        "text": "Computadores",
+        "href": "/promocao/COMPUTADORKABUM"
+      },
+      {
+        "text": "Perif\u00e9ricos",
+        "href": "/promocao/perifericoskabum"
+      },
+      {
+        "text": "Escrit\u00f3rio",
+        "href": "/promocao/PERIFERICOSOFFICE"
+      },
+      {
+        "text": "Seja Prime",
+        "href": "/hotsite/prime"
+      },
+      {
+        "text": "Venda no KaBuM!",
+        "href": "/hotsite/marketplace"
+      },
+      {
+        "text": "Blog KaBuM!",
+        "href": "https://blog.kabum.com.br/"
+      },
+      {
+        "text": "Hardware",
+        "href": "/promocao/HARDWAREKABUM"
+      },
+      {
+        "text": "PC Gamer",
+        "href": "/promocao/PCGAMER"
+      },
+      {
+        "text": "",
+        "href": "/monte-seu-pc"
+      }
+    ],
+    "buttons": [
+      "\ue5d2",
+      "\uf05d",
+      "\ue5d2",
+      "Buscar",
+      "\ue55eEnviar para:Digite o CEP",
+      "Entre",
+      "Cadastre-se",
+      "\uf0e2",
+      "\uf05d",
+      "Departamentos\ue313",
+      "Mais\ue313",
+      "Ol\u00e1. Acesse sua conta",
+      "\ue896Departamentos",
+      "\uebe5Ativar tradutor em libras",
+      "ENTRE",
+      "CADASTRE-SE",
+      "\ue314",
+      "\ue315",
+      "\ue314",
+      "\ue315",
+      "\ue314",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d",
+      "\ue87d"
+    ],
+    "forms": [
+      {
+        "action": "/busca",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Busque no KaBuM!"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Digite seu nome"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Digite seu e-mail"
+          }
+        ]
+      }
+    ],
+    "links_count": 206,
+    "images_count": 75,
+    "images_with_alt": 37,
+    "headings": [
+      {
+        "level": 1,
+        "text": "KaBuM!"
+      },
+      {
+        "level": 2,
+        "text": "a hora \u00e9 agora"
+      },
+      {
+        "level": 2,
+        "text": "Banners de Promo\u00e7\u00e3o (superior)"
+      },
+      {
+        "level": 2,
+        "text": "MARCAS RECOMENDADAS"
+      },
+      {
+        "level": 2,
+        "text": "Banners de Promo\u00e7\u00e3o (lateral)"
+      },
+      {
+        "level": 2,
+        "text": "Consentimento de Cookies"
+      },
+      {
+        "level": 3,
+        "text": "Corsair"
+      },
+      {
+        "level": 3,
+        "text": "LG"
+      },
+      {
+        "level": 3,
+        "text": "Intel"
+      },
+      {
+        "level": 3,
+        "text": "Kingston"
+      },
+      {
+        "level": 3,
+        "text": "Logitech G"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Busque no KaBuM!"
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Digite seu nome"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Digite seu e-mail"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Regulamentos",
+      "Cupons",
+      "Frete Gr\u00e1tis",
+      "Baixe o App",
+      "Monte seu PC",
+      "Oferta Ninja",
+      "Seja Prime",
+      "Gift Card KaBuM!",
+      "Black Friday",
+      "Setembro Lend\u00e1rio",
+      "Julho Gamer",
+      "Mega Maio",
+      "Mulheres no Game",
+      "Hardware",
+      "Celulares e Smartphones",
+      "Perif\u00e9ricos",
+      "Teclado e Mouse",
+      "Computadores",
+      "Placa de V\u00eddeo",
+      "Monitores"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 149,
+    "has_og_tags": true,
+    "meta_description": "Procurando as melhores ofertas em tecnologia, hardware e games? S\u00f3 se for no KaBuM! Se liga na nossa sele\u00e7\u00e3o ninja!",
+    "scripts_count": 94
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Seja Prime membership",
+      "Venda no KaBuM! marketplace"
+    ],
+    "confidence": "medium"
+  }
+}

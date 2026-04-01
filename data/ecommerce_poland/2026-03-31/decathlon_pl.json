@@ -1,0 +1,216 @@
+{
+  "name": "decathlon_pl",
+  "url": "https://www.decathlon.pl",
+  "scanned_at": "2026-03-31T22:46:14.371457",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/decathlon_pl_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/decathlon_pl_mobile.png"
+  },
+  "structure": {
+    "title": "Decathlon: sklep sportowy online - sprz\u0119t, odzie\u017c, akcesoria",
+    "url_final": "https://www.decathlon.pl/",
+    "nav_items": [
+      {
+        "text": "Kategorie",
+        "href": "#navbar-0"
+      },
+      {
+        "text": "Zawarto\u015b\u0107 strony g\u0142\u00f3wnej",
+        "href": "#content"
+      },
+      {
+        "text": "Stopka",
+        "href": "#footer-Pomoc-0"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "m\u00f3j sklep",
+        "href": "/store-locator"
+      },
+      {
+        "text": "Moje konto",
+        "href": "/account/dashboard"
+      },
+      {
+        "text": "KoszykWarto\u015b\u0107 koszyka:0,00\u00a0z\u0142",
+        "href": "/checkout/cart"
+      }
+    ],
+    "buttons": [
+      "Dostosuj",
+      "Odrzu\u0107",
+      "Zaakceptuj wszystko",
+      "Wszystkie sporty",
+      "Kobieta",
+      "M\u0119\u017cczyzna",
+      "Dziecko",
+      "Akcesoria",
+      "Zdrowie i od\u017cywianie",
+      "Sportswear",
+      "Styl Casual",
+      "Sporty",
+      "Kobieta",
+      "M\u0119\u017cczyzna",
+      "Dziecko",
+      "Bestsellery",
+      "Ostatnie sztuki",
+      "Sportswear",
+      "Second Life",
+      "Us\u0142ugi"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "Ntt",
+            "placeholder": "Znajd\u017a produkt, sport lub mark\u0119"
+          }
+        ]
+      }
+    ],
+    "links_count": 178,
+    "images_count": 95,
+    "images_with_alt": 85,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Menu"
+      },
+      {
+        "level": 2,
+        "text": "\u3164"
+      },
+      {
+        "level": 2,
+        "text": "\u3164"
+      },
+      {
+        "level": 2,
+        "text": "\u3164"
+      },
+      {
+        "level": 2,
+        "text": "\u3164"
+      },
+      {
+        "level": 3,
+        "text": "Gwarancja Satysfakcji Kipride"
+      },
+      {
+        "level": 3,
+        "text": "-20% z kodem WIOSNA"
+      },
+      {
+        "level": 3,
+        "text": "B\u0105d\u017a gotowy na podb\u00f3j boiska!"
+      },
+      {
+        "level": 3,
+        "text": "Second Life"
+      },
+      {
+        "level": 3,
+        "text": "Trek Days"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "Ntt",
+        "placeholder": "Znajd\u017a produkt, sport lub mark\u0119"
+      }
+    ],
+    "footer_links": [
+      "Znajd\u017a sklepy Decathlon",
+      "Centrum pomocy",
+      "Skontaktuj si\u0119 z nami",
+      "Program lojalno\u015bciowy",
+      "Dostawa",
+      "Zwroty i wymiana",
+      "P\u0142atno\u015bci",
+      "Zadzwo\u0144 i zam\u00f3w",
+      "Reklamacje",
+      "Wycofane produkty",
+      "Regulamin",
+      "Regulaminy promocji",
+      "Informacje prawne",
+      "Program Ochrony Kupuj\u0105cych",
+      "Zg\u0142o\u015b nielegalne tre\u015bci",
+      "Zg\u0142o\u015b luk\u0119 w zabezpieczeniach",
+      "Serwis",
+      "Zakupy na raty",
+      "Leasing",
+      "Karty podarunkowe"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 146,
+    "has_og_tags": false,
+    "meta_description": "\ud83c\udfcb\ufe0f W sklepie sportowym Decathlon znajdziesz sprz\u0119t, odzie\u017c, buty i akcesoria do 60+ dyscyplin! Sprawd\u017a ofert\u0119 i zam\u00f3w wygodnie online!\ud83d\ude9a",
+    "scripts_count": 32
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Second Life program",
+      "Gwarancja Satysfakcji Kipride"
+    ],
+    "confidence": "medium"
+  }
+}

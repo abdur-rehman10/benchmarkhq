@@ -1,0 +1,278 @@
+{
+  "name": "apple_india",
+  "url": "https://www.apple.com/in/shop",
+  "scanned_at": "2026-03-31T23:48:44.966154",
+  "screenshots": {
+    "desktop": "data/ecommerce_india/2026-03-31/screenshots/apple_india_desktop.png",
+    "mobile": "data/ecommerce_india/2026-03-31/screenshots/apple_india_mobile.png"
+  },
+  "structure": {
+    "title": "Apple Store Online - Apple (IN)",
+    "url_final": "https://www.apple.com/in/store",
+    "nav_items": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/in/"
+      },
+      {
+        "text": "Store",
+        "href": "/in/store"
+      },
+      {
+        "text": "Shop the Latest",
+        "href": "https://www.apple.com/in/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/in/shop/buy-mac"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/in/shop/buy-ipad"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/in/shop/buy-iphone"
+      },
+      {
+        "text": "Apple Watch",
+        "href": "https://www.apple.com/in/shop/buy-watch"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/in/shop/goto/airpods/accessories"
+      },
+      {
+        "text": "Accessories",
+        "href": "https://www.apple.com/in/shop/accessories/all"
+      },
+      {
+        "text": "Find a Store",
+        "href": "https://www.apple.com/in/retail/"
+      },
+      {
+        "text": "Order Status",
+        "href": "https://secure.store.apple.com/in/shop/order/list"
+      },
+      {
+        "text": "Apple Trade In",
+        "href": "https://www.apple.com/in/shop/trade-in"
+      },
+      {
+        "text": "Ways to Buy",
+        "href": "https://www.apple.com/in/shop/goto/ways_to_buy"
+      },
+      {
+        "text": "Personal Setup",
+        "href": "https://www.apple.com/in/shop/goto/personal_setup"
+      },
+      {
+        "text": "Education",
+        "href": "https://www.apple.com/in/shop/browse/home/education_routing"
+      },
+      {
+        "text": "Business",
+        "href": "https://www.apple.com/in/retail/business/"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/in/mac/"
+      },
+      {
+        "text": "Explore All Mac",
+        "href": "https://www.apple.com/in/mac/"
+      },
+      {
+        "text": "MacBook Neo",
+        "href": "https://www.apple.com/in/macbook-neo/"
+      },
+      {
+        "text": "MacBook Air",
+        "href": "https://www.apple.com/in/macbook-air/"
+      }
+    ],
+    "buttons": [
+      "Previous - Product",
+      "Next - Product",
+      "Previous -",
+      "Next -",
+      "Previous - The Apple Store difference.",
+      "Next - The Apple Store difference.",
+      "Play",
+      "Previous - Help is here.",
+      "Next - Help is here.",
+      "Previous - Accessories.",
+      "Next - Accessories.",
+      "Previous - Loud and clear.",
+      "Next - Loud and clear.",
+      "Previous - Nike x Beats.",
+      "Next - Nike x Beats."
+    ],
+    "forms": [
+      {
+        "action": "/in/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search apple.com"
+          },
+          {
+            "type": "hidden",
+            "name": "src",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 370,
+    "images_count": 92,
+    "images_with_alt": 75,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Store"
+      },
+      {
+        "level": 2,
+        "text": "Shop"
+      },
+      {
+        "level": 2,
+        "text": "Quick Links"
+      },
+      {
+        "level": 2,
+        "text": "Shop Special Stores"
+      },
+      {
+        "level": 2,
+        "text": "Explore Mac"
+      },
+      {
+        "level": 2,
+        "text": "Shop Mac"
+      },
+      {
+        "level": 3,
+        "text": "NEW"
+      },
+      {
+        "level": 3,
+        "text": "NEW"
+      },
+      {
+        "level": 3,
+        "text": "NEW"
+      },
+      {
+        "level": 3,
+        "text": "NEW"
+      },
+      {
+        "level": 3,
+        "text": "NEW"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search apple.com"
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Terms\u00a0apply(opens in new window)",
+      "Additional\u00a0terms\u00a0apply.(opens in new window)",
+      "offerterms(opens in new window)",
+      "support.apple.com/121115(opens in new window)",
+      "Terms\u00a0apply(opens in new window)",
+      "Additional\u00a0terms\u00a0apply.(opens in new window)",
+      "offerterms(opens in new window)",
+      "support.apple.com/121115(opens in new window)",
+      "Apple",
+      "Store",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV & Home",
+      "AirTag",
+      "Accessories",
+      "Gift Cards",
+      "Wallet"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 62,
+    "has_og_tags": true,
+    "meta_description": "Shop the latest Apple products, accessories and offers. Get up to 6 months No Cost EMI and instant cashback with eligible cards.",
+    "scripts_count": 62
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 9,
+    "notable_unique_features": [
+      "Personal Setup",
+      "Apple Trade In",
+      "Education discounts"
+    ],
+    "confidence": "high"
+  }
+}

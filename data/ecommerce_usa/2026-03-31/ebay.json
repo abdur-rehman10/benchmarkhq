@@ -1,0 +1,327 @@
+{
+  "name": "ebay",
+  "url": "https://www.ebay.com",
+  "scanned_at": "2026-03-31T21:06:52.870980",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/ebay_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/ebay_mobile.png"
+  },
+  "structure": {
+    "title": "Electronics, Cars, Fashion, Collectibles & More | eBay",
+    "url_final": "https://www.ebay.com/",
+    "nav_items": [
+      {
+        "text": "Sign in",
+        "href": "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2F"
+      },
+      {
+        "text": "register",
+        "href": "https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2F"
+      },
+      {
+        "text": "Deals",
+        "href": "https://www.ebay.com/deals"
+      },
+      {
+        "text": "Brand Outlet",
+        "href": "https://www.ebay.com/b/Brand-Outlet/bn_7115532402"
+      },
+      {
+        "text": "Gift Cards",
+        "href": "https://www.ebay.com/giftcards"
+      },
+      {
+        "text": "Help & Contact",
+        "href": "https://www.ebay.com/help/home"
+      },
+      {
+        "text": "Sell",
+        "href": "https://www.ebay.com/sl/sell"
+      },
+      {
+        "text": "Watchlist",
+        "href": "https://www.ebay.com/mye/myebay/watchlist"
+      },
+      {
+        "text": "My eBay",
+        "href": "https://www.ebay.com/mys/home?source=GBH"
+      },
+      {
+        "text": "Summary",
+        "href": "https://www.ebay.com/mye/myebay/summary"
+      },
+      {
+        "text": "Recently Viewed",
+        "href": "https://www.ebay.com/mye/myebay/rvi"
+      },
+      {
+        "text": "Bids/Offers",
+        "href": "https://www.ebay.com/mye/myebay/bidsoffers"
+      },
+      {
+        "text": "Watchlist",
+        "href": "https://www.ebay.com/mye/myebay/watchlist"
+      },
+      {
+        "text": "Purchase History",
+        "href": "https://www.ebay.com/mye/myebay/purchase"
+      },
+      {
+        "text": "Buy Again",
+        "href": "https://www.ebay.com/mye/buyagain"
+      },
+      {
+        "text": "Selling",
+        "href": "https://www.ebay.com/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH"
+      },
+      {
+        "text": "Saved Feed",
+        "href": "https://www.ebay.com/mye/myebay/saved"
+      },
+      {
+        "text": "Saved Searches",
+        "href": "https://www.ebay.com/mye/myebay/savedsearches"
+      },
+      {
+        "text": "Saved Sellers",
+        "href": "https://www.ebay.com/mye/myebay/savedsellers"
+      },
+      {
+        "text": "Payments",
+        "href": "https://ppcapp.ebay.com/myppc/wallet/list"
+      }
+    ],
+    "buttons": [
+      "Ship to",
+      "Expand Watch List",
+      "Expand My eBay",
+      "Notifications",
+      "Expand Cart",
+      "Shop by category",
+      "Search",
+      "Expand: Electronics",
+      "Expand: Motors",
+      "Expand: Fashion",
+      "Expand: Collectibles and Art",
+      "Expand: Sports",
+      "Expand: Health & Beauty",
+      "Expand: Industrial equipment",
+      "Expand: Home & Garden",
+      "Expand: Sell",
+      "Expand: More",
+      "More options",
+      "More options"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ebay.com/sch/i.html",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "_nkw",
+            "placeholder": "Search for anything"
+          },
+          {
+            "type": "text",
+            "name": "_sacat",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_from",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_trksid",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 365,
+    "images_count": 40,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Electronics, Cars, Fashion, Collectibles & More | eBay"
+      },
+      {
+        "level": 2,
+        "text": "Where are you shipping to?"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Get more with an eBay account"
+      },
+      {
+        "level": 2,
+        "text": "Don't miss out on insider perks"
+      },
+      {
+        "level": 2,
+        "text": "Sell to the world from Turkey"
+      },
+      {
+        "level": 3,
+        "text": "Motors"
+      },
+      {
+        "level": 3,
+        "text": "Clothing & Accessories"
+      },
+      {
+        "level": 3,
+        "text": "Sporting goods"
+      },
+      {
+        "level": 3,
+        "text": "Electronics"
+      },
+      {
+        "level": 3,
+        "text": "Business & Industrial"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "_nkw",
+        "placeholder": "Search for anything"
+      },
+      {
+        "type": "hidden",
+        "name": "_from",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_trksid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "shiptoflag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "srt",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Buy",
+      "Registration",
+      "Bidding & buying help",
+      "Stores",
+      "Creator Collections",
+      "eBay for Charity",
+      "Charity Shop",
+      "Seasonal Sales and events",
+      "eBay Gift Cards",
+      "Sell",
+      "Start selling",
+      "How to sell",
+      "Business sellers",
+      "Affiliates",
+      "Developers",
+      "Security center",
+      "Site map",
+      "TCGplayer",
+      "Facebook",
+      "X (Twitter)"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 73,
+    "has_og_tags": true,
+    "meta_description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.",
+    "scripts_count": 67
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Auction-style listings",
+      "Global shipping program",
+      "eBay Money Back Guarantee"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "name": "naheed",
+  "url": "https://www.naheed.pk",
+  "scanned_at": "2026-03-31T23:34:58.309063",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/naheed_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/naheed_mobile.png"
+  },
+  "structure": {
+    "title": "Naheed.pk - Online Shopping in Pakistan: Cosmetics, Groceries, Mobiles, Fashion, Electronics & More | Online Shopping in Karachi, Lahore and Pakistan",
+    "url_final": "https://www.naheed.pk/",
+    "nav_items": [],
+    "buttons": [
+      "Sign In",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "email",
+            "name": "username",
+            "placeholder": ""
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "captcha_form_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "context",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.naheed.pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cubmFoZWVkLnBrL2hvbWVjYXJvdXNlbHMvY2Fyb3V",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sku",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "category",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.naheed.pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cubmFoZWVkLnBrL2hvbWVjYXJvdXNlbHMvY2Fyb3V",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sku",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "category",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.naheed.pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cubmFoZWVkLnBrL2hvbWVjYXJvdXNlbHMvY2Fyb3V",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sku",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "category",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.naheed.pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cubmFoZWVkLnBrL2hvbWVjYXJvdXNlbHMvY2Fyb3V",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sku",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "category",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "price",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1598,
+    "images_count": 279,
+    "images_with_alt": 92,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Welcome,"
+      },
+      {
+        "level": 2,
+        "text": "SJ Women's Hand Bag, Off White, GL24105"
+      },
+      {
+        "level": 2,
+        "text": "SJ Women's Hand Bag, Black, CM7825"
+      },
+      {
+        "level": 2,
+        "text": "SJ Women's Hand Bag, Red, JF012412092"
+      },
+      {
+        "level": 2,
+        "text": "SJ Women's Hand Bag, Catmed Brige, CM7825"
+      },
+      {
+        "level": 3,
+        "text": "Popular Categories"
+      },
+      {
+        "level": 3,
+        "text": "Trending Now"
+      },
+      {
+        "level": 3,
+        "text": "Her Bag Buffet"
+      },
+      {
+        "level": 3,
+        "text": "His Fragrance Secret"
+      },
+      {
+        "level": 3,
+        "text": "Makeup Keepers"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search Naheed"
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "username",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_form_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "context",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "title",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sku",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "price",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "title",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "price",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "manufacturer_name",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "title",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact Us and Location",
+      "Delivery Info",
+      "FAQs",
+      "Naheed Loyalty",
+      "About Us",
+      "Return & Refund",
+      "Privacy Policy",
+      "Terms & Conditions",
+      "Careers"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 71,
+    "has_og_tags": false,
+    "meta_description": "Secure online shopping in Pakistan. Shop online at Pakistan's most trusted online shopping store. Buy Makeup, Grocery, Health & Beauty Products, Mobiles, Computers, Appliances, Fashion Accessories, & ",
+    "scripts_count": 291
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive product categories",
+      "Focus on local market"
+    ],
+    "confidence": "medium"
+  }
+}

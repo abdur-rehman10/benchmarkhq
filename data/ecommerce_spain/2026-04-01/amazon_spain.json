@@ -1,0 +1,334 @@
+{
+  "name": "amazon_spain",
+  "url": "https://www.amazon.es",
+  "scanned_at": "2026-04-01T00:04:02.601005",
+  "screenshots": {
+    "desktop": "data/ecommerce_spain/2026-04-01/screenshots/amazon_spain_desktop.png",
+    "mobile": "data/ecommerce_spain/2026-04-01/screenshots/amazon_spain_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.es: compra online de electr\u00f3nica, libros, deporte, hogar, moda y mucho m\u00e1s.",
+    "url_final": "https://www.amazon.es/",
+    "nav_items": [
+      {
+        "text": "Contenido principal",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Buscaropt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Cestamay\u00fas+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Iniciomay\u00fas+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Pedidosmay\u00fas+opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Mostrar/ocultar m\u00e9todos abreviadosmay\u00fas+opt+Z",
+      "Volver arriba",
+      "Identificarse",
+      "Inicia sesi\u00f3n de manera segura",
+      "Espa\u00f1a"
+    ],
+    "forms": [
+      {
+        "action": "/privacyprefs/retail/v3/banner",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "anti-csrftoken-a2z",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "timestamp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "disclosureDecision",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "privacyCustomerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "__mk_es_ES",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Buscar en Amazon.es"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 209,
+    "images_count": 72,
+    "images_with_alt": 65,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Saltar a"
+      },
+      {
+        "level": 2,
+        "text": "M\u00e9todos abreviados de teclado"
+      },
+      {
+        "level": 2,
+        "text": "Inform\u00e1tica y accesorios"
+      },
+      {
+        "level": 2,
+        "text": "M\u00e1s vendidos: -40% a partir de 2 productos"
+      },
+      {
+        "level": 2,
+        "text": "Ponte en forma desde casa"
+      },
+      {
+        "level": 3,
+        "text": "Los mejores eBooks Kindle en oferta"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "anti-csrftoken-a2z",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "disclosureDecision",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "privacyCustomerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sessionId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "consentTypes",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__mk_es_ES",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Buscar en Amazon.es"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 88,
+    "has_og_tags": false,
+    "meta_description": "Descubre y compra online: electr\u00f3nica, moda, hogar, libros, deporte y mucho m\u00e1s a precios bajos en Amazon.es. Env\u00edo gratis con Amazon Prime.",
+    "scripts_count": 116
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product range",
+      "personalized recommendations",
+      "Amazon Prime benefits"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "name": "decathlon_uae",
+  "url": "https://www.decathlon.ae",
+  "scanned_at": "2026-03-31T23:20:22.560211",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/decathlon_uae_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/decathlon_uae_mobile.png"
+  },
+  "structure": {
+    "title": "Shop Sports Gear and Equipment Online \u2013 Decathlon UAE",
+    "url_final": "https://decathlon.ae/",
+    "nav_items": [],
+    "buttons": [
+      "Navigation",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Shop Now",
+      "Previous",
+      "Next",
+      "Go to slide 1",
+      "Go to slide 2",
+      "Go to slide 3",
+      "Go to slide 4",
+      "View all results",
+      "Back",
+      "ALL SPORTS",
+      "FITNESS",
+      "HIKE & CAMP",
+      "RACKET SPORTS",
+      "WATER SPORTS",
+      "WINTER SPORTS",
+      "BIKING",
+      "MEN",
+      "WOMEN",
+      "KIDS"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "a",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "p_handle",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "p_handle",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1122,
+    "images_count": 104,
+    "images_with_alt": 85,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Decathlon UAE"
+      },
+      {
+        "level": 2,
+        "text": "Mountain hiking backpack, mh900 25 l - grey"
+      },
+      {
+        "level": 2,
+        "text": "Self-inflating, 1-person camping mattress - basic, 185 x 60 cm"
+      },
+      {
+        "level": 2,
+        "text": "Women\u2019s mountain walking full-zip fleece mh100"
+      },
+      {
+        "level": 2,
+        "text": "Pressure solar camping shower - 10 litres"
+      },
+      {
+        "level": 2,
+        "text": "80 lumen battery-operated head lamp - black"
+      },
+      {
+        "level": 3,
+        "text": "Top Brands. Peak Performance."
+      },
+      {
+        "level": 3,
+        "text": "Popular Sports"
+      },
+      {
+        "level": 3,
+        "text": "Cycling"
+      },
+      {
+        "level": 3,
+        "text": "Skating"
+      },
+      {
+        "level": 3,
+        "text": "Racket Sports"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "a",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "p_handle",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "CONTACT US",
+      "OUR SHOP",
+      "SITE MAP",
+      "CREATE A RETURN",
+      "TERMS",
+      "PRIVACY POLICY",
+      "DELIVERY & RETURNS",
+      "WHO WE ARE",
+      "WWW.AZADEA.COM",
+      "BLOGS"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 24,
+    "has_og_tags": true,
+    "meta_description": "Discover a wide range of Sports Gear and Equipment online at Decathlon UAE. Shop for Sports Clothing, Shoes, Accessories, and more at the best prices.",
+    "scripts_count": 145
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "N",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Comprehensive footer with links",
+      "Strong focus on sports categories"
+    ],
+    "confidence": "high"
+  }
+}

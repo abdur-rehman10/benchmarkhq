@@ -1,0 +1,298 @@
+{
+  "name": "ikea_france",
+  "url": "https://www.ikea.com/fr/fr/",
+  "scanned_at": "2026-03-31T22:25:08.009092",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/ikea_france_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/ikea_france_mobile.png"
+  },
+  "structure": {
+    "title": "Mobilier et d\u00e9corations - Int\u00e9rieur et ext\u00e9rieur - IKEA",
+    "url_final": "https://www.ikea.com/fr/fr/",
+    "nav_items": [
+      {
+        "text": "Produits",
+        "href": "https://www.ikea.com/fr/fr/cat/produits-products/"
+      },
+      {
+        "text": "Pi\u00e8ces",
+        "href": "https://www.ikea.com/fr/fr/rooms/"
+      },
+      {
+        "text": "Bonnes affaires",
+        "href": "https://www.ikea.com/fr/fr/offers/"
+      },
+      {
+        "text": "Conception",
+        "href": "https://www.ikea.com/fr/fr/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/fr/fr/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Effacer le champ de recherche",
+      "Rechercher",
+      "Mettre la vid\u00e9o en pause",
+      "Prix baiss\u00e9",
+      "Offres Outlet",
+      "Notre prix le plus bas",
+      "R\u00e9vision: 4.7 hors de 5 \u00e9toiles. Nombre total de c",
+      "R\u00e9vision: 4.1 hors de 5 \u00e9toiles. Nombre total de c",
+      "R\u00e9vision: 4.5 hors de 5 \u00e9toiles. Nombre total de c",
+      "R\u00e9vision: 4.3 hors de 5 \u00e9toiles. Nombre total de c",
+      "R\u00e9vision: 4.6 hors de 5 \u00e9toiles. Nombre total de c"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/fr/fr/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Que cherchez-vous ?"
+          }
+        ]
+      }
+    ],
+    "links_count": 210,
+    "images_count": 126,
+    "images_with_alt": 86,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Rafra\u00eechissez votre int\u00e9rieur \u00e0 petit prix !"
+      },
+      {
+        "level": 2,
+        "text": "Un ext\u00e9rieur qui sent bon le printemps"
+      },
+      {
+        "level": 2,
+        "text": "Toutes nos bonnes affaires"
+      },
+      {
+        "level": 2,
+        "text": "C'est nouveau chez IKEA !"
+      },
+      {
+        "level": 2,
+        "text": "On oublie tout en cuisinant."
+      },
+      {
+        "level": 2,
+        "text": "De l'inspiration pour chaque pi\u00e8ce"
+      },
+      {
+        "level": 3,
+        "text": "Profitez des beaux jours avec nos nouveaut\u00e9s !"
+      },
+      {
+        "level": 3,
+        "text": "IKEA 365+Verre \u00e0 pied, verre transparent, 30 cl"
+      },
+      {
+        "level": 3,
+        "text": "ANNONSBatterie de cuisine, 3 pi\u00e8ces, verre/acier inoxydable"
+      },
+      {
+        "level": 3,
+        "text": "LYCKSELE L\u00d6V\u00c5SChauffeuse convertible, Ransta naturel"
+      },
+      {
+        "level": 3,
+        "text": "NYSJ\u00d6NColonne, blanc, 30x190 cm"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Que cherchez-vous ?"
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59386967-ccd5cf-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59386967-ccd5cf-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59386967-ccd5cf-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59386967-ccd5cf-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59386967-ccd5cf-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60233426-ccd5cf-P0-4",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-60233426-ccd5cf-P0-4",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s99387007-ccd5cf-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s99387007-ccd5cf-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s99387007-ccd5cf-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s99387007-ccd5cf-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s99387007-ccd5cf-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89425910-ccd5cf-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89425910-ccd5cf-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89425910-ccd5cf-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89425910-ccd5cf-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89425910-ccd5cf-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89425910-ccd5cf-P0-6",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "D\u00e9couvrir IKEA Family",
+      "Rejoindre ou se connecter",
+      "D\u00e9couvrir le R\u00e9seau IKEA Pro",
+      "Rejoindre ou se connecter",
+      "Outils de conception",
+      "Notre app IKEA",
+      "Demande de facture",
+      "Demande de visserie",
+      "Carte cadeau et cagnotte",
+      "Objets trouv\u00e9s en magasin",
+      "Besoin d'aide",
+      "FAQ",
+      "Suivre et g\u00e9rer ma commande",
+      "Contactez-nous",
+      "Signaler un probl\u00e8me de s\u00e9curit\u00e9 produit",
+      "Nos magasins",
+      "Manger chez IKEA",
+      "Voici IKEA",
+      "Espace de presse",
+      "Travailler chez IKEA"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 94,
+    "has_og_tags": true,
+    "meta_description": "Le n\u00b01 du mobilier et de la d\u00e9coration en France \u2192 D\u00e9couvrez nos produits, inspirations et conseils d\u2019am\u00e9nagement pour grands r\u00eaves et petits budgets",
+    "scripts_count": 54
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "IKEA Family membership benefits",
+      "Design tools for room planning"
+    ],
+    "confidence": "high"
+  }
+}

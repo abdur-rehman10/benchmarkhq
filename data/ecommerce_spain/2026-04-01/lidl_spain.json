@@ -1,0 +1,245 @@
+{
+  "name": "lidl_spain",
+  "url": "https://www.lidl.es",
+  "scanned_at": "2026-04-01T00:14:42.381129",
+  "screenshots": {
+    "desktop": "data/ecommerce_spain/2026-04-01/screenshots/lidl_spain_desktop.png",
+    "mobile": "data/ecommerce_spain/2026-04-01/screenshots/lidl_spain_mobile.png"
+  },
+  "structure": {
+    "title": "Compra Online | Lidl",
+    "url_final": "https://www.lidl.es/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "/c/descubre-nuevas-ofertas-cada-semana/s10087402"
+      },
+      {
+        "text": "",
+        "href": "/mla/"
+      },
+      {
+        "text": "",
+        "href": "/otc/cart"
+      },
+      {
+        "text": "",
+        "href": ""
+      }
+    ],
+    "buttons": [],
+    "forms": [
+      {
+        "action": "/q/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/q/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      }
+    ],
+    "links_count": 328,
+    "images_count": 91,
+    "images_with_alt": 69,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Estas ofertas son para ti"
+      },
+      {
+        "level": 2,
+        "text": "Vive mejor con SILVERCREST"
+      },
+      {
+        "level": 2,
+        "text": "Descubre y compraInsp\u00edrate con nuestra selecci\u00f3n"
+      },
+      {
+        "level": 2,
+        "text": "A\u00fan hay m\u00e1s..."
+      },
+      {
+        "level": 2,
+        "text": "Folletos"
+      },
+      {
+        "level": 2,
+        "text": "Consejos y tutoriales"
+      },
+      {
+        "level": 3,
+        "text": "Gestionar las preferencias de consentimiento"
+      },
+      {
+        "level": 3,
+        "text": "Lista de cookies"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "\u00bfQu\u00e9 est\u00e1s buscando?"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Buscar..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Newsletter",
+      "Env\u00edos gratuitos a partir de 79\u20ac con cuenta Lidl*",
+      "Devoluci\u00f3n gratuita",
+      "Servicio de financiaci\u00f3n",
+      "Entrega en m\u00e1ximo 3 d\u00edas",
+      "Reg\u00edstrate ahora",
+      "Contacto",
+      "Atenci\u00f3n al cliente",
+      "Informaci\u00f3n",
+      "Empresa",
+      "Sostenibilidad",
+      "Sala de prensa",
+      "Empleo",
+      "Inmuebles",
+      "Tus mundos Lidl",
+      "Cocina y cuidado del hogar",
+      "Bricolaje y jard\u00edn",
+      "Deporte y tiempo libre",
+      "Hogar y decoraci\u00f3n",
+      "Moda y accesorios"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 60,
+    "has_og_tags": false,
+    "meta_description": "Ofertas semanales en Bricolaje, Cocina, Juguetes, Deporte y mucho m\u00e1s. La mejor relaci\u00f3n calidad-precio a un solo clic. Encuentra todo lo que necesitas en Lidl.",
+    "scripts_count": 50
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Env\u00edos gratuitos a partir de 79\u20ac con cuenta Lidl",
+      "Servicio de financiaci\u00f3n"
+    ],
+    "confidence": "medium"
+  }
+}

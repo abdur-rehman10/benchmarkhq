@@ -1,0 +1,350 @@
+{
+  "name": "coolblue",
+  "url": "https://www.coolblue.nl",
+  "scanned_at": "2026-03-31T22:32:17.981148",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/coolblue_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/coolblue_mobile.png"
+  },
+  "structure": {
+    "title": "Coolblue - Alles voor een glimlach",
+    "url_final": "https://www.coolblue.nl/",
+    "nav_items": [
+      {
+        "text": "Bekijk allecategorie\u00ebn",
+        "href": "/ons-assortiment"
+      },
+      {
+        "text": "Laptops, desktops & monitoren",
+        "href": "/laptops-desktops-monitoren"
+      },
+      {
+        "text": "Laptops",
+        "href": "/laptops"
+      },
+      {
+        "text": "Windows laptops",
+        "href": "/laptops/windows"
+      },
+      {
+        "text": "Apple MacBook",
+        "href": "/laptops/apple-macbook"
+      },
+      {
+        "text": "Zakelijke laptops",
+        "href": "/laptops/laptops-voor-zakelijk-gebruik"
+      },
+      {
+        "text": "Laptop workstations",
+        "href": "/laptops/workstations"
+      },
+      {
+        "text": "Chromebooks",
+        "href": "/laptops/chromebooks"
+      },
+      {
+        "text": "Monitoren",
+        "href": "/monitoren"
+      },
+      {
+        "text": "Zakelijke monitoren",
+        "href": "/monitoren/zakelijke-monitoren"
+      },
+      {
+        "text": "Desktops",
+        "href": "/desktops"
+      },
+      {
+        "text": "Zakelijke desktops",
+        "href": "/desktops/zakelijke-desktops"
+      },
+      {
+        "text": "Laptophoezen",
+        "href": "/laptop-sleeves"
+      },
+      {
+        "text": "PC Gaming Setup",
+        "href": "/pc-gaming-set-up"
+      },
+      {
+        "text": "Gaming pc's",
+        "href": "/desktops/game-pcs"
+      },
+      {
+        "text": "Gaming laptops",
+        "href": "/laptops/gaming-laptops"
+      },
+      {
+        "text": "Gaming monitoren",
+        "href": "/monitoren/gaming-monitoren"
+      },
+      {
+        "text": "Gaming headsets voor pc",
+        "href": "/gaming-headsets/voor-pc"
+      },
+      {
+        "text": "Gaming toetsenborden",
+        "href": "/toetsenborden/gaming-toetsenborden"
+      },
+      {
+        "text": "Gaming muizen",
+        "href": "/muizen/gaming-muizen"
+      }
+    ],
+    "buttons": [
+      "Computers & tablets",
+      "Telefonie",
+      "Beeld & geluid",
+      "Gaming",
+      "Zakelijk & thuiswerken",
+      "Huishouden & wonen",
+      "Keuken",
+      "Verzorging & vrije tijd",
+      "Foto & video",
+      "Coolblue Energie",
+      "Acties & merken",
+      "Account",
+      "Aanmelden",
+      "hier",
+      "Ok\u00e9",
+      "Weigeren"
+    ],
+    "forms": [
+      {
+        "action": "/zoeken",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "query",
+            "placeholder": "Zoeken naar..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "$ACTION_REF_1",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "$ACTION_1:0",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "$ACTION_1:1",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "$ACTION_KEY",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/melding-sluiten",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "referrer-url",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 582,
+    "images_count": 39,
+    "images_with_alt": 20,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Coolblue"
+      },
+      {
+        "level": 2,
+        "text": "Blader door onze categorie\u00ebn"
+      },
+      {
+        "level": 2,
+        "text": "Ontdek de verschillende merken"
+      },
+      {
+        "level": 2,
+        "text": "Omdat stof zuigt"
+      },
+      {
+        "level": 2,
+        "text": "Word klant bij Coolblue Energie"
+      },
+      {
+        "level": 2,
+        "text": "Best verkocht"
+      },
+      {
+        "level": 3,
+        "text": "Computers & tablets"
+      },
+      {
+        "level": 3,
+        "text": "Beeld & geluid"
+      },
+      {
+        "level": 3,
+        "text": "Telefonie"
+      },
+      {
+        "level": 3,
+        "text": "Huishouden & wonen"
+      },
+      {
+        "level": 3,
+        "text": "Keuken"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "query",
+        "placeholder": "Zoeken naar..."
+      },
+      {
+        "type": "hidden",
+        "name": "$ACTION_REF_1",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "$ACTION_1:0",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "$ACTION_1:1",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "$ACTION_KEY",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referrer-url",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "onze klantenservice pagina",
+      "Ons assortiment",
+      "Bedrijfswebsite",
+      "Klantenservice",
+      "Zakelijk",
+      "Onze winkels",
+      "Over Coolblue",
+      "Werken bij CoolblueVacatures genoeg!",
+      "Inloggen",
+      "Klantenservice",
+      "Bezorgen en installeren",
+      "Betalen",
+      "Ruilen en retourneren",
+      "Garantie, reparatie en verzekeringen",
+      "Bestellen",
+      "Winkels",
+      "Status van mijn bestelling",
+      "Retour of reparatie aanmelden",
+      "Al mijn bestellingen en facturen",
+      "Mijn Coolblue-account"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": true,
+    "meta_description": "Beste webwinkel 2022. Voor 23.59u besteld? Morgen gratis bezorgd. Ook op zondag! Gratis retourneren.",
+    "scripts_count": 249
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Coolblue Energie integration",
+      "Focus on customer satisfaction with 'Alles voor een glimlach' slogan"
+    ],
+    "confidence": "high"
+  }
+}

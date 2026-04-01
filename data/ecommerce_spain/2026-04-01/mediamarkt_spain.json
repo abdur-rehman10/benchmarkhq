@@ -1,0 +1,248 @@
+{
+  "name": "mediamarkt_spain",
+  "url": "https://www.mediamarkt.es",
+  "scanned_at": "2026-04-01T00:05:23.989838",
+  "screenshots": {
+    "desktop": "data/ecommerce_spain/2026-04-01/screenshots/mediamarkt_spain_desktop.png",
+    "mobile": "data/ecommerce_spain/2026-04-01/screenshots/mediamarkt_spain_mobile.png"
+  },
+  "structure": {
+    "title": "Flower power - \u00a1Tecnolog\u00eda al Mejor Precio! | MediaMarkt",
+    "url_final": "https://www.mediamarkt.es/es/",
+    "nav_items": [
+      {
+        "text": "Telefon\u00eda",
+        "href": "/es/category/telefon\u00eda-262.html"
+      },
+      {
+        "text": "Inform\u00e1tica",
+        "href": "/es/category/inform\u00e1tica-9.html"
+      },
+      {
+        "text": "Electrodom\u00e9sticos",
+        "href": "/es/category/electrodom\u00e9sticos-553.html"
+      },
+      {
+        "text": "Televisi\u00f3n",
+        "href": "/es/category/televisi\u00f3n-398.html"
+      },
+      {
+        "text": "Peque\u00f1os electrodom\u00e9sticos",
+        "href": "/es/category/peque\u00f1os-electrodom\u00e9sticos-6201.html"
+      },
+      {
+        "text": "Consolas y videojuegos",
+        "href": "/es/specials/consolas-y-videojuegos"
+      },
+      {
+        "text": "Ofertas",
+        "href": "https://www.mediamarkt.es/es/campaign/campanas-y-ofertas"
+      },
+      {
+        "text": "\u00bfTe ayudamos?",
+        "href": "https://te-ayudamos.mediamarkt.es"
+      },
+      {
+        "text": "Servicios",
+        "href": "/es/service"
+      },
+      {
+        "text": "miMediaMarkt",
+        "href": "https://www.mediamarkt.es/es/myaccount/loyalty-benefits"
+      },
+      {
+        "text": "Empresas",
+        "href": "/es/specials/empresas"
+      },
+      {
+        "text": "Marketplace",
+        "href": "/es/campaign/mejores-ofertas-marketplace"
+      }
+    ],
+    "buttons": [
+      "Todas las categor\u00edas",
+      "Mi tiendaNo has seleccionado una tienda",
+      "Todas las categor\u00edas",
+      "M\u00e1s informaci\u00f3n",
+      "Activar",
+      "Nuestra empresa",
+      "Servicios",
+      "Ofertas y campa\u00f1as",
+      "Configurar cookies",
+      "T\u00e9cnicas"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 203,
+    "images_count": 79,
+    "images_with_alt": 34,
+    "headings": [
+      {
+        "level": 1,
+        "text": "MediaMarkt: Compra productos electr\u00f3nicos, tendencias y tecnolog\u00eda en la tienda "
+      },
+      {
+        "level": 2,
+        "text": "Campa\u00f1as destacadas"
+      },
+      {
+        "level": 2,
+        "text": "Categor\u00edas destacadas"
+      },
+      {
+        "level": 2,
+        "text": "Lanzamiento Samsung Galaxy S26"
+      },
+      {
+        "level": 2,
+        "text": "Descubre m\u00e1s"
+      },
+      {
+        "level": 2,
+        "text": "Tu oportunidad de ahorrar"
+      },
+      {
+        "level": 3,
+        "text": "Flower power"
+      },
+      {
+        "level": 3,
+        "text": "Especial hogar"
+      },
+      {
+        "level": 3,
+        "text": "Especial clima"
+      },
+      {
+        "level": 3,
+        "text": "Descubre la magia de Apple"
+      },
+      {
+        "level": 3,
+        "text": "Ofertas en TV"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Formulario de contacto",
+      "Preguntas frecuentes",
+      "Detalles encuesta de satisfacci\u00f3n",
+      "\u00bfQui\u00e9nes somos?",
+      "Nuestros compromisos",
+      "El Blog de MediaMarkt",
+      "Sala de prensa"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 126,
+    "has_og_tags": true,
+    "meta_description": "Las mejores ofertas en inform\u00e1tica, smartphones, TV, aspiradores, robot de cocina, patinetes, videojuegos, consolas y mucho m\u00e1s.",
+    "scripts_count": 35
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Flower power campaign",
+      "Samsung Galaxy S26 launch promotion"
+    ],
+    "confidence": "high"
+  }
+}

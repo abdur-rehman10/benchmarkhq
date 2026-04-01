@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_poland
+  name: E-commerce Poland
+  country: Poland
+  currency: PLN
+  language: pl
+  version: 1.0.0
+  generated_at: '2026-03-31T22:53:47.343064'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - allegro
+  - olx_poland
+  - amazon_pl
+  - media_expert
+  - rtv_euro_agd
+  - empik
+  - zalando_pl
+  - morele.net
+  - x-kom
+  - decathlon_pl
+  - ikea_poland
+  - ceneo
+  - leroy_merlin_pl
+  - pepco
+  - reserved
+  - ccc
+  - eobuwie
+  - rossmann_pl
+  - zara_pl
+  - handm_pl
+  - notino_pl
+  - temu_pl
+  - shein_pl
+  - nike_pl
+  - samsung_pl
+  - apple_pl
+  - komputronik
+  - answear
+  - modivo
+  - sinsay
+features:
+  critical:
+  - id: product_search
+    frequency: 22/22
+    percent: 100
+  - id: search_filters
+    frequency: 15/22
+    percent: 100
+  - id: category_browsing
+    frequency: 22/22
+    percent: 100
+  - id: login_signup
+    frequency: 21/22
+    percent: 100
+  - id: product_images
+    frequency: 22/22
+    percent: 100
+  - id: product_descriptions
+    frequency: 20/22
+    percent: 100
+  - id: price_display
+    frequency: 21/22
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 22/22
+    percent: 100
+  - id: privacy_policy
+    frequency: 18/22
+    percent: 100
+  - id: cookie_consent
+    frequency: 18/22
+    percent: 100
+  - id: terms_of_service
+    frequency: 17/22
+    percent: 100
+  - id: responsive_design
+    frequency: 20/22
+    percent: 100
+  - id: shopping_cart
+    frequency: 20/22
+    percent: 95
+  - id: add_to_cart
+    frequency: 20/22
+    percent: 95
+  - id: promo_code
+    frequency: 18/22
+    percent: 95
+  - id: shipping_info
+    frequency: 18/22
+    percent: 95
+  - id: return_refund_info
+    frequency: 19/22
+    percent: 95
+  - id: help_center
+    frequency: 20/22
+    percent: 95
+  - id: contact_form
+    frequency: 18/22
+    percent: 95
+  - id: language_attribute
+    frequency: 21/22
+    percent: 95
+  - id: guest_checkout
+    frequency: 16/22
+    percent: 94
+  - id: stock_availability
+    frequency: 17/22
+    percent: 94
+  - id: related_products
+    frequency: 16/22
+    percent: 94
+  - id: multiple_payment
+    frequency: 17/22
+    percent: 94
+  - id: estimated_delivery
+    frequency: 15/22
+    percent: 94
+  - id: wishlist
+    frequency: 16/22
+    percent: 94
+  - id: personalized_recommendations
+    frequency: 16/22
+    percent: 94
+  - id: order_tracking
+    frequency: 16/22
+    percent: 94
+  - id: order_history
+    frequency: 16/22
+    percent: 94
+  - id: phone_support
+    frequency: 17/22
+    percent: 94
+  - id: search_autocomplete
+    frequency: 13/22
+    percent: 93
+  - id: star_ratings
+    frequency: 14/22
+    percent: 88
+  - id: customer_reviews
+    frequency: 14/22
+    percent: 88
+  - id: hero_section
+    frequency: 14/22
+    percent: 88
+  - id: recently_viewed
+    frequency: 13/22
+    percent: 87
+  - id: sticky_header
+    frequency: 13/22
+    percent: 87
+  - id: breadcrumb_navigation
+    frequency: 13/22
+    percent: 87
+  required:
+  - id: footer_with_links
+    frequency: 17/22
+    percent: 81
+  - id: trending_items
+    frequency: 13/22
+    percent: 76
+  - id: review_photos
+    frequency: 10/22
+    percent: 67
+  - id: push_notifications
+    frequency: 10/22
+    percent: 67
+  recommended:
+  - id: size_variant_selector
+    frequency: 10/22
+    percent: 62
+  - id: social_login
+    frequency: 9/22
+    percent: 60
+  - id: live_chat
+    frequency: 9/22
+    percent: 60
+  - id: skeleton_loading
+    frequency: 7/22
+    percent: 47
+  nice_to_have: []
+  innovative: []

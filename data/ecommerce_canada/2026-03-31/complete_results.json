@@ -1,0 +1,5830 @@
+[
+  {
+    "name": "amazon_canada",
+    "url": "https://www.amazon.ca",
+    "scanned_at": "2026-03-31T21:17:47.209767",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/amazon_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/amazon_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.ca: Low Prices \u2013 Fast Shipping \u2013 Millions of Items",
+      "url_final": "https://www.amazon.ca/",
+      "nav_items": [
+        {
+          "text": "Main content",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "SearchOpt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "CartShift+Opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "HomeShift+Opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "OrdersShift+Opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Show/Hide shortcutsShift+Opt+Z",
+        "Pause",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "Back to top",
+        "Sign in",
+        "Sign in securely",
+        "Canada"
+      ],
+      "forms": [
+        {
+          "action": "/privacyprefs/retail/v3/banner",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "anti-csrftoken-a2z",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "timestamp",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "disclosureDecision",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "privacyCustomerId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "sessionId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userType",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Search Amazon.ca"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 319,
+      "images_count": 168,
+      "images_with_alt": 158,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Skip to"
+        },
+        {
+          "level": 2,
+          "text": "Keyboard shortcuts"
+        },
+        {
+          "level": 2,
+          "text": "Deals on handpicked productsDeals on handpicked products"
+        },
+        {
+          "level": 2,
+          "text": "Shop big deals"
+        },
+        {
+          "level": 2,
+          "text": "Big Spring Deals"
+        },
+        {
+          "level": 3,
+          "text": "Buy Canadian: shop deals"
+        },
+        {
+          "level": 3,
+          "text": "Deals on Daily Essentials"
+        },
+        {
+          "level": 3,
+          "text": "Amazon brands\u2019 fashion"
+        },
+        {
+          "level": 3,
+          "text": "Deals on spring favourites"
+        },
+        {
+          "level": 3,
+          "text": "Deals on spring favourites"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "anti-csrftoken-a2z",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "timestamp",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "disclosureDecision",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "privacyCustomerId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "sessionId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "consentTypes",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Search Amazon.ca"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 106,
+      "has_og_tags": false,
+      "meta_description": "Canada\u2019s largest online retailer. Free Shipping on eligible orders. Easy Returns. Shop now for Electronics, Books, Apparel & much more. Try Prime for free.",
+      "scripts_count": 141
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "fast shipping options",
+        "Amazon Prime benefits"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "canadian_tire",
+    "url": "https://www.canadiantire.ca",
+    "scanned_at": "2026-03-31T21:18:06.493486",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/canadian_tire_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/canadian_tire_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.canadiantire.ca/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "in-store pickup options",
+        "Canadian Tire Money loyalty program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "walmart_canada",
+    "url": "https://www.walmart.ca",
+    "scanned_at": "2026-03-31T21:18:22.971362",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/walmart_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/walmart_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Verify Your Identity",
+      "url_final": "https://www.walmart.ca/blocked?url=L2Vu&uuid=013018d1-2d2e-11f1-b02a-05b1b4cfd090&vid=&g=b",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "We like real shoppers, not robots!"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 19
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "price match guarantee",
+        "grocery pickup and delivery"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "best_buy_canada",
+    "url": "https://www.bestbuy.ca",
+    "scanned_at": "2026-03-31T21:18:41.226820",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/best_buy_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/best_buy_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.bestbuy.ca/en-ca",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "price match guarantee",
+        "in-store pickup"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "costco_canada",
+    "url": "https://www.costco.ca",
+    "scanned_at": "2026-03-31T21:19:07.280848",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/costco_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/costco_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.costco.ca/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "bulk purchase options",
+        "membership-based pricing"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "hudson_bay",
+    "url": "https://www.thebay.com",
+    "scanned_at": "2026-03-31T21:19:25.870228",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.thebay.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.thebay.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "luxury brand offerings"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lululemon",
+    "url": "https://www.lululemon.com",
+    "scanned_at": "2026-03-31T21:20:33.441061",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lululemon.com/\nCall log:\n  - navigating to \"https://www.lululemon.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lululemon.com/\nCall log:\n  - navigating to \"https://www.lululemon.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 9,
+      "notable_unique_features": [
+        "high-quality product imagery",
+        "detailed product descriptions",
+        "community-based content",
+        "sustainability information"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "home_depot_canada",
+    "url": "https://www.homedepot.ca",
+    "scanned_at": "2026-03-31T21:20:42.716317",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/home_depot_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/home_depot_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.homedepot.ca/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive DIY project guides",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_canada",
+    "url": "https://www.ikea.com/ca/en/",
+    "scanned_at": "2026-03-31T21:21:03.716401",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/ikea_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/ikea_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Shop Furniture & Home D\u00e9cor - Bring Home To Life - IKEA CA",
+      "url_final": "https://www.ikea.com/ca/en/",
+      "nav_items": [
+        {
+          "text": "Products",
+          "href": "https://www.ikea.com/ca/en/cat/products-products/"
+        },
+        {
+          "text": "Rooms",
+          "href": "https://www.ikea.com/ca/en/rooms/"
+        },
+        {
+          "text": "Deals",
+          "href": "https://www.ikea.com/ca/en/offers/"
+        },
+        {
+          "text": "Ideas & design",
+          "href": "https://www.ikea.com/ca/en/ideas/"
+        },
+        {
+          "text": "Services",
+          "href": "https://www.ikea.com/ca/en/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Clear the search input field",
+        "Search IKEA products using a photo",
+        "Search",
+        "Limited time offers",
+        "New lower price",
+        "IKEA Family offers",
+        "Now or Never",
+        "Our lowest price",
+        "Review: 4.4 out of 5 stars. Total reviews:(7)",
+        "Review: 4.4 out of 5 stars. Total reviews:(5)"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/ca/en/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search IKEA.ca"
+            }
+          ]
+        }
+      ],
+      "links_count": 251,
+      "images_count": 155,
+      "images_with_alt": 112,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Hej! Welcome to IKEA Canada"
+        },
+        {
+          "level": 2,
+          "text": "Deals & offers"
+        },
+        {
+          "level": 2,
+          "text": "What's trending"
+        },
+        {
+          "level": 2,
+          "text": "Today's best deals"
+        },
+        {
+          "level": 2,
+          "text": "Inspiration for every room"
+        },
+        {
+          "level": 2,
+          "text": "Get the look"
+        },
+        {
+          "level": 3,
+          "text": "Shop all offers"
+        },
+        {
+          "level": 3,
+          "text": "HEMNESSink cabinet with drawers, white, 76x82 cm (30x32 3/8 \")"
+        },
+        {
+          "level": 3,
+          "text": "HEMNESSink cabinet with drawers, white, 122x82 cm (48x32 3/8 \")"
+        },
+        {
+          "level": 3,
+          "text": "HEMNES / RUTSJ\u00d6NSink cab w drawers/sink/tap, gray, 95x56x94 cm (37 3/8x21 7/8x37"
+        },
+        {
+          "level": 3,
+          "text": "HEMNES / ORRSJ\u00d6NSink cab w drawers/sink/tap, white, 79x55x89 cm (31x21 3/4x34 7/"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search IKEA.ca"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-20605310-8c5119-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-20605310-8c5119-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-20605310-8c5119-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-20605310-8c5119-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-20605310-8c5119-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-20605310-8c5119-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-40605314-8c5119-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-40605314-8c5119-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s09579176-8c5119-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s09579176-8c5119-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s09579176-8c5119-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s09579176-8c5119-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s09579176-8c5119-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s09579176-8c5119-P0-2",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59578612-8c5119-P0-3",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59578612-8c5119-P0-3",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59578612-8c5119-P0-3",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s59578612-8c5119-P0-3",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Learn more",
+        "Join now or log in",
+        "Learn more",
+        "Join now or log in",
+        "Customer service",
+        "Contact us",
+        "FAQ",
+        "Stock availability",
+        "Services",
+        "Planners",
+        "Product recalls",
+        "Spare parts",
+        "Exchanges & returns",
+        "Warranties",
+        "Shopping at IKEA",
+        "Download the free IKEA app",
+        "Find a location",
+        "Delivery options",
+        "Buying guides",
+        "Payment options"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 91,
+      "has_og_tags": true,
+      "meta_description": "IKEA Canada offers affordable, quality furniture and d\u00e9cor to bring home to life. Visit your nearest IKEA furniture store or shop online at IKEA.ca.",
+      "scripts_count": 92
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Search IKEA products using a photo",
+        "IKEA Family offers",
+        "Now or Never deals"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sport_chek",
+    "url": "https://www.sportchek.ca",
+    "scanned_at": "2026-03-31T21:21:25.022396",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/sport_chek_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/sport_chek_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sportchek.ca/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive sports equipment and apparel selection",
+        "integration with fitness tracking apps"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "indigo",
+    "url": "https://www.indigo.ca",
+    "scanned_at": "2026-03-31T21:21:45.178833",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.indigo.ca/\nCall log:\n  - navigating to \"https://www.indigo.ca/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.indigo.ca/\nCall log:\n  - navigating to \"https://www.indigo.ca/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive book and lifestyle product selection",
+        "integration with Kobo for e-books",
+        "Indigo Membership for exclusive benefits"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "staples_canada",
+    "url": "https://www.staples.ca",
+    "scanned_at": "2026-03-31T21:21:54.173488",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/staples_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/staples_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Staples.ca: Next-Day Shipping, On All Orders",
+      "url_final": "https://www.staples.ca/",
+      "nav_items": [
+        {
+          "text": "Shop",
+          "href": "#"
+        },
+        {
+          "text": "Deals",
+          "href": "#"
+        },
+        {
+          "text": "Top Tech",
+          "href": "#"
+        },
+        {
+          "text": "Staples Kids",
+          "href": "#"
+        },
+        {
+          "text": "Mobility + Internet",
+          "href": "#"
+        },
+        {
+          "text": "Services",
+          "href": "#"
+        },
+        {
+          "text": "Ink + Toner",
+          "href": "#"
+        },
+        {
+          "text": "For Business",
+          "href": "#"
+        },
+        {
+          "text": "Print Documents + Photos",
+          "href": "#"
+        }
+      ],
+      "buttons": [
+        "Close",
+        "Find Store",
+        "Search",
+        "Close",
+        "Search",
+        "Find Store",
+        "Search",
+        "Search",
+        "Add to Cart",
+        "Add to Cart",
+        "Add to Cart",
+        "Add to Cart",
+        "Add to Cart"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search for products, services and articles"
+            }
+          ]
+        },
+        {
+          "action": "#",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search for nearby stores"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search for products, services and articles"
+            }
+          ]
+        },
+        {
+          "action": "#",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search for nearby stores"
+            }
+          ]
+        }
+      ],
+      "links_count": 397,
+      "images_count": 137,
+      "images_with_alt": 91,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Shop by category"
+        },
+        {
+          "level": 2,
+          "text": "Best deals of the week"
+        },
+        {
+          "level": 2,
+          "text": "Savings made easy"
+        },
+        {
+          "level": 2,
+          "text": "Print services and solutions"
+        },
+        {
+          "level": 2,
+          "text": "Save up to $40 on print solutions."
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search for products, services and articles"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for nearby stores"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search for products, services and articles"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for nearby stores"
+        }
+      ],
+      "footer_links": [
+        "Change Store",
+        "Help Centre",
+        "Self Serve Returns",
+        "Track Your Order",
+        "Invoice Copy/Packing Slip",
+        "Sign Up for Promotional Emails",
+        "Print and Marketing Services",
+        "Tech Services",
+        "Credit Centre",
+        "Staples Studio",
+        "Spotlight",
+        "Wireless, Internet, and TV Services",
+        "Promotional Products",
+        "Account Details",
+        "Track Your Order",
+        "Staples Business",
+        "Staples for Small Business",
+        "Staples for Enterprise",
+        "Staples Buying Integration",
+        "Coupon Centre"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 322,
+      "has_og_tags": false,
+      "meta_description": "Shop Staples Canada for business essentials, back to school, electronics, office supplies, and more. Fast Free Delivery, Curbside Pickup, and Easy Returns.",
+      "scripts_count": 147
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Next-Day Shipping on all orders",
+        "Print services and solutions"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "sephora_canada",
+    "url": "https://www.sephora.com/ca/en/",
+    "scanned_at": "2026-03-31T21:22:15.093324",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/sephora_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/sephora_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sephora.com/ca/en/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive beauty product range",
+        "Beauty Insider rewards program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "marks",
+    "url": "https://www.marks.com",
+    "scanned_at": "2026-03-31T21:22:32.820464",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/marks_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/marks_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.marks.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "strong focus on workwear and casual clothing"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "london_drugs",
+    "url": "https://www.londondrugs.com",
+    "scanned_at": "2026-03-31T21:22:50.919238",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/london_drugs_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/london_drugs_mobile.png"
+    },
+    "structure": {
+      "title": "londondrugs.com",
+      "url_final": "https://www.londondrugs.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "comprehensive pharmacy services",
+        "photo lab services"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "well.ca",
+    "url": "https://well.ca",
+    "scanned_at": "2026-03-31T21:23:10.226854",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/well.ca_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/well.ca_mobile.png"
+    },
+    "structure": {
+      "title": "Well.ca - Canada's online health, beauty, and skin care store | Free Shipping $35+ in Canada",
+      "url_final": "https://well.ca/",
+      "nav_items": [
+        {
+          "text": "Buy Again",
+          "href": "https://well.ca/index.php?main_page=buy_again"
+        },
+        {
+          "text": "Sign-In / Register",
+          "href": "#"
+        },
+        {
+          "text": "FREE SHIPPINGON ORDERS $35+*",
+          "href": "/shipping"
+        },
+        {
+          "text": "Fran\u00e7ais",
+          "href": "https://well.ca/fr/"
+        },
+        {
+          "text": "Buy Again",
+          "href": "https://well.ca/index.php?main_page=buy_again"
+        },
+        {
+          "text": "My Lists",
+          "href": "https://well.ca/index.php?main_page=my_lists"
+        },
+        {
+          "text": "Sign-In / Register",
+          "href": "#"
+        },
+        {
+          "text": "0",
+          "href": "https://well.ca/shopping_cart.html"
+        },
+        {
+          "text": "View cart",
+          "href": "https://well.ca/shopping_cart.html"
+        },
+        {
+          "text": "Checkout",
+          "href": "https://well.ca/shopping_cart.html"
+        },
+        {
+          "text": "View cart",
+          "href": "https://well.ca/shopping_cart.html"
+        },
+        {
+          "text": "",
+          "href": "https://well.ca/index.html"
+        },
+        {
+          "text": "",
+          "href": "https://well.ca/index.php?main_page=my_lists"
+        },
+        {
+          "text": "0",
+          "href": "https://well.ca/shopping_cart.html"
+        },
+        {
+          "text": "GiftCards",
+          "href": "/giftcard"
+        },
+        {
+          "text": "Shop What's New",
+          "href": "/new"
+        },
+        {
+          "text": "Shop Well.ca",
+          "href": ""
+        },
+        {
+          "text": "Sales",
+          "href": "/categories/Sales-and-Specials.html"
+        },
+        {
+          "text": "Spring Shop",
+          "href": "https://well.ca/springshop"
+        },
+        {
+          "text": "Spring Shop",
+          "href": "https://well.ca/springshop"
+        }
+      ],
+      "buttons": [
+        "\u2715",
+        "\u2715",
+        "MENU",
+        "X",
+        "Sign Up",
+        "\u2191",
+        "Close",
+        "Sign In",
+        "Create Account",
+        "Close",
+        "Verify",
+        "Resend verification code",
+        "Verification code not received",
+        "Close",
+        "Verify",
+        "Close",
+        "Create Account",
+        "Close",
+        "Verify",
+        "Close",
+        "Verify",
+        "Close",
+        "Close"
+      ],
+      "forms": [
+        {
+          "action": "https://well.ca/searchresult.html",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "search_flag",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "keyword",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://well.ca/index.php?main_page=subscribe",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "act",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "email",
+              "placeholder": "Enter your email here..."
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "post",
+          "fields": [
+            {
+              "type": "file",
+              "name": "file",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "filename",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 487,
+      "images_count": 158,
+      "images_with_alt": 123,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Top Deals of the Week"
+        },
+        {
+          "level": 2,
+          "text": "Top Deals of the Week"
+        },
+        {
+          "level": 2,
+          "text": "Top Deals of the Week"
+        },
+        {
+          "level": 2,
+          "text": "What's NewView All"
+        },
+        {
+          "level": 2,
+          "text": "Just For You"
+        },
+        {
+          "level": 3,
+          "text": "Save up to25%"
+        },
+        {
+          "level": 3,
+          "text": "Save up to25%"
+        },
+        {
+          "level": 3,
+          "text": "Save up to25 %"
+        },
+        {
+          "level": 3,
+          "text": "Save up to25 %"
+        },
+        {
+          "level": 3,
+          "text": "Manage Consent Preferences"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "search_flag",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "keyword",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "act",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": "Enter your email here..."
+        },
+        {
+          "type": "hidden",
+          "name": "csrf_token_login",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email_address",
+          "placeholder": ""
+        },
+        {
+          "type": "password",
+          "name": "password",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Enter Code"
+        },
+        {
+          "type": "checkbox",
+          "name": "remember_device",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Enter Code"
+        },
+        {
+          "type": "checkbox",
+          "name": "remember_device",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "firstname",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "lastname",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email_address",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "confirm_email",
+          "placeholder": ""
+        },
+        {
+          "type": "password",
+          "name": "password",
+          "placeholder": ""
+        },
+        {
+          "type": "password",
+          "name": "confirmation",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "newsletter",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Canada - English",
+        "Canada - Fran\u00e7ais",
+        "Contact Us",
+        "Gift Cards",
+        "Safety Advisories & Recalls",
+        "FAQ",
+        "Shipping",
+        "Returns",
+        "Klarna",
+        "Accessibility",
+        "Careers",
+        "About Well.ca",
+        "Affiliates & Collaborators",
+        "Testimonials",
+        "Well.ca Privacy Policy",
+        "Well.ca Terms of Use",
+        "The Well Being Blog",
+        "Be WellTM",
+        "Canada - English",
+        "Canada - Fran\u00e7ais"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 169,
+      "has_og_tags": true,
+      "meta_description": "Canada's online health, wellness, baby and beauty store with the largest assortment of green and natural products.",
+      "scripts_count": 72
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "U",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Free shipping on orders over $35",
+        "Bilingual site (English/French)"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "aritzia",
+    "url": "https://www.aritzia.com",
+    "scanned_at": "2026-03-31T21:23:31.941103",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/aritzia_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/aritzia_mobile.png"
+    },
+    "structure": {
+      "title": "Women's Fashion Boutique | Aritzia INTL",
+      "url_final": "https://www.aritzia.com/intl/en",
+      "nav_items": [
+        {
+          "text": "New",
+          "href": "/intl/en/new"
+        },
+        {
+          "text": "Clothing",
+          "href": "/intl/en/clothing"
+        },
+        {
+          "text": "Dresses",
+          "href": "/intl/en/clothing/dresses"
+        },
+        {
+          "text": "Activewear",
+          "href": "/intl/en/clothing/womens-workout-clothes"
+        },
+        {
+          "text": "Sweatfleece",
+          "href": "/intl/en/clothing/sweatsuit-sets"
+        },
+        {
+          "text": "Accessories",
+          "href": "/intl/en/clothing/accessories"
+        },
+        {
+          "text": "Discover",
+          "href": "/intl/en/discover"
+        }
+      ],
+      "buttons": [
+        "close-small",
+        "search",
+        "search",
+        "wishlist-large",
+        "()",
+        "()",
+        "Manage Cookies",
+        "Accept All",
+        "Back Button",
+        "Filter Icon",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Confirm My Choices"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "mail",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 50,
+      "images_count": 4,
+      "images_with_alt": 4,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Cookie Preference Center"
+        },
+        {
+          "level": 3,
+          "text": "Manage Preferences"
+        },
+        {
+          "level": 3,
+          "text": "Cookie List"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "email",
+          "name": "mail",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Privacy Policy",
+        "Participate in User Research Studies",
+        "About Us",
+        "Careers",
+        "Impact",
+        "Investor Relations",
+        "Store Locator",
+        "Fabric Care",
+        "Accessibility",
+        "Find a List",
+        "Our Services",
+        "Contact Us",
+        "Size Guide",
+        "Shipping",
+        "Returns & Exchanges",
+        "Payment & Security"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 24,
+      "has_og_tags": false,
+      "meta_description": "Shop the latest women's clothing and accessories - jackets, coats, sweaters, and dresses.",
+      "scripts_count": 22
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "High-quality product images",
+        "Extensive size guide",
+        "Participate in user research studies"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "simons",
+    "url": "https://www.simons.ca",
+    "scanned_at": "2026-03-31T21:23:54.688542",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/simons_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/simons_mobile.png"
+    },
+    "structure": {
+      "title": "Canadian Fashion Destination Since 1840 | Simons",
+      "url_final": "https://www.simons.ca/en",
+      "nav_items": [
+        {
+          "text": "free shipping over $50",
+          "href": "https://www.simons.ca/en/information/shipping--a4537"
+        },
+        {
+          "text": "free returns",
+          "href": "https://www.simons.ca/en/information/returns--a12939"
+        },
+        {
+          "text": "CAN | Fr",
+          "href": ""
+        },
+        {
+          "text": "US | En",
+          "href": ""
+        },
+        {
+          "text": "Stores",
+          "href": "https://www.simons.ca/en/stores--a13090"
+        },
+        {
+          "text": "Careers",
+          "href": "https://www.simonscareers.ca/en"
+        },
+        {
+          "text": "Gift card",
+          "href": "https://www.simons.ca/simons/category/catGiftCard/Gift+Card?/en/"
+        },
+        {
+          "text": "Vision",
+          "href": "https://www.simons.ca/en/vision--vision"
+        },
+        {
+          "text": "Search",
+          "href": ""
+        },
+        {
+          "text": "My account",
+          "href": "https://www.simons.ca/simons/profile/login.jsp"
+        },
+        {
+          "text": "",
+          "href": "/simons/profile/myWishlist.jsp"
+        },
+        {
+          "text": "",
+          "href": ""
+        },
+        {
+          "text": "( 0 )",
+          "href": "/en/cart"
+        },
+        {
+          "text": "Simons | Women's Clothing, Men's Clothing, Accesso",
+          "href": "/en"
+        },
+        {
+          "text": "Gift Ideas",
+          "href": "https://www.simons.ca/en/gift-ideas--giftIdeas"
+        },
+        {
+          "text": "",
+          "href": "https://www.simons.ca/en/gift-ideas/host-hostess-gifts--c9472"
+        },
+        {
+          "text": "",
+          "href": "https://www.simons.ca/simons/category/catGiftCard/Gift+Card?/en/"
+        },
+        {
+          "text": "",
+          "href": "https://www.simons.ca/en/gift-ideas/our-history-our-heritage-collection--c9853"
+        },
+        {
+          "text": "",
+          "href": ""
+        },
+        {
+          "text": "Shop by Profile",
+          "href": "https://www.simons.ca/en/gift-ideas--giftIdeas"
+        }
+      ],
+      "buttons": [
+        "CAN | En",
+        "Adopt the trend",
+        "Step onto your stage",
+        "Become a member ofThe Simonsfamily",
+        "Website Feedback",
+        "Cancel",
+        "Send an email",
+        "Cancel",
+        "Submit",
+        "Close",
+        "Close"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "email",
+              "placeholder": "Your email address"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "type",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "name",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "name",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "name",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "phone",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "email_confirmation",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "message",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "g-recaptcha-response",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "mobile",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "_dyncharset",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "orderId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:orderId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "postalCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:postalCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/simons/ui/handler/OrderStatusFormHandler.submit",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/simons/ui/handler/OrderStatusFormHandler.submit",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_DARGS",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "_dyncharset",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:email",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "password",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:password",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/atg/userprofiling/ProfileFormHandler.login",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/atg/userprofiling/ProfileFormHandler.login",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_DARGS",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 351,
+      "images_count": 39,
+      "images_with_alt": 36,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Our Exclusive Pants"
+        },
+        {
+          "level": 2,
+          "text": "Urban Oasis"
+        },
+        {
+          "level": 2,
+          "text": "Marni"
+        },
+        {
+          "level": 2,
+          "text": "Your Own Skin"
+        },
+        {
+          "level": 2,
+          "text": "Prom"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": "Your email address"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "staticImagesPath",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "staticSimonsImagesPath",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "cdnDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "name",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "name",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "name",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "phone",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email_confirmation",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "g-recaptcha-response",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "mobile",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_dyncharset",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "orderId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:orderId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "postalCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:postalCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/simons/ui/handler/OrderStatusFormHandler.submit",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:/simons/ui/handler/OrderStatusFormHandler.submit",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Free shippingon purchases of$50 or more*",
+        "Free returnsonline**",
+        "Become a member ofThe Simonsfamily",
+        "Customer serviceSatisfaction guaranteed",
+        "Free deliveryin store",
+        "Easy returnsin store and online",
+        "Our stores19 locations",
+        "Contact Us",
+        "Customer Service",
+        "24/7 Virtual Assistant",
+        "Become a Supplier for Simons",
+        "Media Contact",
+        "Gift Card",
+        "Information",
+        "My Account",
+        "Track My Order",
+        "Shipping",
+        "Returns",
+        "Online-Only Products",
+        "FAQ"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 53,
+      "has_og_tags": true,
+      "meta_description": "Get your hands on new arrivals inspired by the latest women's, men's and home trends at Simons.",
+      "scripts_count": 50
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "N",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "N",
+        "shipping_info": "Y",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "Y",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Free shipping over $50",
+        "Free returns online"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "mec",
+    "url": "https://www.mec.ca",
+    "scanned_at": "2026-03-31T21:24:15.247669",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/mec_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/mec_mobile.png"
+    },
+    "structure": {
+      "title": "Human Verification",
+      "url_final": "https://www.mec.ca/",
+      "nav_items": [],
+      "buttons": [
+        "Begin"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 3,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Let's confirm you are human"
+        },
+        {
+          "level": 1,
+          "text": "JavaScript is disabled"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 1,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive outdoor gear selection",
+        "member rewards program"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "rona",
+    "url": "https://www.rona.ca",
+    "scanned_at": "2026-03-31T21:24:34.882629",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/rona_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/rona_mobile.png"
+    },
+    "structure": {
+      "title": "RONA",
+      "url_final": "https://www.rona.ca/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 1,
+      "images_count": 1,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry, you have been blocked"
+        },
+        {
+          "level": 1,
+          "text": "D\u00e9sol\u00e9, vous avez \u00e9t\u00e9 bloqu\u00e9"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 5
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive DIY project guides",
+        "store locator with inventory check"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "leons",
+    "url": "https://www.leons.ca",
+    "scanned_at": "2026-03-31T21:24:53.249454",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/leons_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/leons_mobile.png"
+    },
+    "structure": {
+      "title": "Leon's - Canada's Leading Furniture Store",
+      "url_final": "https://www.leons.ca/",
+      "nav_items": [
+        {
+          "text": "All Furniture",
+          "href": "/pages/furniture"
+        },
+        {
+          "text": "Living Room",
+          "href": "/collections/furniture-living-room"
+        },
+        {
+          "text": "All Living Room",
+          "href": "/collections/furniture-living-room"
+        },
+        {
+          "text": "Sofas",
+          "href": "/collections/furniture-living-room-sofas"
+        },
+        {
+          "text": "Loveseats",
+          "href": "/collections/furniture-living-room-loveseats"
+        },
+        {
+          "text": "Chairs",
+          "href": "/collections/furniture-living-room-chairs"
+        },
+        {
+          "text": "Sectionals",
+          "href": "/collections/furniture-living-room-sectionals"
+        },
+        {
+          "text": "Sofa Beds & Futons",
+          "href": "/collections/furniture-living-rooms-sofa-beds-and-futons"
+        },
+        {
+          "text": "Recliners",
+          "href": "/collections/furniture-living-room-recliners"
+        },
+        {
+          "text": "Coffee Tables",
+          "href": "/collections/furniture-living-room-coffee-tables"
+        },
+        {
+          "text": "End Tables",
+          "href": "/collections/furniture-living-room-end-tables"
+        },
+        {
+          "text": "Sofa Tables",
+          "href": "/collections/furniture-living-room-sofa-tables"
+        },
+        {
+          "text": "TV Stands",
+          "href": "/collections/furniture-living-room-tv-stands"
+        },
+        {
+          "text": "Entertainment Units",
+          "href": "/collections/furniture-living-room-entertainment-units"
+        },
+        {
+          "text": "Fireplaces",
+          "href": "/collections/accents-accent-furniture-fireplaces"
+        },
+        {
+          "text": "Ottomans & Poufs",
+          "href": "/collections/furniture-living-room-ottomans"
+        },
+        {
+          "text": "Living Room Collections",
+          "href": "/pages/living-room-collection"
+        },
+        {
+          "text": "Living Room Packages",
+          "href": "/collections/furniture-living-room-living-room-packages"
+        },
+        {
+          "text": "Bedroom",
+          "href": "/collections/furniture-bedroom"
+        },
+        {
+          "text": "All Bedroom",
+          "href": "/collections/furniture-bedroom"
+        }
+      ],
+      "buttons": [
+        "Weston",
+        "Open Now| Closes at 9:30 p.m.",
+        "Update",
+        "Fran\u00e7ais",
+        "My Account",
+        "Furniture",
+        "Living Room",
+        "Bedroom",
+        "Dining Room",
+        "Kids",
+        "Home Office",
+        "More To Explore"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "postal_code",
+              "placeholder": "M9N1A1"
+            }
+          ]
+        },
+        {
+          "action": "/localization",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_method",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "return_to",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale_code",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "postal_code",
+              "placeholder": "M9N1A1"
+            }
+          ]
+        },
+        {
+          "action": "/localization",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_method",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "return_to",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale_code",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 314,
+      "images_count": 37,
+      "images_with_alt": 32,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Bring Comfort Closer to You with Leon's"
+        },
+        {
+          "level": 2,
+          "text": "ON NOW!"
+        },
+        {
+          "level": 2,
+          "text": "SUPER SPECIALS!"
+        },
+        {
+          "level": 2,
+          "text": "EXPLORE LEON'S"
+        },
+        {
+          "level": 2,
+          "text": "SHOP BY CATEGORY"
+        },
+        {
+          "level": 3,
+          "text": "Unsupported Browser"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "postal_code",
+          "placeholder": "M9N1A1"
+        },
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_method",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "return_to",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale_code",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search"
+        },
+        {
+          "type": "text",
+          "name": "postal_code",
+          "placeholder": "M9N1A1"
+        },
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_method",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "return_to",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale_code",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "crvs",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "CheckBox.Source.Miniform",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": "your-email@example.com"
+        },
+        {
+          "type": "text",
+          "name": "NameF",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "NameL",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "Comment",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Contact Us",
+        "Find a Store",
+        "Store Listing",
+        "Book an Appointment",
+        "FAQs",
+        "Save",
+        "Made In Canada",
+        "New Arrivals",
+        "Site Map",
+        "Delivery",
+        "Track My Delivery",
+        "Price Guarantee",
+        "Financing",
+        "Installation",
+        "Warranties and Protection Plans"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 353,
+      "has_og_tags": true,
+      "meta_description": "Leon&#39;s is Canada&#39;s #1 choice for quality furniture online and in stores. Find amazing deals for every room in your home.",
+      "scripts_count": 107
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Made In Canada",
+        "Price Guarantee"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "roots",
+    "url": "https://www.roots.com",
+    "scanned_at": "2026-03-31T21:25:17.870591",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.roots.com/\nCall log:\n  - navigating to \"https://www.roots.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.roots.com/\nCall log:\n  - navigating to \"https://www.roots.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Canadian heritage branding",
+        "Eco-friendly product lines"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "structube",
+    "url": "https://www.structube.com",
+    "scanned_at": "2026-03-31T21:25:25.853803",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/structube_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/structube_mobile.png"
+    },
+    "structure": {
+      "title": "Structube | Modern furniture, accessories, home decor",
+      "url_final": "https://www.structube.com/en_ca/home",
+      "nav_items": [
+        {
+          "text": "Living Room",
+          "href": "/en_ca/furniture/living-room"
+        },
+        {
+          "text": "Sofas",
+          "href": "/en_ca/furniture/living-room/sofas"
+        },
+        {
+          "text": "Leather Sofas & Armchairs",
+          "href": "/en_ca/furniture/living-room/leather-sofas-armchairs"
+        },
+        {
+          "text": "Sectional Sofas",
+          "href": "/en_ca/furniture/living-room/sectional-sofas"
+        },
+        {
+          "text": "Modular Sofas",
+          "href": "/en_ca/furniture/living-room/modular-sofas"
+        },
+        {
+          "text": "Customizable Modular Sofas",
+          "href": "/en_ca/furniture/living-room/customizable-modular-sofas"
+        },
+        {
+          "text": "Sofa-beds",
+          "href": "/en_ca/furniture/living-room/sofa-beds"
+        },
+        {
+          "text": "Loveseats",
+          "href": "/en_ca/furniture/living-room/loveseats"
+        },
+        {
+          "text": "Accent Chairs",
+          "href": "/en_ca/furniture/living-room/accent-chairs"
+        },
+        {
+          "text": "Lounge Chairs",
+          "href": "/en_ca/furniture/living-room/lounge-chairs"
+        },
+        {
+          "text": "Ottomans",
+          "href": "/en_ca/furniture/living-room/ottomans"
+        },
+        {
+          "text": "Rocking Chairs",
+          "href": "/en_ca/furniture/living-room/rocking-chairs"
+        },
+        {
+          "text": "Recliners",
+          "href": "/en_ca/furniture/living-room/recliners"
+        },
+        {
+          "text": "Coffee Tables",
+          "href": "/en_ca/furniture/living-room/coffee-tables"
+        },
+        {
+          "text": "Accent Tables",
+          "href": "/en_ca/furniture/living-room/accent-tables"
+        },
+        {
+          "text": "Media Units",
+          "href": "/en_ca/furniture/living-room/media-units"
+        },
+        {
+          "text": "Dining Room",
+          "href": "/en_ca/furniture/dining-room"
+        },
+        {
+          "text": "Dining Tables",
+          "href": "/en_ca/furniture/dining-room/dining-tables"
+        },
+        {
+          "text": "Dining Chairs",
+          "href": "/en_ca/furniture/dining-room/dining-chairs"
+        },
+        {
+          "text": "Benches",
+          "href": "/en_ca/furniture/dining-room/benches"
+        }
+      ],
+      "buttons": [
+        "My locationMy locationQuebec",
+        "Save",
+        "CloseClose",
+        "My Account",
+        "Fran\u00e7ais(CAD)CanadaCanada",
+        "My Wish ListsHeart",
+        "Sign in",
+        "Create an account",
+        "i",
+        "Furniture",
+        "Decor",
+        "Mattresses",
+        "New",
+        "1",
+        "2",
+        "$2,016MODENAcustomizable modular sofa",
+        "SHOP THE LOOK",
+        "$999MAGRETAqueen size bed",
+        "SHOP THE LOOK",
+        "$699RHODESdining table135 cm",
+        "SHOP THE LOOK",
+        "Load more",
+        "Back To TopDownDownBack To Top",
+        "Subscribe",
+        "CloseCloseClose"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "",
+              "name": "postcode",
+              "placeholder": "H1H 1H1"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "",
+              "name": "search_query",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Email Address"
+            },
+            {
+              "type": "text",
+              "name": "g-recaptcha-response",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 159,
+      "images_count": 28,
+      "images_with_alt": 14,
+      "headings": [
+        {
+          "level": 1,
+          "text": "STRUCTUBE, J'ADORE!"
+        },
+        {
+          "level": 1,
+          "text": "Oops! JavaScript is disabled"
+        },
+        {
+          "level": 2,
+          "text": "SHOP THE LOOK"
+        },
+        {
+          "level": 2,
+          "text": "#mystructubestyle"
+        },
+        {
+          "level": 2,
+          "text": "JOIN OUR MAILING LIST"
+        },
+        {
+          "level": 3,
+          "text": "Username"
+        },
+        {
+          "level": 3,
+          "text": "Get inspired by Structube in your beautiful homes! For a chance towin a $100 gif"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "",
+          "name": "postcode",
+          "placeholder": "H1H 1H1"
+        },
+        {
+          "type": "",
+          "name": "search_query",
+          "placeholder": "Search"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Email Address"
+        }
+      ],
+      "footer_links": [
+        "About Structube",
+        "Reviews",
+        "Privacy Policies",
+        "Accessibility Policy",
+        "Terms of Use",
+        "Commercial Partners",
+        "Responsible Sourcing",
+        "Contact Us",
+        "FAQ",
+        "Shipping & Delivery",
+        "Returns & Exchanges",
+        "Product Recalls",
+        "Warranty Policy",
+        "Clean & Care Instructions",
+        "Make it Safe",
+        "Assembly Instructions",
+        "Contests",
+        "Track My Order",
+        "Make a Payment",
+        "Financing"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 11,
+      "has_og_tags": true,
+      "meta_description": "Structube offers the best selection of modern furniture at unbeatable prices in Canada. Shop beautiful styles at low prices for the whole house!",
+      "scripts_count": 90
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Customizable Modular Sofas"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "petsmart_canada",
+    "url": "https://www.petsmart.ca",
+    "scanned_at": "2026-03-31T21:25:44.907687",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/petsmart_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/petsmart_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart",
+      "url_final": "https://www.petsmart.ca/",
+      "nav_items": [
+        {
+          "text": "Shop by brand",
+          "href": "/shop-by-brand/"
+        },
+        {
+          "text": "Shop by pet",
+          "href": "#"
+        },
+        {
+          "text": "Pet Services",
+          "href": "https://services.petsmart.ca/"
+        },
+        {
+          "text": "Learning",
+          "href": "/learning-center/"
+        },
+        {
+          "text": "Deals",
+          "href": "#"
+        },
+        {
+          "text": "Made in Canada",
+          "href": "/featured-shops/made-in-canada/"
+        },
+        {
+          "text": "Find a Store",
+          "href": "/store-locator/"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "Search",
+        "Cancel",
+        "Sign in",
+        "Activate now",
+        "RSVP now",
+        "arrow-prev",
+        "arrow-next",
+        "Activate now",
+        "Shop & save",
+        "Enter now",
+        "Download now",
+        "Close",
+        "Use my current location",
+        "Close",
+        "Reset password",
+        "Close",
+        "Got it",
+        "Close",
+        "Close",
+        "Close",
+        "Show",
+        "Sign in",
+        "Create account",
+        "Close",
+        "Shop by pet",
+        "Pet Services",
+        "Learning"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "#",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": " "
+            }
+          ]
+        },
+        {
+          "action": "#",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": " "
+            },
+            {
+              "type": "password",
+              "name": "password",
+              "placeholder": " "
+            }
+          ]
+        }
+      ],
+      "links_count": 130,
+      "images_count": 77,
+      "images_with_alt": 73,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Faves at your door, today"
+        },
+        {
+          "level": 2,
+          "text": "Shop by pet"
+        },
+        {
+          "level": 2,
+          "text": "Easter Party"
+        },
+        {
+          "level": 2,
+          "text": "Springtime favourites"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 3,
+          "text": "Dog Food"
+        },
+        {
+          "level": 3,
+          "text": "Cat Food"
+        },
+        {
+          "level": 3,
+          "text": "Cat Litter"
+        },
+        {
+          "level": 3,
+          "text": "Flea & Tick"
+        },
+        {
+          "level": 3,
+          "text": "Salon Services"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "City or postal code"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": " "
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": " "
+        },
+        {
+          "type": "password",
+          "name": "password",
+          "placeholder": " "
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-BG39",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "switch",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 49,
+      "has_og_tags": true,
+      "meta_description": "PetSmart pet stores offer quality pet products, pet food, and accessories. Find pet service locations for pet grooming, dog training, and boarding.",
+      "scripts_count": 177
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Made in Canada section",
+        "Pet Services integration"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "shoppers_drug_mart",
+    "url": "https://www.shoppersdrugmart.ca",
+    "scanned_at": "2026-03-31T21:26:05.944324",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/shoppers_drug_mart_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/shoppers_drug_mart_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.shoppersdrugmart.ca/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "PC Optimum integration",
+        "Pharmacy services"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "reitmans",
+    "url": "https://www.reitmans.com",
+    "scanned_at": "2026-03-31T21:26:24.734169",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/reitmans_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/reitmans_mobile.png"
+    },
+    "structure": {
+      "title": "Reitmans",
+      "url_final": "https://www.reitmans.com/",
+      "nav_items": [
+        {
+          "text": "FIND A STORE",
+          "href": "https://locations.reitmans.com/"
+        }
+      ],
+      "buttons": [
+        "Back",
+        "en",
+        "Ok",
+        "Cancel",
+        "Bigger TextBigger Text",
+        "Bigger CursorBigger Cursor",
+        "Text ReaderTooltips",
+        "Line HeightLine Height",
+        "Hide ImagesHide images",
+        "Readable FontsReadable fonts",
+        "Dyslexic FontDyslexic Font",
+        "Bionic ReadingBionic Reading",
+        "Stop AnimationsStop Animations",
+        "Invert ColorInvert Colors",
+        "BrightnessBrightness",
+        "ContrastContrast",
+        "SaturationSaturation",
+        "Grayscale",
+        "Red/Green",
+        "Blue/Yellow",
+        "Green/Red",
+        "Reading LineReading Line",
+        "Highlight LinksHighlight Links",
+        "Text ReaderRead page",
+        "Reading MaskReading Mask",
+        "Page StructurePage Structure",
+        "English (British)",
+        "English (United States)",
+        "Danish"
+      ],
+      "forms": [
+        {
+          "action": "/localization",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_method",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "return_to",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale_code",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search"
+            },
+            {
+              "type": "hidden",
+              "name": "options[prefix]",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search"
+            },
+            {
+              "type": "hidden",
+              "name": "options[prefix]",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "Color-1\n",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "Color-1\n",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "Color-1\n",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "Color-1\n",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 427,
+      "images_count": 57,
+      "images_with_alt": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Quick Shop"
+        },
+        {
+          "level": 2,
+          "text": "40% off Outerwear*"
+        },
+        {
+          "level": 2,
+          "text": "30% off Dresses*"
+        },
+        {
+          "level": 2,
+          "text": "40% off Outerwear*"
+        },
+        {
+          "level": 2,
+          "text": "30% off Dresses*"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search language"
+        },
+        {
+          "type": "hidden",
+          "name": "form_type",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "utf8",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_method",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "return_to",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale_code",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search"
+        },
+        {
+          "type": "hidden",
+          "name": "options[prefix]",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search"
+        },
+        {
+          "type": "hidden",
+          "name": "options[prefix]",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "Color-1\n",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Facebook\n          (Opens in a new tab)",
+        "Instagram\n          (Opens in a new tab)",
+        "TikTok",
+        "YouTube\n          (Opens in a new tab)",
+        "Pinterest\n          (Opens in a new tab)",
+        "X (Twitter)\n          (Opens in a new tab)",
+        "Track an Order",
+        "Start a Return",
+        "Track an Order",
+        "Start a Return",
+        "Help Center",
+        "Orders, Pick-up & Delivery",
+        "Returns, Exchanges & Refunds",
+        "Payments & Gift Cards",
+        "Shopping & Promotions",
+        "Account",
+        "Store Locator",
+        "Accessibility Options",
+        "Help Center",
+        "Orders, Pick-up & Delivery"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 135,
+      "has_og_tags": true,
+      "meta_description": "Shop online from Reitmans, Canada's largest women\u2019s apparel retailer and leading fashion brand. Buy women\u2019s clothing including tops, pants, career clothes and more.",
+      "scripts_count": 136
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Accessibility options like dyslexic font and bionic reading"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "joe_fresh",
+    "url": "https://www.joefresh.com",
+    "scanned_at": "2026-03-31T21:26:45.869526",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/joe_fresh_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/joe_fresh_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.joefresh.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "affordable fashion",
+        "Joe Fresh brand exclusivity"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_canada",
+    "url": "https://www.temu.com/ca",
+    "scanned_at": "2026-03-31T21:27:05.613570",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/temu_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/temu_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Security verification",
+      "url_final": "https://www.temu.com/bgn_verification.html?verifyCode=gC9Km75yBm9WvWdygQZShQ4add232fbc97ded5b&from=https%3A%2F%2Fwww.temu.com%2Fca&refer_page_name=home&refer_page_id=10005_1774981627124_o3b6kpfw72&refer_page_sn=10005&_x_sessn_id=urthqutz8h",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 5,
+      "images_with_alt": 5,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 2,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 34
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "competitive pricing",
+        "flash sales"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_canada",
+    "url": "https://www.nike.com/ca/",
+    "scanned_at": "2026-03-31T21:27:25.664197",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/nike_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/nike_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Nike. Just Do It. Nike CA",
+      "url_final": "https://www.nike.com/ca/",
+      "nav_items": [
+        {
+          "text": "Skip to main content",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/ca/jordan"
+        },
+        {
+          "text": "",
+          "href": "https://www.converse.ca/"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.nike.com/ca/retail"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/ca/help"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/ca/help"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/ca/orders"
+        },
+        {
+          "text": "Dispatch and Delivery",
+          "href": "https://www.nike.com/ca/help/a/shipping-delivery-gs"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.nike.com/ca/help/a/returns-policy-gs"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/ca/help/#contact"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://agreementservice.svs.nike.com/ca/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.n"
+        },
+        {
+          "text": "Terms of Sale",
+          "href": "https://www.eshopworld.com/shoppers/help/retailer/nike/terms-and-conditions-of-sale-en/"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://agreementservice.svs.nike.com/ca/en_gb/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Send Us Feedback",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Join Us",
+          "href": "https://www.nike.com/ca/membership"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://www.nike.com/ca/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/ca/"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.com/ca/w/new-3n82y"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.com/ca/w/new-3n82y"
+        },
+        {
+          "text": "Shop All New Arrivals",
+          "href": "https://www.nike.com/ca/w/new-3n82y"
+        }
+      ],
+      "buttons": [
+        "Canada",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Brands",
+        "Brands",
+        "Cancel",
+        "Cancel",
+        "Pause",
+        "Unmute",
+        "Seek to live, currently behind liveLIVE",
+        "Playback Rate",
+        "Chapters",
+        "Descriptions",
+        "Subtitles",
+        "Audio Track",
+        "Fullscreen",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "Watch",
+        "Canada",
+        "jordan",
+        "air force 1",
+        "soccer cleats"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        }
+      ],
+      "links_count": 391,
+      "images_count": 19,
+      "images_with_alt": 17,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 1,
+          "text": "NOW PLAYING"
+        },
+        {
+          "level": 2,
+          "text": "Shop Our Icons"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 2,
+          "text": "Americas"
+        },
+        {
+          "level": 2,
+          "text": "Asia Pacific"
+        },
+        {
+          "level": 2,
+          "text": "Europe"
+        },
+        {
+          "level": 3,
+          "text": "NOW PLAYING"
+        },
+        {
+          "level": 3,
+          "text": "No Pitch is Safe"
+        },
+        {
+          "level": 3,
+          "text": "Heritage Meets Attitude"
+        },
+        {
+          "level": 3,
+          "text": "Above The influence"
+        },
+        {
+          "level": 3,
+          "text": "Engineered to Win"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Find a Store",
+        "Nike Journal",
+        "Become a Member",
+        "Feedback",
+        "Promo Codes",
+        "Get Help",
+        "Order Status",
+        "Shipping and Delivery",
+        "Returns",
+        "Payment Options",
+        "Contact Us",
+        "Reviews",
+        "About Nike",
+        "News",
+        "Careers",
+        "Investors",
+        "Sustainability",
+        "Accessibility",
+        "Purpose",
+        "Report a concern"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 106,
+      "has_og_tags": true,
+      "meta_description": "Inspiring the world's athletes, Nike delivers innovative products, experiences and services.",
+      "scripts_count": 97
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Nike Journal",
+        "Heritage Meets Attitude"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_canada",
+    "url": "https://www.samsung.com/ca/",
+    "scanned_at": "2026-03-31T21:27:45.087040",
+    "screenshots": {
+      "desktop": "data/ecommerce_canada/2026-03-31/screenshots/samsung_canada_desktop.png",
+      "mobile": "data/ecommerce_canada/2026-03-31/screenshots/samsung_canada_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung Canada | Mobile | TV | Home Appliances",
+      "url_final": "https://www.samsung.com/ca/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/ca/"
+        },
+        {
+          "text": "CartNumber of Products :0",
+          "href": "https://shop.samsung.com/ca/cart"
+        },
+        {
+          "text": "LOG IN",
+          "href": ""
+        },
+        {
+          "text": "Open My Menu",
+          "href": ""
+        },
+        {
+          "text": "ShopExplore Shop",
+          "href": "/ca/offer/"
+        },
+        {
+          "text": "Shop",
+          "href": "/ca/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNEW",
+          "href": "/ca/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/ca/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Tab S11",
+          "href": "/ca/tablets/galaxy-tab-s11/buy/?modelCode=SM-X730NZAAXAC"
+        },
+        {
+          "text": "Galaxy Watch8",
+          "href": "/ca/watches/galaxy-watch8/buy/?modelCode=SM-L505FZKAXAC"
+        },
+        {
+          "text": "Galaxy Buds4 ProNEW",
+          "href": "/ca/audio-sound/galaxy-buds4-pro/buy/?modelCode=SM-R640NZWAXAC"
+        },
+        {
+          "text": "Galaxy Book6NEW",
+          "href": "/ca/computers/galaxy-book/galaxy-book6-series/buy/?modelCode=NP760XJG-KG1CA"
+        },
+        {
+          "text": "QLED 4K",
+          "href": "/ca/tvs/qled-tv/qef1-65-inch-qled-4k-vision-ai-smart-tv-qn65qef1afxzc/"
+        },
+        {
+          "text": "The Frame Pro",
+          "href": "/ca/lifestyle-tvs/the-frame/ls03fw-65-inch-black-qn65ls03fwfxzc/"
+        },
+        {
+          "text": "Q-series Soundbar",
+          "href": "/ca/audio-devices/soundbar/q990f-black-hw-q990f-zc/"
+        },
+        {
+          "text": "Odyssey OLED G8",
+          "href": "/ca/monitors/gaming/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg810snxza/"
+        },
+        {
+          "text": "French Door Refrigerator",
+          "href": "/ca/refrigerators/french-door/rf5000a-18-cu-ft-black-rf18a5101sg-aa/"
+        },
+        {
+          "text": "Bespoke AI Laundry Combo",
+          "href": "/ca/laundry/washer-dryer-combo/wd8000dk-900-series-all-in-one-combination-washer-and-dryer-5-3-cu-ft"
+        },
+        {
+          "text": "Vacuums",
+          "href": "/ca/vacuum-cleaners/all-vacuum-cleaners/"
+        },
+        {
+          "text": "Cooking",
+          "href": "/ca/cooking-appliances/"
+        }
+      ],
+      "buttons": [
+        "Canada",
+        "Canada / English",
+        "Canada / Fran\u00e7ais",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Continue",
+        "Close",
+        "Ontario",
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Northwest Territories",
+        "Nunavut",
+        "Yukon",
+        "Cancel",
+        "Confirm",
+        "Close",
+        "SearchSearch",
+        "Navigation",
+        "Back",
+        "Search",
+        "Shop",
+        "Mobile"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/SAMSUNGCA/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/SAMSUNGCA/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 332,
+      "images_count": 197,
+      "images_with_alt": 165,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Recommended for you"
+        },
+        {
+          "level": 2,
+          "text": "Explore the Stories"
+        },
+        {
+          "level": 2,
+          "text": "Terms and Conditons"
+        },
+        {
+          "level": 3,
+          "text": "The Most Preferred"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "open",
+        "Shop Home",
+        "Buy Direct Get More",
+        "SmartThings",
+        "Samsung Care+",
+        "Samsung Finance",
+        "Samsung Shop App",
+        "Student Offers Program",
+        "Employee Offers Program",
+        "Samsung Experience Stores",
+        "Mobile Shop Picks",
+        "TV Shop Picks",
+        "Home Appliances Shop Picks",
+        "Monitors Shop Picks",
+        "Shop FAQ",
+        "Explore",
+        "open",
+        "Galaxy Smartphone",
+        "Galaxy Tab",
+        "Galaxy Book"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 182,
+      "has_og_tags": true,
+      "meta_description": "Samsung helps you discover a wide range of home electronics with cutting-edge technology including smartphones, tablets, TVs, home appliances and more.",
+      "scripts_count": 137
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Comprehensive regional selection",
+        "Extensive product range including latest models"
+      ],
+      "confidence": "medium"
+    }
+  }
+]

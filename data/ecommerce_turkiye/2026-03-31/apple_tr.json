@@ -1,0 +1,278 @@
+{
+  "name": "apple_tr",
+  "url": "https://www.apple.com/tr/shop",
+  "scanned_at": "2026-03-31T23:01:15.967805",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/apple_tr_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/apple_tr_mobile.png"
+  },
+  "structure": {
+    "title": "Apple Online Store - Apple (TR)",
+    "url_final": "https://www.apple.com/tr/store",
+    "nav_items": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/tr/"
+      },
+      {
+        "text": "Store",
+        "href": "/tr/store"
+      },
+      {
+        "text": "Yeni \u00dcr\u00fcnlere G\u00f6z At\u0131n",
+        "href": "https://www.apple.com/tr/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/tr/shop/buy-mac"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/tr/shop/buy-ipad"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/tr/shop/buy-iphone"
+      },
+      {
+        "text": "Apple Watch",
+        "href": "https://www.apple.com/tr/shop/buy-watch"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/tr/shop/goto/airpods/accessories"
+      },
+      {
+        "text": "Aksesuarlar",
+        "href": "https://www.apple.com/tr/shop/accessories/all"
+      },
+      {
+        "text": "Bir Ma\u011faza Bulun",
+        "href": "https://www.apple.com/tr/retail/"
+      },
+      {
+        "text": "Sipari\u015f Durumu",
+        "href": "https://secure.store.apple.com/tr/shop/order/list"
+      },
+      {
+        "text": "\u00d6deme Kolayl\u0131klar\u0131",
+        "href": "https://www.apple.com/tr/shop/goto/ww/financing"
+      },
+      {
+        "text": "E\u011fitim",
+        "href": "https://www.apple.com/tr/shop/browse/home/education_routing"
+      },
+      {
+        "text": "\u0130\u015f D\u00fcnyas\u0131",
+        "href": "https://www.apple.com/tr/retail/business/"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/tr/mac/"
+      },
+      {
+        "text": "T\u00fcm Mac Modellerini Ke\u015ffedin",
+        "href": "https://www.apple.com/tr/mac/"
+      },
+      {
+        "text": "MacBook Neo",
+        "href": "https://www.apple.com/tr/macbook-neo/"
+      },
+      {
+        "text": "MacBook Air",
+        "href": "https://www.apple.com/tr/macbook-air/"
+      },
+      {
+        "text": "MacBook Pro",
+        "href": "https://www.apple.com/tr/macbook-pro/"
+      },
+      {
+        "text": "iMac",
+        "href": "https://www.apple.com/tr/imac/"
+      }
+    ],
+    "buttons": [
+      "\u00d6nceki - \u00dcr\u00fcn",
+      "Sonraki - \u00dcr\u00fcn",
+      "\u00d6nceki -",
+      "Sonraki -",
+      "\u00d6nceki - Yard\u0131m burada.",
+      "Sonraki - Yard\u0131m burada.",
+      "\u00d6nceki - Neden Apple Store?",
+      "Sonraki - Neden Apple Store?",
+      "\u00d6nceki - Aksesuarlar.",
+      "Sonraki - Aksesuarlar.",
+      "\u00d6nceki - Sesli d\u00fc\u015f\u00fcnd\u00fck.",
+      "Sonraki - Sesli d\u00fc\u015f\u00fcnd\u00fck.",
+      "\u00d6nceki - Apple deneyimi.",
+      "Sonraki - Apple deneyimi.",
+      "\u00d6nceki - Size \u00d6zel Ma\u011fazalar."
+    ],
+    "forms": [
+      {
+        "action": "/tr/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "apple.com\u2019da aray\u0131n"
+          },
+          {
+            "type": "hidden",
+            "name": "src",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 317,
+    "images_count": 69,
+    "images_with_alt": 53,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Store"
+      },
+      {
+        "level": 2,
+        "text": "Al\u0131\u015fveri\u015f Yap\u0131n"
+      },
+      {
+        "level": 2,
+        "text": "H\u0131zl\u0131 Ba\u011flant\u0131lar"
+      },
+      {
+        "level": 2,
+        "text": "\u00d6zel Ma\u011fazalardan Al\u0131\u015fveri\u015f Yap\u0131n"
+      },
+      {
+        "level": 2,
+        "text": "Mac\u2019i Ke\u015ffedin"
+      },
+      {
+        "level": 2,
+        "text": "Mac Sat\u0131n Al\u0131n"
+      },
+      {
+        "level": 3,
+        "text": "YEN\u0130"
+      },
+      {
+        "level": 3,
+        "text": "YEN\u0130"
+      },
+      {
+        "level": 3,
+        "text": "YEN\u0130"
+      },
+      {
+        "level": 3,
+        "text": "YEN\u0130"
+      },
+      {
+        "level": 3,
+        "text": "YEN\u0130"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "apple.com\u2019da aray\u0131n"
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "h\u00fck\u00fcmlere",
+      "support.apple.com/tr-tr/121115(Yeni pencerede a\u00e7\u0131l",
+      "h\u00fck\u00fcmlere",
+      "support.apple.com/tr-tr/121115(Yeni pencerede a\u00e7\u0131l",
+      "Apple",
+      "Store",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV ve Ev",
+      "AirTag",
+      "Aksesuarlar",
+      "Apple Hesab\u0131\u2019n\u0131z\u0131 Y\u00f6netin",
+      "Apple Store Hesab\u0131",
+      "iCloud.com",
+      "Apple Music",
+      "Apple Arcade",
+      "Apple Podcasts"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 56,
+    "has_og_tags": true,
+    "meta_description": "En yeni Apple \u00fcr\u00fcnlerini, aksesuarlar\u0131n\u0131 sat\u0131n al\u0131n ve teklifleri ka\u00e7\u0131rmay\u0131n. Al\u0131\u015fveri\u015f i\u00e7in yard\u0131m al\u0131n, esnek \u00f6deme ve teslimat se\u00e7eneklerini ke\u015ffedin.",
+    "scripts_count": 59
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 9,
+    "notable_unique_features": [
+      "AR integration for product visualization",
+      "Seamless integration with Apple ecosystem",
+      "High-quality product imagery"
+    ],
+    "confidence": "high"
+  }
+}

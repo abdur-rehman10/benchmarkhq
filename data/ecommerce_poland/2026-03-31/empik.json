@@ -1,0 +1,291 @@
+{
+  "name": "empik",
+  "url": "https://www.empik.com",
+  "scanned_at": "2026-03-31T22:44:51.505496",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/empik_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/empik_mobile.png"
+  },
+  "structure": {
+    "title": "Empik.com | 10 000 000 produkt\u00f3w i pomys\u0142\u00f3w na prezent | Dostawa za 0 z\u0142 z Empik Premium",
+    "url_final": "https://www.empik.com/",
+    "nav_items": [
+      {
+        "text": "Start",
+        "href": "/"
+      },
+      {
+        "text": "Koszyk",
+        "href": "/cart/"
+      },
+      {
+        "text": "Ulubione",
+        "href": "/twoje-konto/listy"
+      }
+    ],
+    "buttons": [
+      "Kategorie",
+      "Nasze serwisy i us\u0142ugi",
+      "Kategorie",
+      "Kategorie",
+      "Konto"
+    ],
+    "forms": [
+      {
+        "action": ".",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "search-input",
+            "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+          }
+        ]
+      },
+      {
+        "action": ".",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "search-input",
+            "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+          }
+        ]
+      }
+    ],
+    "links_count": 2127,
+    "images_count": 333,
+    "images_with_alt": 223,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Wiosenne okazje do -40%"
+      },
+      {
+        "level": 2,
+        "text": "Hity z gwarancj\u0105 najni\u017cszej ceny"
+      },
+      {
+        "level": 2,
+        "text": "Top promocje"
+      },
+      {
+        "level": 2,
+        "text": "Prezenty od zaj\u0105czka"
+      },
+      {
+        "level": 2,
+        "text": "Festiwal gier planszowych do -30%"
+      },
+      {
+        "level": 3,
+        "text": "Prezenty"
+      },
+      {
+        "level": 3,
+        "text": "Pomys\u0142y na prezent"
+      },
+      {
+        "level": 3,
+        "text": "Prezenty dla\u2026"
+      },
+      {
+        "level": 3,
+        "text": "Okazje"
+      },
+      {
+        "level": 3,
+        "text": "Popularne zapytania"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "search-input",
+        "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+      },
+      {
+        "type": "search",
+        "name": "search-input",
+        "placeholder": "Szukaj w\u015br\u00f3d milion\u00f3w produkt\u00f3w"
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147532984",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "147602497",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Prezenty",
+      "Prezenty dla niej",
+      "Prezenty dla niego",
+      "Prezenty dla par",
+      "Prezenty dla babci",
+      "Prezenty dla dziadka",
+      "Prezenty dla dzieci",
+      "Prezenty dla mamy",
+      "Prezenty dla taty",
+      "Prezenty dla przyjaci\u00f3\u0142ki",
+      "Prezenty dla nastolatka",
+      "Karty podarunkowe",
+      "Prezenty dla siostry",
+      "Prezenty dla \u017cony",
+      "Prezenty dla m\u0119\u017ca",
+      "Prezenty dla brata",
+      "Prezenty dla zwierzaka",
+      "Prezenty dla majsterkowicza",
+      "Prezenty \u015blubne",
+      "Prezenty na Baby Shower"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 34,
+    "has_og_tags": true,
+    "meta_description": "Ponad 10 000 000 pomys\u0142\u00f3w na prezent w kategoriach Ksi\u0105\u017cka, Muzyka, Film, Zdrowie i uroda, Zabawki, Dom i ogr\u00f3d, Elektronika, AGD, Sport. Z Empik Premium taniej.",
+    "scripts_count": 79
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Empik Premium free delivery",
+      "Wide range of gift suggestions"
+    ],
+    "confidence": "high"
+  }
+}

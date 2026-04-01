@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_canada
+  name: E-commerce Canada
+  country: Canada
+  currency: CAD
+  language: en
+  version: 1.0.0
+  generated_at: '2026-03-31T21:28:04.370734'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - amazon_canada
+  - canadian_tire
+  - walmart_canada
+  - best_buy_canada
+  - costco_canada
+  - hudson_bay
+  - lululemon
+  - home_depot_canada
+  - ikea_canada
+  - sport_chek
+  - indigo
+  - staples_canada
+  - sephora_canada
+  - marks
+  - london_drugs
+  - well.ca
+  - aritzia
+  - simons
+  - mec
+  - rona
+  - leons
+  - roots
+  - structube
+  - petsmart_canada
+  - shoppers_drug_mart
+  - reitmans
+  - joe_fresh
+  - temu_canada
+  - nike_canada
+  - samsung_canada
+features:
+  critical:
+  - id: product_search
+    frequency: 13/13
+    percent: 100
+  - id: category_browsing
+    frequency: 13/13
+    percent: 100
+  - id: login_signup
+    frequency: 12/13
+    percent: 100
+  - id: guest_checkout
+    frequency: 9/13
+    percent: 100
+  - id: product_images
+    frequency: 13/13
+    percent: 100
+  - id: product_descriptions
+    frequency: 11/13
+    percent: 100
+  - id: price_display
+    frequency: 12/13
+    percent: 100
+  - id: shopping_cart
+    frequency: 13/13
+    percent: 100
+  - id: add_to_cart
+    frequency: 13/13
+    percent: 100
+  - id: shipping_info
+    frequency: 12/13
+    percent: 100
+  - id: wishlist
+    frequency: 9/13
+    percent: 100
+  - id: return_refund_info
+    frequency: 12/13
+    percent: 100
+  - id: contact_form
+    frequency: 10/13
+    percent: 100
+  - id: language_attribute
+    frequency: 13/13
+    percent: 100
+  - id: responsive_design
+    frequency: 11/13
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 12/13
+    percent: 92
+  - id: help_center
+    frequency: 10/13
+    percent: 91
+  - id: privacy_policy
+    frequency: 10/13
+    percent: 91
+  - id: order_tracking
+    frequency: 9/13
+    percent: 90
+  - id: order_history
+    frequency: 9/13
+    percent: 90
+  - id: terms_of_service
+    frequency: 9/13
+    percent: 90
+  - id: stock_availability
+    frequency: 7/13
+    percent: 88
+  - id: multiple_payment
+    frequency: 7/13
+    percent: 88
+  - id: personalized_recommendations
+    frequency: 7/13
+    percent: 88
+  - id: phone_support
+    frequency: 7/13
+    percent: 88
+  - id: cookie_consent
+    frequency: 7/13
+    percent: 88
+  - id: size_variant_selector
+    frequency: 6/13
+    percent: 86
+  - id: promo_code
+    frequency: 6/13
+    percent: 86
+  - id: hero_section
+    frequency: 6/13
+    percent: 86
+  - id: footer_with_links
+    frequency: 11/13
+    percent: 85
+  required:
+  - id: search_autocomplete
+    frequency: 5/13
+    percent: 83
+  - id: search_filters
+    frequency: 5/13
+    percent: 83
+  - id: trending_items
+    frequency: 5/13
+    percent: 83
+  - id: related_products
+    frequency: 5/13
+    percent: 83
+  - id: estimated_delivery
+    frequency: 5/13
+    percent: 83
+  - id: star_ratings
+    frequency: 5/13
+    percent: 83
+  - id: customer_reviews
+    frequency: 5/13
+    percent: 83
+  - id: recently_viewed
+    frequency: 5/13
+    percent: 83
+  - id: sticky_header
+    frequency: 5/13
+    percent: 83
+  - id: breadcrumb_navigation
+    frequency: 5/13
+    percent: 83
+  - id: review_photos
+    frequency: 4/13
+    percent: 67
+  recommended:
+  - id: social_login
+    frequency: 3/13
+    percent: 50
+  - id: push_notifications
+    frequency: 3/13
+    percent: 50
+  - id: live_chat
+    frequency: 3/13
+    percent: 50
+  - id: skeleton_loading
+    frequency: 3/13
+    percent: 50
+  nice_to_have: []
+  innovative: []

@@ -1,0 +1,263 @@
+{
+  "name": "marks_spencer",
+  "url": "https://www.marksandspencer.com",
+  "scanned_at": "2026-03-31T21:50:50.106350",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/marks_spencer_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/marks_spencer_mobile.png"
+  },
+  "structure": {
+    "title": "M&S | Marks & Spencer | Fashion, Home, Beauty, Food & Gifts",
+    "url_final": "https://www.marksandspencer.com/",
+    "nav_items": [
+      {
+        "text": "Women",
+        "href": "/c/women#intid=gnav_LEVEL1_COMPONENT_women"
+      },
+      {
+        "text": "Just Arrived",
+        "href": "/l/women/just-arrived/clothing#intid=gnav_women_prop-roundel_just-arrived"
+      },
+      {
+        "text": "SS26 Drop 1",
+        "href": "/l/women/the-love-that-drop#intid=gnav_women_prop-roundel_ss26-drop-1"
+      },
+      {
+        "text": "The '90s Edit",
+        "href": "/l/women/our-top-picks#intid=gnav_women_prop-roundel_the-90s-edit"
+      },
+      {
+        "text": "City Break Outfits",
+        "href": "/l/women/trends/city-break-outfits#intid=gnav_women_prop-roundel_city-break-outfits"
+      },
+      {
+        "text": "Boho Clothing",
+        "href": "/l/women/trends/boho-clothing#intid=gnav_women_prop-roundel_boho-clothing"
+      },
+      {
+        "text": "Loved By Gillian",
+        "href": "/l/women/love-that#intid=gnav_women_prop-roundel_loved-by-gillian"
+      },
+      {
+        "text": "Editorial",
+        "href": "/content/category/women#intid=gnav_women_prop-roundel_editorial"
+      },
+      {
+        "text": "Clothing",
+        "href": "/c/women#intid=gnav_women_core_clothing"
+      },
+      {
+        "text": "Best Sellers",
+        "href": "/l/women/best-sellers#intid=gnav_women_core_clothing_best-sellers"
+      },
+      {
+        "text": "Cardigans",
+        "href": "/l/women/knitwear/cardigans#intid=gnav_women_core_clothing_cardigans"
+      },
+      {
+        "text": "Dresses",
+        "href": "/l/women/dresses#intid=gnav_women_core_clothing_dresses"
+      },
+      {
+        "text": "Holiday Shop",
+        "href": "/l/women/holiday-shop#intid=gnav_women_core_clothing_holiday-shop"
+      },
+      {
+        "text": "Jackets and Coats",
+        "href": "/l/women/coats-and-jackets#intid=gnav_women_core_clothing_jackets-and-coats"
+      },
+      {
+        "text": "Jeans",
+        "href": "/l/women/jeans#intid=gnav_women_core_clothing_jeans"
+      },
+      {
+        "text": "Jumpers",
+        "href": "/l/women/knitwear/jumpers#intid=gnav_women_core_clothing_jumpers"
+      },
+      {
+        "text": "Linen Shop",
+        "href": "/l/women/linen-shop#intid=gnav_women_core_clothing_linen-shop"
+      },
+      {
+        "text": "Occasionwear",
+        "href": "/l/women/occasionwear#intid=gnav_women_core_clothing_occasionwear"
+      },
+      {
+        "text": "Shirts and Blouses",
+        "href": "/l/women/tops/shirts-and-blouses#intid=gnav_women_core_clothing_shirts-and-blouses"
+      },
+      {
+        "text": "Skirts",
+        "href": "/l/women/skirts#intid=gnav_women_core_clothing_skirts"
+      }
+    ],
+    "buttons": [
+      "Clear",
+      "Clear"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "searchTerm",
+            "placeholder": "Search product, code or brand"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "searchTerm",
+            "placeholder": "Search product, code or brand"
+          }
+        ]
+      },
+      {
+        "action": "/webapp/wcs/stores/servlet/MSResUserRegistration?catalogId=10051&myAcctMain=1&langId=-24&storeId=101",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "emailId",
+            "placeholder": "Enter your email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 737,
+    "images_count": 35,
+    "images_with_alt": 32,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Welcome to Marks & Spencer"
+      },
+      {
+        "level": 2,
+        "text": "20% off beauty"
+      },
+      {
+        "level": 2,
+        "text": "The Love That Drop: SS26"
+      },
+      {
+        "level": 2,
+        "text": "Textured Faux Leather Jacket"
+      },
+      {
+        "level": 2,
+        "text": "Faux Leather Woven Effect Shirt"
+      },
+      {
+        "level": 2,
+        "text": "Leather Look Woven Effect Mini A-Line Skirt"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "searchTerm",
+        "placeholder": "Search product, code or brand"
+      },
+      {
+        "type": "search",
+        "name": "searchTerm",
+        "placeholder": "Search product, code or brand"
+      },
+      {
+        "type": "email",
+        "name": "emailId",
+        "placeholder": "Enter your email address"
+      }
+    ],
+    "footer_links": [
+      "Help & contact us",
+      "Our stores",
+      "Accessibility in our stores",
+      "Product recalls",
+      "Where's my order?",
+      "Delivery & collection",
+      "Guest order tracking",
+      "Guest order return",
+      "Returns & refunds",
+      "Sparks",
+      "Sparks FAQs",
+      "Gift card balance",
+      "Size guides",
+      "Sustainability",
+      "Ocado",
+      "Corporate site",
+      "M&S Corporate Gifts"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 130,
+    "has_og_tags": true,
+    "meta_description": "Shop on-trend womenswear, quality menswear, home and beauty essentials and mouth-watering food and drink. Order online with free delivery or collection at M&S",
+    "scripts_count": 30
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "20% off beauty promotions",
+      "SS26 fashion drop"
+    ],
+    "confidence": "medium"
+  }
+}

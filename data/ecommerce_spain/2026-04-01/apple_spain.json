@@ -1,0 +1,278 @@
+{
+  "name": "apple_spain",
+  "url": "https://www.apple.com/es/shop",
+  "scanned_at": "2026-04-01T00:12:59.367913",
+  "screenshots": {
+    "desktop": "data/ecommerce_spain/2026-04-01/screenshots/apple_spain_desktop.png",
+    "mobile": "data/ecommerce_spain/2026-04-01/screenshots/apple_spain_mobile.png"
+  },
+  "structure": {
+    "title": "Apple Online Store - Apple (ES)",
+    "url_final": "https://www.apple.com/es/store",
+    "nav_items": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/es/"
+      },
+      {
+        "text": "Tienda",
+        "href": "/es/store"
+      },
+      {
+        "text": "Comprar lo \u00faltimo",
+        "href": "https://www.apple.com/es/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/es/shop/buy-mac"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/es/shop/buy-ipad"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/es/shop/buy-iphone"
+      },
+      {
+        "text": "Apple\u00a0Watch",
+        "href": "https://www.apple.com/es/shop/buy-watch"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/es/shop/goto/airpods/accessories"
+      },
+      {
+        "text": "Accesorios",
+        "href": "https://www.apple.com/es/shop/accessories/all"
+      },
+      {
+        "text": "Encontrar una\u00a0tienda",
+        "href": "https://www.apple.com/es/retail/"
+      },
+      {
+        "text": "Estado del pedido",
+        "href": "https://secure.store.apple.com/es/shop/order/list"
+      },
+      {
+        "text": "Apple Trade In",
+        "href": "https://www.apple.com/es/shop/trade-in"
+      },
+      {
+        "text": "Financiaci\u00f3n",
+        "href": "https://www.apple.com/es/shop/goto/ww/financing"
+      },
+      {
+        "text": "Configuraci\u00f3n Personalizada",
+        "href": "https://www.apple.com/es/shop/goto/personal_setup"
+      },
+      {
+        "text": "Reacondicionados certificados",
+        "href": "https://www.apple.com/es/shop/refurbished"
+      },
+      {
+        "text": "Educaci\u00f3n",
+        "href": "https://www.apple.com/es/shop/browse/home/education_routing"
+      },
+      {
+        "text": "Empresas",
+        "href": "https://www.apple.com/es/retail/business/"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/es/mac/"
+      },
+      {
+        "text": "Ver todos los\u00a0Mac",
+        "href": "https://www.apple.com/es/mac/"
+      },
+      {
+        "text": "MacBook Neo",
+        "href": "https://www.apple.com/es/macbook-neo/"
+      }
+    ],
+    "buttons": [
+      "Anterior - Producto",
+      "Siguiente - Producto",
+      "Anterior -",
+      "Siguiente -",
+      "Anterior - Te ayudamos.",
+      "Siguiente - Te ayudamos.",
+      "Anterior - El Apple Store marca la diferencia.",
+      "Siguiente - El Apple Store marca la diferencia.",
+      "Anterior - Accesorios.",
+      "Siguiente - Accesorios.",
+      "Anterior - Alto y\u00a0claro.",
+      "Siguiente - Alto y\u00a0claro.",
+      "Anterior - Nike x Beats.",
+      "Siguiente - Nike x Beats.",
+      "Anterior - La experiencia Apple."
+    ],
+    "forms": [
+      {
+        "action": "/es/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Buscar en apple.com"
+          },
+          {
+            "type": "hidden",
+            "name": "src",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 398,
+    "images_count": 95,
+    "images_with_alt": 78,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Tienda"
+      },
+      {
+        "level": 2,
+        "text": "Comprar"
+      },
+      {
+        "level": 2,
+        "text": "Enlaces r\u00e1pidos"
+      },
+      {
+        "level": 2,
+        "text": "Tiendas especiales"
+      },
+      {
+        "level": 2,
+        "text": "Explorar el\u00a0Mac"
+      },
+      {
+        "level": 2,
+        "text": "Comprar un\u00a0Mac"
+      },
+      {
+        "level": 3,
+        "text": "NUEVO"
+      },
+      {
+        "level": 3,
+        "text": "NUEVO"
+      },
+      {
+        "level": 3,
+        "text": "NUEVO"
+      },
+      {
+        "level": 3,
+        "text": "NUEVO"
+      },
+      {
+        "level": 3,
+        "text": "NUEVO"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Buscar en apple.com"
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "https://www.cetelem.es/prestamo/calculadora-apple/",
+      "Consulta los t\u00e9rminos y condiciones",
+      "condiciones",
+      "Consulta los t\u00e9rminos y condiciones",
+      "Busca una tienda",
+      "support.apple.com/121115(Se abre en una ventana nu",
+      "https://www.cetelem.es/prestamo/calculadora-apple/",
+      "Consulta los t\u00e9rminos y condiciones",
+      "condiciones",
+      "Consulta los t\u00e9rminos y condiciones",
+      "Busca una tienda",
+      "support.apple.com/121115(Se abre en una ventana nu",
+      "Apple",
+      "Tienda",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV y Casa"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 62,
+    "has_og_tags": true,
+    "meta_description": "Encuentra los \u00faltimos productos, accesorios y ofertas de\u00a0Apple. Recibe ayuda con tus compras y disfruta de opciones flexibles de pago y\u00a0entrega.",
+    "scripts_count": 60
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 9,
+    "notable_unique_features": [
+      "Apple Trade In",
+      "Personalized Setup",
+      "Certified Refurbished"
+    ],
+    "confidence": "high"
+  }
+}

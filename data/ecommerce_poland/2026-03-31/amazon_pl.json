@@ -1,0 +1,332 @@
+{
+  "name": "amazon_pl",
+  "url": "https://www.amazon.pl",
+  "scanned_at": "2026-03-31T22:43:51.157516",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/amazon_pl_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/amazon_pl_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.pl: zakupy internetowe elektroniki, odzie\u017cy, komputer\u00f3w, ksi\u0105\u017cek, p\u0142yt DVD i innych",
+    "url_final": "https://www.amazon.pl/",
+    "nav_items": [
+      {
+        "text": "G\u0142\u00f3wna zawarto\u015b\u0107",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Wyszukiwanieklawisz Opt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Koszykklawisz Shift+klawisz Opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Strona g\u0142\u00f3wnaklawisz Shift+klawisz Opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Zam\u00f3wieniaklawisz Shift+klawisz Opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Poka\u017c lub ukryj skr\u00f3tyklawisz Shift+klawisz Opt+Z",
+      "Powr\u00f3t na g\u00f3r\u0119 strony",
+      "Zaloguj si\u0119",
+      "Polska"
+    ],
+    "forms": [
+      {
+        "action": "/privacyprefs/retail/v3/banner",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "anti-csrftoken-a2z",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "timestamp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "disclosureDecision",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "privacyCustomerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "__mk_pl_PL",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Szukaj na Amazon.pl"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 319,
+    "images_count": 205,
+    "images_with_alt": 201,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Przejd\u017a do"
+      },
+      {
+        "level": 2,
+        "text": "Skr\u00f3ty klawiszowe"
+      },
+      {
+        "level": 2,
+        "text": "Elektronika: Najpopularniejsze marki"
+      },
+      {
+        "level": 2,
+        "text": "Organizacja domu poni\u017cej 150 z\u0142"
+      },
+      {
+        "level": 2,
+        "text": "Elektronika poni\u017cej 200 z\u0142"
+      },
+      {
+        "level": 3,
+        "text": "Top okazje"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "anti-csrftoken-a2z",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "disclosureDecision",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "privacyCustomerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sessionId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "consentTypes",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__mk_pl_PL",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Szukaj na Amazon.pl"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 102,
+    "has_og_tags": false,
+    "meta_description": "Zakupy internetowe elektroniki, komputer\u00f3w, odzie\u017cy, but\u00f3w, zabawek, ksi\u0105\u017cek, p\u0142yt DVD, artyku\u0142\u00f3w sportowych, produkt\u00f3w z kategorii urody i innych.",
+    "scripts_count": 132
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "keyboard_shortcuts",
+      "localized_content"
+    ],
+    "confidence": "high"
+  }
+}

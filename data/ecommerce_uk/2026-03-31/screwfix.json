@@ -1,0 +1,252 @@
+{
+  "name": "screwfix",
+  "url": "https://www.screwfix.com",
+  "scanned_at": "2026-03-31T21:52:53.722027",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/screwfix_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/screwfix_mobile.png"
+  },
+  "structure": {
+    "title": "Screwfix | The UK's Leading Retailer of Trade Tools & Hardware | Screwfix",
+    "url_final": "https://www.screwfix.com/",
+    "nav_items": [
+      {
+        "text": "Tools",
+        "href": "/c/tools/cat830034"
+      },
+      {
+        "text": "Power Tools",
+        "href": "/c/tools/power-tools/cat830692"
+      },
+      {
+        "text": "Drills",
+        "href": "/c/tools/drills/cat830704"
+      },
+      {
+        "text": "Saws",
+        "href": "/c/tools/saws/cat830716"
+      },
+      {
+        "text": "Kits & Twinpacks",
+        "href": "/c/tools/kits-twinpacks/cat830712"
+      },
+      {
+        "text": "Impact Drivers & Wrenches",
+        "href": "/c/tools/impact-drivers-wrenches/cat830838"
+      },
+      {
+        "text": "Power Tool Batteries & Chargers",
+        "href": "/c/tools/power-tool-batteries-chargers/cat830696"
+      },
+      {
+        "text": "Bare Units",
+        "href": "/c/tools/bare-units/cat7230005"
+      },
+      {
+        "text": "Angle Grinders",
+        "href": "/c/tools/angle-grinders/cat830694"
+      },
+      {
+        "text": "Multi Tools",
+        "href": "/c/tools/multi-tools/cat830708"
+      },
+      {
+        "text": "Sanders",
+        "href": "/c/tools/sanders/cat830906"
+      },
+      {
+        "text": "Nail Guns",
+        "href": "/c/tools/nail-guns/cat830710"
+      },
+      {
+        "text": "Planers",
+        "href": "/c/tools/planers/cat830902"
+      },
+      {
+        "text": "Routers",
+        "href": "/c/tools/routers/cat830904"
+      },
+      {
+        "text": "Glue & Heat Guns",
+        "href": "/c/tools/glue-heat-guns/cat830804"
+      },
+      {
+        "text": "Electric Screwdrivers",
+        "href": "/c/tools/electric-screwdrivers/cat830720"
+      },
+      {
+        "text": "Polishers",
+        "href": "/c/tools/polishers/cat12980002"
+      },
+      {
+        "text": "Wall Chasers",
+        "href": "/c/building-doors/wall-chasers/cat830800"
+      },
+      {
+        "text": "Die Grinders",
+        "href": "/c/tools/die-grinders/cat14970002"
+      },
+      {
+        "text": "Nibblers",
+        "href": "/c/tools/nibblers/cat14970001"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Search",
+      "Browse",
+      "CUSTOMER SERVICES+",
+      "SHOPPING WITH US+",
+      "ABOUT SCREWFIX+",
+      "MORE FROM SCREWFIX+"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      }
+    ],
+    "links_count": 1088,
+    "images_count": 32,
+    "images_with_alt": 28,
+    "headings": [
+      {
+        "level": 2,
+        "text": "CUSTOMER SERVICES"
+      },
+      {
+        "level": 2,
+        "text": "CUSTOMER SERVICES+"
+      },
+      {
+        "level": 2,
+        "text": "SHOPPING WITH US"
+      },
+      {
+        "level": 2,
+        "text": "SHOPPING WITH US+"
+      },
+      {
+        "level": 2,
+        "text": "ABOUT SCREWFIX"
+      },
+      {
+        "level": 3,
+        "text": "Find Out More"
+      },
+      {
+        "level": 3,
+        "text": "Find Out More"
+      },
+      {
+        "level": 3,
+        "text": "Find Out More"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "search",
+        "placeholder": "What are you looking for?"
+      }
+    ],
+    "footer_links": [
+      "Contact Us",
+      "Returns",
+      "FAQs",
+      "Delivery",
+      "Clearance",
+      "Click & Collect",
+      "Find a Store",
+      "Trade Credit Account",
+      "Refurbished Products",
+      "Screwfix Gift Card",
+      "A - Z Brands",
+      "Screwfix Card",
+      "Secure Payment Options",
+      "Screwfix Sprint",
+      "New Online Ranges",
+      "Screwfix Rewards",
+      "Screwfix App",
+      "Black Friday",
+      "Approved Supplier Deliveries",
+      "Rate & Review"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 83,
+    "has_og_tags": false,
+    "meta_description": "Screwfix: Thousands of products at trade prices | FREE delivery available 7 days a week | FREE click & collect in as little as a minute | Hundreds of stores",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Trade Credit Account",
+      "Screwfix Sprint"
+    ],
+    "confidence": "high"
+  }
+}

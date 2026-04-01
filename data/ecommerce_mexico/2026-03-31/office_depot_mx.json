@@ -1,0 +1,425 @@
+{
+  "name": "office_depot_mx",
+  "url": "https://www.officedepot.com.mx",
+  "scanned_at": "2026-03-31T21:32:35.629635",
+  "screenshots": {
+    "desktop": "data/ecommerce_mexico/2026-03-31/screenshots/office_depot_mx_desktop.png",
+    "mobile": "data/ecommerce_mexico/2026-03-31/screenshots/office_depot_mx_mobile.png"
+  },
+  "structure": {
+    "title": "Office Depot Mexico | Compra en l\u00ednea Art\u00edculos de Oficina, Laptops, Sillas, Escritorios y m\u00e1s",
+    "url_final": "https://www.officedepot.com.mx/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.officedepot.com.mx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.officedepot.com.mx/"
+      },
+      {
+        "text": "Blog",
+        "href": "/officedepot/en/blog"
+      },
+      {
+        "text": "Favoritos",
+        "href": "/officedepot/en/my-shoppinglists/view"
+      },
+      {
+        "text": "0Mis productos$0.00",
+        "href": "/officedepot/en/cart"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Categor\u00edas",
+        "href": ""
+      },
+      {
+        "text": "C\u00f3mputo",
+        "href": ""
+      },
+      {
+        "text": "Computadoras de EscritorioComputadoras de Escritor",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/c/0"
+      },
+      {
+        "text": "Computadoras de EscritorioVelocidad y potenciapara",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/c/0"
+      },
+      {
+        "text": "LaptopsLaptopsM\u00e1ximo rendimientopara trabajar y cr",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/laptops-y-macbook/c/04-039-0-0"
+      },
+      {
+        "text": "LaptopsM\u00e1ximo rendimientopara trabajar y crear con",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/laptops-y-macbook/c/04-039-0-0"
+      },
+      {
+        "text": "TabletsTabletsLigeras, vers\u00e1tiles y listas parapot",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/ipad-y-tablets/c/04-041-904-0"
+      },
+      {
+        "text": "TabletsLigeras, vers\u00e1tiles y listas parapotenciar ",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/ipad-y-tablets/c/04-041-904-0"
+      },
+      {
+        "text": "MonitoresMonitoresDetalles que cobran vida conreso",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/mon"
+      },
+      {
+        "text": "MonitoresDetalles que cobran vida conresoluci\u00f3n y ",
+        "href": "https://www.officedepot.com.mx/officedepot/en/Categor\u00eda/Todas/computo/computadoras-de-escritorio/mon"
+      },
+      {
+        "text": "Servicios",
+        "href": ""
+      },
+      {
+        "text": "Creaci\u00f3n de contenido digitalCreaci\u00f3n de contenido",
+        "href": "https://www.officedepot.com.mx/officedepot/en/fabrica-de-contenido"
+      },
+      {
+        "text": "Creaci\u00f3n de contenido digitalImpulsa tupresencia o",
+        "href": "https://www.officedepot.com.mx/officedepot/en/fabrica-de-contenido"
+      },
+      {
+        "text": "giit!giit!La nuevatelefon\u00eda celular SMS, MIN y Nav",
+        "href": "https://www.officedepot.com.mx/officedepot/en/giit"
+      }
+    ],
+    "buttons": [
+      "COMPRAR Y RECOGER EN TIENDA",
+      "COMPRAR Y RECOGER EN TIENDA"
+    ],
+    "forms": [
+      {
+        "action": "/officedepot/en/search/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "text",
+            "placeholder": "*Buscar por categor\u00eda, producto o marca"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "productNamePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productCodePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productPostPrice",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "productNamePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productCodePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productPostPrice",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "productNamePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productCodePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productPostPrice",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "productNamePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productCodePost",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "productPostPrice",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 873,
+    "images_count": 359,
+    "images_with_alt": 68,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Office Depot M\u00e9xico: Papeler\u00eda y electr\u00f3nica al mejor precio"
+      },
+      {
+        "level": 2,
+        "text": "Aprovecha nuestras promociones en Office Depot"
+      },
+      {
+        "level": 2,
+        "text": "Descubre los mejores productos seg\u00fan tu perfil en Office Depot M\u00e9xico"
+      },
+      {
+        "level": 2,
+        "text": "Encuentra las mejores marcas en nuestra tienda en l\u00ednea"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "placeholder": "*Buscar por categor\u00eda, producto o marca"
+      },
+      {
+        "type": "radio",
+        "name": "actMenu",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuSec",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuTer",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actMenu",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuSec",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuSec",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuTer",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuTer",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "openMore-ProductosODNavNodeNew",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "actSMenuCua",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      ".",
+      ".",
+      "Herramientas de                                 co",
+      "Facturaci\u00f3n",
+      "\u00bfBuscas alguna tienda?",
+      "Encuentra                             ofertas cerc",
+      "Folleto                             del mes",
+      "Cat\u00e1logo                             anual",
+      "Informaci\u00f3n                                 legal",
+      "Aviso de privacidad",
+      "T\u00e9rminos                             y Condiciones",
+      "T\u00e9rminos y Condiciones de Uso del Portal",
+      "T\u00e9rminos y Condiciones Office Depot Rewards",
+      "T\u00e9rminos                             y condiciones",
+      "T\u00e9rminos                             y Condiciones",
+      "T\u00e9rminos y Condiciones P\u00f3liza De Servicio De Mante",
+      "T\u00e9rminos y Condiciones                            ",
+      "T\u00e9rminos y                             Condiciones",
+      "Nosotros te                                 ayudam",
+      "Proveedores"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 86,
+    "has_og_tags": false,
+    "meta_description": " Compra en l\u00ednea lo mejor en art\u00edculos de oficina, laptops, tablets, televisiones, impresoras, multifuncionales, cajas de papel, computadoras, sillas, escritorios, archiveros, cartuchos de tinta, t\u00f3ne",
+    "scripts_count": 246
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "N",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "N",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "N",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_unique_features": [
+      "COMPRAR Y RECOGER EN TIENDA option",
+      "Extensive product categories"
+    ],
+    "confidence": "medium"
+  }
+}

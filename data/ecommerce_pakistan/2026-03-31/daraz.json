@@ -1,0 +1,163 @@
+{
+  "name": "daraz",
+  "url": "https://www.daraz.pk",
+  "scanned_at": "2026-03-31T23:31:08.623010",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/daraz_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/daraz_mobile.png"
+  },
+  "structure": {
+    "title": "Online Shopping in Pakistan: Fashion, Electronics & Groceries - Daraz.pk",
+    "url_final": "https://www.daraz.pk/#?",
+    "nav_items": [],
+    "buttons": [
+      "SEARCH",
+      "SHOP ALL PRODUCTS"
+    ],
+    "forms": [
+      {
+        "action": "//www.daraz.pk/catalog/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search in Daraz"
+          },
+          {
+            "type": "hidden",
+            "name": "_keyori",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "from",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "spm",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 332,
+    "images_count": 117,
+    "images_with_alt": 24,
+    "headings": [
+      {
+        "level": 1,
+        "text": "How Daraz Transformed Online Shopping in Pakistan"
+      },
+      {
+        "level": 3,
+        "text": "Customer Care"
+      },
+      {
+        "level": 3,
+        "text": "Daraz"
+      },
+      {
+        "level": 3,
+        "text": "Payment Methods"
+      },
+      {
+        "level": 3,
+        "text": "Verified by"
+      },
+      {
+        "level": 3,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search in Daraz"
+      },
+      {
+        "type": "hidden",
+        "name": "_keyori",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "from",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "spm",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": false,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "Pakistan's Best Online Shopping Store with 15+ Million Products at Resounding Discounts in Karachi, Lahore, Islamabad All Across Pakistan with Cash on Delivery (COD). Pick Your Favorite Mobiles, Appli",
+    "scripts_count": 63
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive product categories",
+      "Localized payment methods",
+      "Frequent sales and promotions"
+    ],
+    "confidence": "high"
+  }
+}

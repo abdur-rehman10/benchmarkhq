@@ -1,0 +1,122 @@
+{
+  "name": "chewy",
+  "url": "https://www.chewy.com",
+  "scanned_at": "2026-03-31T21:12:58.246967",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/chewy_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/chewy_mobile.png"
+  },
+  "structure": {
+    "title": "403 error - No treats beyond this point - Chewy",
+    "url_final": "https://www.chewy.com/",
+    "nav_items": [
+      {
+        "text": "Chewy",
+        "href": "https://chewy.com"
+      },
+      {
+        "text": "",
+        "href": "/app/cart"
+      }
+    ],
+    "buttons": [],
+    "forms": [
+      {
+        "action": "/s",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Search"
+          }
+        ]
+      }
+    ],
+    "links_count": 4,
+    "images_count": 0,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Chewy"
+      },
+      {
+        "level": 2,
+        "text": "No treats beyond this point"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Search"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 4,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 3
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive pet product range",
+      "auto-ship subscription service"
+    ],
+    "confidence": "high"
+  }
+}

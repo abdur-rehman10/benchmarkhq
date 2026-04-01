@@ -1,0 +1,263 @@
+{
+  "name": "albert_heijn",
+  "url": "https://www.ah.nl",
+  "scanned_at": "2026-03-31T22:33:03.180114",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/albert_heijn_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/albert_heijn_mobile.png"
+  },
+  "structure": {
+    "title": "Albert Heijn: boodschappen doen bij de grootste supermarkt",
+    "url_final": "https://www.ah.nl/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Producten",
+        "href": "/producten"
+      },
+      {
+        "text": "Bonus",
+        "href": "/bonus"
+      },
+      {
+        "text": "Recepten",
+        "href": "/allerhande"
+      },
+      {
+        "text": "",
+        "href": ""
+      },
+      {
+        "text": "Recepten",
+        "href": "/allerhande"
+      },
+      {
+        "text": "AH Voordeelshop",
+        "href": "https://voordeelshop.ah.nl?ah_medium=www.ah.nl&ah_source=header&ah_campaign=na"
+      },
+      {
+        "text": "Mijn Albert Heijn Premium",
+        "href": "/premium"
+      },
+      {
+        "text": "Bezorgbundel",
+        "href": "/bezorgbundel"
+      },
+      {
+        "text": "Online bestellen",
+        "href": "/kies-een-moment"
+      },
+      {
+        "text": "Mijn account",
+        "href": "/mijn/dashboard"
+      },
+      {
+        "text": "Favoriete lijstjes",
+        "href": "/favorieten"
+      },
+      {
+        "text": "Eerder gekocht",
+        "href": "/producten/eerder-gekocht"
+      },
+      {
+        "text": "Mijn bestellingen",
+        "href": "/mijnbestellingen"
+      },
+      {
+        "text": "Mijn Albert Heijn Premium",
+        "href": "/premium"
+      },
+      {
+        "text": "Bezorgbundel",
+        "href": "/bezorgbundel"
+      },
+      {
+        "text": "",
+        "href": "/favorieten"
+      },
+      {
+        "text": "0.00",
+        "href": "/mijnlijst"
+      }
+    ],
+    "buttons": [
+      "Toegankelijkheid",
+      "Meer",
+      "Logged out UserInloggen",
+      "Inloggen",
+      "menu",
+      "Logged out User",
+      "Waar ben je naar op zoek?"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      }
+    ],
+    "links_count": 248,
+    "images_count": 86,
+    "images_with_alt": 64,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Hamster\u00e9\u00e9\u00e9\u00e9\u00e9\u00e9n voor een vrolijk Pasen"
+      },
+      {
+        "level": 1,
+        "text": "Ei-ndeloos lekker ontbijten"
+      },
+      {
+        "level": 1,
+        "text": "Pak uit deze Pasen met AH Excellent"
+      },
+      {
+        "level": 1,
+        "text": "Voor een vrolijk Pasen"
+      },
+      {
+        "level": 1,
+        "text": "Tijd voor de paasborrel"
+      },
+      {
+        "level": 2,
+        "text": "Shop per categorie"
+      },
+      {
+        "level": 2,
+        "text": "Uit de Bonusfolder"
+      },
+      {
+        "level": 2,
+        "text": "Gratis Bezorging"
+      },
+      {
+        "level": 2,
+        "text": "Uitgebreid shoppen"
+      },
+      {
+        "level": 3,
+        "text": "Vrolijke bloemen voor een zonnig Pasen"
+      },
+      {
+        "level": 3,
+        "text": "Op Het Goede Leven"
+      },
+      {
+        "level": 3,
+        "text": "De lekkerste paasborrel"
+      },
+      {
+        "level": 3,
+        "text": "Iedereen onder de paaspannetjes"
+      },
+      {
+        "level": 3,
+        "text": "6 tips voor de mooiste paastafel"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Waar ben je naar op zoek?"
+      }
+    ],
+    "footer_links": [
+      "Producten",
+      "Prijsfavorieten",
+      "Blue home",
+      "Alles voor Pasen",
+      "Alles voor vegetarisch eten",
+      "Alles voor je gezondheid",
+      "Alles voor baby en kind",
+      "Merken",
+      "Nieuw assortiment",
+      "Gall & Gall assortiment",
+      "Bonus",
+      "Bonusfolder",
+      "Online bestellen",
+      "Zakelijk bestellen",
+      "Albert Heijn app",
+      "Mijn Albert Heijn Premium",
+      "Bezorgbundel",
+      "Gratis bezorging",
+      "AH Belgi\u00eb",
+      "Producten"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 107,
+    "has_og_tags": true,
+    "meta_description": "Gezonder, makkelijker en voordeliger eten? Ontdek Albert Heijn: inspiratie, Bonusaanbiedingen en gemak: in de winkel \u00e9n via de AH app! Bekijk het aanbod.",
+    "scripts_count": 102
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "AH Voordeelshop integration",
+      "Mijn Albert Heijn Premium"
+    ],
+    "confidence": "high"
+  }
+}

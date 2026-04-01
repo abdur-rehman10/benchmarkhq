@@ -1,0 +1,203 @@
+{
+  "name": "dangdang",
+  "url": "https://www.dangdang.com",
+  "scanned_at": "2026-03-31T23:55:34.874916",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/dangdang_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/dangdang_mobile.png"
+  },
+  "structure": {
+    "title": "\u5f53\u5f53\u7f51",
+    "url_final": "https://www.dangdang.com/",
+    "nav_items": [],
+    "buttons": [
+      "\u6211\u7684\u5f53\u5f53",
+      "\u4f01\u4e1a\u91c7\u8d2d",
+      "\u5ba2\u6237\u670d\u52a1"
+    ],
+    "forms": [
+      {
+        "action": "//search.dangdang.com",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "key",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "SearchFromTop",
+            "placeholder": ""
+          },
+          {
+            "type": "button",
+            "name": "suggestproduct_btn",
+            "placeholder": ""
+          },
+          {
+            "type": "button",
+            "name": "suggestclass_btn",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "suggestsearchkey_btn",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "catalog",
+            "placeholder": ""
+          },
+          {
+            "type": "button",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 174,
+    "images_count": 33,
+    "images_with_alt": 16,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "SearchFromTop",
+        "placeholder": ""
+      },
+      {
+        "type": "button",
+        "name": "suggestproduct_btn",
+        "placeholder": ""
+      },
+      {
+        "type": "button",
+        "name": "suggestclass_btn",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "suggestsearchkey_btn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "catalog",
+        "placeholder": ""
+      },
+      {
+        "type": "button",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "\u5168\u7403\u9886\u5148\u7684\u7efc\u5408\u6027\u7f51\u4e0a\u8d2d\u7269\u4e2d\u5fc3\u3002\u8d85\u8fc7100\u4e07\u79cd\u5546\u54c1\u5728\u7ebf\u70ed\u9500\uff01\u56fe\u4e66\u3001\u7ae5\u4e66\u3001\u7ed8\u672c\u3001\u4e2d\u5c0f\u5b66\u6559\u8f85\u3001\u6587\u5b66\u5c0f\u8bf4\u3001\u97f3\u50cf\u3001\u6bcd\u5a74\u3001\u5bb6\u5c45\u3001\u670d\u88c5\u3001\u978b\u5305\u7b49\u51e0\u5341\u5927\u7c7b\uff0c\u6b63\u7248\u4fdd\u8bc1\uff0c\u4f4e\u81f32\u6298\uff08\u81ea\u8425\u56fe\u4e66\u6ee149\u5143\u514d\u8fd0\u8d39\u3002\u5f53\u5f53\u7f51\u4e00\u8d2f\u79c9\u627f\u63d0\u5347\u987e\u5ba2\u4f53\u9a8c\u7684\u627f\u8bfa\uff0c\u81ea\u52a9\u9000\u6362\u8d27\u4fbf\u6377\u53c8\u653e\u5fc3\uff09",
+    "scripts_count": 33
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive book selection",
+      "integrated e-book reader"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "name": "ikea_australia",
+  "url": "https://www.ikea.com/au/en/",
+  "scanned_at": "2026-04-01T00:21:01.213145",
+  "screenshots": {
+    "desktop": "data/ecommerce_australia/2026-04-01/screenshots/ikea_australia_desktop.png",
+    "mobile": "data/ecommerce_australia/2026-04-01/screenshots/ikea_australia_mobile.png"
+  },
+  "structure": {
+    "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
+    "url_final": "https://www.ikea.com/au/en/",
+    "nav_items": [
+      {
+        "text": "Shop products",
+        "href": "https://www.ikea.com/au/en/cat/products-products/"
+      },
+      {
+        "text": "Rooms",
+        "href": "https://www.ikea.com/au/en/rooms/"
+      },
+      {
+        "text": "Deals & Loyalty",
+        "href": "https://www.ikea.com/au/en/offers/"
+      },
+      {
+        "text": "Design & ideas",
+        "href": "https://www.ikea.com/au/en/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/au/en/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Clear the search input field",
+      "Search IKEA products using a photo",
+      "Search",
+      "Last chance",
+      "Limited time offers",
+      "IKEA Family offers",
+      "New lower price",
+      "Our lowest price",
+      "Review: 4.6 out of 5 stars. Total reviews:(1597)",
+      "Review: 4.3 out of 5 stars. Total reviews:(758)",
+      "Review: 4.3 out of 5 stars. Total reviews:(3)",
+      "Review: 4.7 out of 5 stars. Total reviews:(7)",
+      "Review: 5 out of 5 stars. Total reviews:(4)"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/au/en/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      }
+    ],
+    "links_count": 262,
+    "images_count": 163,
+    "images_with_alt": 121,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Hej! Welcome to IKEA Australia"
+      },
+      {
+        "level": 2,
+        "text": "Right now at IKEA"
+      },
+      {
+        "level": 2,
+        "text": "Today's best deals"
+      },
+      {
+        "level": 2,
+        "text": "Discover IKEA Family benefits"
+      },
+      {
+        "level": 2,
+        "text": "Inspiration for every room"
+      },
+      {
+        "level": 2,
+        "text": "Get the look"
+      },
+      {
+        "level": 3,
+        "text": "S\u00c4FFEROTDuvet, light warm, 200x200 cm"
+      },
+      {
+        "level": 3,
+        "text": "PILTANDVINGEDuvet cover and 2 pillowcases, white, 240x220/50x80 cm"
+      },
+      {
+        "level": 3,
+        "text": "METODHigh cabinet with shelves, white/Bodbyn grey, 80x37x200 cm"
+      },
+      {
+        "level": 3,
+        "text": "HOKKSUND4 panels for sliding door frame, high-gloss light grey, 75x201 cm"
+      },
+      {
+        "level": 3,
+        "text": "METODHigh cabinet with pull-out larder, white/Bodbyn grey, 60x60x200 cm"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70457067-a9b416-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70457067-a9b416-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70457067-a9b416-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70457067-a9b416-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70457067-a9b416-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70457067-a9b416-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50579197-a9b416-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50579197-a9b416-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50579197-a9b416-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50579197-a9b416-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89452593-a9b416-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89452593-a9b416-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89452593-a9b416-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89452593-a9b416-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89452593-a9b416-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s89452593-a9b416-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70382345-a9b416-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70382345-a9b416-P0-3",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "See more",
+      "Join or log in",
+      "See more",
+      "Create an account or log in",
+      "Delivery & collection options",
+      "Find a store",
+      "Planning and design services",
+      "Financial services",
+      "Other services",
+      "Pre-loved items",
+      "Buy-back",
+      "Self service tools",
+      "Track and manage order",
+      "Returns and claims",
+      "Check case status",
+      "Shopping at IKEA",
+      "IKEA Gift cards",
+      "Contact us",
+      "FAQs",
+      "My IKEA Family"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 91,
+    "has_og_tags": true,
+    "meta_description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+    "scripts_count": 81
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Search IKEA products using a photo",
+      "IKEA Family offers"
+    ],
+    "confidence": "high"
+  }
+}

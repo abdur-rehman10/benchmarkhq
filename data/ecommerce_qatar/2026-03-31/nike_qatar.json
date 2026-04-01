@@ -1,0 +1,268 @@
+{
+  "name": "nike_qatar",
+  "url": "https://www.nike.com/qa/",
+  "scanned_at": "2026-03-31T23:25:48.860496",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/nike_qatar_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/nike_qatar_mobile.png"
+  },
+  "structure": {
+    "title": "Page not found. Nike.com",
+    "url_final": "https://www.nike.com/qa/",
+    "nav_items": [
+      {
+        "text": "Skip to main content",
+        "href": "#skip-to-content"
+      },
+      {
+        "text": "Accessibility at Nike",
+        "href": "https://www.nike.com/accessibility#introduction"
+      },
+      {
+        "text": "",
+        "href": "https://www.nike.com/jordan"
+      },
+      {
+        "text": "",
+        "href": "https://www.nike.com/w/converse-akmjx"
+      },
+      {
+        "text": "Find a Store",
+        "href": "https://www.nike.com/retail"
+      },
+      {
+        "text": "Help",
+        "href": "https://www.nike.com/help"
+      },
+      {
+        "text": "Help",
+        "href": "https://www.nike.com/help"
+      },
+      {
+        "text": "Order Status",
+        "href": "https://www.nike.com/orders/details/"
+      },
+      {
+        "text": "Shipping & Delivery",
+        "href": "https://www.nike.com/help/a/shipping-delivery"
+      },
+      {
+        "text": "Returns",
+        "href": "https://www.nike.com/help/a/returns-policy"
+      },
+      {
+        "text": "Order Cancellation",
+        "href": "https://www.nike.com/help/a/change-cancel-order"
+      },
+      {
+        "text": "Size Charts",
+        "href": "https://www.nike.com/help/a/size-charts"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.nike.com/help/#contact"
+      },
+      {
+        "text": "Membership",
+        "href": "https://www.nike.com/membership"
+      },
+      {
+        "text": "Promotions & Discounts",
+        "href": "https://www.nike.com/promo-code"
+      },
+      {
+        "text": "Product Advice",
+        "href": "https://www.nike.com/product-advice"
+      },
+      {
+        "text": "Send Us Feedback",
+        "href": "#site-feedback"
+      },
+      {
+        "text": "Join Us",
+        "href": "https://www.nike.com/membership"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://www.nike.com/register"
+      },
+      {
+        "text": "",
+        "href": "https://www.nike.com"
+      }
+    ],
+    "buttons": [
+      "United States",
+      "T\u00fcrkiye",
+      "T\u00fcrk\u00e7e",
+      "Sport",
+      "More Sports",
+      "Cancel",
+      "Cancel",
+      "Ask NikeAI",
+      "United States",
+      "college hoops tournament",
+      "shorts",
+      "air max",
+      "jordan",
+      "nike mind",
+      "jordan 4",
+      "soccer cleats",
+      "basketball shoes"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search"
+          }
+        ]
+      }
+    ],
+    "links_count": 452,
+    "images_count": 13,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+      },
+      {
+        "level": 2,
+        "text": "Africa"
+      },
+      {
+        "level": 2,
+        "text": "Americas"
+      },
+      {
+        "level": 2,
+        "text": "Asia Pacific"
+      },
+      {
+        "level": 2,
+        "text": "Europe"
+      },
+      {
+        "level": 2,
+        "text": "Middle East"
+      },
+      {
+        "level": 3,
+        "text": "$28.97"
+      },
+      {
+        "level": 3,
+        "text": "$38.00"
+      },
+      {
+        "level": 3,
+        "text": "$31.97"
+      },
+      {
+        "level": 3,
+        "text": "$34.00"
+      },
+      {
+        "level": 3,
+        "text": "$89.97"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search"
+      }
+    ],
+    "footer_links": [
+      "Gift Cards",
+      "Corporate Sales",
+      "Find a Store",
+      "Membership",
+      "Nike Journal",
+      "Site Feedback",
+      "Get Help",
+      "Order Status",
+      "Shipping and Delivery",
+      "Returns",
+      "Order Cancellation",
+      "Payment Options",
+      "Gift Card Balance",
+      "Contact Us",
+      "About Nike",
+      "News",
+      "Careers",
+      "Investors",
+      "Purpose",
+      "Sustainability"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 75,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 92
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "N",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_unique_features": [
+      "NikeAI"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,224 @@
+metadata:
+  industry: ecommerce
+  industry_name: E-commerce
+  version: 1.0.0
+  generated_at: '2026-03-31T20:29:40.475410'
+  methodology: automated_scraping_with_ai_analysis
+  sites_analyzed: 20
+  sites_list:
+  - amazon
+  - ebay
+  - target
+  - nike
+  - flipkart
+  - shopify_dawn
+  - adidas
+  - ikea
+  - costco
+  - newegg
+  - overstock
+  - b&h_photo
+  - rei
+  - decathlon
+  - crate_&_barrel
+  - sephora
+  - home_depot
+  - zappos
+  - patagonia
+  - lego
+features:
+  critical:
+  - id: login_signup_visible
+    frequency: 2/2
+    frequency_percent: 100
+  - id: help_center_link
+    frequency: 1/1
+    frequency_percent: 100
+  - id: terms_of_service_link
+    frequency: 1/1
+    frequency_percent: 100
+  - id: footer_with_links
+    frequency: 1/1
+    frequency_percent: 100
+  required:
+  - id: product_images
+    frequency: 14/20
+    frequency_percent: 70
+  - id: language_attribute
+    frequency: 14/20
+    frequency_percent: 70
+  - id: responsive_design
+    frequency: 11/18
+    frequency_percent: 69
+  - id: product_search
+    frequency: 13/20
+    frequency_percent: 65
+  - id: alt_text_images
+    frequency: 13/20
+    frequency_percent: 65
+  recommended:
+  - id: help_center
+    frequency: 11/19
+    frequency_percent: 58
+  - id: category_browsing
+    frequency: 10/20
+    frequency_percent: 53
+  - id: hero_section
+    frequency: 9/18
+    frequency_percent: 50
+  - id: wishlist_option
+    frequency: 1/2
+    frequency_percent: 50
+  - id: push_notification_prompt
+    frequency: 1/2
+    frequency_percent: 50
+  - id: login_signup
+    frequency: 7/18
+    frequency_percent: 47
+  - id: footer_links
+    frequency: 8/17
+    frequency_percent: 47
+  - id: shopping_cart
+    frequency: 6/20
+    frequency_percent: 40
+  - id: return_info
+    frequency: 4/11
+    frequency_percent: 40
+  nice_to_have:
+  - id: contact_form
+    frequency: 7/20
+    frequency_percent: 37
+  - id: privacy_policy
+    frequency: 6/19
+    frequency_percent: 35
+  - id: sticky_header
+    frequency: 4/15
+    frequency_percent: 29
+  - id: add_to_cart
+    frequency: 3/18
+    frequency_percent: 25
+  - id: order_history
+    frequency: 4/20
+    frequency_percent: 24
+  - id: terms_of_service
+    frequency: 4/19
+    frequency_percent: 24
+  - id: wishlist
+    frequency: 3/18
+    frequency_percent: 20
+  - id: order_tracking
+    frequency: 3/20
+    frequency_percent: 17
+  innovative:
+  - id: trending_items
+    frequency: 2/20
+    frequency_percent: 11
+  - id: cookie_consent
+    frequency: 2/18
+    frequency_percent: 11
+  - id: search_autocomplete
+    frequency: 1/20
+    frequency_percent: 8
+  - id: size_variant_selector
+    frequency: 1/16
+    frequency_percent: 7
+  - id: stock_availability
+    frequency: 1/20
+    frequency_percent: 6
+  - id: shipping_info
+    frequency: 1/20
+    frequency_percent: 6
+  - id: recently_viewed
+    frequency: 1/20
+    frequency_percent: 6
+  - id: loading_states
+    frequency: 1/18
+    frequency_percent: 6
+  - id: live_chat
+    frequency: 1/20
+    frequency_percent: 5
+  - id: search_filters
+    frequency: 0/20
+    frequency_percent: 0
+  - id: social_login
+    frequency: 0/20
+    frequency_percent: 0
+  - id: guest_checkout
+    frequency: 0/20
+    frequency_percent: 0
+  - id: product_descriptions
+    frequency: 0/20
+    frequency_percent: 0
+  - id: price_display
+    frequency: 0/20
+    frequency_percent: 0
+  - id: related_items
+    frequency: 0/20
+    frequency_percent: 0
+  - id: promo_code
+    frequency: 0/18
+    frequency_percent: 0
+  - id: multiple_payment_methods
+    frequency: 0/20
+    frequency_percent: 0
+  - id: estimated_delivery
+    frequency: 0/19
+    frequency_percent: 0
+  - id: star_ratings
+    frequency: 0/20
+    frequency_percent: 0
+  - id: customer_reviews
+    frequency: 0/2
+    frequency_percent: 0
+  - id: review_photos
+    frequency: 0/20
+    frequency_percent: 0
+  - id: personalized_recommendations
+    frequency: 0/20
+    frequency_percent: 0
+  - id: push_notifications
+    frequency: 0/18
+    frequency_percent: 0
+  - id: return_refund_info
+    frequency: 0/9
+    frequency_percent: 0
+  - id: phone_number
+    frequency: 0/20
+    frequency_percent: 0
+  - id: written_reviews
+    frequency: 0/18
+    frequency_percent: 0
+  - id: breadcrumb_navigation
+    frequency: 0/18
+    frequency_percent: 0
+  - id: size_selector
+    frequency: 0/4
+    frequency_percent: 0
+  - id: add_to_cart_button
+    frequency: 0/2
+    frequency_percent: 0
+  - id: promo_code_field
+    frequency: 0/2
+    frequency_percent: 0
+  - id: estimated_delivery_date
+    frequency: 0/1
+    frequency_percent: 0
+  - id: privacy_policy_link
+    frequency: 0/1
+    frequency_percent: 0
+  - id: cookie_consent_banner
+    frequency: 0/1
+    frequency_percent: 0
+  - id: cookie_banner
+    frequency: 0/1
+    frequency_percent: 0
+  - id: sticky_navigation
+    frequency: 0/3
+    frequency_percent: 0
+performance_targets:
+  lighthouse_performance:
+    median: 0
+    min_acceptable: 0
+  lighthouse_accessibility:
+    median: 0
+    min_acceptable: 0

@@ -1,0 +1,264 @@
+{
+  "name": "ishopping",
+  "url": "https://www.ishopping.pk",
+  "scanned_at": "2026-03-31T23:32:59.495575",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/ishopping_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/ishopping_mobile.png"
+  },
+  "structure": {
+    "title": "Online Shopping in Pakistan with Cash on delivery all over Pakistan | Buy Online Products - iShopping.pk",
+    "url_final": "https://www.ishopping.pk/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.ishopping.pk/"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://www.ishopping.pk/customer/account/"
+      },
+      {
+        "text": "Cart",
+        "href": "https://www.ishopping.pk/checkout/cart/"
+      },
+      {
+        "text": "Menu",
+        "href": "#store.menu"
+      },
+      {
+        "text": "Mobiles & Tablets",
+        "href": "/mobiles"
+      },
+      {
+        "text": "IPHONE 17 SERIES",
+        "href": "/mobiles/iphone-17-series"
+      },
+      {
+        "text": "ANDROID SMARTPHONES",
+        "href": "/mobiles/android-smartphones"
+      },
+      {
+        "text": "Samsung Phones",
+        "href": "/mobiles/android-smartphones/samsung-phones"
+      },
+      {
+        "text": "Asus Phones",
+        "href": "/mobiles/android-smartphones/asus-mobiles"
+      },
+      {
+        "text": "Honor Phones",
+        "href": "/mobiles/android-smartphones/honor"
+      },
+      {
+        "text": "Motorola Phones",
+        "href": "/mobiles/android-smartphones/motorola-mobile-phones-prices-in-pakistan"
+      },
+      {
+        "text": "Villaon Phones",
+        "href": "/mobiles/android-smartphones/villaon-mobile-phones-prices-in-pakistan"
+      },
+      {
+        "text": "Nokia Phones",
+        "href": "/mobiles/android-smartphones/nokia-phones"
+      },
+      {
+        "text": "Infinix Phones",
+        "href": "/mobiles/android-smartphones/infinix-phones"
+      },
+      {
+        "text": "OnePlus Phones",
+        "href": "/mobiles/android-smartphones/oneplus-phones"
+      },
+      {
+        "text": "Oppo Phones",
+        "href": "/mobiles/android-smartphones/oppo-phones"
+      },
+      {
+        "text": "VIEW ALL",
+        "href": "/mobiles"
+      },
+      {
+        "text": "APPLE IPHONE",
+        "href": "/mobiles/apple-iphone"
+      },
+      {
+        "text": "FEATURE PHONES",
+        "href": "/mobiles/feature-phones"
+      },
+      {
+        "text": "Dcode Phones",
+        "href": "/mobiles/feature-phones/dcode-phones"
+      }
+    ],
+    "buttons": [
+      "\u276e",
+      "\u276f",
+      "\u2039",
+      "\u203a",
+      "View More",
+      "\u2190",
+      "Sign In",
+      "EXPLORE MORE",
+      "EXPLORE MORE",
+      "EXPLORE MORE",
+      "EXPLORE MORE",
+      "EXPLORE MORE",
+      "EXPLORE MORE",
+      "EXPLORE ALL PRODUCTS",
+      "EXPLORE ALL PRODUCTS",
+      "EXPLORE MORE",
+      "No, Keep it",
+      "Yes, Cancel",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart",
+      "Add to Cart"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ishopping.pk/catalogsearch/result/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search entire store here..."
+          }
+        ]
+      }
+    ],
+    "links_count": 992,
+    "images_count": 443,
+    "images_with_alt": 370,
+    "headings": [
+      {
+        "level": 1,
+        "text": "ishopping"
+      },
+      {
+        "level": 2,
+        "text": "Ramadan SaleView All"
+      },
+      {
+        "level": 2,
+        "text": "Cambridge Infrared Cooker (IC-1044) With Free 30cm Casserole Pot"
+      },
+      {
+        "level": 2,
+        "text": "Vizo AirPods Max With Free Back Cover - (VR-7050)"
+      },
+      {
+        "level": 2,
+        "text": "Muzamil Store Anti Sleep Dozing Device Nap"
+      },
+      {
+        "level": 2,
+        "text": "Muzamil Store Wooden Roller Traditional Foot Massager Without Electricity"
+      },
+      {
+        "level": 3,
+        "text": "Featured"
+      },
+      {
+        "level": 3,
+        "text": "On Sale\u23f1 00h:26m:49sView More"
+      },
+      {
+        "level": 3,
+        "text": "You May Also Like"
+      },
+      {
+        "level": 3,
+        "text": "LET ISHOPPING.PK TAKE YOUR ONLINE SHOPPING EXPERIENCE IN PAKISTAN TO A NEW LEVEL"
+      },
+      {
+        "level": 3,
+        "text": "ENJOY SMOOTHLY ONLINE SHOPPING"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search entire store here..."
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": false,
+    "meta_description": "Online shopping in Pakistan is being delighted by iShopping.pk for original brands as there is no other reliable Online Shopping Store for genuine products. We have a huge range of products for you to",
+    "scripts_count": 201
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Cash on delivery available all over Pakistan"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "name": "amazon_australia",
+  "url": "https://www.amazon.com.au",
+  "scanned_at": "2026-04-01T00:15:05.037635",
+  "screenshots": {
+    "desktop": "data/ecommerce_australia/2026-04-01/screenshots/amazon_australia_desktop.png",
+    "mobile": "data/ecommerce_australia/2026-04-01/screenshots/amazon_australia_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more",
+    "url_final": "https://www.amazon.com.au/",
+    "nav_items": [
+      {
+        "text": "Main content",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "SearchOpt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "CartShift+Opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "HomeShift+Opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "OrdersShift+Opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Show/Hide shortcutsShift+Opt+Z",
+      "Play",
+      "Resetrestore all settings to the default values",
+      "Done",
+      "Close Modal Dialog",
+      "Back to top",
+      "Sign in",
+      "Australia"
+    ],
+    "forms": [
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Search Amazon.com.au"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 175,
+    "images_count": 79,
+    "images_with_alt": 74,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Skip to"
+      },
+      {
+        "level": 2,
+        "text": "Keyboard shortcuts"
+      },
+      {
+        "level": 2,
+        "text": "Select Kitchen items under $25"
+      },
+      {
+        "level": 2,
+        "text": "Select Toys under $25"
+      },
+      {
+        "level": 2,
+        "text": "Select Clothing under $25"
+      },
+      {
+        "level": 3,
+        "text": "Deals on Electronics"
+      },
+      {
+        "level": 3,
+        "text": "Deals on Beauty"
+      },
+      {
+        "level": 3,
+        "text": "Deals on Toys"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Search Amazon.com.au"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ue_back",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 41,
+    "has_og_tags": false,
+    "meta_description": "Shop online for Electronics, Computers, Clothing, Shoes, Toys, Books, DVDs, Sporting Goods, Beauty & more.",
+    "scripts_count": 99
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product categories",
+      "keyboard shortcuts for navigation",
+      "localized content for Australia"
+    ],
+    "confidence": "high"
+  }
+}

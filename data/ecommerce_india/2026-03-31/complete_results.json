@@ -1,0 +1,4755 @@
+[
+  {
+    "name": "flipkart",
+    "url": "https://www.flipkart.com",
+    "scanned_at": "2026-03-31T23:42:19.153694",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/flipkart_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/flipkart_mobile.png"
+    },
+    "structure": {
+      "title": "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!",
+      "url_final": "https://www.flipkart.com/",
+      "nav_items": [
+        {
+          "text": "Search Icon",
+          "href": "/searchsuggestion"
+        },
+        {
+          "text": "",
+          "href": "#"
+        },
+        {
+          "text": "Login",
+          "href": "/account/login?ret=/"
+        },
+        {
+          "text": "New customer?Sign Up",
+          "href": "/account/login?signup=true&ret=/"
+        },
+        {
+          "text": "My Profile",
+          "href": "/account/?rd=0&link=home_account"
+        },
+        {
+          "text": "Flipkart Plus Zone",
+          "href": "/plus"
+        },
+        {
+          "text": "Orders",
+          "href": "/account/orders?link=home_orders"
+        },
+        {
+          "text": "Wishlist",
+          "href": "/wishlist?link=home_wishlist"
+        },
+        {
+          "text": "Become a Seller",
+          "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+        },
+        {
+          "text": "Rewards",
+          "href": "/account/rewards?link=home_rewards"
+        },
+        {
+          "text": "Gift Cards",
+          "href": "/the-gift-card-store?link=home_giftcard"
+        },
+        {
+          "text": "Notification Preferences",
+          "href": "/communication-preferences/push?t=all"
+        },
+        {
+          "text": "24x7 Customer Care",
+          "href": "/helpcentre"
+        },
+        {
+          "text": "Advertise",
+          "href": "https://advertising.flipkart.com/?otracker=ch_vn_advertise_header"
+        },
+        {
+          "text": "Download App",
+          "href": "/mobile-apps?otracker=ch_vn_mobile_apps"
+        },
+        {
+          "text": "Login",
+          "href": "/account/login?ret=/"
+        },
+        {
+          "text": "More",
+          "href": "#"
+        },
+        {
+          "text": "Become a Seller",
+          "href": "https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect"
+        },
+        {
+          "text": "Notification Settings",
+          "href": "/communication-preferences/push?t=all"
+        },
+        {
+          "text": "24x7 Customer Care",
+          "href": "/helpcentre"
+        }
+      ],
+      "buttons": [
+        "Search Icon",
+        "Search Icon",
+        "Request OTP"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Search for Products, Brands and More"
+            },
+            {
+              "type": "hidden",
+              "name": "otracker",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "otracker1",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "marketplace",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "as-show",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "as",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 413,
+      "images_count": 94,
+      "images_with_alt": 80,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Flipkart: India's Ultimate One-Stop Online Shopping Destination"
+        },
+        {
+          "level": 2,
+          "text": "What Can You Buy from Flipkart?"
+        },
+        {
+          "level": 2,
+          "text": "Flipkart Loyalty and Rewards Program"
+        },
+        {
+          "level": 2,
+          "text": "Payment and Affordability: Shop Smart, Pay Smarter"
+        },
+        {
+          "level": 2,
+          "text": "Flipkart Flights: Book Your Next Getaway Effortlessly"
+        },
+        {
+          "level": 2,
+          "text": "Flipkart Minutes: Groceries and Gadgets in a Flash"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Search for Products, Brands and More"
+        },
+        {
+          "type": "hidden",
+          "name": "otracker",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "otracker1",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "marketplace",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "as-show",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "as",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Search for Products, Brands and More"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Brand Directory",
+        "Apple iPhone 17e",
+        "REDMI 15A",
+        "Samsung Galaxy A57",
+        "POCO C85x",
+        "POCO X8 Pro",
+        "Lumio Projectors",
+        "Bags for Men",
+        "Laptop Store",
+        "Mixer Juicer Grinder",
+        "Men's Shoes",
+        "Adidas Men's Shoes",
+        "Boat Earbuds",
+        "Body Lotion",
+        "Campus Shoes",
+        "Earphones",
+        "Red Tape Shoes",
+        "Men's Slippers",
+        "Helmets",
+        "Nike Shoes"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 33,
+      "has_og_tags": true,
+      "meta_description": "",
+      "scripts_count": 20
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Flipkart Plus Zone",
+        "Flipkart Flights",
+        "Flipkart Minutes"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "amazon_india",
+    "url": "https://www.amazon.in",
+    "scanned_at": "2026-03-31T23:42:39.608775",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/amazon_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/amazon_india_mobile.png"
+    },
+    "structure": {
+      "title": "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in",
+      "url_final": "https://www.amazon.in/",
+      "nav_items": [
+        {
+          "text": "Main content",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Searchopt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Cartshift+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Homeshift+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Ordersshift+opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Show/Hide shortcutsshift+opt+Z",
+        "Play",
+        "Unmute",
+        "Seek to live, currently behind liveLIVE",
+        "Chapters",
+        "Descriptions",
+        "Audio Track",
+        "Resetrestore all settings to the default values",
+        "Done",
+        "Close Modal Dialog",
+        "Watch now",
+        "Back to top",
+        "Sign in",
+        "India"
+      ],
+      "forms": [
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Search Amazon.in"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 321,
+      "images_count": 191,
+      "images_with_alt": 187,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Skip to"
+        },
+        {
+          "level": 2,
+          "text": "Keyboard shortcuts"
+        },
+        {
+          "level": 2,
+          "text": "Appliances for your home | Up to 55% off"
+        },
+        {
+          "level": 2,
+          "text": "Revamp your home in style"
+        },
+        {
+          "level": 2,
+          "text": "Starting \u20b949 | Deals on home essentials"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Search Amazon.in"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "ue_back",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 153,
+      "has_og_tags": false,
+      "meta_description": "Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery Available.",
+      "scripts_count": 143
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "Amazon Prime benefits",
+        "voice search with Alexa"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "myntra",
+    "url": "https://www.myntra.com",
+    "scanned_at": "2026-03-31T23:43:00.502305",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.myntra.com/\nCall log:\n  - navigating to \"https://www.myntra.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.myntra.com/\nCall log:\n  - navigating to \"https://www.myntra.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "personalized recommendations",
+        "skeleton loading"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "meesho",
+    "url": "https://www.meesho.com",
+    "scanned_at": "2026-03-31T23:43:08.129176",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/meesho_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/meesho_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.meesho.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "affordable pricing",
+        "wide range of products",
+        "focus on small businesses"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ajio",
+    "url": "https://www.ajio.com",
+    "scanned_at": "2026-03-31T23:43:27.708687",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/ajio_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/ajio_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.ajio.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive fashion catalog",
+        "exclusive brand collaborations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nykaa",
+    "url": "https://www.nykaa.com",
+    "scanned_at": "2026-03-31T23:43:46.683252",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/nykaa_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/nykaa_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.nykaa.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive beauty product range",
+        "virtual try-on feature",
+        "beauty advice and tutorials"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "tata_cliq",
+    "url": "https://www.tatacliq.com",
+    "scanned_at": "2026-03-31T23:44:05.925464",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/tata_cliq_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/tata_cliq_mobile.png"
+    },
+    "structure": {
+      "title": "Attention Required! | Cloudflare",
+      "url_final": "https://www.tatacliq.com/",
+      "nav_items": [],
+      "buttons": [
+        "Click to reveal"
+      ],
+      "forms": [],
+      "links_count": 1,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Sorry, you have been blocked"
+        },
+        {
+          "level": 2,
+          "text": "You are unable to accesstatacliq.com"
+        },
+        {
+          "level": 2,
+          "text": "Why have I been blocked?"
+        },
+        {
+          "level": 2,
+          "text": "What can I do to resolve this?"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Tata brand integration",
+        "Curated collections"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "snapdeal",
+    "url": "https://www.snapdeal.com",
+    "scanned_at": "2026-03-31T23:44:25.381116",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/snapdeal_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/snapdeal_mobile.png"
+    },
+    "structure": {
+      "title": "ERROR: The request could not be satisfied",
+      "url_final": "https://www.snapdeal.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "403 ERROR"
+        },
+        {
+          "level": 2,
+          "text": "The request could not be satisfied."
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product categories",
+        "localized offers"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "jiomart",
+    "url": "https://www.jiomart.com",
+    "scanned_at": "2026-03-31T23:44:45.858712",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/jiomart_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/jiomart_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.jiomart.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "integration with Jio services",
+        "localized offers and discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "bigbasket",
+    "url": "https://www.bigbasket.com",
+    "scanned_at": "2026-03-31T23:45:05.709227",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/bigbasket_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/bigbasket_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.bigbasket.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive grocery selection",
+        "subscription-based delivery service"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "croma",
+    "url": "https://www.croma.com",
+    "scanned_at": "2026-03-31T23:45:24.468477",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/croma_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/croma_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.croma.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive electronics catalog",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "pepperfry",
+    "url": "https://www.pepperfry.com",
+    "scanned_at": "2026-03-31T23:45:43.512525",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/pepperfry_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/pepperfry_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.pepperfry.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "AR/VR furniture visualization",
+        "Interior design consultation services"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "urban_ladder",
+    "url": "https://www.urbanladder.com",
+    "scanned_at": "2026-03-31T23:46:02.406863",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/urban_ladder_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/urban_ladder_mobile.png"
+    },
+    "structure": {
+      "title": "Buy Furniture Online: Upto 70% off in this Festive Season",
+      "url_final": "https://www.urbanladder.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 254,
+      "images_count": 248,
+      "images_with_alt": 212,
+      "headings": [
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Shop by Category"
+        },
+        {
+          "level": 2,
+          "text": "Shop by Categories"
+        },
+        {
+          "level": 2,
+          "text": "New Collection"
+        },
+        {
+          "level": 3,
+          "text": "Urban Ladder"
+        },
+        {
+          "level": 3,
+          "text": "Casey Swivel Dining Chair In Olive And Tan Colour Set Of 2"
+        },
+        {
+          "level": 3,
+          "text": "Urban Ladder"
+        },
+        {
+          "level": 3,
+          "text": "Caribu Glass 4 To 6 Seater Extendable Dining Table In White High Gloss Finish"
+        },
+        {
+          "level": 3,
+          "text": "Urban Ladder"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 35,
+      "has_og_tags": false,
+      "meta_description": "Buy Wooden Furniture Online at India's biggest Online Furniture Store. Shop from 100000+ Home & Office Furniture Options. 0% EMI, 50+ Stores Nationwide",
+      "scripts_count": 45
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "U",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Festive season discounts up to 70%",
+        "Extensive range of furniture categories"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "lenskart",
+    "url": "https://www.lenskart.com",
+    "scanned_at": "2026-03-31T23:46:25.536141",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/lenskart_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/lenskart_mobile.png"
+    },
+    "structure": {
+      "title": "Lenskart.com\u00ae - Buy Eyeglasses, Sunglasses & Contact Lens",
+      "url_final": "https://www.lenskart.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "EYEGLASSES",
+          "href": "/eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/marketing/vc-air-bestseller-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/marketing/bestsellers-premium-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/marketing/vc-air-bestseller-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/collections/as-seen-on-shark-tank.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/offer/eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/gender/all-women-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/gender/womens-eyeglasses/premium.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/women-classic-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/collections/as-seen-on-shark-tank.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/offer/eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/gender/all-women-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/promotions/all-kids-eyeglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/promotions/kids-eyeglasses-5-to-8-years.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/promotions/kids-eyeglasses-8-to-12-years.html"
+        },
+        {
+          "text": "",
+          "href": "/eyeglasses/shop-by/gender-age/Kids-12-to-17-Years-old-eyeglasses.html"
+        },
+        {
+          "text": "SUNGLASSES",
+          "href": "/sunglasses.html"
+        },
+        {
+          "text": "",
+          "href": "/sunglasses.html"
+        }
+      ],
+      "buttons": [
+        "Cookies Settings",
+        "Accept All Cookies",
+        "Allow All",
+        "Back Button",
+        "Filter Icon",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Reject All",
+        "Confirm My Choices",
+        "Locate a Store",
+        "Book appointment"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 169,
+      "images_count": 183,
+      "images_with_alt": 162,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Lenskart Home Page"
+        },
+        {
+          "level": 2,
+          "text": "Buy Eyewear from Lenskart"
+        },
+        {
+          "level": 2,
+          "text": "Services"
+        },
+        {
+          "level": 2,
+          "text": "About Us"
+        },
+        {
+          "level": 2,
+          "text": "Help"
+        },
+        {
+          "level": 2,
+          "text": "Privacy Preference Center"
+        },
+        {
+          "level": 3,
+          "text": "Find your nearest Lenskart Store - over 2500+ locations"
+        },
+        {
+          "level": 3,
+          "text": "Get your eyes checked at home"
+        },
+        {
+          "level": 3,
+          "text": "Top Categories"
+        },
+        {
+          "level": 3,
+          "text": "Get the perfect shape - Eyeglasses"
+        },
+        {
+          "level": 3,
+          "text": "#Trending at Lenskart"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Store Locator",
+        "Buying Guide",
+        "Frame Size",
+        "We Are Hiring",
+        "Refer And Earn",
+        "Lenskart Coupons",
+        "FAQ's",
+        "Grievance Redressal",
+        "Cardemi",
+        "T & C",
+        "Privacy",
+        "Disclaimer",
+        "Cookies Settings"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 112,
+      "has_og_tags": true,
+      "meta_description": "Shop online for Sunglasses, Eyeglasses, Contact Lenses and Frames for all.\u2713Free shipping \u2713COD \u271314 Days Return",
+      "scripts_count": 97
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "U",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "U",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Find your nearest Lenskart Store - over 2500+ locations",
+        "Get your eyes checked at home"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "bewakoof",
+    "url": "https://www.bewakoof.com",
+    "scanned_at": "2026-03-31T23:46:47.768227",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/bewakoof_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/bewakoof_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.bewakoof.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "quirky and trendy product designs",
+        "frequent collaborations with popular brands"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "decathlon_india",
+    "url": "https://www.decathlon.in",
+    "scanned_at": "2026-03-31T23:47:06.385949",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/decathlon_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/decathlon_india_mobile.png"
+    },
+    "structure": {
+      "title": "Content Unavailable",
+      "url_final": "https://www.decathlon.in/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Oops!"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive sports equipment range",
+        "in-store pickup options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_india",
+    "url": "https://www.nike.com/in/",
+    "scanned_at": "2026-03-31T23:47:24.684193",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/nike_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/nike_india_mobile.png"
+    },
+    "structure": {
+      "title": "Nike",
+      "url_final": "https://www.nike.in/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 2,
+          "text": "We're sorry."
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "Nike",
+      "scripts_count": 3
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product personalization options",
+        "Nike Member exclusive benefits"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "handm_india",
+    "url": "https://www2.hm.com/en_in/",
+    "scanned_at": "2026-03-31T23:47:44.991203",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/handm_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/handm_india_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/en_in/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "sustainable fashion focus",
+        "conscious collection"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_india",
+    "url": "https://www.zara.com/in/",
+    "scanned_at": "2026-03-31T23:48:04.805202",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/zara_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/zara_india_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/in/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast fashion updates",
+        "sustainability initiatives"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_india",
+    "url": "https://www.samsung.com/in/",
+    "scanned_at": "2026-03-31T23:48:24.930314",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/samsung_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/samsung_india_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung India | Mobile | Tablets | TV | Home Appliances",
+      "url_final": "https://www.samsung.com/in/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/in/"
+        },
+        {
+          "text": "CartNumber of Products :0",
+          "href": "https://shop.samsung.com/in/cart"
+        },
+        {
+          "text": "Log-In",
+          "href": ""
+        },
+        {
+          "text": "Open My Menu",
+          "href": ""
+        },
+        {
+          "text": "ShopExplore Shop",
+          "href": "/in/offer/"
+        },
+        {
+          "text": "Shop",
+          "href": "/in/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNEW",
+          "href": "/in/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/in/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "/in/tablets/galaxy-tab-s11/buy/"
+        },
+        {
+          "text": "Galaxy Watch8",
+          "href": "/in/watches/galaxy-watch/galaxy-watch8-40mm-silver-bluetooth-sm-l320nzsains/buy/"
+        },
+        {
+          "text": "Galaxy Book6 SeriesNEW",
+          "href": "/in/computers/galaxy-book/galaxy-book6-series/buy/"
+        },
+        {
+          "text": "Neo QLED 8K TV",
+          "href": "/in/tvs/qled-tv/qn900f-65-inch-neo-qled-8k-mini-led-smart-tv-qa65qn900fuxxl/"
+        },
+        {
+          "text": "OLED",
+          "href": "/in/tvs/oled-tv/s95f-65-inch-oled-4k-smart-tv-qa65s95faulxl/"
+        },
+        {
+          "text": "The Frame",
+          "href": "/in/lifestyle-tvs/the-frame/ls03f-75-inch-art-store-black-qa75ls03fauxxl/"
+        },
+        {
+          "text": "Q-series Soundbar",
+          "href": "/in/audio-devices/soundbar/q990f-black-hw-q990f-xl/"
+        },
+        {
+          "text": "Odyssey OLED G9",
+          "href": "/in/monitors/gaming/odyssey-oled-g9-g93sd-49-inch-oled-dual-qhd-ls49dg930swxxl/"
+        },
+        {
+          "text": "Bespoke AI Refrigerator",
+          "href": "/in/refrigerators/french-door/rf9000-t-style-french-door-32inch-family-hub-810l-stainless-steel-rf71"
+        },
+        {
+          "text": "Bespoke AI Laundry",
+          "href": "/in/washers-and-dryers/washing-machines/ww8400d-front-loading-smartthings-ai-energy-made-a-xx-percen"
+        },
+        {
+          "text": "Bespoke AI WindFree AC",
+          "href": "/in/air-conditioners/split-ac/bespoke-ai-windfree-inverter-split-ac-6-30-kw-3-star-2026-ar60h24d13wn"
+        },
+        {
+          "text": "Microwaves",
+          "href": "/in/microwave-ovens/convection/mw7300b-mc32b7382qc-tl/"
+        }
+      ],
+      "buttons": [
+        "Read More",
+        "close",
+        "India",
+        "India / English",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Continue",
+        "Close",
+        "SearchSearch",
+        "Navigation",
+        "Back",
+        "Search",
+        "Shop",
+        "Mobile",
+        "TV & AV",
+        "Appliances",
+        "Computers & Monitors",
+        "Wearables",
+        "Accessories",
+        "Support",
+        "Product Help",
+        "Contact",
+        "Repairs & Warranty",
+        "Additional Support",
+        "SearchSearch",
+        "Log-In/Sign-Up",
+        "Open My Menu",
+        "Close menu",
+        "OK",
+        "Layer Popup Close"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/Samsung_com_IN/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/Samsung_com_IN/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 322,
+      "images_count": 182,
+      "images_with_alt": 156,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 1,
+          "text": "2025 AI TVs"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Recommended for you"
+        },
+        {
+          "level": 2,
+          "text": "Explore the Stories"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "open",
+        "Shop Home",
+        "Buy Direct Get More",
+        "SmartThings",
+        "Live Shop",
+        "Samsung Care+",
+        "Discover AI",
+        "Back to school",
+        "Samsung BKC",
+        "Samsung Experience Store",
+        "For Corporate Employees",
+        "Explore",
+        "open",
+        "Galaxy Smartphone",
+        "Galaxy Tab",
+        "Galaxy Book (Laptops)",
+        "Galaxy Watch",
+        "Galaxy Buds",
+        "TVs",
+        "Projectors"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 193,
+      "has_og_tags": true,
+      "meta_description": "Discover the latest smartphones, tablets, wearables, TVs & home appliances, a wide range of electronics & appliances at Samsung India.",
+      "scripts_count": 113
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Integration with Samsung's ecosystem",
+        "AI-powered product recommendations"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "apple_india",
+    "url": "https://www.apple.com/in/shop",
+    "scanned_at": "2026-03-31T23:48:44.966154",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/apple_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/apple_india_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store Online - Apple (IN)",
+      "url_final": "https://www.apple.com/in/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/in/"
+        },
+        {
+          "text": "Store",
+          "href": "/in/store"
+        },
+        {
+          "text": "Shop the Latest",
+          "href": "https://www.apple.com/in/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/in/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/in/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/in/shop/buy-iphone"
+        },
+        {
+          "text": "Apple Watch",
+          "href": "https://www.apple.com/in/shop/buy-watch"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/in/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Accessories",
+          "href": "https://www.apple.com/in/shop/accessories/all"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.apple.com/in/retail/"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://secure.store.apple.com/in/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In",
+          "href": "https://www.apple.com/in/shop/trade-in"
+        },
+        {
+          "text": "Ways to Buy",
+          "href": "https://www.apple.com/in/shop/goto/ways_to_buy"
+        },
+        {
+          "text": "Personal Setup",
+          "href": "https://www.apple.com/in/shop/goto/personal_setup"
+        },
+        {
+          "text": "Education",
+          "href": "https://www.apple.com/in/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Business",
+          "href": "https://www.apple.com/in/retail/business/"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/in/mac/"
+        },
+        {
+          "text": "Explore All Mac",
+          "href": "https://www.apple.com/in/mac/"
+        },
+        {
+          "text": "MacBook Neo",
+          "href": "https://www.apple.com/in/macbook-neo/"
+        },
+        {
+          "text": "MacBook Air",
+          "href": "https://www.apple.com/in/macbook-air/"
+        }
+      ],
+      "buttons": [
+        "Previous - Product",
+        "Next - Product",
+        "Previous -",
+        "Next -",
+        "Previous - The Apple Store difference.",
+        "Next - The Apple Store difference.",
+        "Play",
+        "Previous - Help is here.",
+        "Next - Help is here.",
+        "Previous - Accessories.",
+        "Next - Accessories.",
+        "Previous - Loud and clear.",
+        "Next - Loud and clear.",
+        "Previous - Nike x Beats.",
+        "Next - Nike x Beats."
+      ],
+      "forms": [
+        {
+          "action": "/in/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 370,
+      "images_count": 92,
+      "images_with_alt": 75,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Store"
+        },
+        {
+          "level": 2,
+          "text": "Shop"
+        },
+        {
+          "level": 2,
+          "text": "Quick Links"
+        },
+        {
+          "level": 2,
+          "text": "Shop Special Stores"
+        },
+        {
+          "level": 2,
+          "text": "Explore Mac"
+        },
+        {
+          "level": 2,
+          "text": "Shop Mac"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Terms\u00a0apply(opens in new window)",
+        "Additional\u00a0terms\u00a0apply.(opens in new window)",
+        "offerterms(opens in new window)",
+        "support.apple.com/121115(opens in new window)",
+        "Terms\u00a0apply(opens in new window)",
+        "Additional\u00a0terms\u00a0apply.(opens in new window)",
+        "offerterms(opens in new window)",
+        "support.apple.com/121115(opens in new window)",
+        "Apple",
+        "Store",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "AirPods",
+        "TV & Home",
+        "AirTag",
+        "Accessories",
+        "Gift Cards",
+        "Wallet"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 62,
+      "has_og_tags": true,
+      "meta_description": "Shop the latest Apple products, accessories and offers. Get up to 6 months No Cost EMI and instant cashback with eligible cards.",
+      "scripts_count": 62
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 9,
+      "notable_unique_features": [
+        "Personal Setup",
+        "Apple Trade In",
+        "Education discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "firstcry",
+    "url": "https://www.firstcry.com",
+    "scanned_at": "2026-03-31T23:49:06.305216",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/firstcry_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/firstcry_mobile.png"
+    },
+    "structure": {
+      "title": "Baby Products Online India: Newborn Baby Products & Kids Online Shopping at FirstCry.com",
+      "url_final": "https://www.firstcry.com/",
+      "nav_items": [],
+      "buttons": [
+        "CHECK"
+      ],
+      "forms": [
+        {
+          "action": "#",
+          "method": "post",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 2571,
+      "images_count": 59,
+      "images_with_alt": 42,
+      "headings": [
+        {
+          "level": 1,
+          "text": "FirstCry India ~ Online Store for Baby & Kids Products"
+        },
+        {
+          "level": 2,
+          "text": "Select location"
+        },
+        {
+          "level": 2,
+          "text": "Stores & Preschools"
+        },
+        {
+          "level": 2,
+          "text": "Support"
+        },
+        {
+          "level": 2,
+          "text": "Track Order"
+        },
+        {
+          "level": 2,
+          "text": "FirstCry Parenting"
+        },
+        {
+          "level": 3,
+          "text": "PREMIUM BOUTIQUES"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "svscheme",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "tel",
+          "name": "",
+          "placeholder": "Enter Pincode"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Email Address"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "tel",
+          "name": "",
+          "placeholder": "Phone number"
+        },
+        {
+          "type": "tel",
+          "name": "",
+          "placeholder": "Enter Pincode"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Enter your child name"
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "button",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Order Number*"
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 44,
+      "has_og_tags": true,
+      "meta_description": "FirstCry.com - India's Largest Online Store for newborn, baby & kids products. Shop from the best range of Toys, Diapers, Clothes, Footwear, Strollers, Car Seats, Furniture, Gifts, Books and more from",
+      "scripts_count": 57
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "FirstCry Parenting section",
+        "Stores & Preschools locator"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "purplle",
+    "url": "https://www.purplle.com",
+    "scanned_at": "2026-03-31T23:49:27.893786",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/purplle_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/purplle_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.purplle.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive beauty product range",
+        "frequent sales and discounts",
+        "beauty assistant feature"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "boat_lifestyle",
+    "url": "https://www.boat-lifestyle.com",
+    "scanned_at": "2026-03-31T23:49:48.552488",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/boat_lifestyle_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/boat_lifestyle_mobile.png"
+    },
+    "structure": {
+      "title": "Buy Earbuds, Headphones, Earphones at India\u2019s No.1 Earwear Brand: boAt",
+      "url_final": "https://www.boat-lifestyle.com/",
+      "nav_items": [
+        {
+          "text": "Categories",
+          "href": "#"
+        },
+        {
+          "text": "True Wireless Earbuds",
+          "href": "/collections/true-wireless-earbuds"
+        },
+        {
+          "text": "Neckbands",
+          "href": "/collections/bluetooth-neckbands"
+        },
+        {
+          "text": "Smart Watches",
+          "href": "/collections/smart-watches"
+        },
+        {
+          "text": "Wireless Headphones",
+          "href": "/collections/bluetooth-wireless-headphones"
+        },
+        {
+          "text": "Wireless Speakers",
+          "href": "/collections/wireless-speakers"
+        },
+        {
+          "text": "Soundbars",
+          "href": "/collections/home-audio"
+        },
+        {
+          "text": "Party Speakers",
+          "href": "/collections/party-speakers"
+        },
+        {
+          "text": "Power Banks",
+          "href": "/collections/power-banks"
+        },
+        {
+          "text": "Dashcams",
+          "href": "/collections/dashcams"
+        },
+        {
+          "text": "Gaming Series",
+          "href": "/collections/immortal-gaming"
+        },
+        {
+          "text": "Chargers and Cables",
+          "href": "/collections/chargers-and-cables"
+        },
+        {
+          "text": "Wired Headphones",
+          "href": "/collections/wired-headphones"
+        },
+        {
+          "text": "Wired Earphones",
+          "href": "/collections/wired-earphones"
+        },
+        {
+          "text": "Superhero Collection",
+          "href": "/collections/boat-super-sale"
+        },
+        {
+          "text": "Limited Edition",
+          "href": "/collections/limited-edition"
+        },
+        {
+          "text": "boAt Personalisation",
+          "href": "https://www.boat-lifestyle.com/collections/product-personalization"
+        },
+        {
+          "text": "Corporate Orders",
+          "href": "/pages/bulk-orders"
+        },
+        {
+          "text": "Gifting Store",
+          "href": "https://www.boat-lifestyle.com/pages/gifting-with-boat"
+        },
+        {
+          "text": "More",
+          "href": "#"
+        }
+      ],
+      "buttons": [
+        "Navigation",
+        "Newsletter",
+        "Logout",
+        "+3",
+        "+3",
+        "+6",
+        "+6",
+        "+4",
+        "+4",
+        "+1",
+        "+1",
+        "+2",
+        "+2",
+        "+1",
+        "+1",
+        "All Deals",
+        "True Wireless Earbuds",
+        "Smartwatches",
+        "Speakers and Soundbars",
+        "Neckbands and Headphones",
+        "+2",
+        "+2",
+        "+3",
+        "+3",
+        "+1",
+        "+1",
+        "+2"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search..."
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search..."
+            }
+          ]
+        }
+      ],
+      "links_count": 445,
+      "images_count": 382,
+      "images_with_alt": 299,
+      "headings": [
+        {
+          "level": 1,
+          "text": "boAt Lifestyle"
+        },
+        {
+          "level": 2,
+          "text": "Subheading"
+        },
+        {
+          "level": 3,
+          "text": "Image with text block"
+        },
+        {
+          "level": 3,
+          "text": "SaleIs Live"
+        },
+        {
+          "level": 3,
+          "text": "ExploreNirvana"
+        },
+        {
+          "level": 3,
+          "text": "BigDeals"
+        },
+        {
+          "level": 3,
+          "text": "ShopbyCategories"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search..."
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search..."
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "fname",
+          "placeholder": "Name"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Email ID"
+        },
+        {
+          "type": "tel",
+          "name": "mobile",
+          "placeholder": "Mobile Number"
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Enter your email address"
+        }
+      ],
+      "footer_links": [
+        "wireless earphones",
+        "earbuds",
+        "headphones",
+        "smart watches",
+        "home audio",
+        "True Wireless Earbuds",
+        "Wireless Headphones",
+        "Wired Headphones",
+        "Wireless Speakers",
+        "Home Audio",
+        "Smart Watches",
+        "Dashcams",
+        "Mobile Accessories",
+        "TRebel",
+        "Misfit Trimmers",
+        "Refer & Earn",
+        "Track Your Order",
+        "Warranty & Support",
+        "Return Policy"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 203,
+      "has_og_tags": true,
+      "meta_description": "Check out the breathtaking collection of Earbuds, Headphones, Earphones & Wireless Speakers with contemporary designs and best features from India\u2019s No.1 Earwear Audio Brand - boAt Lifestyle.",
+      "scripts_count": 238
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Superhero Collection",
+        "Immortal Gaming Series"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "reliance_digital",
+    "url": "https://www.reliancedigital.in",
+    "scanned_at": "2026-03-31T23:50:10.807524",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/reliance_digital_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/reliance_digital_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.reliancedigital.in/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "integrated Reliance ecosystem"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_india",
+    "url": "https://www.temu.com/in",
+    "scanned_at": "2026-03-31T23:50:30.642929",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/temu_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/temu_india_mobile.png"
+    },
+    "structure": {
+      "title": "Temu | Giri\u015f yap",
+      "url_final": "https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2F&login_scene=2&refer_page_name=home&refer_page_id=10005_1774990231691_1dt1d1pcof&refer_page_sn=10005&_x_sessn_id=k89gpn0uc1",
+      "nav_items": [],
+      "buttons": [
+        "Devam et"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 30,
+      "images_count": 33,
+      "images_with_alt": 16,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Giri\u015f Yap / \u00dcye Ol"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Temu Hakk\u0131nda",
+        "Ortakl\u0131k ve Etkileyici Program\u0131: Kazanmak \u0130\u00e7in Kat",
+        "Bize Ula\u015f\u0131n",
+        "Bas\u0131n",
+        "Temu'nun A\u011fa\u00e7 Dikme Program\u0131",
+        "\u0130ade ve Para \u0130adesi Politikas\u0131",
+        "Fikri M\u00fclkiyet Politikas\u0131",
+        "Nakliyat bilgileri",
+        "\u00dcr\u00fcn g\u00fcvenli\u011fi uyar\u0131lar\u0131",
+        "\u015e\u00fcpheli faaliyetleri bildirin",
+        "Minimum Sipari\u015f De\u011feri",
+        "Destek merkezi ve SSS",
+        "G\u00fcvenlik merkezi",
+        "Temu sat\u0131n alma korumas\u0131",
+        "Temu ile \u0130\u015f Ortakl\u0131\u011f\u0131",
+        "Temu Uygulamas\u0131n\u0131 indir",
+        "\u015euradan indirinApp Store",
+        "\u015euradan al\u0131nGoogle Play"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 32,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 33
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Temu'nun A\u011fa\u00e7 Dikme Program\u0131",
+        "Ortakl\u0131k ve Etkileyici Program\u0131"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_india",
+    "url": "https://www.ikea.com/in/en/",
+    "scanned_at": "2026-03-31T23:50:51.942840",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/ikea_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/ikea_india_mobile.png"
+    },
+    "structure": {
+      "title": "IKEA India-Affordable home furniture, designs & ideas - IKEA",
+      "url_final": "https://www.ikea.com/in/en/",
+      "nav_items": [
+        {
+          "text": "Products",
+          "href": "https://www.ikea.com/in/en/cat/products-products/"
+        },
+        {
+          "text": "Rooms",
+          "href": "https://www.ikea.com/in/en/rooms/"
+        },
+        {
+          "text": "Offers",
+          "href": "https://www.ikea.com/in/en/offers/"
+        },
+        {
+          "text": "Inspiration",
+          "href": "https://www.ikea.com/in/en/ideas/"
+        },
+        {
+          "text": "Design/Support",
+          "href": "https://www.ikea.com/in/en/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Clear the search input field",
+        "Search IKEA products using a photo",
+        "Search",
+        "Pause video",
+        "IKEA Family offers",
+        "Our lowest price",
+        "Last chance",
+        "Review: 4.3 out of 5 stars. Total reviews:(47)",
+        "Review: 4.4 out of 5 stars. Total reviews:(7872)",
+        "Review: 4.8 out of 5 stars. Total reviews:(213)",
+        "Review: 4.7 out of 5 stars. Total reviews:(457)"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/in/en/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 188,
+      "images_count": 97,
+      "images_with_alt": 62,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to IKEA India"
+        },
+        {
+          "level": 2,
+          "text": "Explore more categories on offer"
+        },
+        {
+          "level": 2,
+          "text": "What's new?"
+        },
+        {
+          "level": 2,
+          "text": "What\u2019s hot & trending?"
+        },
+        {
+          "level": 2,
+          "text": "Today's best deals"
+        },
+        {
+          "level": 2,
+          "text": "Ideas for your home"
+        },
+        {
+          "level": 3,
+          "text": "STOCKHOLM 2025Sheer curtain, 1 piece, off-white/with heading tape, 300x250 cm (1"
+        },
+        {
+          "level": 3,
+          "text": "DVALAFitted sheet, blue, 180x200 cm (71x79 \")"
+        },
+        {
+          "level": 3,
+          "text": "ALVINE SPETSNet curtains, 1 pair, off-white/with rod pocket, 145x250 cm (57x98 \""
+        },
+        {
+          "level": 3,
+          "text": "ONSEVIGRug, low pile, multicolour, 160x235 cm (5 ' 3 \"x7 ' 9 \")"
+        },
+        {
+          "level": 3,
+          "text": "R\u00d6DFIBBLAFlat sheet and 2 pillowcase, white/green, 240x260x50x80 cm (94x102x20x3"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-10615418-28ec17-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-10615418-28ec17-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-10615418-28ec17-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70618541-28ec17-P0-3",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70618541-28ec17-P0-3",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "See more",
+        "Join the club",
+        "See more",
+        "Join now",
+        "Log in",
+        "Join IKEA Family",
+        "Member offers",
+        "Workshops & Events",
+        "Delivery Service",
+        "Click & collect",
+        "Personal shopper",
+        "Online planning tool",
+        "Assembly Service",
+        "Measuring Service",
+        "Kitchen Planning",
+        "Installation Service",
+        "Track & manage your order",
+        "Customer Service",
+        "Recycle Program",
+        "How to shop"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 55,
+      "has_og_tags": true,
+      "meta_description": "We have lowered our prices ! Find affordable home furnishings solutions, all in one store. Shop quality home furniture, decor, and furniture accessories. We offer a wide range of sofas, beds, mattress",
+      "scripts_count": 79
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "U",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Search IKEA products using a photo",
+        "IKEA Family offers"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "blinkit",
+    "url": "https://blinkit.com",
+    "scanned_at": "2026-03-31T23:51:13.656884",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/blinkit_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/blinkit_mobile.png"
+    },
+    "structure": {
+      "title": "30,000+ products delivered to your doorstep | Blinkit",
+      "url_final": "https://blinkit.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "!Search \"milk\"Search \"bread\"Search \"sugar\"Search \"",
+          "href": "/s/"
+        }
+      ],
+      "buttons": [
+        "Detect my location",
+        "!Search \"milk\"Search \"bread\"Search \"sugar\"Search \""
+      ],
+      "forms": [],
+      "links_count": 50,
+      "images_count": 17,
+      "images_with_alt": 15,
+      "headings": [],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "select-locality",
+          "placeholder": "search delivery location"
+        }
+      ],
+      "footer_links": [
+        "Blog",
+        "Privacy",
+        "Terms",
+        "FAQs",
+        "Security",
+        "Contact",
+        "Partner",
+        "Franchise",
+        "Seller",
+        "Warehouse",
+        "Deliver",
+        "Resources",
+        "Recipes",
+        "Bistro",
+        "District",
+        "Blinkit Ambulance",
+        "see all",
+        "Vegetables & Fruits",
+        "Dairy & Breakfast",
+        "Munchies"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "Shop online for groceries and get your order delivered to your doorstep. Enjoy delivery of 30,000+ products with Blinkit",
+      "scripts_count": 28
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Quick delivery service",
+        "Wide range of grocery products",
+        "Location-based service detection"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zepto",
+    "url": "https://www.zeptonow.com",
+    "scanned_at": "2026-03-31T23:51:33.913314",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/zepto_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/zepto_mobile.png"
+    },
+    "structure": {
+      "title": "Welcome to Zepto, India's Fastest Online Grocery Delivery App! Get all your groceries delivered to you in minutes. | https://www.zepto.com",
+      "url_final": "https://www.zepto.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Search for\"kurkure\"\"apple juice\"\"cheese slices\"\"ch",
+          "href": "/search"
+        }
+      ],
+      "buttons": [
+        "Select Location",
+        "login",
+        "Cart",
+        "All",
+        "Cafe",
+        "Home",
+        "Toys",
+        "Fresh",
+        "Electronics",
+        "Mobiles",
+        "Beauty",
+        "Fashion",
+        "See All",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "ADD",
+        "See All",
+        "ADD",
+        "ADD",
+        "ADD"
+      ],
+      "forms": [],
+      "links_count": 185,
+      "images_count": 123,
+      "images_with_alt": 98,
+      "headings": [
+        {
+          "level": 2,
+          "text": "How it Works"
+        },
+        {
+          "level": 3,
+          "text": "Select Location"
+        },
+        {
+          "level": 3,
+          "text": "Popular Searches"
+        },
+        {
+          "level": 3,
+          "text": "Categories"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Avocado",
+        "Strawberry",
+        "Pomegranate",
+        "Beetroot",
+        "Ash gourd",
+        "Bottle gourd",
+        "Lady finger",
+        "Potato",
+        "Lemon",
+        "Dalchini",
+        "Fennel seeds",
+        "Blueberry",
+        "Papaya",
+        "Jeera",
+        "Mushroom",
+        "Lettuce",
+        "Yakult",
+        "My Muse",
+        "Aashirvaad Atta",
+        "Too Yumm"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 40,
+      "has_og_tags": true,
+      "meta_description": "Zepto is your next-door quick commerce app, delivering online groceries,fruits,vegetables, personal care, electronics & much more to you in just minutes.",
+      "scripts_count": 141
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "N",
+        "search_filters": "N",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "N",
+        "product_images": "Y",
+        "product_descriptions": "N",
+        "price_display": "N",
+        "size_variant_selector": "N",
+        "stock_availability": "N",
+        "related_products": "N",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "N",
+        "multiple_payment": "N",
+        "shipping_info": "N",
+        "estimated_delivery": "N",
+        "star_ratings": "N",
+        "customer_reviews": "N",
+        "review_photos": "N",
+        "wishlist": "N",
+        "recently_viewed": "N",
+        "personalized_recommendations": "N",
+        "push_notifications": "N",
+        "order_tracking": "N",
+        "order_history": "N",
+        "return_refund_info": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "contact_form": "N",
+        "phone_support": "N",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "N",
+        "cookie_consent": "N",
+        "terms_of_service": "N",
+        "responsive_design": "Y",
+        "sticky_header": "N",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "N",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Fast delivery promise",
+        "Wide range of categories"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "shein_india",
+    "url": "https://www.shein.in",
+    "scanned_at": "2026-03-31T23:51:54.611350",
+    "screenshots": {
+      "desktop": "data/ecommerce_india/2026-03-31/screenshots/shein_india_desktop.png",
+      "mobile": "data/ecommerce_india/2026-03-31/screenshots/shein_india_mobile.png"
+    },
+    "structure": {
+      "title": "Bayan K\u0131yafetleri, Moda \u0130ndirimi | SHEIN TR",
+      "url_final": "https://tr.shein.com/?ref=in&rep=dir&ret=www&ref=www&rep=dir&ret=tr",
+      "nav_items": [
+        {
+          "text": "Yeni Gelenler",
+          "href": "https://tr.shein.com/new/New-In-All-sc-0021884529.html?ici=tr_tab01navbar01&src_module=topcat&src_id"
+        },
+        {
+          "text": "\u0130ndirim",
+          "href": "https://tr.shein.com/sale/All-Sale-sc-0051884505.html?ici=tr_tab02navbar02&src_module=topcat&src_ide"
+        },
+        {
+          "text": "Kad\u0131n Giyim",
+          "href": "https://tr.shein.com/RecommendSelection/Women-Clothing-sc-017172961.html?ici=tr_tab03navbar03&src_mo"
+        },
+        {
+          "text": "Plaj giyimleri",
+          "href": "https://tr.shein.com/RecommendSelection/Beachwear-sc-017706887.html?ici=tr_tab04navbar04&src_module="
+        },
+        {
+          "text": "Ev & Ya\u015fam",
+          "href": "https://tr.shein.com/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=tr_tab05navbar05&src_modu"
+        },
+        {
+          "text": "\u0130\u00e7 \u00c7ama\u015f\u0131r\u0131 ve Gecelik",
+          "href": "https://tr.shein.com/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=tr_tab06navbar06&s"
+        },
+        {
+          "text": "Erkek Giyim",
+          "href": "https://tr.shein.com/RecommendSelection/Men-Clothing-sc-017172963.html?ici=tr_tab07navbar07&src_modu"
+        },
+        {
+          "text": "\u00c7ocuklar",
+          "href": "https://tr.shein.com/RecommendSelection/Kids-sc-017185550.html?ici=tr_tab08navbar08&src_module=topca"
+        },
+        {
+          "text": "B\u00fcy\u00fck Beden",
+          "href": "https://tr.shein.com/RecommendSelection/Curve-sc-017172964.html?ici=tr_tab09navbar09&src_module=topc"
+        },
+        {
+          "text": "M\u00fccevher ve Aksesuarlar",
+          "href": "https://tr.shein.com/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=tr_tab10navbar10&s"
+        },
+        {
+          "text": "G\u00fczellik ve Sa\u011fl\u0131k",
+          "href": "https://tr.shein.com/RecommendSelection/Beauty-Health-sc-017172970.html?ici=tr_tab11navbar11&src_mod"
+        },
+        {
+          "text": "Ayakkab\u0131",
+          "href": "https://tr.shein.com/RecommendSelection/Shoes-sc-017172966.html?ici=tr_tab12navbar12&src_module=topc"
+        },
+        {
+          "text": "Ev Tekstili",
+          "href": "https://tr.shein.com/RecommendSelection/Home-Textile-sc-017172972.html?ici=tr_tab13navbar13&src_modu"
+        },
+        {
+          "text": "Cep Telefonlar\u0131 ve Aksesuarlar\u0131",
+          "href": "https://tr.shein.com/RecommendSelection/Cell-Phones-Accessories-sc-017706910.html?ici=tr_tab14navbar"
+        },
+        {
+          "text": "Elektronik",
+          "href": "https://tr.shein.com/RecommendSelection/Electronics-sc-017706908.html?ici=tr_tab15navbar15&src_modul"
+        },
+        {
+          "text": "Spor ve A\u00e7\u0131k Hava",
+          "href": "https://tr.shein.com/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=tr_tab16navbar16&src_m"
+        },
+        {
+          "text": "Aletler ve Ev Geli\u015ftirme",
+          "href": "https://tr.shein.com/RecommendSelection/Tools-Home-Improvement-sc-017185547.html?ici=tr_tab17navbar1"
+        },
+        {
+          "text": "\u00c7anta ve Valiz",
+          "href": "https://tr.shein.com/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=tr_tab18navbar18&src_modu"
+        },
+        {
+          "text": "Bebek ve Annelik",
+          "href": "https://tr.shein.com/RecommendSelection/Baby-Maternity-sc-017172967.html?ici=tr_tab19navbar19&src_mo"
+        },
+        {
+          "text": "Oyuncaklar ve Oyunlar",
+          "href": "https://tr.shein.com/RecommendSelection/Toys-Games-sc-017172978.html?ici=tr_tab20navbar20&src_module"
+        }
+      ],
+      "buttons": [
+        "elbise",
+        "y2k",
+        "topuklu ayakkab\u0131",
+        "\u00e7anta",
+        "bikini",
+        "\u00e7orap",
+        "dress",
+        "abiye",
+        "g\u00f6mlek",
+        "flexra",
+        "Kategoriler",
+        "HAYIR",
+        "EVET"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "elbise"
+            }
+          ]
+        }
+      ],
+      "links_count": 68,
+      "images_count": 45,
+      "images_with_alt": 32,
+      "headings": [
+        {
+          "level": 3,
+          "text": "Ke\u015fif Arama"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "elbise"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 63,
+      "has_og_tags": true,
+      "meta_description": "SHEIN'de \u00d6zel \u0130ndirimler ve en yeni Trendler ---Elbiseler, B\u00fcy\u00fck Beden, \u00dcstve Alt Giyim, Ayakkab\u0131lar ve daha fazlas\u0131",
+      "scripts_count": 79
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive category browsing",
+        "personalized recommendations",
+        "multi-language support"
+      ],
+      "confidence": "high"
+    }
+  }
+]

@@ -1,0 +1,213 @@
+{
+  "name": "eobuwie",
+  "url": "https://www.eobuwie.com.pl",
+  "scanned_at": "2026-03-31T22:48:57.755450",
+  "screenshots": {
+    "desktop": "data/ecommerce_poland/2026-03-31/screenshots/eobuwie_desktop.png",
+    "mobile": "data/ecommerce_poland/2026-03-31/screenshots/eobuwie_mobile.png"
+  },
+  "structure": {
+    "title": "eobuwie.pl \u2022 Modne buty, akcesoria i torebki online",
+    "url_final": "https://eobuwie.com.pl/",
+    "nav_items": [
+      {
+        "text": "Nowo\u015bci",
+        "href": "/c/eobuwie/oferta:nowosc?itm_source=ovm&itm_medium=menu_navbar&itm_campaign=nowosc"
+      },
+      {
+        "text": "Sneakersy",
+        "href": "/c/damskie/sneakersy/oferta:nowosc"
+      },
+      {
+        "text": "Baleriny",
+        "href": "/c/damskie/baleriny/oferta:nowosc"
+      },
+      {
+        "text": "Buty sportowe",
+        "href": "/c/damskie/buty-sportowe/oferta:nowosc"
+      },
+      {
+        "text": "Cz\u00f3\u0142enka",
+        "href": "/c/damskie/czolenka/oferta:nowosc"
+      },
+      {
+        "text": "Klapki i japonki",
+        "href": "/c/damskie/klapki-i-japonki/oferta:nowosc"
+      },
+      {
+        "text": "Lordsy",
+        "href": "/c/damskie/lordsy/oferta:nowosc"
+      },
+      {
+        "text": "P\u00f3\u0142buty",
+        "href": "/c/damskie/polbuty/oferta:nowosc"
+      },
+      {
+        "text": "Sanda\u0142y",
+        "href": "/c/damskie/sandaly/oferta:nowosc"
+      },
+      {
+        "text": "Szpilki",
+        "href": "/c/damskie/szpilki/oferta:nowosc"
+      },
+      {
+        "text": "Poka\u017c wszystkie",
+        "href": "/c/damskie/oferta:nowosc"
+      },
+      {
+        "text": "Sneakersy",
+        "href": "/c/meskie/sneakersy/oferta:nowosc"
+      },
+      {
+        "text": "Buty sportowe",
+        "href": "/c/meskie/buty-sportowe/oferta:nowosc"
+      },
+      {
+        "text": "Klapki i japonki",
+        "href": "/c/meskie/klapki-i-japonki/oferta:nowosc"
+      },
+      {
+        "text": "P\u00f3\u0142buty codzienne",
+        "href": "/c/meskie/polbuty/polbuty-codzienne/oferta:nowosc"
+      },
+      {
+        "text": "Mokasyny",
+        "href": "/c/meskie/mokasyny/oferta:nowosc"
+      },
+      {
+        "text": "P\u00f3\u0142buty",
+        "href": "/c/meskie/polbuty/oferta:nowosc"
+      },
+      {
+        "text": "P\u00f3\u0142buty wizytowe",
+        "href": "/c/meskie/polbuty/polbuty-wizytowe/oferta:nowosc"
+      },
+      {
+        "text": "Trampki",
+        "href": "/c/meskie/trampki/oferta:nowosc"
+      },
+      {
+        "text": "Sanda\u0142y",
+        "href": "/c/meskie/sandaly/oferta:nowosc"
+      }
+    ],
+    "buttons": [
+      "Przejd\u017a do wyszukiwania",
+      "Szukaj",
+      "Zapisz si\u0119\u00a0do Newslettera",
+      "Damskie",
+      "M\u0119skie",
+      "Dzieci\u0119ce",
+      "Korzystaj z MODIVOclub",
+      "Zmie\u0144 kraj: Polska (PL)",
+      "Przejd\u017a do g\u0142\u00f3wnej zawarto\u015bci",
+      "Sprawd\u017a",
+      "SNEAKERSY",
+      "BUTY SPORTOWE",
+      "TOREBKI",
+      "TRAMPKI"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "input-field-search-name",
+            "placeholder": "Szukaj marki, produktu, stylu"
+          }
+        ]
+      }
+    ],
+    "links_count": 581,
+    "images_count": 81,
+    "images_with_alt": 13,
+    "headings": [
+      {
+        "level": 2,
+        "text": "eobuwie.pl #1 ecommerce platform"
+      },
+      {
+        "level": 2,
+        "text": "Jeszcze bli\u017cej topowych marek z eobuwie.pl"
+      },
+      {
+        "level": 3,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "input-field-search-name",
+        "placeholder": "Szukaj marki, produktu, stylu"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 11,
+    "has_og_tags": true,
+    "meta_description": "Wybierz modne buty, torebki lub akcesoria spo\u015br\u00f3d 140 000 markowych modeli w atrakcyjnych cenach. Skorzystaj z szybkiej dostawy na eobuwie.pl.",
+    "scripts_count": 32
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "mega_menu",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Integration with MODIVOclub for exclusive benefits",
+      "Extensive range of top fashion brands"
+    ],
+    "confidence": "high"
+  }
+}

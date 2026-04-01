@@ -1,0 +1,333 @@
+{
+  "name": "amazon_uk",
+  "url": "https://www.amazon.co.uk",
+  "scanned_at": "2026-03-31T21:48:36.127052",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/amazon_uk_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/amazon_uk_mobile.png"
+  },
+  "structure": {
+    "title": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more",
+    "url_final": "https://www.amazon.co.uk/",
+    "nav_items": [
+      {
+        "text": "Main content",
+        "href": "#skippedLink"
+      },
+      {
+        "text": "Searchopt+/",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Basketshift+opt+C",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Homeshift+opt+H",
+        "href": "javascript:void(0)"
+      },
+      {
+        "text": "Ordersshift+opt+O",
+        "href": "javascript:void(0)"
+      }
+    ],
+    "buttons": [
+      "Show/Hide shortcutsshift+opt+Z",
+      "Back to top",
+      "Sign in",
+      "TRYTurkish Lira",
+      "United Kingdom"
+    ],
+    "forms": [
+      {
+        "action": "/privacyprefs/retail/v3/banner",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "anti-csrftoken-a2z",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "timestamp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "disclosureDecision",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "privacyCustomerId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "userType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clientType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/s/ref=nb_sb_noss",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "url",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "field-keywords",
+            "placeholder": "Search Amazon.co.uk"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "get",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ue_back",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 272,
+    "images_count": 111,
+    "images_with_alt": 107,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Skip to"
+      },
+      {
+        "level": 2,
+        "text": "Keyboard shortcuts"
+      },
+      {
+        "level": 2,
+        "text": "Top offersTop offers"
+      },
+      {
+        "level": 2,
+        "text": "Popular categories"
+      },
+      {
+        "level": 2,
+        "text": "Get 40% off best sellers"
+      },
+      {
+        "level": 3,
+        "text": "Top Books on Deal"
+      },
+      {
+        "level": 3,
+        "text": "Top Kindle Books on Deal"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "anti-csrftoken-a2z",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "disclosureDecision",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "privacyCustomerId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sessionId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "userType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clientType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "consentTypes",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "action",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "dropdown-selection-ubb",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-validation-token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glow-destination-type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Search Amazon.co.uk"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 110,
+    "has_og_tags": false,
+    "meta_description": "Sign up to Amazon Prime for unlimited free delivery. Low prices at Amazon on digital cameras, MP3, sports, books, music, DVDs, video games, home & garden and much more.",
+    "scripts_count": 106
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive product range",
+      "personalized recommendations",
+      "Amazon Prime benefits"
+    ],
+    "confidence": "high"
+  }
+}

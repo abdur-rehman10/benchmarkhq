@@ -1,0 +1,196 @@
+{
+  "name": "magazine_luiza",
+  "url": "https://www.magazineluiza.com.br",
+  "scanned_at": "2026-03-31T21:39:22.157400",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/magazine_luiza_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/magazine_luiza_mobile.png"
+  },
+  "structure": {
+    "title": "Magazine Luiza | Pra voc\u00ea \u00e9 Magalu!",
+    "url_final": "https://www.magazineluiza.com.br/",
+    "nav_items": [
+      {
+        "text": "Ofertas do dia",
+        "href": "https://www.magazineluiza.com.br/selecao/ofertasdodia/"
+      },
+      {
+        "text": "Internacional",
+        "href": "https://www.magazineluiza.com.br/selecao/crossborderatualizacao"
+      },
+      {
+        "text": "Casa",
+        "href": "https://especiais.magazineluiza.com.br/mundo-casa/"
+      },
+      {
+        "text": "Ferramentas",
+        "href": "https://www.magazineluiza.com.br/ferramentas/l/fs/"
+      },
+      {
+        "text": "Eletroport\u00e1teis",
+        "href": "https://www.magazineluiza.com.br/eletroportateis/l/ep/"
+      },
+      {
+        "text": "Brinquedos",
+        "href": "https://www.magazineluiza.com.br/brinquedos/l/br/"
+      },
+      {
+        "text": "Automotivo",
+        "href": "https://www.magazineluiza.com.br/automotivo/l/au/"
+      },
+      {
+        "text": "Utilidades Dom\u00e9sticas",
+        "href": "https://www.magazineluiza.com.br/utilidades-domesticas/l/ud/"
+      }
+    ],
+    "buttons": [
+      "Tem no magalu",
+      "Celulares",
+      "Eletrodom\u00e9sticos",
+      "TV e V\u00eddeo",
+      "Inform\u00e1tica",
+      "M\u00f3veis",
+      "Digite seu CEP",
+      "Mais informa\u00e7\u00f5es",
+      "Compre pelo telefone",
+      "Compre pelo chat",
+      "Entrar",
+      "Compre pelo chat"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Buscar no Magalu"
+          }
+        ]
+      }
+    ],
+    "links_count": 215,
+    "images_count": 65,
+    "images_with_alt": 54,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Magazine Luiza | Pra voc\u00ea \u00e9 Magalu!"
+      },
+      {
+        "level": 2,
+        "text": "Explore e aproveite"
+      },
+      {
+        "level": 2,
+        "text": "Ol\u00e1, vem ser feliz!"
+      },
+      {
+        "level": 2,
+        "text": "Links relacionados:"
+      },
+      {
+        "level": 3,
+        "text": "T\u00e1 vendendo muito"
+      },
+      {
+        "level": 3,
+        "text": "Jogo De Talheres Tramontina Colher Faca Garfo 24 Pe\u00e7as B\u00fazios Inox Tramontina"
+      },
+      {
+        "level": 3,
+        "text": "Os mais desejados"
+      },
+      {
+        "level": 3,
+        "text": "Microsoft 365 Personal Office 365 apps 1TB"
+      },
+      {
+        "level": 3,
+        "text": "Top internacionais"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Buscar no Magalu"
+      }
+    ],
+    "footer_links": [
+      "Blog da Lu",
+      "Nossas lojas",
+      "Tenha sua loja",
+      "Regulamento",
+      "Acessibilidade",
+      "Seguran\u00e7a e Privacidade",
+      "Compre pelo chat"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 81,
+    "has_og_tags": false,
+    "meta_description": "As melhores ofertas em m\u00f3veis, eletr\u00f4nicos, eletrodom\u00e9sticos, inform\u00e1tica e muito mais, voc\u00ea encontra no site do Magalu! Confira!",
+    "scripts_count": 78
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Comprehensive category browsing",
+      "Strong integration with physical stores",
+      "Extensive customer service options"
+    ],
+    "confidence": "high"
+  }
+}

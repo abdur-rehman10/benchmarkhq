@@ -1,0 +1,123 @@
+{
+  "name": "kibsons",
+  "url": "https://www.kibsons.com",
+  "scanned_at": "2026-03-31T23:19:59.111781",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/kibsons_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/kibsons_mobile.png"
+  },
+  "structure": {
+    "title": "Kibsons | Online Grocery Shopping - Fresh Deliveries from Farm to Kitchen",
+    "url_final": "https://www.kibsons.com/en?viewport=WEB",
+    "nav_items": [
+      {
+        "text": "800 KIBSONS",
+        "href": "/en/contactus"
+      }
+    ],
+    "buttons": [
+      "Sustainable Grocery Shopping"
+    ],
+    "forms": [],
+    "links_count": 327,
+    "images_count": 394,
+    "images_with_alt": 393,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Featured Categories"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "My Account",
+      "My Addresses",
+      "My Orders",
+      "My Shopping Lists",
+      "My Referrals",
+      "FAQS",
+      "Our Story",
+      "Our Vision",
+      "Our Brand",
+      "Our Quality",
+      "Media",
+      "Awards",
+      "KIBSONSCARES",
+      "KIBSONSKITCHEN",
+      "CONNECTWITH US ON",
+      "800KIBSONS(800 5427667)",
+      "customercare@kibsons.com",
+      "Locate Us"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Kibsons has all your online grocery shopping needs from fresh groceries, fruit & vegetables, hormone-free meat, organic foods, fresh flowers & more.",
+    "scripts_count": 127
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "N",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Sustainable Grocery Shopping",
+      "KIBSONSCARES initiative"
+    ],
+    "confidence": "high"
+  }
+}

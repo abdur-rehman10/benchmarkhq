@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_pakistan
+  name: E-commerce Pakistan
+  country: Pakistan
+  currency: PKR
+  language: en
+  version: 1.0.0
+  generated_at: '2026-03-31T23:42:19.131439'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - daraz
+  - olx_pakistan
+  - pakwheels
+  - foodpanda_pk
+  - telemart
+  - ishopping
+  - goto_pk
+  - shophive
+  - naheed
+  - khaadi
+  - gul_ahmed
+  - alkaram_studio
+  - sapphire
+  - junaid_jamshed
+  - nishat_linen
+  - bonanza_satrangi
+  - limelight
+  - beechtree
+  - stylo_shoes
+  - imtiaz_super_market
+  - chase_value
+  - samsung_pk
+  - aliexpress_pk
+  - shein_pk
+  - temu_pk
+  - nike_pk
+  - carrefour_pk
+  - metro_shoes_pk
+  - decathlon_pk
+  - apple_pk
+features:
+  critical:
+  - id: product_search
+    frequency: 23/23
+    percent: 100
+  - id: category_browsing
+    frequency: 23/23
+    percent: 100
+  - id: product_images
+    frequency: 23/23
+    percent: 100
+  - id: price_display
+    frequency: 21/23
+    percent: 100
+  - id: responsive_design
+    frequency: 17/23
+    percent: 100
+  - id: language_attribute
+    frequency: 22/23
+    percent: 96
+  - id: return_refund_info
+    frequency: 16/23
+    percent: 89
+  - id: contact_form
+    frequency: 17/23
+    percent: 89
+  - id: login_signup
+    frequency: 15/23
+    percent: 88
+  - id: product_descriptions
+    frequency: 13/23
+    percent: 87
+  - id: shopping_cart
+    frequency: 20/23
+    percent: 87
+  - id: add_to_cart
+    frequency: 20/23
+    percent: 87
+  - id: alt_text_on_images
+    frequency: 20/23
+    percent: 87
+  - id: help_center
+    frequency: 12/23
+    percent: 86
+  required:
+  - id: privacy_policy
+    frequency: 14/23
+    percent: 82
+  - id: terms_of_service
+    frequency: 13/23
+    percent: 81
+  - id: shipping_info
+    frequency: 11/23
+    percent: 79
+  - id: multiple_payment
+    frequency: 9/23
+    percent: 75
+  - id: footer_with_links
+    frequency: 17/23
+    percent: 74
+  - id: guest_checkout
+    frequency: 8/23
+    percent: 73
+  - id: order_tracking
+    frequency: 10/23
+    percent: 71
+  - id: phone_support
+    frequency: 8/23
+    percent: 67
+  recommended:
+  - id: trending_items
+    frequency: 8/23
+    percent: 62
+  - id: order_history
+    frequency: 7/23
+    percent: 58
+  - id: stock_availability
+    frequency: 5/23
+    percent: 56
+  - id: promo_code
+    frequency: 6/23
+    percent: 55
+  - id: search_filters
+    frequency: 4/23
+    percent: 50
+  - id: size_variant_selector
+    frequency: 5/23
+    percent: 50
+  - id: related_products
+    frequency: 4/23
+    percent: 44
+  - id: wishlist
+    frequency: 4/23
+    percent: 44
+  - id: personalized_recommendations
+    frequency: 4/23
+    percent: 44
+  nice_to_have:
+  - id: search_autocomplete
+    frequency: 3/23
+    percent: 38
+  - id: social_login
+    frequency: 3/23
+    percent: 38
+  - id: estimated_delivery
+    frequency: 3/23
+    percent: 38
+  - id: star_ratings
+    frequency: 3/23
+    percent: 38
+  - id: customer_reviews
+    frequency: 3/23
+    percent: 38
+  - id: recently_viewed
+    frequency: 3/23
+    percent: 38
+  - id: push_notifications
+    frequency: 3/23
+    percent: 38
+  - id: cookie_consent
+    frequency: 3/23
+    percent: 38
+  - id: sticky_header
+    frequency: 3/23
+    percent: 38
+  - id: breadcrumb_navigation
+    frequency: 3/23
+    percent: 38
+  - id: hero_section
+    frequency: 3/23
+    percent: 38
+  - id: review_photos
+    frequency: 2/23
+    percent: 25
+  - id: live_chat
+    frequency: 2/23
+    percent: 25
+  - id: skeleton_loading
+    frequency: 2/23
+    percent: 25
+  innovative: []

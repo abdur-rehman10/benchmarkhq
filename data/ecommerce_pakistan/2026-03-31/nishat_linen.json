@@ -1,0 +1,477 @@
+{
+  "name": "nishat_linen",
+  "url": "https://nishatlinen.com",
+  "scanned_at": "2026-03-31T23:37:14.171173",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/nishat_linen_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/nishat_linen_mobile.png"
+  },
+  "structure": {
+    "title": "Official Online Clothing Brand in Pakistan",
+    "url_final": "https://nishatlinen.com/",
+    "nav_items": [
+      {
+        "text": "READY TO WEAR",
+        "href": "/collections/ready-to-wear-1"
+      },
+      {
+        "text": "THE BLOOM AFFAIRNEW IN",
+        "href": "/collections/ready-to-wear-summer-2026-vol-1"
+      },
+      {
+        "text": "AURA",
+        "href": "/collections/aura-1"
+      },
+      {
+        "text": "CO-ORD SETS",
+        "href": "/collections/co-ords"
+      },
+      {
+        "text": "PRINTED",
+        "href": "/collections/printed-pret"
+      },
+      {
+        "text": "EMBROIDERED",
+        "href": "/collections/embroidered-pret"
+      },
+      {
+        "text": "SOLIDS",
+        "href": "/collections/pret-solids"
+      },
+      {
+        "text": "SLIPS",
+        "href": "/collections/slips"
+      },
+      {
+        "text": "UNSTITCHED",
+        "href": "/collections/unstitched"
+      },
+      {
+        "text": "THE BLOOM AFFAIRNEW IN",
+        "href": "/collections/unstitched-summer-2026-vol-1"
+      },
+      {
+        "text": "PRINTED",
+        "href": "/collections/printed-unstitched"
+      },
+      {
+        "text": "EMBROIDERED",
+        "href": "/collections/embroidered-unstitched"
+      },
+      {
+        "text": "1 PIECE",
+        "href": "/collections/unstitched-1-piece"
+      },
+      {
+        "text": "2 PIECE",
+        "href": "/collections/uns-2pc"
+      },
+      {
+        "text": "3 PIECE",
+        "href": "/collections/uns-3-pc"
+      },
+      {
+        "text": "FREEDOM TO BUY",
+        "href": "/collections/freedom-to-buy"
+      },
+      {
+        "text": "THE BLOOM AFFAIRNEW IN",
+        "href": "/collections/freedom-to-buy-summer-2026-vol-1"
+      },
+      {
+        "text": "PRINTED",
+        "href": "/collections/printed-freedom-to-buy"
+      },
+      {
+        "text": "EMBROIDERED",
+        "href": "/collections/embroidered-freedom-to-buy"
+      },
+      {
+        "text": "SOLIDS",
+        "href": "/collections/freedom-to-buy-solids"
+      }
+    ],
+    "buttons": [
+      "Navigation menu",
+      "Close",
+      "WOMEN",
+      "LUXURY",
+      "MEN",
+      "ACCESSORIES",
+      "WOMEN",
+      "LUXURY",
+      "MEN",
+      "ACCESSORIES",
+      "Close",
+      "Subscribe",
+      "Go to item 1",
+      "Go to item 2",
+      "Go to item 3",
+      "Go to item 4",
+      "Go to item 5",
+      "Go to item 6",
+      "Go to item 7",
+      "Navigate to next section",
+      "Previous",
+      "SHOP NOW",
+      "SHOP NOW",
+      "SHOP NOW",
+      "Next",
+      "UNSTITCHED"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search for..."
+          }
+        ]
+      },
+      {
+        "action": "/contact#newsletter-sections--21096693563591__newsletter-popup",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "E-mail"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "on_success",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "quantity",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product-id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "section-id",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "on_success",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "quantity",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product-id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "section-id",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "on_success",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "quantity",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product-id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "section-id",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 576,
+    "images_count": 323,
+    "images_with_alt": 95,
+    "headings": [
+      {
+        "level": 1,
+        "text": "NISHAT"
+      },
+      {
+        "level": 2,
+        "text": "ACCESSORIES"
+      },
+      {
+        "level": 2,
+        "text": "SUMMER TRENDING LOOKS"
+      },
+      {
+        "level": 2,
+        "text": "#nishatlinen - INSPIRED BY YOU"
+      },
+      {
+        "level": 2,
+        "text": "Newsletter"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search for..."
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "E-mail"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "on_success",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "on_success",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "quantity",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 13,
+    "has_og_tags": true,
+    "meta_description": "Nishat Linen best official clothing brand in Pakistan. Our Clothes Collection includes formal and Luxury Pret Wear for both men and women. Shop your favorite dress for every occasion from best online ",
+    "scripts_count": 182
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive collection of traditional and modern clothing",
+      "Focus on seasonal collections like 'The Bloom Affair'"
+    ],
+    "confidence": "medium"
+  }
+}

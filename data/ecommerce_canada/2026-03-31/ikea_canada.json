@@ -1,0 +1,298 @@
+{
+  "name": "ikea_canada",
+  "url": "https://www.ikea.com/ca/en/",
+  "scanned_at": "2026-03-31T21:21:03.716401",
+  "screenshots": {
+    "desktop": "data/ecommerce_canada/2026-03-31/screenshots/ikea_canada_desktop.png",
+    "mobile": "data/ecommerce_canada/2026-03-31/screenshots/ikea_canada_mobile.png"
+  },
+  "structure": {
+    "title": "Shop Furniture & Home D\u00e9cor - Bring Home To Life - IKEA CA",
+    "url_final": "https://www.ikea.com/ca/en/",
+    "nav_items": [
+      {
+        "text": "Products",
+        "href": "https://www.ikea.com/ca/en/cat/products-products/"
+      },
+      {
+        "text": "Rooms",
+        "href": "https://www.ikea.com/ca/en/rooms/"
+      },
+      {
+        "text": "Deals",
+        "href": "https://www.ikea.com/ca/en/offers/"
+      },
+      {
+        "text": "Ideas & design",
+        "href": "https://www.ikea.com/ca/en/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/ca/en/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Clear the search input field",
+      "Search IKEA products using a photo",
+      "Search",
+      "Limited time offers",
+      "New lower price",
+      "IKEA Family offers",
+      "Now or Never",
+      "Our lowest price",
+      "Review: 4.4 out of 5 stars. Total reviews:(7)",
+      "Review: 4.4 out of 5 stars. Total reviews:(5)"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/ca/en/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search IKEA.ca"
+          }
+        ]
+      }
+    ],
+    "links_count": 251,
+    "images_count": 155,
+    "images_with_alt": 112,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Hej! Welcome to IKEA Canada"
+      },
+      {
+        "level": 2,
+        "text": "Deals & offers"
+      },
+      {
+        "level": 2,
+        "text": "What's trending"
+      },
+      {
+        "level": 2,
+        "text": "Today's best deals"
+      },
+      {
+        "level": 2,
+        "text": "Inspiration for every room"
+      },
+      {
+        "level": 2,
+        "text": "Get the look"
+      },
+      {
+        "level": 3,
+        "text": "Shop all offers"
+      },
+      {
+        "level": 3,
+        "text": "HEMNESSink cabinet with drawers, white, 76x82 cm (30x32 3/8 \")"
+      },
+      {
+        "level": 3,
+        "text": "HEMNESSink cabinet with drawers, white, 122x82 cm (48x32 3/8 \")"
+      },
+      {
+        "level": 3,
+        "text": "HEMNES / RUTSJ\u00d6NSink cab w drawers/sink/tap, gray, 95x56x94 cm (37 3/8x21 7/8x37"
+      },
+      {
+        "level": 3,
+        "text": "HEMNES / ORRSJ\u00d6NSink cab w drawers/sink/tap, white, 79x55x89 cm (31x21 3/4x34 7/"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search IKEA.ca"
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20605310-8c5119-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20605310-8c5119-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20605310-8c5119-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20605310-8c5119-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20605310-8c5119-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20605310-8c5119-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-40605314-8c5119-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-40605314-8c5119-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s09579176-8c5119-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s09579176-8c5119-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s09579176-8c5119-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s09579176-8c5119-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s09579176-8c5119-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s09579176-8c5119-P0-2",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59578612-8c5119-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59578612-8c5119-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59578612-8c5119-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s59578612-8c5119-P0-3",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Learn more",
+      "Join now or log in",
+      "Learn more",
+      "Join now or log in",
+      "Customer service",
+      "Contact us",
+      "FAQ",
+      "Stock availability",
+      "Services",
+      "Planners",
+      "Product recalls",
+      "Spare parts",
+      "Exchanges & returns",
+      "Warranties",
+      "Shopping at IKEA",
+      "Download the free IKEA app",
+      "Find a location",
+      "Delivery options",
+      "Buying guides",
+      "Payment options"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 91,
+    "has_og_tags": true,
+    "meta_description": "IKEA Canada offers affordable, quality furniture and d\u00e9cor to bring home to life. Visit your nearest IKEA furniture store or shop online at IKEA.ca.",
+    "scripts_count": 92
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Search IKEA products using a photo",
+      "IKEA Family offers",
+      "Now or Never deals"
+    ],
+    "confidence": "high"
+  }
+}

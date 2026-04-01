@@ -1,0 +1,218 @@
+{
+  "name": "al_meera",
+  "url": "https://www.almeera.com.qa",
+  "scanned_at": "2026-03-31T23:28:18.608128",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/al_meera_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/al_meera_mobile.png"
+  },
+  "structure": {
+    "title": "Al Meera",
+    "url_final": "https://www.almeera.com.qa/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "QAR0.00",
+        "href": "/cart"
+      },
+      {
+        "text": "Home",
+        "href": "/"
+      },
+      {
+        "text": "Login & Register",
+        "href": "/login"
+      },
+      {
+        "text": "Wishlist0 items",
+        "href": "/wishlist"
+      },
+      {
+        "text": "Login & Register",
+        "href": "/login"
+      },
+      {
+        "text": "All Categories",
+        "href": "/search-product?showAll=1"
+      },
+      {
+        "text": "dried fruits & nuts",
+        "href": "/search-product?categoryId=2203"
+      },
+      {
+        "text": "sports & fitness",
+        "href": "/search-product?categoryId=6020"
+      },
+      {
+        "text": "al meera products",
+        "href": "/search-product?categoryId=1638"
+      },
+      {
+        "text": "qatari products",
+        "href": "/search-product?categoryId=1664"
+      },
+      {
+        "text": "breakfast food",
+        "href": "/search-product?categoryId=1642"
+      },
+      {
+        "text": "dairy & eggs",
+        "href": "/search-product?categoryId=1648"
+      },
+      {
+        "text": "beverages",
+        "href": "/search-product?categoryId=1641"
+      }
+    ],
+    "buttons": [
+      "Previous Slide",
+      "Next Slide",
+      "Show All Categories",
+      "Previous Slide",
+      "Next Slide",
+      "View More",
+      "Arrow pointing to the left",
+      "Arrow pointing to the right"
+    ],
+    "forms": [],
+    "links_count": 209,
+    "images_count": 84,
+    "images_with_alt": 80,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 1,
+        "text": "Daily Essentials"
+      },
+      {
+        "level": 1,
+        "text": "Ready to Eat"
+      },
+      {
+        "level": 1,
+        "text": "Featured Brands"
+      },
+      {
+        "level": 1,
+        "text": "Fruits & Vegetables"
+      },
+      {
+        "level": 2,
+        "text": "Delivery Options"
+      },
+      {
+        "level": 2,
+        "text": "Get In Touch"
+      },
+      {
+        "level": 2,
+        "text": "Get In Touch"
+      },
+      {
+        "level": 3,
+        "text": "Fruit & Veg"
+      },
+      {
+        "level": 3,
+        "text": "Bakery"
+      },
+      {
+        "level": 3,
+        "text": "Poultry, Meat & Seafood"
+      },
+      {
+        "level": 3,
+        "text": "Dairy & Eggs"
+      },
+      {
+        "level": 3,
+        "text": "Beverages"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for Products"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for Products"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 25,
+    "has_og_tags": true,
+    "meta_description": "Al Meera Qatar  Serving Hyatt Plaza, Al Waab St, Building No. 750 Zone, 54 Street No. 364, \u0627\u0644\u062f\u0648\u062d\u0629\u060c Qatar with fast delivery.",
+    "scripts_count": 13
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [],
+    "confidence": "medium"
+  }
+}

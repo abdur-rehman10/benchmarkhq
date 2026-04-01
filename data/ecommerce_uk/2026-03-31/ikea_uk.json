@@ -1,0 +1,299 @@
+{
+  "name": "ikea_uk",
+  "url": "https://www.ikea.com/gb/en/",
+  "scanned_at": "2026-03-31T21:52:05.178779",
+  "screenshots": {
+    "desktop": "data/ecommerce_uk/2026-03-31/screenshots/ikea_uk_desktop.png",
+    "mobile": "data/ecommerce_uk/2026-03-31/screenshots/ikea_uk_mobile.png"
+  },
+  "structure": {
+    "title": "Affordable Furniture and Home Inspiration - IKEA UK",
+    "url_final": "https://www.ikea.com/gb/en/",
+    "nav_items": [
+      {
+        "text": "Products",
+        "href": "https://www.ikea.com/gb/en/cat/products-products/"
+      },
+      {
+        "text": "Rooms",
+        "href": "https://www.ikea.com/gb/en/rooms/"
+      },
+      {
+        "text": "Offers",
+        "href": "https://www.ikea.com/gb/en/offers/"
+      },
+      {
+        "text": "Design",
+        "href": "https://www.ikea.com/gb/en/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/gb/en/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Clear the search input field",
+      "Search",
+      "Sale",
+      "Clearance",
+      "IKEA Family offers",
+      "New lower price",
+      "Review: 4.7 out of 5 stars. Total reviews:(80)",
+      "Review: 3.6 out of 5 stars. Total reviews:(7)",
+      "Review: 4.5 out of 5 stars. Total reviews:(61)",
+      "Review: 4.8 out of 5 stars. Total reviews:(71)",
+      "Review: 4.6 out of 5 stars. Total reviews:(106)"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/gb/en/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "What are you looking for?"
+          }
+        ]
+      }
+    ],
+    "links_count": 244,
+    "images_count": 140,
+    "images_with_alt": 99,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Welcome to IKEA UK"
+      },
+      {
+        "level": 2,
+        "text": "Sale now on!"
+      },
+      {
+        "level": 2,
+        "text": "Explore our IKEA Family offers"
+      },
+      {
+        "level": 2,
+        "text": "Today's best deals"
+      },
+      {
+        "level": 2,
+        "text": "What's trending"
+      },
+      {
+        "level": 2,
+        "text": "Discover what's new at IKEA"
+      },
+      {
+        "level": 3,
+        "text": "Shop all offers and earn points"
+      },
+      {
+        "level": 3,
+        "text": "KOPPANGChest of 6 drawers, white, 172x44x83 cm"
+      },
+      {
+        "level": 3,
+        "text": "HOLMSUND3-seat sofa bed, Borgunda beige"
+      },
+      {
+        "level": 3,
+        "text": "KOPPANGChest of 5 drawers, white, 90x44x114 cm"
+      },
+      {
+        "level": 3,
+        "text": "SONGESANDChest of 6 drawers, white, 82x126 cm"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "What are you looking for?"
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s29516932-4a0eb7-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-s29516932-4a0eb7-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70537639-4a0eb7-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70537639-4a0eb7-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70537639-4a0eb7-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70537639-4a0eb7-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70537639-4a0eb7-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-70537639-4a0eb7-P0-5",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30460811-4a0eb7-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30460811-4a0eb7-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30460811-4a0eb7-P0-6",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90610186-4f007b-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90610186-4f007b-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90610186-4f007b-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90610186-4f007b-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90522420-4f007b-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90522420-4f007b-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-90522420-4f007b-P0-1",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Download now",
+      "Learn more",
+      "Sign up for free",
+      "Delivery",
+      "Click and collect",
+      "Van hire",
+      "Assembly",
+      "Financial services",
+      "Planning appointments and tools",
+      "Kitchen planning & installation",
+      "Buy and sell pre-loved furniture",
+      "Removal & recycling services",
+      "See all services",
+      "Customer services",
+      "Contact us",
+      "Track my order",
+      "Returns",
+      "FAQs",
+      "Order by phone or chat",
+      "Product recalls"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 91,
+    "has_og_tags": true,
+    "meta_description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+    "scripts_count": 56
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "Y",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "IKEA Family offers",
+      "Buy and sell pre-loved furniture",
+      "Planning appointments and tools"
+    ],
+    "confidence": "medium"
+  }
+}

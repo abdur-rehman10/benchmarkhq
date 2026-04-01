@@ -1,0 +1,105 @@
+{
+  "name": "jd.com",
+  "url": "https://www.jd.com",
+  "scanned_at": "2026-03-31T23:52:59.843656",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/jd.com_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/jd.com_mobile.png"
+  },
+  "structure": {
+    "title": "\u4eac\u4e1c\u5168\u7403\u7248-\u4e13\u4e1a\u7684\u7efc\u5408\u7f51\u4e0a\u8d2d\u7269\u5546\u57ce",
+    "url_final": "https://global.jd.com/",
+    "nav_items": [],
+    "buttons": [
+      "\u641c\u7d22"
+    ],
+    "forms": [],
+    "links_count": 143,
+    "images_count": 12,
+    "images_with_alt": 6,
+    "headings": [],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "searchValHidden",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "trandingValHidden",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 11,
+    "has_og_tags": false,
+    "meta_description": "\u4eac\u4e1c\u5168\u7403\u7248-\u4e13\u4e1a\u7684\u7efc\u5408\u7f51\u4e0a\u8d2d\u7269\u5546\u57ce\uff0c\u4e3a\u60a8\u63d0\u4f9b\u6b63\u54c1\u4f4e\u4ef7\u7684\u8d2d\u7269\u9009\u62e9\u3001\u4f18\u8d28\u4fbf\u6377\u7684\u670d\u52a1\u4f53\u9a8c\u3002\u5546\u54c1\u6765\u81ea\u5168\u7403\u6570\u5341\u4e07\u54c1\u724c\u5546\u5bb6\uff0c\u56ca\u62ec\u5bb6\u7535\u3001\u624b\u673a\u3001\u8ba1\u7b97\u673a\u3001\u670d\u88c5\u3001\u5c45\u5bb6\u3001\u6bcd\u5a74\u3001\u7f8e\u5986\u3001\u4e2a\u62a4\u3001\u98df\u54c1\u7b49\u4e30\u5bcc\u54c1\u7c7b\uff0c\u6ee1\u8db3\u5404\u79cd\u8d2d\u7269\u9700\u6c42\u3002\u9999\u6e2f\u7684\u7528\u6237\u652f\u6301\u81ea\u63d0\u3001\u4eac\u4e1c\u96c6\u8fd0\u548c\u56fd\u9645\u5361\u652f\u4ed8\uff0c\u73b0\u65f6\u5df2\u8986\u76d6\u9999\u6e2f\u3001\u6fb3\u95e8\u3001\u53f0\u6e7e\u3001\u65b0\u52a0\u5761\u3001\u9a6c\u6765\u897f\u4e9a\u3001\u7f8e\u56fd\u3001\u52a0\u62ff\u5927\u3001\u6fb3\u5927\u5229\u4e9a\u3001\u65b0\u897f\u5170\u548c\u65e5\u672c\u7b49\u6d77\u5916200\u591a\u4e2a\u56fd\u5bb6\u548c\u5730\u533a\u3002",
+    "scripts_count": 27
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "mega_menu",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "extensive logistics network",
+      "fast delivery options",
+      "integration with WeChat"
+    ],
+    "confidence": "high"
+  }
+}

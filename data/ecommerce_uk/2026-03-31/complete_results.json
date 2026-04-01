@@ -1,0 +1,6405 @@
+[
+  {
+    "name": "amazon_uk",
+    "url": "https://www.amazon.co.uk",
+    "scanned_at": "2026-03-31T21:48:36.127052",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/amazon_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/amazon_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more",
+      "url_final": "https://www.amazon.co.uk/",
+      "nav_items": [
+        {
+          "text": "Main content",
+          "href": "#skippedLink"
+        },
+        {
+          "text": "Searchopt+/",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Basketshift+opt+C",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Homeshift+opt+H",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "Ordersshift+opt+O",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": [
+        "Show/Hide shortcutsshift+opt+Z",
+        "Back to top",
+        "Sign in",
+        "TRYTurkish Lira",
+        "United Kingdom"
+      ],
+      "forms": [
+        {
+          "action": "/privacyprefs/retail/v3/banner",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "anti-csrftoken-a2z",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "timestamp",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "disclosureDecision",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "privacyCustomerId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "sessionId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "userType",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientId",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "clientType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/s/ref=nb_sb_noss",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "url",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "field-keywords",
+              "placeholder": "Search Amazon.co.uk"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "get",
+          "method": "",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "ue_back",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 272,
+      "images_count": 111,
+      "images_with_alt": 107,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Skip to"
+        },
+        {
+          "level": 2,
+          "text": "Keyboard shortcuts"
+        },
+        {
+          "level": 2,
+          "text": "Top offersTop offers"
+        },
+        {
+          "level": 2,
+          "text": "Popular categories"
+        },
+        {
+          "level": 2,
+          "text": "Get 40% off best sellers"
+        },
+        {
+          "level": 3,
+          "text": "Top Books on Deal"
+        },
+        {
+          "level": 3,
+          "text": "Top Kindle Books on Deal"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "anti-csrftoken-a2z",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "timestamp",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "locale",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "disclosureDecision",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "privacyCustomerId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "sessionId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "userType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientId",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "clientType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "consentTypes",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "action",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "dropdown-selection-ubb",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-validation-token",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "glow-destination-type",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "field-keywords",
+          "placeholder": "Search Amazon.co.uk"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 110,
+      "has_og_tags": false,
+      "meta_description": "Sign up to Amazon Prime for unlimited free delivery. Low prices at Amazon on digital cameras, MP3, sports, books, music, DVDs, video games, home & garden and much more.",
+      "scripts_count": 106
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "personalized recommendations",
+        "Amazon Prime benefits"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ebay_uk",
+    "url": "https://www.ebay.co.uk",
+    "scanned_at": "2026-03-31T21:48:57.548401",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/ebay_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/ebay_uk_mobile.png"
+    },
+    "structure": {
+      "title": "eBay UK | Electronics, Cars, Fashion, Collectibles & More",
+      "url_final": "https://www.ebay.co.uk/",
+      "nav_items": [
+        {
+          "text": "Sign in",
+          "href": "https://signin.ebay.co.uk/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.co.uk%2F"
+        },
+        {
+          "text": "register",
+          "href": "https://signup.ebay.co.uk/pa/crte?ru=https%3A%2F%2Fwww.ebay.co.uk%2F"
+        },
+        {
+          "text": "Collection",
+          "href": "https://www.ebay.co.uk/localcollection"
+        },
+        {
+          "text": "Deals",
+          "href": "https://www.ebay.co.uk/deals"
+        },
+        {
+          "text": "Fashion",
+          "href": "https://www.ebay.co.uk/b/bn_7000259675"
+        },
+        {
+          "text": "Help & Contact",
+          "href": "https://www.ebay.co.uk/help/home"
+        },
+        {
+          "text": "Sell",
+          "href": "https://www.ebay.co.uk/sl/sell"
+        },
+        {
+          "text": "List an item",
+          "href": "https://www.ebay.co.uk/sl/prelist/suggest"
+        },
+        {
+          "text": "Explore selling",
+          "href": "https://www.ebay.co.uk/sl/sell"
+        },
+        {
+          "text": "Watchlist",
+          "href": "https://www.ebay.co.uk/mye/myebay/watchlist"
+        },
+        {
+          "text": "My eBay",
+          "href": "https://www.ebay.co.uk/mys/home?source=GBH"
+        },
+        {
+          "text": "Summary",
+          "href": "https://www.ebay.co.uk/mye/myebay/summary"
+        },
+        {
+          "text": "Recently Viewed",
+          "href": "https://www.ebay.co.uk/mye/myebay/rvi"
+        },
+        {
+          "text": "Bids/Offers",
+          "href": "https://www.ebay.co.uk/mye/myebay/bidsoffers"
+        },
+        {
+          "text": "Watch List",
+          "href": "https://www.ebay.co.uk/mye/myebay/watchlist"
+        },
+        {
+          "text": "Purchase History",
+          "href": "https://www.ebay.co.uk/mye/myebay/purchase"
+        },
+        {
+          "text": "Selling",
+          "href": "https://www.ebay.co.uk/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH"
+        },
+        {
+          "text": "Saved feed",
+          "href": "https://www.ebay.co.uk/mye/myebay/saved"
+        },
+        {
+          "text": "Saved Searches",
+          "href": "https://www.ebay.co.uk/mye/myebay/savedsearches"
+        },
+        {
+          "text": "Saved Sellers",
+          "href": "https://www.ebay.co.uk/mye/myebay/savedsellers"
+        }
+      ],
+      "buttons": [
+        "Expand Sell menu",
+        "Expand Watchlist",
+        "Expand My eBay",
+        "Notifications",
+        "Expand Basket",
+        "Shop by category",
+        "Search",
+        "Accept all",
+        "Decline all",
+        "Expand: Home",
+        "Expand: Garden & DIY",
+        "Expand: Electronics",
+        "Expand: Refurbished",
+        "Expand: Fashion",
+        "Expand: Jewellery & watches",
+        "Expand: Motors",
+        "Expand: Collectables",
+        "Expand: Sports & leisure",
+        "Expand: Health & Beauty",
+        "Expand: More"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ebay.co.uk/sch/i.html",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "_nkw",
+              "placeholder": "Search for anything"
+            },
+            {
+              "type": "text",
+              "name": "_sacat",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_from",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_trksid",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 497,
+      "images_count": 79,
+      "images_with_alt": 50,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Electronics, Cars, Fashion, Collectibles & More | eBay"
+        },
+        {
+          "level": 2,
+          "text": "Look iconic with eBay & SNL\u1d41\u1d37"
+        },
+        {
+          "level": 2,
+          "text": "List local this spring, it\u2019s easy"
+        },
+        {
+          "level": 2,
+          "text": "Up to 70% off M&S fashion vs. RRP"
+        },
+        {
+          "level": 2,
+          "text": "Cash in on your luxury fashion"
+        },
+        {
+          "level": 2,
+          "text": "This week's top deals"
+        },
+        {
+          "level": 3,
+          "text": "Collectables & antiques"
+        },
+        {
+          "level": 3,
+          "text": "Electronics"
+        },
+        {
+          "level": 3,
+          "text": "Fashion"
+        },
+        {
+          "level": 3,
+          "text": "Home & garden"
+        },
+        {
+          "level": 3,
+          "text": "Jewellery & watches"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "_nkw",
+          "placeholder": "Search for anything"
+        },
+        {
+          "type": "hidden",
+          "name": "_from",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_trksid",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "srt",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Buy",
+        "Buying Basics",
+        "Deals",
+        "eBay Mobile",
+        "Shop by Brand",
+        "Sales & Events",
+        "eBay for Charity",
+        "Charity Shop",
+        "eBay Shops",
+        "Seasonal Sales and events",
+        "Sell",
+        "Seller Centre",
+        "Sell Locally",
+        "Selling Basics",
+        "Selling Fees",
+        "eBay Top-rated Sellers",
+        "Posting Items",
+        "Seller Protection",
+        "Sell for Charity",
+        "Community"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 148,
+      "has_og_tags": true,
+      "meta_description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay UK's online marketplace. Top brands, low prices & free shipping on many items.",
+      "scripts_count": 38
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Extensive category browsing with a wide range of products",
+        "Integration with local collection services",
+        "Strong focus on deals and promotions"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "argos",
+    "url": "https://www.argos.co.uk",
+    "scanned_at": "2026-03-31T21:49:20.919570",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/argos_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/argos_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.argos.co.uk/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "same-day delivery options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "tesco",
+    "url": "https://www.tesco.com",
+    "scanned_at": "2026-03-31T21:49:41.176514",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/tesco_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/tesco_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.tesco.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Clubcard integration",
+        "Grocery delivery scheduling"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "asos",
+    "url": "https://www.asos.com",
+    "scanned_at": "2026-03-31T21:50:00.426290",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/asos_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/asos_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.asos.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive size guide",
+        "ASOS Marketplace for independent brands"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "john_lewis",
+    "url": "https://www.johnlewis.com",
+    "scanned_at": "2026-03-31T21:50:21.517348",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.johnlewis.com/\nCall log:\n  - navigating to \"https://www.johnlewis.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.johnlewis.com/\nCall log:\n  - navigating to \"https://www.johnlewis.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "high-quality product images",
+        "extensive customer reviews"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "currys",
+    "url": "https://www.currys.co.uk",
+    "scanned_at": "2026-03-31T21:50:29.439572",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/currys_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/currys_mobile.png"
+    },
+    "structure": {
+      "title": "Currys | Washing Machines, Laptops, TVs, Consoles",
+      "url_final": "https://www.currys.co.uk/",
+      "nav_items": [
+        {
+          "text": "Flexpay",
+          "href": "#"
+        },
+        {
+          "text": "Stores",
+          "href": "/store-finder"
+        },
+        {
+          "text": "signin iconAccount",
+          "href": ""
+        },
+        {
+          "text": "Saveditems0.0",
+          "href": "https://www.currys.co.uk/wishlist-show"
+        },
+        {
+          "text": "Your basket is emptyBasket0Basket",
+          "href": "https://www.currys.co.uk/cart"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "left-iconBack tomain menu",
+        "Previous",
+        "Next",
+        "Previous",
+        "Next",
+        "Previous",
+        "Next",
+        "Previous",
+        "Next",
+        "Sign up",
+        "Allow all",
+        "Allow required cookies only",
+        "Manage cookies",
+        "Allow All",
+        "Cookies Details",
+        "Cookies Details",
+        "Cookies Details"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search our products, brands & services"
+            },
+            {
+              "type": "hidden",
+              "name": "lang",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search our products, brands & services"
+            },
+            {
+              "type": "hidden",
+              "name": "lang",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "hpEmailSignUp",
+              "placeholder": "Enter email address"
+            }
+          ]
+        }
+      ],
+      "links_count": 207,
+      "images_count": 122,
+      "images_with_alt": 112,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Shop deals"
+        },
+        {
+          "level": 2,
+          "text": "Discover our amazing offers"
+        },
+        {
+          "level": 2,
+          "text": "Big brand deals"
+        },
+        {
+          "level": 2,
+          "text": "Sponsored products"
+        },
+        {
+          "level": 2,
+          "text": "Personalise your shopping experience"
+        },
+        {
+          "level": 3,
+          "text": "Your Currys flexpay account"
+        },
+        {
+          "level": 3,
+          "text": "Your Currys flexpay account"
+        },
+        {
+          "level": 3,
+          "text": "*Representative example"
+        },
+        {
+          "level": 3,
+          "text": "Manage Consent Preferences"
+        },
+        {
+          "level": 3,
+          "text": "Cookie List"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search our products, brands & services"
+        },
+        {
+          "type": "hidden",
+          "name": "lang",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "Search our products, brands & services"
+        },
+        {
+          "type": "hidden",
+          "name": "lang",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "hpEmailSignUp",
+          "placeholder": "Enter email address"
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0008",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0007",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0009",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Contact us",
+        "Stores",
+        "TechTalk",
+        "Price Promise",
+        "Product reviews",
+        "Track my order",
+        "Delivery options",
+        "Order & collect",
+        "Returns & cancellations",
+        "ShopLive",
+        "Care & Repair",
+        "Instant Replacement",
+        "Mobile Insurance",
+        "Tablet Insurance",
+        "Currys Business",
+        "Currys Ireland",
+        "Partmaster",
+        "Carphone Warehouse",
+        "Leave us a review on Trustpilot \u2605",
+        "Corporate site"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 49,
+      "has_og_tags": false,
+      "meta_description": "Huge Savings on TVs, Washing Machines, Laptops, Headphones, Gaming, Phones & more. Order online or collect in store.",
+      "scripts_count": 107
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Flexpay payment option",
+        "ShopLive feature for live assistance"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "marks_spencer",
+    "url": "https://www.marksandspencer.com",
+    "scanned_at": "2026-03-31T21:50:50.106350",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/marks_spencer_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/marks_spencer_mobile.png"
+    },
+    "structure": {
+      "title": "M&S | Marks & Spencer | Fashion, Home, Beauty, Food & Gifts",
+      "url_final": "https://www.marksandspencer.com/",
+      "nav_items": [
+        {
+          "text": "Women",
+          "href": "/c/women#intid=gnav_LEVEL1_COMPONENT_women"
+        },
+        {
+          "text": "Just Arrived",
+          "href": "/l/women/just-arrived/clothing#intid=gnav_women_prop-roundel_just-arrived"
+        },
+        {
+          "text": "SS26 Drop 1",
+          "href": "/l/women/the-love-that-drop#intid=gnav_women_prop-roundel_ss26-drop-1"
+        },
+        {
+          "text": "The '90s Edit",
+          "href": "/l/women/our-top-picks#intid=gnav_women_prop-roundel_the-90s-edit"
+        },
+        {
+          "text": "City Break Outfits",
+          "href": "/l/women/trends/city-break-outfits#intid=gnav_women_prop-roundel_city-break-outfits"
+        },
+        {
+          "text": "Boho Clothing",
+          "href": "/l/women/trends/boho-clothing#intid=gnav_women_prop-roundel_boho-clothing"
+        },
+        {
+          "text": "Loved By Gillian",
+          "href": "/l/women/love-that#intid=gnav_women_prop-roundel_loved-by-gillian"
+        },
+        {
+          "text": "Editorial",
+          "href": "/content/category/women#intid=gnav_women_prop-roundel_editorial"
+        },
+        {
+          "text": "Clothing",
+          "href": "/c/women#intid=gnav_women_core_clothing"
+        },
+        {
+          "text": "Best Sellers",
+          "href": "/l/women/best-sellers#intid=gnav_women_core_clothing_best-sellers"
+        },
+        {
+          "text": "Cardigans",
+          "href": "/l/women/knitwear/cardigans#intid=gnav_women_core_clothing_cardigans"
+        },
+        {
+          "text": "Dresses",
+          "href": "/l/women/dresses#intid=gnav_women_core_clothing_dresses"
+        },
+        {
+          "text": "Holiday Shop",
+          "href": "/l/women/holiday-shop#intid=gnav_women_core_clothing_holiday-shop"
+        },
+        {
+          "text": "Jackets and Coats",
+          "href": "/l/women/coats-and-jackets#intid=gnav_women_core_clothing_jackets-and-coats"
+        },
+        {
+          "text": "Jeans",
+          "href": "/l/women/jeans#intid=gnav_women_core_clothing_jeans"
+        },
+        {
+          "text": "Jumpers",
+          "href": "/l/women/knitwear/jumpers#intid=gnav_women_core_clothing_jumpers"
+        },
+        {
+          "text": "Linen Shop",
+          "href": "/l/women/linen-shop#intid=gnav_women_core_clothing_linen-shop"
+        },
+        {
+          "text": "Occasionwear",
+          "href": "/l/women/occasionwear#intid=gnav_women_core_clothing_occasionwear"
+        },
+        {
+          "text": "Shirts and Blouses",
+          "href": "/l/women/tops/shirts-and-blouses#intid=gnav_women_core_clothing_shirts-and-blouses"
+        },
+        {
+          "text": "Skirts",
+          "href": "/l/women/skirts#intid=gnav_women_core_clothing_skirts"
+        }
+      ],
+      "buttons": [
+        "Clear",
+        "Clear"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "searchTerm",
+              "placeholder": "Search product, code or brand"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "searchTerm",
+              "placeholder": "Search product, code or brand"
+            }
+          ]
+        },
+        {
+          "action": "/webapp/wcs/stores/servlet/MSResUserRegistration?catalogId=10051&myAcctMain=1&langId=-24&storeId=101",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "email",
+              "name": "emailId",
+              "placeholder": "Enter your email address"
+            }
+          ]
+        }
+      ],
+      "links_count": 737,
+      "images_count": 35,
+      "images_with_alt": 32,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to Marks & Spencer"
+        },
+        {
+          "level": 2,
+          "text": "20% off beauty"
+        },
+        {
+          "level": 2,
+          "text": "The Love That Drop: SS26"
+        },
+        {
+          "level": 2,
+          "text": "Textured Faux Leather Jacket"
+        },
+        {
+          "level": 2,
+          "text": "Faux Leather Woven Effect Shirt"
+        },
+        {
+          "level": 2,
+          "text": "Leather Look Woven Effect Mini A-Line Skirt"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "searchTerm",
+          "placeholder": "Search product, code or brand"
+        },
+        {
+          "type": "search",
+          "name": "searchTerm",
+          "placeholder": "Search product, code or brand"
+        },
+        {
+          "type": "email",
+          "name": "emailId",
+          "placeholder": "Enter your email address"
+        }
+      ],
+      "footer_links": [
+        "Help & contact us",
+        "Our stores",
+        "Accessibility in our stores",
+        "Product recalls",
+        "Where's my order?",
+        "Delivery & collection",
+        "Guest order tracking",
+        "Guest order return",
+        "Returns & refunds",
+        "Sparks",
+        "Sparks FAQs",
+        "Gift card balance",
+        "Size guides",
+        "Sustainability",
+        "Ocado",
+        "Corporate site",
+        "M&S Corporate Gifts"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 130,
+      "has_og_tags": true,
+      "meta_description": "Shop on-trend womenswear, quality menswear, home and beauty essentials and mouth-watering food and drink. Order online with free delivery or collection at M&S",
+      "scripts_count": 30
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "20% off beauty promotions",
+        "SS26 fashion drop"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "next",
+    "url": "https://www.next.co.uk",
+    "scanned_at": "2026-03-31T21:51:24.686560",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/next_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/next_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.next.co.uk/",
+      "nav_items": [],
+      "buttons": [
+        "Continue Shopping"
+      ],
+      "forms": [],
+      "links_count": 1,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Oops, something went wrong."
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "strong brand presence",
+        "integrated home and fashion offerings"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sainsburys",
+    "url": "https://www.sainsburys.co.uk",
+    "scanned_at": "2026-03-31T21:51:44.873079",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/sainsburys_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/sainsburys_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.sainsburys.co.uk/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Comprehensive grocery delivery service",
+        "Nectar loyalty program integration"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ikea_uk",
+    "url": "https://www.ikea.com/gb/en/",
+    "scanned_at": "2026-03-31T21:52:05.178779",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/ikea_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/ikea_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Affordable Furniture and Home Inspiration - IKEA UK",
+      "url_final": "https://www.ikea.com/gb/en/",
+      "nav_items": [
+        {
+          "text": "Products",
+          "href": "https://www.ikea.com/gb/en/cat/products-products/"
+        },
+        {
+          "text": "Rooms",
+          "href": "https://www.ikea.com/gb/en/rooms/"
+        },
+        {
+          "text": "Offers",
+          "href": "https://www.ikea.com/gb/en/offers/"
+        },
+        {
+          "text": "Design",
+          "href": "https://www.ikea.com/gb/en/ideas/"
+        },
+        {
+          "text": "Services",
+          "href": "https://www.ikea.com/gb/en/customer-service/services/"
+        }
+      ],
+      "buttons": [
+        "Clear the search input field",
+        "Search",
+        "Sale",
+        "Clearance",
+        "IKEA Family offers",
+        "New lower price",
+        "Review: 4.7 out of 5 stars. Total reviews:(80)",
+        "Review: 3.6 out of 5 stars. Total reviews:(7)",
+        "Review: 4.5 out of 5 stars. Total reviews:(61)",
+        "Review: 4.8 out of 5 stars. Total reviews:(71)",
+        "Review: 4.6 out of 5 stars. Total reviews:(106)"
+      ],
+      "forms": [
+        {
+          "action": "https://www.ikea.com/gb/en/search/",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "q",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 244,
+      "images_count": 140,
+      "images_with_alt": 99,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Welcome to IKEA UK"
+        },
+        {
+          "level": 2,
+          "text": "Sale now on!"
+        },
+        {
+          "level": 2,
+          "text": "Explore our IKEA Family offers"
+        },
+        {
+          "level": 2,
+          "text": "Today's best deals"
+        },
+        {
+          "level": 2,
+          "text": "What's trending"
+        },
+        {
+          "level": 2,
+          "text": "Discover what's new at IKEA"
+        },
+        {
+          "level": 3,
+          "text": "Shop all offers and earn points"
+        },
+        {
+          "level": 3,
+          "text": "KOPPANGChest of 6 drawers, white, 172x44x83 cm"
+        },
+        {
+          "level": 3,
+          "text": "HOLMSUND3-seat sofa bed, Borgunda beige"
+        },
+        {
+          "level": 3,
+          "text": "KOPPANGChest of 5 drawers, white, 90x44x114 cm"
+        },
+        {
+          "level": 3,
+          "text": "SONGESANDChest of 6 drawers, white, 82x126 cm"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "q",
+          "placeholder": "What are you looking for?"
+        },
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s29516932-4a0eb7-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-s29516932-4a0eb7-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70537639-4a0eb7-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70537639-4a0eb7-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70537639-4a0eb7-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70537639-4a0eb7-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70537639-4a0eb7-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-70537639-4a0eb7-P0-5",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30460811-4a0eb7-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30460811-4a0eb7-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-30460811-4a0eb7-P0-6",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90610186-4f007b-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90610186-4f007b-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90610186-4f007b-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90610186-4f007b-P0-0",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90522420-4f007b-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90522420-4f007b-P0-1",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "variant-group-90522420-4f007b-P0-1",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Download now",
+        "Learn more",
+        "Sign up for free",
+        "Delivery",
+        "Click and collect",
+        "Van hire",
+        "Assembly",
+        "Financial services",
+        "Planning appointments and tools",
+        "Kitchen planning & installation",
+        "Buy and sell pre-loved furniture",
+        "Removal & recycling services",
+        "See all services",
+        "Customer services",
+        "Contact us",
+        "Track my order",
+        "Returns",
+        "FAQs",
+        "Order by phone or chat",
+        "Product recalls"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 91,
+      "has_og_tags": true,
+      "meta_description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "scripts_count": 56
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "U",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "U",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "U",
+        "add_to_cart": "U",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "IKEA Family offers",
+        "Buy and sell pre-loved furniture",
+        "Planning appointments and tools"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "boots",
+    "url": "https://www.boots.com",
+    "scanned_at": "2026-03-31T21:52:34.715669",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/boots_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/boots_mobile.png"
+    },
+    "structure": {
+      "title": "",
+      "url_final": "https://www.boots.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 2
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "N",
+        "language_attribute": "N",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive pharmacy services",
+        "health and beauty advice"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "screwfix",
+    "url": "https://www.screwfix.com",
+    "scanned_at": "2026-03-31T21:52:53.722027",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/screwfix_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/screwfix_mobile.png"
+    },
+    "structure": {
+      "title": "Screwfix | The UK's Leading Retailer of Trade Tools & Hardware | Screwfix",
+      "url_final": "https://www.screwfix.com/",
+      "nav_items": [
+        {
+          "text": "Tools",
+          "href": "/c/tools/cat830034"
+        },
+        {
+          "text": "Power Tools",
+          "href": "/c/tools/power-tools/cat830692"
+        },
+        {
+          "text": "Drills",
+          "href": "/c/tools/drills/cat830704"
+        },
+        {
+          "text": "Saws",
+          "href": "/c/tools/saws/cat830716"
+        },
+        {
+          "text": "Kits & Twinpacks",
+          "href": "/c/tools/kits-twinpacks/cat830712"
+        },
+        {
+          "text": "Impact Drivers & Wrenches",
+          "href": "/c/tools/impact-drivers-wrenches/cat830838"
+        },
+        {
+          "text": "Power Tool Batteries & Chargers",
+          "href": "/c/tools/power-tool-batteries-chargers/cat830696"
+        },
+        {
+          "text": "Bare Units",
+          "href": "/c/tools/bare-units/cat7230005"
+        },
+        {
+          "text": "Angle Grinders",
+          "href": "/c/tools/angle-grinders/cat830694"
+        },
+        {
+          "text": "Multi Tools",
+          "href": "/c/tools/multi-tools/cat830708"
+        },
+        {
+          "text": "Sanders",
+          "href": "/c/tools/sanders/cat830906"
+        },
+        {
+          "text": "Nail Guns",
+          "href": "/c/tools/nail-guns/cat830710"
+        },
+        {
+          "text": "Planers",
+          "href": "/c/tools/planers/cat830902"
+        },
+        {
+          "text": "Routers",
+          "href": "/c/tools/routers/cat830904"
+        },
+        {
+          "text": "Glue & Heat Guns",
+          "href": "/c/tools/glue-heat-guns/cat830804"
+        },
+        {
+          "text": "Electric Screwdrivers",
+          "href": "/c/tools/electric-screwdrivers/cat830720"
+        },
+        {
+          "text": "Polishers",
+          "href": "/c/tools/polishers/cat12980002"
+        },
+        {
+          "text": "Wall Chasers",
+          "href": "/c/building-doors/wall-chasers/cat830800"
+        },
+        {
+          "text": "Die Grinders",
+          "href": "/c/tools/die-grinders/cat14970002"
+        },
+        {
+          "text": "Nibblers",
+          "href": "/c/tools/nibblers/cat14970001"
+        }
+      ],
+      "buttons": [
+        "Search",
+        "Search",
+        "Browse",
+        "CUSTOMER SERVICES+",
+        "SHOPPING WITH US+",
+        "ABOUT SCREWFIX+",
+        "MORE FROM SCREWFIX+"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "search",
+              "placeholder": "What are you looking for?"
+            }
+          ]
+        }
+      ],
+      "links_count": 1088,
+      "images_count": 32,
+      "images_with_alt": 28,
+      "headings": [
+        {
+          "level": 2,
+          "text": "CUSTOMER SERVICES"
+        },
+        {
+          "level": 2,
+          "text": "CUSTOMER SERVICES+"
+        },
+        {
+          "level": 2,
+          "text": "SHOPPING WITH US"
+        },
+        {
+          "level": 2,
+          "text": "SHOPPING WITH US+"
+        },
+        {
+          "level": 2,
+          "text": "ABOUT SCREWFIX"
+        },
+        {
+          "level": 3,
+          "text": "Find Out More"
+        },
+        {
+          "level": 3,
+          "text": "Find Out More"
+        },
+        {
+          "level": 3,
+          "text": "Find Out More"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "search",
+          "placeholder": "What are you looking for?"
+        }
+      ],
+      "footer_links": [
+        "Contact Us",
+        "Returns",
+        "FAQs",
+        "Delivery",
+        "Clearance",
+        "Click & Collect",
+        "Find a Store",
+        "Trade Credit Account",
+        "Refurbished Products",
+        "Screwfix Gift Card",
+        "A - Z Brands",
+        "Screwfix Card",
+        "Secure Payment Options",
+        "Screwfix Sprint",
+        "New Online Ranges",
+        "Screwfix Rewards",
+        "Screwfix App",
+        "Black Friday",
+        "Approved Supplier Deliveries",
+        "Rate & Review"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 83,
+      "has_og_tags": false,
+      "meta_description": "Screwfix: Thousands of products at trade prices | FREE delivery available 7 days a week | FREE click & collect in as little as a minute | Hundreds of stores",
+      "scripts_count": 49
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "N",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Trade Credit Account",
+        "Screwfix Sprint"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "bandq",
+    "url": "https://www.diy.com",
+    "scanned_at": "2026-03-31T21:53:14.532747",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/bandq_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/bandq_mobile.png"
+    },
+    "structure": {
+      "title": "DIY Products at Everyday Low Prices at B&Q",
+      "url_final": "https://www.diy.com/",
+      "nav_items": [
+        {
+          "text": "B&Q Club",
+          "href": "/bandqclub#icamp=header_Club"
+        },
+        {
+          "text": "Customer support",
+          "href": "/customer-support/?icamp=Nav_HelpSupport"
+        },
+        {
+          "text": "Sell on diy.com",
+          "href": "https://merchanthub.kingfisher.com/uk-en/start-selling/"
+        },
+        {
+          "text": "Wish list",
+          "href": "/wishlist"
+        },
+        {
+          "text": "Register",
+          "href": "/customer/register?redirectTo=%2F"
+        },
+        {
+          "text": "Sign in",
+          "href": "/customer/signin?redirectTo=%2F"
+        }
+      ],
+      "buttons": [
+        "Enter your postcode",
+        "Menu",
+        "Clear",
+        "Search",
+        "Stores",
+        "Enter your postcode",
+        "Previous slide",
+        "Show slide 1 of 2",
+        "Show slide 2 of 2",
+        "Next slide",
+        "Previous slide",
+        "Show slide 1 of 1",
+        "Next slide",
+        "Previous slide",
+        "Show slide 1 of 1",
+        "Next slide",
+        "Previous slide",
+        "Show slide 1 of 2",
+        "Show slide 2 of 2",
+        "Next slide",
+        "Previous slide",
+        "Show slide 1 of 1",
+        "Next slide",
+        "Previous slide",
+        "Show slide 1 of 2",
+        "Show slide 2 of 2",
+        "Next slide",
+        "Previous slide",
+        "Show slide 1 of 1"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "term",
+              "placeholder": "Search"
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "quantity",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "quantity",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "quantity",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "quantity",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 203,
+      "images_count": 85,
+      "images_with_alt": 28,
+      "headings": [
+        {
+          "level": 1,
+          "text": "DIY.com homepage"
+        },
+        {
+          "level": 2,
+          "text": "Shop our top big sale offers"
+        },
+        {
+          "level": 2,
+          "text": "Jump straight in"
+        },
+        {
+          "level": 2,
+          "text": "Today we enjoy"
+        },
+        {
+          "level": 2,
+          "text": "Today we gather"
+        },
+        {
+          "level": 2,
+          "text": "Today we transform"
+        },
+        {
+          "level": 3,
+          "text": "All Spring Sale"
+        },
+        {
+          "level": 3,
+          "text": "Paint"
+        },
+        {
+          "level": 3,
+          "text": "Garden power"
+        },
+        {
+          "level": 3,
+          "text": "Sheds"
+        },
+        {
+          "level": 3,
+          "text": "Bathrooms"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "term",
+          "placeholder": "Search"
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "quantity",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "B&Q corporate",
+        "Careers",
+        "Media centre",
+        "Responsible business",
+        "Business services",
+        "Affiliate program",
+        "Modern slavery act",
+        "View all our services",
+        "Join B&Q club",
+        "B&Q finance",
+        "B&Q bulk delivery",
+        "Become a B&Q approved installer",
+        "Green star",
+        "Our own brands",
+        "Product information",
+        "Product recalls & safety notices",
+        "Health & safety data sheets",
+        "Promotional terms & conditions",
+        "B&Q Marketplace",
+        "Support and contact us"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 31,
+      "has_og_tags": true,
+      "meta_description": "Shop for everything you need to complete your home and garden project. Order online for 1hr Click+Collect, or free home delivery on orders over \u00a375.",
+      "scripts_count": 26
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "B&Q Club membership",
+        "Sell on diy.com feature"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "very",
+    "url": "https://www.very.co.uk",
+    "scanned_at": "2026-03-31T21:53:34.455223",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/very_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/very_mobile.png"
+    },
+    "structure": {
+      "title": "Very | Womens, Mens and Kids Fashion, Furniture, Electricals & More!",
+      "url_final": "https://www.very.co.uk/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [
+        {
+          "action": "/content/index.jsp;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!551945743?cm_re=H",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "_dyncharset",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "header-searchInput",
+              "placeholder": "Search Very"
+            },
+            {
+              "type": "hidden",
+              "name": "_D:header-searchInput",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/endeca/form/SearchFormHandler.keywordSearch",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/endeca/form/SearchFormHandler.keywordSearch",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/endeca/form/SearchFormHandler.minSearchLength",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/endeca/form/SearchFormHandler.minSearchLength",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/endeca/form/SearchFormHandler.searchDelayPeriod",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/content/template/slots/;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!551945743?_",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "_dyncharset",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_dynSessConf",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.addProductSuccessUrl",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.addProductSuccessUrl",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.addProductErrorUrl",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.addProductErrorUrl",
+              "placeholder": ""
+            },
+            {
+              "type": "submit",
+              "name": "addProductButton",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:addProductButton",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/content/slots/include/speedtrap/;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!55",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "_dyncharset",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "/atg/userprofiling/Profile.id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/atg/userprofiling/Profile.id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_DARGS",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/content/slots/moneyzone/;jsessionid=JC5FPnfFqxZU7DUXgRJNrkrjdFY_1S3LqT_7xXn1v1av78D8ialo!551945743?",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "_dyncharset",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_dynSessConf",
+              "placeholder": ""
+            },
+            {
+              "type": "submit",
+              "name": "/sdg/userprofiling/MoneyZoneFormHandler.moneyZoneRedirect",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_D:/sdg/userprofiling/MoneyZoneFormHandler.moneyZoneRedirect",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "_DARGS",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 874,
+      "images_count": 15,
+      "images_with_alt": 14,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Popular searches"
+        },
+        {
+          "level": 2,
+          "text": "HOME INSURANCE WITH A HOT OFFER!"
+        },
+        {
+          "level": 2,
+          "text": "Pay in 3 with Take 3"
+        },
+        {
+          "level": 2,
+          "text": "Very Pay gives you a choice of ways to pay"
+        },
+        {
+          "level": 2,
+          "text": "Monthly"
+        },
+        {
+          "level": 3,
+          "text": "We Love..."
+        },
+        {
+          "level": 3,
+          "text": "Womens Clothing"
+        },
+        {
+          "level": 3,
+          "text": "Womens Shoes"
+        },
+        {
+          "level": 3,
+          "text": "Womens Accessories"
+        },
+        {
+          "level": 3,
+          "text": "Designers"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_dyncharset",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "header-searchInput",
+          "placeholder": "Search Very"
+        },
+        {
+          "type": "hidden",
+          "name": "_D:header-searchInput",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/sdg/endeca/form/SearchFormHandler.keywordSearch",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:/sdg/endeca/form/SearchFormHandler.keywordSearch",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/sdg/endeca/form/SearchFormHandler.minSearchLength",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:/sdg/endeca/form/SearchFormHandler.minSearchLength",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:/sdg/endeca/form/SearchFormHandler.maxSearchLength",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/sdg/endeca/form/SearchFormHandler.searchDelayPeriod",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:/sdg/endeca/form/SearchFormHandler.searchDelayPeriod",
+          "placeholder": ""
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_DARGS",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_dyncharset",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_dynSessConf",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "_D:/sdg/commerce/saveditems/SavedItemsFormHandler.productIds",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "/sdg/commerce/saveditems/SavedItemsFormHandler.addProductSuccessUrl",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "Discover fashion, home, tech & more online with a choice of ways to pay and next day delivery with click & collect. Download our app for exclusive offers",
+      "scripts_count": 78
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Very Pay options",
+        "Pay in 3 with Take 3"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "ao",
+    "url": "https://ao.com",
+    "scanned_at": "2026-03-31T21:53:54.857728",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/ao_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/ao_mobile.png"
+    },
+    "structure": {
+      "title": "Just a moment...",
+      "url_final": "https://ao.com/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 2,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "ao.com"
+        },
+        {
+          "level": 2,
+          "text": "Performing security verification"
+        },
+        {
+          "level": 2,
+          "text": "Verification successful. Waiting for ao.com to respond"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "cf-turnstile-response",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 4
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive appliance selection",
+        "price match promise",
+        "next day delivery"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sports_direct",
+    "url": "https://www.sportsdirect.com",
+    "scanned_at": "2026-03-31T21:54:14.079990",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sportsdirect.com/\nCall log:\n  - navigating to \"https://www.sportsdirect.com/\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sportsdirect.com/\nCall log:\n  - navigating to \"https://www.sportsdirect.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive sports brand selection",
+        "frequent sales and discounts"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "dunelm",
+    "url": "https://www.dunelm.com",
+    "scanned_at": "2026-03-31T21:54:23.739760",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/dunelm_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/dunelm_mobile.png"
+    },
+    "structure": {
+      "title": "Dunelm SPRING EVENT | Up To 50% Off Home Furnishings",
+      "url_final": "https://www.dunelm.com/",
+      "nav_items": [
+        {
+          "text": "Offers & Savings",
+          "href": "/category/offers/all-offers"
+        },
+        {
+          "text": "New",
+          "href": "/category/new"
+        },
+        {
+          "text": "Garden & Travel",
+          "href": "/category/garden"
+        },
+        {
+          "text": "Furniture & Beds",
+          "href": "/category/home-and-furniture/furniture"
+        },
+        {
+          "text": "Bedding",
+          "href": "/category/home-and-furniture/bedding"
+        },
+        {
+          "text": "Home Decor",
+          "href": "/category/home-decor"
+        },
+        {
+          "text": "Curtains",
+          "href": "/category/home-and-furniture/curtains-and-blinds/curtains"
+        },
+        {
+          "text": "Blinds",
+          "href": "/category/home-and-furniture/curtains-and-blinds/blinds"
+        },
+        {
+          "text": "Lighting",
+          "href": "/category/lighting"
+        },
+        {
+          "text": "Rugs",
+          "href": "/category/rugs"
+        },
+        {
+          "text": "Kitchen",
+          "href": "/category/home-and-furniture/cook-and-dine"
+        },
+        {
+          "text": "Bath",
+          "href": "/category/home-and-furniture/bathroom"
+        },
+        {
+          "text": "Decorating & DIY",
+          "href": "/category/diy-and-decorating"
+        },
+        {
+          "text": "Storage",
+          "href": "/category/home-and-furniture/storage"
+        },
+        {
+          "text": "Kids",
+          "href": "/category/kids"
+        }
+      ],
+      "buttons": [
+        "Open Menu",
+        "Search",
+        "Close",
+        "Search",
+        "Close",
+        "My Account",
+        "Sign Up",
+        "Adjust Settings",
+        "Only Essential Cookies",
+        "Allow All",
+        "Allow All",
+        "Back Button",
+        "Filter Icon",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Only Essential Cookies",
+        "Save & Continue",
+        "Skip to Content",
+        "Favourites",
+        "Basket",
+        "Skip listing",
+        "All offers",
+        "Bedding"
+      ],
+      "forms": [
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 133,
+      "images_count": 35,
+      "images_with_alt": 33,
+      "headings": [
+        {
+          "level": 2,
+          "text": "The Home of"
+        },
+        {
+          "level": 2,
+          "text": "Free same-day Click & Collect"
+        },
+        {
+          "level": 2,
+          "text": "Subscribe to our Newsletter"
+        },
+        {
+          "level": 2,
+          "text": "Customer Service"
+        },
+        {
+          "level": 2,
+          "text": "Ways to Shop"
+        },
+        {
+          "level": 3,
+          "text": "Manage Consent Preferences"
+        },
+        {
+          "level": 3,
+          "text": "Cookie List"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Terms and Conditions",
+        "Privacy Policy",
+        "Promotions Terms and Conditions",
+        "Returns & Refunds",
+        "Returns Policy",
+        "Contact Us",
+        "Help",
+        "Track My Order",
+        "FAQs",
+        "Cancellations",
+        "Airtasker",
+        "Product Guarantees",
+        "Store Finder",
+        "Delivery",
+        "Click & Collect",
+        "Download our NEW App",
+        "Gift Cards",
+        "Brands",
+        "Help & Advice Guides",
+        "Finance Options"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 48,
+      "has_og_tags": false,
+      "meta_description": "DUNELM'S SPRING EVENT IS ON! Don't miss out on our discounted home furnishings and save on bedding, curtains, furniture, mattresses & more.\n",
+      "scripts_count": 21
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "N",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Free same-day Click & Collect",
+        "Extensive category browsing options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "wayfair_uk",
+    "url": "https://www.wayfair.co.uk",
+    "scanned_at": "2026-03-31T21:54:45.476369",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/wayfair_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/wayfair_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Access to this page has been denied",
+      "url_final": "https://www.wayfair.co.uk/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "px-captcha",
+      "scripts_count": 5
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product variety",
+        "AR-based room visualization"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "holland_barrett",
+    "url": "https://www.hollandandbarrett.com",
+    "scanned_at": "2026-03-31T21:55:06.709069",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/holland_barrett_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/holland_barrett_mobile.png"
+    },
+    "structure": {
+      "title": "Holland & Barrett - The UK's Leading Health & Wellness Store",
+      "url_final": "https://www.hollandandbarrett.com/",
+      "nav_items": [
+        {
+          "text": "Shop",
+          "href": "/shop/vitamins-supplements/"
+        },
+        {
+          "text": "Offers",
+          "href": "/shop/offers/"
+        },
+        {
+          "text": "Health & Wellness",
+          "href": "/shop/health-wellness/joints-bones-muscles/"
+        },
+        {
+          "text": "Limited timeThe BIG Payday Event",
+          "href": "/shop/offers/payday-event/"
+        },
+        {
+          "text": "Vitamins & Supplements",
+          "href": "/shop/vitamins-supplements/"
+        },
+        {
+          "text": "Hair, Skin & Nails",
+          "href": "/shop/vitamins-supplements/condition/hair-skin-nails/"
+        },
+        {
+          "text": "Collagen & Silica",
+          "href": "/shop/vitamins-supplements/supplements/collagen-silica/"
+        },
+        {
+          "text": "Muscle Support & Joint Pain",
+          "href": "/shop/vitamins-supplements/condition/muscle-support-joint-pain/"
+        },
+        {
+          "text": "Digestive Health",
+          "href": "/shop/vitamins-supplements/condition/digestive-health/"
+        },
+        {
+          "text": "Magnesium",
+          "href": "/shop/vitamins-supplements/minerals/magnesium/"
+        },
+        {
+          "text": "Functional Mushrooms",
+          "href": "/shop/vitamins-supplements/supplements/plant-sourced-supplements/functional-mushrooms/"
+        },
+        {
+          "text": "Vitamins",
+          "href": "/shop/vitamins-supplements/vitamins/"
+        },
+        {
+          "text": "Minerals",
+          "href": "/shop/vitamins-supplements/minerals/"
+        },
+        {
+          "text": "Supplements",
+          "href": "/shop/vitamins-supplements/supplements/"
+        },
+        {
+          "text": "Longevity",
+          "href": "/shop/vitamins-supplements/longevity/"
+        },
+        {
+          "text": "Condition",
+          "href": "/shop/vitamins-supplements/condition/"
+        },
+        {
+          "text": "Women's Health",
+          "href": "/shop/vitamins-supplements/condition/women-s-health/"
+        },
+        {
+          "text": "Men's Health",
+          "href": "/shop/vitamins-supplements/condition/men-s-health/"
+        },
+        {
+          "text": "Children's Health",
+          "href": "/shop/vitamins-supplements/condition/children-s-health/"
+        },
+        {
+          "text": "CBD Vitamins & Supplements",
+          "href": "/shop/vitamins-supplements/cbd/"
+        }
+      ],
+      "buttons": [
+        "Top brands",
+        "Shop by offer",
+        "Shop by dietary need",
+        "Shop by main ingredient",
+        "Top brands",
+        "Shop by offer",
+        "Shop by dietary need",
+        "Shop by main ingredient",
+        "Top brands",
+        "Shop by offer",
+        "Shop by dietary need",
+        "Shop by main ingredient",
+        "Top brands",
+        "Shop by offer",
+        "Shop by dietary need",
+        "Shop by main ingredient",
+        "Shop by skin concern",
+        "Shop by skin type",
+        "Shop by hair concern",
+        "Shop by hair type",
+        "Top brands",
+        "Shop by offer",
+        "Shop by dietary need",
+        "Shop by main ingredient",
+        "Top brands",
+        "Shop by offer",
+        "Shop by dietary need",
+        "Top brands",
+        "Shop by offer"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search products, brands, articles..."
+            }
+          ]
+        }
+      ],
+      "links_count": 994,
+      "images_count": 77,
+      "images_with_alt": 71,
+      "headings": [
+        {
+          "level": 2,
+          "text": "The BIG Payday Event"
+        },
+        {
+          "level": 2,
+          "text": "Shop by wellness goal"
+        },
+        {
+          "level": 2,
+          "text": "Your Cookie Settings"
+        },
+        {
+          "level": 2,
+          "text": "My Cookie Preference Center"
+        },
+        {
+          "level": 3,
+          "text": "Treat yourself to offers on 1000+ favourites"
+        },
+        {
+          "level": 3,
+          "text": "Gut Health"
+        },
+        {
+          "level": 3,
+          "text": "Active Nutrition"
+        },
+        {
+          "level": 3,
+          "text": "Joints, Bones & Muscles"
+        },
+        {
+          "level": 3,
+          "text": "Beauty"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search products, brands, articles..."
+        },
+        {
+          "type": "text",
+          "name": "firstName",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "lastName",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Help Centre",
+        "Contact Us",
+        "Track your order",
+        "My Account",
+        "Student Discount",
+        "Store Locator",
+        "Home Delivery",
+        "Click & Collect",
+        "Returns",
+        "International Delivery",
+        "Product Recall",
+        "GDPR Data Rights Requests",
+        "Who we are",
+        "Working at Holland & Barrett",
+        "Press Releases"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 214,
+      "has_og_tags": false,
+      "meta_description": "With over 150 years of experience in health and wellness. Shop H&B for all your vitamins, supplements, protein, beauty, gluten-free and vegan foods - and so much more!",
+      "scripts_count": 92
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "U",
+        "wishlist": "Y",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "The BIG Payday Event",
+        "Shop by wellness goal"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "decathlon_uk",
+    "url": "https://www.decathlon.co.uk",
+    "scanned_at": "2026-03-31T21:55:28.739671",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/decathlon_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/decathlon_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Decathlon | Sports Shoes, Sports Gear & Sports Equipment",
+      "url_final": "https://www.decathlon.co.uk/",
+      "nav_items": [],
+      "buttons": [
+        "Cookie Settings",
+        "Reject non-essential",
+        "Accept and close",
+        "Sign me up",
+        "Sign me up",
+        "Clear",
+        "Sports",
+        "Women",
+        "Men",
+        "Kids",
+        "Accessories",
+        "Nutrition & Body Care",
+        "Deals",
+        "Services",
+        "Business & Schools",
+        "Brands",
+        "Ecodesigners and makers",
+        "Tested by real people",
+        "Co-created with athletes"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Your email address"
+            }
+          ]
+        },
+        {
+          "action": "/search",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        }
+      ],
+      "links_count": 389,
+      "images_count": 61,
+      "images_with_alt": 39,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Spring sports, priced right."
+        },
+        {
+          "level": 2,
+          "text": "Member only deal"
+        },
+        {
+          "level": 2,
+          "text": "Taylormade Qi4D sale"
+        },
+        {
+          "level": 2,
+          "text": "Trending now"
+        },
+        {
+          "level": 2,
+          "text": "Garden Games"
+        },
+        {
+          "level": 3,
+          "text": "Stay ahead of the game. Sign up & save!"
+        },
+        {
+          "level": 3,
+          "text": "Ecodesigners and makers"
+        },
+        {
+          "level": 3,
+          "text": "Tested by real people"
+        },
+        {
+          "level": 3,
+          "text": "Co-created with athletes"
+        },
+        {
+          "level": 3,
+          "text": "Services"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Your email address"
+        },
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search"
+        }
+      ],
+      "footer_links": [
+        "1-year returnsFor Decathlon-made products",
+        "2-year warrantyFor Decathlon-made products",
+        "We buy backSave money & trade in old gear",
+        "Collect in-store1-hour pickup at selected stores",
+        "Download the App",
+        "Become a member",
+        "Book an activity",
+        "Giftcard",
+        "B2B Giftcard",
+        "Click & Collect",
+        "Buy back",
+        "Workshop",
+        "Second Life",
+        "Cycle to work",
+        "Bike insurance",
+        "Kit personalisation"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 108,
+      "has_og_tags": false,
+      "meta_description": "Shop 70+ sports in-store & online, free shipping on select in-app purchases. Free click & collect. 2-year Decathlon product warranty. Members\u2026",
+      "scripts_count": 140
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "Y",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "U",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "Y",
+        "help_center": "U",
+        "live_chat": "U",
+        "contact_form": "U",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "Y",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Ecodesigners and makers",
+        "Tested by real people",
+        "Co-created with athletes",
+        "1-hour pickup at selected stores"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "ocado",
+    "url": "https://www.ocado.com",
+    "scanned_at": "2026-03-31T21:55:54.528150",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/ocado_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/ocado_mobile.png"
+    },
+    "structure": {
+      "title": "Online Food Shopping & Grocery Delivery | Ocado",
+      "url_final": "https://www.ocado.com/",
+      "nav_items": [
+        {
+          "text": "Help",
+          "href": "https://help.ocadoretail.com/"
+        },
+        {
+          "text": "M&S at Ocado",
+          "href": "/categories/m-s/0b510156-4941-4b1a-af42-e626229abe5d"
+        },
+        {
+          "text": "Easter",
+          "href": "/categories/easter/8e90da42-f231-4775-ad10-8664d4f04ef4"
+        },
+        {
+          "text": "Spring Savings",
+          "href": "/categories/big-spring-savings/dc21adf6-270d-4bc2-b77f-ea101a2a9692"
+        },
+        {
+          "text": "New Arrivals",
+          "href": "/categories/new-trending/new/9c727c0b-e6d8-4e07-b6d9-5126e8c9ef9d"
+        },
+        {
+          "text": "Big Wine Sale - Buy 6, Save 25%",
+          "href": "/categories/big-wine-sale-buy-any-6-save-25/aa46eafd-4e0b-4df5-88be-5cbca4d4bf01"
+        },
+        {
+          "text": "Easter Feast",
+          "href": "/categories/easter/easter-feast/0e29bced-40b3-4d1c-a9b3-e2009d8fe6fe"
+        },
+        {
+          "text": "School Holiday Stock Up",
+          "href": "/categories/school-holiday-stock-up/50fdf5be-ed1c-401a-874b-d0287169b876"
+        },
+        {
+          "text": "Frozen Food Sale",
+          "href": "/categories/frozen-food-sale/7b747de2-b9d6-4772-acf8-6b2c2c5683e7"
+        },
+        {
+          "text": "Big Brand Offers",
+          "href": "/categories/big-brand-offers/fecb2247-6f0e-4e89-85d4-63b310a6db07"
+        },
+        {
+          "text": "Ocado Price Promise",
+          "href": "https://www.ocado.com/content/ocado-price-promise"
+        }
+      ],
+      "buttons": [
+        "Top tabs menu",
+        "Find a product",
+        "Log in",
+        "Choose yourdelivery location",
+        "\u00a30.00",
+        "Browse Shop",
+        "Main menu",
+        "Close In-page content block",
+        "Check if we deliver to youSee the products and opt",
+        "View previous in The feeling is mutual",
+        "View next in The feeling is mutual",
+        "View previous in The feeling is mutual",
+        "View next in The feeling is mutual",
+        "View previous in Frequently Asked Questions",
+        "View next in Frequently Asked Questions",
+        "View previous in Frequently Asked Questions",
+        "View next in Frequently Asked Questions",
+        "View previous in Popular plates",
+        "View next in Popular plates",
+        "View previous in Popular plates",
+        "View next in Popular plates",
+        "Add",
+        "Add",
+        "Add",
+        "Add",
+        "Add",
+        "Add",
+        "Add",
+        "Add"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "q",
+              "placeholder": "Find a product"
+            }
+          ]
+        }
+      ],
+      "links_count": 221,
+      "images_count": 43,
+      "images_with_alt": 29,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Your favourite groceries delivered by Ocado"
+        },
+        {
+          "level": 2,
+          "text": "Log in"
+        },
+        {
+          "level": 2,
+          "text": "Register"
+        },
+        {
+          "level": 2,
+          "text": "Check if we deliver to you"
+        },
+        {
+          "level": 2,
+          "text": "Why shop at Ocado?"
+        },
+        {
+          "level": 2,
+          "text": "The feeling is mutual"
+        },
+        {
+          "level": 3,
+          "text": "Featured"
+        },
+        {
+          "level": 3,
+          "text": "Patak's Chilli & Garlic Curry Kit"
+        },
+        {
+          "level": 3,
+          "text": "Sensations Thai Sweet Chilli Sharing Bag Crisps"
+        },
+        {
+          "level": 3,
+          "text": "Coca-Cola Zero Sugar"
+        },
+        {
+          "level": 3,
+          "text": "Sensodyne Clinical Repair Deep Clean Sensitive Toothpaste, 75ml"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "q",
+          "placeholder": "Find a product"
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Help Centre(Link opens in a new window)(Link opens",
+        "Privacy & Cookie Policy",
+        "Terms & Conditions",
+        "Privacy & Cookie Policy",
+        "Accessibility Statement",
+        "Security Policy",
+        "Customer Reviews Policy",
+        "Ocado Retail Limited, registered in England and Wa",
+        "Frequently Asked Questions(Link opens in a new win",
+        "Bag Recycling Information",
+        "ocadoretail.com(Link opens in a new window)",
+        "marksandspencer.com(Link opens in a new window)",
+        "Sustainability(Link opens in a new window)",
+        "Modern Slavery Statement(Link opens in a new windo",
+        "Contact Us",
+        "Alcohol Policy(Link opens in a new window)",
+        "Working with us(Link opens in a new window)",
+        "Locations(Link opens in a new window)",
+        "Fresh & Chilled Food",
+        "Food Cupboard"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 39,
+      "has_og_tags": false,
+      "meta_description": "Shop big brands, fresh produce and M&S Food with 25% off your first shop + 3 months free delivery. Reliable online food shopping and grocery delivery.",
+      "scripts_count": 25
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "N",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "N",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "N",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Ocado Price Promise",
+        "M&S partnership for exclusive products"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "boohoo",
+    "url": "https://www.boohoo.com",
+    "scanned_at": "2026-03-31T21:56:15.311620",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/boohoo_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/boohoo_mobile.png"
+    },
+    "structure": {
+      "title": "boohoo | Womens and Mens Clothes | Shop Online Fashion",
+      "url_final": "https://www.boohoo.com/",
+      "nav_items": [
+        {
+          "text": "New In",
+          "href": "/categories/womens-new-in"
+        },
+        {
+          "text": "View All New In",
+          "href": "/categories/womens-new-in"
+        },
+        {
+          "text": "New In This Week",
+          "href": "/categories/new-in-this-week"
+        },
+        {
+          "text": "New Season",
+          "href": "/categories/womens-new-season"
+        },
+        {
+          "text": "New In Dresses",
+          "href": "/categories/womens-new-in-dresses"
+        },
+        {
+          "text": "New In Tops",
+          "href": "/categories/womens-new-in-tops"
+        },
+        {
+          "text": "New In Trousers",
+          "href": "/categories/womens-new-in-trousers"
+        },
+        {
+          "text": "New In Coats & Jackets",
+          "href": "/categories/womens-new-in-coats-jackets"
+        },
+        {
+          "text": "New In Accessories",
+          "href": "/categories/shoes-accessories-new-in-accessories"
+        },
+        {
+          "text": "New In Shoes & Boots",
+          "href": "/categories/shoes-accessories-new-in-shoes"
+        },
+        {
+          "text": "New In Mens",
+          "href": "/categories/mens-new-in"
+        },
+        {
+          "text": "New In Beauty",
+          "href": "/categories/beauty-new-in"
+        },
+        {
+          "text": "New In HomewaresNEW",
+          "href": "/categories/home"
+        },
+        {
+          "text": "Back In Stock",
+          "href": "/categories/womens-collections-back-in-stock"
+        },
+        {
+          "text": "New In Plus Size",
+          "href": "/categories/womens-new-in-plus-size"
+        },
+        {
+          "text": "New In Petite",
+          "href": "/categories/womens-new-in-petite"
+        },
+        {
+          "text": "New In Tall",
+          "href": "/categories/womens-new-in-tall"
+        },
+        {
+          "text": "New In Maternity",
+          "href": "/categories/womens-new-in-maternity"
+        },
+        {
+          "text": "Ways To Wear",
+          "href": "/categories/ways-to-wear"
+        },
+        {
+          "text": "Workwear",
+          "href": "/categories/womens-workwear"
+        }
+      ],
+      "buttons": [
+        "Change",
+        "View Similar",
+        "search",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "Shop Now",
+        "New Arrivals",
+        "Trending",
+        "Polka Dots",
+        "Jackets"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search Products and Brands"
+            },
+            {
+              "type": "file",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 1050,
+      "images_count": 86,
+      "images_with_alt": 84,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Boohoo"
+        },
+        {
+          "level": 2,
+          "text": "Let's get to know each other"
+        },
+        {
+          "level": 2,
+          "text": "Hello!"
+        },
+        {
+          "level": 2,
+          "text": "HOW BOOHOO USES COOKIES"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search Products and Brands"
+        },
+        {
+          "type": "file",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Please enter your email address"
+        },
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "family of brands",
+        "Privacy Policy.",
+        "Premier Delivery",
+        "Gift Cards",
+        "Gift Card Balance",
+        "PayPal",
+        "Clearpay",
+        "Klarna",
+        "Student Beans",
+        "UNiDAYS",
+        "boohoo Collective",
+        "boohoo App",
+        "Size Guide",
+        "Return Your Order",
+        "Frequently Asked Questions",
+        "Delivery Information",
+        "Returns Information",
+        "Contact Us",
+        "Privacy Policy",
+        "Terms & Conditions"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 101,
+      "has_og_tags": true,
+      "meta_description": "Shop boohoo's range of women's and men's clothing for the latest fashion pieces you need to be adding-to-basket, with 100s of new styles landing every day!",
+      "scripts_count": 26
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive new-in categories",
+        "integration with multiple payment options like Klarna and Clearpay",
+        "student discounts through UNiDAYS and Student Beans"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "nike_uk",
+    "url": "https://www.nike.com/gb/",
+    "scanned_at": "2026-03-31T21:56:36.282672",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/nike_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/nike_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Nike. Just Do It. Nike UK",
+      "url_final": "https://www.nike.com/gb/",
+      "nav_items": [
+        {
+          "text": "Skip to main content",
+          "href": "#skip-to-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/gb/jordan"
+        },
+        {
+          "text": "",
+          "href": "https://www.converse.com/gb"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.nike.com/gb/retail"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/gb/help"
+        },
+        {
+          "text": "Help",
+          "href": "https://www.nike.com/gb/help"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/gb/orders/details"
+        },
+        {
+          "text": "Dispatch and Delivery",
+          "href": "https://www.nike.com/gb/help/a/shipping-delivery-eu"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.nike.com/gb/help/a/returns-policy-eu"
+        },
+        {
+          "text": "Size Charts",
+          "href": "https://www.nike.com/gb/help/a/size-charts-eu"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/gb/help/#contact"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://agreementservice.svs.nike.com/gb/en_gb/rest/agreement?agreementType=privacyPolicy&uxId=com.n"
+        },
+        {
+          "text": "Terms of Sale",
+          "href": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=termsOfSale&uxId=com.nike.tos&cou"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://agreementservice.svs.nike.com/gb/en_gb/rest/agreement?agreementType=termsOfUse&uxId=com.nike"
+        },
+        {
+          "text": "Send Us Feedback",
+          "href": "#site-feedback"
+        },
+        {
+          "text": "Join Us",
+          "href": "https://www.nike.com/gb/membership"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://www.nike.com/gb/register"
+        },
+        {
+          "text": "",
+          "href": "https://www.nike.com/gb/"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.com/gb/w/new-3n82y"
+        },
+        {
+          "text": "New",
+          "href": "https://www.nike.com/gb/w/new-3n82y"
+        }
+      ],
+      "buttons": [
+        "United Kingdom",
+        "T\u00fcrkiye",
+        "T\u00fcrk\u00e7e",
+        "Brands",
+        "Brands",
+        "Cancel",
+        "Cancel",
+        "United Kingdom",
+        "shox z",
+        "shox",
+        "p6000",
+        "football boots",
+        "air max 95",
+        "air force 1",
+        "air max",
+        "jordan",
+        "Shop England",
+        "Shop All Teams",
+        "Shop England",
+        "Shop All Teams",
+        "Shop",
+        "Shop"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "",
+              "placeholder": "Search"
+            }
+          ]
+        }
+      ],
+      "links_count": 448,
+      "images_count": 22,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "T\u00fcrkiye konumunda oldu\u011funuzu d\u00fc\u015f\u00fcn\u00fcyoruz. Konumun g\u00fcncellensin mi?"
+        },
+        {
+          "level": 1,
+          "text": "RISK IT ALL.TAKE IT ALL."
+        },
+        {
+          "level": 2,
+          "text": "Shop Our Icons"
+        },
+        {
+          "level": 2,
+          "text": "Community Discounts"
+        },
+        {
+          "level": 2,
+          "text": "Africa"
+        },
+        {
+          "level": 2,
+          "text": "Americas"
+        },
+        {
+          "level": 2,
+          "text": "Asia Pacific"
+        },
+        {
+          "level": 3,
+          "text": "RISK IT ALL.TAKE IT ALL."
+        },
+        {
+          "level": 3,
+          "text": "No Pitch is Safe"
+        },
+        {
+          "level": 3,
+          "text": "Heritage Meets Attitude"
+        },
+        {
+          "level": 3,
+          "text": "Above The influence"
+        },
+        {
+          "level": 3,
+          "text": "Spring '26 Gym Collection"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "search",
+          "name": "",
+          "placeholder": "Search"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Gift Cards",
+        "Corporate Gift Cards",
+        "Find a Store",
+        "Nike Journal",
+        "Become a Member",
+        "Feedback",
+        "Promo Codes",
+        "Product Advice",
+        "Running Shoe Finder",
+        "Get Help",
+        "Order Status",
+        "Delivery",
+        "Returns",
+        "Payment Options",
+        "Contact Us",
+        "Reviews",
+        "Nike Promo Codes Help",
+        "About Nike",
+        "News",
+        "Careers"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 107,
+      "has_og_tags": true,
+      "meta_description": "Inspiring the world's athletes, Nike delivers innovative products, experiences and services.",
+      "scripts_count": 96
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Community Discounts",
+        "Nike Journal",
+        "Running Shoe Finder"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "samsung_uk",
+    "url": "https://www.samsung.com/uk/",
+    "scanned_at": "2026-03-31T21:56:57.546743",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/samsung_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/samsung_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Samsung UK | Mobile | Home Electronics | Home Appliances | TV",
+      "url_final": "https://www.samsung.com/uk/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/uk/"
+        },
+        {
+          "text": "BasketNumber of products :0",
+          "href": "https://shop.samsung.com/uk/cart/"
+        },
+        {
+          "text": "Sign In",
+          "href": ""
+        },
+        {
+          "text": "Open My Menu",
+          "href": ""
+        },
+        {
+          "text": "ShopExplore Shop",
+          "href": "/uk/offer/"
+        },
+        {
+          "text": "Shop",
+          "href": "/uk/offer/"
+        },
+        {
+          "text": "Galaxy S26 UltraNew",
+          "href": "/uk/smartphones/galaxy-s26-ultra/buy/"
+        },
+        {
+          "text": "Galaxy Z Fold7",
+          "href": "/uk/smartphones/galaxy-z-fold7/buy/"
+        },
+        {
+          "text": "Galaxy Tab S11 Series",
+          "href": "/uk/tablets/galaxy-tab-s11/buy/"
+        },
+        {
+          "text": "Galaxy Watch Ultra",
+          "href": "/uk/watches/galaxy-watch-ultra-2025/buy/"
+        },
+        {
+          "text": "Galaxy Buds4 ProNew",
+          "href": "/uk/audio-sound/galaxy-buds4-pro/buy/"
+        },
+        {
+          "text": "Galaxy Book6 SeriesNew",
+          "href": "/uk/computers/galaxy-book/galaxy-book6-series/buy/"
+        },
+        {
+          "text": "Neo QLED 8K TV",
+          "href": "/uk/tvs/qled-tv/qn990f-75-inch-neo-qled-8k-mini-led-smart-tv-qe75qn990ftxxu/"
+        },
+        {
+          "text": "OLED 4K TV",
+          "href": "/uk/tvs/oled-tv/s95f-65-inch-oled-4k-smart-tv-qe65s95fatxxu/"
+        },
+        {
+          "text": "The Frame Pro",
+          "href": "/uk/lifestyle-tvs/the-frame/ls03fw-75-inch-the-frame-pro-neo-qled-4k-vision-ai-smart-tv-black-qe75ls"
+        },
+        {
+          "text": "Odyssey OLED G8",
+          "href": "/uk/monitors/gaming/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg810suxxu/"
+        },
+        {
+          "text": "Bespoke AI Refrigerator",
+          "href": "/uk/refrigerators/bottom-mount-freezer/bottom-mount-freezer-with-smartthings-ai-energy-mo-387l-silve"
+        },
+        {
+          "text": "Bespoke AI Washer",
+          "href": "/uk/washers-and-dryers/washing-machines/ww8400d-front-loading-smartthings-ai-energy-made-a-40-percen"
+        },
+        {
+          "text": "Bespoke AI Jet Ultra",
+          "href": "/uk/vacuum-cleaners/stick/vc9700cl-stick-vc-with-most-powerful-jet-aiultra-400w-black-vs90f40dek-eu/"
+        },
+        {
+          "text": "Oven Dual Cook Flex",
+          "href": "/uk/cooking-appliances/ovens/nv7000b-5series-dual-cook-flex-simple-steam-5series-dual-cook-flex-nv7b"
+        }
+      ],
+      "buttons": [
+        "United Kingdom",
+        "United Kingdom / English",
+        "T\u00fcrkiye / T\u00fcrk\u00e7e",
+        "Other Countries",
+        "Continue",
+        "Close",
+        "SearchSearch",
+        "Navigation",
+        "Back",
+        "Search",
+        "Shop",
+        "Mobile",
+        "TV & AV",
+        "Appliances",
+        "Computers & Monitors",
+        "Wearables",
+        "Accessories",
+        "Support",
+        "Product Help",
+        "Contact",
+        "Repairs & Warranty",
+        "Additional Support",
+        "SearchSearch",
+        "Sign In/Sign-Up",
+        "Open My Menu",
+        "Close menu",
+        "OK",
+        "Close",
+        "OK",
+        "Close"
+      ],
+      "forms": [
+        {
+          "action": "https://account.samsung.com/accounts/v1/Samsung_com_UK/signInGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "response_type",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "locale",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "redirect_uri",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "scope",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/accounts/v1/Samsung_com_UK/signOutGate",
+          "method": "get",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "client_id",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "state",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "signOutURL",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "registURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "returnURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "https://account.samsung.com/membership/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "hidden",
+              "name": "actionID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceID",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "serviceName",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "domain",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "countryCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "languageCode",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "goBackURL",
+              "placeholder": ""
+            },
+            {
+              "type": "hidden",
+              "name": "ssoType",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 344,
+      "images_count": 191,
+      "images_with_alt": 58,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Samsung"
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": ""
+        },
+        {
+          "level": 2,
+          "text": "Recommended for you"
+        },
+        {
+          "level": 2,
+          "text": "Explore the Stories"
+        },
+        {
+          "level": 2,
+          "text": "Estimate your installment plan"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "hidden",
+          "name": "searchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "esapiSearchDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "scene7domain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reviewUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "aplautYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "reevooUseYN",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "bvRTLFlag",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "multiLanguageYn",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "localLang",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "runmodeInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "apiStageInfo",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "tempTitle",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "siteCode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "store_sitecode",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "language",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "serverType",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "gpvStoreDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "storeWebDomain",
+          "placeholder": ""
+        },
+        {
+          "type": "hidden",
+          "name": "shopIntegrationFlag",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Open",
+        "Shop Home",
+        "Buy Direct Get More",
+        "SmartThings",
+        "Discover AI",
+        "Mobile Shop Picks",
+        "TV Shop Picks",
+        "Home Appliances Shop Picks",
+        "Monitor Shop Picks",
+        "Student & Youth",
+        "Key Workers & Teachers",
+        "Shop App",
+        "Samsung KX LDN",
+        "Samsung Experience Stores",
+        "Affiliate Partner Programme",
+        "Explore",
+        "Open",
+        "Galaxy Smartphone",
+        "Galaxy Tab",
+        "Galaxy Book"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 193,
+      "has_og_tags": true,
+      "meta_description": "Welcome to Samsung UK. Discover a wide range of home electronics with cutting-edge technology including TVs, smartphones, tablets, home appliances & more!",
+      "scripts_count": 51
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "U",
+        "search_filters": "U",
+        "category_browsing": "Y",
+        "trending_items": "U",
+        "login_signup": "Y",
+        "social_login": "U",
+        "guest_checkout": "U",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "U",
+        "stock_availability": "U",
+        "related_products": "U",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "U",
+        "multiple_payment": "U",
+        "shipping_info": "U",
+        "estimated_delivery": "U",
+        "star_ratings": "U",
+        "customer_reviews": "U",
+        "review_photos": "U",
+        "wishlist": "U",
+        "recently_viewed": "U",
+        "personalized_recommendations": "Y",
+        "push_notifications": "U",
+        "order_tracking": "U",
+        "order_history": "U",
+        "return_refund_info": "U",
+        "help_center": "Y",
+        "live_chat": "U",
+        "contact_form": "Y",
+        "phone_support": "U",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "U",
+        "cookie_consent": "U",
+        "terms_of_service": "U",
+        "responsive_design": "Y",
+        "sticky_header": "U",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "U",
+        "hero_section": "U",
+        "skeleton_loading": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Explore the Stories",
+        "Estimate your installment plan"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "apple_uk",
+    "url": "https://www.apple.com/uk/shop",
+    "scanned_at": "2026-03-31T21:57:18.188631",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/apple_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/apple_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Apple Store Online - Apple (UK)",
+      "url_final": "https://www.apple.com/uk/store",
+      "nav_items": [
+        {
+          "text": "Apple",
+          "href": "https://www.apple.com/uk/"
+        },
+        {
+          "text": "Store",
+          "href": "/uk/store"
+        },
+        {
+          "text": "Shop the Latest",
+          "href": "https://www.apple.com/uk/store"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/uk/shop/buy-mac"
+        },
+        {
+          "text": "iPad",
+          "href": "https://www.apple.com/uk/shop/buy-ipad"
+        },
+        {
+          "text": "iPhone",
+          "href": "https://www.apple.com/uk/shop/buy-iphone"
+        },
+        {
+          "text": "Apple\u00a0Watch",
+          "href": "https://www.apple.com/uk/shop/buy-watch"
+        },
+        {
+          "text": "Apple Vision Pro",
+          "href": "https://www.apple.com/uk/shop/goto/buy_vision"
+        },
+        {
+          "text": "AirPods",
+          "href": "https://www.apple.com/uk/shop/goto/airpods/accessories"
+        },
+        {
+          "text": "Accessories",
+          "href": "https://www.apple.com/uk/shop/accessories/all"
+        },
+        {
+          "text": "Find a Store",
+          "href": "https://www.apple.com/uk/retail/"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://secure.store.apple.com/uk/shop/order/list"
+        },
+        {
+          "text": "Apple Trade In",
+          "href": "https://www.apple.com/uk/shop/trade-in"
+        },
+        {
+          "text": "Financing",
+          "href": "https://www.apple.com/uk/shop/goto/ww/financing"
+        },
+        {
+          "text": "Personal Setup",
+          "href": "https://www.apple.com/uk/shop/goto/personal_setup"
+        },
+        {
+          "text": "Certified Refurbished",
+          "href": "https://www.apple.com/uk/shop/refurbished"
+        },
+        {
+          "text": "Education",
+          "href": "https://www.apple.com/uk/shop/browse/home/education_routing"
+        },
+        {
+          "text": "Business",
+          "href": "https://www.apple.com/uk/retail/business/"
+        },
+        {
+          "text": "Mac",
+          "href": "https://www.apple.com/uk/mac/"
+        },
+        {
+          "text": "Explore All Mac",
+          "href": "https://www.apple.com/uk/mac/"
+        }
+      ],
+      "buttons": [
+        "Previous - Product",
+        "Next - Product",
+        "Previous -",
+        "Next -",
+        "Previous - The Apple Store difference.",
+        "Next - The Apple Store difference.",
+        "Previous - Help is here.",
+        "Next - Help is here.",
+        "Previous - Accessories.",
+        "Next - Accessories.",
+        "Previous - Loud and clear.",
+        "Next - Loud and clear.",
+        "Previous - Nike x Beats.",
+        "Next - Nike x Beats."
+      ],
+      "forms": [
+        {
+          "action": "/uk/search",
+          "method": "get",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Search apple.com"
+            },
+            {
+              "type": "hidden",
+              "name": "src",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 419,
+      "images_count": 95,
+      "images_with_alt": 77,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Store"
+        },
+        {
+          "level": 2,
+          "text": "Shop"
+        },
+        {
+          "level": 2,
+          "text": "Quick Links"
+        },
+        {
+          "level": 2,
+          "text": "Shop Special Stores"
+        },
+        {
+          "level": 2,
+          "text": "Explore Mac"
+        },
+        {
+          "level": 2,
+          "text": "Shop Mac"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        },
+        {
+          "level": 3,
+          "text": "NEW"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search apple.com"
+        },
+        {
+          "type": "hidden",
+          "name": "src",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Full terms apply(opens in new window)",
+        "offerterms(opens in new window)",
+        "support.apple.com/121115(opens in new window)",
+        "Full terms apply(opens in new window)",
+        "offerterms(opens in new window)",
+        "support.apple.com/121115(opens in new window)",
+        "Apple",
+        "Store",
+        "Mac",
+        "iPad",
+        "iPhone",
+        "Watch",
+        "Vision",
+        "AirPods",
+        "TV & Home",
+        "AirTag",
+        "Accessories",
+        "Gift Cards",
+        "Wallet",
+        "Apple Pay"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 65,
+      "has_og_tags": true,
+      "meta_description": "Shop the latest Apple products, accessories and offers. Get shopping help, flexible payment and delivery options.",
+      "scripts_count": 64
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "N",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "N",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "Apple Trade In",
+        "Personal Setup",
+        "Financing options"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "temu_uk",
+    "url": "https://www.temu.com/uk",
+    "scanned_at": "2026-03-31T21:57:38.777419",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/temu_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/temu_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Security verification",
+      "url_final": "https://www.temu.com/bgn_verification.html?verifyCode=vlfEGJu8xqsqc3tNBW_zuQdb808675599de7ba5&from=https%3A%2F%2Fwww.temu.com%2Fuk&refer_page_name=home&refer_page_id=10005_1774983460074_2smxl77u0p&refer_page_sn=10005&_x_sessn_id=3ht17ke3ft",
+      "nav_items": [],
+      "buttons": [
+        "Accept All",
+        "Reject All"
+      ],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 5,
+      "images_with_alt": 5,
+      "headings": [],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 2,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 35
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "extensive product range",
+        "competitive pricing",
+        "flash sales"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "shein_uk",
+    "url": "https://uk.shein.com",
+    "scanned_at": "2026-03-31T21:58:00.272980",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/shein_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/shein_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Women's & Men's Clothes, Shop Online Fashion | SHEIN UK",
+      "url_final": "https://www.shein.co.uk/",
+      "nav_items": [
+        {
+          "text": "New In",
+          "href": "https://www.shein.co.uk/new/New-In-All-sc-0021884529.html?ici=uk_tab01navbar01&src_module=topcat&src"
+        },
+        {
+          "text": "3-Day Delivery",
+          "href": "https://www.shein.co.uk/recommend/UK-QUICKSHIP-ALL-sc-1002060865.html?ici=uk_tab02navbar02&src_modul"
+        },
+        {
+          "text": "Sale",
+          "href": "https://www.shein.co.uk/sale/All-Sale-sc-0051884505.html?ici=uk_tab03navbar03&src_module=topcat&src_"
+        },
+        {
+          "text": "Women Clothing",
+          "href": "https://www.shein.co.uk/RecommendSelection/Women-Clothing-sc-017172961.html?ici=uk_tab04navbar04&src"
+        },
+        {
+          "text": "Beachwear",
+          "href": "https://www.shein.co.uk/RecommendSelection/Beachwear-sc-017706887.html?ici=uk_tab05navbar05&src_modu"
+        },
+        {
+          "text": "Curve",
+          "href": "https://www.shein.co.uk/RecommendSelection/Curve-sc-017172964.html?ici=uk_tab06navbar06&src_module=t"
+        },
+        {
+          "text": "Kids",
+          "href": "https://www.shein.co.uk/RecommendSelection/Kids-sc-017185550.html?ici=uk_tab07navbar07&src_module=to"
+        },
+        {
+          "text": "Men Clothing",
+          "href": "https://www.shein.co.uk/RecommendSelection/Men-Clothing-sc-017172963.html?ici=uk_tab08navbar08&src_m"
+        },
+        {
+          "text": "Home & Living",
+          "href": "https://www.shein.co.uk/RecommendSelection/Home-Kitchen-sc-017185546.html?ici=uk_tab09navbar09&src_m"
+        },
+        {
+          "text": "Underwear & Sleepwear",
+          "href": "https://www.shein.co.uk/RecommendSelection/Underwear-Sleepwear-sc-017172965.html?ici=uk_tab10navbar1"
+        },
+        {
+          "text": "Shoes",
+          "href": "https://www.shein.co.uk/RecommendSelection/Shoes-sc-017172966.html?ici=uk_tab11navbar11&src_module=t"
+        },
+        {
+          "text": "Jewelry & Accessories",
+          "href": "https://www.shein.co.uk/RecommendSelection/Jewelry-Accessories-sc-017291431.html?ici=uk_tab12navbar1"
+        },
+        {
+          "text": "Beauty & Health",
+          "href": "https://www.shein.co.uk/RecommendSelection/Beauty-Health-sc-017172970.html?ici=uk_tab13navbar13&src_"
+        },
+        {
+          "text": "Home Textiles",
+          "href": "https://www.shein.co.uk/RecommendSelection/Home-Textile-sc-017172972.html?ici=uk_tab14navbar14&src_m"
+        },
+        {
+          "text": "Cell Phones & Accessories",
+          "href": "https://www.shein.co.uk/RecommendSelection/Cell-Phones-Accessories-sc-017706910.html?ici=uk_tab15nav"
+        },
+        {
+          "text": "Electronics",
+          "href": "https://www.shein.co.uk/RecommendSelection/Electronics-sc-017706908.html?ici=uk_tab16navbar16&src_mo"
+        },
+        {
+          "text": "Sports & Outdoors",
+          "href": "https://www.shein.co.uk/RecommendSelection/Sports-Outdoors-sc-017185553.html?ici=uk_tab17navbar17&sr"
+        },
+        {
+          "text": "Toys & Games",
+          "href": "https://www.shein.co.uk/RecommendSelection/Toys-Games-sc-017172978.html?ici=uk_tab18navbar18&src_mod"
+        },
+        {
+          "text": "Baby & Maternity",
+          "href": "https://www.shein.co.uk/RecommendSelection/Baby-Maternity-sc-017172967.html?ici=uk_tab19navbar19&src"
+        },
+        {
+          "text": "Bags & Luggage",
+          "href": "https://www.shein.co.uk/RecommendSelection/Bags-Luggage-sc-017174546.html?ici=uk_tab20navbar20&src_m"
+        }
+      ],
+      "buttons": [
+        "EASTER PAYDAY",
+        "#CurveWeek",
+        "Bikini",
+        "Tops",
+        "Shorts",
+        "Dress",
+        "Summer",
+        "Wedding Guest Dress Women",
+        "Jeans",
+        "Evening Dresses For Women",
+        "Categories",
+        "NO",
+        "YES",
+        "Collect All"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "search",
+              "name": "header-search",
+              "placeholder": "Bikini"
+            }
+          ]
+        }
+      ],
+      "links_count": 86,
+      "images_count": 63,
+      "images_with_alt": 50,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Special Deals Just for You"
+        },
+        {
+          "level": 3,
+          "text": "Search Discovery"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "search",
+          "name": "header-search",
+          "placeholder": "Bikini"
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 97,
+      "has_og_tags": true,
+      "meta_description": "Shop\u00a0SHEIN's\u00a0range\u00a0of\u00a0women's,\u00a0kids'\u00a0&\u00a0men's\u00a0clothes\u00a0for\u00a0the\u00a0latest\u00a0fashion\u00a0trends.\u00a0Free\u00a0Shipping\u00a0On\u00a0\u00a335+\u2713\u00a0Free\u00a0Return\u00a0-\u00a045\u00a0Days\u2713\u00a09000+\u00a0New\u00a0Dropped\u00a0Daily\u2713\u00a0Get\u00a0\u00a33\u00a0Off\u00a0First\u00a0Order!\u2713",
+      "scripts_count": 82
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "N",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "3-Day Delivery",
+        "Curve Collection",
+        "Extensive Category Range"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "handm_uk",
+    "url": "https://www2.hm.com/en_gb/",
+    "scanned_at": "2026-03-31T21:58:22.017140",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/handm_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/handm_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www2.hm.com/en_gb/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "sustainable fashion focus",
+        "conscious collection"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zara_uk",
+    "url": "https://www.zara.com/uk/",
+    "scanned_at": "2026-03-31T21:58:40.109446",
+    "screenshots": {
+      "desktop": "data/ecommerce_uk/2026-03-31/screenshots/zara_uk_desktop.png",
+      "mobile": "data/ecommerce_uk/2026-03-31/screenshots/zara_uk_mobile.png"
+    },
+    "structure": {
+      "title": "Access Denied",
+      "url_final": "https://www.zara.com/uk/",
+      "nav_items": [],
+      "buttons": [],
+      "forms": [],
+      "links_count": 0,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Access Denied"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": false,
+      "aria_labels_count": 0,
+      "has_og_tags": false,
+      "meta_description": "",
+      "scripts_count": 0
+    },
+    "errors": [],
+    "lighthouse": {},
+    "ai_analysis": {
+      "features": {
+        "product_search": "Y",
+        "search_autocomplete": "Y",
+        "search_filters": "Y",
+        "category_browsing": "Y",
+        "trending_items": "Y",
+        "login_signup": "Y",
+        "social_login": "Y",
+        "guest_checkout": "Y",
+        "product_images": "Y",
+        "product_descriptions": "Y",
+        "price_display": "Y",
+        "size_variant_selector": "Y",
+        "stock_availability": "Y",
+        "related_products": "Y",
+        "shopping_cart": "Y",
+        "add_to_cart": "Y",
+        "promo_code": "Y",
+        "multiple_payment": "Y",
+        "shipping_info": "Y",
+        "estimated_delivery": "Y",
+        "star_ratings": "Y",
+        "customer_reviews": "Y",
+        "review_photos": "Y",
+        "wishlist": "Y",
+        "recently_viewed": "Y",
+        "personalized_recommendations": "Y",
+        "push_notifications": "Y",
+        "order_tracking": "Y",
+        "order_history": "Y",
+        "return_refund_info": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "contact_form": "Y",
+        "phone_support": "Y",
+        "alt_text_on_images": "Y",
+        "language_attribute": "Y",
+        "privacy_policy": "Y",
+        "cookie_consent": "Y",
+        "terms_of_service": "Y",
+        "responsive_design": "Y",
+        "sticky_header": "Y",
+        "footer_with_links": "Y",
+        "breadcrumb_navigation": "Y",
+        "hero_section": "Y",
+        "skeleton_loading": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_unique_features": [
+        "fast fashion updates",
+        "sustainability initiatives"
+      ],
+      "confidence": "high"
+    }
+  }
+]

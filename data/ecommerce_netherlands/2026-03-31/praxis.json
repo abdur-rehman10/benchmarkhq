@@ -1,0 +1,246 @@
+{
+  "name": "praxis",
+  "url": "https://www.praxis.nl",
+  "scanned_at": "2026-03-31T22:36:40.991359",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/praxis_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/praxis_mobile.png"
+  },
+  "structure": {
+    "title": "Praxis | Praxis helpt jou om te beginnen deze lente!",
+    "url_final": "https://www.praxis.nl/",
+    "nav_items": [
+      {
+        "text": "Opruiming",
+        "href": "https://www.praxis.nl/collectie/outlet-deals"
+      },
+      {
+        "text": "Tuin, terras & buitenleven",
+        "href": "https://www.praxis.nl/tuin-terras-buitenleven/ga1/"
+      },
+      {
+        "text": "Tegels & vloeren",
+        "href": "https://www.praxis.nl/tegels-vloeren/fl1/"
+      },
+      {
+        "text": "Verf, behang & wandbekleding",
+        "href": "https://www.praxis.nl/verf-behang-wandbekleding/wc1/"
+      },
+      {
+        "text": "Verwarmingen & airco's",
+        "href": "https://www.praxis.nl/verwarmingen-airco-s/he1/"
+      },
+      {
+        "text": "Verlichting",
+        "href": "https://www.praxis.nl/verlichting/lg1/"
+      },
+      {
+        "text": "Hout, ramen, trappen & deuren",
+        "href": "https://www.praxis.nl/hout-ramen-trappen-deuren/wd1/"
+      },
+      {
+        "text": "Badkamer & WC",
+        "href": "https://www.praxis.nl/badkamer-wc/ba1/"
+      },
+      {
+        "text": "Sanitair installatie",
+        "href": "https://www.praxis.nl/sanitair-installatie/sa1/"
+      },
+      {
+        "text": "Gereedschap & werkplaats",
+        "href": "https://www.praxis.nl/gereedschap-werkplaats/to1/"
+      },
+      {
+        "text": "Raamdecoratie & woondecoratie",
+        "href": "https://www.praxis.nl/raamdecoratie-woondecoratie/de1/"
+      },
+      {
+        "text": "Elektra",
+        "href": "https://www.praxis.nl/elektra/el1/"
+      },
+      {
+        "text": "IJzerwaren",
+        "href": "https://www.praxis.nl/ijzerwaren/hw1/"
+      },
+      {
+        "text": "Meubels & opbergen",
+        "href": "https://www.praxis.nl/meubels-opbergen/fu1/"
+      },
+      {
+        "text": "Bouwmaterialen",
+        "href": "https://www.praxis.nl/bouwmaterialen/bu1/"
+      },
+      {
+        "text": "Keukens & keukenapparatuur",
+        "href": "https://www.praxis.nl/keukens-keukenapparatuur/ki1/"
+      },
+      {
+        "text": "Fiets & auto accessoires",
+        "href": "https://www.praxis.nl/fiets-auto-accessoires/bc1/"
+      },
+      {
+        "text": "Onderhoud & schoonmaak",
+        "href": "https://www.praxis.nl/onderhoud-schoonmaak/hh1/"
+      },
+      {
+        "text": "Smart Home & domotica",
+        "href": "https://www.praxis.nl/smart-home-domotica/sm1/"
+      },
+      {
+        "text": "Duurzame energie",
+        "href": "https://www.praxis.nl/duurzame-energie/so1/"
+      }
+    ],
+    "buttons": [
+      "BEKIJK ONS ASSORTIMENT",
+      "Klusadvies",
+      "Klusadvies",
+      "Acties",
+      "Services",
+      "Over Praxis"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "text",
+            "placeholder": "Waar ben je naar op zoek?"
+          },
+          {
+            "type": "text",
+            "name": "page-mode",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "text",
+            "placeholder": "Ik zoek naar..."
+          },
+          {
+            "type": "text",
+            "name": "page-mode",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 146,
+    "images_count": 73,
+    "images_with_alt": 44,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Waar ben je naar op zoek?"
+      },
+      {
+        "level": 2,
+        "text": "We helpen je graag in onze winkels!"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Hulp voor de Makers"
+      },
+      {
+        "level": 2,
+        "text": "De beste Praxis Plus aanbiedingen van deze week"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "text",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "text",
+        "name": "page-mode",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "placeholder": "Ik zoek naar..."
+      },
+      {
+        "type": "text",
+        "name": "page-mode",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 13,
+    "has_og_tags": true,
+    "meta_description": "Praxis: alles voor iedere klus. \u2713 Groot assortiment online & in de winkel \u2713 183 bouwmarkten  \u2713 Voordelig klussen met de beste aanbiedingen",
+    "scripts_count": 72
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [],
+    "confidence": "medium"
+  }
+}

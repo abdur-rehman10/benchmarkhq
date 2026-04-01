@@ -1,0 +1,425 @@
+{
+  "name": "but",
+  "url": "https://www.but.fr",
+  "scanned_at": "2026-03-31T22:27:34.117453",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/but_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/but_mobile.png"
+  },
+  "structure": {
+    "title": "Magasins BUT : achat meubles (canap\u00e9, lit, matelas, table, salon et bureau), achat \u00e9lectrom\u00e9nager, Tv et Hi-Fi - le design pas cher.",
+    "url_final": "https://www.but.fr/",
+    "nav_items": [
+      {
+        "text": "NOS EXCLUS WEB",
+        "href": "/themes/produits-exclusifs-internet/index-c10504.html"
+      },
+      {
+        "text": "TOUTES VOS CUISINES \u00c0 -40%",
+        "href": "https://www.but-cuisines.fr/collection-cuisine-signature-design"
+      },
+      {
+        "text": "LES OFFRES DU PRINTEMPS JUSQU'\u00c0 -30%",
+        "href": "/themes/home-collection-toute-la-selection/index-c536304.html"
+      },
+      {
+        "text": "PRIX BAISS\u00c9S",
+        "href": "/themes/prix-en-baisse/index-c1179200.html"
+      },
+      {
+        "text": "NOS OFFRES PARTENAIRES",
+        "href": "/themes/selection-mkp/index-c342856.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/themes/nouveautes/index-c1543220.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/mobilier/canape-fauteuil/index-b11545.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/mobilier/index-a10316.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/chambre-literie/matelas/index-b11475.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/chambre-literie/index-a10317.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/cuisine/index-a10315.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/jardin/index-a10324.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/electromenager/index-a10322.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/electromenager/lave-linge/index-b11065.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/cuisine-et-cuisson/index-a1543223.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/tv-image-et-son/index-a10325.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/decoration/index-a10320.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/entretien-de-la-maison-traitement-de-l-air/index-a1543224.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/salle-de-bain/index-a10318.html"
+      },
+      {
+        "text": "Tout l'univers",
+        "href": "/puericulture/index-a10319.html"
+      }
+    ],
+    "buttons": [
+      "Saisir un code postal",
+      "Choisir un magasin",
+      "Menu",
+      "Nouveaut\u00e9s",
+      "Canap\u00e9",
+      "Mobilier",
+      "Matelas",
+      "Chambre - Literie",
+      "Cuisine",
+      "Jardin",
+      "Gros \u00e9lectrom\u00e9nager",
+      "Lave-linge"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Votre adresse e-mail"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "HEADER_SHIPPING_BLOC_zipCodeSearch",
+            "placeholder": "Code postal ou ville"
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "header_zipCodeSearch",
+            "placeholder": "Code postal ou ville"
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "layerLoginEmail",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 256,
+    "images_count": 14,
+    "images_with_alt": 14,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Inscrivez-vous \u00e0 notreNewsletter"
+      },
+      {
+        "level": 2,
+        "text": "Suivez-nous sur les r\u00e9seaux\u00a0!"
+      },
+      {
+        "level": 2,
+        "text": "Achat Meubles, Electrom\u00e9nager, TV Son et High Tech, Matelas et sommiers, Cuisine"
+      },
+      {
+        "level": 2,
+        "text": "Nos produits Meubles, Electrom\u00e9nager"
+      },
+      {
+        "level": 2,
+        "text": "Meuble Salon"
+      },
+      {
+        "level": 3,
+        "text": "Canap\u00e9"
+      },
+      {
+        "level": 3,
+        "text": "Canap\u00e9 convertible"
+      },
+      {
+        "level": 3,
+        "text": "Fauteuil"
+      },
+      {
+        "level": 3,
+        "text": "Mobilier chambre adulte"
+      },
+      {
+        "level": 3,
+        "text": "Meubles chambre enfant"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Rechercher un produit, un magasin..."
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Votre adresse e-mail"
+      },
+      {
+        "type": "text",
+        "name": "HEADER_SHIPPING_BLOC_zipCodeSearch",
+        "placeholder": "Code postal ou ville"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "header_zipCodeSearch",
+        "placeholder": "Code postal ou ville"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "layerLoginEmail",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Click and collect",
+      "Livraison \u00e0 domicile",
+      "Aide & contact",
+      "Ma carte BUT",
+      "Retour achats",
+      "R\u00e9glez avec la Carte BUT CPAY MASTERCARD",
+      "Cartes cadeaux BUT et ch\u00e8ques partenaires",
+      "Retrait gratuit",
+      "Livraison et montage",
+      "Location de camionnette",
+      "SAV",
+      "Reprise",
+      "Recyclage et reprise Mobilier",
+      "Recyclage et reprise Electrom\u00e9nager",
+      "N\u00b0Registre de suivi Ademe/Ecomobilier"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 7,
+    "has_og_tags": false,
+    "meta_description": "Retrouvez tout l'\u00e9quipement de la maison dans vos magasins BUT : achat meubles ( canap\u00e9, lit, matelas, table, salon et bureau ), \u00e9lectrom\u00e9nager, d\u00e9coration, Tv et Hi-Fi, multimedia.",
+    "scripts_count": 84
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "N",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Click and collect",
+      "Livraison \u00e0 domicile",
+      "Recyclage et reprise Mobilier"
+    ],
+    "confidence": "medium"
+  }
+}

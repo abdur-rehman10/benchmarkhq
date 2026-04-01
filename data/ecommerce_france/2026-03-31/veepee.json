@@ -1,0 +1,307 @@
+{
+  "name": "veepee",
+  "url": "https://www.veepee.fr",
+  "scanned_at": "2026-03-31T22:22:46.322123",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/veepee_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/veepee_mobile.png"
+  },
+  "structure": {
+    "title": "Veepee - Accueil",
+    "url_final": "https://www.veepee.fr/gr/home/default",
+    "nav_items": [
+      {
+        "text": "Accueil",
+        "href": "/gr/home/default"
+      },
+      {
+        "text": "Mode",
+        "href": "/gr/h/mode"
+      },
+      {
+        "text": "Voyage",
+        "href": "/gr/voyage/default"
+      },
+      {
+        "text": "Maison",
+        "href": "/gr/h/maison"
+      },
+      {
+        "text": "Enfant",
+        "href": "/gr/h/mode-enfant"
+      },
+      {
+        "text": "Chaussures",
+        "href": "/gr/h/mode-chaussures"
+      },
+      {
+        "text": "Beaut\u00e9",
+        "href": "/gr/h/beaute-et-bien-etre"
+      },
+      {
+        "text": "Sport",
+        "href": "/gr/h/mode-sportswear"
+      },
+      {
+        "text": "Vin et Epicerie",
+        "href": "/gr/h/vin-et-epicerie"
+      },
+      {
+        "text": "Loisir",
+        "href": "/gr/h/loisirs"
+      },
+      {
+        "text": "Rosedealsnew",
+        "href": "/gr/h/rosedeals-coupons"
+      },
+      {
+        "text": "The Place",
+        "href": "/gr/home/brandsplace"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "S'identifier",
+      "S'inscrire",
+      "S'identifier",
+      "S'identifier",
+      "G\u00e9rer mes cookies",
+      "France",
+      "D\u00e9tails des cookies\u200e",
+      "D\u00e9tails des cookies\u200e",
+      "D\u00e9tails des cookies\u200e",
+      "D\u00e9tails des cookies\u200e",
+      "D\u00e9tails des cookies\u200e",
+      "D\u00e9tails des cookies\u200e",
+      "D\u00e9tails des cookies\u200e",
+      "Back Button",
+      "Filter Button",
+      "View Third Party Cookies",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Confirmer la s\u00e9lection"
+    ],
+    "forms": [],
+    "links_count": 77,
+    "images_count": 13,
+    "images_with_alt": 11,
+    "headings": [
+      {
+        "level": 1,
+        "text": "\u00c7a va vous plaire"
+      },
+      {
+        "level": 2,
+        "text": "Re-turn"
+      },
+      {
+        "level": 2,
+        "text": "Vous n\u2019avez encore rien vu"
+      },
+      {
+        "level": 2,
+        "text": "On s'habitue vite aux prix doux"
+      },
+      {
+        "level": 2,
+        "text": "Les surprises, c\u2019est notre quotidien"
+      },
+      {
+        "level": 3,
+        "text": "Coup de foudre in\u00e9vitable."
+      },
+      {
+        "level": 3,
+        "text": "Vos retours \u00e0 prix plus doux"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Recherchez une marque, un produit..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Recherchez une marque, un produit..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Recherchez une marque, un produit..."
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0010",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0008",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0009",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Instagram",
+      "Facebook",
+      "Youtube",
+      "iOS",
+      "Android",
+      "Qui sommes-nous ?",
+      "Mentions l\u00e9gales",
+      "Informations r\u00e9glementaires",
+      "Livraison",
+      "Les retours et remboursements",
+      "Les Garanties",
+      "Le paiement",
+      "S\u00e9curit\u00e9",
+      "CGV Veepee",
+      "CGU Veepee",
+      "CGU Veepee Voyage",
+      "CGU Ventes partenaires",
+      "Classement/R\u00e9f\u00e9rencement",
+      "Politique de confidentialit\u00e9",
+      "Mediation"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 48,
+    "has_og_tags": false,
+    "meta_description": "Grandes marques \u00e0 prix discount, ventes priv\u00e9es tous les jours \u00e0 7h et 19h ! Veepee c'est le nouveau site de vente-privee.com. D\u00e9couvrez tous les jours des nouvelles offres de grandes marques et de vo",
+    "scripts_count": 73
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Rosedealsnew section for coupons"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "name": "ikea_tr",
+  "url": "https://www.ikea.com/tr/tr/",
+  "scanned_at": "2026-03-31T23:01:35.842723",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/ikea_tr_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/ikea_tr_mobile.png"
+  },
+  "structure": {
+    "title": "IKEA.com Global",
+    "url_final": "https://www.ikea.com/not-found/",
+    "nav_items": [
+      {
+        "text": "Stories",
+        "href": "https://www.ikea.com/global/en/stories/"
+      },
+      {
+        "text": "Jobs",
+        "href": "https://www.ikea.com/global/en/jobs/"
+      },
+      {
+        "text": "Newsroom",
+        "href": "https://www.ikea.com/global/en/newsroom/"
+      },
+      {
+        "text": "Our business",
+        "href": "https://www.ikea.com/global/en/our-business/"
+      }
+    ],
+    "buttons": [
+      "IKEA.com.tr(en)",
+      "Open main menu",
+      "Close main menu",
+      "Store:IKEA.com.tr(en)",
+      "Cookie settings",
+      "Accept",
+      "Reject",
+      "Cookie settings"
+    ],
+    "forms": [],
+    "links_count": 23,
+    "images_count": 6,
+    "images_with_alt": 2,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Oops, you've gone off track."
+      },
+      {
+        "level": 2,
+        "text": "404 - Page not found"
+      },
+      {
+        "level": 2,
+        "text": "KUNGSCISSUS"
+      },
+      {
+        "level": 2,
+        "text": "ANNIKEN"
+      },
+      {
+        "level": 2,
+        "text": "FREDRIKA"
+      },
+      {
+        "level": 2,
+        "text": "T\u00c5STRUP"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Find online store"
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Find online store"
+      }
+    ],
+    "footer_links": [
+      "International Sales",
+      "Inter IKEA Group",
+      "IKEA Foundation",
+      "IKEA Museum",
+      "IKEA Social Entrepreneurship",
+      "FAQs",
+      "Privacy & Cookie statement",
+      "Contact IKEA / Submit complaint",
+      "Sitemap",
+      "Accessibility"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "IKEA furniture and home accessories are practical, well designed and affordable. ",
+    "scripts_count": 10
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "IKEA's unique product naming system",
+      "Integration with IKEA's global initiatives and stories"
+    ],
+    "confidence": "high"
+  }
+}

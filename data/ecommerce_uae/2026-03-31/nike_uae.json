@@ -1,0 +1,374 @@
+{
+  "name": "nike_uae",
+  "url": "https://www.nike.com/ae/",
+  "scanned_at": "2026-03-31T23:14:58.504238",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/nike_uae_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/nike_uae_mobile.png"
+  },
+  "structure": {
+    "title": "Nike UAE Official Website - Shop Shoes, Clothing & Accessories",
+    "url_final": "https://www.nike.ae/en/home/",
+    "nav_items": [
+      {
+        "text": "Learn More",
+        "href": "https://www.nike.ae/en/membership.html"
+      },
+      {
+        "text": "Join Us",
+        "href": "https://www.nike.ae/en/membership.html"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://www.nike.ae/en/login"
+      },
+      {
+        "text": "New",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "New",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "New",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "Featured",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "Shop All New Arrivals",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "Bestseller",
+        "href": "https://www.nike.ae/en/trends/nike-topsellers"
+      },
+      {
+        "text": "Y2K Sneakers",
+        "href": "https://www.nike.ae/en/trends/y2k-sneakers"
+      },
+      {
+        "text": "Gift Cards",
+        "href": "https://www.nike.ae/en/gift-cards.html"
+      },
+      {
+        "text": "Jordan Brand x Brazil",
+        "href": "https://www.nike.ae/en/trends/jordan-project-6"
+      },
+      {
+        "text": "Highlights",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "Highlights",
+        "href": "https://www.nike.ae/en/trends/spring-season-2026"
+      },
+      {
+        "text": "Jordan: Day to Night",
+        "href": "https://www.nike.ae/en/trends/jordan/womens"
+      },
+      {
+        "text": "New in Football: Vini Jr",
+        "href": "https://www.nike.ae/en/trends/vini-junior"
+      },
+      {
+        "text": "New in Football: Mbappe PE",
+        "href": "https://www.nike.ae/en/trends/kylian-mbappe"
+      },
+      {
+        "text": "Home of Air Max",
+        "href": "https://www.nike.ae/en/air_max.html"
+      },
+      {
+        "text": "Trending",
+        "href": "https://www.nike.ae/en/trends/nike-topsellers"
+      },
+      {
+        "text": "Trending",
+        "href": "https://www.nike.ae/en/trends/nike-topsellers"
+      }
+    ],
+    "buttons": [
+      "\u00d7",
+      "All",
+      "Play Video",
+      "Play",
+      "Unmute",
+      "Seek to live, currently behind liveLIVE",
+      "Playback Rate",
+      "Chapters",
+      "Descriptions",
+      "Captions",
+      "Audio Track",
+      "Picture-in-Picture",
+      "Fullscreen",
+      "Resetrestore all settings to the default values",
+      "Done",
+      "Close Modal Dialog",
+      "Watch",
+      "Play Video",
+      "Pause",
+      "Unmute",
+      "Seek to live, currently behind liveLIVE",
+      "Playback Rate",
+      "Chapters"
+    ],
+    "forms": [
+      {
+        "action": "/en/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/on/demandware.store/Sites-Nike_AE-Site/en_UG/EmailSubscribe-Subscribe",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "emailId",
+            "placeholder": "Email Address"
+          },
+          {
+            "type": "date",
+            "name": "birthdate",
+            "placeholder": "dd.mm.yyy"
+          },
+          {
+            "type": "text",
+            "name": "shoppingPreference",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 504,
+    "images_count": 29,
+    "images_with_alt": 9,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Nike UAE Official Website - Shop Shoes, Clothing & Accessories"
+      },
+      {
+        "level": 2,
+        "text": "Communication Preferences"
+      },
+      {
+        "level": 2,
+        "text": "Privacy Preference Center"
+      },
+      {
+        "level": 3,
+        "text": "Be the first to know"
+      },
+      {
+        "level": 3,
+        "text": "Manage Consent Preferences"
+      },
+      {
+        "level": 3,
+        "text": "Cookie List"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "initEvent",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "emailId",
+        "placeholder": "Email Address"
+      },
+      {
+        "type": "date",
+        "name": "birthdate",
+        "placeholder": "dd.mm.yyy"
+      },
+      {
+        "type": "radio",
+        "name": "marketingconsentRadioBtn",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "marketingconsentRadioBtn",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "channelPreferences",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "channelPreferences",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "channelPreferences",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0005",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Find a Store",
+      "sign up for email",
+      "Digital Gift Cards",
+      "get help",
+      "Order Status",
+      "Shipping and Delivery",
+      "Returns",
+      "Payment Options",
+      "Contact Us",
+      "about nike",
+      "Become a Member",
+      "News",
+      "Careers",
+      "Investors",
+      "Sustainability",
+      "nike apps",
+      "Nike Run Club",
+      "Nike Training Club"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 85,
+    "has_og_tags": true,
+    "meta_description": "Explore the official website of Nike in UAE with their latest collection of sports shoes, sneakers, clothing, bags and more. Shop your athleisure collection today!",
+    "scripts_count": 54
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Jordan Brand x Brazil collaboration",
+      "Y2K Sneakers trend"
+    ],
+    "confidence": "medium"
+  }
+}

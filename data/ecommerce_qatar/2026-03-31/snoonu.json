@@ -1,0 +1,196 @@
+{
+  "name": "snoonu",
+  "url": "https://www.snoonu.com",
+  "scanned_at": "2026-03-31T23:23:35.717567",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/snoonu_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/snoonu_mobile.png"
+  },
+  "structure": {
+    "title": "Snoonu - Qatar\u2019s First Super App for Food, Groceries & Services",
+    "url_final": "https://www.snoonu.com/",
+    "nav_items": [
+      {
+        "text": "Market",
+        "href": "/"
+      },
+      {
+        "text": "Restaurants",
+        "href": "/restaurants?source=header"
+      },
+      {
+        "text": "Grocery",
+        "href": "/groceries?source=header"
+      },
+      {
+        "text": "S City",
+        "href": "/scity?source=header"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Restaurants",
+        "href": "/restaurants?source=catalog"
+      },
+      {
+        "text": "Snoomart",
+        "href": "/groceries/snoomart?source=catalog"
+      },
+      {
+        "text": "Grocery",
+        "href": "/groceries?source=catalog"
+      },
+      {
+        "text": "Flowers & Gifts",
+        "href": "/flowers-and-gifts?source=catalog"
+      },
+      {
+        "text": "Pharmacy",
+        "href": "/pharmacy?source=catalog"
+      },
+      {
+        "text": "S City",
+        "href": "/scity?source=catalog"
+      }
+    ],
+    "buttons": [
+      "Download",
+      "Catalog",
+      "Login",
+      "Show more"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "search",
+            "placeholder": "Search for stores and products"
+          }
+        ]
+      }
+    ],
+    "links_count": 124,
+    "images_count": 91,
+    "images_with_alt": 90,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Snoonu - online shopping with fast delivery"
+      },
+      {
+        "level": 2,
+        "text": "Offers & Events"
+      },
+      {
+        "level": 2,
+        "text": "Favourite Brands"
+      },
+      {
+        "level": 3,
+        "text": "Market"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "search",
+        "placeholder": "Search for stores and products"
+      }
+    ],
+    "footer_links": [
+      "Help",
+      "My Orders",
+      "My Favorites",
+      "Deals & Offers",
+      "Mobiles",
+      "Tablets",
+      "Wearable Technology",
+      "More Electronics",
+      "Pharmacy",
+      "Personal Care & Hygiene",
+      "Vitamins & supplements",
+      "More Health & Beauty",
+      "Food",
+      "Pet Care Supplies",
+      "Collars & Clothes",
+      "More Pets",
+      "Women",
+      "Men",
+      "Kids",
+      "More Clothes & Accessories"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Snoonu is Qatar\u2019s trusted super app for fast food delivery, grocery shopping, laundry, car services, and tickets. Everything you need, delivered reliably every day.",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Qatar's first super app",
+      "Wide range of services including groceries, food, and pharmacy"
+    ],
+    "confidence": "medium"
+  }
+}

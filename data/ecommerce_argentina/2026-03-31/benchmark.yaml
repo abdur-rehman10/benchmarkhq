@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_argentina
+  name: E-commerce Argentina
+  country: Argentina
+  currency: ARS
+  language: es
+  version: 1.0.0
+  generated_at: '2026-03-31T22:10:20.805483'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - mercado_libre_ar
+  - fravega
+  - garbarino
+  - musimundo
+  - farmacity
+  - falabella_ar
+  - sodimac_ar
+  - nike_argentina
+  - adidas_argentina
+  - samsung_argentina
+  - carrefour_ar
+  - coto_digital
+  - easy_ar
+  - dexter
+  - dafiti_ar
+  - zara_argentina
+  - handm_argentina
+  - megatone
+  - cetrogar
+  - apple_ar
+  - tienda_nube_ar
+  - jumbo_ar
+  - rapsodia
+  - movistar_ar
+  - decathlon_ar
+  - temu_ar
+  - netshoes_ar
+  - linio_ar
+  - ikea_ar
+  - grimoldi
+features:
+  critical:
+  - id: category_browsing
+    frequency: 21/22
+    percent: 100
+  - id: guest_checkout
+    frequency: 17/22
+    percent: 100
+  - id: product_images
+    frequency: 22/22
+    percent: 100
+  - id: product_descriptions
+    frequency: 19/22
+    percent: 100
+  - id: price_display
+    frequency: 20/22
+    percent: 100
+  - id: shopping_cart
+    frequency: 21/22
+    percent: 100
+  - id: add_to_cart
+    frequency: 21/22
+    percent: 100
+  - id: responsive_design
+    frequency: 21/22
+    percent: 100
+  - id: multiple_payment
+    frequency: 18/22
+    percent: 95
+  - id: product_search
+    frequency: 20/22
+    percent: 91
+  - id: language_attribute
+    frequency: 20/22
+    percent: 91
+  - id: privacy_policy
+    frequency: 18/22
+    percent: 90
+  - id: terms_of_service
+    frequency: 16/22
+    percent: 89
+  - id: shipping_info
+    frequency: 15/22
+    percent: 88
+  - id: return_refund_info
+    frequency: 15/22
+    percent: 88
+  - id: alt_text_on_images
+    frequency: 18/22
+    percent: 86
+  required:
+  - id: order_tracking
+    frequency: 14/22
+    percent: 82
+  - id: footer_with_links
+    frequency: 18/22
+    percent: 82
+  - id: order_history
+    frequency: 14/22
+    percent: 78
+  - id: stock_availability
+    frequency: 13/22
+    percent: 76
+  - id: login_signup
+    frequency: 15/22
+    percent: 75
+  - id: help_center
+    frequency: 15/22
+    percent: 75
+  recommended:
+  - id: cookie_consent
+    frequency: 11/22
+    percent: 61
+  - id: promo_code
+    frequency: 9/22
+    percent: 60
+  - id: hero_section
+    frequency: 9/22
+    percent: 60
+  - id: contact_form
+    frequency: 10/22
+    percent: 56
+  - id: phone_support
+    frequency: 9/22
+    percent: 56
+  - id: trending_items
+    frequency: 7/22
+    percent: 47
+  - id: related_products
+    frequency: 7/22
+    percent: 47
+  - id: estimated_delivery
+    frequency: 7/22
+    percent: 47
+  - id: wishlist
+    frequency: 7/22
+    percent: 47
+  - id: personalized_recommendations
+    frequency: 6/22
+    percent: 43
+  - id: breadcrumb_navigation
+    frequency: 6/22
+    percent: 40
+  nice_to_have:
+  - id: size_variant_selector
+    frequency: 6/22
+    percent: 38
+  - id: star_ratings
+    frequency: 6/22
+    percent: 38
+  - id: customer_reviews
+    frequency: 6/22
+    percent: 38
+  - id: sticky_header
+    frequency: 5/22
+    percent: 36
+  - id: search_autocomplete
+    frequency: 5/22
+    percent: 33
+  - id: search_filters
+    frequency: 5/22
+    percent: 31
+  - id: recently_viewed
+    frequency: 4/22
+    percent: 29
+  - id: social_login
+    frequency: 4/22
+    percent: 27
+  - id: push_notifications
+    frequency: 3/22
+    percent: 21
+  - id: live_chat
+    frequency: 3/22
+    percent: 21
+  - id: skeleton_loading
+    frequency: 3/22
+    percent: 21
+  - id: review_photos
+    frequency: 3/22
+    percent: 20
+  innovative: []

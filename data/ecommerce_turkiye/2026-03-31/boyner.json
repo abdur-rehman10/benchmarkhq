@@ -1,0 +1,217 @@
+{
+  "name": "boyner",
+  "url": "https://www.boyner.com.tr",
+  "scanned_at": "2026-03-31T22:56:49.338735",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/boyner_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/boyner_mobile.png"
+  },
+  "structure": {
+    "title": "\u0130nternetin Boyner'i Online Al\u0131\u015fveri\u015fin Adresi",
+    "url_final": "https://www.boyner.com.tr/",
+    "nav_items": [],
+    "buttons": [
+      "\u00c7erez Ayarlar\u0131",
+      "T\u00fcm\u00fcn\u00fc Reddet",
+      "T\u00fcm\u00fcn\u00fc Kabul Et",
+      "T\u00fcm\u00fcne \u0130zin Ver",
+      "Tan\u0131mlama Bilgisi Ayr\u0131nt\u0131lar\u0131",
+      "Tan\u0131mlama Bilgisi Ayr\u0131nt\u0131lar\u0131",
+      "Tan\u0131mlama Bilgisi Ayr\u0131nt\u0131lar\u0131",
+      "Tan\u0131mlama Bilgisi Ayr\u0131nt\u0131lar\u0131",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Tercihlerimi Kaydet",
+      "T\u00dcM\u00dcN\u00dc \u0130NCELE",
+      "T\u00dcM\u00dcN\u00dc \u0130NCELE"
+    ],
+    "forms": [],
+    "links_count": 970,
+    "images_count": 111,
+    "images_with_alt": 17,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Sabaha Kadar S\u00fcrecek F\u0131rsatlar\u0131 Ka\u00e7\u0131rma!"
+      },
+      {
+        "level": 2,
+        "text": "Hemen Ke\u015ffet!"
+      },
+      {
+        "level": 2,
+        "text": "\u015eimdi Ke\u015ffet!"
+      },
+      {
+        "level": 2,
+        "text": "Sana daha iyi bir al\u0131\u015fveri\u015f deneyimi ya\u015fatmam\u0131z i\u00e7in iznine ihtiyac\u0131m\u0131z var"
+      },
+      {
+        "level": 2,
+        "text": "Gizlilik Tercihi Merkezi"
+      },
+      {
+        "level": 3,
+        "text": "Onay Tercihlerini Y\u00f6net"
+      },
+      {
+        "level": 3,
+        "text": "Tan\u0131mlama Bilgisi Listesi"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Hadi gel arad\u0131\u011f\u0131n\u0131 h\u0131zl\u0131ca bulal\u0131m..."
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Aramak..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "BOYNER",
+      "Kurumsal",
+      "Ma\u011fazalar",
+      "Ke\u015ffet",
+      "Ma\u011faza Etkinlikleri",
+      "Duyuru",
+      "Sosyal Sorumluluk",
+      "Kariyer",
+      "Kurumsal Sat\u0131\u015f",
+      "Toplu Sat\u0131\u015f",
+      "Sat\u0131c\u0131lar",
+      "Bilgi G\u00fcvenli\u011fi Politikas\u0131",
+      "KATEGOR\u0130LER",
+      "Kad\u0131n",
+      "Erkek",
+      "\u00c7ocuk",
+      "Spor & Outdoor",
+      "Kozmetik"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 18,
+    "has_og_tags": true,
+    "meta_description": "Y\u00fczlerce markaya ait son moda giyim, kozmetik ve ayakkab\u0131 \u00fcr\u00fcnlerini Boyner.com.tr \u00fczerinden e\u015fsiz f\u0131rsatlarla hemen sat\u0131n al\u0131n!",
+    "scripts_count": 45
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Sabaha Kadar S\u00fcrecek F\u0131rsatlar",
+      "Gizlilik Tercihi Merkezi"
+    ],
+    "confidence": "high"
+  }
+}

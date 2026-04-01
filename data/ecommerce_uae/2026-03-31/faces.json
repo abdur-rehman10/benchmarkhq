@@ -1,0 +1,413 @@
+{
+  "name": "faces",
+  "url": "https://www.faces.com",
+  "scanned_at": "2026-03-31T23:19:36.681032",
+  "screenshots": {
+    "desktop": "data/ecommerce_uae/2026-03-31/screenshots/faces_desktop.png",
+    "mobile": "data/ecommerce_uae/2026-03-31/screenshots/faces_mobile.png"
+  },
+  "structure": {
+    "title": "Shop for Perfume, Makeup, Skin Care & Cosmetics | FACES UAE",
+    "url_final": "https://www.faces.ae/en",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/en"
+      },
+      {
+        "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "href": "#"
+      },
+      {
+        "text": "Track Your Order",
+        "href": "https://www.faces.ae/on/demandware.store/Sites-Faces_AE-Site/en_AE/OrderTracking-Show"
+      },
+      {
+        "text": "Store Locator",
+        "href": "https://www.faces.ae/en/stores"
+      },
+      {
+        "text": "0",
+        "href": "javascript:;"
+      },
+      {
+        "text": "Perfume",
+        "href": "/en/perfume"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "View All Perfume",
+        "href": "/en/perfume"
+      },
+      {
+        "text": "Women Perfumes",
+        "href": "/en/perfume-for-women"
+      },
+      {
+        "text": "Men Perfumes",
+        "href": "/en/perfume-for-men"
+      },
+      {
+        "text": "View All Perfume",
+        "href": "/en/perfume"
+      },
+      {
+        "text": "The World of Niche",
+        "href": "/en/luxury-perfumes"
+      },
+      {
+        "text": "",
+        "href": "javascript:void(0);"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Floral",
+        "href": "/en/floral"
+      },
+      {
+        "text": "Fresh",
+        "href": "/en/fresh"
+      },
+      {
+        "text": "Musky",
+        "href": "/en/musky-luxury-perfumes"
+      },
+      {
+        "text": "Oriental",
+        "href": "/en/oriental"
+      },
+      {
+        "text": "Oud",
+        "href": "/en/oud-luxury-perfumes"
+      },
+      {
+        "text": "Woody",
+        "href": "/en/woody"
+      }
+    ],
+    "buttons": [
+      "Previous",
+      "Next",
+      "Clear",
+      "Clear",
+      "Sign In / Register",
+      "ADD",
+      "Continue Shopping",
+      "Previous",
+      "Next",
+      "Previous",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist",
+      "Remove from Wishlist"
+    ],
+    "forms": [
+      {
+        "action": "/en/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search beauty, brands and more..."
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/en/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search..."
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/on/demandware.store/Sites-Faces_AE-Site/en_AE/EmailSubscribe-Subscribe",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "dwfrm_subscribe_email",
+            "placeholder": "Your email address"
+          },
+          {
+            "type": "hidden",
+            "name": "dwfrm_subscribe_newsletteroptout",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/rq/ghpdqgzduh.vwruh/Vlwhv-Idfhv_DH-Vlwh/hq_DH/Dffrxqw-Orjlq?uxuo=%252ihq",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "loginEmail",
+            "placeholder": "Email address"
+          },
+          {
+            "type": "password",
+            "name": "loginPassword",
+            "placeholder": "Password"
+          },
+          {
+            "type": "hidden",
+            "name": "csrf_token",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "loginRememberMe",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/on/demandware.store/Sites-Faces_AE-Site/en_AE/Account-PasswordResetDialogForm?mobile=",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "loginEmail",
+            "placeholder": "Email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 1290,
+    "images_count": 166,
+    "images_with_alt": 139,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Shop From Your Ultimate Cosmetic & Beauty Supply Shop In The UAE"
+      },
+      {
+        "level": 2,
+        "text": "New Arrivals"
+      },
+      {
+        "level": 2,
+        "text": "Bestsellers"
+      },
+      {
+        "level": 2,
+        "text": "Global Selections"
+      },
+      {
+        "level": 3,
+        "text": "Yves Saint LaurentLibre Berry Crush"
+      },
+      {
+        "level": 3,
+        "text": "Lanc\u00f4meId\u00f4le Peach'N Roses"
+      },
+      {
+        "level": 3,
+        "text": "La MerThe Lip Treatment"
+      },
+      {
+        "level": 3,
+        "text": "DiorForever Skin Wear"
+      },
+      {
+        "level": 3,
+        "text": "Armani BeautyOrange M\u00e9diterran\u00e9e"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search beauty, brands and more..."
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "dwfrm_subscribe_email",
+        "placeholder": "Your email address"
+      },
+      {
+        "type": "hidden",
+        "name": "dwfrm_subscribe_newsletteroptout",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "loginEmail",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "password",
+        "name": "loginPassword",
+        "placeholder": "Password"
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "loginRememberMe",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "loginEmail",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "email",
+        "name": "loginEmail",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "800 965 664",
+      "+971 56 329 9902",
+      "An enquiry",
+      "Brands",
+      "New in",
+      "Bestsellers",
+      "Fragrance",
+      "Makeup",
+      "Skincare",
+      "Bodycare",
+      "Haircare",
+      "Beauty Offers",
+      "CHANEL",
+      "Dior",
+      "Giorgio Armani"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 272,
+    "has_og_tags": false,
+    "meta_description": "Discover the largest selection of Beauty products in UAE \ud83c\udde6\ud83c\uddea Express Delivery \u2713 Authentic Products \u2713 Free Returns \u2713 Buy Now, Pay Later \u2713",
+    "scripts_count": 81
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Bilingual navigation options",
+      "Extensive perfume category"
+    ],
+    "confidence": "medium"
+  }
+}

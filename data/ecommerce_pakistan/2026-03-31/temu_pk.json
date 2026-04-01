@@ -1,0 +1,130 @@
+{
+  "name": "temu_pk",
+  "url": "https://www.temu.com/pk",
+  "scanned_at": "2026-03-31T23:40:39.888488",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/temu_pk_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/temu_pk_mobile.png"
+  },
+  "structure": {
+    "title": "Temu | Login",
+    "url_final": "https://www.temu.com/login.html?from=https%3A%2F%2Fwww.temu.com%2Fpk-en&login_scene=2&refer_page_name=home&refer_page_id=10005_1774989641069_2vpko8dc10&refer_page_sn=10005&_x_sessn_id=n8nqnvk0eo",
+    "nav_items": [],
+    "buttons": [
+      "Continue"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 30,
+    "images_count": 37,
+    "images_with_alt": 20,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Sign in / Register"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About Temu",
+      "Affiliate & Influencer Program: Join to Earn",
+      "Contact us",
+      "Careers",
+      "Press",
+      "Temu's Tree Planting Program",
+      "Return and refund policy",
+      "Intellectual property policy",
+      "Shipping info",
+      "Report suspicious activity",
+      "Support center & FAQ",
+      "Safety center",
+      "Temu purchase protection",
+      "Sitemap",
+      "Partner with Temu",
+      "Download the Temu App",
+      "Download on theApp Store",
+      "Get it onGoogle Play"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 36,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 32
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Temu's Tree Planting Program",
+      "Affiliate & Influencer Program"
+    ],
+    "confidence": "high"
+  }
+}

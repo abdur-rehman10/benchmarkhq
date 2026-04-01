@@ -1,0 +1,407 @@
+{
+  "name": "koton",
+  "url": "https://www.koton.com",
+  "scanned_at": "2026-03-31T22:57:19.425745",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/koton_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/koton_mobile.png"
+  },
+  "structure": {
+    "title": "Koton: T\u00fcrkiye'nin \u00d6nc\u00fc Moda ve Giyim Markas\u0131",
+    "url_final": "https://www.koton.com/",
+    "nav_items": [
+      {
+        "text": "Kad\u0131n",
+        "href": "/"
+      },
+      {
+        "text": "Yeni Gelenler",
+        "href": "/yeni-gelenler-kadin/"
+      },
+      {
+        "text": "Giyim",
+        "href": "/kadin-giyim/"
+      },
+      {
+        "text": "Koton Jeans",
+        "href": "/kadin-koton-jeans/"
+      },
+      {
+        "text": "Koleksiyonlar",
+        "href": "/sezon-trendleri"
+      },
+      {
+        "text": "Abiye & Davet",
+        "href": "/kadin-abiye-davet/"
+      },
+      {
+        "text": "Plaj Giyim",
+        "href": "/plaj-giyim-kadin/"
+      },
+      {
+        "text": "\u0130\u00e7 Giyim ve Pijama",
+        "href": "/kadin-ic-giyim/"
+      },
+      {
+        "text": "Spor Giyim",
+        "href": "/sportclub/"
+      },
+      {
+        "text": "Aksesuar",
+        "href": "/kadin-aksesuar/"
+      },
+      {
+        "text": "F\u0131rsatlar",
+        "href": "/50yevaran-kampanyali-urunler/?attributes_filterable_gender=Kad\u0131n"
+      },
+      {
+        "text": "T\u00fcm \u00dcr\u00fcnler",
+        "href": "/kadin-giyim/"
+      },
+      {
+        "text": "Elbise",
+        "href": "/kadin-elbise/"
+      },
+      {
+        "text": "Sweatshirt",
+        "href": "/kadin-sweatshirt/"
+      },
+      {
+        "text": "Pantolon",
+        "href": "/kadin-pantolon/"
+      },
+      {
+        "text": "Ti\u015f\u00f6rt",
+        "href": "/kadin-tisort/"
+      },
+      {
+        "text": "Blazer Ceket",
+        "href": "/kadin-blazer-ceket/"
+      },
+      {
+        "text": "Kazak & S\u00fcveter",
+        "href": "/kadin-kazak-suveter/"
+      },
+      {
+        "text": "H\u0131rka",
+        "href": "/kadin-hirka/"
+      },
+      {
+        "text": "Etek",
+        "href": "/kadin-etek/"
+      }
+    ],
+    "buttons": [
+      "T\u00fcrk\u00e7eTurkish",
+      "\u0130ngilizceEnglish",
+      "T\u00fcrk\u00e7eTurkish",
+      "\u0130ngilizceEnglish",
+      "T\u00fcrk\u00e7eTurkish",
+      "\u0130ngilizceEnglish",
+      "\u00dclke Se\u00e7iniz",
+      "\u015eehir Se\u00e7iniz",
+      "Onayla",
+      "Sanal Kabine Devam Et",
+      "Yeni \u00dcr\u00fcn Ekle",
+      "\u00dcr\u00fcnleri Se\u00e7",
+      "\u00dcr\u00fcnleri Se\u00e7",
+      "Onayla",
+      "\u0130ptal et",
+      "Foto\u011fraf Se\u00e7",
+      "G\u0130R\u0130\u015e YAP",
+      "KAYIT OL",
+      "S\u0130PAR\u0130\u015e\u0130 TAMAMLA",
+      "sepete git"
+    ],
+    "forms": [
+      {
+        "action": "/list",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search_text",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/setlang/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrfmiddlewaretoken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "next",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/setlang/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrfmiddlewaretoken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "next",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/setlang/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrfmiddlewaretoken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "next",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/setlang/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrfmiddlewaretoken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "next",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1129,
+    "images_count": 64,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 3,
+        "text": "Sepetim"
+      },
+      {
+        "level": 3,
+        "text": "En g\u00fcncel moda haberleri i\u00e7in kaydolun"
+      },
+      {
+        "level": 3,
+        "text": "Kurumsal"
+      },
+      {
+        "level": 3,
+        "text": "Yard\u0131m"
+      },
+      {
+        "level": 3,
+        "text": "Pop\u00fcler Kategoriler"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "next",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "next",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "next",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "next",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "E-posta"
+      },
+      {
+        "type": "checkbox",
+        "name": "subscribe_contract",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "next",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "next",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "G\u0130R\u0130\u015e YAP | KAYIT OL"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 33,
+    "has_og_tags": false,
+    "meta_description": "Koton'un zengin koleksiyonunda her zevke uygun bir \u00fcr\u00fcn bulmak m\u00fcmk\u00fcn! Sezonun en moda par\u00e7alar\u0131n\u0131 detayl\u0131 incelemek i\u00e7in hemen t\u0131klay\u0131n!",
+    "scripts_count": 23
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Virtual fitting room"
+    ],
+    "confidence": "high"
+  }
+}

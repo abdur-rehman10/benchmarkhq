@@ -1,0 +1,198 @@
+{
+  "name": "sarenza",
+  "url": "https://www.sarenza.com",
+  "scanned_at": "2026-03-31T22:29:07.967339",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/sarenza_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/sarenza_mobile.png"
+  },
+  "structure": {
+    "title": "Chaussures, V\u00eatements & Sacs | Sarenza La boutique de mode",
+    "url_final": "https://www.sarenza.com/",
+    "nav_items": [
+      {
+        "text": "Promo",
+        "href": "/fr/fr/promo/femme-promo3femme/"
+      },
+      {
+        "text": "Nouveaut\u00e9s",
+        "href": "/fr/fr/femme/nouveautes-nouveautesfemme/"
+      },
+      {
+        "text": "Chaussures",
+        "href": "/fr/fr/femme/chaussures-14/"
+      },
+      {
+        "text": "V\u00eatements",
+        "href": "/fr/fr/femme/vetements-10/"
+      },
+      {
+        "text": "Lingerie",
+        "href": "/fr/fr/femme/lingerie-11/"
+      },
+      {
+        "text": "Sacs et accessoires",
+        "href": "/fr/fr/femme/sacs-et-valises-15/"
+      },
+      {
+        "text": "Premium",
+        "href": "/fr/fr/page-viewer/premium-femme/"
+      },
+      {
+        "text": "Sport",
+        "href": "/fr/fr/page-viewer/landing-sport-women/"
+      },
+      {
+        "text": "Marques",
+        "href": "/fr/fr/brand-categories-page/?gender=femme"
+      }
+    ],
+    "buttons": [
+      "Annuler",
+      "Aide",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Que recherchez-vous ?"
+          }
+        ]
+      }
+    ],
+    "links_count": 88,
+    "images_count": 85,
+    "images_with_alt": 55,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "-10% SUPP d\u00e8s 100\u20ac* | code : POUSSIN"
+      },
+      {
+        "level": 2,
+        "text": "Les marques du moment"
+      },
+      {
+        "level": 2,
+        "text": "Tamaris"
+      },
+      {
+        "level": 2,
+        "text": "Un air de printemps"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Que recherchez-vous ?"
+      },
+      {
+        "type": "radio",
+        "name": "radio-:r7:",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "radio-:r7:",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": " "
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 70,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 18
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "N",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive brand selection",
+      "Frequent promotions"
+    ],
+    "confidence": "medium"
+  }
+}

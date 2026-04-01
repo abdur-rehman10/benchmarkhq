@@ -1,0 +1,138 @@
+{
+  "name": "urban_ladder",
+  "url": "https://www.urbanladder.com",
+  "scanned_at": "2026-03-31T23:46:02.406863",
+  "screenshots": {
+    "desktop": "data/ecommerce_india/2026-03-31/screenshots/urban_ladder_desktop.png",
+    "mobile": "data/ecommerce_india/2026-03-31/screenshots/urban_ladder_mobile.png"
+  },
+  "structure": {
+    "title": "Buy Furniture Online: Upto 70% off in this Festive Season",
+    "url_final": "https://www.urbanladder.com/",
+    "nav_items": [],
+    "buttons": [],
+    "forms": [],
+    "links_count": 254,
+    "images_count": 248,
+    "images_with_alt": 212,
+    "headings": [
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Shop by Category"
+      },
+      {
+        "level": 2,
+        "text": "Shop by Categories"
+      },
+      {
+        "level": 2,
+        "text": "New Collection"
+      },
+      {
+        "level": 3,
+        "text": "Urban Ladder"
+      },
+      {
+        "level": 3,
+        "text": "Casey Swivel Dining Chair In Olive And Tan Colour Set Of 2"
+      },
+      {
+        "level": 3,
+        "text": "Urban Ladder"
+      },
+      {
+        "level": 3,
+        "text": "Caribu Glass 4 To 6 Seater Extendable Dining Table In White High Gloss Finish"
+      },
+      {
+        "level": 3,
+        "text": "Urban Ladder"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 35,
+    "has_og_tags": false,
+    "meta_description": "Buy Wooden Furniture Online at India's biggest Online Furniture Store. Shop from 100000+ Home & Office Furniture Options. 0% EMI, 50+ Stores Nationwide",
+    "scripts_count": 45
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "U",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Festive season discounts up to 70%",
+      "Extensive range of furniture categories"
+    ],
+    "confidence": "medium"
+  }
+}

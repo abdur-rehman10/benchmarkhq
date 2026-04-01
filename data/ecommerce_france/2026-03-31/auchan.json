@@ -1,0 +1,348 @@
+{
+  "name": "auchan",
+  "url": "https://www.auchan.fr",
+  "scanned_at": "2026-03-31T22:24:48.990971",
+  "screenshots": {
+    "desktop": "data/ecommerce_france/2026-03-31/screenshots/auchan_desktop.png",
+    "mobile": "data/ecommerce_france/2026-03-31/screenshots/auchan_mobile.png"
+  },
+  "structure": {
+    "title": "Auchan. Promos, infos drives et magasins, courses en ligne livr\u00e9es \u00e0 domicile.",
+    "url_final": "https://www.auchan.fr/",
+    "nav_items": [
+      {
+        "text": "Promos",
+        "href": "/boutique/promos"
+      },
+      {
+        "text": "Foire aux vins** de printemps",
+        "href": "/foire-aux-vins/ca-b201904021858"
+      },
+      {
+        "text": "Repas de P\u00e2ques",
+        "href": "/repas-de-paques/ca-b202215031130"
+      },
+      {
+        "text": "Chocolats de P\u00e2ques",
+        "href": "/epicerie-sucree/chocolats-confiseries/chocolats-oeufs-de-paques/ca-n050709"
+      },
+      {
+        "text": "Nos marques Auchan",
+        "href": "/marques-auchan/ep-marques-auchan"
+      },
+      {
+        "text": "Service traiteur",
+        "href": "/charcuterie-traiteur-pain/service-traiteur-sur-commande/ca-n120211"
+      },
+      {
+        "text": "Les halles d'Auchan",
+        "href": "/les-halles-d-auchan/ca-b202209050930"
+      },
+      {
+        "text": "Produits laitiers, oeufs, fromages",
+        "href": "/oeufs-produits-laitiers/ca-n01"
+      },
+      {
+        "text": "Fruits, l\u00e9gumes",
+        "href": "/fruits-legumes/ca-n03"
+      },
+      {
+        "text": "Boucherie, volaille, poissonnerie",
+        "href": "/boucherie-volaille-poissonnerie/ca-n02"
+      },
+      {
+        "text": "Charcuterie, traiteur",
+        "href": "/charcuterie-traiteur-pain/ca-n12"
+      },
+      {
+        "text": "Pain, p\u00e2tisserie",
+        "href": "/pain-patisserie/ca-n1203"
+      },
+      {
+        "text": "Surgel\u00e9s",
+        "href": "/surgeles/ca-n04"
+      },
+      {
+        "text": "Epicerie sucr\u00e9e",
+        "href": "/epicerie-sucree/ca-n05"
+      },
+      {
+        "text": "Epicerie sal\u00e9e",
+        "href": "/epicerie-salee/ca-n06"
+      },
+      {
+        "text": "Eaux, jus, soda, th\u00e9s glac\u00e9s",
+        "href": "/boissons-sans-alcool/ca-n13"
+      },
+      {
+        "text": "Vins, bi\u00e8res, alcools",
+        "href": "/vins-bieres-alcool/ca-n07"
+      },
+      {
+        "text": "Hygi\u00e8ne, beaut\u00e9",
+        "href": "/hygiene-beaute-parapharmacie/ca-n09"
+      },
+      {
+        "text": "Entretien, accessoires de la maison",
+        "href": "/entretien-maison/ca-n10"
+      },
+      {
+        "text": "Tout pour b\u00e9b\u00e9",
+        "href": "/bebe/ca-n08"
+      }
+    ],
+    "buttons": [
+      "Choisir vos courses",
+      "Me connecter",
+      "Rayons",
+      "Recherche",
+      "Lancer la recherche",
+      "Annuler",
+      "Fermer le menu de navigation",
+      "Choisir un drive ou la livraisonC'est vous qui d\u00e9c",
+      "Diapositive pr\u00e9c\u00e9dente - Les catalogues du moment",
+      "Diapositive suivante - Les catalogues du moment",
+      "Besoin d'aide\u00a0?",
+      "Nos services",
+      "\u00c0 propos d'Auchan",
+      "Voir plus",
+      "Liste de nos partenaires (fournisseurs)",
+      "Afficher toutes les finalit\u00e9s",
+      "Tout refuser",
+      "J'accepte",
+      "Continuer sans accepter",
+      "Tout autoriser",
+      "D\u00e9tails du fournisseur",
+      "D\u00e9tails du fournisseur",
+      "D\u00e9tails du fournisseur"
+    ],
+    "forms": [
+      {
+        "action": "/recherche",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "text",
+            "placeholder": "Rechercher un produit..."
+          }
+        ]
+      }
+    ],
+    "links_count": 248,
+    "images_count": 85,
+    "images_with_alt": 43,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Nos rayons"
+      },
+      {
+        "level": 2,
+        "text": "En ce moment"
+      },
+      {
+        "level": 2,
+        "text": "Mes courses"
+      },
+      {
+        "level": 2,
+        "text": "Maison & Loisirs"
+      },
+      {
+        "level": 2,
+        "text": "Les catalogues du moment"
+      },
+      {
+        "level": 3,
+        "text": "Paiement 3x ou 4x Oney"
+      },
+      {
+        "level": 3,
+        "text": "Auchan Photo"
+      },
+      {
+        "level": 3,
+        "text": "Auchan Billetterie"
+      },
+      {
+        "level": 3,
+        "text": "Service Auchan traiteur"
+      },
+      {
+        "level": 3,
+        "text": "Auchan telecom"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "text",
+        "placeholder": "Rechercher un produit..."
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-IAB2V2_1",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-V2STACK42",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "switch",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-ISF2V2_1",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-ISF2V2_2",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Rechercher des fournisseurs"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Vos courses \u00e0 domicile, en drive ou click & collec",
+      "Service client 7j/703\u00a059\u00a030\u00a059\u00a0308h>21h, dimanche "
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 91,
+    "has_og_tags": false,
+    "meta_description": "Pour les courses ou le shopping, un vaste choix de produits \u00e0 petit prix livr\u00e9s en drive, \u00e0 domicile, en magasin, en consigne ou en point relais. Infos sur nos magasins.",
+    "scripts_count": 85
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Service Auchan traiteur",
+      "Auchan telecom"
+    ],
+    "confidence": "medium"
+  }
+}

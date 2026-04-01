@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_turkiye
+  name: E-commerce Turkiye
+  country: Turkiye
+  currency: TRY
+  language: tr
+  version: 1.0.0
+  generated_at: '2026-03-31T23:03:24.284329'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - trendyol
+  - hepsiburada
+  - n11
+  - amazon_tr
+  - ciceksepeti
+  - migros_sanal
+  - teknosa
+  - mediamarkt_tr
+  - vatan_bilgisayar
+  - boyner
+  - lc_waikiki
+  - koton
+  - defacto
+  - decathlon_tr
+  - nike_tr
+  - zara_tr
+  - handm_tr
+  - watsons_tr
+  - koctas
+  - kitapyurdu
+  - temu_tr
+  - shein_tr
+  - samsung_tr
+  - apple_tr
+  - ikea_tr
+  - getir
+  - adidas_tr
+  - evidea
+  - gittigidiyor
+  - gratis
+features:
+  critical:
+  - id: product_search
+    frequency: 22/22
+    percent: 100
+  - id: category_browsing
+    frequency: 22/22
+    percent: 100
+  - id: login_signup
+    frequency: 20/22
+    percent: 100
+  - id: guest_checkout
+    frequency: 19/22
+    percent: 100
+  - id: product_images
+    frequency: 22/22
+    percent: 100
+  - id: product_descriptions
+    frequency: 19/22
+    percent: 100
+  - id: price_display
+    frequency: 21/22
+    percent: 100
+  - id: stock_availability
+    frequency: 19/22
+    percent: 100
+  - id: shopping_cart
+    frequency: 21/22
+    percent: 100
+  - id: add_to_cart
+    frequency: 21/22
+    percent: 100
+  - id: multiple_payment
+    frequency: 19/22
+    percent: 100
+  - id: shipping_info
+    frequency: 19/22
+    percent: 100
+  - id: order_tracking
+    frequency: 20/22
+    percent: 100
+  - id: order_history
+    frequency: 19/22
+    percent: 100
+  - id: contact_form
+    frequency: 21/22
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 22/22
+    percent: 100
+  - id: language_attribute
+    frequency: 22/22
+    percent: 100
+  - id: responsive_design
+    frequency: 20/22
+    percent: 100
+  - id: footer_with_links
+    frequency: 22/22
+    percent: 100
+  - id: return_refund_info
+    frequency: 18/22
+    percent: 95
+  - id: help_center
+    frequency: 19/22
+    percent: 95
+  - id: phone_support
+    frequency: 18/22
+    percent: 95
+  - id: privacy_policy
+    frequency: 19/22
+    percent: 95
+  - id: cookie_consent
+    frequency: 18/22
+    percent: 95
+  - id: related_products
+    frequency: 17/22
+    percent: 89
+  - id: terms_of_service
+    frequency: 17/22
+    percent: 89
+  - id: hero_section
+    frequency: 17/22
+    percent: 89
+  required:
+  - id: trending_items
+    frequency: 16/22
+    percent: 84
+  - id: promo_code
+    frequency: 16/22
+    percent: 84
+  - id: estimated_delivery
+    frequency: 16/22
+    percent: 84
+  - id: star_ratings
+    frequency: 16/22
+    percent: 84
+  - id: customer_reviews
+    frequency: 16/22
+    percent: 84
+  - id: wishlist
+    frequency: 16/22
+    percent: 84
+  - id: personalized_recommendations
+    frequency: 16/22
+    percent: 84
+  - id: sticky_header
+    frequency: 15/22
+    percent: 83
+  - id: search_autocomplete
+    frequency: 14/22
+    percent: 78
+  - id: search_filters
+    frequency: 14/22
+    percent: 78
+  - id: recently_viewed
+    frequency: 14/22
+    percent: 78
+  - id: breadcrumb_navigation
+    frequency: 14/22
+    percent: 78
+  - id: social_login
+    frequency: 13/22
+    percent: 72
+  - id: review_photos
+    frequency: 13/22
+    percent: 72
+  - id: live_chat
+    frequency: 13/22
+    percent: 72
+  - id: size_variant_selector
+    frequency: 12/22
+    percent: 67
+  - id: push_notifications
+    frequency: 12/22
+    percent: 67
+  - id: skeleton_loading
+    frequency: 12/22
+    percent: 67
+  recommended: []
+  nice_to_have: []
+  innovative: []

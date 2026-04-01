@@ -1,0 +1,216 @@
+{
+  "name": "zappos",
+  "url": "https://www.zappos.com",
+  "scanned_at": "2026-03-31T21:11:19.257329",
+  "screenshots": {
+    "desktop": "data/ecommerce_usa/2026-03-31/screenshots/zappos_desktop.png",
+    "mobile": "data/ecommerce_usa/2026-03-31/screenshots/zappos_mobile.png"
+  },
+  "structure": {
+    "title": "Shoes, Sneakers, Boots, & Clothing + FREE SHIPPING | Zappos.com",
+    "url_final": "https://www.zappos.com/",
+    "nav_items": [
+      {
+        "text": "Women",
+        "href": "https://www.zappos.com/women/wAEB4gIBGA.zso"
+      },
+      {
+        "text": "Men",
+        "href": "https://www.zappos.com/men/wAEC4gIBGA.zso"
+      },
+      {
+        "text": "Kids",
+        "href": "https://www.zappos.com/null/OgLWL-ICAQc.zso"
+      },
+      {
+        "text": "Brands",
+        "href": "https://www.zappos.com/brands"
+      },
+      {
+        "text": "Sneakers",
+        "href": "https://www.zappos.com/sneakers-athletic-shoes/CK_XARC81wHiAgIBAg.zso"
+      },
+      {
+        "text": "Sports",
+        "href": "https://www.zappos.com/running"
+      },
+      {
+        "text": "Sale",
+        "href": "https://www.zappos.com/null/4AEB4gIBHA.zso"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Show Search"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "term",
+            "placeholder": "Search for shoes, clothes, etc."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 258,
+    "images_count": 338,
+    "images_with_alt": 315,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Zappos Homepage"
+      },
+      {
+        "level": 2,
+        "text": "Dress to Impress"
+      },
+      {
+        "level": 2,
+        "text": "March Calls For"
+      },
+      {
+        "level": 2,
+        "text": "One-Stop Run Shop"
+      },
+      {
+        "level": 2,
+        "text": "Sandal Season"
+      },
+      {
+        "level": 2,
+        "text": "Push Your Limits"
+      },
+      {
+        "level": 3,
+        "text": "About Zappos"
+      },
+      {
+        "level": 3,
+        "text": "Customer Service"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "Explore Zappos"
+      },
+      {
+        "level": 3,
+        "text": "About Zappos"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "term",
+        "placeholder": "Search for shoes, clothes, etc."
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About",
+      "Careers",
+      "Get the Zappos Mobile App",
+      "Amazon Prime Benefits",
+      "Zappos VIP Benefits",
+      "Coupons & Sales",
+      "FAQs",
+      "Contact Info",
+      "\u00bfAyuda en espa\u00f1ol?",
+      "Shipping And Returns Policy",
+      "About Proposition 65",
+      "Return Options",
+      "Size Conversion Chart",
+      "Affiliate Program",
+      "Site Map",
+      "Take Survey",
+      "E-Gift Cards"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 335,
+    "has_og_tags": false,
+    "meta_description": "Fast, FREE shipping on just-landed sneakers, boots, heels & more from your favorite brands. Now that's a win.",
+    "scripts_count": 177
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Zappos VIP Benefits",
+      "Amazon Prime Benefits",
+      "Proposition 65 Information"
+    ],
+    "confidence": "high"
+  }
+}

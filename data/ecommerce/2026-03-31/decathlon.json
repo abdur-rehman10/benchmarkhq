@@ -1,0 +1,526 @@
+{
+  "name": "decathlon",
+  "url": "https://www.decathlon.com",
+  "scanned_at": "2026-03-31T20:26:06.822018",
+  "screenshots": {
+    "desktop": "data/ecommerce/2026-03-31/screenshots/decathlon_desktop.png",
+    "mobile": "data/ecommerce/2026-03-31/screenshots/decathlon_mobile.png"
+  },
+  "structure": {
+    "title": "Decathlon America | Outdoor Sports Clothing & Gear",
+    "url_final": "https://www.decathlon.com/",
+    "nav_items": [
+      {
+        "text": "Sports",
+        "href": "/collections/shop-all?collection=10000"
+      },
+      {
+        "text": "Men",
+        "href": "/collections/mens?collection=20000"
+      },
+      {
+        "text": "Women",
+        "href": "/collections/womens?collection=30000"
+      },
+      {
+        "text": "Kids",
+        "href": "/collections/all-kids-outdoor-gear?collection=40000"
+      }
+    ],
+    "buttons": [
+      "Check out",
+      "Sports",
+      "Men",
+      "Women",
+      "Kids",
+      "Add to cartSold out",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Choose options",
+      "Add to cartSold out",
+      "Add to cartSold out",
+      "Add to cartSold out",
+      "Add to cartSold out",
+      "Add to cartSold out",
+      "Choose options",
+      "Choose options",
+      "Add to cartSold out",
+      "Choose options"
+    ],
+    "links_count": 571,
+    "main_links": [
+      {
+        "text": "Skip to content",
+        "href": "#MainContent"
+      },
+      {
+        "text": "Continue shopping",
+        "href": "/collections/all"
+      },
+      {
+        "text": "Log in",
+        "href": "https://www.decathlon.com/customer_authentication/redirect?locale=en&region_country=US"
+      },
+      {
+        "text": "shipping",
+        "href": "/policies/shipping-policy"
+      },
+      {
+        "text": "Free Shipping Over $49*",
+        "href": "/policies/shipping-policy"
+      },
+      {
+        "text": "Sports",
+        "href": "/collections/shop-all?collection=10000"
+      },
+      {
+        "text": "Men",
+        "href": "/collections/mens?collection=20000"
+      },
+      {
+        "text": "Women",
+        "href": "/collections/womens?collection=30000"
+      },
+      {
+        "text": "Kids",
+        "href": "/collections/all-kids-outdoor-gear?collection=40000"
+      },
+      {
+        "text": "View All",
+        "href": "/collections/new-arrivals?collection=11000"
+      },
+      {
+        "text": "New Hike & Camp",
+        "href": "/collections/new-arrivals-hike-camp?collection=11100"
+      },
+      {
+        "text": "New Running",
+        "href": "/collections/new-arrivals-running?collection=11200"
+      },
+      {
+        "text": "New Bike & Cycling",
+        "href": "/collections/new-arrivals-bike-cycling?collection=11300"
+      },
+      {
+        "text": "View All",
+        "href": "/collections/camp-hike?collection=12000"
+      },
+      {
+        "text": "View All",
+        "href": "/collections/backpacks-bags?collection=12100"
+      },
+      {
+        "text": "Laptop Backpacks",
+        "href": "/collections/lifestyle-packs?collection=12110"
+      },
+      {
+        "text": "Daypacks",
+        "href": "/collections/daypacks?collection=12120"
+      },
+      {
+        "text": "Hiking Backpacks",
+        "href": "/collections/all-hiking-backpacks?collection=12130"
+      },
+      {
+        "text": "Backpacking Packs",
+        "href": "/collections/backpacking-packs?collection=12140"
+      },
+      {
+        "text": "Travel Backpacks",
+        "href": "/collections/travel-packs?collection=12150"
+      },
+      {
+        "text": "Duffel Bags",
+        "href": "/collections/duffel-bags?collection=12160"
+      },
+      {
+        "text": "Mountaineering Backpacks",
+        "href": "/collections/mountaineering-backpacks?collection=12170"
+      },
+      {
+        "text": "Backpack Accessories",
+        "href": "/collections/backpack-accessories?collection=12180"
+      },
+      {
+        "text": "Men's Backpacks",
+        "href": "/collections/mens-backpacks-and-bags?collection=12190"
+      },
+      {
+        "text": "Women's Backpacks",
+        "href": "/collections/womens-backpacks-and-bags?collection=121100"
+      },
+      {
+        "text": "View All",
+        "href": "/collections/footwear?collection=12200"
+      },
+      {
+        "text": "Shoes",
+        "href": "/collections/hike-camp-shoes?collection=12210"
+      },
+      {
+        "text": "Boots",
+        "href": "/collections/hiking-boots?collection=12220"
+      },
+      {
+        "text": "Socks",
+        "href": "/collections/hiking-socks?collection=12230"
+      },
+      {
+        "text": "Sandals",
+        "href": "/collections/hiking-sandals?collection=12240"
+      }
+    ],
+    "forms": [
+      {
+        "action": "/localization",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "return_to",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/cart",
+        "method": "post",
+        "fields": []
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "options[prefix]",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "/cart/add",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product-id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "section-id",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "images_count": 146,
+    "images_with_alt": 124,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Welcome Back Spring"
+      },
+      {
+        "level": 1,
+        "text": "High-PerformanceProducts ForEveryone"
+      },
+      {
+        "level": 1,
+        "text": "UNLOCK 10% OFF"
+      },
+      {
+        "level": 2,
+        "text": "Your cart is empty"
+      },
+      {
+        "level": 2,
+        "text": "Your cart"
+      },
+      {
+        "level": 2,
+        "text": "Estimated total"
+      },
+      {
+        "level": 2,
+        "text": "Most Popular"
+      },
+      {
+        "level": 2,
+        "text": "New Arrivals"
+      },
+      {
+        "level": 3,
+        "text": "Van Rysel D100 Home Trainer with Zwift Cog and Click"
+      },
+      {
+        "level": 3,
+        "text": "Van Rysel D100 Home Trainer with Zwift Cog and Click"
+      },
+      {
+        "level": 3,
+        "text": "Simond Men's MT100 Hooded Down Puffer Jacket"
+      },
+      {
+        "level": 3,
+        "text": "Simond Men's MT100 Hooded Down Puffer Jacket"
+      },
+      {
+        "level": 3,
+        "text": "Simond Women's MT100 Hooded Down Puffer Jacket"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "placeholder": ""
+      }
+    ],
+    "meta_description": "",
+    "meta_viewport": "width=device-width,initial-scale=1",
+    "has_og_tags": true,
+    "scripts_count": 226,
+    "stylesheets_count": 186,
+    "has_lang_attr": true,
+    "has_skip_link": true,
+    "aria_labels_count": 168,
+    "footer_links": [
+      "Become a member",
+      "Become a member",
+      "30-Day Returns",
+      "2-Year Warranty",
+      "Sustainability",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "X (Twitter)",
+      "Terms",
+      "Privacy Policy",
+      "Giftcards",
+      "Bulk Order Request",
+      "FAQ",
+      "Help / Contact Us",
+      "Return Policy",
+      "Warranty Policy",
+      "Size Guides",
+      "About Us",
+      "Press"
+    ],
+    "has_search_input": true
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "N",
+      "search_filters": "N",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "N",
+      "social_login": "N",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "Y",
+      "related_items": "N",
+      "stock_availability": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "N",
+      "multiple_payment_methods": "N",
+      "shipping_info": "N",
+      "estimated_delivery": "N",
+      "star_ratings": "N",
+      "written_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "N",
+      "order_history": "N",
+      "return_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_number": "N",
+      "alt_text_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "N",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "N",
+      "footer_links": "Y",
+      "breadcrumb_navigation": "N",
+      "loading_states": "N",
+      "hero_section": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "color_scheme": "light",
+    "estimated_primary_color": "#ffffff",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "High-Performance Products",
+      "10% Off Promotion"
+    ],
+    "missing_common_features": [
+      "Search autocomplete",
+      "Login/signup option",
+      "Social login",
+      "Promo code field",
+      "Multiple payment methods",
+      "Star ratings",
+      "Written customer reviews",
+      "Wishlist",
+      "Order tracking"
+    ],
+    "confidence": "medium"
+  }
+}

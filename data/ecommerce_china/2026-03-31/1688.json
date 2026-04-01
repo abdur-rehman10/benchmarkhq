@@ -1,0 +1,179 @@
+{
+  "name": "1688",
+  "url": "https://www.1688.com",
+  "scanned_at": "2026-03-31T23:54:43.976790",
+  "screenshots": {
+    "desktop": "data/ecommerce_china/2026-03-31/screenshots/1688_desktop.png",
+    "mobile": "data/ecommerce_china/2026-03-31/screenshots/1688_mobile.png"
+  },
+  "structure": {
+    "title": "Captcha Interception",
+    "url_final": "https://www.1688.com/",
+    "nav_items": [],
+    "buttons": [],
+    "forms": [
+      {
+        "action": "/_____tmd_____/verify/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "nc_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nc_session_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nc_sig",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x5sec_domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x5secdata",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x5step",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ajax",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nc_app_key",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 2,
+    "images_count": 3,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "nc_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "nc_session_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "nc_sig",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x5sec_domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x5secdata",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x5step",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ajax",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "nc_app_key",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 1,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 24
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "Y",
+      "guest_checkout": "N",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "Y",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "Y",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "N",
+      "language_attribute": "N",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "bulk purchasing options",
+      "supplier verification"
+    ],
+    "confidence": "high"
+  }
+}

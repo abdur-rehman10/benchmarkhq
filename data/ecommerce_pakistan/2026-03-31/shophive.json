@@ -1,0 +1,429 @@
+{
+  "name": "shophive",
+  "url": "https://www.shophive.com",
+  "scanned_at": "2026-03-31T23:34:36.302427",
+  "screenshots": {
+    "desktop": "data/ecommerce_pakistan/2026-03-31/screenshots/shophive_desktop.png",
+    "mobile": "data/ecommerce_pakistan/2026-03-31/screenshots/shophive_mobile.png"
+  },
+  "structure": {
+    "title": "Online Shopping In Pakistan | buy electronics online | SHOPHIVE",
+    "url_final": "https://www.shophive.com/",
+    "nav_items": [
+      {
+        "text": "Shophive!",
+        "href": "https://www.shophive.com/"
+      },
+      {
+        "text": "Applenew",
+        "href": "https://www.shophive.com/apple"
+      },
+      {
+        "text": "iPhoneSale",
+        "href": "https://www.shophive.com/apple/iphone"
+      },
+      {
+        "text": "iPhone 17 Pro Maxnew",
+        "href": "https://www.shophive.com/apple/iphone/17-pro-max"
+      },
+      {
+        "text": "iPhone 17 Pronew",
+        "href": "https://www.shophive.com/apple/iphone/17-pro"
+      },
+      {
+        "text": "iPhone 17 Airnew",
+        "href": "https://www.shophive.com/apple/iphone/17-air"
+      },
+      {
+        "text": "iPhone 17new",
+        "href": "https://www.shophive.com/apple/iphone/17"
+      },
+      {
+        "text": "iPhone 17enew",
+        "href": "https://www.shophive.com/apple/iphone/iphone-17e"
+      },
+      {
+        "text": "iPhone 16 Pro MaxSale",
+        "href": "https://www.shophive.com/apple/iphone/16-pro-max"
+      },
+      {
+        "text": "iPhone 16 ProSale",
+        "href": "https://www.shophive.com/apple/iphone/16-pro"
+      },
+      {
+        "text": "iPhone 16 PlusSale",
+        "href": "https://www.shophive.com/apple/iphone/16-plus"
+      },
+      {
+        "text": "iPhone 16Sale",
+        "href": "https://www.shophive.com/apple/iphone/iphone-16"
+      },
+      {
+        "text": "iPhone 16eSale",
+        "href": "https://www.shophive.com/apple/iphone/16e"
+      },
+      {
+        "text": "Accessories",
+        "href": "https://www.shophive.com/apple/iphone/accessories"
+      },
+      {
+        "text": "iPhone 16 Series",
+        "href": "https://www.shophive.com/apple/iphone/accessories/iphone-16"
+      },
+      {
+        "text": "iPhone 15 Series",
+        "href": "https://www.shophive.com/apple/iphone/accessories/iphone-15"
+      },
+      {
+        "text": "iPhone Cables",
+        "href": "https://www.shophive.com/apple/iphone/accessories/iphone-cables"
+      },
+      {
+        "text": "iPhone Adapters",
+        "href": "https://www.shophive.com/apple/iphone/accessories/iphone-adapters"
+      },
+      {
+        "text": "Mac / Macbooks",
+        "href": "https://www.shophive.com/apple/mac"
+      },
+      {
+        "text": "MacBook Pro",
+        "href": "https://www.shophive.com/apple/mac/macbook-pro"
+      }
+    ],
+    "buttons": [
+      "Search"
+    ],
+    "forms": [
+      {
+        "action": "https://www.shophive.com/catalogsearch/result/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "I'm looking for..."
+          }
+        ]
+      },
+      {
+        "action": "https://www.shophive.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2hvcGhpdmUuY29tLw%2C%2C/product/701",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.shophive.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2hvcGhpdmUuY29tLw%2C%2C/product/701",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.shophive.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2hvcGhpdmUuY29tLw%2C%2C/product/701",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.shophive.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2hvcGhpdmUuY29tLw%2C%2C/product/698",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "product",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "uenc",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_key",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1329,
+    "images_count": 247,
+    "images_with_alt": 150,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Search Trending"
+      },
+      {
+        "level": 2,
+        "text": "Best Selling Brand"
+      },
+      {
+        "level": 2,
+        "text": "Apple"
+      },
+      {
+        "level": 2,
+        "text": "Laptops"
+      },
+      {
+        "level": 2,
+        "text": "Appliances"
+      },
+      {
+        "level": 3,
+        "text": "UGreen 90514 1 in 4 Out 4K 60Hz Support EDID HDCP 2.2/1.4 3D HDR HDMI Splitter"
+      },
+      {
+        "level": 3,
+        "text": "Whoop 5.0 Life MG Nylon Waterproof Sport Strap (Gray with Gold Dial)"
+      },
+      {
+        "level": 3,
+        "text": "Whoop 5.0 Life MG Nylon Waterproof Sport Strap (Yellow with Gold Dial)"
+      },
+      {
+        "level": 3,
+        "text": "Whoop Life MG Replacement Sports Strap (Gray with Black Dial)"
+      },
+      {
+        "level": 3,
+        "text": "Whoop Life MG Replacement Sports Strap (Blue with Silver Dial)"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "I'm looking for..."
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uenc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_key",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Support Center",
+      "Price Policy",
+      "Shipping",
+      "Return Policy",
+      "FAQs",
+      "About Us",
+      "Media & Press",
+      "Carrer",
+      "Contact Us",
+      "Instalments",
+      "Payment Method",
+      "Request Import",
+      "Money Back Guarantee",
+      "twitter",
+      "facebook",
+      "instagram",
+      "linked-in"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 24,
+    "has_og_tags": false,
+    "meta_description": "Pakistan's best online shopping store, Original New Products with Warranty & Support.\u00a0Choose your favourite Mobiles, Appliances, and Accessories at best rates only at shophive.",
+    "scripts_count": 31
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_unique_features": [
+      "Focus on Apple products",
+      "Extensive iPhone series navigation"
+    ],
+    "confidence": "medium"
+  }
+}

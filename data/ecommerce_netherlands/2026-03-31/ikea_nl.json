@@ -1,0 +1,265 @@
+{
+  "name": "ikea_nl",
+  "url": "https://www.ikea.com/nl/nl/",
+  "scanned_at": "2026-03-31T22:38:06.296824",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/ikea_nl_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/ikea_nl_mobile.png"
+  },
+  "structure": {
+    "title": "Betaalbare meubels & accessories \u2013 Alles voor je huis - IKEA",
+    "url_final": "https://www.ikea.com/nl/nl/",
+    "nav_items": [
+      {
+        "text": "Producten",
+        "href": "https://www.ikea.com/nl/nl/cat/producten-products/"
+      },
+      {
+        "text": "Ruimtes",
+        "href": "https://www.ikea.com/nl/nl/rooms/"
+      },
+      {
+        "text": "Koopjes",
+        "href": "https://www.ikea.com/nl/nl/offers/"
+      },
+      {
+        "text": "Ontwerp",
+        "href": "https://www.ikea.com/nl/nl/ideas/"
+      },
+      {
+        "text": "Services",
+        "href": "https://www.ikea.com/nl/nl/customer-service/services/"
+      }
+    ],
+    "buttons": [
+      "Wis het zoekveld",
+      "Zoeken",
+      "Pauzeer video",
+      "Nieuwe verlaagde prijs",
+      "IKEA Family aanbiedingen",
+      "Laatste kans",
+      "Onze laagste prijzen",
+      "Tijdelijke aanbiedingen",
+      "Beoordeling: 4.6 van 5 sterren. Totaal beoordeling",
+      "Beoordeling: 4.7 van 5 sterren. Totaal beoordeling",
+      "Beoordeling: 4.7 van 5 sterren. Totaal beoordeling",
+      "Beoordeling: 4.7 van 5 sterren. Totaal beoordeling"
+    ],
+    "forms": [
+      {
+        "action": "https://www.ikea.com/nl/nl/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      }
+    ],
+    "links_count": 198,
+    "images_count": 109,
+    "images_with_alt": 67,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Welkom bij IKEA"
+      },
+      {
+        "level": 2,
+        "text": "Aanbiedingen en meer koopjes die je niet mag missen"
+      },
+      {
+        "level": 2,
+        "text": "Bekijk onze IKEA Family aanbiedingen"
+      },
+      {
+        "level": 2,
+        "text": "Inspiratie voor iedere ruimte"
+      },
+      {
+        "level": 2,
+        "text": "Shop de look"
+      },
+      {
+        "level": 2,
+        "text": "Iets te vieren? Bekijk cadeau-idee\u00ebn voor ieder moment"
+      },
+      {
+        "level": 3,
+        "text": "L\u00c4MPLIGSnijplank, bamboe, 53x46 cm"
+      },
+      {
+        "level": 3,
+        "text": "LOHALSDeurmat, binnen, naturel, 40x60 cm"
+      },
+      {
+        "level": 3,
+        "text": "SOLKLINTPlafondlamp, messing/grijs helder glas, 27 cm"
+      },
+      {
+        "level": 3,
+        "text": "IKEA 365+Voorraaddoos met deksel, rechthoekig/kunststof, 1.0 l"
+      },
+      {
+        "level": 3,
+        "text": "IVARStellingkast, grenen/met 5 planken met 2 lades, 89x30x179 cm"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20595698-25ebdb-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20595698-25ebdb-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-20595698-25ebdb-P0-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50603178-25ebdb-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50603178-25ebdb-P0-1",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50602094-25ebdb-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-50602094-25ebdb-P0-3",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30508648-25ebdb-P0-4",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30508648-25ebdb-P0-4",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30508648-25ebdb-P0-4",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "variant-group-30508648-25ebdb-P0-4",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Lees meer >>",
+      "Word lid of log in",
+      "Lees meer >>",
+      "Word lid of log in",
+      "Klantenservice",
+      "Mijn bestellingen",
+      "Ruilen en retourneren",
+      "Transport en bezorging",
+      "Voorraadinformatie",
+      "Services",
+      "Garantie",
+      "Probleem melden productveiligheid",
+      "Product- en veiligheidswaarschuwingen",
+      "Montageservice",
+      "Onderhoud & reparatie",
+      "Dit is IKEA",
+      "Het IKEA concept",
+      "Duurzaamheid",
+      "Wooninspiratie",
+      "IKEA Nieuws"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 84,
+    "has_og_tags": true,
+    "meta_description": "Welkom bij IKEA! \u00b7 Ontdek onze meubels en inspiratie voor elk budget en elk huis \u00b7 Bestel online of kom langs in een van onze woonwinkels.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "Y",
+      "customer_reviews": "Y",
+      "review_photos": "N",
+      "wishlist": "Y",
+      "recently_viewed": "Y",
+      "personalized_recommendations": "Y",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "Y",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "IKEA Family offers",
+      "Room inspiration ideas",
+      "Design services"
+    ],
+    "confidence": "high"
+  }
+}

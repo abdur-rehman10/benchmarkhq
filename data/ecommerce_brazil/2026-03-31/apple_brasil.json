@@ -1,0 +1,277 @@
+{
+  "name": "apple_brasil",
+  "url": "https://www.apple.com/br/shop",
+  "scanned_at": "2026-03-31T21:47:47.716856",
+  "screenshots": {
+    "desktop": "data/ecommerce_brazil/2026-03-31/screenshots/apple_brasil_desktop.png",
+    "mobile": "data/ecommerce_brazil/2026-03-31/screenshots/apple_brasil_mobile.png"
+  },
+  "structure": {
+    "title": "Apple\u00a0Store Online - Apple (BR)",
+    "url_final": "https://www.apple.com/br/store",
+    "nav_items": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/br/"
+      },
+      {
+        "text": "Loja",
+        "href": "/br/store"
+      },
+      {
+        "text": "Comprar os lan\u00e7amentos",
+        "href": "https://www.apple.com/br/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/br/shop/buy-mac"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/br/shop/buy-ipad"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/br/shop/buy-iphone"
+      },
+      {
+        "text": "Apple\u00a0Watch",
+        "href": "https://www.apple.com/br/shop/buy-watch"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/br/shop/goto/airpods/accessories"
+      },
+      {
+        "text": "Acess\u00f3rios",
+        "href": "https://www.apple.com/br/shop/accessories/all"
+      },
+      {
+        "text": "Encontre uma loja",
+        "href": "https://www.apple.com/br/retail/"
+      },
+      {
+        "text": "Status do pedido",
+        "href": "https://secure.store.apple.com/br/shop/order/list"
+      },
+      {
+        "text": "Financiamento",
+        "href": "https://www.apple.com/br/shop/goto/ww/financing"
+      },
+      {
+        "text": "Educa\u00e7\u00e3o",
+        "href": "https://www.apple.com/br/shop/browse/home/education_routing"
+      },
+      {
+        "text": "Neg\u00f3cios",
+        "href": "https://www.apple.com/br/retail/business/"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/br/mac/"
+      },
+      {
+        "text": "Explorar todos os modelos\u00a0de\u00a0Mac",
+        "href": "https://www.apple.com/br/mac/"
+      },
+      {
+        "text": "MacBook Neo",
+        "href": "https://www.apple.com/br/macbook-neo/"
+      },
+      {
+        "text": "MacBook\u00a0Air",
+        "href": "https://www.apple.com/br/macbook-air/"
+      },
+      {
+        "text": "MacBook\u00a0Pro",
+        "href": "https://www.apple.com/br/macbook-pro/"
+      },
+      {
+        "text": "iMac",
+        "href": "https://www.apple.com/br/imac/"
+      }
+    ],
+    "buttons": [
+      "Anterior - Item",
+      "Seguinte - Item",
+      "Anterior -",
+      "Seguinte -",
+      "Anterior - A ajuda est\u00e1 aqui.",
+      "Seguinte - A ajuda est\u00e1 aqui.",
+      "Anterior - Na Apple Store, \u00e9 diferente.",
+      "Seguinte - Na Apple Store, \u00e9 diferente.",
+      "Anterior - Acess\u00f3rios.",
+      "Seguinte - Acess\u00f3rios.",
+      "Anterior - Para todo mundo ouvir.",
+      "Seguinte - Para todo mundo ouvir.",
+      "Anterior - \u00c9 melhor com a Apple.",
+      "Seguinte - \u00c9 melhor com a Apple.",
+      "Anterior - Lojas Especiais."
+    ],
+    "forms": [
+      {
+        "action": "/br/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Buscar em apple.com"
+          },
+          {
+            "type": "hidden",
+            "name": "src",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 334,
+    "images_count": 52,
+    "images_with_alt": 37,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Loja"
+      },
+      {
+        "level": 2,
+        "text": "Comprar"
+      },
+      {
+        "level": 2,
+        "text": "Links r\u00e1pidos"
+      },
+      {
+        "level": 2,
+        "text": "Comprar nas lojas especiais"
+      },
+      {
+        "level": 2,
+        "text": "Explorar Mac"
+      },
+      {
+        "level": 2,
+        "text": "Comprar Mac"
+      },
+      {
+        "level": 3,
+        "text": "NOVO"
+      },
+      {
+        "level": 3,
+        "text": "NOVO"
+      },
+      {
+        "level": 3,
+        "text": "NOVO"
+      },
+      {
+        "level": 3,
+        "text": "NOVO"
+      },
+      {
+        "level": 3,
+        "text": "ESPECIALISTA DA APPLE"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Buscar em apple.com"
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "termos(o link abre em uma nova janela)",
+      "support.apple.com/121115(o link abre em uma nova j",
+      "termos(o link abre em uma nova janela)",
+      "support.apple.com/121115(o link abre em uma nova j",
+      "Apple",
+      "Loja",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Watch",
+      "AirPods",
+      "TV e Casa",
+      "AirTag",
+      "Acess\u00f3rios",
+      "Carteira",
+      "Apple Pay",
+      "Gerencie sua Conta Apple",
+      "Conta da Apple Store",
+      "iCloud.com",
+      "Apple One"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 52,
+    "has_og_tags": true,
+    "meta_description": "Compre os novos acess\u00f3rios, ofertas e produtos Apple. Receba ajuda para comprar e conhe\u00e7a as op\u00e7\u00f5es de entrega e pagamento flex\u00edvel.",
+    "scripts_count": 59
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "Y",
+      "search_filters": "Y",
+      "category_browsing": "Y",
+      "trending_items": "N",
+      "login_signup": "Y",
+      "social_login": "N",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "Y",
+      "stock_availability": "Y",
+      "related_products": "Y",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "Y",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "Y",
+      "star_ratings": "N",
+      "customer_reviews": "N",
+      "review_photos": "N",
+      "wishlist": "N",
+      "recently_viewed": "N",
+      "personalized_recommendations": "N",
+      "push_notifications": "N",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "Y",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "Y",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "N",
+      "hero_section": "Y",
+      "skeleton_loading": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Apple's unique product ecosystem integration",
+      "Financing options for products"
+    ],
+    "confidence": "high"
+  }
+}

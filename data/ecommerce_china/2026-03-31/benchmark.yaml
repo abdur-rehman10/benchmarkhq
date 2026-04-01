@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_china
+  name: E-commerce China
+  country: China
+  currency: CNY
+  language: zh
+  version: 1.0.0
+  generated_at: '2026-04-01T00:04:02.578638'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - taobao
+  - tmall
+  - jd.com
+  - pinduoduo
+  - aliexpress
+  - temu
+  - shein
+  - '1688'
+  - suning
+  - dangdang
+  - vipshop
+  - xiaomi_mall
+  - huawei_mall
+  - gome
+  - meituan
+  - dewu
+  - xiaohongshu
+  - jd_worldwide
+  - dhgate
+  - banggood
+  - lightinthebox
+  - tmall_global
+  - xianyu
+  - yanxuan
+  - samsung_china
+  - apple_china
+  - nike_china
+  - adidas_china
+  - ikea_china
+  - gearbest
+features:
+  critical:
+  - id: category_browsing
+    frequency: 22/22
+    percent: 100
+  - id: login_signup
+    frequency: 21/22
+    percent: 100
+  - id: product_images
+    frequency: 22/22
+    percent: 100
+  - id: product_descriptions
+    frequency: 21/22
+    percent: 100
+  - id: price_display
+    frequency: 21/22
+    percent: 100
+  - id: shopping_cart
+    frequency: 22/22
+    percent: 100
+  - id: add_to_cart
+    frequency: 22/22
+    percent: 100
+  - id: responsive_design
+    frequency: 22/22
+    percent: 100
+  - id: product_search
+    frequency: 21/22
+    percent: 95
+  - id: stock_availability
+    frequency: 20/22
+    percent: 95
+  - id: related_products
+    frequency: 20/22
+    percent: 95
+  - id: promo_code
+    frequency: 19/22
+    percent: 95
+  - id: multiple_payment
+    frequency: 20/22
+    percent: 95
+  - id: shipping_info
+    frequency: 21/22
+    percent: 95
+  - id: estimated_delivery
+    frequency: 20/22
+    percent: 95
+  - id: star_ratings
+    frequency: 19/22
+    percent: 95
+  - id: customer_reviews
+    frequency: 19/22
+    percent: 95
+  - id: wishlist
+    frequency: 19/22
+    percent: 95
+  - id: order_tracking
+    frequency: 21/22
+    percent: 95
+  - id: order_history
+    frequency: 20/22
+    percent: 95
+  - id: return_refund_info
+    frequency: 21/22
+    percent: 95
+  - id: help_center
+    frequency: 21/22
+    percent: 95
+  - id: contact_form
+    frequency: 21/22
+    percent: 95
+  - id: privacy_policy
+    frequency: 21/22
+    percent: 95
+  - id: terms_of_service
+    frequency: 21/22
+    percent: 95
+  - id: live_chat
+    frequency: 17/22
+    percent: 89
+  - id: cookie_consent
+    frequency: 17/22
+    percent: 89
+  - id: trending_items
+    frequency: 18/22
+    percent: 86
+  - id: guest_checkout
+    frequency: 18/22
+    percent: 86
+  - id: alt_text_on_images
+    frequency: 19/22
+    percent: 86
+  - id: recently_viewed
+    frequency: 17/22
+    percent: 85
+  - id: personalized_recommendations
+    frequency: 17/22
+    percent: 85
+  - id: breadcrumb_navigation
+    frequency: 17/22
+    percent: 85
+  - id: hero_section
+    frequency: 17/22
+    percent: 85
+  required:
+  - id: size_variant_selector
+    frequency: 16/22
+    percent: 84
+  - id: review_photos
+    frequency: 16/22
+    percent: 84
+  - id: sticky_header
+    frequency: 16/22
+    percent: 84
+  - id: language_attribute
+    frequency: 18/22
+    percent: 82
+  - id: phone_support
+    frequency: 17/22
+    percent: 81
+  - id: footer_with_links
+    frequency: 17/22
+    percent: 81
+  - id: search_autocomplete
+    frequency: 15/22
+    percent: 79
+  - id: search_filters
+    frequency: 15/22
+    percent: 79
+  - id: push_notifications
+    frequency: 15/22
+    percent: 79
+  - id: skeleton_loading
+    frequency: 14/22
+    percent: 74
+  - id: social_login
+    frequency: 14/22
+    percent: 70
+  recommended: []
+  nice_to_have: []
+  innovative: []

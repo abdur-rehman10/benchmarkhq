@@ -1,0 +1,379 @@
+{
+  "name": "fonq",
+  "url": "https://www.fonq.nl",
+  "scanned_at": "2026-03-31T22:37:23.911842",
+  "screenshots": {
+    "desktop": "data/ecommerce_netherlands/2026-03-31/screenshots/fonq_desktop.png",
+    "mobile": "data/ecommerce_netherlands/2026-03-31/screenshots/fonq_mobile.png"
+  },
+  "structure": {
+    "title": "fonQ \u2022 De online woonwinkel voor jou",
+    "url_final": "https://www.fonq.nl/",
+    "nav_items": [
+      {
+        "text": "Producten",
+        "href": ""
+      },
+      {
+        "text": "Meubels",
+        "href": "/pages/meubels"
+      },
+      {
+        "text": "Kasten",
+        "href": "/collections/kasten"
+      },
+      {
+        "text": "Tv-meubel",
+        "href": "/collections/tv-meubel"
+      },
+      {
+        "text": "Dressoir",
+        "href": "/collections/dressoir"
+      },
+      {
+        "text": "Opbergkast",
+        "href": "/collections/opbergkast"
+      },
+      {
+        "text": "Schoenenkast",
+        "href": "/collections/schoenenkast"
+      },
+      {
+        "text": "Vitrinekast",
+        "href": "/collections/vitrinekast"
+      },
+      {
+        "text": "Nachtkastje",
+        "href": "/collections/nachtkastje"
+      },
+      {
+        "text": "Meer >",
+        "href": "/collections/kasten"
+      },
+      {
+        "text": "Banken",
+        "href": "/collections/banken"
+      },
+      {
+        "text": "Hoekbank",
+        "href": "/collections/hoekbank"
+      },
+      {
+        "text": "2-zitsbank",
+        "href": "/collections/2-zitsbank"
+      },
+      {
+        "text": "3-zitsbank",
+        "href": "/collections/3-zitsbank"
+      },
+      {
+        "text": "4-zitsbank",
+        "href": "/collections/4-zitsbank"
+      },
+      {
+        "text": "Modulaire bank",
+        "href": "/collections/modulaire-bank"
+      },
+      {
+        "text": "Hocker",
+        "href": "/collections/hocker"
+      },
+      {
+        "text": "Meer >",
+        "href": "/collections/banken"
+      },
+      {
+        "text": "Tafels",
+        "href": "/collections/tafels"
+      },
+      {
+        "text": "Eettafel",
+        "href": "/collections/eettafel"
+      }
+    ],
+    "buttons": [
+      "Noodzakelijk24",
+      "Voorkeuren7",
+      "Statistieken11",
+      "Marketing52",
+      "Niet geclassificeerd875",
+      "[#IABV2_LABEL_PURPOSES#]",
+      "[#IABV2_LABEL_FEATURES#]",
+      "[#IABV2_LABEL_PARTNERS#]",
+      "Weigeren",
+      "Selectie toestaan",
+      "Aanpassen",
+      "> Alles toestaan",
+      "Meubels",
+      "Alle categorie\u00ebn",
+      "Kasten",
+      "Alle categorie\u00ebn",
+      "Alle Meubels",
+      "Banken",
+      "Alle categorie\u00ebn",
+      "Alle Meubels",
+      "Tafels",
+      "Alle categorie\u00ebn",
+      "Alle Meubels",
+      "Bedden"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Waar ben je naar op zoek?"
+          }
+        ]
+      },
+      {
+        "action": "/contact#contact_form",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "customer[accepts_marketing]",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "Vul hier je e-mailadres in"
+          }
+        ]
+      }
+    ],
+    "links_count": 870,
+    "images_count": 97,
+    "images_with_alt": 35,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Een bijzonder fijne lente begint thuis"
+      },
+      {
+        "level": 2,
+        "text": "Tips & inspiratie"
+      },
+      {
+        "level": 2,
+        "text": "De interieurtrends van 2026"
+      },
+      {
+        "level": 2,
+        "text": "Ontdek ons assortiment"
+      },
+      {
+        "level": 2,
+        "text": "Geef je huis wat fonQ!"
+      },
+      {
+        "level": 3,
+        "text": "MeubelsBanken, Stoelen, Kasten, Tafels, Bedden, Bijzettafel, Tv-meubel, Alle meu"
+      },
+      {
+        "level": 3,
+        "text": "VerlichtingHanglampen, Vloerlampen, Tafellampen, Plafondlampen, Wandlampen, Buit"
+      },
+      {
+        "level": 3,
+        "text": "Tuin & balkonTuinmeubelen, Bloempotten, Buitenverlichting, Zonwering, Barbecues,"
+      },
+      {
+        "level": 3,
+        "text": "Koken & tafelenPannen, Servies, Bestek, Glazen & karaffen, Keukenapparaten, Kook"
+      },
+      {
+        "level": 3,
+        "text": "WoonaccessoiresSierkussens, Vloerkleden, Plaid, Planten, Wanddecoratie, Spiegels"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Waar ben je naar op zoek?"
+      },
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "customer[accepts_marketing]",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": "Vul hier je e-mailadres in"
+      }
+    ],
+    "footer_links": [
+      "Account & gegevens",
+      "Retourneren",
+      "Garantie",
+      "Bestellen",
+      "Levertijd & bezorging",
+      "FAQ",
+      "Levertijd & bezorging",
+      "Bestellen",
+      "Betalen",
+      "Retourneren",
+      "Garantie",
+      "Veelgestelde vragen",
+      "Contact",
+      "Joint promotions",
+      "Partner Informatieplatform",
+      "Adverteren bij fonQ",
+      "Nieuws",
+      "Duurzaamheid",
+      "Werken bij fonQ",
+      "Over fonQ"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 61,
+    "has_og_tags": true,
+    "meta_description": "Kan jouw huis wel wat fonQ gebruiken? Naast een groot aanbod voor je interieur vind je ook keuzehulp en inspiratie. Geef je huis wat fonQ.",
+    "scripts_count": 67
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "U",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "U",
+      "add_to_cart": "U",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "Y",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Comprehensive furniture categories",
+      "Seasonal inspiration and trends"
+    ],
+    "confidence": "medium"
+  }
+}

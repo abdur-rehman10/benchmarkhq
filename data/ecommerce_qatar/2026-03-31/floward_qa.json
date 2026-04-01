@@ -1,0 +1,185 @@
+{
+  "name": "floward_qa",
+  "url": "https://www.floward.com/en-qa/",
+  "scanned_at": "2026-03-31T23:30:47.293446",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/floward_qa_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/floward_qa_mobile.png"
+  },
+  "structure": {
+    "title": "Online Flowers & Gifts Delivery in Qatar | Floward | Same-Day Flowers Delivery",
+    "url_final": "https://floward.com/en-qa",
+    "nav_items": [],
+    "buttons": [
+      "Qatar",
+      "\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "Menu",
+      "Search",
+      "Cart",
+      "View/Edit My Profile",
+      "View/Edit My Profile",
+      "My Orders",
+      "My Subscriptions",
+      "Notifications",
+      "Invoices",
+      "My Addresses",
+      "Occasions and Network",
+      "Referrals",
+      "Favourite",
+      "Floward VIP",
+      "Floward Points0",
+      "Floward WalletQAR 0",
+      "Logout",
+      "Choose Now",
+      "Choose Now",
+      "Gift Now"
+    ],
+    "forms": [],
+    "links_count": 214,
+    "images_count": 204,
+    "images_with_alt": 83,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Wish You a Speedy Recovery"
+      },
+      {
+        "level": 2,
+        "text": "Wish You a Speedy Recovery"
+      },
+      {
+        "level": 2,
+        "text": "Discover the Perfect Birthday Gift!"
+      },
+      {
+        "level": 2,
+        "text": "A Scented Gift"
+      },
+      {
+        "level": 3,
+        "text": "Flowers that Say It Best"
+      },
+      {
+        "level": 3,
+        "text": "QAR309"
+      },
+      {
+        "level": 3,
+        "text": "QAR309"
+      },
+      {
+        "level": 3,
+        "text": "QAR319"
+      },
+      {
+        "level": 3,
+        "text": "QAR279"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Flowers",
+      "Cakes",
+      "Gifts",
+      "Birthday",
+      "Anniversary",
+      "Bestsellers",
+      "Premium Gifts",
+      "Brands",
+      "Corporate",
+      "Partner With us",
+      "Blogs"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "The premier destination for online flowers and gifts in Qatar. Floward offers same-day delivery of fresh flower arrangements, plants, cakes, perfumes, and more.",
+    "scripts_count": 71
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "Y",
+      "order_tracking": "U",
+      "order_history": "Y",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "hamburger",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Floward VIP",
+      "Floward Points",
+      "Floward Wallet"
+    ],
+    "confidence": "medium"
+  }
+}

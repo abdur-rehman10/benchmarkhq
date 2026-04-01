@@ -1,0 +1,182 @@
+metadata:
+  industry: ecommerce_india
+  name: E-commerce India
+  country: India
+  currency: INR
+  language: en
+  version: 1.0.0
+  generated_at: '2026-03-31T23:52:18.180547'
+  methodology: automated_scraping_ai_analysis
+  sites_analyzed: 30
+  sites:
+  - flipkart
+  - amazon_india
+  - myntra
+  - meesho
+  - ajio
+  - nykaa
+  - tata_cliq
+  - snapdeal
+  - jiomart
+  - bigbasket
+  - croma
+  - pepperfry
+  - urban_ladder
+  - lenskart
+  - bewakoof
+  - decathlon_india
+  - nike_india
+  - handm_india
+  - zara_india
+  - samsung_india
+  - apple_india
+  - firstcry
+  - purplle
+  - boat_lifestyle
+  - reliance_digital
+  - temu_india
+  - ikea_india
+  - blinkit
+  - zepto
+  - shein_india
+features:
+  critical:
+  - id: product_search
+    frequency: 13/13
+    percent: 100
+  - id: category_browsing
+    frequency: 13/13
+    percent: 100
+  - id: login_signup
+    frequency: 12/13
+    percent: 100
+  - id: product_images
+    frequency: 13/13
+    percent: 100
+  - id: shopping_cart
+    frequency: 12/13
+    percent: 100
+  - id: add_to_cart
+    frequency: 12/13
+    percent: 100
+  - id: alt_text_on_images
+    frequency: 13/13
+    percent: 100
+  - id: language_attribute
+    frequency: 13/13
+    percent: 100
+  - id: responsive_design
+    frequency: 12/13
+    percent: 100
+  - id: guest_checkout
+    frequency: 11/13
+    percent: 92
+  - id: product_descriptions
+    frequency: 11/13
+    percent: 92
+  - id: price_display
+    frequency: 11/13
+    percent: 92
+  - id: stock_availability
+    frequency: 11/13
+    percent: 92
+  - id: multiple_payment
+    frequency: 11/13
+    percent: 92
+  - id: shipping_info
+    frequency: 11/13
+    percent: 92
+  - id: order_tracking
+    frequency: 11/13
+    percent: 92
+  - id: order_history
+    frequency: 11/13
+    percent: 92
+  - id: return_refund_info
+    frequency: 11/13
+    percent: 92
+  - id: help_center
+    frequency: 12/13
+    percent: 92
+  - id: contact_form
+    frequency: 11/13
+    percent: 92
+  - id: privacy_policy
+    frequency: 12/13
+    percent: 92
+  - id: terms_of_service
+    frequency: 12/13
+    percent: 92
+  - id: footer_with_links
+    frequency: 11/13
+    percent: 92
+  - id: trending_items
+    frequency: 10/13
+    percent: 91
+  - id: star_ratings
+    frequency: 10/13
+    percent: 91
+  - id: customer_reviews
+    frequency: 10/13
+    percent: 91
+  - id: phone_support
+    frequency: 10/13
+    percent: 91
+  - id: search_filters
+    frequency: 9/13
+    percent: 90
+  - id: related_products
+    frequency: 9/13
+    percent: 90
+  - id: wishlist
+    frequency: 9/13
+    percent: 90
+  - id: cookie_consent
+    frequency: 9/13
+    percent: 90
+  - id: search_autocomplete
+    frequency: 8/13
+    percent: 89
+  - id: promo_code
+    frequency: 8/13
+    percent: 89
+  - id: estimated_delivery
+    frequency: 8/13
+    percent: 89
+  - id: review_photos
+    frequency: 8/13
+    percent: 89
+  - id: recently_viewed
+    frequency: 8/13
+    percent: 89
+  - id: personalized_recommendations
+    frequency: 8/13
+    percent: 89
+  - id: live_chat
+    frequency: 8/13
+    percent: 89
+  - id: sticky_header
+    frequency: 8/13
+    percent: 89
+  - id: breadcrumb_navigation
+    frequency: 8/13
+    percent: 89
+  - id: hero_section
+    frequency: 8/13
+    percent: 89
+  required:
+  - id: size_variant_selector
+    frequency: 8/13
+    percent: 80
+  - id: social_login
+    frequency: 7/13
+    percent: 78
+  - id: push_notifications
+    frequency: 7/13
+    percent: 78
+  - id: skeleton_loading
+    frequency: 7/13
+    percent: 78
+  recommended: []
+  nice_to_have: []
+  innovative: []

@@ -1,0 +1,237 @@
+{
+  "name": "virgin_megastore_qa",
+  "url": "https://www.virginmegastore.qa",
+  "scanned_at": "2026-03-31T23:28:42.684914",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/virgin_megastore_qa_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/virgin_megastore_qa_mobile.png"
+  },
+  "structure": {
+    "title": "Virgin Megastore Qatar | Shop Online for Tech, Toys, Home Decor & More",
+    "url_final": "https://www.virginmegastore.qa/en",
+    "nav_items": [
+      {
+        "text": "\u0639\u0631\u0628\u064a",
+        "href": ""
+      },
+      {
+        "text": "",
+        "href": "/en/login"
+      },
+      {
+        "text": "0",
+        "href": "/en/cart"
+      }
+    ],
+    "buttons": [
+      "Qatar",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back"
+    ],
+    "forms": [
+      {
+        "action": "/en/search/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "text",
+            "placeholder": "I'm looking for"
+          }
+        ]
+      },
+      {
+        "action": "/en/_s/language",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "CSRFToken",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "accesibility_refreshScreenReaderBufferField",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 1014,
+    "images_count": 363,
+    "images_with_alt": 241,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Smart Appliances for Every Home"
+      },
+      {
+        "level": 2,
+        "text": "What's New"
+      },
+      {
+        "level": 2,
+        "text": "Apple Airtag 2"
+      },
+      {
+        "level": 2,
+        "text": "Trading Cards & Stickers"
+      },
+      {
+        "level": 2,
+        "text": "Native Union Accessories"
+      },
+      {
+        "level": 3,
+        "text": "Loading"
+      },
+      {
+        "level": 3,
+        "text": "Most Viewed Categories"
+      },
+      {
+        "level": 3,
+        "text": "Children's Books"
+      },
+      {
+        "level": 3,
+        "text": "Beauty"
+      },
+      {
+        "level": 3,
+        "text": "LEGO & Bricks"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "text",
+        "placeholder": "I'm looking for"
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact Us",
+      "Virgin Megastore Circle",
+      "Virgin Megastore Tickets",
+      "Virgin Megastore Cover",
+      "Virgin Megastore Gift Cards",
+      "FAQ",
+      "Terms & Conditions",
+      "Store Locations",
+      "About Us",
+      "Privacy Policy",
+      "Website Cookies",
+      "O% Interest Installment Plans",
+      "Bahrain",
+      "Oman",
+      "Qatar"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 45,
+    "has_og_tags": true,
+    "meta_description": "Shop online for electronics, music, toys, fashion, home decor & more from top brands. \u2713Free delivery on orders above QAR 200. \u2713Click & collect. \u2713Earn Loyalty Points ",
+    "scripts_count": 61
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "Y",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "Y",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "Y",
+      "shipping_info": "Y",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "Y",
+      "return_refund_info": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "Y",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "Y",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Diverse product categories",
+      "Localized language support"
+    ],
+    "confidence": "medium"
+  }
+}

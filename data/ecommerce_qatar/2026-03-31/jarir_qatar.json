@@ -1,0 +1,270 @@
+{
+  "name": "jarir_qatar",
+  "url": "https://www.jarir.com/qa-en/",
+  "scanned_at": "2026-03-31T23:22:28.612896",
+  "screenshots": {
+    "desktop": "data/ecommerce_qatar/2026-03-31/screenshots/jarir_qatar_desktop.png",
+    "mobile": "data/ecommerce_qatar/2026-03-31/screenshots/jarir_qatar_mobile.png"
+  },
+  "structure": {
+    "title": "Jarir Bookstore, Not just a bookstore | Qatar",
+    "url_final": "https://www.jarir.com/qa-en/",
+    "nav_items": [
+      {
+        "text": "Login/Register Now",
+        "href": "/qa-en/login"
+      },
+      {
+        "text": "Hello,",
+        "href": "/qa-en/my-account/dashboard"
+      },
+      {
+        "text": "Account",
+        "href": "/qa-en/my-account/dashboard"
+      },
+      {
+        "text": "Wishlist0",
+        "href": "/qa-en/login"
+      },
+      {
+        "text": "Track Order",
+        "href": ""
+      },
+      {
+        "text": "Jarir Services",
+        "href": "/qa-en/"
+      },
+      {
+        "text": "Installment Services",
+        "href": "https://www.jarir.com/qa-en/installment-service-methods"
+      },
+      {
+        "text": "Trade-in Service",
+        "href": "https://www.jarir.com/qa-en/trade-in"
+      },
+      {
+        "text": "Gift Certificates",
+        "href": ""
+      },
+      {
+        "text": "Total Protection Service",
+        "href": ""
+      },
+      {
+        "text": "Extended Warranty Service",
+        "href": ""
+      },
+      {
+        "text": "Corporate Sales",
+        "href": ""
+      },
+      {
+        "text": "Help",
+        "href": "/qa-en/"
+      },
+      {
+        "text": "Call us - 40198333",
+        "href": "tel:+97440198333"
+      },
+      {
+        "text": "Email us - care.qa@jarir.com",
+        "href": "mailto:care.qa@jarir.com"
+      },
+      {
+        "text": "Frequently Asked Questions",
+        "href": "/qa-en/customer-care/faq"
+      },
+      {
+        "text": "Warranty Policy",
+        "href": "/qa-en/customer-care/warranty-policy"
+      },
+      {
+        "text": "Return & Exchange",
+        "href": "/qa-en/customer-care/return-and-exchange"
+      },
+      {
+        "text": "Contact us",
+        "href": "/qa-en/customer-care/contact-us"
+      },
+      {
+        "text": "Terms of Service",
+        "href": "/qa-en/customer-care/terms-of-service"
+      }
+    ],
+    "buttons": [
+      "Saudi ArabiaEnglish",
+      "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u0639\u0631\u0628\u064a",
+      "KuwaitEnglish",
+      "\u0627\u0644\u0643\u0648\u064a\u062a\u0639\u0631\u0628\u064a",
+      "QatarEnglish",
+      "\u0642\u0637\u0631\u0639\u0631\u0628\u064a",
+      "BahrainEnglish",
+      "\u0627\u0644\u0628\u062d\u0631\u064a\u0646\u0639\u0631\u0628\u064a",
+      "UAEEnglish",
+      "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a\u0639\u0631\u0628\u064a",
+      "Other CountriesEnglish",
+      "\u062f\u0648\u0644 \u0623\u062e\u0631\u0649\u0639\u0631\u0628\u064a",
+      "Arrow Left",
+      "Arrow Right",
+      "Arrow Left",
+      "Arrow Right",
+      "Arrow Left",
+      "Arrow Right",
+      "Compare",
+      "Wishlist",
+      "Compare",
+      "Wishlist",
+      "Add to Cart",
+      "Compare",
+      "Wishlist",
+      "Add to Cart",
+      "Compare"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 207,
+    "images_count": 535,
+    "images_with_alt": 207,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Shop by Category"
+      },
+      {
+        "level": 2,
+        "text": "Shop by Brand"
+      },
+      {
+        "level": 2,
+        "text": "Trending Now"
+      },
+      {
+        "level": 2,
+        "text": "Smartphones"
+      },
+      {
+        "level": 2,
+        "text": "Laptops & Tablets"
+      },
+      {
+        "level": 3,
+        "text": "Customer Care"
+      },
+      {
+        "level": 3,
+        "text": "Discover Jarir"
+      },
+      {
+        "level": 3,
+        "text": "Jarir Services"
+      },
+      {
+        "level": 3,
+        "text": "About Jarir"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "search",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address"
+      }
+    ],
+    "footer_links": [
+      "Go back to the top",
+      "Customer Care",
+      "Contact Us",
+      "Frequently Asked Questions",
+      "Warranty Policy",
+      "Return and Exchange",
+      "Terms of Service",
+      "Privacy Policy",
+      "Discover Jarir",
+      "Shopping Guide",
+      "Jarir Reader",
+      "Our Location"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 161,
+    "has_og_tags": false,
+    "meta_description": "Shop for Arabic and English books, computers and tablets, printers and scanners, smartphones, smart watches, smart TVs, smart home products, speakers and headsets, video games, and digital cards at Ja",
+    "scripts_count": 92
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "Y",
+      "login_signup": "Y",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "Y",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "Y",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "Y",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "Y",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "Y",
+      "cookie_consent": "U",
+      "terms_of_service": "Y",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Installment Services",
+      "Trade-in Service",
+      "Total Protection Service",
+      "Extended Warranty Service"
+    ],
+    "confidence": "medium"
+  }
+}

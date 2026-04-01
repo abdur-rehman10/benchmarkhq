@@ -1,0 +1,378 @@
+{
+  "name": "evidea",
+  "url": "https://www.evidea.com",
+  "scanned_at": "2026-03-31T23:02:33.903372",
+  "screenshots": {
+    "desktop": "data/ecommerce_turkiye/2026-03-31/screenshots/evidea_desktop.png",
+    "mobile": "data/ecommerce_turkiye/2026-03-31/screenshots/evidea_mobile.png"
+  },
+  "structure": {
+    "title": "Burada her \u015fey evim i\u00e7in",
+    "url_final": "https://www.evidea.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Kampanyalar",
+        "href": "/kampanyalar/"
+      },
+      {
+        "text": "Mobilya",
+        "href": "/tamamlayici-mobilya/"
+      },
+      {
+        "text": "Dolap",
+        "href": "/tamamlayici-mobilya/dolap/"
+      },
+      {
+        "text": "\u00c7ok Ama\u00e7l\u0131 Dolap",
+        "href": "/tamamlayici-mobilya/cok-amacli-dolap/"
+      },
+      {
+        "text": "\u00c7ok Ama\u00e7l\u0131 Mutfak Dolab\u0131",
+        "href": "/tamamlayici-mobilya/mutfak-dolabi/"
+      },
+      {
+        "text": "Ayakkab\u0131 Dolab\u0131",
+        "href": "/tamamlayici-mobilya/ayakkabi-dolabi/"
+      },
+      {
+        "text": "Dekoratif Kulp",
+        "href": "/tamamlayici-mobilya/dekoratif-kulp/"
+      },
+      {
+        "text": "\u00c7al\u0131\u015fma Odas\u0131",
+        "href": "/tamamlayici-mobilya/calisma-odasi/"
+      },
+      {
+        "text": "\u00c7al\u0131\u015fma Masas\u0131",
+        "href": "/tamamlayici-mobilya/calisma-masasi/"
+      },
+      {
+        "text": "\u00c7al\u0131\u015fma Sandalyesi",
+        "href": "/tamamlayici-mobilya/calisma-sandalyesi/"
+      },
+      {
+        "text": "Salon Mobilyas\u0131",
+        "href": "/tamamlayici-mobilya/salon-mobilyasi/"
+      },
+      {
+        "text": "Konsol Vitrin",
+        "href": "/tamamlayici-mobilya/konsol-vitrin/"
+      },
+      {
+        "text": "TV \u00dcnitesi",
+        "href": "/tamamlayici-mobilya/tv-unitesi/"
+      },
+      {
+        "text": "Kitapl\u0131k",
+        "href": "/tamamlayici-mobilya/kitaplik/"
+      },
+      {
+        "text": "Tekli Koltuk ve Puf",
+        "href": "/tamamlayici-mobilya/tekli-koltuk-ve-puf/"
+      },
+      {
+        "text": "Sehpa",
+        "href": "/tamamlayici-mobilya/sehpa/"
+      },
+      {
+        "text": "Mutfak Mobilyas\u0131",
+        "href": "/tamamlayici-mobilya/mutfak-mobilyasi/"
+      },
+      {
+        "text": "Mutfak Masas\u0131 ve Sandalye Tak\u0131m\u0131",
+        "href": "/tamamlayici-mobilya/mutfak-masasi-ve-sandalye-takimi/"
+      },
+      {
+        "text": "Mutfak Taburesi",
+        "href": "/tamamlayici-mobilya/mutfak-taburesi/"
+      }
+    ],
+    "buttons": [
+      "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z.",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "Al\u0131\u015fveri\u015fe Ba\u015flay\u0131n \u2192",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE",
+      "SEPETE EKLE"
+    ],
+    "forms": [
+      {
+        "action": "/arama",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search_text",
+            "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+          },
+          {
+            "type": "hidden",
+            "name": "ref",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/arama",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search_text",
+            "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+          },
+          {
+            "type": "hidden",
+            "name": "ref",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/arama",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search_text",
+            "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+          },
+          {
+            "type": "hidden",
+            "name": "ref",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/arama",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "search_text",
+            "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+          },
+          {
+            "type": "hidden",
+            "name": "ref",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "csrfmiddlewaretoken",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 968,
+    "images_count": 589,
+    "images_with_alt": 275,
+    "headings": [
+      {
+        "level": 2,
+        "text": "\u0130lham Veren Yemek Tak\u0131mlar\u0131"
+      },
+      {
+        "level": 2,
+        "text": "Ramazan BereketiniBirlikte Payla\u015fal\u0131m"
+      },
+      {
+        "level": 2,
+        "text": "Evidea"
+      },
+      {
+        "level": 3,
+        "text": "Kiwi\u00a0KSI-640 Buharl\u0131 Dikey K\u0131r\u0131\u015f\u0131k D\u00fczeltici \u00dct\u00fc - Pembe - 1000 Watt"
+      },
+      {
+        "level": 3,
+        "text": "Eco Room Rafl\u0131 \u00c7al\u0131\u015fma Masas\u0131 - Atlantik \u00c7am"
+      },
+      {
+        "level": 3,
+        "text": "Neoflam Midas 11 Par\u00e7a Tencere Seti"
+      },
+      {
+        "level": 3,
+        "text": "Evidea Soft Adave Makine Hal\u0131s\u0131 - Koyu Bej - 160x230 cm"
+      },
+      {
+        "level": 3,
+        "text": "Kiwi Ktm-2907 \u00c7ay Makinesi - Siyah"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+      },
+      {
+        "type": "hidden",
+        "name": "ref",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "search_text",
+        "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+      },
+      {
+        "type": "hidden",
+        "name": "ref",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "search_text",
+        "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+      },
+      {
+        "type": "hidden",
+        "name": "ref",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "search_text",
+        "placeholder": "\u00dcr\u00fcn, kategori veya marka ad\u0131 ile aray\u0131n\u0131z."
+      },
+      {
+        "type": "hidden",
+        "name": "ref",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "E-mail"
+      },
+      {
+        "type": "text",
+        "name": "number",
+        "placeholder": "Sipari\u015f Numaran\u0131z"
+      }
+    ],
+    "footer_links": [
+      "Mutfak",
+      "sofra",
+      "ev tekstili",
+      "banyo",
+      "ev dekorasyon",
+      "ev ve ya\u015fam",
+      "ayd\u0131nlatma",
+      "tamamlay\u0131c\u0131 mobilya",
+      "elektrikli ev aletleri",
+      "\u00c7atal b\u0131\u00e7ak seti",
+      "yemek tak\u0131m\u0131",
+      "tencere",
+      "Kahve fincan\u0131",
+      "nevresim tak\u0131m\u0131",
+      "Pike tak\u0131m\u0131",
+      "yorgan",
+      "ortopedik yast\u0131k",
+      "TV battaniyesi",
+      "Banyo aksesuar seti",
+      "el ve y\u00fcz havlusu"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 50,
+    "has_og_tags": false,
+    "meta_description": "Modern, \u015f\u0131k ve fonksiyonel \u00f6zelliklere sahip dekorasyon, tamamlay\u0131c\u0131 mobilya ve ev ya\u015fam \u00fcr\u00fcnleri uygun fiyat avantaj\u0131, \u00fccretsiz iade ve taksit se\u00e7enekleriyle Evidea'da!",
+    "scripts_count": 164
+  },
+  "errors": [],
+  "lighthouse": {},
+  "ai_analysis": {
+    "features": {
+      "product_search": "Y",
+      "search_autocomplete": "U",
+      "search_filters": "U",
+      "category_browsing": "Y",
+      "trending_items": "U",
+      "login_signup": "U",
+      "social_login": "U",
+      "guest_checkout": "U",
+      "product_images": "Y",
+      "product_descriptions": "U",
+      "price_display": "Y",
+      "size_variant_selector": "U",
+      "stock_availability": "U",
+      "related_products": "U",
+      "shopping_cart": "Y",
+      "add_to_cart": "Y",
+      "promo_code": "U",
+      "multiple_payment": "U",
+      "shipping_info": "U",
+      "estimated_delivery": "U",
+      "star_ratings": "U",
+      "customer_reviews": "U",
+      "review_photos": "U",
+      "wishlist": "U",
+      "recently_viewed": "U",
+      "personalized_recommendations": "U",
+      "push_notifications": "U",
+      "order_tracking": "U",
+      "order_history": "U",
+      "return_refund_info": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "contact_form": "U",
+      "phone_support": "U",
+      "alt_text_on_images": "Y",
+      "language_attribute": "Y",
+      "privacy_policy": "U",
+      "cookie_consent": "U",
+      "terms_of_service": "U",
+      "responsive_design": "U",
+      "sticky_header": "U",
+      "footer_with_links": "Y",
+      "breadcrumb_navigation": "U",
+      "hero_section": "U",
+      "skeleton_loading": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_unique_features": [
+      "Extensive range of home-related categories",
+      "Focus on complementary furniture"
+    ],
+    "confidence": "medium"
+  }
+}
