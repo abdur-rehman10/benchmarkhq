@@ -1,0 +1,264 @@
+{
+  "name": "heroku",
+  "url": "https://www.heroku.com",
+  "scanned_at": "2026-04-01T15:41:31.374050",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/heroku_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/heroku_mobile.png"
+  },
+  "structure": {
+    "title": "The AI PaaS for Deploying, Managing, and Scaling Apps",
+    "url_final": "https://www.heroku.com/",
+    "nav_items": [
+      {
+        "text": "Dashboard",
+        "href": "https://dashboard.heroku.com"
+      },
+      {
+        "text": "Databases",
+        "href": "https://data.heroku.com"
+      },
+      {
+        "text": "Dataclips",
+        "href": "https://dataclips.heroku.com"
+      },
+      {
+        "text": "Elements",
+        "href": "https://elements.heroku.com/"
+      },
+      {
+        "text": "Documentation",
+        "href": "https://devcenter.heroku.com/"
+      },
+      {
+        "text": "Support",
+        "href": "https://help.heroku.com"
+      }
+    ],
+    "buttons": [
+      "Close",
+      "SearchOpen Search Popup",
+      "Account menu",
+      "Cookies Details\u200e",
+      "Cookies Details\u200e",
+      "Cookies Details\u200e",
+      "Back Button",
+      "Filter Button",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Save Settings",
+      "Accept All Cookies",
+      "Dashboard",
+      "Login",
+      "Sign Up",
+      "Get Started Now",
+      "Explore the Heroku Platform",
+      "Learn more about Heroku AI",
+      "All Heroku Buildpacks",
+      "Get Started Now",
+      "Explore Heroku Solutions",
+      "Get Started Now",
+      "Explore Heroku Platform",
+      "Get Started Now",
+      "Explore Managed Data Services",
+      "Lit Chart\u2019s story",
+      "Get Started Now"
+    ],
+    "forms": [
+      {
+        "action": "https://www.heroku.com/search/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 184,
+    "images_count": 39,
+    "images_with_alt": 23,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The AI PaaS For Deploying, Managing, and Scaling Apps"
+      },
+      {
+        "level": 2,
+        "text": "A streamlined platform for building AI applications and agents"
+      },
+      {
+        "level": 2,
+        "text": "Powerful platform, unparalleled ecosystem"
+      },
+      {
+        "level": 2,
+        "text": "Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and"
+      },
+      {
+        "level": 2,
+        "text": "A powerful and innovative feature set"
+      },
+      {
+        "level": 2,
+        "text": "Your data on Heroku"
+      },
+      {
+        "level": 3,
+        "text": "Heroku March 2026 Update"
+      },
+      {
+        "level": 3,
+        "text": "Heroku March 2026 Update"
+      },
+      {
+        "level": 3,
+        "text": "How Fastcall Delivers Enterprise-Scale Voice and Messaging with Heroku"
+      },
+      {
+        "level": 3,
+        "text": "Heroku March 2026 Update"
+      },
+      {
+        "level": 3,
+        "text": "Heroku Managed Inference and Agents"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-3",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-4",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Products",
+      "Heroku Platform",
+      "Heroku AI",
+      "Heroku Managed Inference and Agents",
+      "pgvector for Heroku Postgres",
+      "MCP on Heroku",
+      "Heroku Data Services",
+      "Heroku Postgres",
+      "Heroku Key-Value Store",
+      "Apache Kafka on Heroku",
+      "Heroku Enterprise",
+      "Heroku Private Spaces",
+      "Heroku Connect",
+      "Heroku Shield",
+      "Heroku Success",
+      "Heroku Teams",
+      "Elements Marketplace",
+      "Languages",
+      "Python",
+      ".NET"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 42,
+    "has_og_tags": true,
+    "meta_description": "Heroku is an AI platform as a service (AI PaaS) that enables developers to build, run, and scale applications entirely in the cloud.",
+    "scripts_count": 72
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI PaaS capabilities",
+      "Comprehensive developer tools",
+      "Strong ecosystem and integrations"
+    ],
+    "confidence": "high"
+  }
+}

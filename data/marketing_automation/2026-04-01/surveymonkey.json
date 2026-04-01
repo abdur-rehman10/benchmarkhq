@@ -1,0 +1,284 @@
+{
+  "name": "surveymonkey",
+  "url": "https://www.surveymonkey.com",
+  "scanned_at": "2026-04-01T16:18:48.976516",
+  "screenshots": {
+    "desktop": "data/marketing_automation/2026-04-01/screenshots/surveymonkey_desktop.png",
+    "mobile": "data/marketing_automation/2026-04-01/screenshots/surveymonkey_mobile.png"
+  },
+  "structure": {
+    "title": "SurveyMonkey: The World\u2019s Most Popular Survey Platform",
+    "url_final": "https://www.surveymonkey.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/product/enterprise/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Product OverviewLearn about the AI-powered SurveyM",
+        "href": "/product/"
+      },
+      {
+        "text": "SurveysCollect actionable feedback for any use cas",
+        "href": "/product/surveys/"
+      },
+      {
+        "text": "FormsSeamless event registrations, payments, and m",
+        "href": "/product/forms/"
+      },
+      {
+        "text": "Market ResearchMarket, industry, and buyer insight",
+        "href": "/product/market-research/"
+      },
+      {
+        "text": "New at SurveyMonkeyExplore the latest product upda",
+        "href": "/product/features/whats-new/"
+      },
+      {
+        "text": "AICreate surveys in seconds and spot insights fast",
+        "href": "/product/features/ai/"
+      },
+      {
+        "text": "Integrations200+ apps to connect with your favorit",
+        "href": "/product/integrations/"
+      },
+      {
+        "text": "Research PanelReach an audience of 335M+ people in",
+        "href": "/product/market-research/audience-panel/"
+      },
+      {
+        "text": "Admin and SecurityFlexible admin controls, data pr",
+        "href": "/product/enterprise/admin-security-features/"
+      },
+      {
+        "text": "See all features",
+        "href": "/product/features/"
+      },
+      {
+        "text": "Customer Satisfaction Survey",
+        "href": "/templates/customer-satisfaction-survey-template/"
+      },
+      {
+        "text": "RSVP and Contact Information Survey",
+        "href": "/templates/rsvp-contact-information-survey-template/"
+      },
+      {
+        "text": "360-Degree Employee Evaluation Survey",
+        "href": "/templates/360-degree-employee-evaluation-survey-template/"
+      },
+      {
+        "text": "Event Registration Form",
+        "href": "/templates/event-registration-form-template/"
+      },
+      {
+        "text": "See all 400+ templates",
+        "href": "/templates/"
+      },
+      {
+        "text": "Employee FeedbackBoost engagement with critical in",
+        "href": "/use-cases/employee-engagement/"
+      },
+      {
+        "text": "Customer SatisfactionMeasure how satisfied custome",
+        "href": "/use-cases/customer-satisfaction/"
+      }
+    ],
+    "buttons": [
+      "Accept all",
+      "English",
+      "Dansk",
+      "Deutsch",
+      "Espa\u00f1ol",
+      "Suomi",
+      "Fran\u00e7ais",
+      "Italiano",
+      "\u65e5\u672c\u8a9e",
+      "Nederlands",
+      "Norsk",
+      "Portugu\u00eas - BR",
+      "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a",
+      "Sverige",
+      "T\u00fcrk\u00e7e",
+      "\u7b80\u4f53\u4e2d\u6587",
+      "en",
+      "Product",
+      "Solutions",
+      "Resources",
+      "Customer experience",
+      "Employee experience",
+      "Market research",
+      "Event feedback",
+      "Registration forms",
+      "Learn more",
+      "Contact Sales",
+      "Log in"
+    ],
+    "forms": [],
+    "links_count": 235,
+    "images_count": 20,
+    "images_with_alt": 20,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Guess less. Know more."
+      },
+      {
+        "level": 2,
+        "text": "The world's most popular survey platform used by 260K+ organizations worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Your always-on insights platform to power confident business decisions"
+      },
+      {
+        "level": 2,
+        "text": "Create expert surveys and forms in seconds"
+      },
+      {
+        "level": 2,
+        "text": "Reach your audience with precision"
+      },
+      {
+        "level": 2,
+        "text": "Move fast with action-ready insights"
+      },
+      {
+        "level": 3,
+        "text": "Make continuous customer health tracking a competitive advantage"
+      },
+      {
+        "level": 3,
+        "text": "Attract, engage, and retain top talent with continuous feedback"
+      },
+      {
+        "level": 3,
+        "text": "Track evolving market signals"
+      },
+      {
+        "level": 3,
+        "text": "Improve every event with end-to-end feedback"
+      },
+      {
+        "level": 3,
+        "text": "Streamline registrations and payments"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "marketing",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "functional",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "essential",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Overview",
+      "Surveys",
+      "AI Survey Generator",
+      "Online Forms",
+      "Market Research",
+      "Integrations",
+      "AI",
+      "Enterprise",
+      "Pricing",
+      "Application Management",
+      "Customer Satisfaction",
+      "Employee Engagement",
+      "Event Feedback",
+      "Product Testing",
+      "Net Promoter Score (NPS)",
+      "Course Evaluation",
+      "All Templates",
+      "Customers",
+      "Blog",
+      "Resource Center"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 50,
+    "has_og_tags": true,
+    "meta_description": "Easily create surveys and forms with AI and templates for employee and customer feedback, market research, event registrations and more. Get started free.",
+    "scripts_count": 52
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered survey creation",
+      "Extensive integrations",
+      "Large audience panel for research",
+      "Comprehensive security features"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "name": "baremetrics",
+  "url": "https://baremetrics.com",
+  "scanned_at": "2026-04-01T15:14:07.971114",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/baremetrics_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/baremetrics_mobile.png"
+  },
+  "structure": {
+    "title": "Baremetrics: Subscription Analytics for your Business",
+    "url_final": "https://baremetrics.com/",
+    "nav_items": [],
+    "buttons": [
+      "Get Started",
+      "Get Started",
+      "Learn More",
+      "Get Started",
+      "Learn More",
+      "View Open Startups",
+      "Get Started"
+    ],
+    "forms": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/24299515/91b1d7fd-5137-4a",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/24299515/f8ebb143-ea54-44",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 188,
+    "images_count": 56,
+    "images_with_alt": 54,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Superior Dashboards and Analytics forStripe+ Chargebee"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Make more by knowing what drives growth of your business."
+      },
+      {
+        "level": 2,
+        "text": "Make more by making data-driven decisions with confidence."
+      },
+      {
+        "level": 2,
+        "text": "Take the work out of keeping tabs on your business with one-click integrations."
+      },
+      {
+        "level": 2,
+        "text": "Learn why your customers cancel"
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 4,
+    "has_og_tags": true,
+    "meta_description": "Baremetrics is Subscription Analytics and Insights: One click and you get hundreds of valuable metrics and business insights!",
+    "scripts_count": 62
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Superior dashboards for Stripe and Chargebee",
+      "One-click integrations",
+      "Customer cancellation insights"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "name": "opencart",
+  "url": "https://www.opencart.com",
+  "scanned_at": "2026-04-01T16:07:12.408076",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/opencart_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/opencart_mobile.png"
+  },
+  "structure": {
+    "title": "OpenCart - Open Source Shopping Cart Solution",
+    "url_final": "https://www.opencart.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.opencart.com/index.php?route=common/home"
+      },
+      {
+        "text": "Features",
+        "href": "https://www.opencart.com/index.php?route=cms/feature"
+      },
+      {
+        "text": "Demo",
+        "href": "https://www.opencart.com/index.php?route=cms/demo"
+      },
+      {
+        "text": "Marketplace",
+        "href": "https://www.opencart.com/index.php?route=marketplace/extension"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.opencart.com/blog"
+      },
+      {
+        "text": "Download",
+        "href": "https://www.opencart.com/index.php?route=cms/download"
+      },
+      {
+        "text": "Resources",
+        "href": "#"
+      },
+      {
+        "text": "Showcase",
+        "href": "https://www.opencart.com/index.php?route=cms/showcase"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.opencart.com/index.php?route=support/contact"
+      },
+      {
+        "text": "OpenCart Partners",
+        "href": "https://www.opencart.com/index.php?route=support/partner"
+      },
+      {
+        "text": "Community Forums",
+        "href": "https://forum.opencart.com"
+      },
+      {
+        "text": "Facebook Community",
+        "href": "https://www.facebook.com/groups/www.opencart"
+      },
+      {
+        "text": "OpenCart Documentation",
+        "href": "https://docs.opencart.com"
+      },
+      {
+        "text": "GitHub",
+        "href": "https://github.com/opencart/opencart"
+      },
+      {
+        "text": "OpenCart Books",
+        "href": "https://docs.opencart.com/#additional-reading"
+      },
+      {
+        "text": "Github Bug Tracker",
+        "href": "https://github.com/opencart/opencart/issues"
+      },
+      {
+        "text": "Developer",
+        "href": "https://docs.opencart.com/developer/module/"
+      },
+      {
+        "text": "Login",
+        "href": "https://www.opencart.com/index.php?route=account/login"
+      },
+      {
+        "text": "Register",
+        "href": "https://www.opencart.com/index.php?route=account/register"
+      },
+      {
+        "text": "Login",
+        "href": "https://www.opencart.com/index.php?route=account/login"
+      }
+    ],
+    "buttons": [
+      "Login",
+      "Register",
+      "Start now",
+      "Free Download",
+      "Signup for Opencart Cloud",
+      "Free Download",
+      "View Demo",
+      "Signup for Opencart Cloud",
+      "Free Download",
+      "View Demo",
+      "Get Started",
+      "Get Started",
+      "Visit Marketplace",
+      "Visit Marketplace",
+      "Visit All",
+      "Visit All",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Learn More"
+    ],
+    "forms": [],
+    "links_count": 82,
+    "images_count": 41,
+    "images_with_alt": 16,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The best open-source and FREE eCommerce platform"
+      },
+      {
+        "level": 2,
+        "text": "Simple to start. Easy to run."
+      },
+      {
+        "level": 2,
+        "text": "OpenCart CloudA Fully Hosted eCommerce Solution"
+      },
+      {
+        "level": 2,
+        "text": "From corporations to local businesses"
+      },
+      {
+        "level": 2,
+        "text": "13000+ modules and themes.Marketplace for all your needs."
+      },
+      {
+        "level": 2,
+        "text": "Payment gateways and shipping methods"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "newsletter",
+        "placeholder": "Enter your email address"
+      }
+    ],
+    "footer_links": [
+      "Features",
+      "Showcase",
+      "Demo",
+      "Download",
+      "Marketplace",
+      "Login",
+      "Contact Us",
+      "Extension Advertising",
+      "Marketplace Advertising",
+      "About Us",
+      "Terms & Conditions",
+      "Privacy Policy",
+      "Refund Policy",
+      "GDPR",
+      "Extension Developer",
+      "Community Forum",
+      "Dedicated Support",
+      "OpenCart Partners",
+      "Marketplace Support",
+      "Migrate to OpenCart"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": false,
+    "meta_description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
+    "scripts_count": 33
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open source platform",
+      "Extensive marketplace with 13000+ modules and themes",
+      "Free tier available",
+      "Community forums and GitHub presence"
+    ],
+    "confidence": "high"
+  }
+}

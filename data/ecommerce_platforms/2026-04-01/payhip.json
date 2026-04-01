@@ -1,0 +1,177 @@
+{
+  "name": "payhip",
+  "url": "https://payhip.com",
+  "scanned_at": "2026-04-01T16:03:42.167909",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/payhip_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/payhip_mobile.png"
+  },
+  "structure": {
+    "title": "Payhip - Create a free website and sell online",
+    "url_final": "https://payhip.com/",
+    "nav_items": [],
+    "buttons": [
+      "Get started for free",
+      "Get started",
+      "OK",
+      "Get started for free",
+      "Get started free",
+      "Login"
+    ],
+    "forms": [
+      {
+        "action": "/auth/flash_email_signup",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address"
+          }
+        ]
+      },
+      {
+        "action": "/auth/flash_email_signup",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 119,
+    "images_count": 31,
+    "images_with_alt": 21,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Sell digital downloads, courses, coachingand more fromone simple platform."
+      },
+      {
+        "level": 2,
+        "text": "We make it easy for you to sell anything online anywhere."
+      },
+      {
+        "level": 2,
+        "text": "All-in-one platform"
+      },
+      {
+        "level": 2,
+        "text": "Your store, your way"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by over 130,000 creators"
+      },
+      {
+        "level": 2,
+        "text": "You're in great company"
+      },
+      {
+        "level": 3,
+        "text": "Digital downloads"
+      },
+      {
+        "level": 3,
+        "text": "Online courses"
+      },
+      {
+        "level": 3,
+        "text": "Coaching"
+      },
+      {
+        "level": 3,
+        "text": "Memberships"
+      },
+      {
+        "level": 3,
+        "text": "Physical products"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Payhip is the easiest way to sell digital downloads and courses. No technical skills required. Create your own all-in-one digital storefront. Try it free!",
+    "scripts_count": 21
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Free tier available",
+      "Trusted by over 130,000 creators",
+      "All-in-one platform for digital downloads, courses, coaching, and more"
+    ],
+    "confidence": "medium"
+  }
+}

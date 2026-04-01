@@ -1,0 +1,220 @@
+{
+  "name": "element",
+  "url": "https://element.io",
+  "scanned_at": "2026-04-01T15:51:16.615861",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/element_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/element_mobile.png"
+  },
+  "structure": {
+    "title": "Element | Secure collaboration and messaging",
+    "url_final": "https://element.io/",
+    "nav_items": [
+      {
+        "text": "Overview",
+        "href": "/product-overview"
+      },
+      {
+        "text": "Element",
+        "href": "/app"
+      },
+      {
+        "text": "Element Server Suite",
+        "href": "/server-suite"
+      },
+      {
+        "text": "The Matrix Standard",
+        "href": "/matrix-benefits"
+      },
+      {
+        "text": "Hosting",
+        "href": "/self-hosted-or-cloud"
+      },
+      {
+        "text": "Build",
+        "href": "/build"
+      },
+      {
+        "text": "Partners",
+        "href": "/partners"
+      },
+      {
+        "text": "Sectors",
+        "href": "/sectors"
+      },
+      {
+        "text": "Use cases",
+        "href": "/solutions"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Matrix in Germany",
+        "href": "/matrix-in-germany"
+      },
+      {
+        "text": "About",
+        "href": "/about"
+      },
+      {
+        "text": "User guide",
+        "href": "/user-guide"
+      },
+      {
+        "text": "Documentation",
+        "href": "https://docs.element.io"
+      },
+      {
+        "text": "Help",
+        "href": "/help"
+      },
+      {
+        "text": "Labs",
+        "href": "/labs"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "https://try.element.io/get-started"
+      },
+      {
+        "text": "Matrix Conf videos",
+        "href": "/matrix-conference-presentations-2025"
+      },
+      {
+        "text": "Blog",
+        "href": "https://element.io/blog/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Get started",
+      "Get started",
+      "Get started",
+      "Download",
+      "Get started",
+      "Pricing"
+    ],
+    "forms": [],
+    "links_count": 119,
+    "images_count": 76,
+    "images_with_alt": 74,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Communicate on your terms."
+      },
+      {
+        "level": 1,
+        "text": "Be in your element."
+      },
+      {
+        "level": 1,
+        "text": "Be in your element."
+      },
+      {
+        "level": 2,
+        "text": "Trusted by secure organisations"
+      },
+      {
+        "level": 2,
+        "text": "Free from proprietary, vendor-locked platforms."
+      },
+      {
+        "level": 2,
+        "text": "Sovereign cross-border collaboration."
+      },
+      {
+        "level": 2,
+        "text": "Communicate between organisations and nations."
+      },
+      {
+        "level": 2,
+        "text": "Alternative to Microsoft Teams."
+      },
+      {
+        "level": 3,
+        "text": "Connectivity between organisations"
+      },
+      {
+        "level": 3,
+        "text": "Independence from siloed systems"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "Element is a Matrix-based end-to-end encrypted messenger and secure collaboration app. It\u2019s decentralised for digital sovereign self-hosting, or through a hosting service such as Element Matrix Servic",
+    "scripts_count": 16
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Secure collaboration",
+      "Matrix protocol support",
+      "Cross-border communication"
+    ],
+    "confidence": "medium"
+  }
+}

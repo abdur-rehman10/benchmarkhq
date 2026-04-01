@@ -1,0 +1,213 @@
+{
+  "name": "draftbit",
+  "url": "https://draftbit.com",
+  "scanned_at": "2026-04-01T16:37:31.359859",
+  "screenshots": {
+    "desktop": "data/nocode_lowcode/2026-04-01/screenshots/draftbit_desktop.png",
+    "mobile": "data/nocode_lowcode/2026-04-01/screenshots/draftbit_mobile.png"
+  },
+  "structure": {
+    "title": "Draftbit \u2014 Build Native & Web Apps with AI and Visual Editing",
+    "url_final": "https://draftbit.com/",
+    "nav_items": [
+      {
+        "text": "Platform",
+        "href": "/platform"
+      },
+      {
+        "text": "Services",
+        "href": "/services"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      }
+    ],
+    "buttons": [
+      "Toggle theme",
+      "Login",
+      "Get started free",
+      "Login",
+      "Get started free",
+      "Toggle theme",
+      "Claude CodeClaude",
+      "Claude Sonnet 4.6",
+      "Start building for freeStart building",
+      "try Draftbit for free",
+      "Try It Out For Free",
+      "Try It Out For Free",
+      "New App",
+      "Existing App",
+      "Get started free",
+      "Decline",
+      "Allow All",
+      "Close",
+      "Allow All",
+      "Decline",
+      "Save & Accept",
+      "Close",
+      "Opt Out"
+    ],
+    "forms": [],
+    "links_count": 37,
+    "images_count": 64,
+    "images_with_alt": 59,
+    "headings": [
+      {
+        "level": 1,
+        "text": "From prompt to published, without the gotchas."
+      },
+      {
+        "level": 2,
+        "text": "Build Anything."
+      },
+      {
+        "level": 2,
+        "text": "Go fast with AI."
+      },
+      {
+        "level": 2,
+        "text": "Full control & collaboration, no black box."
+      },
+      {
+        "level": 2,
+        "text": "Go further with experts on your team."
+      },
+      {
+        "level": 2,
+        "text": "Join the crew."
+      },
+      {
+        "level": 3,
+        "text": "Building your first app"
+      },
+      {
+        "level": 3,
+        "text": "Need a backend"
+      },
+      {
+        "level": 3,
+        "text": "Vibe-coded app hit a wall"
+      },
+      {
+        "level": 3,
+        "text": "Design that looks professional"
+      },
+      {
+        "level": 3,
+        "text": "Custom integrations"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Twitter",
+      "GitHub",
+      "LinkedIn",
+      "Home",
+      "Platform",
+      "Services",
+      "Pricing",
+      "Customers",
+      "Blog",
+      "FAQ",
+      "Privacy",
+      "Terms",
+      "Cookies",
+      "EULA"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 9,
+    "has_og_tags": true,
+    "meta_description": "Build, ship, and scale native mobile apps faster with Draftbit's visual builder, real code access, and AI-powered workflows.",
+    "scripts_count": 15
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-assisted app building",
+      "Visual editing for app development",
+      "Free tier available"
+    ],
+    "confidence": "medium"
+  }
+}

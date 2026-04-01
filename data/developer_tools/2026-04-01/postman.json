@@ -1,0 +1,234 @@
+{
+  "name": "postman",
+  "url": "https://www.postman.com",
+  "scanned_at": "2026-04-01T15:43:18.031318",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/postman_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/postman_mobile.png"
+  },
+  "structure": {
+    "title": "Postman: The World's Leading API Platform | Sign Up for Free",
+    "url_final": "https://www.postman.com/",
+    "nav_items": [
+      {
+        "text": "Home",
+        "href": "https://www.postman.com/"
+      },
+      {
+        "text": "What's New",
+        "href": "/new-postman/"
+      },
+      {
+        "text": "Security",
+        "href": "/security/"
+      },
+      {
+        "text": "Integrations",
+        "href": "/product/integrations/"
+      },
+      {
+        "text": "Postman API Network",
+        "href": "https://www.postman.com/explore"
+      },
+      {
+        "text": "MCP Catalog",
+        "href": "https://www.postman.com/explore/mcp-servers"
+      },
+      {
+        "text": "Download Postman \u2192",
+        "href": "/downloads/"
+      },
+      {
+        "text": "Spec HubManage specifications",
+        "href": "/product/spec-hub/"
+      },
+      {
+        "text": "Mock ServersValidate API behavior",
+        "href": "/product/mock-apis/"
+      },
+      {
+        "text": "WorkspacesCollaborate with teams",
+        "href": "/product/workspaces/"
+      },
+      {
+        "text": "FlowsCreate visual workflows",
+        "href": "/product/flows/"
+      },
+      {
+        "text": "FernPublish API docs and SDKs",
+        "href": "https://buildwithfern.com?utm_source=postman-product-dropdown"
+      },
+      {
+        "text": "API ClientSend API requests",
+        "href": "/product/api-client/"
+      },
+      {
+        "text": "Collection RunnerAutomate API workflows",
+        "href": "/product/collection-runner/"
+      },
+      {
+        "text": "Postman CLIRun from command line",
+        "href": "/product/postman-cli/"
+      },
+      {
+        "text": "MonitorsValidate performance",
+        "href": "/product/api-monitoring/"
+      },
+      {
+        "text": "InsightsTrack every endpoint",
+        "href": "/product/postman-insights/"
+      },
+      {
+        "text": "API CatalogKnow every API and service",
+        "href": "/product/api-catalog/"
+      },
+      {
+        "text": "Agent ModeAutomate API tasks",
+        "href": "/product/agent-mode/"
+      },
+      {
+        "text": "AI Agent BuilderBuild AI agents",
+        "href": "/product/ai-agent-builder/"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Product",
+      "Solutions",
+      "Resources",
+      "Cookie Preferences",
+      "Contact Sales",
+      "Sign In",
+      "Sign Up for Free",
+      "Contact Sales",
+      "Sign In",
+      "Sign Up for Free"
+    ],
+    "forms": [],
+    "links_count": 145,
+    "images_count": 48,
+    "images_with_alt": 33,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The AI-native API Platform"
+      },
+      {
+        "level": 2,
+        "text": "The world's APIs are built and shipped on Postman."
+      },
+      {
+        "level": 2,
+        "text": "Product"
+      },
+      {
+        "level": 2,
+        "text": "API Network"
+      },
+      {
+        "level": 2,
+        "text": "Resources"
+      },
+      {
+        "level": 2,
+        "text": "Legal and Security"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Postman Overview",
+      "Enterprise",
+      "Spec Hub",
+      "Flows",
+      "Agent Mode",
+      "API Catalog",
+      "Fern",
+      "Postman CLI",
+      "Integrations",
+      "Workspaces",
+      "Plans and Pricing",
+      "App Security",
+      "Artificial Intelligence",
+      "Communication",
+      "Data Analytics",
+      "Database",
+      "Developer Productivity",
+      "DevOps",
+      "E-Commerce",
+      "eSignature"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 45,
+    "has_og_tags": true,
+    "meta_description": "Accelerate API development with Postman's all-in-one platform. Streamline collaboration and simplify the API lifecycle for faster, better results. Learn more.",
+    "scripts_count": 72
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-native API platform",
+      "Extensive API network",
+      "Collaborative workspaces",
+      "Mock servers for API testing",
+      "Visual workflow creation"
+    ],
+    "confidence": "high"
+  }
+}

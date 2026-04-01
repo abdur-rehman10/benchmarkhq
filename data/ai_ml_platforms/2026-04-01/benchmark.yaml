@@ -1,0 +1,194 @@
+metadata:
+  industry: ai_ml_platforms
+  name: AI & ML Platform SaaS
+  category: AI
+  version: 1.0.0
+  generated_at: '2026-04-01T16:53:07.982336'
+  sites_analyzed: 30
+  sites:
+  - openai
+  - anthropic
+  - google_ai_studio
+  - hugging_face
+  - replicate
+  - stability_ai
+  - cohere
+  - jasper
+  - copyai
+  - writer
+  - grammarly
+  - otterai
+  - descript
+  - runway
+  - midjourney
+  - elevenlabs
+  - synthesia
+  - perplexity
+  - youcom
+  - cursor
+  - replit_ai
+  - tabnine
+  - codeium
+  - sourcegraph
+  - langchain
+  - llamaindex
+  - pinecone
+  - weaviate
+  - weights_and_biases
+  - scale_ai
+features:
+  critical:
+  - id: enterprise_tier
+    frequency: 27/30
+    percent: 90
+  - id: privacy_policy
+    frequency: 23/30
+    percent: 85
+  required:
+  - id: multiple_tiers
+    frequency: 23/30
+    percent: 82
+  - id: cookie_consent
+    frequency: 21/30
+    percent: 81
+  - id: pricing_page
+    frequency: 24/30
+    percent: 80
+  - id: about_page
+    frequency: 20/30
+    percent: 80
+  - id: careers_page
+    frequency: 20/30
+    percent: 80
+  - id: terms_of_service
+    frequency: 20/30
+    percent: 77
+  - id: signup_no_creditcard
+    frequency: 16/30
+    percent: 73
+  - id: blog
+    frequency: 21/30
+    percent: 72
+  - id: api_documentation
+    frequency: 20/30
+    percent: 69
+  - id: contact_page
+    frequency: 17/30
+    percent: 65
+  recommended:
+  - id: free_trial
+    frequency: 17/30
+    percent: 63
+  - id: free_tier
+    frequency: 17/30
+    percent: 63
+  - id: product_screenshots
+    frequency: 16/30
+    percent: 62
+  - id: customer_logos
+    frequency: 14/30
+    percent: 56
+  - id: github_presence
+    frequency: 13/30
+    percent: 54
+  - id: annual_discount
+    frequency: 8/30
+    percent: 50
+  - id: case_studies
+    frequency: 13/30
+    percent: 50
+  - id: community_forum
+    frequency: 12/30
+    percent: 48
+  - id: help_center
+    frequency: 11/30
+    percent: 46
+  - id: multi_language
+    frequency: 10/30
+    percent: 45
+  - id: gdpr_mentioned
+    frequency: 10/30
+    percent: 43
+  - id: sdk_available
+    frequency: 9/30
+    percent: 41
+  - id: social_signup
+    frequency: 9/30
+    percent: 41
+  - id: integrations_page
+    frequency: 10/30
+    percent: 40
+  - id: security_page
+    frequency: 10/30
+    percent: 40
+  - id: developer_portal
+    frequency: 10/30
+    percent: 40
+  nice_to_have:
+  - id: changelog
+    frequency: 10/30
+    percent: 38
+  - id: code_examples
+    frequency: 8/30
+    percent: 36
+  - id: feature_comparison_table
+    frequency: 7/30
+    percent: 35
+  - id: video_demo
+    frequency: 8/30
+    percent: 35
+  - id: status_page
+    frequency: 9/30
+    percent: 35
+  - id: interactive_demo
+    frequency: 8/30
+    percent: 35
+  - id: templates_available
+    frequency: 8/30
+    percent: 35
+  - id: onboarding_video
+    frequency: 8/30
+    percent: 35
+  - id: transparent_pricing
+    frequency: 9/30
+    percent: 31
+  - id: api_playground
+    frequency: 6/30
+    percent: 29
+  - id: ios_app
+    frequency: 7/30
+    percent: 29
+  - id: android_app
+    frequency: 7/30
+    percent: 29
+  - id: browser_extension
+    frequency: 7/30
+    percent: 29
+  - id: live_chat
+    frequency: 6/30
+    percent: 26
+  - id: webhooks_support
+    frequency: 5/30
+    percent: 23
+  - id: soc2_mentioned
+    frequency: 5/30
+    percent: 22
+  - id: desktop_app
+    frequency: 5/30
+    percent: 22
+  - id: openapi_spec
+    frequency: 4/30
+    percent: 19
+  - id: dpa_available
+    frequency: 4/30
+    percent: 17
+  innovative:
+  - id: roi_calculator
+    frequency: 3/30
+    percent: 13
+  - id: sla_published
+    frequency: 3/30
+    percent: 12
+  - id: iso27001_mentioned
+    frequency: 2/30
+    percent: 9

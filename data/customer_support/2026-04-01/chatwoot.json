@@ -1,0 +1,180 @@
+{
+  "name": "chatwoot",
+  "url": "https://www.chatwoot.com",
+  "scanned_at": "2026-04-01T14:40:30.105302",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/chatwoot_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/chatwoot_mobile.png"
+  },
+  "structure": {
+    "title": "Chatwoot: AI-powered, open-source customer support platform. Self-host or cloud. Alternative to Intercom & Zendesk.",
+    "url_final": "https://www.chatwoot.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Help center",
+        "href": "/help-center"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://app.chatwoot.com/app/login?utm_source=navbar-link"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://app.chatwoot.com/app/auth/signup?utm_source=navbar-link"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Resources",
+      "Open menu",
+      "Request a demo",
+      "Use this",
+      "Improve",
+      "Translate",
+      "Use this",
+      "Improve",
+      "Translate",
+      "Use this",
+      "Improve",
+      "Translate",
+      "View chat history",
+      "Chat with us",
+      "View chat history",
+      "Chat with us"
+    ],
+    "forms": [],
+    "links_count": 40,
+    "images_count": 54,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The modern customer support tool foryour business"
+      },
+      {
+        "level": 2,
+        "text": "Cut down on support questions with Captain, your AI assistant"
+      },
+      {
+        "level": 2,
+        "text": "Keep all your customer conversations in one place"
+      },
+      {
+        "level": 2,
+        "text": "Deliver smooth self-service experienceswith our Help Center"
+      },
+      {
+        "level": 2,
+        "text": "Proudly open source - host on your own infrastructure and own your data"
+      },
+      {
+        "level": 2,
+        "text": "Footer"
+      },
+      {
+        "level": 3,
+        "text": "Backed By"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Github",
+      "Discord",
+      "Linkedin",
+      "Youtube",
+      "Facebook",
+      "Instagram",
+      "Features",
+      "Integrations",
+      "Mobile Apps",
+      "Changelog",
+      "User guide",
+      "Team",
+      "Careers",
+      "Blog",
+      "Affiliates",
+      "Handbook",
+      "Self Hosted Chatwoot",
+      "Product Documentation",
+      "API Documentation",
+      "Contribution guide"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": false,
+    "meta_description": "Chatwoot is an AI-powered, open-source customer support platform. Self-host on your infrastructure or use our cloud to manage conversations across live chat, email, WhatsApp, Instagram, Facebook, and ",
+    "scripts_count": 7
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered customer support",
+      "Open-source platform",
+      "Self-hosting option"
+    ],
+    "confidence": "high"
+  }
+}

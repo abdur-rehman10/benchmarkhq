@@ -1,0 +1,151 @@
+{
+  "name": "convex",
+  "url": "https://www.convex.dev",
+  "scanned_at": "2026-04-01T15:47:11.999285",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/convex_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/convex_mobile.png"
+  },
+  "structure": {
+    "title": "Convex | The backend platform that keeps your app in sync",
+    "url_final": "https://www.convex.dev/",
+    "nav_items": [],
+    "buttons": [
+      "Product",
+      "Developers",
+      "Everything is code",
+      "Always in sync",
+      "Backend built-ins",
+      "TypeScriptconvex/todos.ts",
+      "TypeScriptconvex/schema.ts",
+      "Reset code",
+      "Reactsrc/Todo/TodoApp.tsx",
+      "TypeScriptconvex/todos.ts",
+      "Reset code",
+      "TypeScriptconvex/crons.ts",
+      "TypeScriptconvex/categorize.ts",
+      "TypeScriptconvex/schema.ts",
+      "Reset code",
+      "Decline",
+      "Accept"
+    ],
+    "forms": [],
+    "links_count": 113,
+    "images_count": 84,
+    "images_with_alt": 57,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The backend platform that keeps your app in sync"
+      },
+      {
+        "level": 1,
+        "text": "The backend platform that keeps your app in sync"
+      },
+      {
+        "level": 2,
+        "text": "Everything is code"
+      },
+      {
+        "level": 2,
+        "text": "Always in sync"
+      },
+      {
+        "level": 2,
+        "text": "Backend built-ins"
+      },
+      {
+        "level": 2,
+        "text": "LLMs love Convex"
+      },
+      {
+        "level": 2,
+        "text": "Not just a database"
+      },
+      {
+        "level": 3,
+        "text": "Everything is code"
+      },
+      {
+        "level": 3,
+        "text": "Always in sync"
+      },
+      {
+        "level": 3,
+        "text": "Backend built-ins"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 35,
+    "has_og_tags": true,
+    "meta_description": "Convex is the backend platform that keeps your app in sync. Everything you need to build your full-stack project.",
+    "scripts_count": 87
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Real-time synchronization",
+      "TypeScript support",
+      "Backend built-ins",
+      "LLM integration"
+    ],
+    "confidence": "high"
+  }
+}

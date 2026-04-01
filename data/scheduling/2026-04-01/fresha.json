@@ -1,0 +1,321 @@
+{
+  "name": "fresha",
+  "url": "https://www.fresha.com",
+  "scanned_at": "2026-04-01T17:02:46.553310",
+  "screenshots": {
+    "desktop": "data/scheduling/2026-04-01/screenshots/fresha_desktop.png",
+    "mobile": "data/scheduling/2026-04-01/screenshots/fresha_mobile.png"
+  },
+  "structure": {
+    "title": "Fresha - Instantly book salons and spas nearby",
+    "url_final": "https://www.fresha.com/",
+    "nav_items": [
+      {
+        "text": "Fresha",
+        "href": "/"
+      },
+      {
+        "text": "Log in",
+        "href": "/user-flow"
+      },
+      {
+        "text": "List your business",
+        "href": "https://www.fresha.com/for-business"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "Search",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "All treatments"
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Current location"
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Any time"
+          }
+        ]
+      }
+    ],
+    "links_count": 1029,
+    "images_count": 82,
+    "images_with_alt": 77,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Book local selfcare services"
+      },
+      {
+        "level": 2,
+        "text": "Recommended"
+      },
+      {
+        "level": 2,
+        "text": "New to Fresha"
+      },
+      {
+        "level": 2,
+        "text": "Trending"
+      },
+      {
+        "level": 2,
+        "text": "Download the Fresha app"
+      },
+      {
+        "level": 2,
+        "text": "Reviews"
+      },
+      {
+        "level": 3,
+        "text": "Pellucci / \u041f\u0435\u043b\u0443\u0447\u0438 \u0433\u0440.\u0411\u043e\u0442\u0435\u0432\u0433\u0440\u0430\u0434"
+      },
+      {
+        "level": 3,
+        "text": "Ida Spa Dorobanti"
+      },
+      {
+        "level": 3,
+        "text": "Mr. Blade Barber Shop"
+      },
+      {
+        "level": 3,
+        "text": "The Razors Barbershop"
+      },
+      {
+        "level": 3,
+        "text": "Lotus Spa Bucuresti"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "All treatments"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Current location"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Any time"
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "lm-relatedLandingPages",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Fresha",
+      "Get the app",
+      "Careers",
+      "Help and support",
+      "Blog",
+      "Sitemap",
+      "For partners",
+      "Pricing",
+      "Support",
+      "Status",
+      "Privacy Policy",
+      "Terms of service",
+      "Terms of use",
+      "Facebook",
+      "Twitter",
+      "Linkedin",
+      "Instagram"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": false,
+    "meta_description": "Find the best salons and spa in your area with Fresha salon booking software. Book now!",
+    "scripts_count": 42
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Instant booking for salons and spas",
+      "Mobile apps for iOS and Android",
+      "Transparent pricing with multiple tiers"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "name": "lucky_orange",
+  "url": "https://www.luckyorange.com",
+  "scanned_at": "2026-04-01T15:03:56.191218",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/lucky_orange_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/lucky_orange_mobile.png"
+  },
+  "structure": {
+    "title": "Lucky Orange Heatmaps, Recordings, Surveys | Conversion Funnel Tools",
+    "url_final": "https://www.luckyorange.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.g2.com/products/lucky-orange/reviews?utm_source=review-widget"
+      }
+    ],
+    "buttons": [
+      "Start My Free Trial"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Enter Your Email"
+          }
+        ]
+      }
+    ],
+    "links_count": 44,
+    "images_count": 41,
+    "images_with_alt": 39,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Less time crunching website data. More time growing your business."
+      },
+      {
+        "level": 1,
+        "text": "Lucky Orange turns visitor behavior intopowerful visualsanyone can use."
+      },
+      {
+        "level": 1,
+        "text": "Used by over 500,000 websites worldwide"
+      },
+      {
+        "level": 1,
+        "text": "Integrates With Your Favorite Tools & Platforms"
+      },
+      {
+        "level": 1,
+        "text": "Privacy is always a priority."
+      },
+      {
+        "level": 2,
+        "text": "See where visitors drop off\u2014then let Discovery AI guide your next move."
+      },
+      {
+        "level": 2,
+        "text": "\u2022 Direct integrations with Shopify, HubSpot and more\u2022 Easy custom segmentation a"
+      },
+      {
+        "level": 2,
+        "text": "Websiteissues go unseenwhen you only use traditional reporting."
+      },
+      {
+        "level": 2,
+        "text": "AI CRO TOOLAsk questions about your website visitors."
+      },
+      {
+        "level": 2,
+        "text": "SESSION RECORDINGSWatch full visitor recordings"
+      },
+      {
+        "level": 3,
+        "text": "WEBSITE HEATMAP TOOLSSee what parts of a page are getting attention"
+      },
+      {
+        "level": 3,
+        "text": "Verified User via G2"
+      },
+      {
+        "level": 3,
+        "text": "Colin S."
+      },
+      {
+        "level": 3,
+        "text": "Perrie H."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Enter Your Email"
+      },
+      {
+        "type": "button",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "button",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Discovery",
+      "Heatmaps",
+      "Surveys",
+      "Session Recordings",
+      "For Agencies",
+      "Pricing",
+      "Status",
+      "Affiliates",
+      "Discovery AI Projectbook",
+      "Integrations",
+      "Help Center",
+      "Careers",
+      "Privacy",
+      "Terms",
+      "Exercise Your Rights",
+      "Developer Docs",
+      "Blog",
+      "Product Release: Heatmap Analysis Quick Action",
+      "3 Rules for Building Better Product Bundles in 202",
+      "Product Release: Introducing the Lucky Orange Chro"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Lucky Orange's website optimization tools like heatmaps and session recordings help you grow your business and keep customers happy.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Heatmaps",
+      "Session Recordings",
+      "Conversion Funnel Tools",
+      "AI CRO Tool"
+    ],
+    "confidence": "high"
+  }
+}

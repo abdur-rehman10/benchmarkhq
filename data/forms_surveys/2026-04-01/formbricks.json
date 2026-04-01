@@ -1,0 +1,200 @@
+{
+  "name": "formbricks",
+  "url": "https://formbricks.com",
+  "scanned_at": "2026-04-01T18:03:40.225828",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/formbricks_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/formbricks_mobile.png"
+  },
+  "structure": {
+    "title": "The Open Source Qualtrics Alternative",
+    "url_final": "https://formbricks.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Templates",
+        "href": "/survey-templates"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Careers \ud83d\udc4b",
+        "href": "/careers"
+      }
+    ],
+    "buttons": [
+      "Open menu",
+      "Products",
+      "Industries",
+      "Deploy Self-hosted",
+      "Get started free",
+      "Get started free",
+      "Deploy self-hosted",
+      "Cancel plan",
+      "Get started",
+      "Get started",
+      "Book a call",
+      "Book a call",
+      "NPM",
+      "HTML",
+      "Add Action",
+      "View Dashboard",
+      "Add event",
+      "Get started",
+      "Get started",
+      "What is Formbricks?",
+      "How do I integrate Formbricks into my application?",
+      "Is Formbricks GDPR-compliant survey software?",
+      "Can I self-host Formbricks?",
+      "How does Formbricks pricing work?",
+      "How does Formbricks make money?"
+    ],
+    "forms": [],
+    "links_count": 79,
+    "images_count": 93,
+    "images_with_alt": 93,
+    "headings": [
+      {
+        "level": 1,
+        "text": "TheOpen SourceQualtrics Alternative"
+      },
+      {
+        "level": 2,
+        "text": "Ask anywhere, get insights in one place"
+      },
+      {
+        "level": 2,
+        "text": "Open Source Experience Management"
+      },
+      {
+        "level": 2,
+        "text": "Set Formbricks up in minutes."
+      },
+      {
+        "level": 2,
+        "text": "Get started with best practices"
+      },
+      {
+        "level": 2,
+        "text": "Ask at the right moment,get the data you need."
+      },
+      {
+        "level": 3,
+        "text": "We run NPS surveys for several products with Formbricks. It's open source and th"
+      },
+      {
+        "level": 3,
+        "text": "Formbricks proves that open source surveys can be both powerful and user-friendl"
+      },
+      {
+        "level": 3,
+        "text": "I've been looking for an open source XM solution for a while. Super happy to see"
+      },
+      {
+        "level": 3,
+        "text": "Smoothly compliant"
+      },
+      {
+        "level": 3,
+        "text": "Fully customizable"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Formbricks",
+      "Imprint",
+      "Privacy Policy",
+      "Terms",
+      "OSS Friends",
+      "LinkedIn",
+      "GitHub",
+      "Privacy",
+      "Security",
+      "Pricing",
+      "Blog",
+      "Docs",
+      "About",
+      "Community",
+      "Careers",
+      "Themeisle",
+      "Nabogo",
+      "Opinodo",
+      "Requestly",
+      "Formbricks CX"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "Own your data, build better experiences.",
+    "scripts_count": 45
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open Source",
+      "Self-hosted deployment",
+      "NPS surveys"
+    ],
+    "confidence": "medium"
+  }
+}

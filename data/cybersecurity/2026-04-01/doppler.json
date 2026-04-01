@@ -1,0 +1,158 @@
+{
+  "name": "doppler",
+  "url": "https://www.doppler.com",
+  "scanned_at": "2026-04-01T16:29:12.452848",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/doppler_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/doppler_mobile.png"
+  },
+  "structure": {
+    "title": "Doppler | Centralized cloud-based secrets management platform",
+    "url_final": "https://www.doppler.com/",
+    "nav_items": [
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Software development",
+      "Finance",
+      "Health",
+      "Agriculture",
+      "Cookie Preferences",
+      "Opt-out",
+      "Accept",
+      "Start for Free",
+      "Sign In",
+      "Start for Free",
+      "Start for Free",
+      "Get Demo"
+    ],
+    "forms": [],
+    "links_count": 73,
+    "images_count": 49,
+    "images_with_alt": 14,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Secure secrets.Prevent breaches.Keep teams moving."
+      },
+      {
+        "level": 2,
+        "text": "Your central hub for secure integrations"
+      },
+      {
+        "level": 2,
+        "text": "Why companies choose Doppler"
+      },
+      {
+        "level": 2,
+        "text": "Securing the\u2028world\u2019s secrets"
+      },
+      {
+        "level": 2,
+        "text": "Enter the new era of secrets management"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "All Systems Operational",
+      "Customers",
+      "Pricing",
+      "Changelog",
+      "Doppler Share",
+      "Universal Import",
+      "Security",
+      "Whitepapers",
+      "Guides",
+      "Vault",
+      "Akeyless",
+      "Infisical",
+      "Breach dashboard",
+      "Glossary",
+      "Documentation",
+      "API reference",
+      "Bug bounty",
+      "Compliance request",
+      "Status",
+      "Vercel"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "Doppler's secrets management platform helps teams secure, sync, and automate their secrets across environments and infrastructure. Experience enhanced security, agility, and automation with our cloud ",
+    "scripts_count": 14
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Centralized secrets management",
+      "Secure integrations",
+      "Comprehensive security compliance"
+    ],
+    "confidence": "high"
+  }
+}

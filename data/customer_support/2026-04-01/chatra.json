@@ -1,0 +1,248 @@
+{
+  "name": "chatra",
+  "url": "https://chatra.io",
+  "scanned_at": "2026-04-01T14:41:11.620081",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/chatra_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/chatra_mobile.png"
+  },
+  "structure": {
+    "title": "Live chat, chatbots, e-mail & social messaging | Chatra",
+    "url_final": "https://chatra.com/nl/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/nl/"
+      },
+      {
+        "text": "Abonnementen & Functies",
+        "href": "/nl/plans/"
+      },
+      {
+        "text": "Hulp & Documenten",
+        "href": "/help/"
+      },
+      {
+        "text": "Boeken",
+        "href": "/books/"
+      },
+      {
+        "text": "Inloggen",
+        "href": "https://app.chatra.io/"
+      }
+    ],
+    "buttons": [
+      "\u00d7",
+      "Registreren",
+      "Ga van start",
+      "Registreren",
+      "Begin nu",
+      "Stuur ons een e-mail\n \u2661"
+    ],
+    "forms": [
+      {
+        "action": "https://app.chatra.io/",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "enroll",
+            "placeholder": "Uw e-mail"
+          }
+        ]
+      },
+      {
+        "action": "https://app.chatra.io/",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "enroll",
+            "placeholder": "Uw e-mail"
+          }
+        ]
+      },
+      {
+        "action": "https://app.chatra.io/",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "enroll",
+            "placeholder": "Uw e-mail"
+          }
+        ]
+      },
+      {
+        "action": "https://app.chatra.io/",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "enroll",
+            "placeholder": "Uw e-mail"
+          }
+        ]
+      }
+    ],
+    "links_count": 28,
+    "images_count": 38,
+    "images_with_alt": 6,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Praat met bezoekers op uw website"
+      },
+      {
+        "level": 2,
+        "text": "Vertrouwd door 45.000+ bedrijven & webwinkels"
+      },
+      {
+        "level": 2,
+        "text": "Beantwoord vragen, los problemen op, meer conversies"
+      },
+      {
+        "level": 2,
+        "text": "Ga gratis van start in maar 3 minuten"
+      },
+      {
+        "level": 2,
+        "text": "Wij hebben wat u zoekt"
+      },
+      {
+        "level": 2,
+        "text": "Probeer Chatra vandaag nog"
+      },
+      {
+        "level": 3,
+        "text": "Communiceer via e-mail, Instagram en Facebook"
+      },
+      {
+        "level": 3,
+        "text": "Kijk wie er op uw website aanwezig is"
+      },
+      {
+        "level": 3,
+        "text": "Verhoog de verkoop"
+      },
+      {
+        "level": 3,
+        "text": "Gebruik een chatbot voor routinematige taken"
+      },
+      {
+        "level": 3,
+        "text": "Ontvang mobiele apps en chat waar u ook bent"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "enroll",
+        "placeholder": "Uw e-mail"
+      },
+      {
+        "type": "email",
+        "name": "enroll",
+        "placeholder": "Uw e-mail"
+      },
+      {
+        "type": "email",
+        "name": "enroll",
+        "placeholder": "Uw e-mail"
+      },
+      {
+        "type": "email",
+        "name": "enroll",
+        "placeholder": "Uw e-mail"
+      }
+    ],
+    "footer_links": [
+      "Servicevoorwaarden",
+      "Privacybeleid",
+      "DPA",
+      "GDPR",
+      "Apps",
+      "Affiliate programma",
+      "Neem contact met ons op",
+      "BR",
+      "CN",
+      "DE",
+      "EN",
+      "ES",
+      "FR",
+      "IT",
+      "JP",
+      "KO",
+      "RU"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 3,
+    "has_og_tags": true,
+    "meta_description": "Multichannel ondersteuningsplatform gebouwd voor grote en kleine bedrijven. Help uw klanten beter met Chatra!\n",
+    "scripts_count": 7
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "Y",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Multi-channel communication",
+      "Chatbot for routine tasks",
+      "Mobile apps for on-the-go chat"
+    ],
+    "confidence": "high"
+  }
+}

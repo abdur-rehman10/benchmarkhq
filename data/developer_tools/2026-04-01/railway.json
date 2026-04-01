@@ -1,0 +1,163 @@
+{
+  "name": "railway",
+  "url": "https://railway.app",
+  "scanned_at": "2026-04-01T15:38:38.610066",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/railway_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/railway_mobile.png"
+  },
+  "structure": {
+    "title": "Railway | The all-in-one intelligent cloud provider",
+    "url_final": "https://railway.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Close Cookie Preferences",
+      "Product",
+      "Developers",
+      "Enterprise",
+      "Company",
+      "Sign in",
+      "Deploy",
+      "Network",
+      "Scale",
+      "Monitor",
+      "Evolve",
+      "Cookie preferences"
+    ],
+    "forms": [],
+    "links_count": 55,
+    "images_count": 65,
+    "images_with_alt": 31,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ship software peacefully"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by the best in business"
+      },
+      {
+        "level": 2,
+        "text": "51.5M+ deploys per month (and counting)"
+      },
+      {
+        "level": 3,
+        "text": "Deploy anythingwithout the complexity"
+      },
+      {
+        "level": 3,
+        "text": "Instant networking.Zero setup."
+      },
+      {
+        "level": 3,
+        "text": "Grow bigwithout the growing pains"
+      },
+      {
+        "level": 3,
+        "text": "Logs, metrics, and alerts in one place. Clarity without the chaos."
+      },
+      {
+        "level": 3,
+        "text": "Finally, a development workflow that actually flows."
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Launch Week 02Explore everything we launched\u2014new f",
+      "Railway V3: Faster and CheaperLearn how we have si",
+      "Features",
+      "Pricing",
+      "Agents",
+      "Changelog",
+      "Templates",
+      "Template kickback",
+      "Heroku",
+      "Render",
+      "Fly.io",
+      "Vercel",
+      "Discord",
+      "Twitter",
+      "GitHub",
+      "Email",
+      "Customers",
+      "Enterprise",
+      "Docs"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 11,
+    "has_og_tags": true,
+    "meta_description": "Railway is a full-stack cloud for deploying web apps, servers, databases, and more with automatic scaling, monitoring, and security.",
+    "scripts_count": 16
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "High deployment volume",
+      "Focus on simplicity and scalability",
+      "Integrated monitoring tools"
+    ],
+    "confidence": "medium"
+  }
+}

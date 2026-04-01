@@ -1,0 +1,498 @@
+{
+  "name": "culture_amp",
+  "url": "https://www.cultureamp.com",
+  "scanned_at": "2026-04-01T15:19:15.233761",
+  "screenshots": {
+    "desktop": "data/hr_people/2026-04-01/screenshots/culture_amp_desktop.png",
+    "mobile": "data/hr_people/2026-04-01/screenshots/culture_amp_mobile.png"
+  },
+  "structure": {
+    "title": "The market-leading employee experience platform | Culture Amp",
+    "url_final": "https://www.cultureamp.com/",
+    "nav_items": [
+      {
+        "text": "HomeThe Employee Experience Platform | Culture Amp",
+        "href": "/"
+      },
+      {
+        "text": "Open in new tab",
+        "href": "/search"
+      },
+      {
+        "text": "Employee Experience Platform",
+        "href": "/platform"
+      },
+      {
+        "text": "Explore the full platform",
+        "href": "/platform"
+      },
+      {
+        "text": "Pricing",
+        "href": "/platform/plans-and-pricing"
+      },
+      {
+        "text": "EngageUnderstand your employees and focus your act",
+        "href": "/platform/engage"
+      },
+      {
+        "text": "Performance Culture Quadrant",
+        "href": "/platform/engage/performance-culture-quadrant"
+      },
+      {
+        "text": "Retention insights",
+        "href": "/platform/engage/retention-software-insights"
+      },
+      {
+        "text": "DEI survey",
+        "href": "/platform/engage/diversity-inclusion-survey"
+      },
+      {
+        "text": "Ready-to-use surveys",
+        "href": "/platform/engage/survey-tools-templates"
+      },
+      {
+        "text": "AI comment summaries",
+        "href": "/platform/engage/ai-comment-summaries"
+      },
+      {
+        "text": "Proven action plans",
+        "href": "/platform/engage/proven-action-plans"
+      },
+      {
+        "text": "Pulse surveys",
+        "href": "/platform/engage/pulse-surveys"
+      },
+      {
+        "text": "Onboarding/offboarding survey",
+        "href": "/platform/engage/offboarding-onboarding-survey"
+      },
+      {
+        "text": "Benchmarking",
+        "href": "/platform/engage/benchmarking"
+      },
+      {
+        "text": "PerformAll the tools you need to build happy, high",
+        "href": "/platform/perform"
+      },
+      {
+        "text": "Continuous feedback",
+        "href": "/platform/perform/employee-feedback-software"
+      },
+      {
+        "text": "Performance reviews and calibration",
+        "href": "/platform/perform/performance-review-software"
+      },
+      {
+        "text": "1-on-1 conversations",
+        "href": "/platform/perform/1-1-meeting-software"
+      },
+      {
+        "text": "Skills coach",
+        "href": "/platform/perform/employee-coaching-software"
+      }
+    ],
+    "buttons": [
+      "Close modalClose modal",
+      "Book a demo",
+      "Platform & Pricing",
+      "Solutions",
+      "Science",
+      "Resources",
+      "Company",
+      "Book a demo",
+      "Close modalClose modal",
+      "Book a demo",
+      "Scalable, secure and interoperable",
+      "Service and support to get you up and running fast",
+      "We work hard to keep your data safe",
+      "Access expert HR resources",
+      "Join the world\u2019s largest HR network and global com",
+      "Book a demo",
+      "Accept all cookies",
+      "Reject all but necessary",
+      "Manage preferences"
+    ],
+    "forms": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/516278/49631dcc-5326-443a",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "phone",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "jobtitle",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "numemployees",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "website_interest_sales_picklist",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/516278/49631dcc-5326-443a",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "phone",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "jobtitle",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "numemployees",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "website_interest_sales_picklist",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "personalization_storage",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "functional_storage",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "analytics_storage",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "ad_storage",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 202,
+    "images_count": 36,
+    "images_with_alt": 26,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Performance Culture Quadrant\u2122"
+      },
+      {
+        "level": 2,
+        "text": "Get a demo of Culture Amp"
+      },
+      {
+        "level": 2,
+        "text": "Get a demo of Culture Amp"
+      },
+      {
+        "level": 2,
+        "text": "Turning culture into strategy in the age of AI"
+      },
+      {
+        "level": 2,
+        "text": "Inside high-performance cultures at Tennis Australia"
+      },
+      {
+        "level": 2,
+        "text": "Introducing Where Should We Begin? At Work"
+      },
+      {
+        "level": 3,
+        "text": "Engage"
+      },
+      {
+        "level": 3,
+        "text": "Perform"
+      },
+      {
+        "level": 3,
+        "text": "Develop"
+      },
+      {
+        "level": 3,
+        "text": "AI Coach"
+      },
+      {
+        "level": 3,
+        "text": "HR Executives"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "phone",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "jobtitle",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "website_interest_sales_picklist",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "website_interest_sales_picklist",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "website_interest_sales_picklist",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "website_interest_sales_picklist",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "website_interest_sales_picklist",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "website_interest_sales_picklist",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "web_email_opt_in",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_asset_topic",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ads__landing_url__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ads__referral_url__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "country___phone_number",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "resource_download",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "outreach_opted_out",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Platform",
+      "Overview",
+      "Plans & pricing",
+      "Engage",
+      "Perform",
+      "Develop",
+      "AI Coach",
+      "Retention insights",
+      "DEI survey",
+      "Ready-to-use surveys",
+      "AI comment summaries",
+      "Continuous feedback",
+      "Performance reviews and calibration",
+      "1:1 conversations",
+      "Skills coach",
+      "Career paths and competencies",
+      "Develop analytics",
+      "Personalized growth plans",
+      "Science",
+      "Overview"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 82,
+    "has_og_tags": true,
+    "meta_description": "Empower your teams and fuel positive change with performance, development, and employee engagement tools \u2013 all-in-one intuitive employee experience platform.",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI comment summaries",
+      "Performance Culture Quadrant",
+      "DEI survey tools"
+    ],
+    "confidence": "high"
+  }
+}

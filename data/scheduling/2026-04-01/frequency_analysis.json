@@ -1,0 +1,452 @@
+{
+  "pricing_page": {
+    "present_count": 28,
+    "absent_count": 0,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "signup_no_creditcard": {
+    "present_count": 28,
+    "absent_count": 0,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 100,
+    "classification": "CRITICAL"
+  },
+  "privacy_policy": {
+    "present_count": 26,
+    "absent_count": 1,
+    "uncertain_count": 1,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 96,
+    "classification": "CRITICAL"
+  },
+  "terms_of_service": {
+    "present_count": 25,
+    "absent_count": 1,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 96,
+    "classification": "CRITICAL"
+  },
+  "multiple_tiers": {
+    "present_count": 26,
+    "absent_count": 2,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 93,
+    "classification": "CRITICAL"
+  },
+  "annual_discount": {
+    "present_count": 22,
+    "absent_count": 2,
+    "uncertain_count": 4,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 92,
+    "classification": "CRITICAL"
+  },
+  "transparent_pricing": {
+    "present_count": 25,
+    "absent_count": 3,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 89,
+    "classification": "CRITICAL"
+  },
+  "free_trial": {
+    "present_count": 23,
+    "absent_count": 5,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 82,
+    "classification": "REQUIRED"
+  },
+  "product_screenshots": {
+    "present_count": 22,
+    "absent_count": 5,
+    "uncertain_count": 1,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 81,
+    "classification": "REQUIRED"
+  },
+  "integrations_page": {
+    "present_count": 22,
+    "absent_count": 5,
+    "uncertain_count": 1,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 81,
+    "classification": "REQUIRED"
+  },
+  "cookie_consent": {
+    "present_count": 21,
+    "absent_count": 5,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 81,
+    "classification": "REQUIRED"
+  },
+  "blog": {
+    "present_count": 22,
+    "absent_count": 6,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 79,
+    "classification": "REQUIRED"
+  },
+  "enterprise_tier": {
+    "present_count": 21,
+    "absent_count": 6,
+    "uncertain_count": 1,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 78,
+    "classification": "REQUIRED"
+  },
+  "feature_comparison_table": {
+    "present_count": 20,
+    "absent_count": 6,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 77,
+    "classification": "REQUIRED"
+  },
+  "free_tier": {
+    "present_count": 21,
+    "absent_count": 7,
+    "uncertain_count": 0,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 75,
+    "classification": "REQUIRED"
+  },
+  "contact_page": {
+    "present_count": 20,
+    "absent_count": 7,
+    "uncertain_count": 1,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 74,
+    "classification": "REQUIRED"
+  },
+  "help_center": {
+    "present_count": 19,
+    "absent_count": 7,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 73,
+    "classification": "REQUIRED"
+  },
+  "ios_app": {
+    "present_count": 18,
+    "absent_count": 7,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 72,
+    "classification": "REQUIRED"
+  },
+  "android_app": {
+    "present_count": 18,
+    "absent_count": 7,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 72,
+    "classification": "REQUIRED"
+  },
+  "multi_language": {
+    "present_count": 18,
+    "absent_count": 7,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 72,
+    "classification": "REQUIRED"
+  },
+  "about_page": {
+    "present_count": 17,
+    "absent_count": 9,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 65,
+    "classification": "REQUIRED"
+  },
+  "gdpr_mentioned": {
+    "present_count": 16,
+    "absent_count": 10,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 62,
+    "classification": "RECOMMENDED"
+  },
+  "careers_page": {
+    "present_count": 15,
+    "absent_count": 11,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 58,
+    "classification": "RECOMMENDED"
+  },
+  "live_chat": {
+    "present_count": 15,
+    "absent_count": 11,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 58,
+    "classification": "RECOMMENDED"
+  },
+  "customer_logos": {
+    "present_count": 14,
+    "absent_count": 11,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 56,
+    "classification": "RECOMMENDED"
+  },
+  "video_demo": {
+    "present_count": 14,
+    "absent_count": 12,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 54,
+    "classification": "RECOMMENDED"
+  },
+  "api_documentation": {
+    "present_count": 14,
+    "absent_count": 12,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 54,
+    "classification": "RECOMMENDED"
+  },
+  "webhooks_support": {
+    "present_count": 13,
+    "absent_count": 12,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 52,
+    "classification": "RECOMMENDED"
+  },
+  "onboarding_video": {
+    "present_count": 13,
+    "absent_count": 13,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 50,
+    "classification": "RECOMMENDED"
+  },
+  "social_signup": {
+    "present_count": 12,
+    "absent_count": 14,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 46,
+    "classification": "RECOMMENDED"
+  },
+  "status_page": {
+    "present_count": 11,
+    "absent_count": 15,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 42,
+    "classification": "RECOMMENDED"
+  },
+  "security_page": {
+    "present_count": 11,
+    "absent_count": 15,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 42,
+    "classification": "RECOMMENDED"
+  },
+  "templates_available": {
+    "present_count": 11,
+    "absent_count": 15,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 42,
+    "classification": "RECOMMENDED"
+  },
+  "case_studies": {
+    "present_count": 10,
+    "absent_count": 16,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 38,
+    "classification": "NICE_TO_HAVE"
+  },
+  "interactive_demo": {
+    "present_count": 9,
+    "absent_count": 17,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 35,
+    "classification": "NICE_TO_HAVE"
+  },
+  "community_forum": {
+    "present_count": 9,
+    "absent_count": 17,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 35,
+    "classification": "NICE_TO_HAVE"
+  },
+  "changelog": {
+    "present_count": 8,
+    "absent_count": 18,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 31,
+    "classification": "NICE_TO_HAVE"
+  },
+  "developer_portal": {
+    "present_count": 8,
+    "absent_count": 18,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 31,
+    "classification": "NICE_TO_HAVE"
+  },
+  "code_examples": {
+    "present_count": 8,
+    "absent_count": 18,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 31,
+    "classification": "NICE_TO_HAVE"
+  },
+  "sdk_available": {
+    "present_count": 6,
+    "absent_count": 19,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 24,
+    "classification": "NICE_TO_HAVE"
+  },
+  "dpa_available": {
+    "present_count": 6,
+    "absent_count": 20,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 23,
+    "classification": "NICE_TO_HAVE"
+  },
+  "github_presence": {
+    "present_count": 6,
+    "absent_count": 20,
+    "uncertain_count": 2,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 23,
+    "classification": "NICE_TO_HAVE"
+  },
+  "browser_extension": {
+    "present_count": 5,
+    "absent_count": 20,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 20,
+    "classification": "NICE_TO_HAVE"
+  },
+  "soc2_mentioned": {
+    "present_count": 4,
+    "absent_count": 21,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 16,
+    "classification": "NICE_TO_HAVE"
+  },
+  "api_playground": {
+    "present_count": 4,
+    "absent_count": 21,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 16,
+    "classification": "NICE_TO_HAVE"
+  },
+  "openapi_spec": {
+    "present_count": 4,
+    "absent_count": 21,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 16,
+    "classification": "NICE_TO_HAVE"
+  },
+  "sla_published": {
+    "present_count": 4,
+    "absent_count": 21,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 16,
+    "classification": "NICE_TO_HAVE"
+  },
+  "desktop_app": {
+    "present_count": 4,
+    "absent_count": 21,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 16,
+    "classification": "NICE_TO_HAVE"
+  },
+  "iso27001_mentioned": {
+    "present_count": 3,
+    "absent_count": 22,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 12,
+    "classification": "INNOVATIVE"
+  },
+  "roi_calculator": {
+    "present_count": 2,
+    "absent_count": 23,
+    "uncertain_count": 3,
+    "total_sites": 28,
+    "total_good_sites": 28,
+    "frequency_percent": 8,
+    "classification": "INNOVATIVE"
+  }
+}

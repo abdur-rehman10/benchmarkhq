@@ -1,0 +1,350 @@
+{
+  "name": "weights_and_biases",
+  "url": "https://wandb.ai",
+  "scanned_at": "2026-04-01T16:52:22.520679",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/weights_and_biases_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/weights_and_biases_mobile.png"
+  },
+  "structure": {
+    "title": "Weights & Biases: The AI developer platform",
+    "url_final": "https://wandb.ai/site",
+    "nav_items": [
+      {
+        "text": "Models",
+        "href": "/site/models/"
+      },
+      {
+        "text": "ExperimentsTrack and visualize your experiments",
+        "href": "https://wandb.ai/site/experiment-tracking/"
+      },
+      {
+        "text": "SweepsOptimize your hyperparameters",
+        "href": "https://wandb.ai/site/sweeps/"
+      },
+      {
+        "text": "TablesVisualize and explore your data",
+        "href": "https://wandb.ai/site/tables/"
+      },
+      {
+        "text": "ReportsDocument and share your AI insights",
+        "href": "https://wandb.ai/site/reports"
+      },
+      {
+        "text": "Training",
+        "href": "/site/wb-training/"
+      },
+      {
+        "text": "Serverless RLFine-tune LLMs without managing GPUs",
+        "href": "https://wandb.ai/site/serverless-rl"
+      },
+      {
+        "text": "Serverless SFTTeach LLMs new tasks",
+        "href": "https://wandb.ai/site/serverless-sft/"
+      },
+      {
+        "text": "ARTOpen-source RL framework",
+        "href": "https://wandb.ai/site/art/"
+      },
+      {
+        "text": "RulerAutomated reward function for RL",
+        "href": "https://wandb.ai/site/ruler/"
+      },
+      {
+        "text": "Inference",
+        "href": "/site/inference/"
+      },
+      {
+        "text": "OpenAI OSSGPT OSS 20B, GPT OSS 120B",
+        "href": "https://wandb.ai/site/inference/openai-models"
+      },
+      {
+        "text": "Alibaba Qwen3235B A22B, 235B Thinking, Coder 480B",
+        "href": "https://wandb.ai/site/inference/qwen-models"
+      },
+      {
+        "text": "Meta LlamaLlama 4 Scout, Llama 3.3 70B, Llama 3.1 ",
+        "href": "https://wandb.ai/site/inference/meta-models"
+      },
+      {
+        "text": "MoonshotAI KimiKimi K2.5",
+        "href": "https://wandb.ai/site/inference-model/cw_moonshotai_kimi-k2.5/"
+      },
+      {
+        "text": "Microsoft PhiPhi 4 Mini 3.8B",
+        "href": "https://wandb.ai/site/inference-model/microsoft-phi-4-mini-3.8b/"
+      },
+      {
+        "text": "Hangzhou DeepSeekDeepSeek V3.1, V3-0324, R1-0528",
+        "href": "https://wandb.ai/site/inference/deepseek-models"
+      },
+      {
+        "text": "Z.aiZ.AI GLM 5.0",
+        "href": "https://wandb.ai/site/inference-model/cw_zai-org_glm-5-fp8/"
+      },
+      {
+        "text": "Weave",
+        "href": "/site/weave/"
+      },
+      {
+        "text": "TracesExplore and debug AI applications",
+        "href": "https://wandb.ai/site/traces/"
+      }
+    ],
+    "buttons": [
+      "Close PlatformOpen Platform",
+      "Close SolutionsOpen Solutions",
+      "Close EnterpriseOpen Enterprise",
+      "Close ResourcesOpen Resources",
+      "Close PlatformOpen Platform",
+      "Close SolutionsOpen Solutions",
+      "Close EnterpriseOpen Enterprise",
+      "Close ResourcesOpen Resources",
+      "Copy",
+      "Copy",
+      "INTEGRATE QUICKLY",
+      "LANGCHAIN",
+      "LLAMAINDEX",
+      "PyTorch",
+      "HF Transformers",
+      "Lightning",
+      "TensorFlow",
+      "Keras",
+      "Scikit-LEARN",
+      "XGBoost",
+      "Cookies Settings",
+      "Reject All",
+      "Accept All",
+      "Allow All",
+      "Back Button",
+      "Filter Icon"
+    ],
+    "forms": [],
+    "links_count": 427,
+    "images_count": 60,
+    "images_with_alt": 51,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI iseasytoproductionize"
+      },
+      {
+        "level": 1,
+        "text": "Now available:"
+      },
+      {
+        "level": 2,
+        "text": "The world\u2019s leading AI teams trust Weights & Biases"
+      },
+      {
+        "level": 2,
+        "text": "Weights & Biases AI developer platform"
+      },
+      {
+        "level": 2,
+        "text": "Weights & Biases mobile app"
+      },
+      {
+        "level": 2,
+        "text": "Compliance-ready for the enterprise"
+      },
+      {
+        "level": 2,
+        "text": "Get started with one line of code"
+      },
+      {
+        "level": 3,
+        "text": "Learn more"
+      },
+      {
+        "level": 3,
+        "text": "Manage Consent Preferences"
+      },
+      {
+        "level": 3,
+        "text": "Cookie List"
+      },
+      {
+        "level": 3,
+        "text": "Manage Consent Preferences"
+      },
+      {
+        "level": 3,
+        "text": "Performance Cookies"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "X-twitter",
+      "Linkedin-in",
+      "Youtube",
+      "Traces",
+      "Evaluations",
+      "Playground",
+      "Agents",
+      "Guardrails",
+      "Online Evaluations",
+      "Models",
+      "Experiments",
+      "Sweeps",
+      "Tables",
+      "Inference",
+      "Registry",
+      "Artifacts",
+      "Reports",
+      "SDK",
+      "Automations"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 89,
+    "has_og_tags": true,
+    "meta_description": "Learn why thousands of companies rely on W&B as their system of record for training AI models and developing AI applications with confidence.",
+    "scripts_count": 109
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive AI experiment tracking",
+      "Hyperparameter optimization",
+      "Serverless RL and SFT capabilities",
+      "Integration with popular ML frameworks"
+    ],
+    "confidence": "high"
+  }
+}

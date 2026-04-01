@@ -1,0 +1,208 @@
+{
+  "name": "internxt",
+  "url": "https://internxt.com",
+  "scanned_at": "2026-04-01T17:55:10.989417",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/internxt_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/internxt_mobile.png"
+  },
+  "structure": {
+    "title": "Internxt \u2014 Best Encrypted cloud storage & more",
+    "url_final": "https://internxt.com/",
+    "nav_items": [],
+    "buttons": [
+      "Log in",
+      "Get Internxt",
+      "Products",
+      "Our Values",
+      "English (EN)",
+      "Annual",
+      "Lifetime",
+      "Business",
+      "Select plan",
+      "Select plan",
+      "Select plan",
+      "Select plan",
+      "Select plan",
+      "Annual",
+      "Lifetime",
+      "Business",
+      "1TB",
+      "3TB",
+      "5TB",
+      "Select plan",
+      "Select plan",
+      "Select plan",
+      "Choose your plan",
+      "Can Internxt access my files?",
+      "Does Internxt store my password?",
+      "Can I enable two-factor authentication (2FA)?"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "ml-submit",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "fields[email]",
+            "placeholder": "Your email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 132,
+    "images_count": 78,
+    "images_with_alt": 59,
+    "headings": [
+      {
+        "level": 1,
+        "text": "encrypted cloud storage & more"
+      },
+      {
+        "level": 2,
+        "text": "The Best Next-Gen Encrypted Cloud Storage for Ultimate Protection"
+      },
+      {
+        "level": 3,
+        "text": "Unhackable and unleakable data"
+      },
+      {
+        "level": 3,
+        "text": "Next-generation security"
+      },
+      {
+        "level": 3,
+        "text": "Open source and transparent"
+      },
+      {
+        "level": 3,
+        "text": "Independently verified"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "ml-submit",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "fields[email]",
+        "placeholder": "Your email address"
+      },
+      {
+        "type": "checkbox",
+        "name": "gdprPrefItem",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "gdprPrefItem",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "gdprPrefItem",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Internxt Drive",
+      "Internxt AntivirusNew",
+      "Internxt Send",
+      "Internxt VPNNew",
+      "Internxt CleanerNew",
+      "Internxt AINew",
+      "Internxt MeetNew",
+      "Internxt Enterprise S3",
+      "Pricing",
+      "About Us",
+      "Privacy",
+      "Security",
+      "Open Source",
+      "Legal",
+      "Sustainability",
+      "Create Account",
+      "Log In",
+      "Support",
+      "White Paper",
+      "GitHub"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "Experience the next-gen best encrypted cloud storage for ultimate protection. Secure your files with Internxt\u2019s zero-knowledge technology. Get started for free!",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Encrypted cloud storage",
+      "Open source",
+      "GDPR compliance",
+      "Multiple pricing plans"
+    ],
+    "confidence": "high"
+  }
+}

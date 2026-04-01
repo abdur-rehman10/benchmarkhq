@@ -1,0 +1,409 @@
+{
+  "name": "asknicely",
+  "url": "https://www.asknicely.com",
+  "scanned_at": "2026-04-01T18:11:10.590333",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/asknicely_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/asknicely_mobile.png"
+  },
+  "structure": {
+    "title": "AskNicely: Customer Experience Software",
+    "url_final": "https://www.asknicely.com/",
+    "nav_items": [
+      {
+        "text": "CX\u00a0surveysUnderstanding your customers\u2019 business-c",
+        "href": "/product/cx-surveys"
+      },
+      {
+        "text": "Feedback analyticsEasily run NPS and CSAT measurem",
+        "href": "/product/feedback-analytics"
+      },
+      {
+        "text": "Reputation managementUnlock customer-generated con",
+        "href": "/product/reputation-management"
+      },
+      {
+        "text": "IntegrationsConnect directly to the tools your tea",
+        "href": "/integrations"
+      },
+      {
+        "text": "NiceAIGenerative AI that delivers deeper insights ",
+        "href": "/product/niceai"
+      },
+      {
+        "text": "Feedback managementEmpower your team to take quick",
+        "href": "/product/customer-feedback-management"
+      },
+      {
+        "text": "Employee activationMake rewarding your team core t",
+        "href": "/product/employee-activation"
+      },
+      {
+        "text": "Pest controlMake 5-star service a habit for every ",
+        "href": "/industries/pest-control"
+      },
+      {
+        "text": "AccountingCustomer experience management for accou",
+        "href": "/industries/accounting"
+      },
+      {
+        "text": "HealthcareHelp every provider deliver high-quality",
+        "href": "/industries/healthcare"
+      },
+      {
+        "text": "InsuranceCustomer experience management for insura",
+        "href": "/industries/insurance"
+      },
+      {
+        "text": "LegalRetain more clients, increase satisfaction, a",
+        "href": "/industries/legal"
+      },
+      {
+        "text": "Setup 101",
+        "href": "#"
+      },
+      {
+        "text": "Adding users",
+        "href": "#"
+      },
+      {
+        "text": "Video tutorials",
+        "href": "#"
+      },
+      {
+        "text": "Libraries and SDKs",
+        "href": "#"
+      },
+      {
+        "text": "Adding plugins",
+        "href": "#"
+      },
+      {
+        "text": "Dashboard templates",
+        "href": "#"
+      },
+      {
+        "text": "Customer storiesSee how leading brands turn feedba",
+        "href": "/customers"
+      },
+      {
+        "text": "NiceReferralAn easy way to turn referralsinto rewa",
+        "href": "/referral"
+      }
+    ],
+    "buttons": [
+      "Accept",
+      "Decline",
+      "Setup 101",
+      "Adding users",
+      "Video tutorials",
+      "Libraries and SDKs",
+      "Adding plugins",
+      "Dashboard templates",
+      "Setup 101",
+      "Adding users",
+      "Video tutorials",
+      "Libraries and SDKs",
+      "Adding plugins",
+      "Dashboard templates",
+      "Setup 101",
+      "Adding users",
+      "Video tutorials",
+      "Libraries and SDKs",
+      "Adding plugins",
+      "Dashboard templates",
+      "Setup 101",
+      "Adding users",
+      "Video tutorials",
+      "Libraries and SDKs",
+      "Adding plugins",
+      "Dashboard templates",
+      "Log in",
+      "Log in",
+      "Book A Demo"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": []
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/20012482/3180f382-6a50-49",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "self_reported_attribution",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "numemployees",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "country",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "industry",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-2/annualrevenue",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 116,
+    "images_count": 38,
+    "images_with_alt": 13,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn real-time customer sentiment into action"
+      },
+      {
+        "level": 1,
+        "text": "Make CX improvement easy. Smarter feedback.Simpler change."
+      },
+      {
+        "level": 2,
+        "text": "Practical AI to grow the bottom line"
+      },
+      {
+        "level": 2,
+        "text": "Real-time, actionable insights"
+      },
+      {
+        "level": 2,
+        "text": "Built for multi-location service businesses"
+      },
+      {
+        "level": 2,
+        "text": "Motivate exceptional customer experiences"
+      },
+      {
+        "level": 2,
+        "text": "Cinch increased their NPS from-13.7 to over 40"
+      },
+      {
+        "level": 3,
+        "text": "\u201cWe're proud of how far we've come, and AskNicely has been instrumental in helpi"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "numemployees",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "company",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "country",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "industry",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "0-2/annualrevenue",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gclid__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "leadsource",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "NPS software",
+      "NPS dashboard",
+      "CX management software",
+      "Customer feedbackmanagement software",
+      "CSAT software",
+      "CX surveys",
+      "Feedback management",
+      "Feedback analytics",
+      "Employee activation",
+      "Reputation management",
+      "Integrations",
+      "API",
+      "Calculators",
+      "Ebooks",
+      "Blog",
+      "Customer Impact",
+      "NiceReferral",
+      "Compare alternatives",
+      "Help Center",
+      "Contact Support"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 40,
+    "has_og_tags": true,
+    "meta_description": "AskNicely helps service businesses measure their customer experience, motivate frontline teams, and see the impact on the bottom line.",
+    "scripts_count": 48
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Real-time customer sentiment analysis",
+      "Generative AI for deeper insights",
+      "Multi-location service business support"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "name": "socket",
+  "url": "https://socket.dev",
+  "scanned_at": "2026-04-01T16:30:17.823589",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/socket_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/socket_mobile.png"
+  },
+  "structure": {
+    "title": "Socket - Secure your dependencies. Ship with confidence.",
+    "url_final": "https://socket.dev/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Love",
+        "href": "/love"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.socket.dev"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Product",
+      "Learn",
+      "Company",
+      "Search",
+      "Supply chain risk",
+      "Vulnerability",
+      "Quality",
+      "Maintenance",
+      "License",
+      "Subscribe",
+      "English",
+      "Book a Demo",
+      "Book a Demo",
+      "Install GitHub App",
+      "Book a Demo",
+      "Install GitHub App",
+      "Read the docs",
+      "Book a Demo",
+      "Read the blog",
+      "View all integrations",
+      "Install GitHub App",
+      "Book a Demo"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 164,
+    "images_count": 27,
+    "images_with_alt": 27,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Secure your dependencies. Ship with confidence."
+      },
+      {
+        "level": 2,
+        "text": "Socket is a developer-first security platform that protects your code from both "
+      },
+      {
+        "level": 2,
+        "text": "Find and compare millions of open source packages"
+      },
+      {
+        "level": 2,
+        "text": "We protect you from vulnerable and malicious packages"
+      },
+      {
+        "level": 2,
+        "text": "Detect and block software supply chain attacks"
+      },
+      {
+        "level": 2,
+        "text": "Detect suspicious package updates in real-time"
+      },
+      {
+        "level": 3,
+        "text": "crates.io"
+      },
+      {
+        "level": 3,
+        "text": "Packagist"
+      },
+      {
+        "level": 3,
+        "text": "Go Modules"
+      },
+      {
+        "level": 3,
+        "text": "Maven Central"
+      },
+      {
+        "level": 3,
+        "text": "npm"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      }
+    ],
+    "footer_links": [
+      "Package Alerts",
+      "Integrations",
+      "Docs",
+      "Pricing",
+      "FAQ",
+      "Roadmap",
+      "Changelog",
+      "About",
+      "Love",
+      "Blog",
+      "Glossary",
+      "CareersHiring",
+      "Send Feedback",
+      "Contact Us",
+      "System Status",
+      "Explore npm",
+      "Explore crates.io",
+      "Explore Chrome Web Store"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 25,
+    "has_og_tags": true,
+    "meta_description": "Socket fights vulnerabilities and provides visibility, defense-in-depth, and proactive supply chain protection for JavaScript, Python, and Go dependencies.",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "U",
+      "multiple_tiers": "U",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Real-time detection of suspicious package updates",
+      "Protection against software supply chain attacks",
+      "Developer-first security platform"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "name": "claap",
+  "url": "https://www.claap.io",
+  "scanned_at": "2026-04-01T15:58:09.147642",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/claap_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/claap_mobile.png"
+  },
+  "structure": {
+    "title": "Claap - Your AI Sales Assistant",
+    "url_final": "https://www.claap.io/",
+    "nav_items": [
+      {
+        "text": "Sales Reps",
+        "href": "/for-sales-reps"
+      },
+      {
+        "text": "Sales Leaders",
+        "href": "/for-sales-leaders"
+      },
+      {
+        "text": "Revops",
+        "href": "/revops-teams"
+      },
+      {
+        "text": "Meeting recording",
+        "href": "/meeting-recorder"
+      },
+      {
+        "text": "AI note-taking",
+        "href": "/automatic-note-taker"
+      },
+      {
+        "text": "CRM Auto-complete",
+        "href": "/ai-crm-enrichment"
+      },
+      {
+        "text": "Sales Coaching",
+        "href": "/sales-coaching-software"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Help Center",
+        "href": "https://help.claap.io/en/"
+      },
+      {
+        "text": "What's new",
+        "href": "/whats-new"
+      },
+      {
+        "text": "Claap Community",
+        "href": "/community"
+      },
+      {
+        "text": "Affiliate program",
+        "href": "/affiliate-programs"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "English",
+        "href": "/"
+      },
+      {
+        "text": "French",
+        "href": "/fr"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.claap.io/sign-in"
+      },
+      {
+        "text": "Book a Demo",
+        "href": "/contact"
+      }
+    ],
+    "buttons": [
+      "Book a Demo",
+      "Close Cookie Preference Manager",
+      "Accept all cookies",
+      "Save settings",
+      "Close Cookie Popup",
+      "Accept all cookies",
+      "Cookie settings",
+      "Start for free",
+      "Book a Demo",
+      "Meeting RecordingAutomatically record & transcribe",
+      "Crisp & personalized NotesClaap summarizes your ca",
+      "AI-generated EmailsSend email followups that clone",
+      "CRM EnrichmentClaap keeps your CRM & Deals in sync",
+      "See all integrations",
+      "View pricing",
+      "Start for free now",
+      "Book a Demo"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "Fs-Marketing",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Fs-Personalization",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Fs-Analytics",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 102,
+    "images_count": 229,
+    "images_with_alt": 133,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn conversations intocontextyourAI agents&REPScan act on."
+      },
+      {
+        "level": 2,
+        "text": "Trusted by 1,000+ high-growth companies to drive sales excellence"
+      },
+      {
+        "level": 2,
+        "text": "AUTOMATEYOURsalesbusywork"
+      },
+      {
+        "level": 2,
+        "text": "understandwhyyou win (or lose)deals"
+      },
+      {
+        "level": 2,
+        "text": "ONBOARD&TRAINyour repsfaster"
+      },
+      {
+        "level": 2,
+        "text": "Bring the voice of the customer into your daily tools."
+      },
+      {
+        "level": 3,
+        "text": "Meeting Recording"
+      },
+      {
+        "level": 3,
+        "text": "AI Notes"
+      },
+      {
+        "level": 3,
+        "text": "AI-generated Emails"
+      },
+      {
+        "level": 3,
+        "text": "CRM Enrichment"
+      },
+      {
+        "level": 3,
+        "text": "CRM-sync & Transcript Search"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "Fs-Marketing",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Fs-Personalization",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Fs-Analytics",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Meeting recording",
+      "AI note-taking",
+      "Screen recording",
+      "Audio transcription",
+      "Conversation Intelligence",
+      "Revenue Intelligence",
+      "Sales Coaching",
+      "Sales Training",
+      "CRM auto-complete",
+      "AI Email follow-ups",
+      "Sales call highlights",
+      "Deal & pipeline insights",
+      "Deal qualification scorer",
+      "Integrations",
+      "Pricing",
+      "Skedda",
+      "Evaneos",
+      "Weglot",
+      "Join",
+      "Scoreplay"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Let your Sales team close more deals with Claap - AI Sales Assistant that automates accurate deal notes, CRM updates, 1-click follow-up emails, and provides unrivaled insights from customer interactio",
+    "scripts_count": 34
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Sales Assistant",
+      "Meeting Recording",
+      "AI Note-taking",
+      "CRM Auto-complete",
+      "Sales Coaching"
+    ],
+    "confidence": "medium"
+  }
+}

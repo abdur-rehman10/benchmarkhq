@@ -1,0 +1,367 @@
+{
+  "name": "grafana",
+  "url": "https://grafana.com",
+  "scanned_at": "2026-04-01T14:58:12.598513",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/grafana_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/grafana_mobile.png"
+  },
+  "structure": {
+    "title": "Grafana: The open and composable observability platform | Grafana Labs",
+    "url_final": "https://grafana.com/",
+    "nav_items": [
+      {
+        "text": "Grafana Cloud",
+        "href": "/products/cloud/"
+      },
+      {
+        "text": "Grafana Enterprise Stack",
+        "href": "/products/enterprise/"
+      },
+      {
+        "text": "Grafana visualizations",
+        "href": "/grafana/"
+      },
+      {
+        "text": "Plugins",
+        "href": "/grafana/plugins/"
+      },
+      {
+        "text": "Grafana Cloud Logs",
+        "href": "/products/cloud/logs/"
+      },
+      {
+        "text": "Grafana Cloud Metrics",
+        "href": "/products/cloud/metrics/"
+      },
+      {
+        "text": "Grafana Cloud Traces",
+        "href": "/products/cloud/traces/"
+      },
+      {
+        "text": "Grafana Cloud Profiles",
+        "href": "/products/cloud/profiles-for-continuous-profiling/"
+      },
+      {
+        "text": "AI/ML tools for observability",
+        "href": "/products/cloud/ai-tools-for-observability/"
+      },
+      {
+        "text": "Application Observability",
+        "href": "/products/cloud/application-observability/"
+      },
+      {
+        "text": "Frontend Observability",
+        "href": "/products/cloud/frontend-observability-for-real-user-monitoring/"
+      },
+      {
+        "text": "Grafana Cloud Asserts",
+        "href": "/products/cloud/asserts/"
+      },
+      {
+        "text": "Grafana IRM",
+        "href": "/products/cloud/irm/"
+      },
+      {
+        "text": "Grafana k6",
+        "href": "/products/cloud/k6/"
+      },
+      {
+        "text": "Grafana SLO",
+        "href": "/products/cloud/slo/"
+      },
+      {
+        "text": "Synthetic Monitoring",
+        "href": "/products/cloud/synthetic-monitoring/"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "All",
+      "Open Source",
+      "All",
+      "Solutions",
+      "All",
+      "Learn",
+      "All",
+      "Site search",
+      "Ask Grot AI",
+      "en",
+      "Grafana Cloud observability",
+      "Cloud or OSS",
+      "Create dashboards",
+      "Loki logs",
+      "Get started"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 389,
+    "images_count": 188,
+    "images_with_alt": 186,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ask Grot"
+      },
+      {
+        "level": 2,
+        "text": "Your tools / data"
+      },
+      {
+        "level": 2,
+        "text": "Your environment"
+      },
+      {
+        "level": 2,
+        "text": "Visualization"
+      },
+      {
+        "level": 2,
+        "text": "Performance testing"
+      },
+      {
+        "level": 2,
+        "text": "Synthetic monitoring"
+      },
+      {
+        "level": 3,
+        "text": "Grafana Cloud"
+      },
+      {
+        "level": 3,
+        "text": "Recognised as a leaderin the Gartner MagicQuadrant"
+      },
+      {
+        "level": 3,
+        "text": "Troubleshoot faster"
+      },
+      {
+        "level": 3,
+        "text": "Reduce telemetry costs"
+      },
+      {
+        "level": 3,
+        "text": "Manage your incident response, all in Grafana Cloud"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "What do you want to know?"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Type a question for Grot..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Grafana Cloud",
+      "Grafana Enterprise Stack",
+      "Grafana visualizations",
+      "Plugins",
+      "Grafana Cloud Logs",
+      "Grafana Cloud Metrics",
+      "Grafana Cloud Traces",
+      "Grafana Cloud Profiles",
+      "AI/ML tools for observability",
+      "Application Observability",
+      "Frontend Observability",
+      "Grafana Cloud Asserts"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Grafana is the open source analytics & monitoring solution for every database.",
+    "scripts_count": 25
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open source observability platform",
+      "Comprehensive plugin ecosystem",
+      "AI/ML tools for observability"
+    ],
+    "confidence": "high"
+  }
+}

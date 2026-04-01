@@ -1,0 +1,277 @@
+{
+  "name": "google_meet",
+  "url": "https://meet.google.com",
+  "scanned_at": "2026-04-01T15:49:24.374323",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/google_meet_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/google_meet_mobile.png"
+  },
+  "structure": {
+    "title": "Google Meet: Online Web ve Video Konferans G\u00f6r\u00fc\u015fmeleri | Google Workspace",
+    "url_final": "https://workspace.google.com/products/meet/",
+    "nav_items": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "Genel bak\u0131\u015fGoogle Workspace Individual",
+        "href": "/intl/tr/individual/"
+      },
+      {
+        "text": "Genel bak\u0131\u015fGoogle Workspace Business",
+        "href": "/intl/tr/business/"
+      },
+      {
+        "text": "K\u00fc\u00e7\u00fck \u00d6l\u00e7ekli \u0130\u015fletmelerK\u00fc\u00e7\u00fck \u00f6l\u00e7ekli i\u015fletme veri",
+        "href": "/intl/tr/business/small-business/"
+      },
+      {
+        "text": "Yeni \u0130\u015fletmeYeni i\u015fletmeler i\u00e7in ara\u00e7lar",
+        "href": "/intl/tr/business/new-business/"
+      },
+      {
+        "text": "Startup'larStartup'lara y\u00f6nelik verimlilik ara\u00e7lar",
+        "href": "/intl/tr/business/startups/"
+      },
+      {
+        "text": "Genel bak\u0131\u015fGoogle Workspace Enterprise",
+        "href": "/intl/tr/enterprise/"
+      },
+      {
+        "text": "\u00d6n Saflarda \u00c7al\u0131\u015fanlar\u00d6n saflarda \u00e7al\u0131\u015fanlar i\u00e7in ",
+        "href": "/intl/tr/enterprise/frontline-workers/"
+      },
+      {
+        "text": "Daha G\u00fcvenli \u00c7al\u0131\u015f\u0131nKurulu\u015flar\u0131 siber sald\u0131r\u0131larda",
+        "href": "/intl/tr/security/"
+      },
+      {
+        "text": "Geli\u015ftiriciler",
+        "href": "/intl/tr/integrations/"
+      },
+      {
+        "text": "Education",
+        "href": "https://edu.google.com/products/workspace-for-education/education-fundamentals?hl=tr&from=gafb-meet-"
+      },
+      {
+        "text": "Sivil Toplum Kurulu\u015flar\u0131",
+        "href": "https://www.google.com/nonprofits?hl=tr"
+      },
+      {
+        "text": "Gmail\u00d6zel i\u015f e-postas\u0131",
+        "href": "https://workspace.google.com/intl/tr/products/gmail/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "Google DriveBulut depolama alan\u0131",
+        "href": "https://workspace.google.com/intl/tr/products/drive/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "MeetVideo konferans",
+        "href": "https://workspace.google.com/intl/tr/products/meet/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "ChatEkipler i\u00e7in mesajla\u015fma",
+        "href": "https://workspace.google.com/intl/tr/products/chat/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "TakvimPayla\u015f\u0131lan takvimler",
+        "href": "https://workspace.google.com/intl/tr/products/calendar/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "G\u00f6revlerG\u00f6revler ve g\u00f6rev listeleri",
+        "href": "https://workspace.google.com/intl/tr/products/tasks/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "Dok\u00fcmanlarKelime i\u015fleme",
+        "href": "https://workspace.google.com/intl/tr/products/docs/?from=gafb-meet-def-tr"
+      },
+      {
+        "text": "E-TablolarE-tablolar",
+        "href": "https://workspace.google.com/intl/tr/products/sheets/?from=gafb-meet-def-tr"
+      }
+    ],
+    "buttons": [
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "close",
+      "T\u00fcm\u00fcn\u00fc geni\u015flet",
+      "Manage cookies",
+      "Yapay Zeka",
+      "Fiyatland\u0131rma",
+      "Daha \u00c7ok G\u00f6ster",
+      "Yapay Zeka",
+      "Fiyatland\u0131rma",
+      "Daha \u00c7ok G\u00f6ster",
+      "Uygulamaya gidin",
+      "Oturum a\u00e7\u0131n"
+    ],
+    "forms": [
+      {
+        "action": "/search/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Bu sitede ara"
+          }
+        ]
+      }
+    ],
+    "links_count": 628,
+    "images_count": 143,
+    "images_with_alt": 134,
+    "headings": [
+      {
+        "level": 1,
+        "text": "\u0130\u015fletmeler i\u00e7in video konferans g\u00f6r\u00fc\u015fmeleri"
+      },
+      {
+        "level": 2,
+        "text": "T\u00fcm cihazlarda g\u00f6r\u00fc\u015fme"
+      },
+      {
+        "level": 2,
+        "text": "Her an\u0131n keyfini \u00e7\u0131kar\u0131n"
+      },
+      {
+        "level": 2,
+        "text": "G\u00fcvenli\u011fi elden b\u0131rakmay\u0131n"
+      },
+      {
+        "level": 2,
+        "text": "G\u00fcvenilir i\u015f ortaklar\u0131ndan konferans odas\u0131 cihazlar\u0131"
+      },
+      {
+        "level": 2,
+        "text": "Kurulu\u015flar\u0131n neden Meet'i tercih etti\u011fini \u00f6\u011frenin"
+      },
+      {
+        "level": 3,
+        "text": "\u00dccretli \u00f6zelliklerle daha fazlas\u0131n\u0131 yap\u0131n"
+      },
+      {
+        "level": 3,
+        "text": "Daha uzun toplant\u0131lar yap\u0131n"
+      },
+      {
+        "level": 3,
+        "text": "Kay\u0131t tutun"
+      },
+      {
+        "level": 3,
+        "text": "Daha b\u00fcy\u00fck toplant\u0131lar d\u00fczenleyin"
+      },
+      {
+        "level": 3,
+        "text": "Daha uzun toplant\u0131lar yap\u0131n"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Bu sitede ara"
+      }
+    ],
+    "footer_links": [
+      "Blog",
+      "Gmail",
+      "Meet",
+      "Chat",
+      "Takvim",
+      "Google Drive",
+      "Dok\u00fcmanlar",
+      "E-Tablolar",
+      "Slaytlar",
+      "Formlar",
+      "Google Sites",
+      "Keep",
+      "Apps Script",
+      "Y\u00f6netici Konsolu"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 631,
+    "has_og_tags": true,
+    "meta_description": "Google Meet'i, Google Workspace kapsam\u0131nda g\u00fcvenli online web konferans g\u00f6r\u00fc\u015fmeleri ve g\u00f6r\u00fcnt\u00fcl\u00fc sohbetler i\u00e7in kullanabilirsiniz.",
+    "scripts_count": 31
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Integration with Google Workspace",
+      "High security standards",
+      "Cross-platform availability"
+    ],
+    "confidence": "high"
+  }
+}

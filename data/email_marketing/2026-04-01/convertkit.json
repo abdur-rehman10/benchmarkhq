@@ -1,0 +1,248 @@
+{
+  "name": "convertkit",
+  "url": "https://convertkit.com",
+  "scanned_at": "2026-04-01T14:44:01.689147",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/convertkit_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/convertkit_mobile.png"
+  },
+  "structure": {
+    "title": "Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)",
+    "url_final": "https://kit.com/",
+    "nav_items": [
+      {
+        "text": "Kit",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.kit.com/users/login"
+      },
+      {
+        "text": "Request a demo",
+        "href": "/request-demo"
+      },
+      {
+        "text": "Start free trial",
+        "href": "https://app.kit.com/users/signup?plan=1k"
+      },
+      {
+        "text": "Request demo",
+        "href": "/request-demo"
+      },
+      {
+        "text": "See all features",
+        "href": "/features"
+      },
+      {
+        "text": "Recommendations",
+        "href": "/features/recommendations"
+      },
+      {
+        "text": "Creator Network",
+        "href": "https://creatornetwork.kit.com"
+      },
+      {
+        "text": "Landing pages",
+        "href": "/features/landing-pages"
+      },
+      {
+        "text": "Forms",
+        "href": "/features/forms"
+      },
+      {
+        "text": "Email designer",
+        "href": "/features/email-designer"
+      },
+      {
+        "text": "Email marketing",
+        "href": "/features/email-marketing"
+      },
+      {
+        "text": "Deliverability",
+        "href": "/features/deliverability"
+      },
+      {
+        "text": "Visual Automations",
+        "href": "/features/automations"
+      },
+      {
+        "text": "Kit App StoreNew",
+        "href": "/apps"
+      },
+      {
+        "text": "Commerce",
+        "href": "/features/commerce"
+      },
+      {
+        "text": "Paid Recommendations",
+        "href": "/features/paid-recommendations"
+      },
+      {
+        "text": "Paid newsletter",
+        "href": "/features/commerce/paid-newsletter"
+      },
+      {
+        "text": "Artists",
+        "href": "/use-cases/artists"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "Use Cases",
+      "Resources",
+      "Features",
+      "Use Cases",
+      "Resources",
+      "Get more subscriberswith landing pages, forms, and",
+      "Send beautiful emailsthat build relationships, not",
+      "Automate your workwith apps that connect your crea",
+      "Earn more on autopilotwith your digital products, ",
+      "Click for sound",
+      "Click for sound",
+      "Click for sound",
+      "Click for sound",
+      "Show more features",
+      "+"
+    ],
+    "forms": [],
+    "links_count": 125,
+    "images_count": 157,
+    "images_with_alt": 152,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Email marketing that automates your growth"
+      },
+      {
+        "level": 2,
+        "text": "Grow your email list, not your to-do list"
+      },
+      {
+        "level": 2,
+        "text": "Sell more without being salesy"
+      },
+      {
+        "level": 2,
+        "text": "Build once, benefit forever"
+      },
+      {
+        "level": 2,
+        "text": "Reach more people with every email"
+      },
+      {
+        "level": 2,
+        "text": "Keep your audience, no matter what"
+      },
+      {
+        "level": 3,
+        "text": "Focus on what you love, automate more with Kit"
+      },
+      {
+        "level": 3,
+        "text": "Smart apps that connect your creator tools directly to Kit"
+      },
+      {
+        "level": 3,
+        "text": "Kit serves creators, not investors"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Formerly ConvertKit",
+      "Start free trial",
+      "Pricing",
+      "Free migrations",
+      "Request a demo",
+      "Artists",
+      "Authors",
+      "Bloggers",
+      "Coaches",
+      "Course creators",
+      "Marketers",
+      "Musicians",
+      "Newsletter creators",
+      "Podcasters",
+      "YouTubers",
+      "Product overview",
+      "What's new",
+      "Mailchimp vs Kit",
+      "ActiveCampaign vs Kit",
+      "Mailerlite vs Kit"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 129,
+    "has_og_tags": true,
+    "meta_description": "Kit (formerly ConvertKit) is the creator-first email marketing and newsletter platform. Grow your audience, automate campaigns, and sell without burnout.",
+    "scripts_count": 115
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Visual Automations",
+      "Creator Network",
+      "Landing Pages",
+      "Email Designer"
+    ],
+    "confidence": "high"
+  }
+}

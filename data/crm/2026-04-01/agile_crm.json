@@ -1,0 +1,255 @@
+{
+  "name": "agile_crm",
+  "url": "https://www.agilecrm.com",
+  "scanned_at": "2026-04-01T14:26:15.907640",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/agile_crm_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/agile_crm_mobile.png"
+  },
+  "structure": {
+    "title": "CRM Software | Customer Relationship Management System | Agile CRM",
+    "url_final": "https://www.agilecrm.com/",
+    "nav_items": [],
+    "buttons": [
+      "CRM Software",
+      "TRY FOR FREE",
+      "\u00d7",
+      "GET STARTED",
+      "\u00d7",
+      "Get Started",
+      "GET STARTED",
+      "Get them now",
+      "Wall of Love"
+    ],
+    "forms": [
+      {
+        "action": "https://my.agilecrm.com/register",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Enter your e-mail here"
+          }
+        ]
+      },
+      {
+        "action": "https://my.agilecrm.com/register",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Enter your e-mail here"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "subdomain",
+            "placeholder": "Domain Name"
+          },
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Your Full Name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email address"
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": "Password (min 6 characters)"
+          },
+          {
+            "type": "hidden",
+            "name": "plan_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 263,
+    "images_count": 59,
+    "images_with_alt": 53,
+    "headings": [
+      {
+        "level": 1,
+        "text": "All-in-One CRM Software"
+      },
+      {
+        "level": 2,
+        "text": "Top 3 Reasons to choose Agile"
+      },
+      {
+        "level": 2,
+        "text": "Want more? 500 apps is here!"
+      },
+      {
+        "level": 2,
+        "text": "We love our Customers and They love us too"
+      },
+      {
+        "level": 2,
+        "text": "The Latest Updates"
+      },
+      {
+        "level": 2,
+        "text": "Start with FREE account today!"
+      },
+      {
+        "level": 3,
+        "text": "From Agile CRM Blog"
+      },
+      {
+        "level": 3,
+        "text": "01Product Updates inOct"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Enter your e-mail here"
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Enter your e-mail here"
+      },
+      {
+        "type": "text",
+        "name": "subdomain",
+        "placeholder": "Domain Name"
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Your Full Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Password (min 6 characters)"
+      },
+      {
+        "type": "hidden",
+        "name": "plan_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "SALES",
+      "Contact Management",
+      "Deals",
+      "Telephony",
+      "Appointment Scheduling",
+      "Task Management",
+      "Gamification",
+      "Mobile CRM",
+      "HelpDesk",
+      "Feedback",
+      "Knowledge Base",
+      "MARKETING",
+      "Marketing Automation",
+      "Landing Page Builder",
+      "Social CRM",
+      "Email Marketing",
+      "Mobile Marketing",
+      "Email Tracking",
+      "Web Engagement",
+      "Dynamic Landing Pages"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 3,
+    "has_og_tags": false,
+    "meta_description": "Agile CRM Software is the best, easy, powerful yet affordable Customer Relationship Management (CRM) with sales and marketing automation for small businesses.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "All-in-One CRM",
+      "500+ app integrations",
+      "Free tier available"
+    ],
+    "confidence": "high"
+  }
+}

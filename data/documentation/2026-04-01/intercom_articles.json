@@ -1,0 +1,219 @@
+{
+  "name": "intercom_articles",
+  "url": "https://www.intercom.com/help-center",
+  "scanned_at": "2026-04-01T17:48:34.668148",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/intercom_articles_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/intercom_articles_mobile.png"
+  },
+  "structure": {
+    "title": "Intercom | The only helpdesk designed for the AI Agent era",
+    "url_final": "https://www.intercom.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "",
+        "href": "https://app.intercom.com/admins/sign_in"
+      },
+      {
+        "text": "Contact sales",
+        "href": "/contact-sales"
+      },
+      {
+        "text": "View demo",
+        "href": "/view-demos"
+      },
+      {
+        "text": "Start free trial",
+        "href": "https://app.intercom.com/admins/sign_up?solution_id=29"
+      },
+      {
+        "text": "Fin AI Agent",
+        "href": "https://fin.ai"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Resources",
+      "Fully-featured helpdesk",
+      "Natively integrated AI Agent",
+      "AI-powered Insights",
+      "Self-improving system",
+      "CopilotGive every agent an AI assistant that pulls",
+      "AI-enhanced ticketingConvert any conversation into",
+      "No code automationsBuild powerful automations to r",
+      "Copilot+-Give every agent an AI assistant that pul",
+      "AI-enhanced ticketing+-Convert any conversation in",
+      "No code automations+-Build powerful automations to",
+      "Onboarding toolsOnboard customers with interactive",
+      "Proactive notificationsKeep customers informed abo",
+      "Targeted messaging sequencesBuild omnichannel mess",
+      "Onboarding tools+-Onboard customers with interacti",
+      "Proactive notifications+-Keep customers informed a",
+      "Targeted messaging sequences+-Build omnichannel me",
+      "InsightsThe only solution with 100% coverage acros",
+      "Always-on QAMonitor every AI and human conversatio",
+      "ReportingAccess pre-built reports covering every s",
+      "Insights+-The only solution with 100% coverage acr",
+      "Always-on QA+-Monitor every AI and human conversat",
+      "Reporting+-Access pre-built reports covering every",
+      "Per Outcome",
+      "Helpdesk features\u25bc",
+      "Fin features\u25bc",
+      "Pricing\u25bc"
+    ],
+    "forms": [],
+    "links_count": 98,
+    "images_count": 78,
+    "images_with_alt": 78,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The only helpdesk designed for the AI Agent era"
+      },
+      {
+        "level": 2,
+        "text": "A complete solutionfor AI and human agents"
+      },
+      {
+        "level": 2,
+        "text": "A fully-featuredAI-powered helpdesk"
+      },
+      {
+        "level": 2,
+        "text": "A true partner withdeep domain expertise"
+      },
+      {
+        "level": 2,
+        "text": "Transparent pricing"
+      },
+      {
+        "level": 2,
+        "text": "Perfect customer experiences, powered by Intercom"
+      },
+      {
+        "level": 3,
+        "text": "AI-powered agent workspace"
+      },
+      {
+        "level": 3,
+        "text": "A seamless experience for customers and agents"
+      },
+      {
+        "level": 3,
+        "text": "AI-powered Insights across every interaction"
+      },
+      {
+        "level": 3,
+        "text": "A self-improving system"
+      },
+      {
+        "level": 3,
+        "text": "A world-class AI Agent"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Inbox",
+      "Copilot",
+      "Tickets",
+      "Omnichannel",
+      "Help Center",
+      "Apps & Integrations",
+      "Reporting",
+      "Knowledge Hub",
+      "Outbound",
+      "Fin overview",
+      "Capabilities",
+      "AI Engine",
+      "Intercom Suite pricing",
+      "Fin pricing",
+      "Events",
+      "Intercom blog",
+      "Academy",
+      "YouTube",
+      "AI Agent Blueprint",
+      "Learning Center"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 70,
+    "has_og_tags": true,
+    "meta_description": "The only helpdesk with a natively integrated AI Agent. Deliver perfect customer experiences with the highest-performing platform. Start your free trial today.",
+    "scripts_count": 123
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "U",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered helpdesk",
+      "Natively integrated AI Agent",
+      "Self-improving system"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "name": "trello",
+  "url": "https://trello.com",
+  "scanned_at": "2026-04-01T14:11:52.275118",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/trello_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/trello_mobile.png"
+  },
+  "structure": {
+    "title": "Capture, organize, and tackle your to-dos from anywhere | Trello",
+    "url_final": "https://trello.com/",
+    "nav_items": [
+      {
+        "text": "InboxCapture every vital detail from emails, Slack",
+        "href": "/inbox"
+      },
+      {
+        "text": "PlannerSync your calendar and allocate focused tim",
+        "href": "/planner"
+      },
+      {
+        "text": "AutomationAutomate tasks and workflows with Trello",
+        "href": "/butler-automation"
+      },
+      {
+        "text": "Power-UpsPower up your teams by linking their favo",
+        "href": "/power-ups"
+      },
+      {
+        "text": "TemplatesGive your team a blueprint for success wi",
+        "href": "/templates"
+      },
+      {
+        "text": "IntegrationsFind the apps your team is already usi",
+        "href": "/integrations"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "Solutions",
+      "Plans",
+      "Resources",
+      "Back",
+      "Navigation",
+      "Features",
+      "Solutions",
+      "Plans",
+      "Resources",
+      "Sign up - it\u2019s free!",
+      "InboxWhen it\u2019s on your mind, it goes in your Inbox",
+      "BoardsYour to-do list may be long, but it can be m",
+      "PlannerDrag, drop, get it done. Snap your top task",
+      "InboxWhen it\u2019s on your mind, it goes in your Inbox",
+      "BoardsYour to-do list may be long, but it can be m",
+      "PlannerDrag, drop, get it done. Snap your top task"
+    ],
+    "forms": [
+      {
+        "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlass",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email"
+          }
+        ]
+      },
+      {
+        "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlass",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 94,
+    "images_count": 15,
+    "images_with_alt": 12,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Capture, organize, and tackle your to-dos from anywhere."
+      },
+      {
+        "level": 2,
+        "text": "Explore the features that help your team succeed"
+      },
+      {
+        "level": 2,
+        "text": "Take a page out of these pre-built Trello playbooks designed for all teams"
+      },
+      {
+        "level": 2,
+        "text": "Learn & connect"
+      },
+      {
+        "level": 2,
+        "text": "Your productivity powerhouse"
+      },
+      {
+        "level": 2,
+        "text": "From message to action"
+      },
+      {
+        "level": 3,
+        "text": "Explore the features that help your team succeed"
+      },
+      {
+        "level": 3,
+        "text": "Meet Trello"
+      },
+      {
+        "level": 3,
+        "text": "Take a page out of these pre-built Trello playbooks designed for all teams"
+      },
+      {
+        "level": 3,
+        "text": "Our product in action"
+      },
+      {
+        "level": 3,
+        "text": "Compare plans & pricing"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-4",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-3",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-2",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Log In",
+      "About TrelloWhat\u2019s behind the boards.",
+      "JobsLearn about open roles on the Trello team.",
+      "AppsDownload the Trello App for your Desktop or Mo",
+      "Contact usNeed anything? Get in touch and we can h",
+      "Your Privacy Choices",
+      "Privacy Policy",
+      "Terms"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 40,
+    "has_og_tags": false,
+    "meta_description": "Make the impossible, possible with Trello. The ultimate tool to boost your productivity. Escape the clutter and chaos\u2014stay efficient with Inbox, Boards, and Planner from anywhere, even on mobile.",
+    "scripts_count": 53
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Power-Ups for integrations",
+      "Butler automation",
+      "Templates for various use cases",
+      "Multi-platform availability"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "name": "replit",
+  "url": "https://replit.com",
+  "scanned_at": "2026-04-01T15:47:31.726718",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/replit_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/replit_mobile.png"
+  },
+  "structure": {
+    "title": "Replit \u2013 Build apps and sites with AI - Replit",
+    "url_final": "https://replit.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Agent",
+        "href": "https://replit.com/products/agent"
+      },
+      {
+        "text": "Design",
+        "href": "https://replit.com/products/design"
+      },
+      {
+        "text": "Databases",
+        "href": "https://replit.com/products/database"
+      },
+      {
+        "text": "Publish Apps",
+        "href": "https://replit.com/products/deployments"
+      },
+      {
+        "text": "Security",
+        "href": "https://replit.com/products/security"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://replit.com/products/integrations"
+      },
+      {
+        "text": "Mobile",
+        "href": "https://replit.com/products/mobile"
+      },
+      {
+        "text": "ProReplit for serious builders",
+        "href": "https://replit.com/pro"
+      },
+      {
+        "text": "EnterpriseReplit with Enterprise-grade security & ",
+        "href": "https://replit.com/enterprise"
+      },
+      {
+        "text": "Business Apps",
+        "href": "https://replit.com/usecases/business-apps"
+      },
+      {
+        "text": "Mobile Apps",
+        "href": "/mobile-apps"
+      },
+      {
+        "text": "Rapid Prototyping",
+        "href": "https://replit.com/usecases/rapid-prototyping"
+      },
+      {
+        "text": "Enterprise",
+        "href": "https://replit.com/enterprise"
+      },
+      {
+        "text": "PM",
+        "href": "https://replit.com/usecases/product-managers"
+      },
+      {
+        "text": "Designers",
+        "href": "https://replit.com/usecases/designers"
+      },
+      {
+        "text": "Operations",
+        "href": "https://replit.com/usecases/operations"
+      },
+      {
+        "text": "Software Developers",
+        "href": "https://replit.com/usecases/software-engineers"
+      },
+      {
+        "text": "SMB Owners",
+        "href": "https://replit.com/usecases/smb"
+      },
+      {
+        "text": "Founders",
+        "href": "https://replit.com/usecases/founders"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "For Work",
+      "Resources",
+      "Log in",
+      "Create account",
+      "Log in",
+      "Create account",
+      "Start",
+      "Website",
+      "Mobile",
+      "Design",
+      "Slides",
+      "Animation",
+      "Data Visualization",
+      "3D Game",
+      "Document",
+      "Spreadsheet",
+      "B2B project management app",
+      "Quarterly review presentation",
+      "Beginner running tracker",
+      "NextTestimonial",
+      "PreviousTestimonial"
+    ],
+    "forms": [],
+    "links_count": 92,
+    "images_count": 12,
+    "images_with_alt": 12,
+    "headings": [
+      {
+        "level": 1,
+        "text": "What will you build?"
+      },
+      {
+        "level": 1,
+        "text": "MeetAgent 4"
+      },
+      {
+        "level": 2,
+        "text": "Design Freely"
+      },
+      {
+        "level": 2,
+        "text": "Move faster"
+      },
+      {
+        "level": 2,
+        "text": "Ship Anything"
+      },
+      {
+        "level": 2,
+        "text": "Build together"
+      },
+      {
+        "level": 2,
+        "text": "Powered by the Replit platform"
+      },
+      {
+        "level": 3,
+        "text": "By integrating with Lakebase and Databricks Apps, we're combining Replit's capab"
+      },
+      {
+        "level": 3,
+        "text": "Agent 4 unlocks true collaboration and real-time learning \u2014 now our teams can de"
+      },
+      {
+        "level": 3,
+        "text": "Replit Agent 4 is incredible. Its ability to take a one-shot prompt and flesh ou"
+      },
+      {
+        "level": 3,
+        "text": "The parallel task execution is a game-changer for us. We have multiple builders "
+      },
+      {
+        "level": 3,
+        "text": "To deliver the world's best customer experience, our internal teams need to work"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "plan-period",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "plan-period",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Vibe Coding 101",
+      "How to guides",
+      "Import from GitHub",
+      "Help",
+      "Status",
+      "About us",
+      "Brand kit",
+      "Certifications",
+      "Partnerships",
+      "Additional resources",
+      "Terms of service",
+      "Commercial agreement",
+      "Privacy",
+      "Subprocessors",
+      "DPA",
+      "Report abuse",
+      "X / Twitter",
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 15,
+    "has_og_tags": true,
+    "meta_description": "Build and deploy software collaboratively with the power of AI without spending a second on setup.",
+    "scripts_count": 178
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered development environment",
+      "Real-time collaboration",
+      "Extensive integrations",
+      "Multi-platform support"
+    ],
+    "confidence": "high"
+  }
+}

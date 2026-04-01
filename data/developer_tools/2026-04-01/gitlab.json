@@ -1,0 +1,346 @@
+{
+  "name": "gitlab",
+  "url": "https://about.gitlab.com",
+  "scanned_at": "2026-04-01T15:37:38.935564",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/gitlab_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/gitlab_mobile.png"
+  },
+  "structure": {
+    "title": "Finally, AI for the entire software lifecycle.",
+    "url_final": "https://about.gitlab.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "PlatformThe intelligent orchestration platform for",
+        "href": "/platform/"
+      },
+      {
+        "text": "GitLab Duo Agent PlatformAgentic AI for the entire",
+        "href": "/gitlab-duo-agent-platform/"
+      },
+      {
+        "text": "Why GitLabSee the top reasons enterprises choose G",
+        "href": "/why-gitlab/"
+      },
+      {
+        "text": "CI/CD",
+        "href": "/solutions/continuous-integration/"
+      },
+      {
+        "text": "GitLab Duo Agent Platform",
+        "href": "/gitlab-duo-agent-platform/"
+      },
+      {
+        "text": "Source Code Management",
+        "href": "/solutions/source-code-management/"
+      },
+      {
+        "text": "Automated Software Delivery",
+        "href": "/solutions/delivery-automation/"
+      },
+      {
+        "text": "Application Security Testing",
+        "href": "/solutions/application-security-testing/"
+      },
+      {
+        "text": "Software Supply Chain Security",
+        "href": "/solutions/supply-chain/"
+      },
+      {
+        "text": "Software Compliance",
+        "href": "/solutions/software-compliance/"
+      },
+      {
+        "text": "Visibility & Measurement",
+        "href": "/solutions/visibility-measurement/"
+      },
+      {
+        "text": "Value Stream Management",
+        "href": "/solutions/value-stream-management/"
+      },
+      {
+        "text": "Analytics & Insights",
+        "href": "/solutions/analytics-and-insights/"
+      },
+      {
+        "text": "View all Solutions",
+        "href": "/solutions/"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/enterprise/"
+      },
+      {
+        "text": "Small Business",
+        "href": "/small-business/"
+      },
+      {
+        "text": "Public Sector",
+        "href": "/solutions/public-sector/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Install",
+        "href": "/install/"
+      }
+    ],
+    "buttons": [
+      "Platform",
+      "Product",
+      "Resources",
+      "Read the latest",
+      "Company",
+      "Contact us",
+      "Close",
+      "Get started",
+      "Cookie Preferences",
+      "Language: English",
+      "Cookies Details",
+      "Cookies Details",
+      "Cookies Details",
+      "Cookies Details"
+    ],
+    "forms": [
+      {
+        "action": "https://gitlab.com/-/trial_registrations/new/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "hidden",
+            "name": "glm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "glm_source",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 186,
+    "images_count": 51,
+    "images_with_alt": 46,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Finally, AI for the entire software lifecycle."
+      },
+      {
+        "level": 2,
+        "text": "Built for how you work"
+      },
+      {
+        "level": 2,
+        "text": "Built to meet your industry\u2019s demands"
+      },
+      {
+        "level": 2,
+        "text": "One platform for teams of every size"
+      },
+      {
+        "level": 2,
+        "text": "Start building faster today"
+      },
+      {
+        "level": 2,
+        "text": "Footer links"
+      },
+      {
+        "level": 3,
+        "text": "Join the 50+ million people already using GitLab."
+      },
+      {
+        "level": 3,
+        "text": "Define how teams and AI agents work together"
+      },
+      {
+        "level": 3,
+        "text": "Your end-to-end DevOps process in one place"
+      },
+      {
+        "level": 3,
+        "text": "Be proactive with security built in, not bolted on"
+      },
+      {
+        "level": 3,
+        "text": "Financial Services"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "hidden",
+        "name": "glm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "glm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0007",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0008",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "View plans",
+      "Why Premium?",
+      "Why Ultimate?",
+      "Contact sales",
+      "Support portal",
+      "Customer portal",
+      "Status",
+      "Terms of use",
+      "Privacy statement",
+      "DevSecOps platform",
+      "AI-Assisted Development",
+      "CICD",
+      "GitOps",
+      "DevOps",
+      "Version Control",
+      "DevSecOps",
+      "Cloud Native",
+      "AI for Coding",
+      "Agentic AI",
+      "Application Security Testing"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 69,
+    "has_og_tags": true,
+    "meta_description": "Your intelligent orchestration platform for DevSecOps",
+    "scripts_count": 41
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI for the entire software lifecycle",
+      "Comprehensive DevOps platform",
+      "Strong security and compliance features"
+    ],
+    "confidence": "high"
+  }
+}

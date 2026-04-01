@@ -1,0 +1,219 @@
+{
+  "name": "clickup",
+  "url": "https://clickup.com",
+  "scanned_at": "2026-04-01T14:10:45.683385",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/clickup_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/clickup_mobile.png"
+  },
+  "structure": {
+    "title": "ClickUp\u2122 | Maximize productivity \u2022 Software, AI, and humans converge",
+    "url_final": "https://clickup.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/plans/enterprise"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.clickup.com/"
+      }
+    ],
+    "buttons": [
+      "Brain AI",
+      "Product",
+      "Solutions",
+      "Learn",
+      "Contact Sales",
+      "Sign Up",
+      "Get started. It's FREE",
+      "Get started",
+      "Get started. It's FREE!",
+      "Activate \u2192",
+      "Play Video",
+      "Play Video",
+      "Dependencies",
+      "ConnectedSearch",
+      "Tasks",
+      "Mind Maps",
+      "Wikis",
+      "AI Notetaker",
+      "Calendar",
+      "Proofing",
+      "Portfolios",
+      "Templates",
+      "Reminders",
+      "Reporting",
+      "Goals",
+      "Sprints",
+      "Custom Status",
+      "AI Writer",
+      "API Calls"
+    ],
+    "forms": [],
+    "links_count": 99,
+    "images_count": 77,
+    "images_with_alt": 62,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Software to replace all software"
+      },
+      {
+        "level": 1,
+        "text": "Software toreplace all software"
+      },
+      {
+        "level": 2,
+        "text": "60% of work is lost in context\u2013 and AI is lost without it."
+      },
+      {
+        "level": 2,
+        "text": "All apps, AI Agents,and humans in ClickUp."
+      },
+      {
+        "level": 2,
+        "text": "A new era of humans, with Super Agents"
+      },
+      {
+        "level": 2,
+        "text": "The only AI that works where you work"
+      },
+      {
+        "level": 2,
+        "text": "AI solutions for every team"
+      },
+      {
+        "level": 3,
+        "text": "Projects"
+      },
+      {
+        "level": 3,
+        "text": "Docs"
+      },
+      {
+        "level": 3,
+        "text": "Brain"
+      },
+      {
+        "level": 3,
+        "text": "Chat"
+      },
+      {
+        "level": 3,
+        "text": "ClickUp Brain"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Status",
+      "Security",
+      "Privacy",
+      "Terms"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": false,
+    "aria_labels_count": 56,
+    "has_og_tags": false,
+    "meta_description": "Our mission is to make the world more productive. To do this, we built the everything app for work - Tasks, Docs, Goals, and Chat.",
+    "scripts_count": 137
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI integration",
+      "Comprehensive project management tools",
+      "Customizable dashboards",
+      "Extensive third-party integrations"
+    ],
+    "confidence": "high"
+  }
+}

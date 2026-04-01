@@ -1,0 +1,241 @@
+{
+  "name": "firebase",
+  "url": "https://firebase.google.com",
+  "scanned_at": "2026-04-01T15:42:13.132540",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/firebase_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/firebase_mobile.png"
+  },
+  "structure": {
+    "title": "Firebase | Google's Mobile and Web App Development Platform",
+    "url_final": "https://firebase.google.com/",
+    "nav_items": [
+      {
+        "text": "Build",
+        "href": "https://firebase.google.com/products-build"
+      },
+      {
+        "text": "Go to Build",
+        "href": "https://firebase.google.com/products-build"
+      },
+      {
+        "text": "App Check",
+        "href": "https://firebase.google.com/products/app-check"
+      },
+      {
+        "text": "App Hosting",
+        "href": "https://firebase.google.com/products/app-hosting"
+      },
+      {
+        "text": "Authentication",
+        "href": "https://firebase.google.com/products/auth"
+      },
+      {
+        "text": "Cloud Functions",
+        "href": "https://firebase.google.com/products/functions"
+      },
+      {
+        "text": "Cloud Storage",
+        "href": "https://firebase.google.com/products/storage"
+      },
+      {
+        "text": "Data Connect",
+        "href": "https://firebase.google.com/products/data-connect"
+      },
+      {
+        "text": "Extensions",
+        "href": "https://firebase.google.com/products/extensions"
+      },
+      {
+        "text": "Firebase ML",
+        "href": "https://firebase.google.com/products/ml"
+      },
+      {
+        "text": "Firestore",
+        "href": "https://firebase.google.com/products/firestore"
+      },
+      {
+        "text": "Genkit",
+        "href": "https://genkit.dev"
+      },
+      {
+        "text": "Hosting",
+        "href": "https://firebase.google.com/products/hosting"
+      },
+      {
+        "text": "Phone Number Verification",
+        "href": "https://firebase.google.com/products/phone-number-verification"
+      },
+      {
+        "text": "Realtime Database",
+        "href": "https://firebase.google.com/products/realtime-database"
+      },
+      {
+        "text": "Firebase AI Logic client SDKs",
+        "href": "https://firebase.google.com/products/firebase-ai-logic"
+      },
+      {
+        "text": "Generative AI",
+        "href": "https://firebase.google.com/products/generative-ai"
+      },
+      {
+        "text": "Run",
+        "href": "https://firebase.google.com/products-run"
+      },
+      {
+        "text": "Go to Run",
+        "href": "https://firebase.google.com/products-run"
+      },
+      {
+        "text": "A/B Testing",
+        "href": "https://firebase.google.com/products/ab-testing"
+      }
+    ],
+    "buttons": [
+      "More",
+      "Send feedback",
+      "Skip to main content",
+      "Blog",
+      "Go to console",
+      "Sign in",
+      "Get Started",
+      "Get started in console",
+      "App Hosting",
+      "Data Connect",
+      "Firebase AI Logic client SDKs",
+      "View all Build products",
+      "App Distribution",
+      "Crashlytics",
+      "Remote Config",
+      "View all Run products",
+      "View generative AI options",
+      "Learn more",
+      "Explore Extensions",
+      "View developer docs"
+    ],
+    "forms": [
+      {
+        "action": "https://firebase.google.com/s/results",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search"
+          }
+        ]
+      }
+    ],
+    "links_count": 210,
+    "images_count": 48,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Make your appthe best it can be with Firebase and generative AI"
+      },
+      {
+        "level": 3,
+        "text": "Easily integrate Firebase with Gemini and the latest AI technology from Google"
+      },
+      {
+        "level": 3,
+        "text": "Easily integrate Firebase with your team's favorite tools."
+      },
+      {
+        "level": 3,
+        "text": "Install pre-packaged, open source bundles of code to automate common development"
+      },
+      {
+        "level": 3,
+        "text": "Easy to integrate on iOS, Android, and the Web"
+      },
+      {
+        "level": 3,
+        "text": "Keep up to date on everything Firebase"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Filter"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 35,
+    "has_og_tags": true,
+    "meta_description": "Discover Firebase, Google\u2019s mobile and web app development platform that helps developers build apps and games that users will love.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Integration with Google's AI technology",
+      "Comprehensive set of developer tools",
+      "Strong security and compliance features"
+    ],
+    "confidence": "high"
+  }
+}

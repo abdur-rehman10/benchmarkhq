@@ -1,0 +1,230 @@
+{
+  "name": "linear",
+  "url": "https://linear.app",
+  "scanned_at": "2026-04-01T14:11:32.588631",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/linear_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/linear_mobile.png"
+  },
+  "structure": {
+    "title": "Linear \u2013 The system for product development",
+    "url_final": "https://linear.app/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/homepage"
+      },
+      {
+        "text": "Product",
+        "href": "/homepage"
+      },
+      {
+        "text": "Resources",
+        "href": "/about"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Now",
+        "href": "/now"
+      },
+      {
+        "text": "Contact",
+        "href": "/contact"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Open app",
+        "href": "/login"
+      },
+      {
+        "text": "Log in",
+        "href": "/login"
+      },
+      {
+        "text": "Sign up",
+        "href": "/signup"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Resources",
+      "Linear",
+      "Inbox",
+      "My issues",
+      "Reviews",
+      "Pulse",
+      "Workspace",
+      "Initiatives",
+      "Projects",
+      "More",
+      "Favorites",
+      "Faster app launch",
+      "Agent tasks",
+      "UI Refresh",
+      "Agents Insights",
+      "Performance"
+    ],
+    "forms": [],
+    "links_count": 74,
+    "images_count": 31,
+    "images_with_alt": 14,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The productdevelopmentsystem for teamsand agentsThe product developmentsystem fo"
+      },
+      {
+        "level": 2,
+        "text": "A new species of product tool.Purpose-built for modern teams with AI workflows a"
+      },
+      {
+        "level": 2,
+        "text": "Make product \noperations self-driving"
+      },
+      {
+        "level": 2,
+        "text": "Define the \nproduct direction"
+      },
+      {
+        "level": 2,
+        "text": "Move work forward \nacross teams and agents"
+      },
+      {
+        "level": 2,
+        "text": "Review PRs and agent output"
+      },
+      {
+        "level": 3,
+        "text": "Faster app launch"
+      },
+      {
+        "level": 3,
+        "text": "Product"
+      },
+      {
+        "level": 3,
+        "text": "Features"
+      },
+      {
+        "level": 3,
+        "text": "Company"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Assign to\u2026"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Intake",
+      "Plan",
+      "Build",
+      "Diffs",
+      "Monitor",
+      "Pricing",
+      "Security",
+      "Asks",
+      "Agents",
+      "Customer Requests",
+      "Insights",
+      "Mobile",
+      "Integrations",
+      "Changelog",
+      "About",
+      "Customers",
+      "Careers",
+      "Blog",
+      "Method"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 55,
+    "has_og_tags": true,
+    "meta_description": "Purpose-built for planning and building products with AI agents.",
+    "scripts_count": 79
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI workflows",
+      "Performance insights",
+      "Agent tasks"
+    ],
+    "confidence": "high"
+  }
+}

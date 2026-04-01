@@ -1,0 +1,338 @@
+{
+  "name": "harvest",
+  "url": "https://www.getharvest.com",
+  "scanned_at": "2026-04-01T15:10:22.405528",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/harvest_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/harvest_mobile.png"
+  },
+  "structure": {
+    "title": "Time Tracking Software With Invoicing | Harvest",
+    "url_final": "https://www.getharvest.com/",
+    "nav_items": [
+      {
+        "text": "Skip to content",
+        "href": "#main-content"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Overview",
+        "href": "https://www.getharvest.com/features"
+      },
+      {
+        "text": "Time Tracking",
+        "href": "https://www.getharvest.com/features/time-tracking-software"
+      },
+      {
+        "text": "Reporting & Analysis",
+        "href": "https://www.getharvest.com/features/reports-and-analysis"
+      },
+      {
+        "text": "Invoicing & Payments",
+        "href": "https://www.getharvest.com/features/invoicing-and-payments"
+      },
+      {
+        "text": "Advertising & Marketing",
+        "href": "https://www.getharvest.com/time-tracking-software-advertising"
+      },
+      {
+        "text": "Accounting & Finance",
+        "href": "https://www.getharvest.com/accounting-time-tracking-software"
+      },
+      {
+        "text": "Architecture",
+        "href": "https://www.getharvest.com/architecture-time-tracking-software"
+      },
+      {
+        "text": "Consulting & IT",
+        "href": "https://www.getharvest.com/consulting-time-tracking-software"
+      },
+      {
+        "text": "Construction",
+        "href": "https://www.getharvest.com/construction-time-tracking-app"
+      },
+      {
+        "text": "Design Teams",
+        "href": "https://www.getharvest.com/time-tracking-software-design"
+      },
+      {
+        "text": "Law Firms",
+        "href": "https://www.getharvest.com/legal-time-tracking-software"
+      },
+      {
+        "text": "Software Development",
+        "href": "https://www.getharvest.com/software-development-time-tracking"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.getharvest.com/blog"
+      },
+      {
+        "text": "Webinars",
+        "href": "https://www.getharvest.com/webinars"
+      },
+      {
+        "text": "Guides & Templates",
+        "href": "https://www.getharvest.com/resources"
+      },
+      {
+        "text": "Help Center",
+        "href": "https://support.getharvest.com/hc/en-us"
+      },
+      {
+        "text": "Developer Documentation",
+        "href": "https://www.getharvest.com/add-time-tracking"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://www.getharvest.com/pricing"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "Allow All",
+      "Confirm My Choices",
+      "Back ButtonBack",
+      "Filter Icon",
+      "Clear Filters",
+      "Apply",
+      "Confirm My Choices",
+      "Overview",
+      "Overview",
+      "Try Harvest free",
+      "Start your free trial",
+      "Try Harvest free",
+      "Try Harvest free",
+      "We also make:Harvest ForecastThe fast and simple w"
+    ],
+    "forms": [
+      {
+        "action": "https://www.getharvest.com/signup",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Your work email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://www.getharvest.com/signup",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Your work email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 98,
+    "images_count": 56,
+    "images_with_alt": 53,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn hours into profit"
+      },
+      {
+        "level": 2,
+        "text": "Why Harvest"
+      },
+      {
+        "level": 2,
+        "text": "Powerful time tracking"
+      },
+      {
+        "level": 2,
+        "text": "All the features you need for effortless time tracking"
+      },
+      {
+        "level": 2,
+        "text": "Invoicing & Profitability"
+      },
+      {
+        "level": 2,
+        "text": "Our customers"
+      },
+      {
+        "level": 3,
+        "text": "One platform for your entireprofessional services workflow"
+      },
+      {
+        "level": 3,
+        "text": "Track time easily"
+      },
+      {
+        "level": 3,
+        "text": "Gain powerful insights"
+      },
+      {
+        "level": 3,
+        "text": "Invoice & get paid"
+      },
+      {
+        "level": 3,
+        "text": "Seamless tracking, smart reporting"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Your work email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Your work email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0007",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Harvest",
+      "Home",
+      "Why Harvest?",
+      "Features",
+      "Pricing",
+      "Integrations",
+      "Apps",
+      "Community",
+      "Customer stories",
+      "Resources",
+      "Webinars",
+      "Help & support",
+      "Integrate with Harvest",
+      "Time Well Spent",
+      "Time in This Time",
+      "Company",
+      "About us",
+      "Blog",
+      "Careers",
+      "Schedule a consultation"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Time tracking and management software with powerful easy reporting and streamlined online invoicing. Loved by 73,000 businesses. Get started for free.",
+    "scripts_count": 37
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Powerful time tracking",
+      "Invoicing & Profitability",
+      "Seamless tracking, smart reporting"
+    ],
+    "confidence": "high"
+  }
+}

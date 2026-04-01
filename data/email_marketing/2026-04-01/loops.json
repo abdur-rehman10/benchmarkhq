@@ -1,0 +1,146 @@
+{
+  "name": "loops",
+  "url": "https://loops.so",
+  "scanned_at": "2026-04-01T14:53:17.948656",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/loops_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/loops_mobile.png"
+  },
+  "structure": {
+    "title": "Loops - The email platform built for SaaS",
+    "url_final": "https://loops.so/",
+    "nav_items": [
+      {
+        "text": "Docs",
+        "href": "https://loops.so/docs/quickstart"
+      },
+      {
+        "text": "Pricing",
+        "href": "./pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.loops.so"
+      },
+      {
+        "text": "Start",
+        "href": "https://app.loops.so/register"
+      }
+    ],
+    "buttons": [
+      "WriteCraft an email like you're writing a docLearn",
+      "PolishYour email, your brandingLearn more",
+      "PersonalizeMake it relevant, out of the boxLearn m",
+      "Create contact",
+      "Update contact",
+      "Delete contact",
+      "Send event",
+      "Send email",
+      "Intelligent queueingOur automatic queueing system ",
+      "Complete DNS HandlingWe handle the difficult parts",
+      "Check your deliverabilityWe created Bounce Doctor,"
+    ],
+    "forms": [],
+    "links_count": 93,
+    "images_count": 52,
+    "images_with_alt": 4,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Email for modern software companies"
+      },
+      {
+        "level": 2,
+        "text": "Simplicity meets polish at scale"
+      },
+      {
+        "level": 2,
+        "text": "Simple integration with your stack"
+      },
+      {
+        "level": 2,
+        "text": "Craft a respectful customer journey"
+      },
+      {
+        "level": 2,
+        "text": "Zero-effort deliverability"
+      },
+      {
+        "level": 3,
+        "text": "Backed by Y Combinator"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 4,
+    "has_og_tags": true,
+    "meta_description": "Loops makes email marketing for modern SaaS companies easy. It's the best way to create, send and track beautiful email campaigns.",
+    "scripts_count": 16
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "U",
+      "free_tier": "U",
+      "multiple_tiers": "U",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Backed by Y Combinator",
+      "Complete DNS Handling",
+      "Intelligent queueing system",
+      "Bounce Doctor for deliverability"
+    ],
+    "confidence": "medium"
+  }
+}

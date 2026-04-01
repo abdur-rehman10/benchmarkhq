@@ -1,0 +1,315 @@
+{
+  "name": "langchain",
+  "url": "https://www.langchain.com",
+  "scanned_at": "2026-04-01T16:50:28.725079",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/langchain_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/langchain_mobile.png"
+  },
+  "structure": {
+    "title": "LangChain: Observe, Evaluate, and Deploy Reliable AI Agents",
+    "url_final": "https://www.langchain.com/",
+    "nav_items": [
+      {
+        "text": "LangSmith Platform",
+        "href": "/langsmith-platform"
+      },
+      {
+        "text": "ObservabilitySee exactly what your agents are doin",
+        "href": "/langsmith/observability"
+      },
+      {
+        "text": "EvaluationScore and improve agent performance",
+        "href": "/langsmith/evaluation"
+      },
+      {
+        "text": "DeploymentShip and scale agents in production",
+        "href": "/langsmith/deployment"
+      },
+      {
+        "text": "FleetAgents for the whole company",
+        "href": "/langsmith/fleet"
+      },
+      {
+        "text": "deepagentsBuild long-running agents for complex ta",
+        "href": "/deep-agents"
+      },
+      {
+        "text": "langchainQuick start agents with any model provide",
+        "href": "/langchain"
+      },
+      {
+        "text": "langgraphBuild reliable agents with low-level cont",
+        "href": "/langgraph"
+      },
+      {
+        "text": "Blog",
+        "href": "https://blog.langchain.com/"
+      },
+      {
+        "text": "Customer Stories",
+        "href": "/customers"
+      },
+      {
+        "text": "Guides",
+        "href": "/resources"
+      },
+      {
+        "text": "LangChain Academy",
+        "href": "https://academy.langchain.com/"
+      },
+      {
+        "text": "YouTube",
+        "href": "https://www.youtube.com/@LangChain"
+      },
+      {
+        "text": "Documentation",
+        "href": "https://docs.langchain.com/"
+      },
+      {
+        "text": "LangSmith for Startups",
+        "href": "/startups"
+      },
+      {
+        "text": "Events",
+        "href": "https://luma.com/langchain?k=c"
+      },
+      {
+        "text": "Community",
+        "href": "/community"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.langchain.com/"
+      },
+      {
+        "text": "About",
+        "href": "/about"
+      },
+      {
+        "text": "Careers",
+        "href": "/careers"
+      }
+    ],
+    "buttons": [
+      "Try LangSmith",
+      "Get a demo",
+      "Try LangSmith",
+      "Get a demo",
+      "Start building",
+      "Get a demo",
+      "LangSmith Observability",
+      "LangSmith Evaluation",
+      "LangSmith Deployment",
+      "LangSmith Fleet",
+      "More customer stories",
+      "More use cases",
+      "Start building",
+      "Get a demo"
+    ],
+    "forms": [
+      {
+        "action": "https://langchain.us11.list-manage.com/subscribe/post?u=4ad47fb6a8889d6654064ff1b&amp;id=6bc1ef8ac4&",
+        "method": "post",
+        "fields": [
+          {
+            "type": "email",
+            "name": "EMAIL",
+            "placeholder": "Your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hutk",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ipAddress",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "pageUri",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "pageId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "pageName",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 78,
+    "images_count": 83,
+    "images_with_alt": 54,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ship agents thatworkwow"
+      },
+      {
+        "level": 2,
+        "text": "LangSmithpowerstopAIteams,fromstartupstoglobalenterprises"
+      },
+      {
+        "level": 2,
+        "text": "Learn from teams running agents in production"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by the largest builder community in AI"
+      },
+      {
+        "level": 2,
+        "text": "GetstartedwithLangSmith"
+      },
+      {
+        "level": 3,
+        "text": "LangSmith Agent Engineering Platform"
+      },
+      {
+        "level": 3,
+        "text": "Build with our open source frameworks"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "EMAIL",
+        "placeholder": "Your email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hutk",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ipAddress",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "pageUri",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "pageId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "pageName",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "LangSmith Platform",
+      "LangSmith Observability",
+      "LangSmith Evaluation",
+      "LangSmith Deployment",
+      "LangSmith Fleet",
+      "Deep Agents",
+      "LangChain",
+      "LangGraph",
+      "Blog",
+      "Customer Stories",
+      "Guides",
+      "LangChain Academy",
+      "Community",
+      "Events",
+      "Changelog",
+      "Docs",
+      "Support",
+      "About",
+      "Careers",
+      "Partners"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 18,
+    "has_og_tags": true,
+    "meta_description": "LangChain provides the engineering platform and open source frameworks developers use to build, test, and deploy reliable AI agents.",
+    "scripts_count": 52
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "N",
+      "enterprise_tier": "Y",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "Y",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "N",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "LangSmith Platform for AI agent management",
+      "Open source frameworks",
+      "LangChain Academy for learning"
+    ],
+    "confidence": "medium"
+  }
+}

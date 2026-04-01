@@ -1,0 +1,194 @@
+metadata:
+  industry: ecommerce_platforms
+  name: E-commerce Platform SaaS
+  category: Commerce
+  version: 1.0.0
+  generated_at: '2026-04-01T16:09:52.140111'
+  sites_analyzed: 30
+  sites:
+  - shopify
+  - bigcommerce
+  - woocommerce
+  - squarespace
+  - wix_ecommerce
+  - ecwid
+  - gumroad
+  - lemon_squeezy
+  - sellfy
+  - podia
+  - thinkific
+  - teachable
+  - kajabi
+  - payhip
+  - ko-fi
+  - paddle
+  - fastspring
+  - snipcart
+  - medusa
+  - saleor
+  - commercetools
+  - magento
+  - prestashop
+  - opencart
+  - volusion
+  - 3dcart
+  - webflow_ecommerce
+  - thrivecart
+  - samcart
+  - whop
+features:
+  critical:
+  - id: pricing_page
+    frequency: 28/28
+    percent: 100
+  - id: multiple_tiers
+    frequency: 27/28
+    percent: 100
+  - id: privacy_policy
+    frequency: 26/28
+    percent: 96
+  - id: terms_of_service
+    frequency: 26/28
+    percent: 96
+  - id: annual_discount
+    frequency: 20/28
+    percent: 91
+  - id: cookie_consent
+    frequency: 24/28
+    percent: 89
+  - id: signup_no_creditcard
+    frequency: 22/28
+    percent: 88
+  - id: blog
+    frequency: 24/28
+    percent: 86
+  - id: product_screenshots
+    frequency: 22/28
+    percent: 85
+  required:
+  - id: transparent_pricing
+    frequency: 23/28
+    percent: 82
+  - id: integrations_page
+    frequency: 22/28
+    percent: 81
+  - id: help_center
+    frequency: 22/28
+    percent: 81
+  - id: enterprise_tier
+    frequency: 22/28
+    percent: 79
+  - id: about_page
+    frequency: 21/28
+    percent: 78
+  - id: templates_available
+    frequency: 21/28
+    percent: 78
+  - id: contact_page
+    frequency: 21/28
+    percent: 78
+  - id: customer_logos
+    frequency: 20/28
+    percent: 74
+  - id: free_trial
+    frequency: 19/28
+    percent: 73
+  - id: multi_language
+    frequency: 19/28
+    percent: 73
+  - id: community_forum
+    frequency: 20/28
+    percent: 71
+  - id: api_documentation
+    frequency: 19/28
+    percent: 70
+  - id: gdpr_mentioned
+    frequency: 18/28
+    percent: 69
+  - id: feature_comparison_table
+    frequency: 17/28
+    percent: 65
+  recommended:
+  - id: free_tier
+    frequency: 18/28
+    percent: 64
+  - id: webhooks_support
+    frequency: 16/28
+    percent: 64
+  - id: careers_page
+    frequency: 16/28
+    percent: 59
+  - id: video_demo
+    frequency: 15/28
+    percent: 58
+  - id: github_presence
+    frequency: 15/28
+    percent: 58
+  - id: onboarding_video
+    frequency: 15/28
+    percent: 58
+  - id: case_studies
+    frequency: 15/28
+    percent: 56
+  - id: developer_portal
+    frequency: 13/28
+    percent: 50
+  - id: sdk_available
+    frequency: 12/28
+    percent: 48
+  - id: code_examples
+    frequency: 12/28
+    percent: 48
+  - id: live_chat
+    frequency: 12/28
+    percent: 48
+  nice_to_have:
+  - id: ios_app
+    frequency: 10/28
+    percent: 38
+  - id: android_app
+    frequency: 10/28
+    percent: 38
+  - id: changelog
+    frequency: 9/28
+    percent: 35
+  - id: status_page
+    frequency: 8/28
+    percent: 30
+  - id: social_signup
+    frequency: 8/28
+    percent: 30
+  - id: interactive_demo
+    frequency: 8/28
+    percent: 30
+  - id: security_page
+    frequency: 6/28
+    percent: 23
+  innovative:
+  - id: dpa_available
+    frequency: 3/28
+    percent: 12
+  - id: api_playground
+    frequency: 3/28
+    percent: 12
+  - id: soc2_mentioned
+    frequency: 1/28
+    percent: 4
+  - id: iso27001_mentioned
+    frequency: 1/28
+    percent: 4
+  - id: openapi_spec
+    frequency: 1/28
+    percent: 4
+  - id: roi_calculator
+    frequency: 1/28
+    percent: 4
+  - id: sla_published
+    frequency: 1/28
+    percent: 4
+  - id: desktop_app
+    frequency: 1/28
+    percent: 4
+  - id: browser_extension
+    frequency: 1/28
+    percent: 4

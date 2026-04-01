@@ -1,0 +1,160 @@
+{
+  "name": "flyio",
+  "url": "https://fly.io",
+  "scanned_at": "2026-04-01T15:40:44.396172",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/flyio_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/flyio_mobile.png"
+  },
+  "structure": {
+    "title": "Deploy app servers close to your users \u00b7 Fly",
+    "url_final": "https://fly.io/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "buttons": [
+      "Open main menu",
+      "Get Started",
+      "Sign In",
+      "Get Started",
+      "Deploy your app",
+      "Check Em Out!",
+      "Learn More",
+      "Phoenix Framework",
+      "SvelteKit",
+      "Ruby on Rails",
+      "Docker",
+      "Django",
+      "Laravel",
+      "NextJS",
+      "Build for scale from Day One",
+      "Enterprise Features",
+      "Fly.io Security",
+      "Spin Up a Sandbox"
+    ],
+    "forms": [],
+    "links_count": 104,
+    "images_count": 29,
+    "images_with_alt": 22,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Build fast.Run any codefearlessly."
+      },
+      {
+        "level": 2,
+        "text": "Modern Compute Without the Complexity"
+      },
+      {
+        "level": 2,
+        "text": "Sandboxes That Feel Like a Superpower"
+      },
+      {
+        "level": 2,
+        "text": "Storage That Keeps Up"
+      },
+      {
+        "level": 2,
+        "text": "Built-In Private Networking"
+      },
+      {
+        "level": 2,
+        "text": "VMs That Do Everything You Need"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "About",
+      "Pricing",
+      "Jobs",
+      "Blog",
+      "Phoenix Files",
+      "Laravel Bytes",
+      "Ruby Dispatch",
+      "Django Beats",
+      "JavaScript Journal",
+      "Docs",
+      "Customers",
+      "Support",
+      "Support Metrics",
+      "Status",
+      "GitHub",
+      "Twitter",
+      "Community",
+      "Security",
+      "Privacy policy"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": false,
+    "meta_description": "",
+    "scripts_count": 12
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Deploy app servers close to users",
+      "Modern compute without complexity",
+      "Built-in private networking"
+    ],
+    "confidence": "medium"
+  }
+}

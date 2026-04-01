@@ -1,0 +1,276 @@
+{
+  "name": "onedrive",
+  "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+  "scanned_at": "2026-04-01T17:50:57.408898",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/onedrive_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/onedrive_mobile.png"
+  },
+  "structure": {
+    "title": "Personal File Sharing & Cloud Storage | Microsoft OneDrive",
+    "url_final": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+    "nav_items": [
+      {
+        "text": "Home",
+        "href": "https://www.microsoft.com/en-us/microsoft-365"
+      },
+      {
+        "text": "OneDrive",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
+      },
+      {
+        "text": "Business",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/onedrive-for-business"
+      },
+      {
+        "text": "For home",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/onedrive-plans-and-pricing"
+      },
+      {
+        "text": "For business",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/onedrive-business-plans-and-pricing"
+      },
+      {
+        "text": "Document scanning",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/document-scanning"
+      },
+      {
+        "text": "Online photo storage",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-photo-storage"
+      },
+      {
+        "text": "Video storage",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/video-storage"
+      },
+      {
+        "text": "Free online cloud storage",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/free-online-cloud-storage/"
+      },
+      {
+        "text": "Personal Vault",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/personal-vault "
+      },
+      {
+        "text": "PC folder backup",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/pc-cloud-backup"
+      },
+      {
+        "text": "How-to",
+        "href": "https://support.office.com/en-us/onedrive"
+      },
+      {
+        "text": "Partners",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive-for-business/apps-that-work-with-onedrive"
+      },
+      {
+        "text": "Customer stories",
+        "href": "https://customers.microsoft.com/en-US/search?sq=%22OneDrive%20for%20Business%20Online%22&ff=&p=2&so="
+      },
+      {
+        "text": "Graduation",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/graduation"
+      },
+      {
+        "text": "Copilot learning center",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/copilot-learning-center"
+      },
+      {
+        "text": "Download",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/download"
+      }
+    ],
+    "buttons": [
+      "Accept",
+      "Reject",
+      "Manage cookies",
+      "Microsoft 365",
+      "Plans and pricing",
+      "Features",
+      "Resources",
+      "More",
+      "All Microsoft",
+      "Software",
+      "PCs & Devices",
+      "Entertainment",
+      "Business",
+      "Developer & IT",
+      "Other",
+      "SearchSearch Microsoft 365",
+      "Cancel",
+      "Back up and protect",
+      "Access from anywhere",
+      "Rediscover and share",
+      "Copilot in OneDrive",
+      "Previous"
+    ],
+    "forms": [
+      {
+        "action": "https://www.microsoft.com/en-us/microsoft-365/site-search",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search Microsoft 365"
+          }
+        ]
+      }
+    ],
+    "links_count": 303,
+    "images_count": 136,
+    "images_with_alt": 113,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Microsoft OneDrive"
+      },
+      {
+        "level": 1,
+        "text": "Microsoft OneDrive"
+      },
+      {
+        "level": 1,
+        "text": "OneDrive for business (Plan 1)"
+      },
+      {
+        "level": 2,
+        "text": "Global"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Download the free app designed for your phone"
+      },
+      {
+        "level": 2,
+        "text": "Securely save and share what's important"
+      },
+      {
+        "level": 2,
+        "text": "OneDrive for all your devices"
+      },
+      {
+        "level": 3,
+        "text": "For your desktop"
+      },
+      {
+        "level": 3,
+        "text": "For your phone"
+      },
+      {
+        "level": 3,
+        "text": "For your Xbox"
+      },
+      {
+        "level": 3,
+        "text": "Access and edit your files from anywhere"
+      },
+      {
+        "level": 3,
+        "text": "Digitize your life"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Search Microsoft 365"
+      }
+    ],
+    "footer_links": [
+      "Surface Pro",
+      "Surface Laptop",
+      "Surface Laptop Studio 2",
+      "Copilot for organizations",
+      "Copilot for personal use",
+      "AI in Windows",
+      "Explore Microsoft products",
+      "Windows 11 apps",
+      "Account profile",
+      "Download Center",
+      "Microsoft Store support",
+      "Returns",
+      "Order tracking",
+      "Certified Refurbished",
+      "Microsoft Store Promise",
+      "Flexible Payments",
+      "Microsoft in education",
+      "Devices for education",
+      "Microsoft Teams for Education",
+      "Microsoft 365 Education"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 430,
+    "has_og_tags": true,
+    "meta_description": "Discover OneDrive for secure and convenient file and document sharing. Get personal cloud storage for seamless file sharing with your family and friends.",
+    "scripts_count": 90
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Personal Vault for secure storage",
+      "Integration with Microsoft 365",
+      "Document scanning feature",
+      "PC folder backup"
+    ],
+    "confidence": "high"
+  }
+}

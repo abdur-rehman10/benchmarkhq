@@ -1,0 +1,279 @@
+{
+  "name": "sketch",
+  "url": "https://www.sketch.com",
+  "scanned_at": "2026-04-01T15:27:41.344394",
+  "screenshots": {
+    "desktop": "data/design_creative/2026-04-01/screenshots/sketch_desktop.png",
+    "mobile": "data/design_creative/2026-04-01/screenshots/sketch_mobile.png"
+  },
+  "structure": {
+    "title": "Sketch \u00b7 Design, prototype, collaborate and handoff",
+    "url_final": "https://www.sketch.com/",
+    "nav_items": [
+      {
+        "text": "Sketch",
+        "href": "/"
+      },
+      {
+        "text": "Sign In",
+        "href": "/signin/"
+      },
+      {
+        "text": "DesignCreate with precision",
+        "href": "/design/"
+      },
+      {
+        "text": "CollaborationWork better, together",
+        "href": "/collaborate/"
+      },
+      {
+        "text": "PrototypingBring ideas to life",
+        "href": "/prototype/"
+      },
+      {
+        "text": "Developer HandoffFrom design to code",
+        "href": "/handoff/"
+      },
+      {
+        "text": "All Features",
+        "href": "/features/"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog/"
+      },
+      {
+        "text": "NewWeb layer list and inspector improvements12 Mar",
+        "href": "/changelog/web-layer-list-and-inspector-improvements/"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog/"
+      },
+      {
+        "text": "Design Resources",
+        "href": "/design-resources/"
+      },
+      {
+        "text": "Extensions & Plugins",
+        "href": "/extensions/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Help Center",
+        "href": "/support/"
+      },
+      {
+        "text": "Documentation",
+        "href": "/docs/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "/support/contact/"
+      },
+      {
+        "text": "Community Discord",
+        "href": "https://discord.gg/ascPpfDSSV"
+      },
+      {
+        "text": "Sign In",
+        "href": "/signin/"
+      },
+      {
+        "text": "Get startedDownload",
+        "href": "/downloads/mac/"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "icon-close",
+      "Sign up",
+      "Get startedDownload",
+      "Get started",
+      "Get started for free",
+      "Designing in Sketch",
+      "Prototyping in Sketch",
+      "Collaboration in Sketch",
+      "What makes us different?",
+      "Get started for free"
+    ],
+    "forms": [
+      {
+        "action": "/.netlify/functions/marketing-communications",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email address"
+          },
+          {
+            "type": "checkbox",
+            "name": "gdpr",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 97,
+    "images_count": 26,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Designers, welcome home."
+      },
+      {
+        "level": 2,
+        "text": "Design without distractions"
+      },
+      {
+        "level": 2,
+        "text": "Test your ideas faster"
+      },
+      {
+        "level": 2,
+        "text": "Take your work further"
+      },
+      {
+        "level": 2,
+        "text": "Discover a better way to design"
+      },
+      {
+        "level": 2,
+        "text": "Never miss an update"
+      },
+      {
+        "level": 3,
+        "text": "New in Sketch: Get full control over what you share"
+      },
+      {
+        "level": 3,
+        "text": "New in Sketch: Better link previews in Slack"
+      },
+      {
+        "level": 3,
+        "text": "New in Sketch: A better Inspect mode"
+      },
+      {
+        "level": 3,
+        "text": "New in Sketch: Faster Workspace organization"
+      },
+      {
+        "level": 3,
+        "text": "Flexible foundations"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Changelog",
+      "Design",
+      "Collaboration",
+      "Prototyping",
+      "Developer Handoff",
+      "All Features",
+      "View & Mirror on iOS",
+      "Beta",
+      "Design Resources",
+      "Blog",
+      "Extensions & Plugins",
+      "Figma to Sketch",
+      "Pricing",
+      "Roadmap",
+      "Free for Education",
+      "Help Center",
+      "Documentation",
+      "Community Discord",
+      "Developer Platform",
+      "Service Status"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "Sketch puts the focus back on you and your work. Made by designers, for designers.",
+    "scripts_count": 9
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "N",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Design and prototyping tools",
+      "Collaboration features",
+      "Developer handoff capabilities"
+    ],
+    "confidence": "high"
+  }
+}

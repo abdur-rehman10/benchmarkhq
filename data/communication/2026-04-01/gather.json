@@ -1,0 +1,152 @@
+{
+  "name": "gather",
+  "url": "https://www.gather.town",
+  "scanned_at": "2026-04-01T15:54:58.940317",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/gather_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/gather_mobile.png"
+  },
+  "structure": {
+    "title": "Gather | Virtual Workspace for Remote Teams",
+    "url_final": "https://www.gather.town/",
+    "nav_items": [],
+    "buttons": [],
+    "forms": [],
+    "links_count": 39,
+    "images_count": 18,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "A virtual workspace that feels refreshingly human"
+      },
+      {
+        "level": 2,
+        "text": "Collaborate instantly"
+      },
+      {
+        "level": 2,
+        "text": "Minimize distractions"
+      },
+      {
+        "level": 2,
+        "text": "What if remote work felt less... remote?"
+      },
+      {
+        "level": 2,
+        "text": "10K+ teams collaborate faster with Gather"
+      },
+      {
+        "level": 2,
+        "text": "The first 30 days are on us"
+      },
+      {
+        "level": 3,
+        "text": "See who's free"
+      },
+      {
+        "level": 3,
+        "text": "Wave them over"
+      },
+      {
+        "level": 3,
+        "text": "Hear nearby conversations"
+      },
+      {
+        "level": 3,
+        "text": "Join in a click"
+      },
+      {
+        "level": 3,
+        "text": "Simplify Your View"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Start free 30-day trial",
+      "Features",
+      "Pricing",
+      "Download",
+      "What's new",
+      "Testimonials",
+      "Blog",
+      "Help center",
+      "Status",
+      "Careers",
+      "Contact sales",
+      "Privacy & security",
+      "Legal policies",
+      "Log in",
+      "Create new"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Meet, chat, and work together like you\u2019re in person. See who's around, wave hello, and have quick interactions without scheduling a thing.",
+    "scripts_count": 12
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Virtual workspace with human-like interaction",
+      "Free 30-day trial",
+      "Focus on minimizing distractions"
+    ],
+    "confidence": "medium"
+  }
+}

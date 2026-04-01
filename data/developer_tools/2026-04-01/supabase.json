@@ -1,0 +1,231 @@
+{
+  "name": "supabase",
+  "url": "https://supabase.com",
+  "scanned_at": "2026-04-01T15:39:21.310915",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/supabase_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/supabase_mobile.png"
+  },
+  "structure": {
+    "title": "Supabase | The Postgres Development Platform.",
+    "url_final": "https://supabase.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "100K",
+        "href": "https://github.com/supabase/supabase"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://supabase.com/dashboard"
+      },
+      {
+        "text": "Start your project",
+        "href": "https://supabase.com/dashboard/sign-up"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Developers",
+      "Solutions",
+      "Open main menu",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "View Template",
+      "Table Editor",
+      "SQL Editor",
+      "RLS Policies",
+      "Subscribe",
+      "Privacy Settings",
+      "Toggle theme",
+      "Sign in",
+      "Request a demo",
+      "View events",
+      "View all examples",
+      "Official GitHub library",
+      "Join us on Discord",
+      "@supabase100K",
+      "Request a demo"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 204,
+    "images_count": 185,
+    "images_with_alt": 185,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Build in a weekendScale to millions"
+      },
+      {
+        "level": 2,
+        "text": "Postgres Database"
+      },
+      {
+        "level": 2,
+        "text": "Authentication"
+      },
+      {
+        "level": 2,
+        "text": "Edge Functions"
+      },
+      {
+        "level": 2,
+        "text": "Storage"
+      },
+      {
+        "level": 2,
+        "text": "Realtime"
+      },
+      {
+        "level": 3,
+        "text": "Trusted by the world\u2019smost innovative companies."
+      },
+      {
+        "level": 3,
+        "text": "Start building in seconds"
+      },
+      {
+        "level": 3,
+        "text": "Stay productive and manage your appwithout leaving the dashboard"
+      },
+      {
+        "level": 3,
+        "text": "Join the community"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Your email"
+      }
+    ],
+    "footer_links": [
+      "More on Security",
+      "Twitter",
+      "GitHub",
+      "Discord",
+      "Youtube",
+      "TikTok",
+      "Instagram",
+      "Pricing",
+      "Database",
+      "Auth",
+      "Functions",
+      "Realtime",
+      "Storage",
+      "Vector",
+      "Cron",
+      "Feature Catalog",
+      "Launch Week",
+      "AI Builders",
+      "No Code"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for free.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Postgres Database",
+      "Authentication",
+      "Edge Functions",
+      "Realtime capabilities"
+    ],
+    "confidence": "high"
+  }
+}

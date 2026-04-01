@@ -1,0 +1,415 @@
+{
+  "name": "bynder",
+  "url": "https://www.bynder.com",
+  "scanned_at": "2026-04-01T17:58:35.688686",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/bynder_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/bynder_mobile.png"
+  },
+  "structure": {
+    "title": "Bynder - The most intuitive enterprise DAM platform",
+    "url_final": "https://www.bynder.com/en/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.bynder.com/en/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "English",
+        "href": "https://www.bynder.com/en/"
+      },
+      {
+        "text": "Deutsch",
+        "href": "https://www.bynder.com/de/"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "https://www.bynder.com/fr/"
+      },
+      {
+        "text": "Nederlands",
+        "href": "https://www.bynder.com/nl/"
+      },
+      {
+        "text": "Espa\u00f1ol",
+        "href": "https://www.bynder.com/es/"
+      },
+      {
+        "text": "Italiano",
+        "href": "https://www.bynder.com/it/"
+      },
+      {
+        "text": "Norsk",
+        "href": "https://www.bynder.com/no/"
+      },
+      {
+        "text": "Svenska",
+        "href": "https://www.bynder.com/se/"
+      },
+      {
+        "text": "Dansk",
+        "href": "https://www.bynder.com/dk/"
+      },
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "Digital Asset ManagementCentralize and manage your",
+        "href": "https://www.bynder.com/en/products/digital-asset-management/"
+      },
+      {
+        "text": "AI AgentsCreate customizable, context-aware AI age",
+        "href": "https://www.bynder.com/en/products/ai-agents/"
+      },
+      {
+        "text": "Bynder AIYour competitive edge starts with Bynder\u00a0",
+        "href": "https://www.bynder.com/en/products/ai/"
+      },
+      {
+        "text": "CX User CommunityConnect content to business\u00a0growt",
+        "href": "https://www.bynder.com/en/products/content-experiences-for-user-community/"
+      },
+      {
+        "text": "CX OmnichannelOptimized content experiences across",
+        "href": "https://www.bynder.com/en/products/content-experiences-for-omnichannel/"
+      },
+      {
+        "text": "Asset WorkflowSpeed up content approvals and stay ",
+        "href": "https://www.bynder.com/en/products/asset-workflow/"
+      }
+    ],
+    "buttons": [
+      "Choose a time",
+      "Book a demo",
+      "Download features overview",
+      "Book a demo",
+      "Download features overview",
+      "Schedule a demo",
+      "Get pricing info",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Get the report",
+      "Discover Bynder\u2019s AI\u2011powered\u00a0DAMFree consultation,",
+      "Explore integrations",
+      "Sign up"
+    ],
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": "First name"
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": "Last name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Business email"
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": "Company name"
+          },
+          {
+            "type": "hidden",
+            "name": "country",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_campaign",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 135,
+    "images_count": 176,
+    "images_with_alt": 176,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The next era of digital asset management"
+      },
+      {
+        "level": 2,
+        "text": "Proudly supporting our 4000+ customers to grow and thrive"
+      },
+      {
+        "level": 2,
+        "text": "Your business, your AI\u00a0rules"
+      },
+      {
+        "level": 2,
+        "text": "The system of record for your digital content across all systems and channels"
+      },
+      {
+        "level": 2,
+        "text": "Elevate your marketing strategy with Bynder AI"
+      },
+      {
+        "level": 2,
+        "text": "The world's most interconnected DAM"
+      },
+      {
+        "level": 3,
+        "text": "Digital Asset Management"
+      },
+      {
+        "level": 3,
+        "text": "CX Omnichannel"
+      },
+      {
+        "level": 3,
+        "text": "Studio"
+      },
+      {
+        "level": 3,
+        "text": "Analytics"
+      },
+      {
+        "level": 3,
+        "text": "CX User Community"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": "First name"
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": "Last name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Business email"
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": "Company name"
+      },
+      {
+        "type": "hidden",
+        "name": "country",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "urlreferrer",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "GCLID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "leadsource",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "webcheckthis",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "URL",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "All_URL",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About Bynder",
+      "Bynder Brand Promise",
+      "Careers",
+      "Customer Champion Program",
+      "Bynder Connect",
+      "Contact",
+      "Security",
+      "Legal",
+      "Bynder & GDPR",
+      "Bynder & CCPA",
+      "Bynder & ESG",
+      "Status",
+      "Roadmap",
+      "Developers Portal",
+      "The Digital Advantage",
+      "Features Index",
+      "Glossary",
+      "Webdam",
+      "Sign up"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Create, manage, and distribute content at scale with the world's most interconnected digital asset management platform.",
+    "scripts_count": 21
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered DAM",
+      "Extensive language support",
+      "Strong focus on digital asset management"
+    ],
+    "confidence": "high"
+  }
+}

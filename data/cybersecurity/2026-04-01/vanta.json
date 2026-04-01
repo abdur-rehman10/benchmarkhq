@@ -1,0 +1,499 @@
+{
+  "name": "vanta",
+  "url": "https://www.vanta.com",
+  "scanned_at": "2026-04-01T16:24:51.570074",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/vanta_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/vanta_mobile.png"
+  },
+  "structure": {
+    "title": "SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance",
+    "url_final": "https://www.vanta.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Products",
+        "href": "#w-tabs-0-data-w-pane-0"
+      },
+      {
+        "text": "Platform",
+        "href": "#w-tabs-0-data-w-pane-1"
+      },
+      {
+        "text": "ComplianceGet compliant quickly and painlessly wit",
+        "href": "/products/automated-compliance"
+      },
+      {
+        "text": "Continuous GRCJoin the modern way to GRC.",
+        "href": "/products/grc"
+      },
+      {
+        "text": "Personnel and AccessEasily control user access and",
+        "href": "/products/personnel-access"
+      },
+      {
+        "text": "Risk ManagementProactively manage risk to drive sm",
+        "href": "/products/risk"
+      },
+      {
+        "text": "Third Party Risk ManagementManage vendor onboardin",
+        "href": "/products/third-party-risk-management"
+      },
+      {
+        "text": "Questionnaire AutomationAutomate security question",
+        "href": "/products/questionnaire-automation"
+      },
+      {
+        "text": "Trust CenterShowcase your compliance status and do",
+        "href": "/products/trust-center"
+      },
+      {
+        "text": "Streamlined auditsAutomate audit prep and evidence",
+        "href": "/products/audit"
+      },
+      {
+        "text": "Customer CommitmentsCentralize, track and act on e",
+        "href": "/products/customer-commitments"
+      },
+      {
+        "text": "Vanta AIAutomate compliance and uncover insights w",
+        "href": "/products/ai"
+      },
+      {
+        "text": "Agentic Trust PlatformBuild and prove trust from a",
+        "href": "/trust-management-platform"
+      },
+      {
+        "text": "IntegrationsAutomatically pull data from 400+ tool",
+        "href": "/integrations"
+      },
+      {
+        "text": "Vanta APIBuild custom integrations and workflows.",
+        "href": "/products/vanta-api"
+      },
+      {
+        "text": "Find out what Vanta can do for your businessBook a",
+        "href": "/demo"
+      },
+      {
+        "text": "ComplianceGet compliant quickly and painlessly wit",
+        "href": "/products/automated-compliance"
+      },
+      {
+        "text": "Personnel and AccessEasily control user access and",
+        "href": "/products/personnel-access"
+      },
+      {
+        "text": "Risk ManagementProactively manage risk to drive sm",
+        "href": "/products/risk"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Manage Preferences",
+      "Close Cookie Preferences",
+      "All frameworks",
+      "All frameworks",
+      "Log in",
+      "Request a demo",
+      "Get a personalized demo",
+      "Contact sales",
+      "Log in",
+      "All frameworks",
+      "All frameworks",
+      "Log in",
+      "Request a demo",
+      "Get a personalized demo",
+      "Contact sales",
+      "Log in",
+      "Register now",
+      "Request a demo",
+      "Explore startup solutions",
+      "Explore mid-market solutions",
+      "Explore enterprise solutions",
+      "Read the excerpt",
+      "Read the white paper",
+      "Learn more",
+      "Learn more",
+      "Read more",
+      "Read more",
+      "Read more"
+    ],
+    "forms": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/8588479/38e202f8-6c49-493",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email*"
+          },
+          {
+            "type": "hidden",
+            "name": "utm_campaign",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clearbit_company_state",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clearbit_company_domain",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hubspotutk",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gclid",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": "Email*"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "cf-turnstile-response",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "Compliance",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Risk-Management",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Vendor-Risk",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Trust-Center",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Questionnaires",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "Frameworks",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "cf-turnstile-response",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 404,
+    "images_count": 79,
+    "images_with_alt": 63,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Automate compliance, manage risk, and accelerate trust with AI"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by 15,000+ customers, from startup to enterprise"
+      },
+      {
+        "level": 2,
+        "text": "The AITrust Management Platform"
+      },
+      {
+        "level": 2,
+        "text": "The Agentic Trust Platform"
+      },
+      {
+        "level": 2,
+        "text": "VantaCon 2024:Beyond the Standard"
+      },
+      {
+        "level": 2,
+        "text": "Support for 35+ leading compliance frameworks\u2014across information security, data "
+      },
+      {
+        "level": 3,
+        "text": "Startup"
+      },
+      {
+        "level": 3,
+        "text": "Mid-market"
+      },
+      {
+        "level": 3,
+        "text": "Enterprise"
+      },
+      {
+        "level": 3,
+        "text": "Service providers"
+      },
+      {
+        "level": 3,
+        "text": "Auditors"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email*"
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clearbit_company_state",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clearbit_company_domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hubspotutk",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "last_converting_webpage",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "last_form_conversion_type",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": "Email*"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Compliance",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Risk-Management",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Vendor-Risk",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Automated Compliance",
+      "Continuous GRC",
+      "Third Party Risk Management",
+      "Streamlined Audits",
+      "Questionnaire Automation",
+      "Risk Management",
+      "Trust Center",
+      "Personnel and Access",
+      "Customer Commitments",
+      "SOC 2",
+      "ISO 27001",
+      "GDPR",
+      "HIPAA",
+      "HITRUST",
+      "USDP",
+      "NIST AI RMF",
+      "ISO 42001",
+      "CMMC",
+      "CJIS",
+      "NIS2"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 41,
+    "has_og_tags": true,
+    "meta_description": "Vanta automates the complex and time-consuming process of SOC 2, HIPAA, ISO 27001, PCI, and GDPR compliance certification. Automate your security monitoring in weeks instead of months.",
+    "scripts_count": 94
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Automated compliance management",
+      "AI-driven insights",
+      "Extensive compliance framework support",
+      "Integration with 400+ tools"
+    ],
+    "confidence": "high"
+  }
+}

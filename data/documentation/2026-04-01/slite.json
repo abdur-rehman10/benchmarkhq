@@ -1,0 +1,213 @@
+{
+  "name": "slite",
+  "url": "https://slite.com",
+  "scanned_at": "2026-04-01T17:41:19.591826",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/slite_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/slite_mobile.png"
+  },
+  "structure": {
+    "title": "Slite | AI-powered knowledge base",
+    "url_final": "https://slite.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "FeaturesLearn how Slite works",
+        "href": "/features"
+      },
+      {
+        "text": "DocumentsTry our Editor live",
+        "href": "/editor"
+      },
+      {
+        "text": "AskUse AI to ask your knowledge base questions",
+        "href": "/ask"
+      },
+      {
+        "text": "TemplatesExplore the library",
+        "href": "/templates"
+      },
+      {
+        "text": "IntegrationsSee how Slite integrates with your exi",
+        "href": "/integrations"
+      },
+      {
+        "text": "Download appAvailable on Mac, Windows, iOS and And",
+        "href": "/download"
+      },
+      {
+        "text": "Knowledge SuiteNew",
+        "href": "/suite"
+      },
+      {
+        "text": "IT & Operations",
+        "href": "/solutions/it-operations"
+      },
+      {
+        "text": "Product & Engineering",
+        "href": "/solutions/product-engineering"
+      },
+      {
+        "text": "Human Resources",
+        "href": "/solutions/human-resources"
+      },
+      {
+        "text": "Customer Support",
+        "href": "/solutions/customer-support"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Resources hubA library of guides, tools and more",
+        "href": "/resources"
+      },
+      {
+        "text": "BlogReadings about the future of team knowledge",
+        "href": "/blog"
+      },
+      {
+        "text": "Help centerAdvice and answers from the Slite Team",
+        "href": "https://help.slite.com"
+      },
+      {
+        "text": "Sign in",
+        "href": "/organization/select"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/book-demo"
+      },
+      {
+        "text": "Start for free",
+        "href": "/organization/create"
+      }
+    ],
+    "buttons": [
+      "Do Not Sell or Share My Personal Information",
+      "Cancel",
+      "Save My Preferences",
+      "Product",
+      "Solutions",
+      "Resources",
+      "Explore Super",
+      "Cookie settings"
+    ],
+    "forms": [],
+    "links_count": 85,
+    "images_count": 26,
+    "images_with_alt": 6,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Where knowledgegoes to diethrives"
+      },
+      {
+        "level": 2,
+        "text": "Knowledge bases get messy. Slite doesn't."
+      },
+      {
+        "level": 2,
+        "text": "Docs that work for everyone"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by teams like yours"
+      },
+      {
+        "level": 2,
+        "text": "The Slite edge, in our customer words"
+      },
+      {
+        "level": 2,
+        "text": "Scales with your ambitions"
+      },
+      {
+        "level": 3,
+        "text": "Ask beyond Slite,across all your tools"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "Discover Slite's AI powered knowledge base for quick access to trusted company info. Simply ask Slite and get the answers you need. Start for free.",
+    "scripts_count": 15
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered knowledge base",
+      "Live editor",
+      "Extensive template library",
+      "Integrations with existing tools"
+    ],
+    "confidence": "high"
+  }
+}

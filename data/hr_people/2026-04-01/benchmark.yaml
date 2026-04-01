@@ -1,0 +1,194 @@
+metadata:
+  industry: hr_people
+  name: HR & People SaaS
+  category: HR
+  version: 1.0.0
+  generated_at: '2026-04-01T15:26:53.363794'
+  sites_analyzed: 30
+  sites:
+  - bamboohr
+  - gusto_hr
+  - rippling
+  - deel_hr
+  - remote_hr
+  - personio
+  - bob
+  - oyster
+  - lattice
+  - culture_amp
+  - 15five
+  - workday
+  - namely
+  - paycor
+  - paylocity
+  - adp
+  - greenhouse
+  - lever
+  - ashby
+  - breezy_hr
+  - jazzhr
+  - workable
+  - leapsome
+  - charlie_hr
+  - factorial
+  - kenjo
+  - sage_hr
+  - zoho_people
+  - keka
+  - greythr
+features:
+  critical:
+  - id: pricing_page
+    frequency: 29/29
+    percent: 100
+  - id: multiple_tiers
+    frequency: 28/29
+    percent: 100
+  - id: enterprise_tier
+    frequency: 28/29
+    percent: 100
+  - id: annual_discount
+    frequency: 24/29
+    percent: 100
+  - id: integrations_page
+    frequency: 28/29
+    percent: 100
+  - id: blog
+    frequency: 28/29
+    percent: 97
+  - id: about_page
+    frequency: 27/29
+    percent: 96
+  - id: gdpr_mentioned
+    frequency: 25/29
+    percent: 96
+  - id: privacy_policy
+    frequency: 27/29
+    percent: 96
+  - id: terms_of_service
+    frequency: 27/29
+    percent: 96
+  - id: customer_logos
+    frequency: 25/29
+    percent: 93
+  - id: case_studies
+    frequency: 26/29
+    percent: 93
+  - id: product_screenshots
+    frequency: 25/29
+    percent: 93
+  - id: careers_page
+    frequency: 26/29
+    percent: 93
+  - id: cookie_consent
+    frequency: 26/29
+    percent: 93
+  - id: help_center
+    frequency: 25/29
+    percent: 93
+  - id: contact_page
+    frequency: 26/29
+    percent: 93
+  - id: multi_language
+    frequency: 26/29
+    percent: 93
+  - id: interactive_demo
+    frequency: 24/29
+    percent: 86
+  required:
+  - id: free_trial
+    frequency: 23/29
+    percent: 82
+  - id: signup_no_creditcard
+    frequency: 21/29
+    percent: 81
+  - id: video_demo
+    frequency: 22/29
+    percent: 79
+  - id: onboarding_video
+    frequency: 22/29
+    percent: 79
+  - id: security_page
+    frequency: 21/29
+    percent: 75
+  - id: feature_comparison_table
+    frequency: 20/29
+    percent: 74
+  - id: templates_available
+    frequency: 19/29
+    percent: 73
+  - id: live_chat
+    frequency: 19/29
+    percent: 70
+  - id: api_documentation
+    frequency: 18/29
+    percent: 67
+  recommended:
+  - id: ios_app
+    frequency: 18/29
+    percent: 64
+  - id: android_app
+    frequency: 18/29
+    percent: 64
+  - id: dpa_available
+    frequency: 15/29
+    percent: 58
+  - id: soc2_mentioned
+    frequency: 15/29
+    percent: 54
+  - id: webhooks_support
+    frequency: 13/29
+    percent: 50
+  - id: code_examples
+    frequency: 12/29
+    percent: 46
+  - id: developer_portal
+    frequency: 11/29
+    percent: 41
+  nice_to_have:
+  - id: transparent_pricing
+    frequency: 11/29
+    percent: 39
+  - id: sdk_available
+    frequency: 9/29
+    percent: 35
+  - id: status_page
+    frequency: 7/29
+    percent: 25
+  - id: github_presence
+    frequency: 6/29
+    percent: 22
+  - id: community_forum
+    frequency: 5/29
+    percent: 19
+  - id: roi_calculator
+    frequency: 4/29
+    percent: 15
+  innovative:
+  - id: free_tier
+    frequency: 4/29
+    percent: 14
+  - id: changelog
+    frequency: 4/29
+    percent: 14
+  - id: iso27001_mentioned
+    frequency: 4/29
+    percent: 14
+  - id: openapi_spec
+    frequency: 2/29
+    percent: 8
+  - id: sla_published
+    frequency: 2/29
+    percent: 7
+  - id: api_playground
+    frequency: 1/29
+    percent: 4
+  - id: social_signup
+    frequency: 1/29
+    percent: 4
+  - id: desktop_app
+    frequency: 1/29
+    percent: 4
+  - id: browser_extension
+    frequency: 1/29
+    percent: 4

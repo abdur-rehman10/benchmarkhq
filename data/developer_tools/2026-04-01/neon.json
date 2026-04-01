@@ -1,0 +1,248 @@
+{
+  "name": "neon",
+  "url": "https://neon.tech",
+  "scanned_at": "2026-04-01T15:40:02.110829",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/neon_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/neon_mobile.png"
+  },
+  "structure": {
+    "title": "Neon Serverless Postgres \u2014 Ship faster",
+    "url_final": "https://neon.com/",
+    "nav_items": [
+      {
+        "text": "Docs",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=pricing"
+      },
+      {
+        "text": "Neon's lakebase architectureStorage-compute separa",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/introduction/architecture-over"
+      },
+      {
+        "text": "AutoscalingAutomatic instance sizing",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/introduction/autoscaling"
+      },
+      {
+        "text": "Read ReplicasInstant, autoscaling replicas",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/introduction/read-replicas"
+      },
+      {
+        "text": "Instant RestoreInstant recovery when mistakes happ",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/introduction/branch-restore"
+      },
+      {
+        "text": "Database BranchesFaster Postgres workflows",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=branching"
+      },
+      {
+        "text": "AuthenticationAuth for your App, built in to your ",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/neon-auth/overview"
+      },
+      {
+        "text": "Data APIREST HTTP API for your database",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/data-api/get-started"
+      },
+      {
+        "text": "Connection PoolingEfficiently manage database conn",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/connect/connection-pooling"
+      },
+      {
+        "text": "What is NeonServerless Postgres, by Databricks",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/get-started/why-neon"
+      },
+      {
+        "text": "Serverless AppAutoscale with traffic",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=use-cases/serverless-apps"
+      },
+      {
+        "text": "Multi-TBScale and restore instantly",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=use-cases/multi-tb"
+      },
+      {
+        "text": "Database per tenantData isolation without overhead",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=use-cases/database-per-tenant"
+      },
+      {
+        "text": "PlatformsOffer Postgres for your users",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=platforms"
+      },
+      {
+        "text": "Dev/TestsProduction-like environment",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=use-cases/dev-test"
+      },
+      {
+        "text": "AgentsBuild full-stack AI agents",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=use-cases/ai-agents"
+      },
+      {
+        "text": "BlogTechnical posts & product updates",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=blog"
+      },
+      {
+        "text": "Case studiesExplore customer stories",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=case-studies"
+      },
+      {
+        "text": "ChangelogProduct updates",
+        "href": "https://neon.tech/unify?a=766d167a-be27-4388-82c7-f728f37d9ef9&n=docs/changelog"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "$npx neonctl init",
+      "Avoid incidents",
+      "Save costs",
+      "Run Query",
+      "$npx neonctl init"
+    ],
+    "forms": [],
+    "links_count": 79,
+    "images_count": 40,
+    "images_with_alt": 3,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Fast Postgres Databasesfor Teams and Agents"
+      },
+      {
+        "level": 2,
+        "text": "Postgres for the AI Engineering era.Integrate with a single command and the LLM "
+      },
+      {
+        "level": 2,
+        "text": "Advanced autoscaling.Keep scaling without worrying about capacity. Never overpay"
+      },
+      {
+        "level": 2,
+        "text": "Instant branching.Develop and test with efficient copies of any database to elim"
+      },
+      {
+        "level": 2,
+        "text": "Authentication included, free.Simplify your application with user authentication"
+      },
+      {
+        "level": 2,
+        "text": "No platform fees.Enterprise-grade features available to everyone, without fixed "
+      },
+      {
+        "level": 3,
+        "text": "Copy-on-write"
+      },
+      {
+        "level": 3,
+        "text": "Anonymization"
+      },
+      {
+        "level": 3,
+        "text": "Ephemerality"
+      },
+      {
+        "level": 3,
+        "text": "Deploy thousands of databases that turn off when idle.Inactive databases pause o"
+      },
+      {
+        "level": 3,
+        "text": "Manage your fleet via API.Neon databases spin up in milliseconds, with APIs for "
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Neon",
+      "Neon status loading...",
+      "About",
+      "Blog",
+      "Careers",
+      "Contact Sales",
+      "Security",
+      "Privacy Policy",
+      "Terms of Service",
+      "DPA",
+      "Subprocessors List",
+      "Cookie Policy",
+      "Business Information",
+      "Docs",
+      "Changelog",
+      "Support",
+      "Community Guides",
+      "PostgreSQL Tutorial",
+      "Startups",
+      "Discord"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 11,
+    "has_og_tags": true,
+    "meta_description": "The database you love, on a serverless platform designed to help you build reliable and scalable applications faster.",
+    "scripts_count": 131
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "N",
+      "templates_available": "U",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Serverless Postgres",
+      "Advanced autoscaling",
+      "Instant branching",
+      "Authentication included"
+    ],
+    "confidence": "medium"
+  }
+}

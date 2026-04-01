@@ -1,0 +1,346 @@
+{
+  "name": "confluence",
+  "url": "https://www.atlassian.com/software/confluence",
+  "scanned_at": "2026-04-01T17:39:08.118507",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/confluence_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/confluence_mobile.png"
+  },
+  "structure": {
+    "title": "Confluence | AI Workspace for Knowledge & Collaboration",
+    "url_final": "https://www.atlassian.com/software/confluence",
+    "nav_items": [
+      {
+        "text": "Skip to content",
+        "href": "#content"
+      },
+      {
+        "text": "Confluence",
+        "href": "/software/confluence"
+      },
+      {
+        "text": "Features",
+        "href": "#"
+      },
+      {
+        "text": "All Features",
+        "href": "/software/confluence/features"
+      },
+      {
+        "text": "Rovo in Confluence",
+        "href": "/software/confluence/ai"
+      },
+      {
+        "text": "Resources",
+        "href": "/software/confluence/resources"
+      },
+      {
+        "text": "Templates",
+        "href": "#"
+      },
+      {
+        "text": "All templates",
+        "href": "/software/confluence/templates"
+      },
+      {
+        "text": "Design",
+        "href": "/software/confluence/templates/categories/design"
+      },
+      {
+        "text": "Finance & Ops",
+        "href": "/software/confluence/templates/categories/finance-and-operations"
+      },
+      {
+        "text": "Human Resources",
+        "href": "/software/confluence/templates/categories/human-resources"
+      },
+      {
+        "text": "Marketing & Sales",
+        "href": "/software/confluence/templates/categories/marketing-and-sales"
+      },
+      {
+        "text": "Product Management",
+        "href": "/software/confluence/templates/categories/product-management"
+      },
+      {
+        "text": "Project Management",
+        "href": "/software/confluence/templates/categories/project-management"
+      },
+      {
+        "text": "Recommended",
+        "href": "/software/confluence/templates/categories/recommended"
+      },
+      {
+        "text": "Software & IT",
+        "href": "/software/confluence/templates/categories/software-development-and-it"
+      },
+      {
+        "text": "Pricing",
+        "href": "/software/confluence/pricing"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/software/confluence/enterprise"
+      },
+      {
+        "text": "Get it free",
+        "href": "/try/cloud/signup?bundle=confluence&edition=free"
+      }
+    ],
+    "buttons": [
+      "Sign in",
+      "Sign in",
+      "Templates",
+      "Templates",
+      "Sign up",
+      "Google",
+      "Apple",
+      "Slack",
+      "Manage preferences",
+      "Reject all cookies",
+      "Accept all cookies",
+      "Accept all",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search Keywords"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search Keywords"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "you@company.com"
+          }
+        ]
+      }
+    ],
+    "links_count": 118,
+    "images_count": 41,
+    "images_with_alt": 13,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Meet your newAI-poweredworkspace"
+      },
+      {
+        "level": 2,
+        "text": "Createmore together"
+      },
+      {
+        "level": 2,
+        "text": "Collaborateacross teams"
+      },
+      {
+        "level": 2,
+        "text": "Connectorg-wide knowledge"
+      },
+      {
+        "level": 2,
+        "text": "Powering every stage of work"
+      },
+      {
+        "level": 2,
+        "text": "Work isn\u2019t one-size-fits-all. Neither is Confluence"
+      },
+      {
+        "level": 3,
+        "text": "Put pen to paper without any hassle"
+      },
+      {
+        "level": 3,
+        "text": "Transform ideas into action"
+      },
+      {
+        "level": 3,
+        "text": "Stay in the know, your way"
+      },
+      {
+        "level": 3,
+        "text": "Get context and answers in seconds"
+      },
+      {
+        "level": 3,
+        "text": "Work faster, smarter, and together with Rovo"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search Keywords"
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search Keywords"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "you@company.com"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-4",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-3",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-2",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Company",
+      "Careers",
+      "Events",
+      "Blogs",
+      "Investor Relations",
+      "Atlassian Foundation",
+      "Press kit",
+      "Contact us",
+      "Rovo",
+      "Jira",
+      "Jira Align",
+      "Jira Service Management",
+      "Confluence",
+      "Loom",
+      "Trello",
+      "Bitbucket",
+      "See all products",
+      "Technical support",
+      "Purchasing & licensing"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 58,
+    "has_og_tags": false,
+    "meta_description": "Confluence is your team workspace for creating and sharing knowledge. Use AI to draft, summarize, and find answers so projects move faster.",
+    "scripts_count": 34
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered workspace",
+      "Extensive template library",
+      "Integration with other Atlassian products",
+      "Strong security and compliance features"
+    ],
+    "confidence": "high"
+  }
+}

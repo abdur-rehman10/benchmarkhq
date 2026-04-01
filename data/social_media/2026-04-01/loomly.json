@@ -1,0 +1,180 @@
+{
+  "name": "loomly",
+  "url": "https://www.loomly.com",
+  "scanned_at": "2026-04-01T17:31:12.246533",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/loomly_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/loomly_mobile.png"
+  },
+  "structure": {
+    "title": "Social Media Management Platform | Loomly",
+    "url_final": "https://www.loomly.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.loomly.com/signin"
+      },
+      {
+        "text": "Try for free",
+        "href": "https://app.loomly.com/signup?version=2.1"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Close Cookie Preferences",
+      "Log in",
+      "Try for free",
+      "Start free trial",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start for free",
+      "Start free trial",
+      "Log in",
+      "Try for free",
+      "Available on theApp Store",
+      "Get it onGoogle Play"
+    ],
+    "forms": [],
+    "links_count": 62,
+    "images_count": 11,
+    "images_with_alt": 11,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Stress-freesocialmedia management"
+      },
+      {
+        "level": 2,
+        "text": "10x your followers"
+      },
+      {
+        "level": 2,
+        "text": "Plan weeks, or months of content in minutes"
+      },
+      {
+        "level": 2,
+        "text": "Generate scroll-stopping posts, images & captions"
+      },
+      {
+        "level": 2,
+        "text": "Streamline collaboration & expedite approvals"
+      },
+      {
+        "level": 2,
+        "text": "Let AI safely handle comments & DMs"
+      },
+      {
+        "level": 3,
+        "text": "Past performance"
+      },
+      {
+        "level": 3,
+        "text": "Brand knowledge"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Log in",
+      "Try for free",
+      "About",
+      "Pricing",
+      "Careers",
+      "Contact us",
+      "Help Center",
+      "Who Uses Loomly",
+      "Why Loomly",
+      "Post Planning and Scheduling",
+      "Content Calendar and Library",
+      "Collaboration and Approvals",
+      "Campaign Management",
+      "Analytics and Reports",
+      "See all features",
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "TikTok"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Loomly is a social media management platform that empowers marketing teams to grow successful brands online through collaboration, publishing, & analytics.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered comment and DM handling",
+      "Content planning and scheduling",
+      "Collaboration and approval workflows"
+    ],
+    "confidence": "high"
+  }
+}

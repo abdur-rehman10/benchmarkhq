@@ -1,0 +1,398 @@
+{
+  "name": "writer",
+  "url": "https://writer.com",
+  "scanned_at": "2026-04-01T16:45:00.264848",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/writer_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/writer_mobile.png"
+  },
+  "structure": {
+    "title": "WRITER - The enterprise AI platform for agentic work",
+    "url_final": "https://writer.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://writer.com/"
+      },
+      {
+        "text": "Try for free",
+        "href": "https://app.writer.com/register"
+      },
+      {
+        "text": "Product",
+        "href": "#product"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/product/writer-agent/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/product/ai-studio/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/llms/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/product/graph-based-rag/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/trust/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/product/ai-studio/#build"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/product/writer-agent/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/product/ai-studio/#supervise"
+      },
+      {
+        "text": "",
+        "href": "https://go.writer.com/marketing-playbooks"
+      },
+      {
+        "text": "Explore the hub",
+        "href": "https://go.writer.com/marketing-playbooks/"
+      },
+      {
+        "text": "Solutions",
+        "href": "#solutions"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/solutions/financial-services/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/solutions/healthcare/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/solutions/retail/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/solutions/technology/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/solutions/marketing/"
+      },
+      {
+        "text": "",
+        "href": "https://writer.com/solutions/sales/"
+      }
+    ],
+    "buttons": [
+      "Request a demo",
+      "Your privacy choices",
+      "Search",
+      "Close search results",
+      "Relevance",
+      "Newest",
+      "Oldest",
+      "Close Search",
+      "Accept all",
+      "Manage settings",
+      "Allow all",
+      "Cookie details\u200e",
+      "Cookie details\u200e",
+      "Cookie details\u200e",
+      "Cookie details\u200e",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Reject all",
+      "Confirm my choices",
+      "Try for free"
+    ],
+    "forms": [
+      {
+        "action": "https://go.writer.com/demo",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Work email"
+          }
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/40876074/e71e8765-d60a-4f",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Add your email*"
+          },
+          {
+            "type": "hidden",
+            "name": "form_url",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "spz_cro",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gclid",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search\u2026"
+          }
+        ]
+      }
+    ],
+    "links_count": 98,
+    "images_count": 89,
+    "images_with_alt": 89,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your bestYour bestsellerselleroperatorcan\u2019t be everywhere.Their AI agents can."
+      },
+      {
+        "level": 1,
+        "text": "Search results"
+      },
+      {
+        "level": 2,
+        "text": "Not a tool you prompt.An agent you delegate to."
+      },
+      {
+        "level": 2,
+        "text": "Your company\u2019s DNA,encoded in AI agents."
+      },
+      {
+        "level": 2,
+        "text": "Measurable outcomes from leading enterprises."
+      },
+      {
+        "level": 2,
+        "text": "Same team.Exponential impact."
+      },
+      {
+        "level": 2,
+        "text": "Your IT and technology teams,on board from day one."
+      },
+      {
+        "level": 3,
+        "text": "WRITER Academy"
+      },
+      {
+        "level": 3,
+        "text": "Manage consent preferences"
+      },
+      {
+        "level": 3,
+        "text": "Cookie list"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Work email"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Add your email*"
+      },
+      {
+        "type": "hidden",
+        "name": "form_url",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "spz_cro",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Product",
+      "Trust",
+      "AI Studio",
+      "Graph RAG",
+      "Palmyra LLMs",
+      "WRITER Agent",
+      "Try for free",
+      "Request a demo",
+      "AI marketing consultation",
+      "Resources",
+      "Guides",
+      "AI blog",
+      "AI Agent Library",
+      "Engineering blog",
+      "Enterprise AI agents",
+      "GEO optimization",
+      "Blog title generator",
+      "Marketing AI ROI calculator",
+      "Company",
+      "About"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 23,
+    "has_og_tags": true,
+    "meta_description": "WRITER is the enterprise AI agent platform trusted by Fortune 500 companies, built to help teams execute and scale on-brand, compliant work.",
+    "scripts_count": 87
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "Y",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Enterprise AI platform",
+      "AI agents for business processes",
+      "Marketing playbooks"
+    ],
+    "confidence": "medium"
+  }
+}

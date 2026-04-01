@@ -1,0 +1,457 @@
+{
+  "name": "zoho_forms",
+  "url": "https://www.zoho.com/forms/",
+  "scanned_at": "2026-04-01T18:06:34.100931",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/zoho_forms_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/zoho_forms_mobile.png"
+  },
+  "structure": {
+    "title": "Free Form Builder | Create Online Forms For Free",
+    "url_final": "https://www.zoho.com/forms/",
+    "nav_items": [
+      {
+        "text": "Skip to product menu",
+        "href": "#zw-product-header-skip"
+      },
+      {
+        "text": "Zoho.com",
+        "href": "/"
+      },
+      {
+        "text": "Creator",
+        "href": "/creator/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Thrive",
+        "href": "/thrive/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "CRM",
+        "href": "/crm/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "LandingPage",
+        "href": "/landingpage/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Sign",
+        "href": "/sign/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Campaigns",
+        "href": "/campaigns/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Espa\u00f1ol",
+        "href": "https://www.zoho.com/es-xl/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Portugu\u00eas (Brasil)",
+        "href": "https://www.zoho.com/pt-br/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Deutsch",
+        "href": "https://www.zoho.com/de/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "https://www.zoho.com/fr/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Nederlands",
+        "href": "https://www.zoho.com/nl/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u65e5\u672c\u8a9e",
+        "href": "https://www.zoho.com/jp/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "href": "https://www.zoho.com/ar/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Bahasa Indonesia",
+        "href": "https://www.zoho.com/id/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+        "href": "https://www.zoho.com/th/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Ti\u1ebfng Vi\u1ec7t",
+        "href": "https://www.zoho.com/vi/forms/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://accounts.zoho.eu/signin?servicename=ZohoForms&signupurl=https://www.zoho.com/forms/signup.ht"
+      },
+      {
+        "text": "Get Started",
+        "href": "/forms/signup.html"
+      }
+    ],
+    "buttons": [
+      "Manage\n                            Cookies",
+      "Accept All Cookies",
+      "Reject Unnecessary\n                            Coo",
+      "close",
+      "Save & Exit",
+      "English",
+      "apple",
+      "Google",
+      "Facebook",
+      "Linkedin",
+      "Twitter",
+      "Office365",
+      "apple",
+      "Change",
+      "Resend OTP",
+      "No-code, drag-and-drop builder",
+      "Simple sharing options",
+      "Notifications",
+      "Customization",
+      "Tracking",
+      "Security",
+      "Previous",
+      "Next",
+      "Previous",
+      "Next",
+      "Previous"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Search for product overviews, FAQs, and more..."
+          }
+        ]
+      },
+      {
+        "action": "//accounts.zoho.eu/webclient/v1/register/initiate",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "r_account.account_name",
+            "placeholder": "Company Name *"
+          },
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Email *"
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": "Password *"
+          },
+          {
+            "type": "text",
+            "name": "country_code",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x_phone_countrycode",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "rmobile",
+            "placeholder": "Phone Number *"
+          },
+          {
+            "type": "hidden",
+            "name": "x_phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "r_address/1.phone",
+            "placeholder": "Phone number (Optional)"
+          },
+          {
+            "type": "hidden",
+            "name": "accountType",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search for product overviews, FAQs, and more..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Search zoho.com"
+          }
+        ]
+      }
+    ],
+    "links_count": 513,
+    "images_count": 119,
+    "images_with_alt": 119,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your go-to form builder for seamless data collection"
+      },
+      {
+        "level": 2,
+        "text": "Hey! Welcome to Zoho Forms"
+      },
+      {
+        "level": 2,
+        "text": "Forms for small businesses"
+      },
+      {
+        "level": 2,
+        "text": "Forms for enterprises"
+      },
+      {
+        "level": 2,
+        "text": "Zoho Forms \u2013 An intuitive online form builder"
+      },
+      {
+        "level": 2,
+        "text": "Ask questions in style"
+      },
+      {
+        "level": 3,
+        "text": "Build forms at the speed of thought."
+      },
+      {
+        "level": 3,
+        "text": "Standard Forms"
+      },
+      {
+        "level": 3,
+        "text": "Card Forms"
+      },
+      {
+        "level": 3,
+        "text": "PDF Forms"
+      },
+      {
+        "level": 3,
+        "text": "Education forms"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Search for product overviews, FAQs, and more..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "I\u2019m looking for\u2026"
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "r_account.account_name",
+        "placeholder": "Company Name *"
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Email *"
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Password *"
+      },
+      {
+        "type": "hidden",
+        "name": "x_phone_countrycode",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "rmobile",
+        "placeholder": "Phone Number *"
+      },
+      {
+        "type": "hidden",
+        "name": "x_phone",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "r_address/1.phone",
+        "placeholder": "Phone number (Optional)"
+      },
+      {
+        "type": "hidden",
+        "name": "accountType",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "captcha",
+        "placeholder": "Enter the word seen in the below image *"
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "tos",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x_tempIpCountry",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "placeholder": "Enter OTP"
+      },
+      {
+        "type": "button",
+        "name": "otpfield",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ref_value",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search for product overviews, FAQs, and more..."
+      }
+    ],
+    "footer_links": [
+      "AI Forms",
+      "PDF to Form",
+      "Online Data Collection",
+      "Web Forms",
+      "Contact Forms",
+      "HTML Forms",
+      "Mobile Forms",
+      "Offline Forms",
+      "Data Collection App",
+      "Mobile features",
+      "Kiosk Mode",
+      "Lead Generation Forms",
+      "No Code Forms",
+      "Small Business Forms",
+      "CRM Forms",
+      "Paperless Forms",
+      "Advanced Approvals",
+      "Signature Field",
+      "User Guide"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 310,
+    "has_og_tags": true,
+    "meta_description": "Zoho Forms is a powerful online form builder for businesses. Build and share forms online, and easily collaborate with your team. Try our free online form builder!",
+    "scripts_count": 25
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "No-code, drag-and-drop builder",
+      "Simple sharing options",
+      "Advanced Approvals",
+      "Signature Field",
+      "Multi-language support"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "name": "privy",
+  "url": "https://www.privy.com",
+  "scanned_at": "2026-04-01T16:17:44.677712",
+  "screenshots": {
+    "desktop": "data/marketing_automation/2026-04-01/screenshots/privy_desktop.png",
+    "mobile": "data/marketing_automation/2026-04-01/screenshots/privy_mobile.png"
+  },
+  "structure": {
+    "title": "Privy | The Fastest Way To Grow Sales With Email & SMS",
+    "url_final": "https://www.privy.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Customers",
+        "href": "https://www.privy.com/customers"
+      }
+    ],
+    "buttons": [
+      "Preferences",
+      "Decline",
+      "Accept",
+      "Get started",
+      "Features",
+      "Resources",
+      "Grow your list",
+      "Launch campaigns fast",
+      "Understand your audience",
+      "Automate revenue"
+    ],
+    "forms": [],
+    "links_count": 64,
+    "images_count": 29,
+    "images_with_alt": 22,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn Email & SMS into your best sales channel"
+      },
+      {
+        "level": 1,
+        "text": "The Complete Customer Journey Platform"
+      },
+      {
+        "level": 2,
+        "text": "All power. No complexity."
+      },
+      {
+        "level": 2,
+        "text": "Proof\u2019s in the results"
+      },
+      {
+        "level": 2,
+        "text": "Works with your favorite eCommerce tools,  right out of the box"
+      },
+      {
+        "level": 2,
+        "text": "Is Email and SMS driving 30% of your revenue yet?"
+      },
+      {
+        "level": 3,
+        "text": "Grow your list faster with industry-leading opt-in rates."
+      },
+      {
+        "level": 3,
+        "text": "Go from idea to revenue-driving campaign in just a few clicks."
+      },
+      {
+        "level": 3,
+        "text": "Precision targeting. Perfect timing. More sales."
+      },
+      {
+        "level": 3,
+        "text": "Set it. Automate it. Make money while you sleep."
+      },
+      {
+        "level": 3,
+        "text": "Join 10,000+ brands growing with Privy"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "For Shopify stores",
+      "Get a dedicated expert",
+      "Talk to sales",
+      "Product overview",
+      "Omnichannel campaigns",
+      "Marketing automation",
+      "Displays",
+      "Email marketing",
+      "SMS marketing",
+      "Reporting",
+      "Segmentation",
+      "Documentation",
+      "Examples",
+      "News",
+      "Press Kit",
+      "Integrations",
+      "Learn",
+      "Privy vs Klaviyo",
+      "Privy vs Mailchimp",
+      "Privy vs. Omnisend"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "Privy pairs intuitive email, SMS and list growth tools. See why you should join the 10,000+ brands growing with Privy today.",
+    "scripts_count": 126
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Email and SMS marketing automation",
+      "Integration with eCommerce platforms",
+      "High opt-in rates for list growth",
+      "Automated revenue generation"
+    ],
+    "confidence": "high"
+  }
+}

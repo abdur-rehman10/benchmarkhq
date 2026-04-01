@@ -1,0 +1,219 @@
+{
+  "name": "storybook",
+  "url": "https://storybook.js.org",
+  "scanned_at": "2026-04-01T15:36:32.883197",
+  "screenshots": {
+    "desktop": "data/design_creative/2026-04-01/screenshots/storybook_desktop.png",
+    "mobile": "data/design_creative/2026-04-01/screenshots/storybook_mobile.png"
+  },
+  "structure": {
+    "title": "Storybook: Frontend workshop for UI development",
+    "url_final": "https://storybook.js.org/",
+    "nav_items": [
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "AI",
+        "href": "/ai"
+      },
+      {
+        "text": "Addons",
+        "href": "/addons"
+      },
+      {
+        "text": "Showcase",
+        "href": "/showcase"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Visual Test",
+        "href": "https://www.chromatic.com/storybook?utm_source=storybook_website&utm_medium=global_nav&utm_campaign="
+      },
+      {
+        "text": "Enterprise",
+        "href": "https://www.chromatic.com/enterprise?utm_source=storybook_website&utm_medium=global_nav&utm_campaign"
+      }
+    ],
+    "buttons": [
+      "Search docs\u2318K",
+      "npm create storybook@latest",
+      "Development",
+      "Interaction testing",
+      "Visual testing",
+      "Documentation",
+      "Spot testStories are tests you can debug in dev an",
+      "Learn about UI tests",
+      "Visual test appearancePinpoint UI changes down to ",
+      "Interaction test behaviorSimulate user behavior an",
+      "Accessibility testsCheck stories for WCAG and ARIA",
+      "Coverage ReportsTrack how much of your frontend co",
+      "Snapshot test markupDetect regressions in DOM mark",
+      "Find any component or page in your appStorybook is",
+      "Learn about search",
+      "Generate UI docs automaticallyWrite Markdown and b",
+      "Reuse components across pages and appsEvery story ",
+      "Track component history and versionsQA unexpected ",
+      "Subscribe"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "you@domain.com"
+          }
+        ]
+      }
+    ],
+    "links_count": 89,
+    "images_count": 96,
+    "images_with_alt": 77,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Build, test & document components"
+      },
+      {
+        "level": 2,
+        "text": "Develop durable user interfaces"
+      },
+      {
+        "level": 2,
+        "text": "Test UIs with less effort and no flake"
+      },
+      {
+        "level": 2,
+        "text": "Document UI for your team to reuse"
+      },
+      {
+        "level": 2,
+        "text": "Share how the UI actually works"
+      },
+      {
+        "level": 2,
+        "text": "Automate UI workflows"
+      },
+      {
+        "level": 3,
+        "text": "Build UI components and pages in isolation"
+      },
+      {
+        "level": 3,
+        "text": "Mock hard-to-reach edge cases as stories"
+      },
+      {
+        "level": 3,
+        "text": "Integrate with the tools you already use"
+      },
+      {
+        "level": 3,
+        "text": "Publish Storybook to get sign off from teammates"
+      },
+      {
+        "level": 3,
+        "text": "Embed stories in wikis, Markdown, and Figma"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "you@domain.com"
+      }
+    ],
+    "footer_links": [
+      "Why Storybook",
+      "Component driven UI",
+      "AI",
+      "Guides",
+      "Tutorials",
+      "Changelog",
+      "Telemetry",
+      "Addons",
+      "Get involved",
+      "Blog",
+      "Explore",
+      "About",
+      "Chromatic",
+      "Netlify"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 11,
+    "has_og_tags": true,
+    "meta_description": "Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free.",
+    "scripts_count": 35
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "Y",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Component driven UI development",
+      "Integration with popular tools like Figma",
+      "Visual and interaction testing capabilities",
+      "Open source with strong GitHub presence"
+    ],
+    "confidence": "high"
+  }
+}

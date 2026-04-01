@@ -1,0 +1,217 @@
+{
+  "name": "bitrix24",
+  "url": "https://www.bitrix24.com",
+  "scanned_at": "2026-04-01T14:26:38.986598",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/bitrix24_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/bitrix24_mobile.png"
+  },
+  "structure": {
+    "title": "Bitrix24 - \u0130\u015fletmeniz i\u00e7in \u00fccretsiz \u00e7evrimi\u00e7i \u00e7al\u0131\u015fma alan\u0131: CRM, g\u00f6revler, \u00e7evrimi\u00e7i toplant\u0131lar ve daha fazlas\u0131.",
+    "url_final": "https://www.bitrix24.com.tr/?redirect_from=www.bitrix24.com%2F",
+    "nav_items": [],
+    "buttons": [
+      "\u2039",
+      "\u203a",
+      "\u2039",
+      "\u203a",
+      "Proje y\u00f6netimi",
+      "Sat\u0131\u015flar",
+      "Pazarlama",
+      "M\u00fc\u015fteri Hizmetleri",
+      "\u0130K",
+      "\u015ei\u0307mdi\u0307 kaydol"
+    ],
+    "forms": [
+      {
+        "action": "/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Ara"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search/",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Ara"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 227,
+    "images_count": 70,
+    "images_with_alt": 51,
+    "headings": [
+      {
+        "level": 1,
+        "text": "\u0130\u015fletmenizin arkas\u0131ndaki destek\u00e7i"
+      },
+      {
+        "level": 2,
+        "text": "M\u00fc\u015fterilerin Bitrix24'\u00fc neden sevdi\u011fini \u00f6\u011frenin"
+      },
+      {
+        "level": 2,
+        "text": "Sabit fiyatland\u0131rma"
+      },
+      {
+        "level": 2,
+        "text": "Bitrix24 her ekip ve departman i\u00e7in \u00e7\u00f6z\u00fcmler sunar"
+      },
+      {
+        "level": 2,
+        "text": "Bas\u0131nda Bitrix24"
+      },
+      {
+        "level": 2,
+        "text": "Bitrix24 ile daha fazlas\u0131n\u0131 ba\u015far\u0131n"
+      },
+      {
+        "level": 3,
+        "text": "Uygulamalar\u0131n\u0131z"
+      },
+      {
+        "level": 3,
+        "text": "Farkl\u0131 bir ara\u00e7 seti kullanmaktan30 katdaha iyi sonu\u00e7lar"
+      },
+      {
+        "level": 3,
+        "text": "54.912 US$/y\u0131l tasarruf edin"
+      },
+      {
+        "level": 3,
+        "text": "Kendi sunucunuzda bar\u0131nd\u0131r\u0131lan Bitrix24'\u00fcn tamamen \u00f6zelle\u015ftirilebilir bir s\u00fcr\u00fcm\u00fc"
+      },
+      {
+        "level": 3,
+        "text": "\u00dccretsiz demolar\u0131 ve web seminerlerini izleyin"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Ara"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "range",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Ara"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Ekibinizi y\u00f6netmeye ve sat\u0131\u015f yapmaya y\u00f6nelik t\u00fcm \u00e7\u00f6z\u00fcmlerin tek bir \u00fccretsiz platformda topland\u0131\u011f\u0131 Bitrix24, t\u00fcm i\u015f s\u00fcre\u00e7lerinize sorunsuz bir \u015fekilde entegre olacak \u015fekilde tasarlanm\u0131\u015f olup bunlar\u0131 e",
+    "scripts_count": 61
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive CRM capabilities",
+      "Project management tools",
+      "Integrated communication tools",
+      "Customizable and scalable solutions"
+    ],
+    "confidence": "high"
+  }
+}

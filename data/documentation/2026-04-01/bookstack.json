@@ -1,0 +1,250 @@
+{
+  "name": "bookstack",
+  "url": "https://www.bookstackapp.com",
+  "scanned_at": "2026-04-01T17:42:44.077303",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/bookstack_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/bookstack_mobile.png"
+  },
+  "structure": {
+    "title": "BookStack",
+    "url_final": "https://www.bookstackapp.com/",
+    "nav_items": [
+      {
+        "text": "BookStack",
+        "href": "https://www.bookstackapp.com/"
+      },
+      {
+        "text": "Platform",
+        "href": "#"
+      },
+      {
+        "text": "FeaturesAn overview of the core features of BookSt",
+        "href": "/#features"
+      },
+      {
+        "text": "DemoGive BookStack a test drive on our demo instan",
+        "href": "/#demo"
+      },
+      {
+        "text": "DocumentationGuidance for managing and using BookS",
+        "href": "/docs"
+      },
+      {
+        "text": "Our BlogGet the latest project news from our blog",
+        "href": "/blog"
+      },
+      {
+        "text": "HacksUnsupported hacks that can be applied",
+        "href": "/hacks"
+      },
+      {
+        "text": "Support",
+        "href": "/support"
+      },
+      {
+        "text": "DocumentationGet support from our user and admin d",
+        "href": "/docs"
+      },
+      {
+        "text": "Support PlansSee our range of support plans for Bo",
+        "href": "/support"
+      },
+      {
+        "text": "DonateProvide financial support to the project",
+        "href": "/donate"
+      },
+      {
+        "text": "Videos on PeerTubeFind our video guides on the fed",
+        "href": "https://foss.video/c/bookstack/"
+      },
+      {
+        "text": "Guides on YouTubeWatch our video guides on YouTube",
+        "href": "https://www.youtube.com/c/BookStackApp"
+      },
+      {
+        "text": "GitHub IssuesFind or report issues on the GitHub p",
+        "href": "https://github.com/BookStackApp/BookStack/issues"
+      },
+      {
+        "text": "Community",
+        "href": "#"
+      },
+      {
+        "text": "GitHubStar the project on GitHub and follow us",
+        "href": "https://github.com/BookStackApp/BookStack"
+      },
+      {
+        "text": "CodebergWatch development and get involved",
+        "href": "https://codeberg.org/bookstack/"
+      },
+      {
+        "text": "DiscussionsGet involved in our community discussio",
+        "href": "https://community.bookstackapp.com"
+      },
+      {
+        "text": "MastodonFollow the project on Mastodon",
+        "href": "https://fosstodon.org/@bookstack"
+      },
+      {
+        "text": "YouTubeWatch and comment on our YouTube videos",
+        "href": "https://www.youtube.com/c/BookStackApp"
+      }
+    ],
+    "buttons": [
+      "Open demo site",
+      "Read the blog \u00bb"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "Search site"
+          }
+        ]
+      }
+    ],
+    "links_count": 85,
+    "images_count": 25,
+    "images_with_alt": 25,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Simple & FreeWiki Software"
+      },
+      {
+        "level": 2,
+        "text": "Features"
+      },
+      {
+        "level": 2,
+        "text": "Project Sponsors"
+      },
+      {
+        "level": 2,
+        "text": "Try Out BookStack"
+      },
+      {
+        "level": 2,
+        "text": "Screenshots"
+      },
+      {
+        "level": 2,
+        "text": "Latest From The Blog"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search site"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Dan Brown",
+      "community",
+      "hugo",
+      "here on Codeberg",
+      "Plausible",
+      "be viewed here",
+      "webidx",
+      "Documentation",
+      "Our Features",
+      "View the Demo",
+      "Read our Blog",
+      "Donate",
+      "Hacks",
+      "Codeberg",
+      "Github",
+      "Discussions",
+      "Mastodon",
+      "PeerTube",
+      "YouTube",
+      "Reddit"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "BookStack is a simple, open-source, self-hosted, easy-to-use platform for organising and storing information.",
+    "scripts_count": 3
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "N",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 7,
+    "notable_features": [
+      "Free tier available",
+      "Interactive demo",
+      "Community forum",
+      "GitHub presence"
+    ],
+    "confidence": "medium"
+  }
+}

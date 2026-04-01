@@ -1,0 +1,388 @@
+{
+  "name": "freedcamp",
+  "url": "https://freedcamp.com",
+  "scanned_at": "2026-04-01T14:17:15.456157",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/freedcamp_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/freedcamp_mobile.png"
+  },
+  "structure": {
+    "title": "Freedcamp - Free Project Management",
+    "url_final": "https://freedcamp.com/",
+    "nav_items": [
+      {
+        "text": "Freedcamp",
+        "href": "https://freedcamp.com/"
+      },
+      {
+        "text": "Login",
+        "href": "#"
+      },
+      {
+        "text": "Forgot Password?",
+        "href": "https://freedcamp.com/forgot_password"
+      },
+      {
+        "text": "Google",
+        "href": "https://freedcamp.com/connect/google?connect_action=login_front"
+      },
+      {
+        "text": "",
+        "href": "https://freedcamp.com/connect/twitter?connect_action=login_front"
+      },
+      {
+        "text": "",
+        "href": "https://freedcamp.com/connect/linkedin?connect_action=login_front"
+      },
+      {
+        "text": "",
+        "href": "https://freedcamp.com/connect/apple?connect_action=login_front"
+      },
+      {
+        "text": "Get Started for Free",
+        "href": "#"
+      }
+    ],
+    "buttons": [
+      "Start Now!",
+      "Start Now!",
+      "Login",
+      "Google",
+      "Get Started for Free",
+      "Google",
+      "Load More",
+      "Sign up. It's Free"
+    ],
+    "forms": [
+      {
+        "action": "https://freedcamp.com/login",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "a_token",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "username",
+            "placeholder": "Email"
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": "Password"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "remember_me",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://freedcamp.com/register",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "a_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "agree_terms",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "password",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email Address"
+          }
+        ]
+      },
+      {
+        "action": "https://freedcamp.com/register",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "a_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "agree_terms",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "password",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email Address"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 64,
+    "images_count": 3,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Freedcamp"
+      },
+      {
+        "level": 2,
+        "text": "The firsttruly intelligentProject Management"
+      },
+      {
+        "level": 2,
+        "text": "GetEverythingDone"
+      },
+      {
+        "level": 2,
+        "text": "Oh wait, did we mention that Freedcamp is absolutelyfree?"
+      },
+      {
+        "level": 2,
+        "text": "Plan. Discuss. Achieve Goals. Succeed."
+      },
+      {
+        "level": 2,
+        "text": "Collaborate on the go!"
+      },
+      {
+        "level": 3,
+        "text": "Trusted by millions of users worldwide:"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "a_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "username",
+        "placeholder": "Email"
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Password"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "remember_me",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "a_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "agree_terms",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email Address"
+      },
+      {
+        "type": "hidden",
+        "name": "a_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "agree_terms",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email Address"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Pricing",
+      "Tutorials",
+      "iOS",
+      "Android",
+      "Desktop",
+      "iOS",
+      "Android",
+      "Blog",
+      "Developers API",
+      "Zapier",
+      "Community",
+      "Contact Us",
+      "English",
+      "Arabic",
+      "Czech",
+      "German",
+      "Greek",
+      "English",
+      "Spanish"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "The entirely free way to collaborate more efficiently with groups of people.",
+    "scripts_count": 13
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Free tier available",
+      "Multiple language support",
+      "Social signup options"
+    ],
+    "confidence": "high"
+  }
+}

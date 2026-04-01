@@ -1,0 +1,467 @@
+{
+  "name": "zoho_books",
+  "url": "https://www.zoho.com/books/",
+  "scanned_at": "2026-04-01T15:06:13.023183",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/zoho_books_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/zoho_books_mobile.png"
+  },
+  "structure": {
+    "title": "Best Online Accounting Software for Small Businesses | Zoho Books",
+    "url_final": "https://www.zoho.com/books/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/books/"
+      },
+      {
+        "text": "Zoho",
+        "href": "/"
+      },
+      {
+        "text": "Inventory",
+        "href": "/inventory/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "CRM",
+        "href": "/crm/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Payroll",
+        "href": "/payroll/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Mail",
+        "href": "/mail/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Expense",
+        "href": "/expense/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Billing",
+        "href": "/billing/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://accounts.zoho.com/signin?servicename=ZohoBooks&signupurl=https://www.zoho.com%2fbooks%2fsign"
+      },
+      {
+        "text": "Sign Up Now",
+        "href": "/books/signup/"
+      },
+      {
+        "text": "EXPLORE ALL PRODUCTS",
+        "href": "/all-products.html?src=zGlobalAllProducts"
+      },
+      {
+        "text": "Connect with us",
+        "href": "https://www.zoho.com/contactus.html"
+      },
+      {
+        "text": "EXPLORE ALL PRODUCTS",
+        "href": "/all-products.html?src=zGlobalAllProducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/verticalstudio/?src=allproducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/procurement/?src=allproducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/mcp/?src=allproducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/domains/?src=allproducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/payroll/?src=allproducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/eprotect/?src=allproducts"
+      },
+      {
+        "text": "Try now",
+        "href": "/researchstudio/?src=allproducts"
+      }
+    ],
+    "buttons": [
+      "Stay here",
+      "English",
+      "Features",
+      "Solutions",
+      "Resources",
+      "Request a demo",
+      "Play",
+      "Submit",
+      "Submit",
+      "TRY ZOHO ONE",
+      "EXPLORE MARKETPLACE",
+      "Start free trial",
+      "Start my free trial",
+      "Explore Demo Account",
+      "Visit our wall of love",
+      "Explore Features",
+      "Get started for free",
+      "Get started for free",
+      "Start my free trial",
+      "Start my free trial",
+      "Start my free trial",
+      "Start my free trial",
+      "Start my free trial"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Search for products, solutions, resources..."
+          }
+        ]
+      },
+      {
+        "action": "https://desk.zoho.in/support/WebToCase",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "xnQsjsdp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "xmIwtLD",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "xJdfEaS",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "actionType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "returnURL",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Contact Name",
+            "placeholder": "Your Name"
+          },
+          {
+            "type": "text",
+            "name": "Email",
+            "placeholder": "Your Email"
+          },
+          {
+            "type": "hidden",
+            "name": "Source URL",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Contact Number",
+            "placeholder": "Your Phone"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "xnQsjsdp",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "zc_gad",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "xmIwtLD",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "actionType",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "returnURL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CASECF14",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CASECF10",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "CASECF20",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "Subject",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Reported By",
+            "placeholder": "Name"
+          }
+        ]
+      }
+    ],
+    "links_count": 364,
+    "images_count": 137,
+    "images_with_alt": 98,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Comprehensiveaccounting software for growing businesses"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by businesses and accountants worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Engineered to Unlock Business Growth"
+      },
+      {
+        "level": 2,
+        "text": "Do it all,and then some more!"
+      },
+      {
+        "level": 2,
+        "text": "The perfect balance of features and affordability"
+      },
+      {
+        "level": 2,
+        "text": "An accounting solution for every need and every business"
+      },
+      {
+        "level": 3,
+        "text": "Accounting Across Devices"
+      },
+      {
+        "level": 3,
+        "text": "Sell globally"
+      },
+      {
+        "level": 3,
+        "text": "Customization"
+      },
+      {
+        "level": 3,
+        "text": "Automation"
+      },
+      {
+        "level": 3,
+        "text": "Collaboration"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Search for products, solutions, resources..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "I\u2019m looking for\u2026"
+      },
+      {
+        "type": "hidden",
+        "name": "xnQsjsdp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "xmIwtLD",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "xJdfEaS",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "actionType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "returnURL",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "Contact Name",
+        "placeholder": "Your Name"
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "placeholder": "Your Email"
+      },
+      {
+        "type": "hidden",
+        "name": "Source URL",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "Contact Number",
+        "placeholder": "Your Phone"
+      },
+      {
+        "type": "text",
+        "name": "Subject",
+        "placeholder": "Request for new videos"
+      },
+      {
+        "type": "text",
+        "name": "zsWebFormCaptchaWord",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "zsCaptchaSrc",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "xnQsjsdp",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "zc_gad",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "xmIwtLD",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "actionType",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "returnURL",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 326,
+    "has_og_tags": true,
+    "meta_description": "Zoho Books is a cloud-based accounting software that simplifies invoicing, expenses, tax management, bank reconciliation, and financial reporting for small businesses.",
+    "scripts_count": 33
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive accounting features",
+      "Integration with other Zoho products",
+      "Multi-language support",
+      "Mobile and desktop apps"
+    ],
+    "confidence": "high"
+  }
+}

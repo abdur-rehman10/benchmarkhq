@@ -1,0 +1,225 @@
+{
+  "name": "docusaurus",
+  "url": "https://docusaurus.io",
+  "scanned_at": "2026-04-01T17:40:37.810707",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/docusaurus_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/docusaurus_mobile.png"
+  },
+  "structure": {
+    "title": "Build optimized websites quickly, focus on your content | Docusaurus",
+    "url_final": "https://docusaurus.io/",
+    "nav_items": [
+      {
+        "text": "Docusaurus",
+        "href": "/"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "API",
+        "href": "/docs/cli"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Showcase",
+        "href": "/showcase"
+      },
+      {
+        "text": "Community",
+        "href": "/community/support"
+      },
+      {
+        "text": "3.9.2",
+        "href": "/docs"
+      },
+      {
+        "text": "Canary \ud83d\udea7",
+        "href": "/docs/next"
+      },
+      {
+        "text": "3.9.2",
+        "href": "/docs"
+      },
+      {
+        "text": "3.8.1",
+        "href": "/docs/3.8.1"
+      },
+      {
+        "text": "3.7.0",
+        "href": "/docs/3.7.0"
+      },
+      {
+        "text": "3.6.3",
+        "href": "/docs/3.6.3"
+      },
+      {
+        "text": "3.5.2",
+        "href": "/docs/3.5.2"
+      },
+      {
+        "text": "3.4.0",
+        "href": "/docs/3.4.0"
+      },
+      {
+        "text": "3.3.2",
+        "href": "/docs/3.3.2"
+      },
+      {
+        "text": "3.2.1",
+        "href": "/docs/3.2.1"
+      },
+      {
+        "text": "3.1.1",
+        "href": "/docs/3.1.1"
+      },
+      {
+        "text": "3.0.1",
+        "href": "/docs/3.0.1"
+      },
+      {
+        "text": "2.x",
+        "href": "/docs/2.x"
+      },
+      {
+        "text": "2.3.1",
+        "href": "https://docusaurus-archive-october-2023.netlify.app/docs/2.3.1"
+      }
+    ],
+    "buttons": [
+      "Search\u2318K",
+      "Get Started",
+      "Try a Demo"
+    ],
+    "forms": [],
+    "links_count": 64,
+    "images_count": 19,
+    "images_with_alt": 18,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Buildoptimizedwebsitesquickly, focus on yourcontent"
+      },
+      {
+        "level": 2,
+        "text": "Check it out in the intro video"
+      },
+      {
+        "level": 2,
+        "text": "Loved by many engineers"
+      },
+      {
+        "level": 3,
+        "text": "Powered by MDX"
+      },
+      {
+        "level": 3,
+        "text": "Built Using React"
+      },
+      {
+        "level": 3,
+        "text": "Ready for Translations"
+      },
+      {
+        "level": 3,
+        "text": "Document Versioning"
+      },
+      {
+        "level": 3,
+        "text": "Content Search"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Introduction",
+      "Installation",
+      "Migration from v1 to v2",
+      "Stack Overflow",
+      "Feature Requests",
+      "Discord",
+      "Help",
+      "Blog",
+      "Changelog",
+      "GitHub",
+      "X",
+      "Privacy",
+      "Terms",
+      "Cookie Policy"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 23,
+    "has_og_tags": true,
+    "meta_description": "An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.",
+    "scripts_count": 6
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Powered by MDX",
+      "Built Using React",
+      "Document Versioning",
+      "Content Search"
+    ],
+    "confidence": "high"
+  }
+}

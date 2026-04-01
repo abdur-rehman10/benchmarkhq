@@ -1,0 +1,312 @@
+{
+  "name": "survicate",
+  "url": "https://survicate.com",
+  "scanned_at": "2026-04-01T18:10:28.496746",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/survicate_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/survicate_mobile.png"
+  },
+  "structure": {
+    "title": "Survicate: Customer Feedback Platform",
+    "url_final": "https://survicate.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Survey SoftwareRun multichannel customer feedback ",
+        "href": "/survey-software/"
+      },
+      {
+        "text": "Create Surveys",
+        "href": "/how-to-build-surveys/"
+      },
+      {
+        "text": "Distribute Surveys",
+        "href": "/how-to-distribute-surveys/"
+      },
+      {
+        "text": "Analyze Surveys",
+        "href": "/how-to-analyze-survey-data/"
+      },
+      {
+        "text": "Act on Feedback",
+        "href": "/how-to-act-on-customer-feedback/"
+      },
+      {
+        "text": "Digital User FeedbackListen to all your users, any",
+        "href": "/digital-feedback/"
+      },
+      {
+        "text": "Mobile App Feedback",
+        "href": "/software/mobile-app-surveys/"
+      },
+      {
+        "text": "Website Feedback",
+        "href": "/software/website-feedback-survey/"
+      },
+      {
+        "text": "In-Product Feedback",
+        "href": "/software/in-product-surveys/"
+      },
+      {
+        "text": "Email Surveys",
+        "href": "/software/email-survey/"
+      },
+      {
+        "text": "Feedback AnalyticsAnalyze feedback from all source",
+        "href": "/feedback-analytics/"
+      },
+      {
+        "text": "DashboardsNew",
+        "href": "/features/dashboards/"
+      },
+      {
+        "text": "Insights Hub",
+        "href": "/insights-hub/"
+      },
+      {
+        "text": "AI Analysis",
+        "href": "/features/ai-analysis/"
+      },
+      {
+        "text": "Why Survicate?",
+        "href": "https://survicate.com/why-survicate/"
+      },
+      {
+        "text": "TranscriptionsNew",
+        "href": "/features/transcriptions/"
+      },
+      {
+        "text": "AI Research Assistant",
+        "href": "/features/research-assistant/"
+      },
+      {
+        "text": "Multilingual Feedback",
+        "href": "/features/multi-language-feedback/"
+      },
+      {
+        "text": "Account Management",
+        "href": "/features/account-management/"
+      }
+    ],
+    "buttons": [
+      "Necessary57",
+      "Preferences18",
+      "Statistics44",
+      "Marketing52",
+      "Unclassified52",
+      "[#IABV2_LABEL_PURPOSES#]",
+      "[#IABV2_LABEL_FEATURES#]",
+      "[#IABV2_LABEL_PARTNERS#]",
+      "Deny",
+      "Allow selection",
+      "Customize",
+      "OK",
+      "Start Free",
+      "Book a Call",
+      "Sign Up Free",
+      "Book a Call",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Start Free",
+      "Start Free",
+      "Learn more",
+      "Start Free",
+      "Learn more",
+      "Start Free",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "See all integrations",
+      "Learn more"
+    ],
+    "forms": [],
+    "links_count": 287,
+    "images_count": 309,
+    "images_with_alt": 309,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Capture, analyze, act. Build the ultimate programfor customer feedback."
+      },
+      {
+        "level": 2,
+        "text": "Survicate: one platform to turn feedback into impact"
+      },
+      {
+        "level": 2,
+        "text": "Ask everywhere, learn everything"
+      },
+      {
+        "level": 2,
+        "text": "Features for deeper feedback"
+      },
+      {
+        "level": 2,
+        "text": "How teams turnfeedback into alignment"
+      },
+      {
+        "level": 2,
+        "text": "Send the survey data to all your tools with 1-click native integrations"
+      },
+      {
+        "level": 3,
+        "text": "Product & Features"
+      },
+      {
+        "level": 3,
+        "text": "Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "Customers"
+      },
+      {
+        "level": 3,
+        "text": "About"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Survey Software",
+      "Research Repository",
+      "Product Feedback",
+      "Feedback Analytics",
+      "AI Analysis",
+      "Multi-language Feedback",
+      "Transcriptions",
+      "Product Teams",
+      "Marketing Teams",
+      "User Research",
+      "CX & CS",
+      "Enterprises",
+      "Integrations",
+      "Blog",
+      "Webinars",
+      "NPS Calculator",
+      "Survey Templates"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 51,
+    "has_og_tags": true,
+    "meta_description": "A customer feedback platform that lets you survey every channel, automate feedback flows, and uncover customer insights from multiple sources",
+    "scripts_count": 46
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Analysis",
+      "1-click native integrations",
+      "Multi-channel feedback collection"
+    ],
+    "confidence": "high"
+  }
+}

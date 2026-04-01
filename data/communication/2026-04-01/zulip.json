@@ -1,0 +1,285 @@
+{
+  "name": "zulip",
+  "url": "https://zulip.com",
+  "scanned_at": "2026-04-01T15:51:36.865983",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/zulip_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/zulip_mobile.png"
+  },
+  "structure": {
+    "title": "Zulip \u2014 organized team chat",
+    "url_final": "https://zulip.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://zulip.com"
+      },
+      {
+        "text": "Choosing a team chat app",
+        "href": "https://blog.zulip.com/2024/11/04/choosing-a-team-chat-app/"
+      },
+      {
+        "text": "Why Zulip",
+        "href": "https://zulip.com/why-zulip/"
+      },
+      {
+        "text": "Try Zulip",
+        "href": "https://chat.zulip.org/?show_try_zulip_modal"
+      },
+      {
+        "text": "Moving to Zulip",
+        "href": "https://zulip.com/help/moving-to-zulip"
+      },
+      {
+        "text": "Zulip Cloud",
+        "href": "https://zulip.com/zulip-cloud/"
+      },
+      {
+        "text": "Self-hosting",
+        "href": "https://zulip.com/self-hosting/"
+      },
+      {
+        "text": "Security",
+        "href": "https://zulip.com/security/"
+      },
+      {
+        "text": "Feature matrix",
+        "href": "https://zulip.com/features/"
+      },
+      {
+        "text": "Desktop and mobile apps",
+        "href": "https://zulip.com/apps/"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://zulip.com/integrations/"
+      },
+      {
+        "text": "API",
+        "href": "/api/"
+      },
+      {
+        "text": "Help center",
+        "href": "/help/"
+      },
+      {
+        "text": "Business",
+        "href": "https://zulip.com/for/business/"
+      },
+      {
+        "text": "Education",
+        "href": "https://zulip.com/for/education/"
+      },
+      {
+        "text": "Research",
+        "href": "https://zulip.com/for/research/"
+      },
+      {
+        "text": "Events and conferences",
+        "href": "https://zulip.com/for/events/"
+      },
+      {
+        "text": "Open source projects",
+        "href": "https://zulip.com/for/open-source/"
+      },
+      {
+        "text": "Communities",
+        "href": "https://zulip.com/for/communities/"
+      },
+      {
+        "text": "Engineers",
+        "href": "https://zulip.com/role/engineers/"
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 166,
+    "images_count": 9,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Organized chat for distributed\u00a0teams"
+      },
+      {
+        "level": 2,
+        "text": "Designed for async conversations."
+      },
+      {
+        "level": 2,
+        "text": "Zulip empowers remote and flexible work."
+      },
+      {
+        "level": 2,
+        "text": "You own your data"
+      },
+      {
+        "level": 2,
+        "text": "Curious to learn more?"
+      },
+      {
+        "level": 3,
+        "text": "Product"
+      },
+      {
+        "level": 3,
+        "text": "Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "Contributing"
+      },
+      {
+        "level": 3,
+        "text": "About us"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "radio",
+        "name": "top-menu-tabs",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "top-menu-tabs",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "top-menu-tabs",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "top-menu-tabs",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "top-menu-tabs",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "screen-2__tabs-radio",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "screen-2__tabs-radio",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "screen-2__tabs-radio",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "screen-2__tabs-radio",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "screen-2__tabs-radio",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Why Zulip",
+      "Features",
+      "Plans & pricing",
+      "Zulip Cloud",
+      "Self-hosting",
+      "Security",
+      "Integrations",
+      "Desktop & mobile apps",
+      "New organization",
+      "Log in",
+      "Find accounts",
+      "Business",
+      "Education",
+      "Research",
+      "Events & conferences",
+      "Open source projects",
+      "Communities",
+      "Engineers",
+      "Customer stories",
+      "Open communities"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Zulip is an organized team chat app for distributed\n  teams of all sizes.",
+    "scripts_count": 13
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Organized chat for distributed teams",
+      "Self-hosting option",
+      "Open source project"
+    ],
+    "confidence": "high"
+  }
+}

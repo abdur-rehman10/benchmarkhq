@@ -1,0 +1,231 @@
+{
+  "name": "box",
+  "url": "https://www.box.com",
+  "scanned_at": "2026-04-01T17:50:36.342161",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/box_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/box_mobile.png"
+  },
+  "structure": {
+    "title": "Secure, AI-Powered Content Management, Workflow & Collaboration",
+    "url_final": "https://www.box.com/",
+    "nav_items": [
+      {
+        "text": "OverviewIntelligent Content Management",
+        "href": "/overview"
+      },
+      {
+        "text": "Security & ComplianceEnd-to-end data protection",
+        "href": "/security-compliance"
+      },
+      {
+        "text": "CollaborationSecurely work together on files",
+        "href": "/collaboration"
+      },
+      {
+        "text": "Workflow AutomationAI driven business processes",
+        "href": "/automate"
+      },
+      {
+        "text": "No-code AppsIntelligent Apps for any workflow",
+        "href": "/apps"
+      },
+      {
+        "text": "HubsAI-powered content portals",
+        "href": "/hubs"
+      },
+      {
+        "text": "Box AIUnlock the value of your content",
+        "href": "/ai"
+      },
+      {
+        "text": "Box AI AgentsIntelligent agents to transform work",
+        "href": "/agents"
+      },
+      {
+        "text": "Box ExtractExtract structured data at scale",
+        "href": "/extract"
+      },
+      {
+        "text": "E-signatureSend, track, and manage e-signatures",
+        "href": "/esignature"
+      },
+      {
+        "text": "IntegrationsThousands of connected apps",
+        "href": "/integrations"
+      },
+      {
+        "text": "Content PlatformBuild with content APIs",
+        "href": "/platform"
+      },
+      {
+        "text": "See all products & features",
+        "href": "/products-and-features"
+      },
+      {
+        "text": "Learn more about smart data extraction",
+        "href": "/extract"
+      },
+      {
+        "text": "Industries",
+        "href": "/industries"
+      },
+      {
+        "text": "Financial Services",
+        "href": "/industries/financial-services"
+      },
+      {
+        "text": "State & Local Government",
+        "href": "/industries/government"
+      },
+      {
+        "text": "Small Business",
+        "href": "/small-business"
+      },
+      {
+        "text": "Education",
+        "href": "/industries/education"
+      },
+      {
+        "text": "Professional Services",
+        "href": "/industries/professional-services"
+      }
+    ],
+    "buttons": [
+      "Left",
+      "Right",
+      "Close",
+      "Main Navigation",
+      "Products",
+      "Solutions",
+      "Developer",
+      "Resources",
+      "1",
+      "2",
+      "Previous",
+      "Next",
+      "English (US)",
+      "Learn more about smart data extraction",
+      "Register now",
+      "White arrow rightGet started",
+      "Contact us",
+      "Blue arrow right 0See customers",
+      "Explore collaboration",
+      "Icon Play Blue 20x20Watch video",
+      "See AI in action",
+      "Icon Play Blue 20x20Watch video",
+      "Power extraction",
+      "Icon Play Blue 20x20Watch video",
+      "Automate workflows",
+      "Icon Play Blue 20x20Watch video",
+      "Explore tools",
+      "Icon Play Blue 20x20Watch video",
+      "Build with APIs",
+      "Icon Play Blue 20x20Watch webinar"
+    ],
+    "forms": [],
+    "links_count": 195,
+    "images_count": 90,
+    "images_with_alt": 26,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Content + AI"
+      },
+      {
+        "level": 3,
+        "text": "Intelligentcontent management, secure collaboration, and automated workflows"
+      },
+      {
+        "level": 3,
+        "text": "One secure,intelligentplatform with 1,500+ app integrations"
+      },
+      {
+        "level": 3,
+        "text": "Named a Leader by independent analyst firms"
+      },
+      {
+        "level": 3,
+        "text": "Learn more about Content + AI"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Sitemap",
+      "Subscriptions",
+      "Terms of Service",
+      "Privacy Policy",
+      "Do Not Sell My Info"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": false,
+    "meta_description": "Intelligent Content Management makes it easy to automate workflows, collaborate internally and externally, and protect your sensitive data, all on one platform.",
+    "scripts_count": 108
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered content management",
+      "Extensive app integrations",
+      "Strong security and compliance features",
+      "Comprehensive developer resources"
+    ],
+    "confidence": "high"
+  }
+}

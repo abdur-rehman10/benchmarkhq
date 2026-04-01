@@ -1,0 +1,317 @@
+{
+  "name": "postmark",
+  "url": "https://postmarkapp.com",
+  "scanned_at": "2026-04-01T14:49:45.234656",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/postmark_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/postmark_mobile.png"
+  },
+  "structure": {
+    "title": "Postmark: Fast, Reliable Email Delivery Service | SMTP | API",
+    "url_final": "https://postmarkapp.com/",
+    "nav_items": [
+      {
+        "text": "Why Postmark?",
+        "href": "https://postmarkapp.com/why"
+      },
+      {
+        "text": "Email API",
+        "href": "https://postmarkapp.com/email-api"
+      },
+      {
+        "text": "SMTP Service",
+        "href": "https://postmarkapp.com/smtp-service"
+      },
+      {
+        "text": "Message Streams",
+        "href": "https://postmarkapp.com/message-streams"
+      },
+      {
+        "text": "Transactional Email",
+        "href": "https://postmarkapp.com/transactional-email"
+      },
+      {
+        "text": "Email Delivery",
+        "href": "https://postmarkapp.com/email-delivery"
+      },
+      {
+        "text": "Email Templates",
+        "href": "https://postmarkapp.com/email-templates"
+      },
+      {
+        "text": "Inbound Email",
+        "href": "https://postmarkapp.com/inbound-email"
+      },
+      {
+        "text": "Analytics & Retention",
+        "href": "https://postmarkapp.com/email-analytics"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://postmarkapp.com/integrations"
+      },
+      {
+        "text": "Bulk APINew",
+        "href": "https://postmarkapp.com/bulk-api"
+      },
+      {
+        "text": "Agencies",
+        "href": "https://postmarkapp.com/for/agencies"
+      },
+      {
+        "text": "Enterprise",
+        "href": "https://postmarkapp.com/for/enterprise"
+      },
+      {
+        "text": "Startups",
+        "href": "https://postmarkapp.com/for/startups"
+      },
+      {
+        "text": "Bootstrapped Startups",
+        "href": "https://postmarkapp.com/for/bootstrapped-startups"
+      },
+      {
+        "text": "Side Projects",
+        "href": "https://postmarkapp.com/for/side-projects"
+      },
+      {
+        "text": "SendGrid",
+        "href": "https://postmarkapp.com/compare/sendgrid-alternative"
+      },
+      {
+        "text": "Mailgun",
+        "href": "https://postmarkapp.com/compare/mailgun-alternative"
+      },
+      {
+        "text": "Amazon SES",
+        "href": "https://postmarkapp.com/compare/amazon-ses-alternative"
+      },
+      {
+        "text": "SparkPost",
+        "href": "https://postmarkapp.com/compare/sparkpost-alternative"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Resources",
+      "Help",
+      "Product",
+      "Resources",
+      "Help",
+      "Manage Preferences",
+      "Accept",
+      "Allow All",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Confirm My Choices",
+      "Learn more",
+      "Log In",
+      "Log in",
+      "Start free trial",
+      "Log in",
+      "Start free trial",
+      "Start free trial",
+      "Start free trial"
+    ],
+    "forms": [
+      {
+        "action": "/index.php",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "p",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 198,
+    "images_count": 27,
+    "images_with_alt": 23,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The email delivery service that people actually like"
+      },
+      {
+        "level": 2,
+        "text": "Features"
+      },
+      {
+        "level": 2,
+        "text": "Postmark For"
+      },
+      {
+        "level": 2,
+        "text": "Postmark vs."
+      },
+      {
+        "level": 2,
+        "text": "Features"
+      },
+      {
+        "level": 2,
+        "text": "Postmark For"
+      },
+      {
+        "level": 3,
+        "text": "Ready to get started?"
+      },
+      {
+        "level": 3,
+        "text": "Manage Consent Preferences"
+      },
+      {
+        "level": 3,
+        "text": "Cookie List"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Pricing",
+      "Customers",
+      "Reviews",
+      "Dedicated IPs",
+      "Referral Partner Program",
+      "Latest Updates",
+      "Email API",
+      "Bulk API",
+      "SMTP Service",
+      "Message Streams",
+      "Transactional Email",
+      "Email Delivery",
+      "Templates",
+      "Inbound Email",
+      "Analytics & Retention",
+      "Integrations",
+      "Webhooks",
+      "Security",
+      "Email Experts",
+      "Rebound"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 13,
+    "has_og_tags": true,
+    "meta_description": "Send transactional and marketing emails and get them to the inbox on time, every time. Postmark is a fast and reliable email delivery service for developers.",
+    "scripts_count": 46
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Fast and reliable email delivery",
+      "Comprehensive email API and SMTP service",
+      "Detailed analytics and retention tools"
+    ],
+    "confidence": "high"
+  }
+}

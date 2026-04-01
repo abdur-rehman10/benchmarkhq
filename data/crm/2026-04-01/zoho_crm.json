@@ -1,0 +1,430 @@
+{
+  "name": "zoho_crm",
+  "url": "https://www.zoho.com/crm/",
+  "scanned_at": "2026-04-01T14:22:11.600976",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/zoho_crm_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/zoho_crm_mobile.png"
+  },
+  "structure": {
+    "title": "Zoho CRM | Top-rated Sales CRM Software by Customers",
+    "url_final": "https://www.zoho.com/crm/",
+    "nav_items": [
+      {
+        "text": "Zoho.com",
+        "href": "/"
+      },
+      {
+        "text": "Bigin",
+        "href": "/bigin/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "CRM Plus",
+        "href": "/crm/crmplus/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Desk",
+        "href": "/desk/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Campaigns",
+        "href": "/campaigns/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Mail",
+        "href": "/mail/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "RouteIQ",
+        "href": "/routeiq/?src=zGlobalRelatedProducts"
+      },
+      {
+        "text": "Espa\u00f1ol",
+        "href": "https://www.zoho.com/es-xl/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Portugu\u00eas (Brasil)",
+        "href": "https://www.zoho.com/pt-br/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Deutsch",
+        "href": "https://www.zoho.com/de/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "https://www.zoho.com/fr/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Nederlands",
+        "href": "https://www.zoho.com/nl/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u65e5\u672c\u8a9e",
+        "href": "https://www.zoho.com/jp/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "href": "https://www.zoho.com/ar/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Bahasa Indonesia",
+        "href": "https://www.zoho.com/id/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+        "href": "https://www.zoho.com/th/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Ti\u1ebfng Vi\u1ec7t",
+        "href": "https://www.zoho.com/vi/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u7b80\u4f53\u4e2d\u6587",
+        "href": "https://www.zoho.com.cn/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "Fran\u00e7ais (Canada)",
+        "href": "https://www.zoho.com/fr-ca/crm/?zredirect=f&zsrc=langdropdown"
+      },
+      {
+        "text": "\u7e41\u4f53\u4e2d\u6587",
+        "href": "https://www.zoho.com/zh-hant/crm/?zredirect=f&zsrc=langdropdown"
+      }
+    ],
+    "buttons": [
+      "Manage\n                            Cookies",
+      "Accept All Cookies",
+      "Reject Unnecessary\n                            Coo",
+      "close",
+      "Save & Exit",
+      "English",
+      "1",
+      "2",
+      "3",
+      "4",
+      "Previous",
+      "Next",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "TRY ZOHO ONE",
+      "EXPLORE MARKETPLACE",
+      "GET STARTED",
+      "GET STARTED",
+      "See Pricing",
+      "Quick Tour",
+      "Contact Sales",
+      "SEE PLANS AND PRICING"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Search for product overviews, FAQs, and more..."
+          }
+        ]
+      },
+      {
+        "action": "//accounts.zoho.com/accounts/register.ac",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": "Full Name"
+          },
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Email"
+          },
+          {
+            "type": "password",
+            "name": "password",
+            "placeholder": "Password"
+          },
+          {
+            "type": "text",
+            "name": "country_code",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x_phone_countrycode",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "r_address/1.phone",
+            "placeholder": "Phone"
+          },
+          {
+            "type": "text",
+            "name": "country_code",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "x_phone_countrycode",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "rmobile",
+            "placeholder": "Phone"
+          }
+        ]
+      }
+    ],
+    "links_count": 500,
+    "images_count": 23,
+    "images_with_alt": 22,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The easiest AI CRM for growth."
+      },
+      {
+        "level": 2,
+        "text": "Get started with yourflexible free trial"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by 300K+ businesses worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Supercharge your sales withZia Agents"
+      },
+      {
+        "level": 2,
+        "text": "Teams that work together, win together"
+      },
+      {
+        "level": 2,
+        "text": "Staying relevant and driving innovation,since 2005"
+      },
+      {
+        "level": 3,
+        "text": "Can I integrate my favorite apps withZoho CRM?"
+      },
+      {
+        "level": 3,
+        "text": "How do I know what's the right edition for me?"
+      },
+      {
+        "level": 3,
+        "text": "How flexible are the contracts?"
+      },
+      {
+        "level": 3,
+        "text": "How do I migrate toZoho CRM?"
+      },
+      {
+        "level": 3,
+        "text": "Is Zoho CRM available for my industry?"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Search for product overviews, FAQs, and more..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "I\u2019m looking for\u2026"
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": "Full Name"
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Email"
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Password"
+      },
+      {
+        "type": "hidden",
+        "name": "x_phone_countrycode",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "r_address/1.phone",
+        "placeholder": "Phone"
+      },
+      {
+        "type": "hidden",
+        "name": "x_phone_countrycode",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "rmobile",
+        "placeholder": "Phone"
+      },
+      {
+        "type": "hidden",
+        "name": "x_contactnumber",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "captcha",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "tos",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x_signupURL",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "x_tempIpCountry",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "placeholder": "Enter OTP"
+      },
+      {
+        "type": "button",
+        "name": "otpfield",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Sign Up For Free",
+      "SEE PLANS AND PRICING",
+      "CRM Essentials",
+      "CRM Alternatives",
+      "CRM for Free",
+      "CRM for SMB",
+      "Agents",
+      "AI-Powered CRM",
+      "Customer Experience Suite",
+      "Google Workspace CRM",
+      "Social CRM",
+      "Help Desk CRM",
+      "Revenue Action Orchestration",
+      "What is CRM?",
+      "Solutions & Verticals",
+      "Help Center",
+      "CRM for Everyone",
+      "Find a Partner",
+      "Customer Forum"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 322,
+    "has_og_tags": true,
+    "meta_description": "Zoho CRM is an AI-powered online CRM solution that streamlines your customer operations within a single platform. Trusted by over 300,000 businesses worldwide.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered CRM",
+      "Zia Agents",
+      "Multi-language support",
+      "Extensive integration options"
+    ],
+    "confidence": "high"
+  }
+}

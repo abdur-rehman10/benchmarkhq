@@ -1,0 +1,343 @@
+{
+  "name": "gitguardian",
+  "url": "https://www.gitguardian.com",
+  "scanned_at": "2026-04-01T16:29:54.614835",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/gitguardian_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/gitguardian_mobile.png"
+  },
+  "structure": {
+    "title": "GitGuardian: Secrets Security and NHI Governance",
+    "url_final": "https://www.gitguardian.com/",
+    "nav_items": [
+      {
+        "text": "Internal Secrets MonitoringFind, fix, and prevent ",
+        "href": "/monitor-internal-repositories-for-secrets"
+      },
+      {
+        "text": "Public Secrets MonitoringProtect your external att",
+        "href": "/monitor-public-github-for-secrets"
+      },
+      {
+        "text": "NHI GovernanceGet full control and visibility of y",
+        "href": "/nhi-governance"
+      },
+      {
+        "text": "",
+        "href": "/ggshield"
+      },
+      {
+        "text": "",
+        "href": "/ggscout"
+      },
+      {
+        "text": "",
+        "href": "/detectors"
+      },
+      {
+        "text": "",
+        "href": "/integrations"
+      },
+      {
+        "text": "",
+        "href": "/nhi-security"
+      },
+      {
+        "text": "",
+        "href": "/code-security"
+      },
+      {
+        "text": "",
+        "href": "/secrets-sprawl"
+      },
+      {
+        "text": "",
+        "href": "/supply-chain-security"
+      },
+      {
+        "text": "",
+        "href": "/itdr"
+      },
+      {
+        "text": "",
+        "href": "/agentic-ai-security"
+      },
+      {
+        "text": "",
+        "href": "/developers"
+      },
+      {
+        "text": "",
+        "href": "/secops-analysts"
+      },
+      {
+        "text": "",
+        "href": "/security-engineers"
+      },
+      {
+        "text": "",
+        "href": "/iam-teams"
+      },
+      {
+        "text": "",
+        "href": "/industries/public-sector"
+      },
+      {
+        "text": "",
+        "href": "/industries/finance"
+      },
+      {
+        "text": "",
+        "href": "/industries/automotive"
+      }
+    ],
+    "buttons": [
+      "\u00d7",
+      "Learn more",
+      "Reject all",
+      "Accept all",
+      "Read the report",
+      "Read the report",
+      "Start the tour now",
+      "Start the tour now",
+      "Start the tour now",
+      "Book a Demo",
+      "Start for free",
+      "Start for free",
+      "Book a demo",
+      "See all testimonials",
+      "Learn more",
+      "Start for free",
+      "Book a demo",
+      "Run ggshield",
+      "View all Integrations",
+      "Subscribe to our Newsletter"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email-2",
+            "placeholder": "Your Company email address"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "cf-turnstile-response",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "source",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "Email-adress-2",
+            "placeholder": "Email address"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "cf-turnstile-response",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 115,
+    "images_count": 86,
+    "images_with_alt": 18,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Secure Every Secret. Govern Every NHI."
+      },
+      {
+        "level": 2,
+        "text": "600,000+ developers protected | Fortune 500 Trust | 1B+ commits scanned daily"
+      },
+      {
+        "level": 2,
+        "text": "The GitGuardian Platform"
+      },
+      {
+        "level": 2,
+        "text": "Monitor and govern your NHIs and secrets"
+      },
+      {
+        "level": 2,
+        "text": "Detection without remediation is just noise"
+      },
+      {
+        "level": 2,
+        "text": "Remediate incidents at scale"
+      },
+      {
+        "level": 3,
+        "text": "Non-Human Identity & Secrets Security"
+      },
+      {
+        "level": 3,
+        "text": "Unified Incident Management"
+      },
+      {
+        "level": 3,
+        "text": "Detailed Incident Investigation"
+      },
+      {
+        "level": 3,
+        "text": "Prioritized remediation"
+      },
+      {
+        "level": 3,
+        "text": "Enhanced collaboration"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email-2",
+        "placeholder": "Your Company email address"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "Email-adress-2",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Necessary",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Functionality",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Measurement",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Marketing",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "Secure your SDLC and Non-Human Identities (NHIs) with GitGuardian \ud83d\udd10 \u2014 detect secrets in code, repos, and tools. Available as SaaS or Self-Hosted.",
+    "scripts_count": 46
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Secrets detection and remediation",
+      "Non-Human Identity governance",
+      "Fortune 500 trusted",
+      "1B+ commits scanned daily"
+    ],
+    "confidence": "medium"
+  }
+}

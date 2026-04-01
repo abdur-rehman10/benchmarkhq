@@ -1,0 +1,198 @@
+{
+  "name": "squarespace",
+  "url": "https://www.squarespace.com",
+  "scanned_at": "2026-04-01T15:59:41.316703",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/squarespace_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/squarespace_mobile.png"
+  },
+  "structure": {
+    "title": "Website Builder \u2013 Easily Create Your Own Website \u2014 Squarespace",
+    "url_final": "https://www.squarespace.com/",
+    "nav_items": [
+      {
+        "text": "Preise",
+        "href": "/preise"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Resources",
+      "Products",
+      "Solutions",
+      "Creative Services",
+      "Professional Services",
+      "Education & Training",
+      "Beauty",
+      "Sports & Fitness",
+      "Health & Wellness",
+      "Home Services",
+      "Events & Experiences",
+      "Charities & Nonprofits",
+      "Personal",
+      "Resources",
+      "Preise",
+      "Creative Services"
+    ],
+    "forms": [
+      {
+        "action": "https://domains.squarespace.com/domain-search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query",
+            "placeholder": "Start your search here"
+          }
+        ]
+      }
+    ],
+    "links_count": 453,
+    "images_count": 86,
+    "images_with_alt": 2,
+    "headings": [
+      {
+        "level": 1,
+        "text": "A websitemakes it real"
+      },
+      {
+        "level": 2,
+        "text": "Grow your business"
+      },
+      {
+        "level": 2,
+        "text": "Everything you need on one platform"
+      },
+      {
+        "level": 2,
+        "text": "Getting started has never been easier with AI"
+      },
+      {
+        "level": 2,
+        "text": "Start with a website template designed for your business"
+      },
+      {
+        "level": 2,
+        "text": "Find the perfect domain for your website"
+      },
+      {
+        "level": 3,
+        "text": "Offer services"
+      },
+      {
+        "level": 3,
+        "text": "Sell products"
+      },
+      {
+        "level": 3,
+        "text": "Invoice clients"
+      },
+      {
+        "level": 3,
+        "text": "Get booked"
+      },
+      {
+        "level": 3,
+        "text": "Collect donations"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "query",
+        "placeholder": "Start your search here"
+      }
+    ],
+    "footer_links": [
+      "English",
+      "Deutsch",
+      "Espa\u00f1ol",
+      "Fran\u00e7ais",
+      "Italiano",
+      "\u65e5\u672c\u8a9e",
+      "Portugu\u00eas",
+      "\ud55c\uad6d\uc5b4",
+      "Website TemplatesWebsite Templates",
+      "WebsitesWebsites",
+      "DomainsDomains",
+      "AI Website BuilderAI Website Builder",
+      "Design IntelligenceDesign Intelligence",
+      "Online StoresOnline Stores",
+      "ServicesServices",
+      "InvoicingInvoicing",
+      "SchedulingScheduling",
+      "Content & MembershipsContent & Memberships",
+      "DonationsDonations"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 73,
+    "has_og_tags": true,
+    "meta_description": "Create a website and grow your business with a free Squarespace trial. Start with customizable website templates, AI website builder tools, or a domain name.",
+    "scripts_count": 58
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Website Builder",
+      "Comprehensive template library",
+      "Multi-language support"
+    ],
+    "confidence": "high"
+  }
+}

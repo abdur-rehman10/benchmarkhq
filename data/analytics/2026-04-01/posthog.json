@@ -1,0 +1,194 @@
+{
+  "name": "posthog",
+  "url": "https://posthog.com",
+  "scanned_at": "2026-04-01T14:55:06.363569",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/posthog_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/posthog_mobile.png"
+  },
+  "structure": {
+    "title": "PostHog \u2013 We make dev tools for product engineers",
+    "url_final": "https://posthog.com/",
+    "nav_items": [
+      {
+        "text": "home.mdx",
+        "href": "/"
+      },
+      {
+        "text": "Product OS",
+        "href": "/products"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "customers.mdx",
+        "href": "/customers"
+      },
+      {
+        "text": "demo.mov",
+        "href": "/demo"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Talk to a human",
+        "href": "/talk-to-a-human"
+      },
+      {
+        "text": "Sign up \u2197",
+        "href": "https://app.posthog.com/signup"
+      },
+      {
+        "text": "Why PostHog?",
+        "href": "/about"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Company handbook",
+        "href": "/handbook"
+      },
+      {
+        "text": "Store",
+        "href": "/merch"
+      },
+      {
+        "text": "Work here",
+        "href": "/careers"
+      },
+      {
+        "text": "Trash",
+        "href": "/trash"
+      }
+    ],
+    "buttons": [
+      "Product OS",
+      "Pricing",
+      "Docs",
+      "Community",
+      "Company",
+      "More",
+      "1",
+      "Ask a question",
+      "Switch to website mode",
+      "home.mdx",
+      "Zoom",
+      "Font"
+    ],
+    "forms": [],
+    "links_count": 56,
+    "images_count": 22,
+    "images_with_alt": 7,
+    "headings": [
+      {
+        "level": 1,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Explore appsby company stage"
+      },
+      {
+        "level": 2,
+        "text": "Who's using PostHog?"
+      },
+      {
+        "level": 2,
+        "text": "PostHog data stack, built for data teams and loved by product teams"
+      },
+      {
+        "level": 2,
+        "text": "Usage-based pricing"
+      },
+      {
+        "level": 2,
+        "text": "\"How can AI help analyze data and build products faster?\""
+      },
+      {
+        "level": 3,
+        "text": "Install with AI in a single prompt"
+      },
+      {
+        "level": 3,
+        "text": "PostHog AI"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "All your developer tools in one place. PostHog gives engineers everything to build, test, measure, and ship successful products faster. Get started free.",
+    "scripts_count": 30
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Usage-based pricing",
+      "AI integration for data analysis",
+      "Open-source analytics platform"
+    ],
+    "confidence": "high"
+  }
+}

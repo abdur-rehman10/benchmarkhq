@@ -1,0 +1,180 @@
+{
+  "name": "whereby",
+  "url": "https://whereby.com",
+  "scanned_at": "2026-04-01T15:54:37.696487",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/whereby_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/whereby_mobile.png"
+  },
+  "structure": {
+    "title": "Secure, customizable & reliable WebRTC Video Calls| Whereby",
+    "url_final": "https://whereby.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "./"
+      },
+      {
+        "text": "Log in",
+        "href": "https://whereby.com/user/login"
+      },
+      {
+        "text": "Get started",
+        "href": "https://whereby.com/information/select-product?ref=nav"
+      }
+    ],
+    "buttons": [
+      "Accept all cookies"
+    ],
+    "forms": [],
+    "links_count": 47,
+    "images_count": 46,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Telehealth"
+      },
+      {
+        "level": 1,
+        "text": "eLearning"
+      },
+      {
+        "level": 1,
+        "text": "Why  Whereby?"
+      },
+      {
+        "level": 2,
+        "text": "Straightforward video calls, built in Europe"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by leading companies like"
+      },
+      {
+        "level": 2,
+        "text": "Video calls for every use case"
+      },
+      {
+        "level": 2,
+        "text": "Product select"
+      },
+      {
+        "level": 2,
+        "text": "Download for free"
+      },
+      {
+        "level": 3,
+        "text": "For individuals and teams"
+      },
+      {
+        "level": 3,
+        "text": "For product builders"
+      },
+      {
+        "level": 3,
+        "text": "New report: The State of Virtual Care"
+      },
+      {
+        "level": 3,
+        "text": "Private & secure"
+      },
+      {
+        "level": 3,
+        "text": "Reliable & scalable"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Cookie Policy",
+      "Cookie Settings",
+      "Cookie settings",
+      "About us",
+      "Our vision",
+      "Careers",
+      "Press",
+      "Embedded",
+      "Meetings",
+      "What's New",
+      "Status",
+      "Developer docs",
+      "For Embedded",
+      "For Meetings",
+      "Blog",
+      "Dev Community",
+      "Twitter",
+      "LinkedIn",
+      "Instagram",
+      "Support Center"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "Host quick instant meetings or embed video calls into your platform with Whereby\u2019s video conferencing API and SDK.",
+    "scripts_count": 16
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "WebRTC-based video calls",
+      "GDPR compliance",
+      "European data centers"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "name": "pulumi",
+  "url": "https://www.pulumi.com",
+  "scanned_at": "2026-04-01T15:46:08.146207",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/pulumi_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/pulumi_mobile.png"
+  },
+  "structure": {
+    "title": "Pulumi - Infrastructure as Code in Any Programming Language",
+    "url_final": "https://www.pulumi.com/",
+    "nav_items": [
+      {
+        "text": "Slack",
+        "href": "https://slack.pulumi.com/"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs/"
+      },
+      {
+        "text": "Registry",
+        "href": "/registry/"
+      },
+      {
+        "text": "Pulumi Neo",
+        "href": "/neo"
+      },
+      {
+        "text": "Contact Us",
+        "href": "/contact"
+      },
+      {
+        "text": "Pulumi CloudSign In",
+        "href": "https://app.pulumi.com/"
+      }
+    ],
+    "buttons": [
+      "Migrate to Pulumi",
+      "Build reusable infrastructure",
+      "Import AWS resources",
+      "Manage cookies",
+      "Reject All",
+      "Accept All",
+      "Sign Up",
+      "Get Started",
+      "Contact Us",
+      "Get Started",
+      "Book a Demo"
+    ],
+    "forms": [],
+    "links_count": 288,
+    "images_count": 225,
+    "images_with_alt": 216,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Modern Infrastructure as Code,Now with Agentic AI."
+      },
+      {
+        "level": 2,
+        "text": "The Complete Platform for Infrastructure Teams"
+      },
+      {
+        "level": 2,
+        "text": "Open source. Built by engineers for engineers."
+      },
+      {
+        "level": 2,
+        "text": "Ready to try Pulumi?"
+      },
+      {
+        "level": 2,
+        "text": "What cloud infrastructure would you like today?"
+      },
+      {
+        "level": 3,
+        "text": "Trusted by over 3,700 innovative companies"
+      },
+      {
+        "level": 3,
+        "text": "Infrastructure as Code in Any Language"
+      },
+      {
+        "level": 3,
+        "text": "Meet Neo, Your AI Platform Engineer"
+      },
+      {
+        "level": 3,
+        "text": "Centralized Secrets & Configuration"
+      },
+      {
+        "level": 3,
+        "text": "See and Control Everything"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "mobile-menu",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nav-menu-checkbox",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nav-menu-checkbox",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nav-menu-checkbox",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nav-menu-checkbox",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Describe your infrastructure needs..."
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Pulumi is an infrastructure management platform to automate through infrastructure as code, secure with secrets management, and manage infrastructure with AI.",
+    "scripts_count": 11
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Infrastructure as Code in Any Language",
+      "Agentic AI with Pulumi Neo",
+      "Centralized Secrets & Configuration"
+    ],
+    "confidence": "high"
+  }
+}

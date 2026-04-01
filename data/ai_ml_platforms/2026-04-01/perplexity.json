@@ -1,0 +1,156 @@
+{
+  "name": "perplexity",
+  "url": "https://www.perplexity.ai",
+  "scanned_at": "2026-04-01T16:47:50.765329",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/perplexity_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/perplexity_mobile.png"
+  },
+  "structure": {
+    "title": "Perplexity",
+    "url_final": "https://www.perplexity.ai/",
+    "nav_items": [
+      {
+        "text": "Search\u2325\u23181",
+        "href": "/"
+      },
+      {
+        "text": "Computer\u2325\u23182",
+        "href": "/computer/new"
+      },
+      {
+        "text": "History",
+        "href": "/library"
+      },
+      {
+        "text": "Discover",
+        "href": "/discover"
+      },
+      {
+        "text": "Spaces",
+        "href": "/spaces"
+      },
+      {
+        "text": "Finance",
+        "href": "/finance"
+      },
+      {
+        "text": "Health",
+        "href": "/health"
+      }
+    ],
+    "buttons": [
+      "New thread\u2318K",
+      "More",
+      "History",
+      "Computer",
+      "Model",
+      "Try Computer",
+      "Build a business",
+      "Organize my life",
+      "Help me learn",
+      "Create a prototype",
+      "Recruiting",
+      "Lead generation",
+      "Monitor the situation",
+      "Build a financial model for my startup",
+      "Write a one-page investor pitch",
+      "Create a pitch deck I can present this week",
+      "Draft a partnership proposal for a target company",
+      "Research my top competitors and break down their s",
+      "Create a budget tracker from my spending",
+      "Plan a trip with full itinerary and bookings",
+      "Set up a weekly review system every Sunday",
+      "Triage my inbox and draft responses",
+      "Prepare me for an upcoming meeting",
+      "Turn my notes into a polished write-up",
+      "Compare tools or frameworks and recommend one"
+    ],
+    "forms": [],
+    "links_count": 8,
+    "images_count": 1,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Cookie Policy"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": true,
+    "meta_description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+    "scripts_count": 6
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "N",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven search and discovery",
+      "Various use-case buttons for business and personal tasks"
+    ],
+    "confidence": "medium"
+  }
+}

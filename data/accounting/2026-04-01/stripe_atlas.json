@@ -1,0 +1,171 @@
+{
+  "name": "stripe_atlas",
+  "url": "https://stripe.com/atlas",
+  "scanned_at": "2026-04-01T15:08:36.168504",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/stripe_atlas_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/stripe_atlas_mobile.png"
+  },
+  "structure": {
+    "title": "Stripe Atlas | Incorporate your startup in Delaware: C corp or LLC",
+    "url_final": "https://stripe.com/atlas",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Developers",
+      "Resources",
+      "Back",
+      "Products",
+      "Solutions",
+      "Developers",
+      "Resources",
+      "Start companyStarting company",
+      "Linear logo",
+      "Cursor logo",
+      "CopilotMoney logo",
+      "Cooley logo",
+      "United States (English)",
+      "Sign in",
+      "Contact sales",
+      "Start now",
+      "Contact sales"
+    ],
+    "forms": [],
+    "links_count": 326,
+    "images_count": 47,
+    "images_with_alt": 47,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Stripe logo"
+      },
+      {
+        "level": 1,
+        "text": "Payments"
+      },
+      {
+        "level": 1,
+        "text": "Revenue"
+      },
+      {
+        "level": 1,
+        "text": "Money Management"
+      },
+      {
+        "level": 1,
+        "text": "Platforms and marketplaces"
+      },
+      {
+        "level": 2,
+        "text": "Why Atlas"
+      },
+      {
+        "level": 2,
+        "text": "Getting started with Atlas"
+      },
+      {
+        "level": 2,
+        "text": "Pricing"
+      },
+      {
+        "level": 3,
+        "text": "Start your company"
+      },
+      {
+        "level": 3,
+        "text": "Your company is ready"
+      },
+      {
+        "level": 3,
+        "text": "AMA with Marc Andreessen"
+      },
+      {
+        "level": 3,
+        "text": "How to incorporate a business"
+      },
+      {
+        "level": 3,
+        "text": "Indexing the AI economy"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Start your company"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 13,
+    "has_og_tags": true,
+    "meta_description": "Stripe Atlas is a simple, powerful way to incorporate a US company. Everything you need to start a business in a few clicks\u2014we'll handle the legal paperwork.",
+    "scripts_count": 8
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Incorporation services",
+      "Delaware C corp or LLC setup",
+      "Stripe integration"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "name": "socialbee",
+  "url": "https://socialbee.com",
+  "scanned_at": "2026-04-01T17:29:41.018797",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/socialbee_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/socialbee_mobile.png"
+  },
+  "structure": {
+    "title": "SocialBee | AI-Powered Social Media Management Tool",
+    "url_final": "https://socialbee.com/",
+    "nav_items": [
+      {
+        "text": "Skip to content",
+        "href": "#content"
+      }
+    ],
+    "buttons": [
+      "Get started now",
+      "Subscribe",
+      "Log in",
+      "Sign up free",
+      "Try it for free \u2192",
+      "Log in",
+      "Sign up free",
+      "Get started for free",
+      "Book a demo",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Test out our AI",
+      "Find out more",
+      "See what our customers say",
+      "Get started for free",
+      "Find out more",
+      "View all services",
+      "Get a Fiverr expert",
+      "Learn more",
+      "Learn more",
+      "Register for free",
+      "Learn more",
+      "See all resorces",
+      "Get started"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "post_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "referer_title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "queried_id",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "g-recaptcha-response",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "form_fields[email]",
+            "placeholder": "Enter your email..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "post_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "referer_title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "queried_id",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "g-recaptcha-response",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "form_fields[email]",
+            "placeholder": "Email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 140,
+    "images_count": 122,
+    "images_with_alt": 117,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The complete solution to take care of your social media profiles"
+      },
+      {
+        "level": 2,
+        "text": "Your all-in-one social media scheduler and assistant"
+      },
+      {
+        "level": 2,
+        "text": "Create, generate, and design"
+      },
+      {
+        "level": 2,
+        "text": "Get help from our AI assistant, Copilot"
+      },
+      {
+        "level": 2,
+        "text": "Manage all your accounts from one place"
+      },
+      {
+        "level": 2,
+        "text": "Schedule posts ahead of time for when you\u2019re away"
+      },
+      {
+        "level": 3,
+        "text": "NETWORK INTEGRATIONS"
+      },
+      {
+        "level": 3,
+        "text": "Get a ConciergeBee expert"
+      },
+      {
+        "level": 3,
+        "text": "SocialBeex Fiverr"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "placeholder": "Enter your email..."
+      },
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "placeholder": "Email address"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 41,
+    "has_og_tags": true,
+    "meta_description": "Manage your social media accounts with ease, from one place with our Social Media Management tool. Try 14-day free trial today!",
+    "scripts_count": 87
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered social media management",
+      "Comprehensive scheduling and management tools",
+      "Integration with multiple social networks",
+      "AI assistant Copilot for content creation"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "name": "semgrep",
+  "url": "https://semgrep.dev",
+  "scanned_at": "2026-04-01T16:30:41.680443",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/semgrep_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/semgrep_mobile.png"
+  },
+  "structure": {
+    "title": "Semgrep App Security Platform | AI-assisted SAST, SCA and Secrets Detection",
+    "url_final": "https://semgrep.dev/",
+    "nav_items": [
+      {
+        "text": "Sign in",
+        "href": "/login/"
+      },
+      {
+        "text": "Product support",
+        "href": "/resources/customer-success/"
+      },
+      {
+        "text": "Contact us",
+        "href": "/contact-us/"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Resources",
+      "Company",
+      "Submit",
+      "Allow All",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Reject Optional Cookies",
+      "Confirm My Choices",
+      "Book demo",
+      "Try for free",
+      "Book demo",
+      "Try for free",
+      "Book demo",
+      "Try for free",
+      "Book a demo",
+      "Try for free",
+      "Explore the platform",
+      "Learn more about MCP",
+      "Learn More"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Product_Interest__c",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "formOptIn",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Source__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Medium__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Campaign__c",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      }
+    ],
+    "links_count": 136,
+    "images_count": 108,
+    "images_with_alt": 57,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Code Securityfor Builders"
+      },
+      {
+        "level": 2,
+        "text": "Built for Builders, Trusted by Security"
+      },
+      {
+        "level": 2,
+        "text": "The high signal code \u2028security platform"
+      },
+      {
+        "level": 2,
+        "text": "AI woven across the AppSec lifecycle"
+      },
+      {
+        "level": 2,
+        "text": "No buzzwords, justreal world results"
+      },
+      {
+        "level": 2,
+        "text": "Privacy Preference Center"
+      },
+      {
+        "level": 3,
+        "text": "Semgrep Code (SAST)"
+      },
+      {
+        "level": 3,
+        "text": "Semgrep Supply Chain (SCA)"
+      },
+      {
+        "level": 3,
+        "text": "Semgrep Secrets Scanning"
+      },
+      {
+        "level": 3,
+        "text": "Security for AI-powered software development"
+      },
+      {
+        "level": 3,
+        "text": "Detect What Matters"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "formOptIn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Source__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Medium__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Campaign__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Term__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Content__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uTMAdgroup",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clearbitFormStatus",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "formid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "munchkinId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "originalUTMMedium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "originalUtmSource",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Semgrep Code",
+      "Semgrep Supply Chain",
+      "Semgrep Secrets",
+      "Semgrep Multimodal",
+      "Semgrep AppSec Platform",
+      "Semgrep Pro Engine",
+      "Secure Vibe Coding",
+      "Open-Source Malware Protection",
+      "Static Application Security Testing",
+      "OWASP Top 10",
+      "Secure Guardrails",
+      "Docs",
+      "Pricing",
+      "Blog",
+      "Getting started with Semgrep",
+      "Registry",
+      "Playground",
+      "ROI Calculator",
+      "Book a demo",
+      "Help Center"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 22,
+    "has_og_tags": true,
+    "meta_description": "An extensible developer-friendly application security platform that scans source code to surface true and actionable security issues with AI-assisted SAST, SCA, and Secrets Detection solutions.",
+    "scripts_count": 48
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "Y",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-assisted SAST, SCA, and Secrets Detection",
+      "Book a demo and Try for free options",
+      "Privacy Preference Center"
+    ],
+    "confidence": "medium"
+  }
+}

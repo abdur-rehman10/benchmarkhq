@@ -1,0 +1,235 @@
+{
+  "name": "help_scout",
+  "url": "https://www.helpscout.com",
+  "scanned_at": "2026-04-01T14:33:52.392390",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/help_scout_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/help_scout_mobile.png"
+  },
+  "structure": {
+    "title": "Help Scout: Shared Inbox, Help Center, & Live Chat Software",
+    "url_final": "https://www.helpscout.com/",
+    "nav_items": [
+      {
+        "text": "Skip to content",
+        "href": "#main-content"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Inbox",
+        "href": "/inbox/"
+      },
+      {
+        "text": "AI",
+        "href": "/ai-features/"
+      },
+      {
+        "text": "Knowledge Base",
+        "href": "/knowledge-base/"
+      },
+      {
+        "text": "Messages",
+        "href": "/proactive-messages/"
+      },
+      {
+        "text": "Insights & Analytics",
+        "href": "/analytics/"
+      },
+      {
+        "text": "Apps & Integrations",
+        "href": "/help-desk-integration/"
+      },
+      {
+        "text": "Mobile",
+        "href": "/mobile/"
+      },
+      {
+        "text": "Product updates2026 Winter Seasonal Release",
+        "href": "//updates.helpscout.com/"
+      },
+      {
+        "text": "Help Scout BlogTips and actionable content",
+        "href": "/blog/"
+      },
+      {
+        "text": "Guides & ToolsResources to help you grow",
+        "href": "/resources/"
+      },
+      {
+        "text": "Live ClassesFree training and demos",
+        "href": "/classes/"
+      },
+      {
+        "text": "Customer StoriesResults in action",
+        "href": "/customers/"
+      },
+      {
+        "text": "The SupportiveSeason 2 Episode 05:Young Henrys",
+        "href": "/blog/the-supportive/"
+      },
+      {
+        "text": "AboutOur history and values",
+        "href": "/about/"
+      },
+      {
+        "text": "CareersJoin the team",
+        "href": "/company/careers/"
+      },
+      {
+        "text": "Partner ProgramGrow businesses with Help Scout",
+        "href": "/partner/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Login",
+        "href": "https://secure.helpscout.net/?mxid=%24device%3A4495c786-1006-45e3-a945-31f512e9bf36&__hstc=238111519"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Resources",
+      "Company",
+      "Reply in seconds",
+      "Make it personal",
+      "Prioritize with ease",
+      "Click for sound",
+      "Click for sound",
+      "Click for sound",
+      "Click for sound",
+      "Answer instantly with\u00a0AI",
+      "Keep human help within reach",
+      "Save customers time",
+      "Welcome and onboard",
+      "Gather feedback and\u00a0NPS\u00ae",
+      "Share what\u2019s new",
+      "\u201cWhat\u2019s our volume across channels?\u201d",
+      "\u201cHow\u2019s our response time?\u201d",
+      "\u201cWhere can we improve?\u201d"
+    ],
+    "forms": [],
+    "links_count": 70,
+    "images_count": 161,
+    "images_with_alt": 102,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI clears the way.Your support team creates the impact."
+      },
+      {
+        "level": 2,
+        "text": "One home for all your support conversations"
+      },
+      {
+        "level": 2,
+        "text": "Plus, all the little things support teams love"
+      },
+      {
+        "level": 2,
+        "text": "Why do 12,000+ companies choose Help\u00a0Scout?"
+      },
+      {
+        "level": 2,
+        "text": "Start for Free"
+      },
+      {
+        "level": 3,
+        "text": "Automation where it helps"
+      },
+      {
+        "level": 3,
+        "text": "People at the heart"
+      },
+      {
+        "level": 3,
+        "text": "Insights to improve"
+      },
+      {
+        "level": 3,
+        "text": "Get a boost from AI"
+      },
+      {
+        "level": 3,
+        "text": "Company management"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 30,
+    "has_og_tags": true,
+    "meta_description": "Help Scout's shared inbox, help center, and live chat software gives your team the tools you need to easily manage customer communications.",
+    "scripts_count": 98
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered support",
+      "Shared inbox",
+      "Proactive messaging",
+      "Insights & analytics",
+      "Mobile support"
+    ],
+    "confidence": "high"
+  }
+}

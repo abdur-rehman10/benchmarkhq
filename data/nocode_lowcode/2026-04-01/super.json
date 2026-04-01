@@ -1,0 +1,193 @@
+{
+  "name": "super",
+  "url": "https://super.so",
+  "scanned_at": "2026-04-01T16:39:09.631928",
+  "screenshots": {
+    "desktop": "data/nocode_lowcode/2026-04-01/screenshots/super_desktop.png",
+    "mobile": "data/nocode_lowcode/2026-04-01/screenshots/super_mobile.png"
+  },
+  "structure": {
+    "title": "Super \u2014 Create Custom Websites with Notion",
+    "url_final": "https://super.so/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Templates",
+        "href": "/templates"
+      },
+      {
+        "text": "Showcase",
+        "href": "/showcase"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing-annual"
+      },
+      {
+        "text": "Guides",
+        "href": "/guides"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://app.super.so"
+      },
+      {
+        "text": "Get started free",
+        "href": "https://app.super.so/signup?fpr=supercontent&fp_sid=super-create-custom-websites-wit"
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 85,
+    "images_count": 81,
+    "images_with_alt": 69,
+    "headings": [
+      {
+        "level": 1,
+        "text": "super.so"
+      },
+      {
+        "level": 1,
+        "text": "The #1 tool for turning a Notion document into a website"
+      },
+      {
+        "level": 2,
+        "text": "How to use Notion as a website"
+      },
+      {
+        "level": 2,
+        "text": "Join over 100,000 creators using Super"
+      },
+      {
+        "level": 2,
+        "text": "Your content lives in Notion"
+      },
+      {
+        "level": 2,
+        "text": "Customize to match your brand"
+      },
+      {
+        "level": 2,
+        "text": "World-class Performance"
+      },
+      {
+        "level": 3,
+        "text": "Choose or create a Notion\u00a0page"
+      },
+      {
+        "level": 3,
+        "text": "Paste the Notion page\u2019s web link in\u00a0Super"
+      },
+      {
+        "level": 3,
+        "text": "Share your site with the\u00a0world"
+      },
+      {
+        "level": 3,
+        "text": "How does Super work?"
+      },
+      {
+        "level": 3,
+        "text": "What is Notion?"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Templates",
+      "Showcase",
+      "Builder",
+      "Themes",
+      "Illustrations",
+      "Icons",
+      "Status page",
+      "Blog",
+      "Pricing",
+      "Docs",
+      "Community",
+      "Guides",
+      "Roadmap",
+      "Report",
+      "Changelog",
+      "Privacy",
+      "DPA",
+      "Terms",
+      "Affiliates"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "Create a custom website in less than a minute with instant page loads, SEO optimization, and customized theming. All your content is kept and managed in Notion so you can focus on creating while Super",
+    "scripts_count": 148
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "Y",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "Y",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Integration with Notion",
+      "Customizable website creation",
+      "World-class performance"
+    ],
+    "confidence": "medium"
+  }
+}

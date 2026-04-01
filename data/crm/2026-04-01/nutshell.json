@@ -1,0 +1,250 @@
+{
+  "name": "nutshell",
+  "url": "https://www.nutshell.com",
+  "scanned_at": "2026-04-01T14:25:10.797995",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/nutshell_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/nutshell_mobile.png"
+  },
+  "structure": {
+    "title": "Powerful & Easy-to-Use CRM for Small Businesses | Nutshell",
+    "url_final": "https://www.nutshell.com/",
+    "nav_items": [
+      {
+        "text": "Product",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=3w6rTL98mVs"
+      },
+      {
+        "text": "CRM & Sales",
+        "href": "https://www.nutshell.com/crm"
+      },
+      {
+        "text": "Marketing",
+        "href": "https://www.nutshell.com/marketing"
+      },
+      {
+        "text": "Engagement",
+        "href": "https://www.nutshell.com/engagement"
+      },
+      {
+        "text": "Prospecting",
+        "href": "https://www.nutshell.com/nutshell-iq"
+      },
+      {
+        "text": "Quotes & Invoices",
+        "href": "https://www.nutshell.com/quotes"
+      },
+      {
+        "text": "AI",
+        "href": "https://www.nutshell.com/ai"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://www.nutshell.com/integrations-category/all"
+      },
+      {
+        "text": "Reporting",
+        "href": "https://www.nutshell.com/reports"
+      },
+      {
+        "text": "CRM Advisor",
+        "href": "https://www.nutshell.com/crm-advisor"
+      },
+      {
+        "text": "Partner Marketplace",
+        "href": "https://www.nutshell.com/partners"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://www.nutshell.com/pricing"
+      },
+      {
+        "text": "Nutshell AI",
+        "href": "https://www.nutshell.com/ai"
+      },
+      {
+        "text": "Resources",
+        "href": "#"
+      },
+      {
+        "text": "Case Studies & Testimonials",
+        "href": "https://www.nutshell.com/customers"
+      },
+      {
+        "text": "CRM for Your Workflow",
+        "href": "https://www.nutshell.com/how-you-sell"
+      },
+      {
+        "text": "CRM for Your Industry",
+        "href": "https://www.nutshell.com/industries"
+      },
+      {
+        "text": "Customer Onboarding",
+        "href": "https://www.nutshell.com/crm-onboarding"
+      },
+      {
+        "text": "Customer Support",
+        "href": "https://www.nutshell.com/customer-support"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Chat",
+      "Call",
+      "Quote",
+      "Free 14-Day Trial",
+      "Log in",
+      "Free 14-Day Trial",
+      "Start 14-day free trial",
+      "Book free demo",
+      "Start 14-day free trial",
+      "Book free demo",
+      "Start 14-day free trial",
+      "Book free demo"
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search for..."
+          }
+        ]
+      }
+    ],
+    "links_count": 132,
+    "images_count": 98,
+    "images_with_alt": 69,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Save time. Close deals."
+      },
+      {
+        "level": 3,
+        "text": "Everything you need to sell smarter"
+      },
+      {
+        "level": 3,
+        "text": "Contact management"
+      },
+      {
+        "level": 3,
+        "text": "Email and calendar sync"
+      },
+      {
+        "level": 3,
+        "text": "Smart reporting"
+      },
+      {
+        "level": 3,
+        "text": "Leads and\u2028pipelines"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search for..."
+      }
+    ],
+    "footer_links": [
+      "Product & Pricing",
+      "CRM & Sales Features",
+      "Marketing Features",
+      "Engagement Features",
+      "Quotes & Invoices",
+      "Nutshell IQ",
+      "CRM Consulting",
+      "See All Features",
+      "Pricing",
+      "Integrations & More",
+      "Integration Marketplace",
+      "AI Agent Marketplace",
+      "Recent Product Updates",
+      "Next Action Selling",
+      "Compare Nutshell",
+      "Industries",
+      "Digital Marketing",
+      "API",
+      "Support",
+      "Help Center"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Nutshell provides an all-in-one growth software featuring CRM, email marketing, and contact management to help sales teams close more deals. Learn more.",
+    "scripts_count": 103
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI integration",
+      "Smart reporting",
+      "Free 14-day trial"
+    ],
+    "confidence": "medium"
+  }
+}

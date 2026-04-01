@@ -1,0 +1,147 @@
+{
+  "name": "plane",
+  "url": "https://plane.so",
+  "scanned_at": "2026-04-01T14:16:12.411896",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/plane_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/plane_mobile.png"
+  },
+  "structure": {
+    "title": "AI-native project management | Plane",
+    "url_final": "https://plane.so/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Self-hostPlane",
+        "href": "/self-hosted"
+      },
+      {
+        "text": "Contact sales",
+        "href": "/talk-to-sales"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.plane.so/"
+      },
+      {
+        "text": "Get started free",
+        "href": "https://app.plane.so/sign-up"
+      }
+    ],
+    "buttons": [
+      "Answers from across your workspaceAsk Plane AI any",
+      "Agents that do the work for youBuilt-in agents han",
+      "Works where your team already talksBring Plane AI ",
+      "Accept all",
+      "Accept required"
+    ],
+    "forms": [],
+    "links_count": 110,
+    "images_count": 76,
+    "images_with_alt": 70,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Project management and knowledge\nmanagement for teams and agents"
+      },
+      {
+        "level": 2,
+        "text": "Four products in one workspace\nfor your whole org"
+      },
+      {
+        "level": 2,
+        "text": "AI that works because it knows your context"
+      },
+      {
+        "level": 2,
+        "text": "Two Fortune 10 companies\n chose Plane for their Jira migration."
+      },
+      {
+        "level": 2,
+        "text": "Flexible features for every\nproject, and all teams"
+      },
+      {
+        "level": 2,
+        "text": "Self-host without compromise,\non-prem and air-gapped"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 19,
+    "has_og_tags": true,
+    "meta_description": "Project management for teams and AI agents. Plan, track, and ship with Projects, Wiki, and AI. Available on cloud, self-hosted, and air-gapped.",
+    "scripts_count": 107
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-native project management",
+      "Self-hosting capabilities",
+      "Integration with existing team communication tools"
+    ],
+    "confidence": "medium"
+  }
+}

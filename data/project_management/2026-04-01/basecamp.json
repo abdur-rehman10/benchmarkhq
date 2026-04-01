@@ -1,0 +1,264 @@
+{
+  "name": "basecamp",
+  "url": "https://basecamp.com",
+  "scanned_at": "2026-04-01T14:12:23.488843",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/basecamp_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/basecamp_mobile.png"
+  },
+  "structure": {
+    "title": "Basecamp \u2014 Project management software, online collaboration",
+    "url_final": "https://basecamp.com/",
+    "nav_items": [
+      {
+        "text": "Basecamp",
+        "href": "/"
+      },
+      {
+        "text": "Real world results",
+        "href": "/customers"
+      },
+      {
+        "text": "Features",
+        "href": "/#features"
+      },
+      {
+        "text": "Paths",
+        "href": "/paths"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://launchpad.37signals.com/signin"
+      },
+      {
+        "text": "Sign up free",
+        "href": "/pricing#packages"
+      },
+      {
+        "text": "Real world results",
+        "href": "/customers"
+      },
+      {
+        "text": "Features",
+        "href": "/#features"
+      },
+      {
+        "text": "Paths",
+        "href": "/paths"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "No",
+      "Yes, that\u2019s fine",
+      "Hit play to see how Basecamp is different",
+      "What\u2019s my week look like?",
+      "What\u2019s on my plate today?",
+      "Which projects am I on?",
+      "A project page organizes everything",
+      "What to do + who\u2019s doing?",
+      "Who said what when?",
+      "What\u2019s due next?",
+      "Where\u2019s the latest version?",
+      "Got a quick question?",
+      "How\u2019s the process flowing?",
+      "What\u2019s overdue?",
+      "How much time have we spent?",
+      "Who\u2019s responsible for what?",
+      "What\u2019s actually been happening?",
+      "How far along are we?",
+      "How are we feeling?",
+      "What still needs to be figured out?",
+      "Have private 1-1 or small group conversations",
+      "Notifications in one place, not in your face",
+      "Can the client see this?",
+      "Where\u2019s the final version so we can show the clien",
+      "Did the client officially approve it?",
+      "Where\u2019s the client\u2019s email they sent?",
+      "Subscribe",
+      "Sign in",
+      "Sign up free",
+      "Desktop apps"
+    ],
+    "forms": [
+      {
+        "action": "https://basecamp.us2.list-manage.com/subscribe/post-json?u=2a145c60b16248b65e46a799a&id=476312b66e&c",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "b_2a145c60b16248b65e46a799a_476312b66e",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "tags",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "EMAIL",
+            "placeholder": "julie.young@hey.com"
+          }
+        ]
+      }
+    ],
+    "links_count": 103,
+    "images_count": 25,
+    "images_with_alt": 25,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Wrestling with projects?It doesn\u2019t have to be this hard."
+      },
+      {
+        "level": 2,
+        "text": "Let\u2019s walk through it."
+      },
+      {
+        "level": 2,
+        "text": "You wouldn\u2019t be here if theway you\u2019ve been working was working. It\u2019s time for Ba"
+      },
+      {
+        "level": 3,
+        "text": "10 seconds after you sign up, clarity sets in."
+      },
+      {
+        "level": 3,
+        "text": "Projects get teams \u2014 and keep teams \u2014 organized."
+      },
+      {
+        "level": 3,
+        "text": "Reports give you confidence to hold people accountable."
+      },
+      {
+        "level": 3,
+        "text": "Visualizations are for seeing, not squinting."
+      },
+      {
+        "level": 3,
+        "text": "Ping! Hey! It\u2019s for you."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "b_2a145c60b16248b65e46a799a_476312b66e",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tags",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "EMAIL",
+        "placeholder": "julie.young@hey.com"
+      }
+    ],
+    "footer_links": [
+      "whenever and wherever you are",
+      "Desktop apps",
+      "iOS",
+      "Android",
+      "Sign in to Basecamp",
+      "See all our upcoming classes",
+      "Apr2Intro to BasecampThu, Apr 2, 8:00pm",
+      "Apr7Intro to BasecampTue, Apr 7, 8:00pm",
+      "Apr9Working with ClientsThu, Apr 9, 8:00pm",
+      "Apr10Keeping TrackFri, Apr 10, 8:00pm",
+      "our newsletter",
+      "contact us",
+      "Watch tutorials",
+      "read the help guides",
+      "send us a message",
+      "If you love Basecamp, you\u2019ll loveHEY\u2014 our delightf",
+      "What\u2019s new",
+      "The people\u2019s path to Basecamp",
+      "Books we\u2019ve written",
+      "Where we came from"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 45,
+    "has_og_tags": true,
+    "meta_description": "Trusted by millions, Basecamp puts everything you need to get work done in one place. It\u2019s the calm, organized way to manage projects, work with clients, and communicate company-wide.",
+    "scripts_count": 8
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Simple and intuitive project management",
+      "Emphasis on team collaboration",
+      "Visual project tracking"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,194 @@
+metadata:
+  industry: design_creative
+  name: Design & Creative SaaS
+  category: Design
+  version: 1.0.0
+  generated_at: '2026-04-01T15:37:17.818975'
+  sites_analyzed: 30
+  sites:
+  - figma
+  - canva
+  - adobe_creative_cloud
+  - sketch
+  - framer
+  - penpot
+  - invision
+  - miro
+  - figjam
+  - whimsical
+  - excalidraw
+  - lucidchart
+  - lottie
+  - spline
+  - rive
+  - pitch
+  - beautifulai
+  - gamma
+  - removebg
+  - photoroom
+  - runway
+  - midjourney
+  - pika
+  - descript
+  - loom
+  - capcut
+  - veedio
+  - riverside
+  - storybook
+  - zeplin
+features:
+  critical:
+  - id: signup_no_creditcard
+    frequency: 28/29
+    percent: 97
+  - id: product_screenshots
+    frequency: 27/29
+    percent: 93
+  - id: cookie_consent
+    frequency: 26/29
+    percent: 93
+  - id: privacy_policy
+    frequency: 26/29
+    percent: 90
+  - id: pricing_page
+    frequency: 25/29
+    percent: 86
+  - id: free_trial
+    frequency: 24/29
+    percent: 86
+  - id: multiple_tiers
+    frequency: 25/29
+    percent: 86
+  - id: enterprise_tier
+    frequency: 25/29
+    percent: 86
+  - id: terms_of_service
+    frequency: 25/29
+    percent: 86
+  required:
+  - id: free_tier
+    frequency: 24/29
+    percent: 83
+  - id: annual_discount
+    frequency: 21/29
+    percent: 81
+  - id: feature_comparison_table
+    frequency: 21/29
+    percent: 78
+  - id: transparent_pricing
+    frequency: 21/29
+    percent: 75
+  - id: help_center
+    frequency: 21/29
+    percent: 75
+  - id: blog
+    frequency: 21/29
+    percent: 72
+  - id: templates_available
+    frequency: 21/29
+    percent: 72
+  - id: integrations_page
+    frequency: 20/29
+    percent: 71
+  - id: contact_page
+    frequency: 20/29
+    percent: 71
+  - id: customer_logos
+    frequency: 20/29
+    percent: 69
+  - id: changelog
+    frequency: 20/29
+    percent: 69
+  - id: careers_page
+    frequency: 20/29
+    percent: 69
+  - id: community_forum
+    frequency: 20/29
+    percent: 69
+  - id: about_page
+    frequency: 19/29
+    percent: 68
+  - id: video_demo
+    frequency: 19/29
+    percent: 66
+  - id: desktop_app
+    frequency: 19/29
+    percent: 66
+  recommended:
+  - id: multi_language
+    frequency: 18/29
+    percent: 64
+  - id: api_documentation
+    frequency: 18/29
+    percent: 62
+  - id: github_presence
+    frequency: 18/29
+    percent: 62
+  - id: ios_app
+    frequency: 17/29
+    percent: 61
+  - id: android_app
+    frequency: 17/29
+    percent: 61
+  - id: interactive_demo
+    frequency: 17/29
+    percent: 59
+  - id: status_page
+    frequency: 16/29
+    percent: 57
+  - id: social_signup
+    frequency: 16/29
+    percent: 57
+  - id: onboarding_video
+    frequency: 16/29
+    percent: 57
+  - id: gdpr_mentioned
+    frequency: 15/29
+    percent: 54
+  - id: code_examples
+    frequency: 15/29
+    percent: 52
+  - id: live_chat
+    frequency: 14/29
+    percent: 50
+  - id: sdk_available
+    frequency: 14/29
+    percent: 48
+  - id: security_page
+    frequency: 12/29
+    percent: 43
+  - id: webhooks_support
+    frequency: 12/29
+    percent: 43
+  nice_to_have:
+  - id: developer_portal
+    frequency: 11/29
+    percent: 39
+  - id: case_studies
+    frequency: 10/29
+    percent: 36
+  - id: browser_extension
+    frequency: 10/29
+    percent: 36
+  - id: api_playground
+    frequency: 8/29
+    percent: 30
+  - id: openapi_spec
+    frequency: 8/29
+    percent: 30
+  - id: dpa_available
+    frequency: 7/29
+    percent: 27
+  - id: soc2_mentioned
+    frequency: 6/29
+    percent: 23
+  - id: iso27001_mentioned
+    frequency: 6/29
+    percent: 23
+  - id: sla_published
+    frequency: 6/29
+    percent: 23
+  innovative:
+  - id: roi_calculator
+    frequency: 1/29
+    percent: 4

@@ -1,0 +1,474 @@
+{
+  "name": "oyster",
+  "url": "https://www.oysterhr.com",
+  "scanned_at": "2026-04-01T15:18:33.537064",
+  "screenshots": {
+    "desktop": "data/hr_people/2026-04-01/screenshots/oyster_desktop.png",
+    "mobile": "data/hr_people/2026-04-01/screenshots/oyster_mobile.png"
+  },
+  "structure": {
+    "title": "Oyster HR | Global Payroll & HR Software | Hire in +180 Countries",
+    "url_final": "https://www.oysterhr.com/",
+    "nav_items": [
+      {
+        "text": "Oyster Home",
+        "href": "https://www.oysterhr.com/?"
+      },
+      {
+        "text": "Employer of RecordHire and pay global full-timers",
+        "href": "https://www.oysterhr.com/how-it-works/employer-of-record?"
+      },
+      {
+        "text": "Global PayrollRun payroll for your multi-country t",
+        "href": "https://www.oysterhr.com/global-payroll?"
+      },
+      {
+        "text": "Global ContractorsHire and pay global contractors",
+        "href": "https://www.oysterhr.com/how-it-works/global-contractors?"
+      },
+      {
+        "text": "Salary InsightsAccess salary and benefits insights",
+        "href": "https://www.oysterhr.com/salary-insights-tool?"
+      },
+      {
+        "text": "People Partner ServicesWhite-glove HR advisory for",
+        "href": "https://www.oysterhr.com/product/people-partner-services?"
+      },
+      {
+        "text": "Employee BenefitsAttract and retain talent with co",
+        "href": "https://www.oysterhr.com/how-it-works/benefits?"
+      },
+      {
+        "text": "Visa SponsorshipSponsor visas and relocate employe",
+        "href": "https://www.oysterhr.com/talent-mobility?"
+      },
+      {
+        "text": "US PEOOutsource your US payroll, benefits, and HR",
+        "href": "https://www.oysterhr.com/professional-employer-organization?"
+      },
+      {
+        "text": "IntegrationsConnect Oyster to your HR tech stack",
+        "href": "https://www.oysterhr.com/integrations?"
+      },
+      {
+        "text": "APIAutomate your workflows with our API",
+        "href": "https://www.oysterhr.com/developer-api?"
+      },
+      {
+        "text": "Oyster EmbeddedEnable your customers to hire globa",
+        "href": "https://www.oysterhr.com/embedded?"
+      },
+      {
+        "text": "Oyster PartnersLet's build the future of work toge",
+        "href": "https://partners.oysterhr.com/?"
+      },
+      {
+        "text": "Global ExpansionTest new talent markets",
+        "href": "https://www.oysterhr.com/global-expansion?"
+      },
+      {
+        "text": "Contractor ConversionTransition contractors to ful",
+        "href": "https://www.oysterhr.com/contractor-conversion?"
+      },
+      {
+        "text": "Switch EORsBring your team to Oyster",
+        "href": "https://www.oysterhr.com/switch-eors?"
+      },
+      {
+        "text": "Talent NetworkSource top global talent",
+        "href": "https://www.oysterhr.com/talent-network?"
+      },
+      {
+        "text": "Country CoverageHire in 180+ countries",
+        "href": "https://www.oysterhr.com/country-availability?"
+      },
+      {
+        "text": "Global ComplianceScale compliantly across the glob",
+        "href": "https://www.oysterhr.com/global-compliance?"
+      },
+      {
+        "text": "Customer SuccessBe guided by a team of experts",
+        "href": "https://www.oysterhr.com/how-it-works/strategic-partnership?"
+      }
+    ],
+    "buttons": [
+      "Reject",
+      "Customize",
+      "Accept",
+      "Book a Demo",
+      "Book a Demo",
+      "Book a Demo",
+      "Book a Demo",
+      "Get Started",
+      "Back",
+      "Schedule now",
+      "Skip to main content",
+      "Log In",
+      "Sign Up",
+      "Launch extra-terrestrial hiring",
+      "See integrations",
+      "See pricing",
+      "Sign up now"
+    ],
+    "forms": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/9021803/653b10eb-3996-484",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": "First Name"
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": "Last Name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Business Email"
+          },
+          {
+            "type": "hidden",
+            "name": "last_utm_campaign",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "last_utm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "last_utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "last_utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "last_utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "page_section",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "page_source",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/9021803/1e519b8c-380e-4a0",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "0-1/email",
+            "placeholder": "Work email*"
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/last_utm_campaign",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/last_utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/last_utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/last_utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/last_utm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/page_section",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/page_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/conversion_page",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-1/msclkid",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 103,
+    "images_count": 71,
+    "images_with_alt": 59,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The universe is yourOyster"
+      },
+      {
+        "level": 1,
+        "text": "Finally, an Employer of Record that puts people first"
+      },
+      {
+        "level": 2,
+        "text": "The Employer of Record for this star system, and beyond."
+      },
+      {
+        "level": 2,
+        "text": "Powered by people whocare as much as you do"
+      },
+      {
+        "level": 2,
+        "text": "Growing your globalteam is exciting"
+      },
+      {
+        "level": 2,
+        "text": "Oyster brings claritywhen nuance matters"
+      },
+      {
+        "level": 2,
+        "text": "Growing your global team is exciting"
+      },
+      {
+        "level": 3,
+        "text": "yourSoftware Engineer"
+      },
+      {
+        "level": 3,
+        "text": "yourProduct Manager"
+      },
+      {
+        "level": 3,
+        "text": "yourData Analyst"
+      },
+      {
+        "level": 3,
+        "text": "yourTranslator"
+      },
+      {
+        "level": 3,
+        "text": "yourCustomer Service Rep"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": "First Name"
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": "Last Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Business Email"
+      },
+      {
+        "type": "hidden",
+        "name": "last_utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "last_utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "last_utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "last_utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "last_utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "page_section",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "page_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "conversion_page",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fastlaneformgo_",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "msclkid",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "0-1/email",
+        "placeholder": "Work email*"
+      },
+      {
+        "type": "hidden",
+        "name": "0-1/last_utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "0-1/last_utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "0-1/last_utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "0-1/last_utm_term",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Employer of Record",
+      "Global Contractors",
+      "Global Payroll",
+      "People Partner Services",
+      "Employee Benefits",
+      "Visa Sponsorship",
+      "US PEO",
+      "Salary Insights",
+      "Pricing",
+      "Integrations",
+      "Developer API",
+      "Case Studies",
+      "Country Availability",
+      "Direct+ Infrastructure",
+      "Global Hiring Guides",
+      "Employee Cost Calculator",
+      "Global Employment Tools",
+      "Blogs",
+      "Events",
+      "Podcasts"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 31,
+    "has_og_tags": true,
+    "meta_description": "Hire, pay, and manage teams globally with Oyster. Streamline payroll, ensure compliance, and simplify HR in +180 countries\u2014all on one platform.",
+    "scripts_count": 99
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "U",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "N",
+      "templates_available": "U",
+      "onboarding_video": "N",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Global payroll and HR services",
+      "Employer of Record services",
+      "Visa sponsorship and relocation support"
+    ],
+    "confidence": "medium"
+  }
+}

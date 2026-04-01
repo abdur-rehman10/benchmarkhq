@@ -1,0 +1,434 @@
+{
+  "name": "github",
+  "url": "https://github.com",
+  "scanned_at": "2026-04-01T15:37:17.846965",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/github_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/github_mobile.png"
+  },
+  "structure": {
+    "title": "GitHub \u00b7 Change is constant. GitHub keeps you ahead. \u00b7 GitHub",
+    "url_final": "https://github.com/",
+    "nav_items": [
+      {
+        "text": "GitHub CopilotWrite better code with AI",
+        "href": "https://github.com/features/copilot"
+      },
+      {
+        "text": "GitHub SparkBuild and deploy intelligent apps",
+        "href": "https://github.com/features/spark"
+      },
+      {
+        "text": "GitHub ModelsManage and compare prompts",
+        "href": "https://github.com/features/models"
+      },
+      {
+        "text": "MCP RegistryNewIntegrate external tools",
+        "href": "https://github.com/mcp"
+      },
+      {
+        "text": "ActionsAutomate any workflow",
+        "href": "https://github.com/features/actions"
+      },
+      {
+        "text": "CodespacesInstant dev environments",
+        "href": "https://github.com/features/codespaces"
+      },
+      {
+        "text": "IssuesPlan and track work",
+        "href": "https://github.com/features/issues"
+      },
+      {
+        "text": "Code ReviewManage code changes",
+        "href": "https://github.com/features/code-review"
+      },
+      {
+        "text": "GitHub Advanced SecurityFind and fix vulnerabiliti",
+        "href": "https://github.com/security/advanced-security"
+      },
+      {
+        "text": "Code securitySecure your code as you build",
+        "href": "https://github.com/security/advanced-security/code-security"
+      },
+      {
+        "text": "Secret protectionStop leaks before they start",
+        "href": "https://github.com/security/advanced-security/secret-protection"
+      },
+      {
+        "text": "Why GitHub",
+        "href": "https://github.com/why-github"
+      },
+      {
+        "text": "Documentation",
+        "href": "https://docs.github.com"
+      },
+      {
+        "text": "Blog",
+        "href": "https://github.blog"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://github.blog/changelog"
+      },
+      {
+        "text": "Marketplace",
+        "href": "https://github.com/marketplace"
+      },
+      {
+        "text": "View all features",
+        "href": "https://github.com/features"
+      },
+      {
+        "text": "Enterprises",
+        "href": "https://github.com/enterprise"
+      },
+      {
+        "text": "Small and medium teams",
+        "href": "https://github.com/team"
+      },
+      {
+        "text": "Startups",
+        "href": "https://github.com/enterprise/startups"
+      }
+    ],
+    "buttons": [
+      "Toggle navigation",
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Open Source",
+      "Enterprise",
+      "Search or jump to...",
+      "Cancel",
+      "Submit feedback",
+      "Cancel",
+      "Create saved search",
+      "Resetting focus",
+      "Sign up for GitHub",
+      "Code",
+      "Plan",
+      "Collaborate",
+      "Automate",
+      "Secure",
+      "Code",
+      "Automate your path to production",
+      "Code instantly from anywhere"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "query-builder-test",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search/feedback",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "authenticity_token",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "feedback",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "include_email",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search/custom_scopes",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "authenticity_token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "custom_scope_id",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "custom_scope_name",
+            "placeholder": "github-ruby"
+          },
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "custom_scope_query",
+            "placeholder": "(repo:mona/a OR repo:mona/b) AND lang:python"
+          }
+        ]
+      },
+      {
+        "action": "/signup",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "source",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "user_email",
+            "placeholder": "you@domain.com"
+          }
+        ]
+      },
+      {
+        "action": "/signup",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "source",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "user_email",
+            "placeholder": "you@domain.com"
+          }
+        ]
+      }
+    ],
+    "links_count": 153,
+    "images_count": 24,
+    "images_with_alt": 7,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Search code, repositories, users, issues, pull requests..."
+      },
+      {
+        "level": 1,
+        "text": "Provide feedback"
+      },
+      {
+        "level": 1,
+        "text": "Saved searches"
+      },
+      {
+        "level": 1,
+        "text": "The future of building happens together"
+      },
+      {
+        "level": 2,
+        "text": "Navigation Menu"
+      },
+      {
+        "level": 2,
+        "text": "Use saved searches to filter your results more quickly"
+      },
+      {
+        "level": 2,
+        "text": "GitHub features"
+      },
+      {
+        "level": 2,
+        "text": "GitHub customers"
+      },
+      {
+        "level": 2,
+        "text": "Accelerate your entire workflow"
+      },
+      {
+        "level": 3,
+        "text": "Explore"
+      },
+      {
+        "level": 3,
+        "text": "Your AI partner everywhere.Copilot is ready to work with you at each step of the"
+      },
+      {
+        "level": 3,
+        "text": "Automate your path to production"
+      },
+      {
+        "level": 3,
+        "text": "Code instantly from anywhere"
+      },
+      {
+        "level": 3,
+        "text": "Keep momentum on the go"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "query-builder-test",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "include_email",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "custom_scope_id",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "custom_scope_name",
+        "placeholder": "github-ruby"
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "custom_scope_query",
+        "placeholder": "(repo:mona/a OR repo:mona/b) AND lang:python"
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "user_email",
+        "placeholder": "you@domain.com"
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "user_email",
+        "placeholder": "you@domain.com"
+      }
+    ],
+    "footer_links": [
+      "Subscribe",
+      "Features",
+      "Enterprise",
+      "Copilot",
+      "AI",
+      "Security",
+      "Pricing",
+      "Team",
+      "Resources",
+      "Roadmap",
+      "Compare GitHub",
+      "Developer API",
+      "Partners",
+      "Education",
+      "GitHub CLI",
+      "GitHub Desktop",
+      "GitHub Mobile",
+      "GitHub Marketplace",
+      "MCP Registry"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 34,
+    "has_og_tags": true,
+    "meta_description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+    "scripts_count": 56
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "GitHub Copilot AI integration",
+      "GitHub Actions for automation",
+      "GitHub Codespaces for instant dev environments",
+      "Advanced security features"
+    ],
+    "confidence": "high"
+  }
+}

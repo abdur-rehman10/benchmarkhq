@@ -1,0 +1,389 @@
+{
+  "name": "chargebee",
+  "url": "https://www.chargebee.com",
+  "scanned_at": "2026-04-01T15:12:38.577802",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/chargebee_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/chargebee_mobile.png"
+  },
+  "structure": {
+    "title": "Chargebee: SaaS for Effective Revenue Growth Management",
+    "url_final": "https://www.chargebee.com/",
+    "nav_items": [
+      {
+        "text": "Chargebee",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Partners",
+        "href": "/partners/"
+      },
+      {
+        "text": "Get a Demo",
+        "href": "/schedule-a-demo/"
+      },
+      {
+        "text": "Start Free Trial",
+        "href": "/trial-signup/"
+      },
+      {
+        "text": "Terms of Service",
+        "href": "/company/terms/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/privacy/"
+      },
+      {
+        "text": "Do not sell or share my personal information",
+        "href": "#"
+      },
+      {
+        "text": "Start Free Trial",
+        "href": "/trial-signup/"
+      },
+      {
+        "text": "Get a Demo",
+        "href": "/schedule-a-demo/"
+      },
+      {
+        "text": "Billing",
+        "href": "https://app.chargebee.com/login"
+      },
+      {
+        "text": "Receivables",
+        "href": "https://ar.numberz.in/login/"
+      },
+      {
+        "text": "RevRec",
+        "href": "https://app.revrec.chargebee.com/"
+      },
+      {
+        "text": "Retention",
+        "href": "https://app.brightback.com/company/sign-in"
+      },
+      {
+        "text": "English",
+        "href": "/"
+      },
+      {
+        "text": "Deutsch",
+        "href": "/de/"
+      },
+      {
+        "text": "Dutch",
+        "href": "/nl/"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "/fr/"
+      }
+    ],
+    "buttons": [
+      "Schedule a Demo",
+      "Book a call",
+      "CLOSE",
+      "Products",
+      "Solutions",
+      "Developers",
+      "Resources",
+      "LoginBillingReceivablesRevRecRetention",
+      "EnglishDeutschDutchFran\u00e7ais",
+      "Open main menu",
+      "Get a Demo",
+      "PRICING",
+      "QUOTING",
+      "INVOICING",
+      "PAYMENTS",
+      "REVREC",
+      "GROWTH",
+      "<-",
+      "->",
+      "Get a Demo",
+      "\u00d7",
+      "Close Survey"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": "First Name*"
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": "Last Name"
+          },
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": "Business Email"
+          },
+          {
+            "type": "text",
+            "name": "visitorIPCountryCode",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "Phone",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "CB_Number_of_Employees_Prospect__c",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "CB_Number_of_Employees_Prospect__c",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "CB_Number_of_Employees_Prospect__c",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "CB_Number_of_Employees_Prospect__c",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "CB_Number_of_Employees_Prospect__c",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      }
+    ],
+    "links_count": 224,
+    "images_count": 59,
+    "images_with_alt": 55,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Every Pricing Model,One Billing System"
+      },
+      {
+        "level": 2,
+        "text": "Hate waiting?"
+      },
+      {
+        "level": 3,
+        "text": "Footer"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "placeholder": "First Name*"
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "placeholder": "Last Name"
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": "Business Email"
+      },
+      {
+        "type": "tel",
+        "name": "Phone",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "CB_Number_of_Employees_Prospect__c",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "CB_Number_of_Employees_Prospect__c",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "CB_Number_of_Employees_Prospect__c",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "CB_Number_of_Employees_Prospect__c",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "CB_Number_of_Employees_Prospect__c",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "optIn",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMMedium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMSource",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMCampaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMContent",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMKeyword",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMTerm",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "uTMGCLID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMAdgroup",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lastUTMCampaignID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "X6Sense_Country",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "English",
+      "\u2713English",
+      "\ud83c\udde9\ud83c\uddeaDeutsch",
+      "\ud83c\uddf3\ud83c\uddf1Dutch",
+      "\ud83c\uddeb\ud83c\uddf7Fran\u00e7ais",
+      "About us",
+      "Customers",
+      "Partners",
+      "Careers",
+      "Press",
+      "Brand Guidelines",
+      "Modern Slavery Act Statement",
+      "Contact us",
+      "Billing Automation",
+      "Billing for AI",
+      "Usage-based pricing",
+      "CPQ",
+      "Entitlements",
+      "Payments"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 31,
+    "has_og_tags": true,
+    "meta_description": "Unlock hyper-growth with Chargebee's Software-as-a-Service. Streamline revenue operations & grow your business efficiently. Join the trajectory to success now.",
+    "scripts_count": 40
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive API documentation",
+      "Strong focus on security and compliance",
+      "Multiple pricing tiers including enterprise options",
+      "Extensive integration capabilities"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "name": "iterable",
+  "url": "https://iterable.com",
+  "scanned_at": "2026-04-01T14:50:24.872713",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/iterable_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/iterable_mobile.png"
+  },
+  "structure": {
+    "title": "Iterable: The AI-Powered Cross-Channel Communication Platform",
+    "url_final": "https://iterable.com/",
+    "nav_items": [
+      {
+        "text": "Download Chrome",
+        "href": "https://www.google.com/chrome/"
+      },
+      {
+        "text": "Close",
+        "href": "#"
+      },
+      {
+        "text": "Iterable was named a Strong Performer in The Forre",
+        "href": "https://iterable.com/whitepaper/the-forrester-wave-email-marketing-service-providers-q1-2026/"
+      },
+      {
+        "text": "Close",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "https://iterable.com"
+      },
+      {
+        "text": "Why Iterable",
+        "href": "#"
+      },
+      {
+        "text": "Product",
+        "href": "#"
+      },
+      {
+        "text": "Solutions",
+        "href": "#"
+      },
+      {
+        "text": "Learning",
+        "href": "#"
+      },
+      {
+        "text": "Support",
+        "href": "#"
+      },
+      {
+        "text": "Why IterableCustomer-centric messaging that's easy",
+        "href": "https://iterable.com/why-iterable/"
+      },
+      {
+        "text": "Customer StoriesHear from leading brands deliverin",
+        "href": "https://iterable.com/customers/"
+      },
+      {
+        "text": "How We CompareBest-in-class communications platfor",
+        "href": "https://iterable.com/how-we-stack-up/"
+      },
+      {
+        "text": "Iterable Value Calculator",
+        "href": "https://iterable.com/value-calculator/"
+      },
+      {
+        "text": "About UsMeet Iterable and learn about our company ",
+        "href": "https://iterable.com/company/"
+      },
+      {
+        "text": "News & MediaOur latest company announcements and p",
+        "href": "https://iterable.com/news-media/"
+      },
+      {
+        "text": "What\u2019s NewDiscover recently launched and upcoming ",
+        "href": "https://iterable.com/whats-new/"
+      },
+      {
+        "text": "Product OverviewAI-powered cross channel communica",
+        "href": "https://iterable.com/product/"
+      },
+      {
+        "text": "Platform Tour",
+        "href": "https://iterable.com/platform-tour/"
+      },
+      {
+        "text": "Iterable Nova",
+        "href": "https://iterable.com/product/nova/"
+      }
+    ],
+    "buttons": [
+      "Accept All",
+      "Reject All",
+      "Customize Settings",
+      "\u00d7",
+      "Submit",
+      "1",
+      "2",
+      "3",
+      "\u00d7",
+      "Send to My Inbox",
+      "Watch 5-Minute Demo",
+      "\u00d7",
+      "Start the Tour",
+      "Watch 5-Minute Demo",
+      "\u00d7",
+      "Sign Up",
+      "\u00d7",
+      "Submit",
+      "Submit",
+      "\u00d7",
+      "\u00d7",
+      "Register Now",
+      "Download Chrome",
+      "Book a Demo",
+      "Login",
+      "Book a Demo",
+      "Login",
+      "Request Demo",
+      "Meet Our Customers"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Country",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Company",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "Phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Email_Sends_per_Month_Range__c",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "demoRequestEmailProvider",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "demoRequestNotesImport",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingConsent",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "Email",
+            "placeholder": "Company Email*"
+          },
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": "First Name*"
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": "Last Name*"
+          },
+          {
+            "type": "text",
+            "name": "Country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingConsent",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eventId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "URL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_mktoReferrer",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "formVid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "munchkinId",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "Email",
+            "placeholder": "Company Email*"
+          },
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": "First Name*"
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": "Last Name*"
+          },
+          {
+            "type": "text",
+            "name": "Country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingConsent",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eventId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "URL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_mktoReferrer",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "formVid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "munchkinId",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": "First Name*"
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": "Last Name*"
+          },
+          {
+            "type": "text",
+            "name": "Email",
+            "placeholder": "Company Email*"
+          },
+          {
+            "type": "text",
+            "name": "Company",
+            "placeholder": "Company*"
+          },
+          {
+            "type": "text",
+            "name": "Country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingConsent",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eventId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "URL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_mktoReferrer",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "formVid",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": "First Name*"
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": "Last Name*"
+          },
+          {
+            "type": "text",
+            "name": "Email",
+            "placeholder": "Email*"
+          },
+          {
+            "type": "text",
+            "name": "Company",
+            "placeholder": "Company*"
+          },
+          {
+            "type": "text",
+            "name": "Country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingConsent",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingConsent",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eventId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "URL",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_mktoReferrer",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 180,
+    "images_count": 150,
+    "images_with_alt": 39,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Campaigns are out. Moments are in."
+      },
+      {
+        "level": 2,
+        "text": "See who\u2019s leading the new era of marketing with Iterable"
+      },
+      {
+        "level": 2,
+        "text": "Stop guessing. Start delivering."
+      },
+      {
+        "level": 2,
+        "text": "Today\u2019s ideas for tomorrow\u2019s marketers"
+      },
+      {
+        "level": 2,
+        "text": "Power up your martech stack"
+      },
+      {
+        "level": 3,
+        "text": "Privacy Promise"
+      },
+      {
+        "level": 3,
+        "text": "Increase Purchase Frequency"
+      },
+      {
+        "level": 3,
+        "text": "Drive More Engagement"
+      },
+      {
+        "level": 3,
+        "text": "Accelerate Upsell"
+      },
+      {
+        "level": 3,
+        "text": "A Cheat Sheet for Behavioral Marketing Triggers"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "Phone",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "URL",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_mktoReferrer",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "formVid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "munchkinId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "formid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "HQ_State__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "HQ_Country__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "Title",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "State",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "City",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "Address",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "MobilePhone",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cbit__LinkedIn__c",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About Us",
+      "Our Culture",
+      "Careers",
+      "Partners",
+      "News",
+      "Legal",
+      "Trust",
+      "Library",
+      "Support",
+      "Iterable Value Calculator",
+      "Activate Conference",
+      "Blog",
+      "Contact Sales",
+      "Ditch The Cult",
+      "LinkedIn",
+      "X",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Threads"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 68,
+    "has_og_tags": true,
+    "meta_description": "Deliver dynamic, data-driven experiences across channels with Iterable\u2019s AI-powered platform\u2014designed to engage customers in the moments that matter.",
+    "scripts_count": 46
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered cross-channel communication",
+      "Strong performer in Forrester Wave",
+      "Customer-centric messaging",
+      "Iterable Value Calculator"
+    ],
+    "confidence": "high"
+  }
+}

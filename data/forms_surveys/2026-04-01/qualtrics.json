@@ -1,0 +1,442 @@
+{
+  "name": "qualtrics",
+  "url": "https://www.qualtrics.com",
+  "scanned_at": "2026-04-01T18:04:24.654569",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/qualtrics_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/qualtrics_mobile.png"
+  },
+  "structure": {
+    "title": "Qualtrics XM: The Leading Experience Management Software - Qualtrics",
+    "url_final": "https://www.qualtrics.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Customer Experience",
+        "href": "/customer-experience/"
+      },
+      {
+        "text": "Voice Of Customer",
+        "href": "/customer-experience/voice-of-customer/"
+      },
+      {
+        "text": "Omnichannel Experience Management",
+        "href": "/customer-experience/omnichannel/"
+      },
+      {
+        "text": "Location Experience Management",
+        "href": "/customer-experience/locations/"
+      },
+      {
+        "text": "See all customer experience products",
+        "href": "/customer-experience/capabilities/"
+      },
+      {
+        "text": "Increase customer lifetime value",
+        "href": "/use-cases/customer-lifetime-value/"
+      },
+      {
+        "text": "Increase NPS/CSAT",
+        "href": "/use-cases/nps-csat/"
+      },
+      {
+        "text": "Improve operational efficiency",
+        "href": "/use-cases/operational-efficiency/"
+      },
+      {
+        "text": "Decrease churn",
+        "href": "/use-cases/customer-retention/"
+      },
+      {
+        "text": "Download the full report",
+        "href": "/ebooks-guides/gartner-voice-of-customer/"
+      },
+      {
+        "text": "Employee Experience",
+        "href": "/employee-experience/"
+      },
+      {
+        "text": "360 Development Feedback",
+        "href": "/employee-experience/360-degree-feedback/"
+      },
+      {
+        "text": "Employee Engagement",
+        "href": "/employee-experience/employee-engagement/"
+      },
+      {
+        "text": "Employee Onboarding & Exit",
+        "href": "/employee-experience/employee-lifecycle/"
+      },
+      {
+        "text": "See all employee experience products",
+        "href": "/employee-experience/capabilities/"
+      },
+      {
+        "text": "Improve employee productivity",
+        "href": "/use-cases/employee-productivity/"
+      },
+      {
+        "text": "Improve engagement",
+        "href": "/use-cases/employee-engagement/"
+      },
+      {
+        "text": "Reduce unwanted attrition",
+        "href": "/use-cases/employee-attrition/"
+      },
+      {
+        "text": "Download the full report",
+        "href": "/ebooks-guides/forrester-ex-wave/?utm_lp=nav-merchandising-banner"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Customer Experience",
+      "Employee Experience",
+      "Market Research",
+      "Solutions",
+      "By industry",
+      "By team",
+      "By use case",
+      "Resources",
+      "Popular resources",
+      "Company",
+      "X4 Summit",
+      "Support",
+      "EN",
+      "Request Demo",
+      "Products",
+      "Solutions",
+      "Resources",
+      "Support",
+      "EN",
+      "Request Demo",
+      "Customer Experience",
+      "Employee Experience",
+      "Market Research",
+      "EN",
+      "Request Demo"
+    ],
+    "forms": [
+      {
+        "action": "https://www-api.qualtrics.com/www-api/marketo-sync",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "first_name",
+            "placeholder": " "
+          },
+          {
+            "type": "text",
+            "name": "last_name",
+            "placeholder": " "
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": " "
+          },
+          {
+            "type": "text",
+            "name": "job_title",
+            "placeholder": " "
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": " "
+          },
+          {
+            "type": "tel",
+            "name": "phone_number",
+            "placeholder": " "
+          },
+          {
+            "type": "select",
+            "name": "country",
+            "placeholder": " "
+          },
+          {
+            "type": "text",
+            "name": "lead_comments",
+            "placeholder": " "
+          },
+          {
+            "type": "checkbox",
+            "name": "marketing_optin",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "privacy_optin",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "dialog",
+        "fields": []
+      },
+      {
+        "action": "",
+        "method": "dialog",
+        "fields": []
+      },
+      {
+        "action": "",
+        "method": "dialog",
+        "fields": []
+      },
+      {
+        "action": "",
+        "method": "dialog",
+        "fields": []
+      }
+    ],
+    "links_count": 271,
+    "images_count": 43,
+    "images_with_alt": 41,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Give every decision the context it deserves"
+      },
+      {
+        "level": 2,
+        "text": "Customer Experience"
+      },
+      {
+        "level": 2,
+        "text": "Employee Experience"
+      },
+      {
+        "level": 2,
+        "text": "Market Research"
+      },
+      {
+        "level": 2,
+        "text": "By industry"
+      },
+      {
+        "level": 2,
+        "text": "By team"
+      },
+      {
+        "level": 3,
+        "text": "What Qualtrics does:"
+      },
+      {
+        "level": 3,
+        "text": "What you can achieve:"
+      },
+      {
+        "level": 3,
+        "text": "What Qualtrics does:"
+      },
+      {
+        "level": 3,
+        "text": "What you can achieve:"
+      },
+      {
+        "level": 3,
+        "text": "What Qualtrics does:"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "radio",
+        "name": "faV2-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "faV2-0",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "faV2-0",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "placeholder": " "
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "placeholder": " "
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": " "
+      },
+      {
+        "type": "text",
+        "name": "job_title",
+        "placeholder": " "
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": " "
+      },
+      {
+        "type": "tel",
+        "name": "phone_number",
+        "placeholder": " "
+      },
+      {
+        "type": "checkbox",
+        "name": "marketing_optin",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy_optin",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "q_offer_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "q_product_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referral_url",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_lp",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Increase customer lifetime value",
+      "Improve engagement",
+      "Reduce research cost & increase insight quality",
+      "Voice Of Customer",
+      "Omnichannel Experience Management",
+      "Employee Engagement",
+      "360 Development Feedback",
+      "Market & Audience Understanding",
+      "Healthcare",
+      "Financial services",
+      "Public sector",
+      "CX professionals",
+      "Research teams",
+      "Product research",
+      "Digital",
+      "Human resources",
+      "Community",
+      "Customer Success Hub",
+      "Product documentation"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 71,
+    "has_og_tags": true,
+    "meta_description": "",
+    "scripts_count": 59
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "mega_menu",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive experience management",
+      "Strong integration capabilities",
+      "Robust security and compliance features"
+    ],
+    "confidence": "high"
+  }
+}

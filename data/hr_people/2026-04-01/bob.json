@@ -1,0 +1,424 @@
+{
+  "name": "bob",
+  "url": "https://www.hibob.com",
+  "scanned_at": "2026-04-01T15:18:12.152660",
+  "screenshots": {
+    "desktop": "data/hr_people/2026-04-01/screenshots/bob_desktop.png",
+    "mobile": "data/hr_people/2026-04-01/screenshots/bob_mobile.png"
+  },
+  "structure": {
+    "title": "All-in-one HR software for people, payroll & finance | HiBob",
+    "url_final": "https://www.hibob.com/",
+    "nav_items": [
+      {
+        "text": "Platform",
+        "href": "https://www.hibob.com/features/"
+      },
+      {
+        "text": "Platform Overview",
+        "href": "https://www.hibob.com/features/"
+      },
+      {
+        "text": "Core",
+        "href": "https://www.hibob.com/platform/core/"
+      },
+      {
+        "text": "Employee Self Service",
+        "href": "https://www.hibob.com/platform/core/self-service/"
+      },
+      {
+        "text": "Data & Analytics",
+        "href": "https://www.hibob.com/platform/core/analytics/"
+      },
+      {
+        "text": "Workflows & Automation",
+        "href": "https://www.hibob.com/platform/core/automation/"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://www.hibob.com/integrations"
+      },
+      {
+        "text": "Talent Suite",
+        "href": "https://www.hibob.com/talent/"
+      },
+      {
+        "text": "Bob Hiring",
+        "href": "https://www.hibob.com/talent/hiring/"
+      },
+      {
+        "text": "Bob Talent",
+        "href": "https://www.hibob.com/talent/performance-management/"
+      },
+      {
+        "text": "Bob Learning",
+        "href": "https://www.hibob.com/talent/learning-management/"
+      },
+      {
+        "text": "HR Planning Suite",
+        "href": "https://www.hibob.com/planning/"
+      },
+      {
+        "text": "Workforce Planning",
+        "href": "https://www.hibob.com/planning/workforce-planning/"
+      },
+      {
+        "text": "Compensation",
+        "href": "https://www.hibob.com/planning/compensation/"
+      },
+      {
+        "text": "Payroll Suite",
+        "href": "https://www.hibob.com/payroll/"
+      },
+      {
+        "text": "US Payroll",
+        "href": "https://www.hibob.com/payroll/us/"
+      },
+      {
+        "text": "UK Payroll",
+        "href": "https://www.hibob.com/payroll/uk/"
+      },
+      {
+        "text": "Payroll Hub",
+        "href": "https://www.hibob.com/payroll/hub/"
+      },
+      {
+        "text": "Benefits Administration",
+        "href": "https://www.hibob.com/payroll/benefits-administration/"
+      },
+      {
+        "text": "Finance Suite",
+        "href": "https://www.hibob.com/finance/"
+      }
+    ],
+    "buttons": [
+      "English",
+      "NEXT",
+      "Next",
+      "SCHEDULE NOW",
+      "Preview Bob (3:27)",
+      "Preview Bob (3:27)",
+      "Please click here to start over.",
+      "NEXT",
+      "Next",
+      "NEXT",
+      "SKIP TO VIDEO",
+      "3-MIN DEMO VIDEO",
+      "20-MIN DEMO VIDEO",
+      "3-MIN DEMO VIDEO",
+      "20-MIN DEMO VIDEO",
+      "20-MIN DEMO VIDEO",
+      "Go to case studies",
+      "Please click here to start over."
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "useremail",
+            "placeholder": "Business email*"
+          },
+          {
+            "type": "text",
+            "name": "fullname",
+            "placeholder": "Full Name*"
+          },
+          {
+            "type": "text",
+            "name": "country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "GDPR_Opt_in__c",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Which_modules_are_you_interested_in__c",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "CS_Comments__c",
+            "placeholder": "Why are you interested in this module?*"
+          },
+          {
+            "type": "number",
+            "name": "NumberOfEmployees",
+            "placeholder": "Number of employees*"
+          },
+          {
+            "type": "text",
+            "name": "Company",
+            "placeholder": "Company Name*"
+          },
+          {
+            "type": "text",
+            "name": "title",
+            "placeholder": "Job Title*"
+          },
+          {
+            "type": "text",
+            "name": "MobilePhone",
+            "placeholder": "Mobile Phone*"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "useremail",
+            "placeholder": "Business email*"
+          },
+          {
+            "type": "text",
+            "name": "fullname",
+            "placeholder": "Full Name*"
+          },
+          {
+            "type": "text",
+            "name": "country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "GDPR_Opt_in__c",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Which_modules_are_you_interested_in__c",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "CS_Comments__c",
+            "placeholder": "Why are you interested in this module?*"
+          },
+          {
+            "type": "number",
+            "name": "NumberOfEmployees",
+            "placeholder": "Number of employees*"
+          },
+          {
+            "type": "text",
+            "name": "Company",
+            "placeholder": "Company Name*"
+          },
+          {
+            "type": "text",
+            "name": "title",
+            "placeholder": "Job Title*"
+          }
+        ]
+      }
+    ],
+    "links_count": 166,
+    "images_count": 68,
+    "images_with_alt": 62,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Lovedby people. Built for growth."
+      },
+      {
+        "level": 2,
+        "text": "The AI-powered platform that\u2019s easy to use and fast to scale."
+      },
+      {
+        "level": 2,
+        "text": "All-in-one HR, from hire to retire."
+      },
+      {
+        "level": 2,
+        "text": "Real outcomes. Real fast."
+      },
+      {
+        "level": 2,
+        "text": "Meet the Bob AI Companion."
+      },
+      {
+        "level": 3,
+        "text": "Join5,000+companies and81,828380,818988peopleusing HiBob right now."
+      },
+      {
+        "level": 3,
+        "text": "Simplify complex HR processes"
+      },
+      {
+        "level": 3,
+        "text": "Turn talent into your unfair advantage"
+      },
+      {
+        "level": 3,
+        "text": "Run payroll without the pain"
+      },
+      {
+        "level": 3,
+        "text": "Craft a people strategy that drives business performance"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "useremail",
+        "placeholder": "Business email*"
+      },
+      {
+        "type": "text",
+        "name": "fullname",
+        "placeholder": "Full Name*"
+      },
+      {
+        "type": "checkbox",
+        "name": "GDPR_Opt_in__c",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "NumberOfEmployees",
+        "placeholder": "Number of employees*"
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "placeholder": "Company Name*"
+      },
+      {
+        "type": "text",
+        "name": "title",
+        "placeholder": "Job Title*"
+      },
+      {
+        "type": "text",
+        "name": "MobilePhone",
+        "placeholder": "Mobile Phone*"
+      },
+      {
+        "type": "email",
+        "name": "useremail",
+        "placeholder": "Business email*"
+      },
+      {
+        "type": "text",
+        "name": "fullname",
+        "placeholder": "Full Name*"
+      },
+      {
+        "type": "checkbox",
+        "name": "GDPR_Opt_in__c",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "NumberOfEmployees",
+        "placeholder": "Number of employees*"
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "placeholder": "Company Name*"
+      },
+      {
+        "type": "text",
+        "name": "title",
+        "placeholder": "Job Title*"
+      }
+    ],
+    "footer_links": [
+      "X",
+      "Facebook",
+      "LinkedIn",
+      "Instagram",
+      "YouTube",
+      "Solutions Overview",
+      "Bob Skills",
+      "Culture",
+      "DEI&B",
+      "Pay transparency",
+      "Platform Overview",
+      "Employee Self Service",
+      "Data & Analytics",
+      "Workflows & Automation",
+      "Integrations",
+      "Hiring",
+      "Performance"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 33,
+    "has_og_tags": true,
+    "meta_description": "Streamline HR, Payroll & Finance with HiBob. Automate processes and planning without the noise. Just Enough Thinking, just the right results.",
+    "scripts_count": 45
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered platform",
+      "Comprehensive HR suite",
+      "Strong focus on user experience"
+    ],
+    "confidence": "high"
+  }
+}

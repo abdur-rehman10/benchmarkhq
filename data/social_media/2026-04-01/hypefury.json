@@ -1,0 +1,252 @@
+{
+  "name": "hypefury",
+  "url": "https://hypefury.com",
+  "scanned_at": "2026-04-01T17:37:39.843924",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/hypefury_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/hypefury_mobile.png"
+  },
+  "structure": {
+    "title": "Hypefury - Social media scheduling & automation for creators",
+    "url_final": "https://hypefury.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "https://hypefury.com/features-pricing/"
+      },
+      {
+        "text": "Supporters",
+        "href": "https://hypefury.com/supporters/"
+      },
+      {
+        "text": "Our story",
+        "href": "https://hypefury.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://hypefury.com/blog-en/"
+      }
+    ],
+    "buttons": [
+      "Subscribe",
+      "Login",
+      "Try for Free",
+      "Try Hypefury for free today",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "Try Hypefury for free",
+      "See pricing",
+      "Try Hypefury for free"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "post_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "form_id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "referer_title",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "queried_id",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "form_fields[name]",
+            "placeholder": "Name"
+          },
+          {
+            "type": "email",
+            "name": "form_fields[email]",
+            "placeholder": "Email"
+          },
+          {
+            "type": "hidden",
+            "name": "form_fields[GrowthNotes]",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 102,
+    "images_count": 62,
+    "images_with_alt": 60,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Build your\ud835\udd4fLinkedInInstagram,Email\u00a0ListSuccess"
+      },
+      {
+        "level": 1,
+        "text": "Build your\ud835\udd4f, LinkedIn, Instagram, \nEmail List,and Success"
+      },
+      {
+        "level": 2,
+        "text": "You without Hypefury"
+      },
+      {
+        "level": 2,
+        "text": "You with Hypefury"
+      },
+      {
+        "level": 2,
+        "text": "This is howyoubenefit from Hypefury."
+      },
+      {
+        "level": 2,
+        "text": "Kind words"
+      },
+      {
+        "level": 2,
+        "text": "We boost your influence"
+      },
+      {
+        "level": 3,
+        "text": "Quickly Get Inspired to Create"
+      },
+      {
+        "level": 3,
+        "text": "Fast Repurposing"
+      },
+      {
+        "level": 3,
+        "text": "Smart & Simple Automation"
+      },
+      {
+        "level": 3,
+        "text": "Automate Everything"
+      },
+      {
+        "level": 3,
+        "text": "Smart Engaging"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "placeholder": "Name"
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "placeholder": "Email"
+      },
+      {
+        "type": "hidden",
+        "name": "form_fields[GrowthNotes]",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "We help you build an audience and monetize your socials. Get inspired to create and use Hypefury to increase your revenue.",
+    "scripts_count": 50
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Social media scheduling",
+      "Automation for creators",
+      "Free trial available"
+    ],
+    "confidence": "medium"
+  }
+}

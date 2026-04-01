@@ -1,0 +1,244 @@
+{
+  "name": "deel",
+  "url": "https://www.deel.com",
+  "scanned_at": "2026-04-01T15:11:04.476980",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/deel_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/deel_mobile.png"
+  },
+  "structure": {
+    "title": "Deel | Global Payroll, Compliance, HR Solutions | HRIS",
+    "url_final": "https://www.deel.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.deel.com/login"
+      }
+    ],
+    "buttons": [
+      "Necessary86",
+      "Preferences7",
+      "Statistics99",
+      "Marketing112",
+      "Unclassified2708",
+      "[#IABV2_LABEL_PURPOSES#]",
+      "[#IABV2_LABEL_FEATURES#]",
+      "[#IABV2_LABEL_PARTNERS#]",
+      "Allow all cookies",
+      "Customize",
+      "Allow selection",
+      "Necessary cookies only",
+      "Solutions",
+      "Use cases",
+      "Who we serve",
+      "Resources",
+      "EN",
+      "Log in",
+      "Book a demo",
+      "Speak to sales",
+      "Deel Payroll",
+      "Deel HR",
+      "Deel IT",
+      "Deel Hire",
+      "150+ currencies supported,including crypto, for ce"
+    ],
+    "forms": [],
+    "links_count": 242,
+    "images_count": 128,
+    "images_with_alt": 121,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Hire, manage, pay, & equip anyone,anywhere."
+      },
+      {
+        "level": 2,
+        "text": "The Global People Platform"
+      },
+      {
+        "level": 2,
+        "text": "Accomplish more in less time"
+      },
+      {
+        "level": 2,
+        "text": "One modern experience for today's workforce"
+      },
+      {
+        "level": 2,
+        "text": "Our customer reviews"
+      },
+      {
+        "level": 3,
+        "text": "Deel Payroll"
+      },
+      {
+        "level": 3,
+        "text": "Deel HR"
+      },
+      {
+        "level": 3,
+        "text": "Deel IT"
+      },
+      {
+        "level": 3,
+        "text": "Deel Benefits"
+      },
+      {
+        "level": 3,
+        "text": "Deel Hire"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "What's your e-mail?"
+      }
+    ],
+    "footer_links": [
+      "About us",
+      "Leadership team",
+      "Careers",
+      "Deel Impact",
+      "Pricing",
+      "Deel Payroll",
+      "Deel HR",
+      "Deel IT",
+      "Deel Benefits",
+      "Deel Hire",
+      "Deel Mobility",
+      "Deel Embedded",
+      "Deel Services",
+      "All Solutions",
+      "HR Platform",
+      "Deel AI",
+      "White Label",
+      "Deel API",
+      "Integrations",
+      "Workflows"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 107,
+    "has_og_tags": true,
+    "meta_description": "Hire, pay, and manage teams in 150+ countries with Deel. Run global payroll, ensure compliance, and streamline HR operations\u2014all on one powerful platform.",
+    "scripts_count": 110
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Global payroll and compliance solutions",
+      "Comprehensive HR platform",
+      "Integration with various tools",
+      "Strong focus on security and compliance"
+    ],
+    "confidence": "high"
+  }
+}

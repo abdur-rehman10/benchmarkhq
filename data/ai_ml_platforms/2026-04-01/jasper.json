@@ -1,0 +1,339 @@
+{
+  "name": "jasper",
+  "url": "https://www.jasper.ai",
+  "scanned_at": "2026-04-01T16:44:19.070135",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/jasper_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/jasper_mobile.png"
+  },
+  "structure": {
+    "title": "Put AI agents to work for marketing | Jasper",
+    "url_final": "https://www.jasper.ai/",
+    "nav_items": [],
+    "buttons": [
+      "Copy SVG",
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Company",
+      "Pricing",
+      "Get A Demo",
+      "Get The Report",
+      "Get The Report",
+      "Learn More",
+      "Learn More",
+      "Start a free trial",
+      "Get a Demo",
+      "New report",
+      "Start Free Trial",
+      "Get A Demo",
+      "Explore the platform",
+      "Explore Content Pipelines",
+      "Explore Agents",
+      "Explore Jasper IQ",
+      "Explore Jasper Grid",
+      "Explore\u00a0Customer Success",
+      "Solutions for Performance Marketers",
+      "Solutions for Performance Marketers",
+      "Solutions for Product Marketers",
+      "Solutions for Product Marketers"
+    ],
+    "forms": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/22774847/e3dc6094-7a71-45",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your work email"
+          },
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": "Enter your first name"
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": "Enter your last name"
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": "Enter your company's name"
+          },
+          {
+            "type": "text",
+            "name": "marketing_team_size",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "how_can_our_team_help",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "latest_demo_form_submitted",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "company_country_code",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "industry",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "clearbit_person_email_provider",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "nb-transaction-token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nb-confirmation-token",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "nb-result",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Neverbounce email"
+          }
+        ]
+      }
+    ],
+    "links_count": 188,
+    "images_count": 91,
+    "images_with_alt": 28,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Put AI agents to work for marketing"
+      },
+      {
+        "level": 2,
+        "text": "The State of AI\u00a0in Marketing 2026"
+      },
+      {
+        "level": 2,
+        "text": "About Jasper"
+      },
+      {
+        "level": 2,
+        "text": "Agents"
+      },
+      {
+        "level": 2,
+        "text": "Content Pipelines"
+      },
+      {
+        "level": 2,
+        "text": "Jasper IQ"
+      },
+      {
+        "level": 3,
+        "text": "Why modern marketing teams choose Jasper"
+      },
+      {
+        "level": 3,
+        "text": "Built for scale, backed by experts"
+      },
+      {
+        "level": 3,
+        "text": "Marketing runs on content.Jasper automates how it\u2019s made."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your work email"
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": "Enter your first name"
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": "Enter your last name"
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": "Enter your company's name"
+      },
+      {
+        "type": "hidden",
+        "name": "latest_demo_form_submitted",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "company_country_code",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "industry",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clearbit_person_email_provider",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "campaignid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "website",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "country",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "clearbitmetricsemployees__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "urlsource",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fpr__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referrer_url__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_id",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 166,
+    "has_og_tags": true,
+    "meta_description": "Orchestrate intelligent agents to run end-to-end marketing workflows\u2014delivering speed, control, and measurable impact.",
+    "scripts_count": 98
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven marketing automation",
+      "Comprehensive API support",
+      "Strong focus on security and compliance"
+    ],
+    "confidence": "high"
+  }
+}

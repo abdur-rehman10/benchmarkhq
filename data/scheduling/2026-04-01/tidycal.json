@@ -1,0 +1,237 @@
+{
+  "name": "tidycal",
+  "url": "https://tidycal.com",
+  "scanned_at": "2026-04-01T16:54:17.019699",
+  "screenshots": {
+    "desktop": "data/scheduling/2026-04-01/screenshots/tidycal_desktop.png",
+    "mobile": "data/scheduling/2026-04-01/screenshots/tidycal_mobile.png"
+  },
+  "structure": {
+    "title": "TidyCal | Simple calendar management and booking solution",
+    "url_final": "https://tidycal.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "https://tidycal.com/pricing"
+      },
+      {
+        "text": "Directory",
+        "href": "https://tidycal.com/directory"
+      },
+      {
+        "text": "Login",
+        "href": "https://tidycal.com/login"
+      },
+      {
+        "text": "Get started",
+        "href": "https://tidycal.com/register"
+      }
+    ],
+    "buttons": [
+      "Start free",
+      "Start free",
+      "Get started",
+      "orsign up with Google",
+      "Get started free",
+      "orsign up with Google"
+    ],
+    "forms": [
+      {
+        "action": "https://tidycal.com/onboarding/email",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_token",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email..."
+          },
+          {
+            "type": "hidden",
+            "name": "source",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://tidycal.com/onboarding/email",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_token",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email..."
+          },
+          {
+            "type": "hidden",
+            "name": "source",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 15,
+    "images_count": 14,
+    "images_with_alt": 9,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Get booked. Get paid."
+      },
+      {
+        "level": 2,
+        "text": "Most tools give you a calendar. TidyCal gives you a business."
+      },
+      {
+        "level": 2,
+        "text": "Zero to getting paid in 3 steps"
+      },
+      {
+        "level": 2,
+        "text": "In 5 minutes, you'll have"
+      },
+      {
+        "level": 2,
+        "text": "Your next client is looking for you"
+      },
+      {
+        "level": 3,
+        "text": "A booking website in 60 seconds"
+      },
+      {
+        "level": 3,
+        "text": "Recurring revenue on autopilot"
+      },
+      {
+        "level": 3,
+        "text": "Sell sessions in bulk"
+      },
+      {
+        "level": 3,
+        "text": "Get paid before the call starts"
+      },
+      {
+        "level": 3,
+        "text": "Create your account"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email..."
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_token",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email..."
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Help",
+      "Pricing",
+      "Login",
+      "Register",
+      "Terms",
+      "Privacy"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 3,
+    "has_og_tags": true,
+    "meta_description": "The simplest way to manage your calendar and schedule. Simplify your bookings, auto-generate meeting URLs, and more. Trusted by 150,000+ people. Join now.",
+    "scripts_count": 20
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Simple calendar management",
+      "Booking solution",
+      "Get paid before the call starts"
+    ],
+    "confidence": "medium"
+  }
+}

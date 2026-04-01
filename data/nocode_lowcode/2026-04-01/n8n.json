@@ -1,0 +1,267 @@
+{
+  "name": "n8n",
+  "url": "https://n8n.io",
+  "scanned_at": "2026-04-01T16:41:24.088373",
+  "screenshots": {
+    "desktop": "data/nocode_lowcode/2026-04-01/screenshots/n8n_desktop.png",
+    "mobile": "data/nocode_lowcode/2026-04-01/screenshots/n8n_mobile.png"
+  },
+  "structure": {
+    "title": "AI Workflow Automation Platform - n8n",
+    "url_final": "https://n8n.io/",
+    "nav_items": [
+      {
+        "text": "n8n.io",
+        "href": "/"
+      },
+      {
+        "text": "Product",
+        "href": "/features/"
+      },
+      {
+        "text": "Product overviewAutomate business processes withou",
+        "href": "/features/"
+      },
+      {
+        "text": "IntegrationsSeamlessly move and transform data bet",
+        "href": "/integrations/"
+      },
+      {
+        "text": "TemplatesExplore +8500 workflow automation templat",
+        "href": "/workflows/"
+      },
+      {
+        "text": "AIGet to prod faster \u2014 and with more flexibility t",
+        "href": "/ai/"
+      },
+      {
+        "text": "Building AI agents",
+        "href": "/ai-agents/"
+      },
+      {
+        "text": "RAG",
+        "href": "/rag/"
+      },
+      {
+        "text": "IT operations",
+        "href": "/itops/"
+      },
+      {
+        "text": "Security operations",
+        "href": "/secops/"
+      },
+      {
+        "text": "Embedded automation",
+        "href": "/embed/"
+      },
+      {
+        "text": "Lead automation",
+        "href": "/automate-lead-management/"
+      },
+      {
+        "text": "Supercharge your CRM",
+        "href": "/supercharge-your-crm/"
+      },
+      {
+        "text": "Limitless integrations",
+        "href": "/limitless-integrations/"
+      },
+      {
+        "text": "Backend prototyping",
+        "href": "/saas/"
+      },
+      {
+        "text": "Case studies",
+        "href": "/case-studies/"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.n8n.io/"
+      },
+      {
+        "text": "Self-host n8n",
+        "href": "https://docs.n8n.io/hosting"
+      },
+      {
+        "text": "Documentation",
+        "href": "https://docs.n8n.io"
+      },
+      {
+        "text": "Our license",
+        "href": "https://docs.n8n.io/choose-n8n/faircode-license"
+      }
+    ],
+    "buttons": [
+      "Use cases",
+      "Community",
+      "IT OpscanOn-board new employees",
+      "Sec OpscanEnrich security incident tickets",
+      "Dev OpscanConvert natural language into API calls",
+      "SalescanGenerate customer insights from reviews",
+      "YoucanWatch this video to hear our pitch",
+      "Talk to sales",
+      "Sign in",
+      "Get Started",
+      "Get started for free",
+      "Talk to sales",
+      "Browse all integrations",
+      "Explore AI",
+      "See full product overview",
+      "Read Case Study",
+      "Read Case Study",
+      "Explore n8n for enterprise",
+      "See the case",
+      "Start building"
+    ],
+    "forms": [],
+    "links_count": 164,
+    "images_count": 127,
+    "images_with_alt": 5,
+    "headings": [
+      {
+        "level": 2,
+        "text": "AI agents and workflowsyou can see and control"
+      },
+      {
+        "level": 2,
+        "text": "Plug AI into your own data &over 500 integrations"
+      },
+      {
+        "level": 2,
+        "text": "Build AI agentsyou can actually follow"
+      },
+      {
+        "level": 2,
+        "text": "Code when you need it, UI when you don't"
+      },
+      {
+        "level": 2,
+        "text": "Move fast. Break nothing."
+      },
+      {
+        "level": 3,
+        "text": "Build complex AI without  getting boxed in"
+      },
+      {
+        "level": 3,
+        "text": "Runs where you decide"
+      },
+      {
+        "level": 3,
+        "text": "Let people and logic guide AI decisions"
+      },
+      {
+        "level": 3,
+        "text": "Security and control"
+      },
+      {
+        "level": 3,
+        "text": "Observability and transparency"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "@igordisco",
+      "@robm",
+      "@Anderoav",
+      "@Luiza Vidal",
+      "@maximpoulsen",
+      "@olliescheers",
+      "@felixleber",
+      "@1ronben",
+      "@francois-la\u00dfl",
+      "@jodiem",
+      "Start building",
+      "n8n.io",
+      "CareersHiring",
+      "Contact",
+      "Merch"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 15,
+    "has_og_tags": true,
+    "meta_description": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of code with the speed of no-code.",
+    "scripts_count": 11
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI workflow automation",
+      "Over 500 integrations",
+      "No-code/low-code platform",
+      "Embedded automation"
+    ],
+    "confidence": "high"
+  }
+}

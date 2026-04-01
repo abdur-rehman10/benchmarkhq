@@ -1,0 +1,78 @@
+{
+  "product": "Asana",
+  "category": "project_management",
+  "login_url": "https://app.asana.com/-/login",
+  "dashboard_url": "https://app.asana.com/1/1213894583382358/home",
+  "scanned_at": "2026-04-01T14:43:49.601409",
+  "screenshots": {
+    "login_page": {
+      "viewport": "data/layer2/project_management/asana/asana_01_login_viewport.png",
+      "full": "data/layer2/project_management/asana/asana_01_login_full.png"
+    },
+    "dashboard": {
+      "viewport": "data/layer2/project_management/asana/asana_02_dashboard_viewport.png",
+      "full": "data/layer2/project_management/asana/asana_02_dashboard_full.png"
+    },
+    "cmd_k": {
+      "viewport": "data/layer2/project_management/asana/asana_04_cmdk_viewport.png",
+      "full": "data/layer2/project_management/asana/asana_04_cmdk_full.png"
+    },
+    "mobile": {
+      "viewport": "data/layer2/project_management/asana/asana_05_mobile_viewport.png",
+      "full": "data/layer2/project_management/asana/asana_05_mobile_full.png"
+    }
+  },
+  "pages_visited": [
+    {
+      "name": "dashboard",
+      "url": "https://app.asana.com/1/1213894583382358/home",
+      "title": "\u25cf Home - Asana"
+    }
+  ],
+  "errors": [],
+  "cookies_saved": "data/layer2/project_management/asana/asana_cookies.json",
+  "ai_analysis": {
+    "features": {
+      "sidebar_navigation": "Y",
+      "global_search": "Y",
+      "breadcrumb_navigation": "N",
+      "command_palette_cmdk": "N",
+      "notification_center": "Y",
+      "dark_mode_toggle": "Y",
+      "keyboard_shortcuts": "Y",
+      "dashboard_customizable": "Y",
+      "welcome_tour": "Y",
+      "checklist_progress_tracker": "N",
+      "sample_data_preloaded": "Y",
+      "empty_state_design": "Y",
+      "tooltip_coach_marks": "Y",
+      "time_to_value_fast": "Y",
+      "user_profile_settings": "Y",
+      "team_user_management": "Y",
+      "role_based_permissions": "Y",
+      "billing_management": "Y",
+      "api_key_management": "Y",
+      "data_export": "Y",
+      "audit_log": "N",
+      "skeleton_loading_states": "Y",
+      "useful_error_messages": "Y",
+      "undo_redo_support": "Y",
+      "realtime_updates": "Y",
+      "responsive_inside_app": "Y",
+      "keyboard_accessible": "Y",
+      "invite_team_members": "Y",
+      "comments_mentions": "Y",
+      "sharing_public_links": "Y"
+    },
+    "overall_ux_score_1_to_10": 8,
+    "onboarding_quality_1_to_10": 7,
+    "design_system_quality_1_to_10": 8,
+    "notable_observations": [
+      "Asana provides a customizable dashboard.",
+      "The app is responsive and works well on mobile.",
+      "Global search is comprehensive and includes filters.",
+      "Dark mode is available for user preference.",
+      "Onboarding includes a welcome tour and sample data."
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "name": "nextcloud",
+  "url": "https://nextcloud.com",
+  "scanned_at": "2026-04-01T17:55:55.017340",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/nextcloud_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/nextcloud_mobile.png"
+  },
+  "structure": {
+    "title": "Nextcloud - Open source content collaboration platform",
+    "url_final": "https://nextcloud.com/",
+    "nav_items": [
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "Nextcloud Hub",
+        "href": "https://nextcloud.com/hub/"
+      },
+      {
+        "text": "Nextcloud FilesFile Sync and Share",
+        "href": "https://nextcloud.com/files/"
+      },
+      {
+        "text": "Nextcloud TalkCalls, chat and video conferencing",
+        "href": "https://nextcloud.com/talk/"
+      },
+      {
+        "text": "Nextcloud GroupwareCalendar, Contacts & Mail",
+        "href": "https://nextcloud.com/groupware/"
+      },
+      {
+        "text": "Nextcloud OfficeReal time document collaboration",
+        "href": "https://nextcloud.com/office/"
+      },
+      {
+        "text": "Nextcloud AssistantPrivate and local AI assistant",
+        "href": "https://nextcloud.com/assistant/"
+      },
+      {
+        "text": "Nextcloud FlowDriving digital transformation with ",
+        "href": "https://nextcloud.com/flow/"
+      },
+      {
+        "text": "RoundcubeThe most popular on premise webmail",
+        "href": "https://nextcloud.com/roundcube/"
+      },
+      {
+        "text": "Microsoft integrationsOutlook, Sharepoint, Teams a",
+        "href": "https://nextcloud.com/microsoft-integrations/"
+      },
+      {
+        "text": "Solutions",
+        "href": "#"
+      },
+      {
+        "text": "Nextcloud EnterpriseFor mission-critical use",
+        "href": "https://nextcloud.com/enterprise/"
+      },
+      {
+        "text": "Public sectorEnterprise for the public sector",
+        "href": "https://nextcloud.com/government/"
+      },
+      {
+        "text": "EnterprisesEnterprise for organizations",
+        "href": "https://nextcloud.com/enterprises/"
+      },
+      {
+        "text": "Service providersEnterprise for service providers",
+        "href": "https://nextcloud.com/service-providers/"
+      },
+      {
+        "text": "EducationEnterprise for universities and schools",
+        "href": "https://nextcloud.com/education/"
+      },
+      {
+        "text": "PricingNextcloud Enterprise plans and pricing",
+        "href": "https://nextcloud.com/pricing/"
+      },
+      {
+        "text": "Nextcloud at homeFor families, students & you",
+        "href": "https://nextcloud.com/home-users/"
+      },
+      {
+        "text": "Resources",
+        "href": "#"
+      },
+      {
+        "text": "BlogNextcloud news and articles",
+        "href": "https://nextcloud.com/blog/"
+      }
+    ],
+    "buttons": [
+      "Nextcloud Files",
+      "Nextcloud Talk",
+      "Nextcloud Groupware",
+      "Nextcloud Office",
+      "Nextcloud Assistant",
+      "Nextcloud Flow",
+      "Accept all cookies",
+      "Reject all",
+      "Read more",
+      "Discover Nextcloud",
+      "Nextcloud Hub 26 Winter.Watch what's new",
+      "See all case studies",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Play Hub video now",
+      "Get Nextcloud at home",
+      "Get a quote",
+      "Call us: +49 711 25 24 28 90",
+      "Try Nextcloud now",
+      "Learn more",
+      "See all events",
+      "More about compliance",
+      "Get a quote",
+      "Call us: +49 711 25 24 28 90",
+      "Compare"
+    ],
+    "forms": [
+      {
+        "action": "https://nextcloud.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "hp_field",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search here.."
+          }
+        ]
+      }
+    ],
+    "links_count": 171,
+    "images_count": 137,
+    "images_with_alt": 65,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Regain controlover your data"
+      },
+      {
+        "level": 2,
+        "text": "The better Microsoft 365for private clouds."
+      },
+      {
+        "level": 2,
+        "text": "Nextcloud Hub"
+      },
+      {
+        "level": 2,
+        "text": "Nextcloud use cases"
+      },
+      {
+        "level": 2,
+        "text": "Get in touch"
+      },
+      {
+        "level": 2,
+        "text": "Why Nextcloud?"
+      },
+      {
+        "level": 3,
+        "text": "Trusted by thousands of organizations"
+      },
+      {
+        "level": 3,
+        "text": "Search"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "hp_field",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search here.."
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_cookie_banner[]",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "wpml_current_language",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_cookie_banner[]",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_cookie_banner[]",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_form_fields",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_utm_parameters",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_cookie_banner[]",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "matomo",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_cookie_banner[]",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_youtube_unblocked",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_vimeo_unblocked",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "nc_openstreetmap_unblocked",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About Nextcloud",
+      "About us",
+      "Jobs",
+      "Code of conduct",
+      "Privacy",
+      "Press",
+      "Legal note",
+      "Trademarks",
+      "Brand guidelines",
+      "Features",
+      "Human Rights Policy",
+      "Code of Ethics",
+      "Resources",
+      "Download",
+      "App Store",
+      "Admin manual",
+      "User manual",
+      "Security",
+      "Developer information",
+      "Code on GitHub"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe",
+    "scripts_count": 54
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open source platform",
+      "Strong focus on privacy and data control",
+      "Wide range of integrations",
+      "Enterprise solutions available"
+    ],
+    "confidence": "high"
+  }
+}

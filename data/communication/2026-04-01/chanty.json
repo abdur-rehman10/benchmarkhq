@@ -1,0 +1,301 @@
+{
+  "name": "chanty",
+  "url": "https://www.chanty.com",
+  "scanned_at": "2026-04-01T15:52:24.802989",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/chanty_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/chanty_mobile.png"
+  },
+  "structure": {
+    "title": "Chanty \u2013 Team Communication and Collaboration Software Chanty",
+    "url_final": "https://www.chanty.com/",
+    "nav_items": [
+      {
+        "text": "Features",
+        "href": "https://www.chanty.com/features/"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://www.chanty.com/pricing/"
+      },
+      {
+        "text": "Internal communications",
+        "href": "https://www.chanty.com/internal-communications/"
+      },
+      {
+        "text": "Retail",
+        "href": "https://www.chanty.com/internal-communications-retail/"
+      },
+      {
+        "text": "Marketing",
+        "href": "https://www.chanty.com/solutions/marketing/"
+      },
+      {
+        "text": "Education",
+        "href": "https://www.chanty.com/solutions/education/"
+      },
+      {
+        "text": "IT specialists",
+        "href": "https://www.chanty.com/solutions/it-specialists/"
+      },
+      {
+        "text": "Logistic companies",
+        "href": "https://www.chanty.com/solutions/logistic-companies/"
+      },
+      {
+        "text": "Property managers",
+        "href": "https://www.chanty.com/solutions/property-managers/"
+      },
+      {
+        "text": "Realtors",
+        "href": "https://www.chanty.com/solutions/realtors/"
+      },
+      {
+        "text": "Restaurants",
+        "href": "https://www.chanty.com/solutions/restaurants/"
+      },
+      {
+        "text": "Downloads",
+        "href": "https://www.chanty.com/downloads/"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog/"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://www.chanty.com/signup"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://www.chanty.com/signin"
+      },
+      {
+        "text": "Book a demo",
+        "href": "https://www.chanty.com/book-a-demo/"
+      }
+    ],
+    "buttons": [
+      "Submit",
+      "Free Sign up",
+      "Contact Sales"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "id",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "ts",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "page",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email address"
+          },
+          {
+            "type": "text",
+            "name": "message",
+            "placeholder": "Leave your feedback..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Enter email"
+          }
+        ]
+      }
+    ],
+    "links_count": 129,
+    "images_count": 81,
+    "images_with_alt": 81,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Supercharge your teamwork"
+      },
+      {
+        "level": 2,
+        "text": "Over 75,000 companies use Chanty to be more productive"
+      },
+      {
+        "level": 2,
+        "text": "Voice and video calls"
+      },
+      {
+        "level": 2,
+        "text": "Meet more efficiently with video conferencing"
+      },
+      {
+        "level": 2,
+        "text": "Chanty call features"
+      },
+      {
+        "level": 2,
+        "text": "Tasks management"
+      },
+      {
+        "level": 3,
+        "text": "Get in touch!"
+      },
+      {
+        "level": 3,
+        "text": "Join anywhere, on any device"
+      },
+      {
+        "level": 3,
+        "text": "Present and discuss"
+      },
+      {
+        "level": 3,
+        "text": "4k video and audio"
+      },
+      {
+        "level": 3,
+        "text": "Kanban view"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ts",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "page",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email address"
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Enter email"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Chanty in Twittertwitter",
+      "Chanty in Facebookfacebook",
+      "Chanty in Instagraminstagram",
+      "Chanty in Linkedinlinkedin",
+      "Chanty in Youtube",
+      "Features",
+      "Why Chanty?",
+      "Pricing",
+      "Team Collaboration Software",
+      "Team Communication Software",
+      "Team Productivity Software",
+      "Downloads",
+      "Security",
+      "Partners",
+      "Apps",
+      "Internal communications",
+      "Healthcare",
+      "Retail",
+      "Marketing",
+      "Coaching"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Join Chanty \u2013 your all-in-one team collaboration tool, with unlimited message history, powerful features and apps to make your team super productive",
+    "scripts_count": 10
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Free tier available",
+      "Annual discount offered",
+      "Multi-language support",
+      "Desktop and mobile apps"
+    ],
+    "confidence": "high"
+  }
+}

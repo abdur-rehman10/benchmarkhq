@@ -1,0 +1,166 @@
+{
+  "name": "flodesk",
+  "url": "https://flodesk.com",
+  "scanned_at": "2026-04-01T14:51:05.624995",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/flodesk_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/flodesk_mobile.png"
+  },
+  "structure": {
+    "title": "Design Emails People Love to Get. Make Beautiful Sales Pages.",
+    "url_final": "https://flodesk.com/",
+    "nav_items": [
+      {
+        "text": "Templates",
+        "href": "/templates/email"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Log in",
+      "Try it free",
+      "Try it free",
+      "Try it free",
+      "Try it free",
+      "Get started now",
+      "Try it free"
+    ],
+    "forms": [],
+    "links_count": 48,
+    "images_count": 66,
+    "images_with_alt": 64,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Design Emails People Love to Get. Make Beautiful Sales Pages."
+      },
+      {
+        "level": 1,
+        "text": "Our intuitive builder makes \n you the expert"
+      },
+      {
+        "level": 1,
+        "text": "Turn every email into \n a brand statement"
+      },
+      {
+        "level": 1,
+        "text": "Worth the investment"
+      },
+      {
+        "level": 3,
+        "text": "Custom fonts"
+      },
+      {
+        "level": 3,
+        "text": "Brand colors"
+      },
+      {
+        "level": 3,
+        "text": "Full creative control"
+      },
+      {
+        "level": 3,
+        "text": "Patented layouts"
+      },
+      {
+        "level": 3,
+        "text": "Countdown timers"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Terms",
+      "Privacy Policy",
+      "Help Center",
+      "Blog",
+      "Integrations",
+      "Updates",
+      "Flodesk Tips",
+      "Free Tools",
+      "Flodesk University",
+      "Our brand",
+      "Careers",
+      "Contact us",
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "Pinterest",
+      "Help Center",
+      "Blog",
+      "Integrations"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": true,
+    "meta_description": "Flodesk makes simple, intuitive software tools to help you grow your business. Try it free for 14 days\u2014no credit card required.",
+    "scripts_count": 41
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Intuitive email builder",
+      "Custom fonts and brand colors",
+      "Patented layouts",
+      "Countdown timers"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "name": "google_forms",
+  "url": "https://docs.google.com/forms",
+  "scanned_at": "2026-04-01T18:01:51.567213",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/google_forms_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/google_forms_mobile.png"
+  },
+  "structure": {
+    "title": "Google Forms: Sign-in",
+    "url_final": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2F&dsh=S1594560129%3A1775055712720891&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2F&ltmpl=forms&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_WmHM_BrJP4DetB6N9gtskKnhC9XPnOeKsCxPRG8IHgCP2_Nx_KZ8JosZ1A4ImI4HdMumz2Cw",
+    "nav_items": [],
+    "buttons": [
+      "Forgot email?",
+      "Next",
+      "Create account"
+    ],
+    "forms": [],
+    "links_count": 4,
+    "images_count": 1,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Sign in"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Help",
+      "Privacy",
+      "Terms"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": false,
+    "meta_description": "Access Google Forms with a personal Google account or Google Workspace account (for business use).",
+    "scripts_count": 23
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Seamless integration with other Google Workspace apps",
+      "Real-time collaboration",
+      "Extensive template library"
+    ],
+    "confidence": "high"
+  }
+}

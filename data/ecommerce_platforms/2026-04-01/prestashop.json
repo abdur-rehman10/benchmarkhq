@@ -1,0 +1,360 @@
+{
+  "name": "prestashop",
+  "url": "https://prestashop.com",
+  "scanned_at": "2026-04-01T16:06:49.260860",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/prestashop_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/prestashop_mobile.png"
+  },
+  "structure": {
+    "title": "Create an online shop easily - Ecommerce | PrestaShop",
+    "url_final": "https://prestashop.com/",
+    "nav_items": [
+      {
+        "text": "Discover PrestaShopThe technology behind your ecom",
+        "href": "/discover-prestashop/"
+      },
+      {
+        "text": "Our offersCompare and choose the right offer for y",
+        "href": "/prestashop-offers/"
+      },
+      {
+        "text": "Create an online storeDiscover all the ways you ca",
+        "href": "/create-online-store/"
+      },
+      {
+        "text": "Examples of websitesDiscover some of the best Pres",
+        "href": "/examples/"
+      },
+      {
+        "text": "ClassicDownload the source code for free and insta",
+        "href": "/prestashop-offers/classic/"
+      },
+      {
+        "text": "HostedLet us take care of the technical aspects an",
+        "href": "/prestashop-offers/hosted/"
+      },
+      {
+        "text": "EnterpriseDiscover a platform that ensures full co",
+        "href": "/prestashop-offers/enterprise/"
+      },
+      {
+        "text": "PrestaShop MarketplaceExplore the marketplace for ",
+        "href": "https://addons.prestashop.com/en/"
+      },
+      {
+        "text": "PrestaShop essentialsFind all the essential module",
+        "href": "/essentials/"
+      },
+      {
+        "text": "Sponsored modulesDiscover our selection of sponsor",
+        "href": "#"
+      },
+      {
+        "text": "PrestaShop CheckoutCombine all payment methods in ",
+        "href": "/essentials/prestashop-checkout/"
+      },
+      {
+        "text": "PrestaShop MarketingImprove your online visibility",
+        "href": "/essentials/prestashop-marketing/"
+      },
+      {
+        "text": "PrestaShop ShippingSimplify shipping and order man",
+        "href": "/essentials/prestashop-shipping/"
+      },
+      {
+        "text": "PrestaShop SocialSynchronize your catalog with Fac",
+        "href": "/essentials/prestashop-social/"
+      },
+      {
+        "text": "PrestaShop AutomationAutomate your marketing opera",
+        "href": "/essentials/prestashop-automation/"
+      },
+      {
+        "text": "Trusted payment gatewaysDiscover secure, flexible ",
+        "href": "/ecommerce-payment-gateway/"
+      },
+      {
+        "text": "Click to PaySimplify online guest checkout and opt",
+        "href": "/click-to-pay/"
+      },
+      {
+        "text": "ALMASplit payments, multiply your revenue",
+        "href": "/alma/"
+      },
+      {
+        "text": "PrestaShop ExpertsHire a professional to help you ",
+        "href": "https://experts.prestashop.com/english/experts/"
+      },
+      {
+        "text": "Support plansGet personalized help from our techni",
+        "href": "/support/"
+      }
+    ],
+    "buttons": [
+      "Consents certified by",
+      "I refuse",
+      "I choose",
+      "Fine for me",
+      "en",
+      "Solution",
+      "Addons",
+      "Services",
+      "Community",
+      "Resources",
+      "Solution",
+      "Addons",
+      "Services",
+      "Community",
+      "Resources",
+      "Solution",
+      "Our offers",
+      "Addons",
+      "PrestaShop essentials",
+      "Sponsored modules",
+      "Services",
+      "Bespoke services",
+      "Community",
+      "Resources"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email*"
+          },
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "LEGAL_CONSENT.subscription_type_4734280",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/4323170/e7d88658-babb-435",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email*"
+          },
+          {
+            "type": "hidden",
+            "name": "language",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "LEGAL_CONSENT.subscription_type_4734280",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 126,
+    "images_count": 139,
+    "images_with_alt": 54,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Unlock your commerce"
+      },
+      {
+        "level": 2,
+        "text": "More than 250,000 merchants are already on PrestaShop"
+      },
+      {
+        "level": 2,
+        "text": "Made for commerce.Built for success."
+      },
+      {
+        "level": 2,
+        "text": "Feel empowered by the strength of our community"
+      },
+      {
+        "level": 2,
+        "text": "To ensure your success,we work with the best"
+      },
+      {
+        "level": 2,
+        "text": "You need extra helpto build the ecommerceyou've always wanted?"
+      },
+      {
+        "level": 3,
+        "text": "You're in control."
+      },
+      {
+        "level": 3,
+        "text": "Your store, your way."
+      },
+      {
+        "level": 3,
+        "text": "We're in this for the long run."
+      },
+      {
+        "level": 3,
+        "text": "We're here to help."
+      },
+      {
+        "level": 3,
+        "text": "Clothing brand Molly Bracken accelerates with PrestaShop"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "axeptio_cookies_prestashop-base_en_value",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "axeptio_cookies_prestashop-base_en_accept",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email*"
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "LEGAL_CONSENT.subscription_type_4734280",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "accessibility-font",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Learn more about managing your data and rights",
+      "Learn more about managing your data and rights",
+      "About us",
+      "Careers",
+      "Contact",
+      "Support",
+      "Legal documentation",
+      "Become a Partner",
+      "Become an Expert",
+      "Become an affiliate",
+      "All versions",
+      "Sitemap"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 6,
+    "has_og_tags": false,
+    "meta_description": "Launch your ecommerce website, customize your online store and start selling your products with the PrestaShop ecommerce platform.",
+    "scripts_count": 25
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Strong community support",
+      "Extensive marketplace for addons",
+      "Multiple pricing tiers including enterprise solutions",
+      "GDPR compliance"
+    ],
+    "confidence": "high"
+  }
+}

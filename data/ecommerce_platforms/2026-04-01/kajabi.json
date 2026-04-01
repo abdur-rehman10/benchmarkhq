@@ -1,0 +1,233 @@
+{
+  "name": "kajabi",
+  "url": "https://kajabi.com",
+  "scanned_at": "2026-04-01T16:03:18.179509",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/kajabi_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/kajabi_mobile.png"
+  },
+  "structure": {
+    "title": "Turn What You Know Into What You\u2019re Known For | Kajabi",
+    "url_final": "https://www.kajabi.com/",
+    "nav_items": [
+      {
+        "text": "Product",
+        "href": "/product"
+      },
+      {
+        "text": "Cofounder",
+        "href": "/cofounder"
+      },
+      {
+        "text": "Cofounder",
+        "href": "/product/cofounder"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "https://id.kajabi.com/u/login"
+      },
+      {
+        "text": "Start Free Trial",
+        "href": "#"
+      }
+    ],
+    "buttons": [
+      "Save Your Spot",
+      "Watch Demo",
+      "Watch Demo",
+      "Watch Demo",
+      "Watch Demo",
+      "Decline",
+      "Allow All",
+      "Close",
+      "Allow All",
+      "Decline",
+      "Save & Accept",
+      "Close",
+      "Opt Out",
+      "Start Free Trial",
+      "Start Free Trial",
+      "Start Free Trial",
+      "Save Your Spot",
+      "Start Free Trial",
+      "Cookie Manager Icon",
+      "Dismiss Banner"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter email..."
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 49,
+    "images_count": 71,
+    "images_with_alt": 59,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn what you know into what you're known for"
+      },
+      {
+        "level": 2,
+        "text": "You already know more than you think"
+      },
+      {
+        "level": 2,
+        "text": "Choose how you turn expertise into income"
+      },
+      {
+        "level": 2,
+        "text": "The operating system for human expertise"
+      },
+      {
+        "level": 2,
+        "text": "All-in-one that actually works"
+      },
+      {
+        "level": 2,
+        "text": "Sell with confidence"
+      },
+      {
+        "level": 3,
+        "text": "Your branded mobile app"
+      },
+      {
+        "level": 3,
+        "text": "Human support 24/7"
+      },
+      {
+        "level": 3,
+        "text": "Built to last"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter email..."
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About",
+      "Careers",
+      "Hire a Kajabi Expert",
+      "Overview",
+      "Pricing",
+      "Cofounder",
+      "Updates",
+      "Blog",
+      "Videos & Webinars",
+      "Help Center",
+      "Status",
+      "Policy Center",
+      "Privacy Notice",
+      "Income Disclaimer",
+      "Your Privacy Choices"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 26,
+    "has_og_tags": true,
+    "meta_description": "Kajabi is the operating system for human expertise\u2014helping real experts build, sell, and grow trusted businesses with clarity, momentum, and AI-powered support.",
+    "scripts_count": 60
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "All-in-one platform for knowledge commerce",
+      "Branded mobile app",
+      "24/7 human support"
+    ],
+    "confidence": "high"
+  }
+}

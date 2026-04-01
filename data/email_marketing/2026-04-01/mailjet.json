@@ -1,0 +1,273 @@
+{
+  "name": "mailjet",
+  "url": "https://www.mailjet.com",
+  "scanned_at": "2026-04-01T14:49:05.333655",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/mailjet_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/mailjet_mobile.png"
+  },
+  "structure": {
+    "title": "Mailjet: Best Email Marketing Software & Email API for Teams",
+    "url_final": "https://www.mailjet.com/",
+    "nav_items": [
+      {
+        "text": "Search",
+        "href": "#navSearch"
+      },
+      {
+        "text": "Support",
+        "href": "https://documentation.mailjet.com/hc/en-us/"
+      },
+      {
+        "text": "Documentation",
+        "href": "https://dev.mailjet.com/"
+      },
+      {
+        "text": "English",
+        "href": "#english-7992-content"
+      },
+      {
+        "text": "English",
+        "href": "https://www.mailjet.com/"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "https://www.mailjet.com/fr/"
+      },
+      {
+        "text": "Deutsch",
+        "href": "https://www.mailjet.com/de/"
+      },
+      {
+        "text": "Espa\u00f1ol",
+        "href": "https://www.mailjet.com/es/"
+      }
+    ],
+    "buttons": [
+      "1. Seamless integration",
+      "2. Multilingual support",
+      "3. Tone flexibility",
+      "4. Audience personalization",
+      "5. Character count control",
+      "Get Started",
+      "Contact Sales",
+      "Contact Sales",
+      "Get Started",
+      "Get Started",
+      "Contact Sales",
+      "Start Designing",
+      "Learn More",
+      "Start Collaborating",
+      "Learn More",
+      "Start Designing",
+      "Learn More",
+      "Start Sending",
+      "Learn More",
+      "Start Tracking",
+      "Learn More",
+      "Learn More",
+      "Get Started",
+      "See All Integrations",
+      "Get Started",
+      "Learn More",
+      "Get Started",
+      "Contact Us"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email"
+          },
+          {
+            "type": "checkbox",
+            "name": "terms",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "privacy",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "formSubscriptionRecaptchaToken",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 148,
+    "images_count": 75,
+    "images_with_alt": 75,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The best email marketing software that\u2019s built for devs and loved by marketers"
+      },
+      {
+        "level": 2,
+        "text": "Easy-to-use email editor for any skill set"
+      },
+      {
+        "level": 2,
+        "text": "Streamline your email needs and collaborate"
+      },
+      {
+        "level": 2,
+        "text": "Templates that make you stand out"
+      },
+      {
+        "level": 2,
+        "text": "Professional marketing features for your most effective communications"
+      },
+      {
+        "level": 2,
+        "text": "Expert approved deliverability tools"
+      },
+      {
+        "level": 3,
+        "text": "Personalization"
+      },
+      {
+        "level": 3,
+        "text": "Segmentation"
+      },
+      {
+        "level": 3,
+        "text": "Automation"
+      },
+      {
+        "level": 3,
+        "text": "A/B Testing"
+      },
+      {
+        "level": 3,
+        "text": "Contact Management"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email"
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "formSubscriptionRecaptchaToken",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Business SMS software service",
+      "Talk to an expert",
+      "Follow us on LinkedIn",
+      "Follow us on Facebook",
+      "Follow us on Instagram",
+      "Follow us on YouTube",
+      "Badge GDPR",
+      "Badge HIPAA",
+      "Badge CSA",
+      "Feature Releases",
+      "Integrations",
+      "Email API",
+      "Email Marketing",
+      "Email Editor",
+      "MJML",
+      "Real-Time Collaboration",
+      "Email Personalization",
+      "Email Deliverability Services",
+      "Data Security & Compliance",
+      "Customer Stories"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Design, deliver, and automate marketing & transactional emails together with built-in deliverability, GDPR compliance, and developer-ready email APIs",
+    "scripts_count": 61
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Seamless integration",
+      "Multilingual support",
+      "Real-time collaboration",
+      "Expert approved deliverability tools"
+    ],
+    "confidence": "high"
+  }
+}

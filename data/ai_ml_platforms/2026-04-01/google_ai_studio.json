@@ -1,0 +1,135 @@
+{
+  "name": "google_ai_studio",
+  "url": "https://aistudio.google.com",
+  "scanned_at": "2026-04-01T16:42:30.685333",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/google_ai_studio_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/google_ai_studio_mobile.png"
+  },
+  "structure": {
+    "title": "Google AI Studio",
+    "url_final": "https://aistudio.google.com/welcome",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Faistudio.google.com%2F"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://ai.google.dev/gemini-api/docs/pricing"
+      },
+      {
+        "text": "Explore documentation",
+        "href": "https://ai.google.dev/gemini-api/docs"
+      },
+      {
+        "text": "Case studies",
+        "href": "/case-studies"
+      },
+      {
+        "text": "loginGet started",
+        "href": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Faistudio.google.com%2F"
+      },
+      {
+        "text": "NewGemini 3 is hereOur most intelligent models to ",
+        "href": "/models/gemini-3"
+      }
+    ],
+    "buttons": [
+      "menu",
+      "Pricing",
+      "Explore documentation",
+      "Case studies",
+      "loginGet started",
+      "Try our models",
+      "Vibe code AI apps",
+      "Get an API key",
+      "keyGet API key",
+      "loginSign up and get started"
+    ],
+    "forms": [],
+    "links_count": 31,
+    "images_count": 7,
+    "images_with_alt": 7,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Start building with the API today"
+      },
+      {
+        "level": 1,
+        "text": "Explore our models"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 4,
+    "has_og_tags": true,
+    "meta_description": "The fastest path from prompt to production with Gemini",
+    "scripts_count": 13
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "U",
+      "free_tier": "U",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Gemini 3 models",
+      "API access"
+    ],
+    "confidence": "medium"
+  }
+}

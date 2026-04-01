@@ -1,0 +1,210 @@
+{
+  "name": "rive",
+  "url": "https://rive.app",
+  "scanned_at": "2026-04-01T15:31:34.271473",
+  "screenshots": {
+    "desktop": "data/design_creative/2026-04-01/screenshots/rive_desktop.png",
+    "mobile": "data/design_creative/2026-04-01/screenshots/rive_mobile.png"
+  },
+  "structure": {
+    "title": "Rive \u2014 the interactive experience engine",
+    "url_final": "https://rive.app/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "./"
+      },
+      {
+        "text": "Pricing",
+        "href": "./pricing"
+      },
+      {
+        "text": "Downloads",
+        "href": "./downloads"
+      },
+      {
+        "text": "",
+        "href": "https://editor.rive.app"
+      },
+      {
+        "text": "",
+        "href": "https://editor.rive.app"
+      }
+    ],
+    "buttons": [
+      "learn more",
+      "Features",
+      "learn more",
+      "Docs"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "b_1487cc549a49109c00fe60a80_93cd7be172",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "email@rive.app"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 93,
+    "images_count": 49,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Interactive experience engine"
+      },
+      {
+        "level": 2,
+        "text": "DOWNLOADS"
+      },
+      {
+        "level": 2,
+        "text": "Design, code, and animate"
+      },
+      {
+        "level": 2,
+        "text": "Build once, ship anywhere"
+      },
+      {
+        "level": 2,
+        "text": "Products built with Rive reach over 2\u00a0billion users worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Join our newsletter"
+      },
+      {
+        "level": 3,
+        "text": "Rive Editor"
+      },
+      {
+        "level": 3,
+        "text": "RIVE RUNTIMES"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "b_1487cc549a49109c00fe60a80_93cd7be172",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "email@rive.app"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Editor",
+      "Runtimes",
+      "Renderer",
+      "Changelog",
+      "Marketplace",
+      "Community",
+      "Bug Reports",
+      "Feature Requests",
+      "Discord",
+      "Experts",
+      "Documentation",
+      "Blog",
+      "Newsletter",
+      "Features",
+      "Careers",
+      "Merch",
+      "Terms",
+      "Privacy",
+      "Automotive",
+      "Product UI"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": true,
+    "meta_description": "Behind Spotify Wrapped, Duolingo, and products reaching 2 billion users. Design, animate, and code in one place. Ship everywhere.",
+    "scripts_count": 22
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "Y",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "Y",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Interactive experience engine",
+      "Rive Editor",
+      "Rive Runtimes",
+      "Products reach over 2 billion users"
+    ],
+    "confidence": "medium"
+  }
+}

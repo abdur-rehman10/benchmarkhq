@@ -1,0 +1,431 @@
+{
+  "name": "aikido_security",
+  "url": "https://www.aikido.dev",
+  "scanned_at": "2026-04-01T16:31:03.548044",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/aikido_security_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/aikido_security_mobile.png"
+  },
+  "structure": {
+    "title": "Aikido Security | Unified Security Platform from Code to Runtime",
+    "url_final": "https://www.aikido.dev/",
+    "nav_items": [
+      {
+        "text": "Aikido PlatformYour Complete Security HQExplore pl",
+        "href": "/platform"
+      },
+      {
+        "text": "Advanced AppSec suite, built for devs.",
+        "href": "/platform/code"
+      },
+      {
+        "text": "Dependencies (SCA)",
+        "href": "/scanners/open-source-dependency-scanning-sca"
+      },
+      {
+        "text": "SAST & AI SAST",
+        "href": "/scanners/static-code-analysis-sast"
+      },
+      {
+        "text": "IaC",
+        "href": "/scanners/infrastructure-as-a-code-iac"
+      },
+      {
+        "text": "AI Code Quality",
+        "href": "/code-quality"
+      },
+      {
+        "text": "Secrets",
+        "href": "/scanners/secrets-detection"
+      },
+      {
+        "text": "Malware",
+        "href": "/scanners/malware-detection-in-dependencies"
+      },
+      {
+        "text": "Licenses (SBOM)",
+        "href": "/scanners/open-source-license-risk"
+      },
+      {
+        "text": "Outdated Software",
+        "href": "/scanners/outdated-eol-software"
+      },
+      {
+        "text": "Container Images",
+        "href": "/scanners/container-image-scanning"
+      },
+      {
+        "text": "Unified cloud security with real-time visibility.",
+        "href": "/platform/cloud"
+      },
+      {
+        "text": "CSPM",
+        "href": "/scanners/cloud-posture-management-cspm"
+      },
+      {
+        "text": "Virtual Machines",
+        "href": "/scanners/virtual-machine-scanning"
+      },
+      {
+        "text": "Infrastructure as Code",
+        "href": "/scanners/infrastructure-as-a-code-iac"
+      },
+      {
+        "text": "Cloud Search",
+        "href": "/scanners/cloud-posture-management-cspm#get-instant-visibility"
+      },
+      {
+        "text": "Container & K8s Scanning",
+        "href": "/platform/cloud#scanners"
+      },
+      {
+        "text": "Hardened Images",
+        "href": "/scanners/hardenend-images"
+      },
+      {
+        "text": "AI-powered offensive security testing.",
+        "href": "/attack/aipentest"
+      },
+      {
+        "text": "Continuous PentestsNew",
+        "href": "/attack/infinite"
+      }
+    ],
+    "buttons": [
+      "Start for FreeNo CC required",
+      "Start for FreeNo CC required",
+      "Start for FreeNo CC required",
+      "Book a Demo",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Read story",
+      "Read story",
+      "Read story",
+      "Read story",
+      "Read story",
+      "Explore Integrations",
+      "FAQ",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more"
+    ],
+    "forms": [
+      {
+        "action": "https://forms-eu1.hsforms.com/submissions/v3/public/submit/formsnext/multipart/26076760/edb18ab7-fd4",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email*"
+          },
+          {
+            "type": "hidden",
+            "name": "utm_adgroup",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_campaign",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_device",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_matchtype",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fbclid",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 533,
+    "images_count": 545,
+    "images_with_alt": 293,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Secure everything, Compromise nothing."
+      },
+      {
+        "level": 1,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": 2,
+        "text": "We prioritize alerts so you don\u2019t have to."
+      },
+      {
+        "level": 2,
+        "text": "We help you go from alert to fix."
+      },
+      {
+        "level": 2,
+        "text": "Taking care of your data like it\u2019s our own"
+      },
+      {
+        "level": 2,
+        "text": "The flow must go on"
+      },
+      {
+        "level": 2,
+        "text": "Get secure now"
+      },
+      {
+        "level": 3,
+        "text": "Deduplication"
+      },
+      {
+        "level": 3,
+        "text": "AutoTriage"
+      },
+      {
+        "level": 3,
+        "text": "Custom Rules"
+      },
+      {
+        "level": 3,
+        "text": "AutoFix"
+      },
+      {
+        "level": 3,
+        "text": "Bulk Fix with One Click"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "faq",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "faq",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "faq",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "faq",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "faq",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "faq",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email*"
+      },
+      {
+        "type": "hidden",
+        "name": "utm_adgroup",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_device",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_matchtype",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fbclid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "rdt_cid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gbraid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "msclkid",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Platform",
+      "Pricing",
+      "About",
+      "Careers",
+      "Contact",
+      "Partner with us",
+      "Docs",
+      "Public API Docs",
+      "Vulnerability Database",
+      "Blog",
+      "Customer Stories",
+      "Integrations",
+      "Glossary",
+      "Press Kit",
+      "Customer Reviews",
+      "Aikido Intel",
+      "For HealthTech",
+      "For MedTech",
+      "For FinTech",
+      "For SecurityTech"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 324,
+    "has_og_tags": true,
+    "meta_description": "Detect, pentest, and block security threats across your entire stack - from one unified platform.",
+    "scripts_count": 64
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Unified Security Platform",
+      "Advanced AppSec suite",
+      "Real-time cloud security visibility"
+    ],
+    "confidence": "medium"
+  }
+}

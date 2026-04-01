@@ -1,0 +1,194 @@
+metadata:
+  industry: crm
+  name: CRM SaaS
+  category: Sales
+  version: 1.0.0
+  generated_at: '2026-04-01T14:32:47.882326'
+  sites_analyzed: 30
+  sites:
+  - salesforce
+  - hubspot_crm
+  - pipedrive
+  - zoho_crm
+  - freshsales
+  - close
+  - copper
+  - insightly
+  - nimble
+  - streak
+  - monday_sales_crm
+  - nutshell
+  - capsule
+  - less_annoying_crm
+  - agile_crm
+  - bitrix24
+  - sugarcrm
+  - keap
+  - folk
+  - attio
+  - twenty
+  - affinity
+  - salesflare
+  - teamleader
+  - vtiger
+  - really_simple_systems
+  - freshworks_crm
+  - microsoft_dynamics
+  - oracle_cx
+  - sap_crm
+features:
+  critical:
+  - id: pricing_page
+    frequency: 27/27
+    percent: 100
+  - id: free_trial
+    frequency: 25/27
+    percent: 100
+  - id: annual_discount
+    frequency: 23/27
+    percent: 100
+  - id: integrations_page
+    frequency: 25/27
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 23/27
+    percent: 100
+  - id: multiple_tiers
+    frequency: 25/27
+    percent: 96
+  - id: blog
+    frequency: 22/27
+    percent: 96
+  - id: product_screenshots
+    frequency: 23/27
+    percent: 92
+  - id: privacy_policy
+    frequency: 22/27
+    percent: 92
+  - id: terms_of_service
+    frequency: 22/27
+    percent: 92
+  - id: help_center
+    frequency: 22/27
+    percent: 92
+  - id: ios_app
+    frequency: 23/27
+    percent: 92
+  - id: android_app
+    frequency: 23/27
+    percent: 92
+  - id: transparent_pricing
+    frequency: 23/27
+    percent: 88
+  - id: enterprise_tier
+    frequency: 22/27
+    percent: 88
+  - id: cookie_consent
+    frequency: 21/27
+    percent: 88
+  required:
+  - id: api_documentation
+    frequency: 21/27
+    percent: 84
+  - id: feature_comparison_table
+    frequency: 19/27
+    percent: 83
+  - id: templates_available
+    frequency: 19/27
+    percent: 83
+  - id: contact_page
+    frequency: 20/27
+    percent: 83
+  - id: video_demo
+    frequency: 19/27
+    percent: 79
+  - id: gdpr_mentioned
+    frequency: 19/27
+    percent: 79
+  - id: customer_logos
+    frequency: 18/27
+    percent: 78
+  - id: interactive_demo
+    frequency: 18/27
+    percent: 78
+  - id: about_page
+    frequency: 19/27
+    percent: 76
+  - id: case_studies
+    frequency: 18/27
+    percent: 75
+  - id: careers_page
+    frequency: 18/27
+    percent: 75
+  - id: multi_language
+    frequency: 17/27
+    percent: 71
+  - id: webhooks_support
+    frequency: 16/27
+    percent: 70
+  - id: changelog
+    frequency: 17/27
+    percent: 68
+  - id: security_page
+    frequency: 16/27
+    percent: 67
+  - id: live_chat
+    frequency: 16/27
+    percent: 67
+  - id: onboarding_video
+    frequency: 15/27
+    percent: 65
+  recommended:
+  - id: browser_extension
+    frequency: 15/27
+    percent: 62
+  - id: developer_portal
+    frequency: 12/27
+    percent: 52
+  - id: code_examples
+    frequency: 12/27
+    percent: 52
+  - id: github_presence
+    frequency: 12/27
+    percent: 50
+  - id: community_forum
+    frequency: 12/27
+    percent: 50
+  - id: sdk_available
+    frequency: 11/27
+    percent: 48
+  - id: social_signup
+    frequency: 11/27
+    percent: 48
+  - id: free_tier
+    frequency: 12/27
+    percent: 46
+  - id: roi_calculator
+    frequency: 10/27
+    percent: 45
+  - id: status_page
+    frequency: 10/27
+    percent: 42
+  nice_to_have:
+  - id: dpa_available
+    frequency: 9/27
+    percent: 39
+  - id: soc2_mentioned
+    frequency: 8/27
+    percent: 36
+  - id: iso27001_mentioned
+    frequency: 8/27
+    percent: 36
+  - id: openapi_spec
+    frequency: 8/27
+    percent: 36
+  - id: sla_published
+    frequency: 8/27
+    percent: 36
+  - id: desktop_app
+    frequency: 8/27
+    percent: 35
+  - id: api_playground
+    frequency: 7/27
+    percent: 32
+  innovative: []

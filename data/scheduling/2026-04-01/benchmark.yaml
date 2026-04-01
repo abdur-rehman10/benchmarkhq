@@ -1,0 +1,194 @@
+metadata:
+  industry: scheduling
+  name: Scheduling & Booking SaaS
+  category: Productivity
+  version: 1.0.0
+  generated_at: '2026-04-01T17:27:56.168687'
+  sites_analyzed: 30
+  sites:
+  - calendly
+  - calcom
+  - acuity
+  - tidycal
+  - savvycal
+  - youcanbookme
+  - doodle
+  - reclaim
+  - clockwise
+  - motion
+  - fantastical
+  - amelia
+  - simplybook
+  - setmore
+  - square_appointments
+  - fresha
+  - booksy
+  - mindbody
+  - vagaro
+  - appointlet
+  - hubspot_meetings
+  - zcal
+  - koalendar
+  - oncehub
+  - picktime
+  - bookafy
+  - appointy
+  - 10to8
+  - woven
+  - rally
+features:
+  critical:
+  - id: pricing_page
+    frequency: 28/28
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 28/28
+    percent: 100
+  - id: privacy_policy
+    frequency: 26/28
+    percent: 96
+  - id: terms_of_service
+    frequency: 25/28
+    percent: 96
+  - id: multiple_tiers
+    frequency: 26/28
+    percent: 93
+  - id: annual_discount
+    frequency: 22/28
+    percent: 92
+  - id: transparent_pricing
+    frequency: 25/28
+    percent: 89
+  required:
+  - id: free_trial
+    frequency: 23/28
+    percent: 82
+  - id: product_screenshots
+    frequency: 22/28
+    percent: 81
+  - id: integrations_page
+    frequency: 22/28
+    percent: 81
+  - id: cookie_consent
+    frequency: 21/28
+    percent: 81
+  - id: blog
+    frequency: 22/28
+    percent: 79
+  - id: enterprise_tier
+    frequency: 21/28
+    percent: 78
+  - id: feature_comparison_table
+    frequency: 20/28
+    percent: 77
+  - id: free_tier
+    frequency: 21/28
+    percent: 75
+  - id: contact_page
+    frequency: 20/28
+    percent: 74
+  - id: help_center
+    frequency: 19/28
+    percent: 73
+  - id: ios_app
+    frequency: 18/28
+    percent: 72
+  - id: android_app
+    frequency: 18/28
+    percent: 72
+  - id: multi_language
+    frequency: 18/28
+    percent: 72
+  - id: about_page
+    frequency: 17/28
+    percent: 65
+  recommended:
+  - id: gdpr_mentioned
+    frequency: 16/28
+    percent: 62
+  - id: careers_page
+    frequency: 15/28
+    percent: 58
+  - id: live_chat
+    frequency: 15/28
+    percent: 58
+  - id: customer_logos
+    frequency: 14/28
+    percent: 56
+  - id: video_demo
+    frequency: 14/28
+    percent: 54
+  - id: api_documentation
+    frequency: 14/28
+    percent: 54
+  - id: webhooks_support
+    frequency: 13/28
+    percent: 52
+  - id: onboarding_video
+    frequency: 13/28
+    percent: 50
+  - id: social_signup
+    frequency: 12/28
+    percent: 46
+  - id: status_page
+    frequency: 11/28
+    percent: 42
+  - id: security_page
+    frequency: 11/28
+    percent: 42
+  - id: templates_available
+    frequency: 11/28
+    percent: 42
+  nice_to_have:
+  - id: case_studies
+    frequency: 10/28
+    percent: 38
+  - id: interactive_demo
+    frequency: 9/28
+    percent: 35
+  - id: community_forum
+    frequency: 9/28
+    percent: 35
+  - id: changelog
+    frequency: 8/28
+    percent: 31
+  - id: developer_portal
+    frequency: 8/28
+    percent: 31
+  - id: code_examples
+    frequency: 8/28
+    percent: 31
+  - id: sdk_available
+    frequency: 6/28
+    percent: 24
+  - id: dpa_available
+    frequency: 6/28
+    percent: 23
+  - id: github_presence
+    frequency: 6/28
+    percent: 23
+  - id: browser_extension
+    frequency: 5/28
+    percent: 20
+  - id: soc2_mentioned
+    frequency: 4/28
+    percent: 16
+  - id: api_playground
+    frequency: 4/28
+    percent: 16
+  - id: openapi_spec
+    frequency: 4/28
+    percent: 16
+  - id: sla_published
+    frequency: 4/28
+    percent: 16
+  - id: desktop_app
+    frequency: 4/28
+    percent: 16
+  innovative:
+  - id: iso27001_mentioned
+    frequency: 3/28
+    percent: 12
+  - id: roi_calculator
+    frequency: 2/28
+    percent: 8

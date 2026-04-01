@@ -1,0 +1,194 @@
+metadata:
+  industry: social_media
+  name: Social Media Management SaaS
+  category: Marketing
+  version: 1.0.0
+  generated_at: '2026-04-01T17:38:44.561108'
+  sites_analyzed: 30
+  sites:
+  - hootsuite
+  - buffer
+  - sprout_social
+  - later
+  - publer
+  - socialbee
+  - metricool
+  - iconosquare
+  - agorapulse
+  - loomly
+  - planable
+  - contentstudio
+  - socialpilot
+  - sendible
+  - tailwind
+  - coschedule
+  - sprinklr
+  - khoros
+  - brandwatch
+  - mention
+  - brand24
+  - awario
+  - talkwalker
+  - keyhole
+  - dash_hudson
+  - emplifi
+  - feedhive
+  - hypefury
+  - repurposeio
+  - typefully
+features:
+  critical:
+  - id: pricing_page
+    frequency: 30/30
+    percent: 100
+  - id: free_trial
+    frequency: 30/30
+    percent: 100
+  - id: multiple_tiers
+    frequency: 30/30
+    percent: 100
+  - id: annual_discount
+    frequency: 30/30
+    percent: 100
+  - id: about_page
+    frequency: 29/30
+    percent: 97
+  - id: privacy_policy
+    frequency: 29/30
+    percent: 97
+  - id: terms_of_service
+    frequency: 29/30
+    percent: 97
+  - id: product_screenshots
+    frequency: 28/30
+    percent: 93
+  - id: integrations_page
+    frequency: 28/30
+    percent: 93
+  - id: blog
+    frequency: 28/30
+    percent: 93
+  - id: contact_page
+    frequency: 28/30
+    percent: 93
+  - id: enterprise_tier
+    frequency: 27/30
+    percent: 90
+  - id: feature_comparison_table
+    frequency: 27/30
+    percent: 90
+  - id: customer_logos
+    frequency: 27/30
+    percent: 90
+  - id: cookie_consent
+    frequency: 27/30
+    percent: 90
+  - id: help_center
+    frequency: 27/30
+    percent: 90
+  - id: signup_no_creditcard
+    frequency: 26/30
+    percent: 87
+  - id: templates_available
+    frequency: 26/30
+    percent: 87
+  required:
+  - id: gdpr_mentioned
+    frequency: 25/30
+    percent: 83
+  - id: ios_app
+    frequency: 25/30
+    percent: 83
+  - id: android_app
+    frequency: 25/30
+    percent: 83
+  - id: transparent_pricing
+    frequency: 23/30
+    percent: 77
+  - id: video_demo
+    frequency: 23/30
+    percent: 77
+  - id: onboarding_video
+    frequency: 23/30
+    percent: 77
+  - id: multi_language
+    frequency: 23/30
+    percent: 77
+  - id: case_studies
+    frequency: 22/30
+    percent: 73
+  - id: careers_page
+    frequency: 21/30
+    percent: 70
+  - id: api_documentation
+    frequency: 21/30
+    percent: 70
+  - id: live_chat
+    frequency: 20/30
+    percent: 67
+  recommended:
+  - id: interactive_demo
+    frequency: 18/30
+    percent: 60
+  - id: webhooks_support
+    frequency: 17/30
+    percent: 59
+  - id: social_signup
+    frequency: 17/30
+    percent: 57
+  - id: free_tier
+    frequency: 16/30
+    percent: 53
+  - id: changelog
+    frequency: 13/30
+    percent: 43
+  - id: security_page
+    frequency: 13/30
+    percent: 43
+  nice_to_have:
+  - id: status_page
+    frequency: 11/30
+    percent: 37
+  - id: community_forum
+    frequency: 11/30
+    percent: 37
+  - id: code_examples
+    frequency: 9/30
+    percent: 33
+  - id: browser_extension
+    frequency: 9/30
+    percent: 31
+  - id: developer_portal
+    frequency: 7/30
+    percent: 26
+  - id: sdk_available
+    frequency: 5/30
+    percent: 19
+  - id: github_presence
+    frequency: 5/30
+    percent: 19
+  - id: dpa_available
+    frequency: 4/30
+    percent: 15
+  innovative:
+  - id: roi_calculator
+    frequency: 3/30
+    percent: 12
+  - id: soc2_mentioned
+    frequency: 1/30
+    percent: 4
+  - id: iso27001_mentioned
+    frequency: 1/30
+    percent: 4
+  - id: openapi_spec
+    frequency: 1/30
+    percent: 4
+  - id: sla_published
+    frequency: 1/30
+    percent: 4
+  - id: desktop_app
+    frequency: 1/30
+    percent: 4
+  - id: api_playground
+    frequency: 0/30
+    percent: 0

@@ -1,0 +1,172 @@
+{
+  "name": "ashby",
+  "url": "https://www.ashbyhq.com",
+  "scanned_at": "2026-04-01T15:22:34.752076",
+  "screenshots": {
+    "desktop": "data/hr_people/2026-04-01/screenshots/ashby_desktop.png",
+    "mobile": "data/hr_people/2026-04-01/screenshots/ashby_mobile.png"
+  },
+  "structure": {
+    "title": "All-in-one Recruiting Software for Ambitious Teams | Ashby",
+    "url_final": "https://www.ashbyhq.com/",
+    "nav_items": [
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Our Story",
+        "href": "/story"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog/all"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Resources",
+      "We're Hiring",
+      "Log in",
+      "Get in Touch",
+      "Get in Touch",
+      "Ashby Platform",
+      "ATS",
+      "Scheduling",
+      "CRM",
+      "Analytics",
+      "Get in Touch"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Enter your email..."
+          }
+        ]
+      }
+    ],
+    "links_count": 45,
+    "images_count": 56,
+    "images_with_alt": 45,
+    "headings": [
+      {
+        "level": 1,
+        "text": "WhatanATSshouldbe."
+      },
+      {
+        "level": 2,
+        "text": "Ashby Platform"
+      },
+      {
+        "level": 2,
+        "text": "ATS"
+      },
+      {
+        "level": 2,
+        "text": "Scheduling"
+      },
+      {
+        "level": 2,
+        "text": "CRM"
+      },
+      {
+        "level": 2,
+        "text": "Analytics"
+      },
+      {
+        "level": 3,
+        "text": "We've designed Ashby to:"
+      },
+      {
+        "level": 3,
+        "text": "To help you achieve:"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Enter your email..."
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": true,
+    "meta_description": "Ashby\u2019s all-in-one recruiting software consolidates your ATS, Analytics, Scheduling, and CRM",
+    "scripts_count": 77
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "U",
+      "free_tier": "U",
+      "multiple_tiers": "U",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "All-in-one recruiting platform",
+      "Focus on ATS, CRM, Scheduling, and Analytics",
+      "Emphasis on ambitious teams"
+    ],
+    "confidence": "medium"
+  }
+}

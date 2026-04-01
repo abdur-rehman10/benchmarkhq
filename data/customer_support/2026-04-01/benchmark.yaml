@@ -1,0 +1,194 @@
+metadata:
+  industry: customer_support
+  name: Customer Support SaaS
+  category: Support
+  version: 1.0.0
+  generated_at: '2026-04-01T14:43:39.716996'
+  sites_analyzed: 30
+  sites:
+  - zendesk
+  - intercom
+  - freshdesk
+  - help_scout
+  - crisp
+  - livechat
+  - tidio
+  - tawkto
+  - drift
+  - hubspot_service
+  - kayako
+  - zoho_desk
+  - groove
+  - front
+  - gladly
+  - kustomer
+  - re:amaze
+  - hiver
+  - gorgias
+  - olark
+  - jivochat
+  - chatwoot
+  - papercups
+  - chatra
+  - helpjuice
+  - document360
+  - freshchat
+  - dixa
+  - richpanel
+  - comm100
+features:
+  critical:
+  - id: signup_no_creditcard
+    frequency: 26/29
+    percent: 100
+  - id: pricing_page
+    frequency: 28/29
+    percent: 97
+  - id: free_trial
+    frequency: 28/29
+    percent: 97
+  - id: multiple_tiers
+    frequency: 28/29
+    percent: 97
+  - id: enterprise_tier
+    frequency: 28/29
+    percent: 97
+  - id: integrations_page
+    frequency: 28/29
+    percent: 97
+  - id: annual_discount
+    frequency: 25/29
+    percent: 96
+  - id: product_screenshots
+    frequency: 27/29
+    percent: 96
+  - id: privacy_policy
+    frequency: 27/29
+    percent: 96
+  - id: terms_of_service
+    frequency: 27/29
+    percent: 96
+  - id: help_center
+    frequency: 26/29
+    percent: 96
+  - id: customer_logos
+    frequency: 26/29
+    percent: 93
+  - id: feature_comparison_table
+    frequency: 24/29
+    percent: 89
+  - id: blog
+    frequency: 25/29
+    percent: 89
+  - id: multi_language
+    frequency: 25/29
+    percent: 89
+  - id: cookie_consent
+    frequency: 24/29
+    percent: 86
+  - id: live_chat
+    frequency: 23/29
+    percent: 85
+  - id: contact_page
+    frequency: 23/29
+    percent: 85
+  required:
+  - id: ios_app
+    frequency: 24/29
+    percent: 83
+  - id: android_app
+    frequency: 24/29
+    percent: 83
+  - id: gdpr_mentioned
+    frequency: 23/29
+    percent: 82
+  - id: transparent_pricing
+    frequency: 23/29
+    percent: 79
+  - id: api_documentation
+    frequency: 22/29
+    percent: 79
+  - id: case_studies
+    frequency: 21/29
+    percent: 75
+  - id: about_page
+    frequency: 21/29
+    percent: 72
+  - id: careers_page
+    frequency: 21/29
+    percent: 72
+  - id: interactive_demo
+    frequency: 21/29
+    percent: 72
+  - id: security_page
+    frequency: 20/29
+    percent: 71
+  - id: video_demo
+    frequency: 19/29
+    percent: 70
+  - id: webhooks_support
+    frequency: 19/29
+    percent: 68
+  - id: onboarding_video
+    frequency: 18/29
+    percent: 67
+  recommended:
+  - id: status_page
+    frequency: 16/29
+    percent: 57
+  - id: templates_available
+    frequency: 15/29
+    percent: 56
+  - id: dpa_available
+    frequency: 15/29
+    percent: 54
+  - id: sdk_available
+    frequency: 15/29
+    percent: 54
+  - id: code_examples
+    frequency: 15/29
+    percent: 54
+  - id: free_tier
+    frequency: 15/29
+    percent: 52
+  - id: github_presence
+    frequency: 14/29
+    percent: 50
+  - id: community_forum
+    frequency: 13/29
+    percent: 48
+  - id: changelog
+    frequency: 13/29
+    percent: 46
+  - id: developer_portal
+    frequency: 12/29
+    percent: 43
+  - id: soc2_mentioned
+    frequency: 11/29
+    percent: 41
+  - id: social_signup
+    frequency: 11/29
+    percent: 41
+  nice_to_have:
+  - id: api_playground
+    frequency: 9/29
+    percent: 35
+  - id: sla_published
+    frequency: 9/29
+    percent: 35
+  - id: desktop_app
+    frequency: 9/29
+    percent: 35
+  - id: openapi_spec
+    frequency: 8/29
+    percent: 31
+  - id: roi_calculator
+    frequency: 8/29
+    percent: 31
+  - id: browser_extension
+    frequency: 8/29
+    percent: 31
+  - id: iso27001_mentioned
+    frequency: 7/29
+    percent: 28
+  innovative: []

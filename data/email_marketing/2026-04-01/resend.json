@@ -1,0 +1,170 @@
+{
+  "name": "resend",
+  "url": "https://resend.com",
+  "scanned_at": "2026-04-01T14:52:55.039847",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/resend_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/resend_mobile.png"
+  },
+  "structure": {
+    "title": "Resend \u00b7 Email for developers",
+    "url_final": "https://resend.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/home"
+      },
+      {
+        "text": "",
+        "href": "/home"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log In",
+        "href": "/login"
+      },
+      {
+        "text": "Get Started",
+        "href": "/signup"
+      }
+    ],
+    "buttons": [
+      "Open main menu",
+      "Features",
+      "Company",
+      "Resources",
+      "Help",
+      "Docs",
+      "AI",
+      "Node.js",
+      "Serverless",
+      "Ruby",
+      "Python",
+      "PHP",
+      "Go",
+      "Rust",
+      "Java",
+      "Elixir",
+      ".NET",
+      "REST",
+      "SMTP",
+      "Node.js",
+      "Next.js",
+      "Remix",
+      "Nuxt",
+      "Express",
+      "Hono",
+      "Redwood",
+      "Bun",
+      "Astro",
+      "delivereddelivered@resend.dev"
+    ],
+    "forms": [],
+    "links_count": 53,
+    "images_count": 92,
+    "images_with_alt": 92,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Email fordevelopers"
+      },
+      {
+        "level": 2,
+        "text": "Integratethis afternoon"
+      },
+      {
+        "level": 2,
+        "text": "First-classdeveloper experience"
+      },
+      {
+        "level": 2,
+        "text": "Test Mode"
+      },
+      {
+        "level": 2,
+        "text": "Modular Webhooks"
+      },
+      {
+        "level": 2,
+        "text": "Write using a delightful editor"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "View on GitHub",
+      "Download ZIP"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 9,
+    "has_og_tags": true,
+    "meta_description": "The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.",
+    "scripts_count": 83
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "First-class developer experience",
+      "Modular Webhooks",
+      "Support for multiple programming languages"
+    ],
+    "confidence": "medium"
+  }
+}

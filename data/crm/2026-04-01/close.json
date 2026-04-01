@@ -1,0 +1,395 @@
+{
+  "name": "close",
+  "url": "https://www.close.com",
+  "scanned_at": "2026-04-01T14:22:54.045538",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/close_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/close_mobile.png"
+  },
+  "structure": {
+    "title": "Close | Sales CRM with Calling, SMS & AI",
+    "url_final": "https://www.close.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Explore Close",
+        "href": "/product"
+      },
+      {
+        "text": "CRMManage leads, pipelines, tasks, and sales perfo",
+        "href": "/crm"
+      },
+      {
+        "text": "Close DemoWatch, explore, talk to us, and evaluate",
+        "href": "/demo"
+      },
+      {
+        "text": "CommunicationCall, email, and SMS all from one pla",
+        "href": "/communication"
+      },
+      {
+        "text": "AutomationAutomate follow-ups, task creation, and ",
+        "href": "/automation"
+      },
+      {
+        "text": "Sales AIAI that keeps teams focused on selling",
+        "href": "/ai-crm"
+      },
+      {
+        "text": "IntegrationsSync Close via 100+ native, no code, a",
+        "href": "/integrations"
+      },
+      {
+        "text": "ReportingClose more deals with\u00a0actionable sales in",
+        "href": "/reporting"
+      },
+      {
+        "text": "Coaching and CollaborationA CRM designed to help c",
+        "href": "/coaching"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "The Close BlogLearn from the sales experts",
+        "href": "/blog"
+      },
+      {
+        "text": "ResourcesExplore free templates and guides",
+        "href": "/resources"
+      },
+      {
+        "text": "ROI CalculatorCalculate your sales growth rate",
+        "href": "/tools/revenue-growth-calculator"
+      },
+      {
+        "text": "Office HoursGet expert, hands-on help from our tea",
+        "href": "/office-hours"
+      },
+      {
+        "text": "Help docsFast answers and pro tips for using Close",
+        "href": "https://help.close.com/"
+      },
+      {
+        "text": "The 0 to $30M BlueprintExpert advice from CEO Stel",
+        "href": "/blueprint"
+      },
+      {
+        "text": "Will vs JenBattle between two badass sales pros",
+        "href": "/willvsjen"
+      },
+      {
+        "text": "Sales PlaymakerBuild a custom sales process",
+        "href": "/sales-playmaker"
+      }
+    ],
+    "buttons": [
+      "Submit",
+      "Explore Close",
+      "Log in",
+      "Try for Free",
+      "Login",
+      "Try Close",
+      "Try for Free",
+      "View demo",
+      "Notetaker",
+      "AI Enrich",
+      "AI Summaries",
+      "Rewrite Assist",
+      "See more integrations",
+      "Try for Free",
+      "View Demo"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "contact[visitor_token]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[source_url]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[contactable_type]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[contactable_id]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[website_id]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[element_id]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[broadcast_id]",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "contact[variant_id]",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "contact[name]",
+            "placeholder": " First name"
+          },
+          {
+            "type": "text",
+            "name": "contact[last_name]",
+            "placeholder": " Last name"
+          }
+        ]
+      }
+    ],
+    "links_count": 112,
+    "images_count": 69,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your CRM should move deals forward"
+      },
+      {
+        "level": 1,
+        "text": "Talk to Sales"
+      },
+      {
+        "level": 2,
+        "text": "Everything you need to sell, nothing you don\u2019t"
+      },
+      {
+        "level": 2,
+        "text": "See Close in action"
+      },
+      {
+        "level": 2,
+        "text": "Why small businesses love Close.Yes, love. (Really.)"
+      },
+      {
+        "level": 2,
+        "text": "AI-powered sales tools that keep humans dialed-in"
+      },
+      {
+        "level": 2,
+        "text": "Close is 50% faster than the big CRMs"
+      },
+      {
+        "level": 3,
+        "text": "One tool for all communication"
+      },
+      {
+        "level": 3,
+        "text": "Automate the tedious stuff"
+      },
+      {
+        "level": 3,
+        "text": "Built for selling (not just data entry)"
+      },
+      {
+        "level": 3,
+        "text": "Manage Customers"
+      },
+      {
+        "level": 3,
+        "text": "Work Deals"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "contact[visitor_token]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[source_url]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[contactable_type]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[contactable_id]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[website_id]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[element_id]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[broadcast_id]",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "contact[variant_id]",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "placeholder": " First name"
+      },
+      {
+        "type": "text",
+        "name": "contact[last_name]",
+        "placeholder": " Last name"
+      },
+      {
+        "type": "text",
+        "name": "contact[company_name]",
+        "placeholder": " Company name"
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "placeholder": " Email"
+      },
+      {
+        "type": "tel",
+        "name": "contact[phone]",
+        "placeholder": " Phone number"
+      },
+      {
+        "type": "text",
+        "name": "contact[url]",
+        "placeholder": " Your website URL"
+      },
+      {
+        "type": "text",
+        "name": "contact[company_title]",
+        "placeholder": "Your professional title"
+      },
+      {
+        "type": "text",
+        "name": "contact[city]",
+        "placeholder": "Your city"
+      },
+      {
+        "type": "text",
+        "name": "contact[state]",
+        "placeholder": "Your state"
+      },
+      {
+        "type": "text",
+        "name": "contact[country]",
+        "placeholder": "Your country"
+      },
+      {
+        "type": "text",
+        "name": "contact[address]",
+        "placeholder": "Your address"
+      },
+      {
+        "type": "text",
+        "name": "contact[zip_code]",
+        "placeholder": "Your zip code"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 25,
+    "has_og_tags": true,
+    "meta_description": "Close is a sales CRM with built-in calling, email, and SMS. Use AI to automate follow-ups, capture context, and close more deals \u2014 without switching tools.",
+    "scripts_count": 53
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "Y",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered sales tools",
+      "Integrated communication tools",
+      "Automation features"
+    ],
+    "confidence": "medium"
+  }
+}

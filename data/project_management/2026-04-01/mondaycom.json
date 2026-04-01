@@ -1,0 +1,197 @@
+{
+  "name": "mondaycom",
+  "url": "https://monday.com",
+  "scanned_at": "2026-04-01T14:10:22.276739",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/mondaycom_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/mondaycom_mobile.png"
+  },
+  "structure": {
+    "title": "monday.com | Outpace everyone with the best AI work platform",
+    "url_final": "https://monday.com/",
+    "nav_items": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "Skip to footer",
+        "href": "#footer"
+      }
+    ],
+    "buttons": [
+      "Get Started",
+      "Projects & Tasks",
+      "Marketing",
+      "CRM",
+      "Software",
+      "IT",
+      "AIAssistant",
+      "AIAgents",
+      "AIApp builder",
+      "AIWorkflows",
+      "Presentation",
+      "Inventory app",
+      "Documentation page",
+      "Recruiting app",
+      "Time tracker",
+      "Event portal",
+      "Operations agents",
+      "Project agents",
+      "Marketing agents",
+      "Sales agents",
+      "Engineering agents",
+      "Create your own",
+      "Operations agents",
+      "Project agents"
+    ],
+    "forms": [
+      {
+        "action": "//auth.monday.com/users/sign_up_new?origin=hp_fullbg_page_header",
+        "method": "POST",
+        "fields": []
+      }
+    ],
+    "links_count": 232,
+    "images_count": 538,
+    "images_with_alt": 108,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Outpace everyone with thebest AI work platform"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by over 60% of the Fortune 500"
+      },
+      {
+        "level": 2,
+        "text": "Get"
+      },
+      {
+        "level": 2,
+        "text": "more work done"
+      },
+      {
+        "level": 2,
+        "text": "with AI that\u2019s woven into your work"
+      },
+      {
+        "level": 2,
+        "text": "Getmore work donewith AI that\u2019s woven into your work"
+      },
+      {
+        "level": 3,
+        "text": "Move work forward with a built-in personal AI assistant"
+      },
+      {
+        "level": 3,
+        "text": "Build any business software in minutes"
+      },
+      {
+        "level": 3,
+        "text": "Unlimited workforce that amplifies your team\u2019s impact"
+      },
+      {
+        "level": 3,
+        "text": "Solve any core work challenge with AI-powered products"
+      },
+      {
+        "level": 3,
+        "text": "Autonomous workflows that run work end to end"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Pricing",
+      "Contact us",
+      "Templates",
+      "SMB",
+      "Enterprise",
+      "Nonprofits",
+      "App marketplace",
+      "24/7 support",
+      "monday for agents",
+      "monday sidekick",
+      "monday vibe",
+      "monday agentsEarly Access",
+      "Workdocs",
+      "Integrations",
+      "Automations",
+      "Dashboards",
+      "Kanban",
+      "Gantt",
+      "monday work management"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 107,
+    "has_og_tags": true,
+    "meta_description": "monday.com is the best AI work platform. Drive exponential execution and empower teams to expand what they achieve with an AI-powered product suite, AI agents, AI workflows, AI assistant and AI apps b",
+    "scripts_count": 110
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI integration",
+      "Customizable workflows",
+      "Extensive integrations",
+      "Enterprise-grade security"
+    ],
+    "confidence": "high"
+  }
+}

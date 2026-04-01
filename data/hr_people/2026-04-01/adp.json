@@ -1,0 +1,532 @@
+{
+  "name": "adp",
+  "url": "https://www.adp.com",
+  "scanned_at": "2026-04-01T15:21:27.394957",
+  "screenshots": {
+    "desktop": "data/hr_people/2026-04-01/screenshots/adp_desktop.png",
+    "mobile": "data/hr_people/2026-04-01/screenshots/adp_mobile.png"
+  },
+  "structure": {
+    "title": "Payroll, HR and Tax Services | ADP Official Site",
+    "url_final": "https://www.adp.com/",
+    "nav_items": [
+      {
+        "text": "What We Offer",
+        "href": "/what-we-offer.aspx"
+      },
+      {
+        "text": "products and services",
+        "href": "/what-we-offer.aspx"
+      },
+      {
+        "text": "Payroll",
+        "href": "/what-we-offer/payroll.aspx"
+      },
+      {
+        "text": "Small Business Payroll(1-49 Employees)",
+        "href": "/what-we-offer/payroll/payroll-for-1-49-employees.aspx"
+      },
+      {
+        "text": "Midsized to Enterprise Payroll(50-1,000+ Employees",
+        "href": "/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx"
+      },
+      {
+        "text": "Compare PackagesFind the package that's rightfor y",
+        "href": "/what-we-offer/payroll/payroll-for-1-49-employees/payroll-packages.aspx?segmenter-force=yes"
+      },
+      {
+        "text": "Time & Attendance",
+        "href": "/what-we-offer/time-and-attendance.aspx"
+      },
+      {
+        "text": "Talent",
+        "href": "/what-we-offer/talent.aspx"
+      },
+      {
+        "text": "Benefits & Insurance",
+        "href": "/what-we-offer/benefits.aspx"
+      },
+      {
+        "text": "PEO & HR Outsourcing",
+        "href": "/what-we-offer/hr-outsourcing-and-peo/professional-employer-organization.aspx"
+      },
+      {
+        "text": "Compliance Services",
+        "href": "/what-we-offer/products/adp-smartcompliance.aspx"
+      },
+      {
+        "text": "AI Capabilities",
+        "href": "/what-we-offer/ai-solutions.aspx"
+      },
+      {
+        "text": "Integrations",
+        "href": "/what-we-offer/integrations.aspx"
+      },
+      {
+        "text": "App Marketplace",
+        "href": "/what-we-offer/marketplace.aspx"
+      },
+      {
+        "text": "Products by Name",
+        "href": "/what-we-offer/products.aspx"
+      },
+      {
+        "text": "Payroll",
+        "href": "/what-we-offer/payroll.aspx"
+      },
+      {
+        "text": "Payroll Overview",
+        "href": "/what-we-offer/payroll.aspx"
+      },
+      {
+        "text": "Overview",
+        "href": "/what-we-offer/payroll.aspx"
+      },
+      {
+        "text": "Small Business Payroll(1-49 Employees)",
+        "href": "/what-we-offer/payroll/payroll-for-1-49-employees.aspx"
+      },
+      {
+        "text": "Midsized to Enterprise Payroll(50-1,000+ Employees",
+        "href": "/what-we-offer/payroll/payroll-for-50-1000-plus-employees.aspx"
+      }
+    ],
+    "buttons": [
+      "Search Site",
+      "Let's Go",
+      "Previous",
+      "Next",
+      "Go to slide 1",
+      "Go to slide 2",
+      "Go to slide 3",
+      "Go to slide 4",
+      "Call",
+      "Chat",
+      "Search",
+      "Sign In",
+      "Close Modal",
+      "Close Modal",
+      "Close Message",
+      "To manage your preferences, click here",
+      "Select All",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Unselect All"
+    ],
+    "forms": [
+      {
+        "action": "/formbuilder?fxb.FormItemId=987b3c30-b62a-40ca-8776-3459626e6380&fxb.HtmlPrefix=fxb.5bebbe6a-d423-48",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.FormSessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.IsNewSession",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.OptimizelyExpID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.elqFormName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.defaults",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.scvisitorid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "__RequestVerificationToken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.FormItemId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.PageItemId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields.Index",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/formbuilder?fxb.FormItemId=a40590ec-676b-47f4-a19e-fdc91321715e&fxb.HtmlPrefix=fxb.dd631d0e-2600-4a",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.FormSessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.IsNewSession",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.OptimizelyExpID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.elqFormName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.defaults",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.scvisitorid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "__RequestVerificationToken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.FormItemId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.PageItemId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.dd631d0e-2600-4acd-8688-170b4638c7a5.Fields.Index",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/formbuilder?fxb.FormItemId=29f47214-6c11-44cf-a40a-1bcc94831709&fxb.HtmlPrefix=fxb.d0366632-6f9a-41",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.FormSessionId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.IsNewSession",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.OptimizelyExpID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.elqFormName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.defaults",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.scvisitorid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "__RequestVerificationToken",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.FormItemId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.PageItemId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "fxb.d0366632-6f9a-4118-b8f9-208cf19968ec.Fields.Index",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 308,
+    "images_count": 45,
+    "images_with_alt": 20,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Experience better HR and payroll"
+      },
+      {
+        "level": 2,
+        "text": "Take a self-guided product tour"
+      },
+      {
+        "level": 2,
+        "text": "Managing and paying your people has never been easier"
+      },
+      {
+        "level": 2,
+        "text": "No matter your business size, we've got you covered"
+      },
+      {
+        "level": 2,
+        "text": "These HR Trends will affect how you work in 2025"
+      },
+      {
+        "level": 2,
+        "text": "Latest news and events"
+      },
+      {
+        "level": 3,
+        "text": "Small Business"
+      },
+      {
+        "level": 3,
+        "text": "Midsized Business"
+      },
+      {
+        "level": 3,
+        "text": "Large Business"
+      },
+      {
+        "level": 3,
+        "text": "RUN Powered by ADP\u00ae #1 for small businesses, two years running, by G2"
+      },
+      {
+        "level": 3,
+        "text": "Cookie List"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "number",
+        "name": "",
+        "placeholder": "# of Employees"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.FormSessionId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.IsNewSession",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.OptimizelyExpID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.elqFormName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.defaults",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.scvisitorid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.FormItemId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.PageItemId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields.Index",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields[70d62d8a-45bf-476f-9774-143a54f75fb5].ItemId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields.Index",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields[b718e8e9-045a-4d8d-a7a7-f84b14206c28].ItemId",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields[b718e8e9-045a-4d8d-a7a7-f84b14206c28].Value",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields.Index",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "fxb.5bebbe6a-d423-4877-9cd9-65470fd3e8a8.Fields[92e7b31b-7a0a-41c6-b79a-16992d6bb3af].ItemId",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact Us",
+      "Talk to Sales \u2014800-225-5237",
+      "Get Support",
+      "Sign In",
+      "What We Offer",
+      "Payroll",
+      "Time and Attendance",
+      "Talent",
+      "Benefits",
+      "HR Services",
+      "HR Outsourcing and PEO",
+      "Integrations",
+      "App Marketplace",
+      "Products by Name",
+      "Who We Serve",
+      "Business Size",
+      "Industries",
+      "Partners",
+      "Resources",
+      "Small Business Resources"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 78,
+    "has_og_tags": true,
+    "meta_description": "ADP offers industry-leading online payroll and HR solutions, plus tax, compliance, benefit administration and more.",
+    "scripts_count": 50
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "N",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "mega_menu",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive HR and payroll solutions",
+      "Strong focus on compliance and security",
+      "Wide range of integrations and marketplace"
+    ],
+    "confidence": "high"
+  }
+}

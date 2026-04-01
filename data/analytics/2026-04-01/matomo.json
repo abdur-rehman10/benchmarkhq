@@ -1,0 +1,270 @@
+{
+  "name": "matomo",
+  "url": "https://matomo.org",
+  "scanned_at": "2026-04-01T14:57:31.997202",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/matomo_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/matomo_mobile.png"
+  },
+  "structure": {
+    "title": "Privacy-first Google Analytics Alternative - App & Web Analytics - Matomo",
+    "url_final": "https://matomo.org/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://matomo.org"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Why Matomo?",
+        "href": ""
+      },
+      {
+        "text": "100% Data Ownership",
+        "href": "https://matomo.org/100-data-ownership/"
+      },
+      {
+        "text": "Privacy Protection",
+        "href": "https://matomo.org/privacy/"
+      },
+      {
+        "text": "Product Features",
+        "href": "https://matomo.org/product-features/"
+      },
+      {
+        "text": "Open Source",
+        "href": "https://matomo.org/free-software/"
+      },
+      {
+        "text": "Flexibility",
+        "href": "https://matomo.org/flexibility/"
+      },
+      {
+        "text": "No Data Sampling",
+        "href": "https://matomo.org/no-data-sampling/"
+      },
+      {
+        "text": "GDPR",
+        "href": "https://matomo.org/gdpr-analytics/"
+      },
+      {
+        "text": "Google Analytics Alternative",
+        "href": "https://matomo.org/google-analytics-alternative/"
+      },
+      {
+        "text": "List of all features",
+        "href": "https://matomo.org/features/"
+      },
+      {
+        "text": "Use Cases",
+        "href": ""
+      },
+      {
+        "text": "Complete Analytics",
+        "href": "https://matomo.org/feature-overview/"
+      },
+      {
+        "text": "Intranet Analytics",
+        "href": "https://matomo.org/intranet-analytics/"
+      },
+      {
+        "text": "Consent-Free Tracking",
+        "href": "https://matomo.org/cookie-consent-banners/"
+      },
+      {
+        "text": "Tracking Personal Data",
+        "href": "https://matomo.org/tracking-personal-data-with-matomo/"
+      },
+      {
+        "text": "Marketing Attribution",
+        "href": "https://matomo.org/multi-attribution/"
+      },
+      {
+        "text": "No Limitations",
+        "href": "https://matomo.org/no-data-limitations-with-matomo/"
+      },
+      {
+        "text": "Log Analytics",
+        "href": "https://matomo.org/log-analytics/"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "MENUMENU",
+      "Try it free with email",
+      "Matomo On-Premise",
+      "Try free Cloud trial",
+      "Matomo On-Premise",
+      "TRY IT FOR FREE",
+      "Take back control of your data now",
+      "Get the guide",
+      "Get the guide",
+      "TRY IT FOR FREE",
+      "Read more",
+      "TRY IT FOR FREE"
+    ],
+    "forms": [
+      {
+        "action": "https://matomo.org/",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lang",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 167,
+    "images_count": 66,
+    "images_with_alt": 52,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Web & app analytics for teams who demand accuracy"
+      },
+      {
+        "level": 2,
+        "text": "Boost your website performance in three easy steps"
+      },
+      {
+        "level": 2,
+        "text": "Recognised as a leading global web analytics solution"
+      },
+      {
+        "level": 2,
+        "text": "Don\u2019t damage your reputation with Google Analytics"
+      },
+      {
+        "level": 2,
+        "text": "Be in full control with  data ownership and privacy protection"
+      },
+      {
+        "level": 2,
+        "text": "The 2025 Ethical Marketing Field Guide"
+      },
+      {
+        "level": 3,
+        "text": "Start a21-day free Cloud trial.No credit card required"
+      },
+      {
+        "level": 3,
+        "text": "Add tracking code to your website or mobile app"
+      },
+      {
+        "level": 3,
+        "text": "Start improving your website using real-time data, features and reports"
+      },
+      {
+        "level": 3,
+        "text": "Start a21-day free Cloud trial.No credit card required"
+      },
+      {
+        "level": 3,
+        "text": "Add tracking code to your website or mobile app"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 35,
+    "has_og_tags": true,
+    "meta_description": "Don\u2019t damage your reputation with Google Analytics. Matomo is the ethical alternative where you won\u2019t make privacy sacrifices or compromise your site.",
+    "scripts_count": 48
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Privacy-first analytics",
+      "100% data ownership",
+      "Open-source platform",
+      "GDPR compliance"
+    ],
+    "confidence": "medium"
+  }
+}

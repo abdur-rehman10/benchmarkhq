@@ -1,0 +1,282 @@
+{
+  "name": "meistertask",
+  "url": "https://www.meistertask.com",
+  "scanned_at": "2026-04-01T14:16:53.828587",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/meistertask_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/meistertask_mobile.png"
+  },
+  "structure": {
+    "title": "MeisterTask | Work Management Software | Task Management",
+    "url_final": "https://www.meistertask.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/pages/business"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://accounts.meister.co/payments/mt/en/pricing"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "/pages/contact-sales"
+      },
+      {
+        "text": "Log in",
+        "href": "https://www.meistertask.com/app"
+      },
+      {
+        "text": "Get started",
+        "href": "https://accounts.meister.co/sign_up?locale=en&product=meistertask"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Project management",
+      "Documentation",
+      "Teamwork",
+      "Slide",
+      "Slide",
+      "Slide",
+      "See all customer stories",
+      "Public sector & government",
+      "Banking & financial services",
+      "Manufacturing & industries",
+      "Insurance",
+      "Healthcare & clinics",
+      "Public sector",
+      "Banking",
+      "Manufacturing",
+      "Insurance",
+      "Healthcare",
+      "Slide",
+      "Slide",
+      "Slide",
+      "Previous slide",
+      "Next slide",
+      "Select country",
+      "Submit",
+      "Company"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "name@company.com"
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 92,
+    "images_count": 73,
+    "images_with_alt": 69,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your daily work, digitalized"
+      },
+      {
+        "level": 2,
+        "text": "Centralized, straightforward work management software for teams"
+      },
+      {
+        "level": 2,
+        "text": "Start every day in control"
+      },
+      {
+        "level": 2,
+        "text": "A tool that\u2019s easy to onboard, adopt and love"
+      },
+      {
+        "level": 2,
+        "text": "Enterprise-grade security"
+      },
+      {
+        "level": 2,
+        "text": "The tool for bringing teamwork online"
+      },
+      {
+        "level": 3,
+        "text": "Project management"
+      },
+      {
+        "level": 3,
+        "text": "Documentation"
+      },
+      {
+        "level": 3,
+        "text": "Teamwork"
+      },
+      {
+        "level": 3,
+        "text": "Project management"
+      },
+      {
+        "level": 3,
+        "text": "Documentation"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "name@company.com"
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About us",
+      "Careers",
+      "Partners",
+      "Pricing",
+      "Customer stories",
+      "Mobile apps",
+      "Security",
+      "Changelog",
+      "System status",
+      "Business",
+      "Public sector",
+      "Manufacturing",
+      "Finance & banking",
+      "Healthcare",
+      "Insurance",
+      "SMB",
+      "Templates",
+      "Help center",
+      "Tutorial videos"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 30,
+    "has_og_tags": true,
+    "meta_description": "MeisterTask is the work management software your team will actually want to use. Create a secure central source of truth for task management and documentation.",
+    "scripts_count": 133
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Enterprise-grade security",
+      "Easy onboarding and adoption",
+      "Comprehensive integrations"
+    ],
+    "confidence": "high"
+  }
+}

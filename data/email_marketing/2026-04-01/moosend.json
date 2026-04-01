@@ -1,0 +1,456 @@
+{
+  "name": "moosend",
+  "url": "https://moosend.com",
+  "scanned_at": "2026-04-01T14:47:45.424799",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/moosend_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/moosend_mobile.png"
+  },
+  "structure": {
+    "title": "Email Marketing and Automation Platform | Moosend",
+    "url_final": "https://moosend.com/",
+    "nav_items": [
+      {
+        "text": "All Features",
+        "href": "https://moosend.com/features/"
+      },
+      {
+        "text": "Email Marketing",
+        "href": "https://moosend.com/email-marketing/"
+      },
+      {
+        "text": "Transactional Emails",
+        "href": "https://moosend.com/transactional-emails/"
+      },
+      {
+        "text": "Marketing Automation",
+        "href": "https://moosend.com/marketing-automation/"
+      },
+      {
+        "text": "Email Marketing AI",
+        "href": "https://moosend.com/moosend-ai/"
+      },
+      {
+        "text": "Landing Pages",
+        "href": "https://moosend.com/landing-pages/"
+      },
+      {
+        "text": "Subscription Forms",
+        "href": "https://moosend.com/subscription-forms/"
+      },
+      {
+        "text": "Audience Management",
+        "href": "https://moosend.com/audience-management/"
+      },
+      {
+        "text": "Reporting & Analytics",
+        "href": "https://moosend.com/email-marketing-reporting-analytics/"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://moosend.com/integrations/"
+      },
+      {
+        "text": "Moosend vs MailChimp",
+        "href": "https://moosend.com/moosend-vs-mailchimp/"
+      },
+      {
+        "text": "Moosend vs Kit",
+        "href": "https://moosend.com/moosend-vs-convertkit/"
+      },
+      {
+        "text": "Moosend vs MailerLite",
+        "href": "https://moosend.com/moosend-vs-mailerlite/"
+      },
+      {
+        "text": "MailChimp Alternatives",
+        "href": "https://moosend.com/blog/mailchimp-alternatives/"
+      },
+      {
+        "text": "Kit Alternatives",
+        "href": "https://moosend.com/blog/convertkit-alternatives/"
+      },
+      {
+        "text": "MailerLite Alternatives",
+        "href": "https://moosend.com/blog/mailerlite-alternatives/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://moosend.com/blog/"
+      },
+      {
+        "text": "Blog Directory",
+        "href": "https://moosend.com/directory/"
+      },
+      {
+        "text": "Newsletter Templates",
+        "href": "https://moosend.com/templates/newsletters/"
+      },
+      {
+        "text": "Landing Page Templates",
+        "href": "https://moosend.com/templates/landing-pages/"
+      }
+    ],
+    "buttons": [
+      "ProEnjoy affordable email marketing",
+      "MonthlyPay/month",
+      "BiannualSave 15%",
+      "AnnualSave 20%",
+      "Newsletter",
+      "Landing Pages",
+      "Subscription Forms",
+      "\u00d7",
+      "Learn more",
+      "Reject all",
+      "Accept all",
+      "START FREE",
+      "START FREE",
+      "Try Moosend",
+      "Explore email marketing",
+      "Explore marketing automation",
+      "Explore subscription forms",
+      "Explore landing pages",
+      "START FREE",
+      "CONTACT SALES"
+    ],
+    "forms": [
+      {
+        "action": "https://moosend.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search..."
+          },
+          {
+            "type": "hidden",
+            "name": "search-type",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "radioName",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://moosend.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search..."
+          },
+          {
+            "type": "hidden",
+            "name": "search-type",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "radioName",
+            "placeholder": ""
+          },
+          {
+            "type": "radio",
+            "name": "radioName",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/#wpcf7-f19461-o1",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "_wpcf7",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_version",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_locale",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_unit_tag",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_container_post",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_posted_data_hash",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_recaptcha_response",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "_wpcf7_turnstile_response",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "your-email",
+            "placeholder": "Email Address"
+          },
+          {
+            "type": "hidden",
+            "name": "timestamp",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 227,
+    "images_count": 165,
+    "images_with_alt": 66,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Send, Convert, Repeat: Delight your audience in every email\u200b"
+      },
+      {
+        "level": 1,
+        "text": "Ready to get started?"
+      },
+      {
+        "level": 1,
+        "text": "Launch your marketing journey"
+      },
+      {
+        "level": 1,
+        "text": "Take the first step"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by small and big businesses worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Minimize the effort, maximize the engagement"
+      },
+      {
+        "level": 2,
+        "text": "Set (and forget) automated marketing campaigns\u200b"
+      },
+      {
+        "level": 2,
+        "text": "Join 100,000+ empowered customers"
+      },
+      {
+        "level": 2,
+        "text": "Turn visitors into connections\u200b"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "hidden",
+        "name": "search-type",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "radioName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "hidden",
+        "name": "search-type",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "radioName",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "radioName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_recaptcha_response",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_turnstile_response",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "your-email",
+        "placeholder": "Email Address"
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "your-consent",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Necessary",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "All Features",
+      "Email Marketing",
+      "Transactional Emails",
+      "Marketing Automation",
+      "Email Marketing AI",
+      "Landing Pages",
+      "Subscription Forms",
+      "Audience Management",
+      "Reporting & Analytics",
+      "Integrations",
+      "Moosend vs MailChimp",
+      "Moosend vs Kit",
+      "Moosend vs MailerLite",
+      "MailChimp Alternatives",
+      "Kit Alternatives",
+      "MailerLite Alternatives",
+      "Blog",
+      "Blog Directory",
+      "Newsletter Templates"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 91,
+    "has_og_tags": true,
+    "meta_description": "Maximize your email marketing with Moosend. Reach your goals faster with features like A/B testing, powerful analytics, and intuitive campaign management.",
+    "scripts_count": 86
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Email Marketing AI",
+      "Marketing Automation",
+      "Landing Pages",
+      "Subscription Forms"
+    ],
+    "confidence": "high"
+  }
+}

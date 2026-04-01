@@ -1,0 +1,337 @@
+{
+  "name": "air",
+  "url": "https://air.inc",
+  "scanned_at": "2026-04-01T17:59:17.060092",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/air_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/air_mobile.png"
+  },
+  "structure": {
+    "title": "Air | Creative Operations platform",
+    "url_final": "https://air.inc/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.air.inc/login"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://app.air.inc/sign-up?_gl=1*kml2n2*_gcl_au*MjAzMDE1NjM4MS4xNzQ0MzcxNzc4"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/demo"
+      },
+      {
+        "text": "Creative IntelligenceUnderstand everything about y",
+        "href": "/features/creative-intelligence"
+      },
+      {
+        "text": "Conversational SearchSearch that works the way you",
+        "href": "/features/conversational-search"
+      },
+      {
+        "text": "AI Design & EditingMake more of what works with Ca",
+        "href": "/features/ai-design-editing"
+      },
+      {
+        "text": "Reviews & ApprovalsReview, comment, and approve in",
+        "href": "/features/review-approvals"
+      },
+      {
+        "text": "Storing & SharingUpload, organize, and share creat",
+        "href": "/features/storing-sharing"
+      },
+      {
+        "text": "Digital Asset Management (DAM)Store, organize, and",
+        "href": "/use-cases/digital-asset-management"
+      },
+      {
+        "text": "AI Design & EditingMake more of what works with Ca",
+        "href": "/features/ai-design-and-editing"
+      },
+      {
+        "text": "Creative OperationsEnable teams to deliver great w",
+        "href": "/use-cases/creative-operations"
+      },
+      {
+        "text": "Creative WorkflowsFrom creative intake to delivery",
+        "href": "/use-cases/creative-workflows"
+      },
+      {
+        "text": "Brand ManagementKeep your brand consistent with ev",
+        "href": "/use-cases/brand-management"
+      },
+      {
+        "text": "Sports, Media, & EntertainmentPower high-volume co",
+        "href": "/industries/sports-media-entertainment"
+      },
+      {
+        "text": "Retail & E-CommerceStreamline creative production ",
+        "href": "/industries/retail-ecommerce"
+      },
+      {
+        "text": "Education & NonprofitsEmpower your team to scale c",
+        "href": "/industries/education-nonprofits"
+      },
+      {
+        "text": "Tech & SaaSScale content support rapid product gro",
+        "href": "/industries/tech-saas"
+      },
+      {
+        "text": "AgenciesDeliver exceptional client work at scale",
+        "href": "/industries/agencies"
+      },
+      {
+        "text": "Learn More",
+        "href": "/industries/enterprise"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "Solutions",
+      "Organize",
+      "Approve",
+      "Multiply",
+      "Conversational Search",
+      "Performance Analytics",
+      "Agentic Chat",
+      "Submit",
+      "Manage Cookies",
+      "Features",
+      "Solutions",
+      "Learn More",
+      "Pricing",
+      "Resources",
+      "About",
+      "Login",
+      "Start for free",
+      "Book a demo",
+      "Login"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "First name",
+            "placeholder": "First name*"
+          },
+          {
+            "type": "text",
+            "name": "Last name",
+            "placeholder": "Last name*"
+          },
+          {
+            "type": "email",
+            "name": "Email address",
+            "placeholder": "Email address*"
+          },
+          {
+            "type": "tel",
+            "name": "Phone number",
+            "placeholder": "Phone number*"
+          },
+          {
+            "type": "text",
+            "name": "Company size",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "Message",
+            "placeholder": "Message"
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source_detail",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 66,
+    "images_count": 168,
+    "images_with_alt": 160,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Air"
+      },
+      {
+        "level": 1,
+        "text": "Human creativity.AI scale."
+      },
+      {
+        "level": 1,
+        "text": "Give your ideasspace tobreathe."
+      },
+      {
+        "level": 2,
+        "text": "MAKE IT ONCE. RUN IT EVERYWHERE."
+      },
+      {
+        "level": 2,
+        "text": "MAKEITONCE.MAKEITONCE.RUNITRUNITEVERYWHERE.EVERYWHERE."
+      },
+      {
+        "level": 2,
+        "text": "Organize"
+      },
+      {
+        "level": 2,
+        "text": "Approve"
+      },
+      {
+        "level": 2,
+        "text": "Multiply"
+      },
+      {
+        "level": 3,
+        "text": "Findanything. Even if you don't know what it's called."
+      },
+      {
+        "level": 3,
+        "text": "Seewhat's workingso you can make more of it."
+      },
+      {
+        "level": 3,
+        "text": "Describe what you need. Airhandles it."
+      },
+      {
+        "level": 3,
+        "text": "Air unblocks creativityat scale."
+      },
+      {
+        "level": 3,
+        "text": "One plan. Every model."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "First name",
+        "placeholder": "First name*"
+      },
+      {
+        "type": "text",
+        "name": "Last name",
+        "placeholder": "Last name*"
+      },
+      {
+        "type": "email",
+        "name": "Email address",
+        "placeholder": "Email address*"
+      },
+      {
+        "type": "tel",
+        "name": "Phone number",
+        "placeholder": "Phone number*"
+      },
+      {
+        "type": "text",
+        "name": "Message",
+        "placeholder": "Message"
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source_detail",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Pricing",
+      "Resources",
+      "About",
+      "Careers",
+      "Terms",
+      "Status",
+      "Help Center"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 41,
+    "has_og_tags": true,
+    "meta_description": "Organize. Approve. Multiply. Air is the place where creative teams organize their work, and marketing teams find it, adapt it, and scale it across every channel.",
+    "scripts_count": 57
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered creative operations",
+      "Conversational search",
+      "Digital asset management"
+    ],
+    "confidence": "medium"
+  }
+}

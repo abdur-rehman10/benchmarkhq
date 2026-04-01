@@ -1,0 +1,295 @@
+{
+  "name": "mercury",
+  "url": "https://mercury.com",
+  "scanned_at": "2026-04-01T15:08:14.454554",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/mercury_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/mercury_mobile.png"
+  },
+  "structure": {
+    "title": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+    "url_final": "https://mercury.com/",
+    "nav_items": [
+      {
+        "text": "Mercury logoThe logo for Mercury, featuring a circ",
+        "href": "/"
+      },
+      {
+        "text": "Try the demo",
+        "href": "https://demo.mercury.com/dashboard"
+      },
+      {
+        "text": "Checking & Savings",
+        "href": "/business-banking"
+      },
+      {
+        "text": "Working Capital Loans",
+        "href": "/working-capital-loans"
+      },
+      {
+        "text": "Venture Debt",
+        "href": "/venture-debt"
+      },
+      {
+        "text": "Treasury by Mercury Advisory",
+        "href": "/treasury"
+      },
+      {
+        "text": "Business Credit Cards",
+        "href": "/credit"
+      },
+      {
+        "text": "Expense Management",
+        "href": "/expense-management"
+      },
+      {
+        "text": "Payments",
+        "href": "/business-payments"
+      },
+      {
+        "text": "Invoicing",
+        "href": "/invoicing"
+      },
+      {
+        "text": "Accounting Automations",
+        "href": "/accounting-automations"
+      },
+      {
+        "text": "Insights",
+        "href": "/insights"
+      },
+      {
+        "text": "",
+        "href": "/personal-banking"
+      },
+      {
+        "text": "TechSpend less time on money management and more t",
+        "href": "/saas"
+      },
+      {
+        "text": "EcommerceGet everything you need to grow your bran",
+        "href": "/ecommerce"
+      },
+      {
+        "text": "Agencies, Consultants & FirmsSimplify your finance",
+        "href": "/agencies-and-consultants"
+      },
+      {
+        "text": "VC FundsManage investments in all your portfolio c",
+        "href": "/vc-funds"
+      },
+      {
+        "text": "CryptoRun everything from a fast, compliant hub bu",
+        "href": "/web3"
+      },
+      {
+        "text": "Accounting FirmsBring clarity to your clients and ",
+        "href": "/accounting-firms"
+      },
+      {
+        "text": "LLCs",
+        "href": "/llc-banking"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Resources",
+      "About",
+      "Open Menu",
+      "Products",
+      "Solutions",
+      "Resources",
+      "About",
+      "Open account",
+      "Open account",
+      "Apply online in 10 minutes",
+      "Get a credit card instantly2",
+      "Tackle banking tasks in seconds",
+      "Send no-fee USD payments around the globe",
+      "Earn 1.5% cashback on credit spend",
+      "Earn up to3.67%yield with Mercury Treasury4"
+    ],
+    "forms": [
+      {
+        "action": "https://app.mercury.com/redirect/autofill",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "hidden",
+            "name": "path",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 152,
+    "images_count": 39,
+    "images_with_alt": 25,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Radically different banking"
+      },
+      {
+        "level": 2,
+        "text": "Everything you do with money.All in one place."
+      },
+      {
+        "level": 2,
+        "text": "You\u2019re creating something to stand the test of time. So are we."
+      },
+      {
+        "level": 2,
+        "text": "Whatever you\u2019re building, you\u2019re in the right place."
+      },
+      {
+        "level": 2,
+        "text": "$650M in annual revenue and profitable"
+      },
+      {
+        "level": 2,
+        "text": "Mercury lands $300M Series C"
+      },
+      {
+        "level": 3,
+        "text": "Apply online in 10 minutes"
+      },
+      {
+        "level": 3,
+        "text": "Get a credit card instantly2"
+      },
+      {
+        "level": 3,
+        "text": "Tackle banking tasks in seconds"
+      },
+      {
+        "level": 3,
+        "text": "Send no-fee USD payments around the globe"
+      },
+      {
+        "level": 3,
+        "text": "Earn 1.5% cashback on credit spend"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "hidden",
+        "name": "path",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Business Checking & Savings",
+      "Treasury",
+      "Business Credit Cards",
+      "Working Capital Loans",
+      "Venture Debt",
+      "Personal Banking",
+      "Pricing",
+      "Switch to Mercury",
+      "Security",
+      "API",
+      "Perks",
+      "Help Center",
+      "Meridian",
+      "Blog",
+      "Tools",
+      "Events",
+      "Business Formation Resources",
+      "Peak Season",
+      "Financial Workflows",
+      "Payments"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Everything you do with money. All in one place. Apply in 10 minutes for business banking that transforms how you operate.",
+    "scripts_count": 135
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Radically different banking",
+      "All-in-one financial platform for startups and small businesses",
+      "No-fee USD payments globally",
+      "1.5% cashback on credit spend"
+    ],
+    "confidence": "high"
+  }
+}

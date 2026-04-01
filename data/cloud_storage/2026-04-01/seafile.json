@@ -1,0 +1,209 @@
+{
+  "name": "seafile",
+  "url": "https://www.seafile.com",
+  "scanned_at": "2026-04-01T17:56:39.767196",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/seafile_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/seafile_mobile.png"
+  },
+  "structure": {
+    "title": "Seafile - Open Source File Sync and Share Software",
+    "url_final": "https://www.seafile.com/en/home/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/en/home/"
+      },
+      {
+        "text": "Features",
+        "href": "/en/features/"
+      },
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "Seafile On-Premise",
+        "href": "/en/product/seafile_on_premise/"
+      },
+      {
+        "text": "SeafilePlus Cloud",
+        "href": "/en/product/seafile_plus_cloud/"
+      },
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "Seafile On-Premise",
+        "href": "/en/product/seafile_on_premise/"
+      },
+      {
+        "text": "SeafilePlus Cloud",
+        "href": "/en/product/seafile_plus_cloud/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/en/pricing/"
+      },
+      {
+        "text": "Download",
+        "href": "/en/download/"
+      },
+      {
+        "text": "Support",
+        "href": "/en/support/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://blog.seafile.com"
+      },
+      {
+        "text": "English",
+        "href": "#"
+      },
+      {
+        "text": "\u4e2d\u6587",
+        "href": "/home/"
+      },
+      {
+        "text": "English",
+        "href": "/en/home/"
+      },
+      {
+        "text": "German",
+        "href": "https://de.seafile.com/"
+      },
+      {
+        "text": "English",
+        "href": "#"
+      },
+      {
+        "text": "\u4e2d\u6587",
+        "href": "/home/"
+      },
+      {
+        "text": "English",
+        "href": "/en/home/"
+      },
+      {
+        "text": "German",
+        "href": "https://de.seafile.com/"
+      }
+    ],
+    "buttons": [
+      "Register",
+      "Try it now"
+    ],
+    "forms": [],
+    "links_count": 48,
+    "images_count": 20,
+    "images_with_alt": 11,
+    "headings": [
+      {
+        "level": 1,
+        "text": "A new way to organize your files"
+      },
+      {
+        "level": 2,
+        "text": "Seafile Features"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by thousands"
+      },
+      {
+        "level": 3,
+        "text": "Extensible File Properties"
+      },
+      {
+        "level": 3,
+        "text": "Flexible File Views"
+      },
+      {
+        "level": 3,
+        "text": "Comprehensive Cloud Storage Features"
+      },
+      {
+        "level": 3,
+        "text": "Flexible Sharing Permissions"
+      },
+      {
+        "level": 3,
+        "text": "Multi-level File Tagging"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": false,
+    "meta_description": "Seafile is an open source, self-hosted file sync and share solution with high performance and reliability. Sync, access, and collaborate on files on your own server or private cloud.",
+    "scripts_count": 6
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open Source",
+      "On-Premise and Cloud Options",
+      "Flexible Sharing Permissions",
+      "Multi-level File Tagging"
+    ],
+    "confidence": "medium"
+  }
+}

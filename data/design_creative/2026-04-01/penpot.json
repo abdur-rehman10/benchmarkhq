@@ -1,0 +1,362 @@
+{
+  "name": "penpot",
+  "url": "https://penpot.app",
+  "scanned_at": "2026-04-01T15:28:21.919082",
+  "screenshots": {
+    "desktop": "data/design_creative/2026-04-01/screenshots/penpot_desktop.png",
+    "mobile": "data/design_creative/2026-04-01/screenshots/penpot_mobile.png"
+  },
+  "structure": {
+    "title": "Penpot: The Design platform for Design & Code Collaboration",
+    "url_final": "https://penpot.app/",
+    "nav_items": [
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Design",
+        "href": "/design"
+      },
+      {
+        "text": "Code",
+        "href": "/code"
+      },
+      {
+        "text": "Collaboration",
+        "href": "/collaboration"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Self-host",
+        "href": "/self-host"
+      },
+      {
+        "text": "Integrations & API",
+        "href": "/integrations-api"
+      },
+      {
+        "text": "Technical Guide",
+        "href": "https://help.penpot.app/technical-guide/"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://github.com/penpot/penpot/blob/main/CHANGES.md"
+      },
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Features",
+        "href": "/features"
+      },
+      {
+        "text": "Our Community",
+        "href": "https://community.penpot.app/"
+      },
+      {
+        "text": "Community Space",
+        "href": "https://community.penpot.app/"
+      },
+      {
+        "text": "Wall of love",
+        "href": "/wall-of-love"
+      },
+      {
+        "text": "Blog",
+        "href": "https://penpot.app/blog/"
+      },
+      {
+        "text": "Penpot Fest",
+        "href": "/penpotfest"
+      }
+    ],
+    "buttons": [
+      "Interface DesignFlexible layouts,design systemsand",
+      "PrototypingInteractive flows, interactions and tra",
+      "Feedback & shareAll stakeholders stay involved",
+      "Code inspectSpecs, CSS and HTML/SVG markups",
+      "Get your newsletter",
+      "Subscribe",
+      "Accept all",
+      "Reject all",
+      "Customize cookies",
+      "Save",
+      "Cancel",
+      "Discover our story",
+      "Log in",
+      "Contact Sales",
+      "Sign up for free",
+      "Sign up, it's free!",
+      "Self-host install",
+      "See Design features",
+      "Go to design page",
+      "See Collaboration features",
+      "Explore Penpot integrations",
+      "See Code features",
+      "More love",
+      "Check them out",
+      "Go to Penpot Fest site",
+      "Check Penpot's Community",
+      "Join the movement",
+      "Sign up for free",
+      "Self-host install"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "opt-in",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "source",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "topic_1",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "topic_2",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "opt-in",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 106,
+    "images_count": 129,
+    "images_with_alt": 26,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Design and code beautiful products.Together."
+      },
+      {
+        "level": 2,
+        "text": "Goodbye \"lost in translation\" and hand-off drama"
+      },
+      {
+        "level": 2,
+        "text": "With Penpot, designers know their interfaces are alreadyexpressed as code."
+      },
+      {
+        "level": 2,
+        "text": "Penpot is a powerfuldesign platform"
+      },
+      {
+        "level": 2,
+        "text": "They love Penpot"
+      },
+      {
+        "level": 2,
+        "text": "Join anunstoppablecommunity"
+      },
+      {
+        "level": 3,
+        "text": "Design & code collaboration\n for real"
+      },
+      {
+        "level": 3,
+        "text": "Open standards & Open Source"
+      },
+      {
+        "level": 3,
+        "text": "Multi-directional design and code workflows"
+      },
+      {
+        "level": 3,
+        "text": "The flexibility of an API & webhooks"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "opt-in",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "topic_1",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "topic_2",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "opt-in",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Design",
+      "Code",
+      "Collaboration",
+      "Integrations & API",
+      "Self-host",
+      "Features",
+      "Pricing",
+      "Terms & conditions",
+      "Privacy policy",
+      "Cookie policy",
+      "Data processing agreement",
+      "Security and Compliance",
+      "Whistleblowing",
+      "About",
+      "Blog",
+      "Wall of love",
+      "Penpot Fest",
+      "Careers",
+      "Media Kit"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app. ",
+    "scripts_count": 26
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open Source",
+      "Design and Code Collaboration",
+      "Self-hosting Option"
+    ],
+    "confidence": "high"
+  }
+}

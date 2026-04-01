@@ -1,0 +1,248 @@
+{
+  "name": "budibase",
+  "url": "https://budibase.com",
+  "scanned_at": "2026-04-01T16:35:02.073991",
+  "screenshots": {
+    "desktop": "data/nocode_lowcode/2026-04-01/screenshots/budibase_desktop.png",
+    "mobile": "data/nocode_lowcode/2026-04-01/screenshots/budibase_mobile.png"
+  },
+  "structure": {
+    "title": "Budibase | Build AI Agents, Make Work Flow",
+    "url_final": "https://budibase.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "AgentsBeta",
+        "href": "/product/agents"
+      },
+      {
+        "text": "Apps",
+        "href": "/product/apps"
+      },
+      {
+        "text": "Automations",
+        "href": "/product/automations"
+      },
+      {
+        "text": "API explorer",
+        "href": "/product/apis"
+      },
+      {
+        "text": "Connectors",
+        "href": "/product/connections"
+      },
+      {
+        "text": "Data tables",
+        "href": "/product/data"
+      },
+      {
+        "text": "Ops",
+        "href": "/ops"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.budibase.com"
+      },
+      {
+        "text": "Community",
+        "href": "https://discord.com/invite/budibase-733030666647765003"
+      },
+      {
+        "text": "27.5K",
+        "href": "https://github.com/budibase/budibase"
+      },
+      {
+        "text": "Log in",
+        "href": "https://account.budibase.app/auth/login"
+      },
+      {
+        "text": "Try it free",
+        "href": "https://account.budibase.app/register"
+      }
+    ],
+    "buttons": [
+      "Get Budibase",
+      "Instructions",
+      "Knowledge",
+      "Deployment",
+      "Budibase AI",
+      "Mistral 3",
+      "Budibase AISelected",
+      "Anthropic",
+      "Google",
+      "OpenAI",
+      "Refresh chat",
+      "Send",
+      "Send",
+      "Log in",
+      "Sign up"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Ask anything"
+          }
+        ]
+      }
+    ],
+    "links_count": 52,
+    "images_count": 140,
+    "images_with_alt": 124,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI agents thatrun your operations."
+      },
+      {
+        "level": 2,
+        "text": "Run your operations on one platform"
+      },
+      {
+        "level": 2,
+        "text": "Operations your team can run with AI agents"
+      },
+      {
+        "level": 2,
+        "text": "Agents that take action"
+      },
+      {
+        "level": 2,
+        "text": "Connect the tools your business runs on"
+      },
+      {
+        "level": 2,
+        "text": "Sign up today."
+      },
+      {
+        "level": 3,
+        "text": "Agents"
+      },
+      {
+        "level": 3,
+        "text": "Automations"
+      },
+      {
+        "level": 3,
+        "text": "Tables"
+      },
+      {
+        "level": 3,
+        "text": "Apps"
+      },
+      {
+        "level": 3,
+        "text": "Employee requests"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "budibase/agents"
+      }
+    ],
+    "footer_links": [
+      "Agents",
+      "Automations",
+      "Apps",
+      "Pricing",
+      "Blog",
+      "Changelog",
+      "Ops",
+      "Customers",
+      "Docs",
+      "Support Policy",
+      "Terms of Service",
+      "Privacy Policy",
+      "Discord",
+      "LinkedIn",
+      "YouTube",
+      "Partners"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 21,
+    "has_og_tags": true,
+    "meta_description": "Build AI agents, chat and automate internal workflows instantly. The fastest way to automate internal business processes.",
+    "scripts_count": 13
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "Y",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI agents for operations",
+      "Integration with multiple tools",
+      "Open source presence on GitHub"
+    ],
+    "confidence": "medium"
+  }
+}

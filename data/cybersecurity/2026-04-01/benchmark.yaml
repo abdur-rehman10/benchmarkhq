@@ -1,0 +1,194 @@
+metadata:
+  industry: cybersecurity
+  name: Cybersecurity SaaS
+  category: Security
+  version: 1.0.0
+  generated_at: '2026-04-01T16:31:25.516370'
+  sites_analyzed: 30
+  sites:
+  - cloudflare
+  - crowdstrike
+  - sentinelone
+  - 1password
+  - dashlane
+  - bitwarden
+  - lastpass
+  - okta
+  - auth0
+  - clerk
+  - snyk
+  - drata
+  - vanta
+  - lacework
+  - wiz
+  - orca_security
+  - palo_alto_networks
+  - fortinet
+  - sophos
+  - nordvpn_business
+  - tailscale
+  - twingate
+  - teleport
+  - hashicorp_vault
+  - doppler
+  - infisical
+  - gitguardian
+  - socket
+  - semgrep
+  - aikido_security
+features:
+  critical:
+  - id: pricing_page
+    frequency: 29/29
+    percent: 100
+  - id: free_trial
+    frequency: 27/29
+    percent: 100
+  - id: multiple_tiers
+    frequency: 27/29
+    percent: 100
+  - id: enterprise_tier
+    frequency: 28/29
+    percent: 100
+  - id: annual_discount
+    frequency: 17/29
+    percent: 100
+  - id: blog
+    frequency: 29/29
+    percent: 100
+  - id: about_page
+    frequency: 26/29
+    percent: 100
+  - id: careers_page
+    frequency: 26/29
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 24/29
+    percent: 100
+  - id: contact_page
+    frequency: 29/29
+    percent: 100
+  - id: product_screenshots
+    frequency: 23/29
+    percent: 96
+  - id: integrations_page
+    frequency: 26/29
+    percent: 96
+  - id: privacy_policy
+    frequency: 27/29
+    percent: 96
+  - id: terms_of_service
+    frequency: 27/29
+    percent: 96
+  - id: cookie_consent
+    frequency: 25/29
+    percent: 96
+  - id: customer_logos
+    frequency: 23/29
+    percent: 92
+  - id: security_page
+    frequency: 23/29
+    percent: 92
+  - id: gdpr_mentioned
+    frequency: 22/29
+    percent: 92
+  - id: help_center
+    frequency: 23/29
+    percent: 92
+  - id: multi_language
+    frequency: 19/29
+    percent: 90
+  - id: api_documentation
+    frequency: 25/29
+    percent: 89
+  - id: github_presence
+    frequency: 23/29
+    percent: 88
+  - id: interactive_demo
+    frequency: 22/29
+    percent: 88
+  - id: feature_comparison_table
+    frequency: 20/29
+    percent: 87
+  - id: dpa_available
+    frequency: 18/29
+    percent: 86
+  - id: case_studies
+    frequency: 22/29
+    percent: 85
+  required:
+  - id: video_demo
+    frequency: 21/29
+    percent: 84
+  - id: soc2_mentioned
+    frequency: 19/29
+    percent: 83
+  - id: developer_portal
+    frequency: 20/29
+    percent: 83
+  - id: onboarding_video
+    frequency: 19/29
+    percent: 83
+  - id: sdk_available
+    frequency: 19/29
+    percent: 79
+  - id: code_examples
+    frequency: 18/29
+    percent: 78
+  - id: webhooks_support
+    frequency: 17/29
+    percent: 77
+  - id: live_chat
+    frequency: 17/29
+    percent: 77
+  - id: iso27001_mentioned
+    frequency: 15/29
+    percent: 71
+  - id: sla_published
+    frequency: 15/29
+    percent: 71
+  - id: status_page
+    frequency: 16/29
+    percent: 70
+  - id: openapi_spec
+    frequency: 14/29
+    percent: 67
+  recommended:
+  - id: community_forum
+    frequency: 14/29
+    percent: 61
+  - id: changelog
+    frequency: 14/29
+    percent: 58
+  - id: templates_available
+    frequency: 12/29
+    percent: 55
+  - id: ios_app
+    frequency: 12/29
+    percent: 55
+  - id: android_app
+    frequency: 12/29
+    percent: 55
+  - id: desktop_app
+    frequency: 11/29
+    percent: 50
+  - id: free_tier
+    frequency: 13/29
+    percent: 48
+  - id: browser_extension
+    frequency: 9/29
+    percent: 43
+  - id: transparent_pricing
+    frequency: 12/29
+    percent: 41
+  nice_to_have:
+  - id: api_playground
+    frequency: 6/29
+    percent: 26
+  - id: social_signup
+    frequency: 6/29
+    percent: 26
+  innovative:
+  - id: roi_calculator
+    frequency: 3/29
+    percent: 14

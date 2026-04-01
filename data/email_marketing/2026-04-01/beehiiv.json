@@ -1,0 +1,185 @@
+{
+  "name": "beehiiv",
+  "url": "https://www.beehiiv.com",
+  "scanned_at": "2026-04-01T14:51:27.946835",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/beehiiv_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/beehiiv_mobile.png"
+  },
+  "structure": {
+    "title": "beehiiv \u2014 The newsletter platform built for growth",
+    "url_final": "https://www.beehiiv.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.beehiiv.com/"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.beehiiv.com/login"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://app.beehiiv.com/signup?plan=max"
+      }
+    ],
+    "buttons": [
+      "PlatformNewslettersMake a statement in the inbox w",
+      "SolutionsI want to...Influence Public OpinionReach",
+      "ResourcesBlogBest practices for scaling your newsl",
+      "Sign up with Google",
+      "What's included...",
+      "Everything on Launch +",
+      "Everything on Scale +",
+      "Media",
+      "Creator",
+      "Journalist",
+      "Public Figure",
+      "Business",
+      "Trial Premium Features",
+      "Platform",
+      "beehiiv for",
+      "Resources",
+      "Help",
+      "Company",
+      "\u00d7",
+      "Sign up with email",
+      "Start writing \u2192",
+      "Start building \u2192",
+      "Start monetizing \u2192",
+      "Find the best plan for you",
+      "Sign up for free",
+      "Try for free",
+      "Try for free",
+      "Sign up for free",
+      "Sign up for free"
+    ],
+    "forms": [],
+    "links_count": 199,
+    "images_count": 74,
+    "images_with_alt": 68,
+    "headings": [
+      {
+        "level": 1,
+        "text": "POWERING THE INTERNET'S BESTNEWSLETTERS"
+      },
+      {
+        "level": 2,
+        "text": "STAND OUT IN THE INBOX"
+      },
+      {
+        "level": 2,
+        "text": "NO CODE. NO LIMITS."
+      },
+      {
+        "level": 2,
+        "text": "Monetize your content"
+      },
+      {
+        "level": 2,
+        "text": "BUILD YOUR CONTENT YOUR WAY"
+      },
+      {
+        "level": 2,
+        "text": "MORE THAN JUST NEWSLETTERS"
+      },
+      {
+        "level": 3,
+        "text": "Take a tour of beehiiv"
+      },
+      {
+        "level": 3,
+        "text": "State of Newsletters"
+      },
+      {
+        "level": 3,
+        "text": "What's included..."
+      },
+      {
+        "level": 3,
+        "text": "Everything on Launch +"
+      },
+      {
+        "level": 3,
+        "text": "Everything on Scale +"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": true,
+    "meta_description": "Access the best tools available in email, helping your newsletter scale and monetize like never before.",
+    "scripts_count": 121
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "No-code platform",
+      "Content monetization",
+      "Social signup options"
+    ],
+    "confidence": "medium"
+  }
+}

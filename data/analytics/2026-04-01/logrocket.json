@@ -1,0 +1,220 @@
+{
+  "name": "logrocket",
+  "url": "https://logrocket.com",
+  "scanned_at": "2026-04-01T15:02:52.508337",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/logrocket_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/logrocket_mobile.png"
+  },
+  "structure": {
+    "title": "Session Replay | Product Analytics | Error Tracking | LogRocket",
+    "url_final": "https://logrocket.com/",
+    "nav_items": [
+      {
+        "text": "LogRocket",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Blog",
+        "href": "https://blog.logrocket.com"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.logrocket.com"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.logrocket.com"
+      },
+      {
+        "text": "Get a demo",
+        "href": "/request-demo"
+      }
+    ],
+    "buttons": [
+      "Open main menu",
+      "Products",
+      "Solutions",
+      "Log in",
+      "Get a demo",
+      "Start for free",
+      "Get a demo",
+      "View all customer stories",
+      "Mobile",
+      "Web",
+      "Customer Support",
+      "A/B & Feature Flags",
+      "Observability",
+      "Voice of Customer",
+      "Data Warehouse",
+      "Customer Support",
+      "A/B & Feature Flags",
+      "Observability",
+      "Voice of Customer",
+      "Data Warehouse",
+      "Get a demo",
+      "Start for free",
+      "Pricing",
+      "Customers",
+      "Blog",
+      "Docs"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      }
+    ],
+    "links_count": 80,
+    "images_count": 97,
+    "images_with_alt": 86,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI session replay that catches issues before your users\u00a0do"
+      },
+      {
+        "level": 2,
+        "text": "Galileo AI"
+      },
+      {
+        "level": 2,
+        "text": "Meet Galileo, the AI that watches every session for you"
+      },
+      {
+        "level": 2,
+        "text": "Rated #1 forsession replay and analytics"
+      },
+      {
+        "level": 2,
+        "text": "Everything you need to understand and optimize user experiences, built for the A"
+      },
+      {
+        "level": 2,
+        "text": "Get startedin minutes"
+      },
+      {
+        "level": 3,
+        "text": "Product Analytics"
+      },
+      {
+        "level": 3,
+        "text": "Issues"
+      },
+      {
+        "level": 3,
+        "text": "Session Replay"
+      },
+      {
+        "level": 3,
+        "text": "UX Analytics"
+      },
+      {
+        "level": 3,
+        "text": "Error Tracking"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Session Replay for Developers",
+      "AI Error Tracking",
+      "Frontend Performance Monitoring",
+      "Session Replay for Product, Design & Marketing",
+      "AI Issues",
+      "Product Analytics",
+      "UX Analytics",
+      "Galileo AI",
+      "Pricing",
+      "Developer Blog",
+      "Product Management Blog",
+      "UX Design",
+      "Developer Podcast",
+      "Product Management Podcast",
+      "Solve user-reported issues",
+      "Surface user struggle",
+      "Optimize conversation and adoption",
+      "All Customers",
+      "Cox Automotive",
+      "7-Eleven"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "LogRocket helps you understand problems affecting your users, so that you can get back to building great software.",
+    "scripts_count": 75
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "Y",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI session replay",
+      "Error tracking",
+      "Product analytics",
+      "Galileo AI"
+    ],
+    "confidence": "medium"
+  }
+}

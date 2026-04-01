@@ -1,0 +1,213 @@
+{
+  "name": "mode",
+  "url": "https://mode.com",
+  "scanned_at": "2026-04-01T15:00:22.247313",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/mode_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/mode_mobile.png"
+  },
+  "structure": {
+    "title": "Modern Business Intelligence | Better data, better decisions",
+    "url_final": "https://mode.com/",
+    "nav_items": [
+      {
+        "text": "Why Mode",
+        "href": "https://mode.com/comparisons/"
+      },
+      {
+        "text": "Customer Stories",
+        "href": "https://mode.com/customers/"
+      },
+      {
+        "text": "Compare Plans",
+        "href": "https://mode.com/compare-plans/"
+      }
+    ],
+    "buttons": [
+      "Customise",
+      "Reject All",
+      "Accept All",
+      "Show more",
+      "Necessary",
+      "Functional",
+      "Analytics",
+      "Performance",
+      "Advertisement",
+      "Uncategorised",
+      "Reject All",
+      "Save My Preferences",
+      "Accept All",
+      "Modern BI",
+      "Resources",
+      "Sign in",
+      "Try for free",
+      "Request demo",
+      "Modern BI",
+      "Resources",
+      "Sign in",
+      "Try for free",
+      "Request demo",
+      "Try for free",
+      "Request demo",
+      "Request demo"
+    ],
+    "forms": [],
+    "links_count": 104,
+    "images_count": 72,
+    "images_with_alt": 8,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Business Intelligence"
+      },
+      {
+        "level": 1,
+        "text": "built around"
+      },
+      {
+        "level": 1,
+        "text": "Business Intelligence built around data teams"
+      },
+      {
+        "level": 1,
+        "text": "data teams"
+      },
+      {
+        "level": 2,
+        "text": "Capabilities you can count on"
+      },
+      {
+        "level": 2,
+        "text": "Clear the path from data to insights, together"
+      },
+      {
+        "level": 2,
+        "text": "The intelligence layer for your modern data stack"
+      },
+      {
+        "level": 2,
+        "text": "Mode customers lead their industries"
+      },
+      {
+        "level": 2,
+        "text": "Get to know Mode"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Terms of Service",
+      "Website Privacy Statement",
+      "Explore Platform",
+      "Customer Stories",
+      "Compare Plans",
+      "Ad Hoc Analysis",
+      "Self-Serve Reporting",
+      "Interactive Dashboards",
+      "Advanced Analytics",
+      "Custom Data Apps",
+      "SQL Editor",
+      "Visual Explorer",
+      "Integrated Notebooks",
+      "Reports & Dashboards",
+      "Datasets",
+      "Embedded Analytics",
+      "Security",
+      "Integrations"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 22,
+    "has_og_tags": true,
+    "meta_description": "Mode is a collaborative data platform that combines SQL, R, Python, and visual analytics in one place. Connect, analyze, and share, faster.",
+    "scripts_count": 31
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Modern BI focus",
+      "Integration with data teams",
+      "Interactive dashboards"
+    ],
+    "confidence": "medium"
+  }
+}

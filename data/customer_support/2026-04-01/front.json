@@ -1,0 +1,296 @@
+{
+  "name": "front",
+  "url": "https://front.com",
+  "scanned_at": "2026-04-01T14:37:38.700075",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/front_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/front_mobile.png"
+  },
+  "structure": {
+    "title": "Front | Customer service platform \u2014 powered by AI, designed for humans",
+    "url_final": "https://front.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://app.frontapp.com/signin"
+      },
+      {
+        "text": "",
+        "href": "https://front.com/product"
+      },
+      {
+        "text": "Front Overview",
+        "href": "/product"
+      },
+      {
+        "text": "Product Tour",
+        "href": "/product-tour"
+      },
+      {
+        "text": "Customer Service",
+        "href": "/customer-service"
+      },
+      {
+        "text": "Email Management",
+        "href": "/email-management"
+      },
+      {
+        "text": "Client Communication",
+        "href": "/client-communication"
+      },
+      {
+        "text": "Front AI Overview",
+        "href": "/product/ai"
+      },
+      {
+        "text": "Autopilot",
+        "href": "/product/autopilot-customer-service-automation"
+      },
+      {
+        "text": "Copilot",
+        "href": "/product/copilot-ai-assistant"
+      },
+      {
+        "text": "Smart QA",
+        "href": "/product/smart-qa-automated-quality-assurance"
+      },
+      {
+        "text": "Smart CSAT",
+        "href": "/product/smart-csat-ai-scoring"
+      },
+      {
+        "text": "Omnichannel",
+        "href": "/product/omnichannel-support-inbox"
+      },
+      {
+        "text": "Ticketing",
+        "href": "/product/ticketing-system"
+      },
+      {
+        "text": "Live chat",
+        "href": "/product/live-chat"
+      },
+      {
+        "text": "Knowledge base",
+        "href": "/product/knowledge-base"
+      },
+      {
+        "text": "Integrations & API",
+        "href": "/product/integrations-api"
+      },
+      {
+        "text": "Technology",
+        "href": "/industries/b2b-tech"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Request a demo",
+      "Try for free",
+      "Request demo",
+      "Start free trial",
+      "Cross-team coordination",
+      "Multi-step workflows",
+      "AI command center",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Request a demo",
+      "Try for free",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Confirm My Choices",
+      "Pricing"
+    ],
+    "forms": [],
+    "links_count": 117,
+    "images_count": 66,
+    "images_with_alt": 56,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI for simple support is everywhere. Complex customer operations demand Front."
+      },
+      {
+        "level": 2,
+        "text": "Where cross-team customer operations stops crossing wires"
+      },
+      {
+        "level": 2,
+        "text": "9,000+ customers trust Front with the hard stuff"
+      },
+      {
+        "level": 2,
+        "text": "Alt+Tab isn\u2019t a workflow. Unify your whole stack."
+      },
+      {
+        "level": 2,
+        "text": "Cookie Settings"
+      },
+      {
+        "level": 3,
+        "text": "We sprint through complexity that trips up other customer service platforms"
+      },
+      {
+        "level": 3,
+        "text": "One view across every team"
+      },
+      {
+        "level": 3,
+        "text": "AI built for more than FAQs"
+      },
+      {
+        "level": 3,
+        "text": "Resolution without rework"
+      },
+      {
+        "level": 3,
+        "text": "Resolve up to 70% of requests with AI, not just the low-hanging fruit"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Front AI Overview",
+      "Autopilot",
+      "Copilot",
+      "Smart QA",
+      "Smart CSAT",
+      "Customer Service",
+      "Email Management",
+      "Client Communication",
+      "Front vs. Zendesk",
+      "Front vs. Freshdesk",
+      "Front vs. Intercom",
+      "Front vs. Help Scout",
+      "Front vs. Salesforce",
+      "About",
+      "Careers",
+      "Press",
+      "Real-Time Metrics"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "Deliver exceptional service at scale with Front, the modern CX platform combining client communication, automation, and analytics for customer-first teams.",
+    "scripts_count": 99
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered customer service",
+      "Omnichannel support",
+      "Cross-team coordination",
+      "AI command center"
+    ],
+    "confidence": "medium"
+  }
+}

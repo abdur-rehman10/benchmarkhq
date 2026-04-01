@@ -1,0 +1,163 @@
+{
+  "name": "youform",
+  "url": "https://youform.io",
+  "scanned_at": "2026-04-01T18:09:27.472477",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/youform_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/youform_mobile.png"
+  },
+  "structure": {
+    "title": "Youform - A Free Typeform alternative (unlimited submissions)",
+    "url_final": "https://youform.com/",
+    "nav_items": [],
+    "buttons": [
+      "Import it now",
+      "Import it now",
+      "Close",
+      "Cancel",
+      "Cancel"
+    ],
+    "forms": [],
+    "links_count": 83,
+    "images_count": 43,
+    "images_with_alt": 40,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The most affordable Typeform alternative"
+      },
+      {
+        "level": 2,
+        "text": "Features that make form buildingfun again!"
+      },
+      {
+        "level": 2,
+        "text": "Seamless Integrations"
+      },
+      {
+        "level": 2,
+        "text": "500+ Form Templates"
+      },
+      {
+        "level": 2,
+        "text": "Forms"
+      },
+      {
+        "level": 2,
+        "text": "Surveys"
+      },
+      {
+        "level": 3,
+        "text": "Intelligent builder"
+      },
+      {
+        "level": 3,
+        "text": "Partial submissions"
+      },
+      {
+        "level": 3,
+        "text": "500+ templates"
+      },
+      {
+        "level": 3,
+        "text": "Make it your own"
+      },
+      {
+        "level": 3,
+        "text": "Integrate with 6000+ tools"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "range",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "prompt-text",
+        "placeholder": ""
+      },
+      {
+        "type": "password",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Youform is a free Typeform alternative that allows unlimited forms and unlimited responses on the free plan.",
+    "scripts_count": 3
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Unlimited submissions",
+      "500+ form templates",
+      "Integration with 6000+ tools"
+    ],
+    "confidence": "medium"
+  }
+}

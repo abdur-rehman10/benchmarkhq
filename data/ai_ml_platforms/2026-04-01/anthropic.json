@@ -1,0 +1,290 @@
+{
+  "name": "anthropic",
+  "url": "https://www.anthropic.com",
+  "scanned_at": "2026-04-01T16:42:05.370666",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/anthropic_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/anthropic_mobile.png"
+  },
+  "structure": {
+    "title": "Home \\ Anthropic",
+    "url_final": "https://www.anthropic.com/",
+    "nav_items": [
+      {
+        "text": "Research",
+        "href": "https://www.anthropic.com/research"
+      },
+      {
+        "text": "Economic Futures",
+        "href": "https://www.anthropic.com/economic-futures"
+      },
+      {
+        "text": "Claude's Constitution",
+        "href": "https://www.anthropic.com/constitution"
+      },
+      {
+        "text": "Transparency",
+        "href": "https://www.anthropic.com/transparency"
+      },
+      {
+        "text": "Responsible Scaling Policy",
+        "href": "https://www.anthropic.com/responsible-scaling-policy"
+      },
+      {
+        "text": "Security and compliance",
+        "href": "http://trust.anthropic.com/"
+      },
+      {
+        "text": "Anthropic Academy",
+        "href": "https://www.anthropic.com/learn"
+      },
+      {
+        "text": "Tutorials",
+        "href": "https://claude.com/resources/tutorials"
+      },
+      {
+        "text": "Use cases",
+        "href": "https://claude.com/resources/use-cases"
+      },
+      {
+        "text": "Engineering at Anthropic",
+        "href": "https://www.anthropic.com/engineering"
+      },
+      {
+        "text": "Developer docs",
+        "href": "https://docs.claude.com"
+      },
+      {
+        "text": "About",
+        "href": "https://www.anthropic.com/company"
+      },
+      {
+        "text": "Careers",
+        "href": "https://www.anthropic.com/careers"
+      },
+      {
+        "text": "Events",
+        "href": "https://www.anthropic.com/events"
+      },
+      {
+        "text": "News",
+        "href": "https://www.anthropic.com/news"
+      },
+      {
+        "text": "Try Claude",
+        "href": "https://claude.ai/redirect/website.v1.16a341d5-96de-48c4-aa42-58ccae0a5765"
+      },
+      {
+        "text": "Claude",
+        "href": "https://claude.com/product/overview"
+      },
+      {
+        "text": "Claude Code",
+        "href": "https://claude.com/product/claude-code"
+      },
+      {
+        "text": "Claude Cowork",
+        "href": "https://claude.com/product/cowork"
+      },
+      {
+        "text": "Claude Platform",
+        "href": "https://claude.com/platform/api"
+      }
+    ],
+    "buttons": [
+      "Try Claude",
+      "Log in to Claude",
+      "Download app",
+      "Try Claude",
+      "Log in to Claude",
+      "Download app",
+      "Read More",
+      "Read announcement",
+      "Model details",
+      "Read the post",
+      "Read the story",
+      "Privacy choices",
+      "Customizecookie settings",
+      "Rejectall cookies",
+      "Acceptall cookies",
+      "Save preferences"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 156,
+    "images_count": 0,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AIresearchandproductsthat put safety at the frontierAIresearchandproductsthatput"
+      },
+      {
+        "level": 2,
+        "text": "What 81,000 people want from\u00a0AI"
+      },
+      {
+        "level": 2,
+        "text": "Latest releases"
+      },
+      {
+        "level": 2,
+        "text": "Claude Opus 4.6"
+      },
+      {
+        "level": 2,
+        "text": "Claude is a space to think"
+      },
+      {
+        "level": 2,
+        "text": "Claude on Mars"
+      },
+      {
+        "level": 3,
+        "text": "Core views on AI safety"
+      },
+      {
+        "level": 3,
+        "text": "Anthropic\u2019s Responsible Scaling Policy"
+      },
+      {
+        "level": 3,
+        "text": "Anthropic Academy: Build and Learn with Claude"
+      },
+      {
+        "level": 3,
+        "text": "Anthropic\u2019s Economic Index"
+      },
+      {
+        "level": 3,
+        "text": "Claude\u2019s Constitution"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Claude",
+      "Claude Code",
+      "Claude Code for Enterprise",
+      "Claude Cowork",
+      "Claude for Chrome",
+      "Claude for Excel",
+      "Claude for PowerPoint",
+      "Claude for Slack",
+      "Skills",
+      "Max plan",
+      "Team plan",
+      "Enterprise plan",
+      "Download app",
+      "Pricing",
+      "Log in to Claude",
+      "Opus",
+      "Sonnet"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": true,
+    "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "scripts_count": 37
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "N",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Focus on AI safety",
+      "Responsible scaling policy",
+      "Claude AI platform"
+    ],
+    "confidence": "medium"
+  }
+}

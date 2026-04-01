@@ -1,0 +1,300 @@
+{
+  "name": "todoist",
+  "url": "https://todoist.com",
+  "scanned_at": "2026-04-01T14:14:08.245010",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/todoist_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/todoist_mobile.png"
+  },
+  "structure": {
+    "title": "Todoist | A To-Do List to Organize Your Work & Life",
+    "url_final": "https://www.todoist.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/home"
+      },
+      {
+        "text": "Task Management",
+        "href": "/task-management"
+      },
+      {
+        "text": "Project Management",
+        "href": "/project-management"
+      },
+      {
+        "text": "Time Management",
+        "href": "/time-management"
+      },
+      {
+        "text": "Habit Forming",
+        "href": "/habit-forming"
+      },
+      {
+        "text": "Teamwork",
+        "href": "/teamwork"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations"
+      },
+      {
+        "text": "Templates",
+        "href": "/templates"
+      },
+      {
+        "text": "Getting Started",
+        "href": "/help/articles/get-started-with-todoist-OgNNJR"
+      },
+      {
+        "text": "Help Center",
+        "href": "/help"
+      },
+      {
+        "text": "Customer Stories",
+        "href": "/customers"
+      },
+      {
+        "text": "Productivity Methods + Quiz",
+        "href": "/productivity-methods"
+      },
+      {
+        "text": "Inspiration Hub",
+        "href": "/inspiration"
+      },
+      {
+        "text": "Downloads",
+        "href": "/downloads"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "https://www.todoist.com/auth/login?locale=en"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://www.todoist.com/auth/signup?locale=en"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://www.todoist.com/auth/signup?locale=en"
+      }
+    ],
+    "buttons": [
+      "Made For",
+      "Resources",
+      "Made For",
+      "Resources",
+      "Play",
+      "Play",
+      "Accept",
+      "Decline",
+      "Task Management",
+      "Project Management",
+      "Time Management",
+      "Habit Forming",
+      "Teamwork",
+      "Integrations",
+      "Templates",
+      "Getting Started",
+      "Help Center",
+      "Customer Stories",
+      "Productivity Methods + Quiz",
+      "Inspiration Hub",
+      "Downloads",
+      "Pricing",
+      "Log in",
+      "Start for free",
+      "Start for free",
+      "Task Management",
+      "Project Management"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "dialog",
+        "fields": []
+      }
+    ],
+    "links_count": 112,
+    "images_count": 88,
+    "images_with_alt": 14,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Clarity, finally."
+      },
+      {
+        "level": 1,
+        "text": "We respect your privacy"
+      },
+      {
+        "level": 2,
+        "text": "Kickstart your next project with Todoist Templates"
+      },
+      {
+        "level": 2,
+        "text": "A task manager you can trust for life"
+      },
+      {
+        "level": 2,
+        "text": "Gain calmness and clarity with the world\u2019s most beloved productivity app"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "radio",
+        "name": "template-category-desktop",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-desktop",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-desktop",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-desktop",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-desktop",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-desktop",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "template-category-mobile",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "How It Works",
+      "For Teams",
+      "Pricing",
+      "Compare",
+      "Templates",
+      "Download Apps",
+      "Help Center",
+      "Customer Stories",
+      "Productivity Methods",
+      "Integrations",
+      "Channel Partners",
+      "Developer API",
+      "Status",
+      "About Us",
+      "CareersWe\u2019re hiring!",
+      "Inspiration Hub",
+      "Press",
+      "Twist"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 27,
+    "has_og_tags": true,
+    "meta_description": "Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.",
+    "scripts_count": 25
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive task and project management features",
+      "Strong focus on productivity and habit forming",
+      "Wide range of integrations",
+      "Available on multiple platforms including mobile and desktop"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "name": "document360",
+  "url": "https://document360.com",
+  "scanned_at": "2026-04-01T14:41:55.751734",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/document360_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/document360_mobile.png"
+  },
+  "structure": {
+    "title": "Document360: Centralize Your Documentation for Better Self-Service",
+    "url_final": "https://document360.com/",
+    "nav_items": [
+      {
+        "text": "Features",
+        "href": "#"
+      },
+      {
+        "text": "PortalFor Editors, Writers, and Reviewers",
+        "href": "https://document360.com/knowledgebase-portal/"
+      },
+      {
+        "text": "SiteFor Customers and Employees",
+        "href": "https://document360.com/knowledgebase-site/"
+      },
+      {
+        "text": "Pro Analytics",
+        "href": "https://document360.com/knowledgebase-portal/analytics/"
+      },
+      {
+        "text": "Import from PDF & WordNEW",
+        "href": "https://document360.com/knowledgebase-portal/import-from-pdf-word/"
+      },
+      {
+        "text": "Custom Workflow Builder",
+        "href": "https://document360.com/knowledgebase-portal/workflow/"
+      },
+      {
+        "text": "Support Ticket Deflector",
+        "href": "https://document360.com/knowledgebase-portal/ticket-deflector/"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://document360.com/integrations/"
+      },
+      {
+        "text": "Dashboard",
+        "href": "https://document360.com/dashboard/"
+      },
+      {
+        "text": "Site Customization",
+        "href": "https://document360.com/customization/"
+      },
+      {
+        "text": "SEO Customization",
+        "href": "https://document360.com/knowledgebase-portal/seo/"
+      },
+      {
+        "text": "API Support",
+        "href": "https://document360.com/api-support/"
+      },
+      {
+        "text": "Media Storage",
+        "href": "https://document360.com/knowledgebase-portal/drive/"
+      },
+      {
+        "text": "Interactive Decision Tree",
+        "href": "https://document360.com/knowledgebase-portal/interactive-decision-tree/"
+      },
+      {
+        "text": "AI Premium Suite",
+        "href": "https://document360.com/ai-premium-suite/"
+      },
+      {
+        "text": "Explore all features",
+        "href": "/all-features/"
+      },
+      {
+        "text": "Read more",
+        "href": "/ai/"
+      },
+      {
+        "text": "Read more",
+        "href": "/writing-tools/"
+      },
+      {
+        "text": "Solutions",
+        "href": "#"
+      },
+      {
+        "text": "Internal Knowledge Base",
+        "href": "https://document360.com/solutions/internal-knowledge-base/"
+      }
+    ],
+    "buttons": [
+      "Book a Demo",
+      "Start free trial",
+      "Book a demo",
+      "Start free trial",
+      "Book a demo",
+      "Confluence",
+      "Bloomfire",
+      "Knowledge Owl",
+      "Google Docs",
+      "Others",
+      "View Casestudy",
+      "View Casestudy",
+      "View all integrations",
+      "Explore gallery",
+      "Start Free Trial",
+      "Book a Demo"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "signupEmail",
+            "placeholder": "Enter your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 206,
+    "images_count": 77,
+    "images_with_alt": 74,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Centralized DocumentationInstant Answers to Customers & Teams"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by thousands of businesses across 150+ countries"
+      },
+      {
+        "level": 2,
+        "text": "All your DocsSecure, Organised & Searchable"
+      },
+      {
+        "level": 2,
+        "text": "Turn ideas into documents with Eddy AI"
+      },
+      {
+        "level": 2,
+        "text": "Driverealdocumentation results"
+      },
+      {
+        "level": 2,
+        "text": "Our customers say it best"
+      },
+      {
+        "level": 3,
+        "text": "Moving away from your current documentation setup?"
+      },
+      {
+        "level": 3,
+        "text": "AI Search"
+      },
+      {
+        "level": 3,
+        "text": "AI Writing Agent"
+      },
+      {
+        "level": 3,
+        "text": "AI Chatbot"
+      },
+      {
+        "level": 3,
+        "text": "AI Glossary"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "signupEmail",
+        "placeholder": "Enter your email"
+      }
+    ],
+    "footer_links": [
+      "Book a Demo",
+      "Enterprise Readiness",
+      "Private Hosting",
+      "Migration Request",
+      "Migration Guide",
+      "Security",
+      "Customers",
+      "Partners",
+      "Resources",
+      "Blog",
+      "Glossary",
+      "Compare",
+      "View Demos",
+      "Portal",
+      "Site",
+      "Pro Analytics",
+      "Custom Workflow Builder",
+      "Support Ticket Deflector",
+      "Integrations",
+      "Dashboard"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Create, manage, and publish knowledge bases, guides, manuals, and SOPs with an AI-powered documentation platform built for teams and customers",
+    "scripts_count": 44
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Premium Suite",
+      "Custom Workflow Builder",
+      "Support Ticket Deflector",
+      "Interactive Decision Tree"
+    ],
+    "confidence": "high"
+  }
+}

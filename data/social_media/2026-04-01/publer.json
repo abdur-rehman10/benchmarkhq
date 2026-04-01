@@ -1,0 +1,282 @@
+{
+  "name": "publer",
+  "url": "https://publer.io",
+  "scanned_at": "2026-04-01T17:29:20.957390",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/publer_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/publer_mobile.png"
+  },
+  "structure": {
+    "title": "Powerful Social Media Management & Scheduling Tools | Publer",
+    "url_final": "https://publer.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "./"
+      },
+      {
+        "text": "EN",
+        "href": ""
+      }
+    ],
+    "buttons": [
+      "Customize",
+      "Reject All",
+      "Accept All",
+      "Show more",
+      "Necessary",
+      "Functional",
+      "Analytics",
+      "Performance",
+      "Advertisement",
+      "Uncategorized",
+      "Reject All",
+      "Save My Preferences",
+      "Accept All"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": "Your email here"
+          },
+          {
+            "type": "text",
+            "name": "website",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "message",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "subject",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "title",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "description",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "feedback",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "notes",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "details",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 87,
+    "images_count": 75,
+    "images_with_alt": 9,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Manage, automate, and track your social media success"
+      },
+      {
+        "level": 2,
+        "text": "Streamline Your SocialMedia & Get Real Results"
+      },
+      {
+        "level": 3,
+        "text": "Results that speak for themselves"
+      },
+      {
+        "level": 3,
+        "text": "Everything you need to succeed in one platform."
+      },
+      {
+        "level": 3,
+        "text": "Grow big with a platform that just works!"
+      },
+      {
+        "level": 3,
+        "text": "More features you will love"
+      },
+      {
+        "level": 3,
+        "text": "Why choose Publer?"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": "Your email here"
+      },
+      {
+        "type": "text",
+        "name": "website",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "message",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "subject",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "title",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "description",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "feedback",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "notes",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "details",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "remarks",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "comments",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 34,
+    "has_og_tags": true,
+    "meta_description": "Boost your social media strategy with Publer\u2019s suite of tools. Manage multiple accounts, schedule posts, collaborate with your team, and analyze performance\u2014all in one place.",
+    "scripts_count": 28
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive social media management",
+      "Automated scheduling and tracking",
+      "Multi-language support",
+      "Free tier available"
+    ],
+    "confidence": "high"
+  }
+}

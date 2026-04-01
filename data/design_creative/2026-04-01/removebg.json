@@ -1,0 +1,262 @@
+{
+  "name": "removebg",
+  "url": "https://www.remove.bg",
+  "scanned_at": "2026-04-01T15:32:56.236143",
+  "screenshots": {
+    "desktop": "data/design_creative/2026-04-01/screenshots/removebg_desktop.png",
+    "mobile": "data/design_creative/2026-04-01/screenshots/removebg_mobile.png"
+  },
+  "structure": {
+    "title": "Remove Background from Image for Free \u2013 remove.bg",
+    "url_final": "https://www.remove.bg/",
+    "nav_items": [
+      {
+        "text": "remove.bg",
+        "href": "/"
+      },
+      {
+        "text": "Uploads",
+        "href": "/upload"
+      },
+      {
+        "text": "Bulk Editing",
+        "href": "/f/batch-editing"
+      },
+      {
+        "text": "API",
+        "href": "/api"
+      },
+      {
+        "text": "Plugins",
+        "href": "https://www.remove.bg/i/overview"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "https://accounts.kaleido.ai/oauth/authorize?client_id=Wr--JQP_UWyenrH54zWrGh9OFuYRnRCYntYqsGNeQBM&lo"
+      },
+      {
+        "text": "Sign up",
+        "href": "/users/sign_up"
+      }
+    ],
+    "buttons": [
+      "Upload Image",
+      "Products",
+      "People",
+      "Animals",
+      "Cars",
+      "Graphics",
+      "People",
+      "Products",
+      "Animals",
+      "Cars",
+      "Graphics",
+      "Upload Image",
+      "Subscribe",
+      "English",
+      "Dismiss",
+      "Bahasa Indonesia",
+      "Deutsch",
+      "English",
+      "Espa\u00f1ol",
+      "Fran\u00e7ais",
+      "Italiano"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "dialog",
+        "fields": []
+      }
+    ],
+    "links_count": 75,
+    "images_count": 29,
+    "images_with_alt": 20,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Remove Image Background"
+      },
+      {
+        "level": 1,
+        "text": "Drop image anywhere"
+      },
+      {
+        "level": 2,
+        "text": "Stunning quality"
+      },
+      {
+        "level": 2,
+        "text": "One tool, endless uses"
+      },
+      {
+        "level": 2,
+        "text": "They love us. You will too."
+      },
+      {
+        "level": 2,
+        "text": "Just picture it"
+      },
+      {
+        "level": 2,
+        "text": "Remove Image Background"
+      },
+      {
+        "level": 3,
+        "text": "All-in-one AI background remover & generator"
+      },
+      {
+        "level": 3,
+        "text": "Boost your efficiency with automated background removal"
+      },
+      {
+        "level": 3,
+        "text": "Blog"
+      },
+      {
+        "level": 3,
+        "text": "Get Updates"
+      },
+      {
+        "level": 3,
+        "text": "Thanks for your feedback!"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "range",
+        "name": "ImageDragger",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "All features",
+      "Photographers",
+      "Marketing",
+      "Developers",
+      "Ecommerce",
+      "Media",
+      "Car Dealerships",
+      "Enterprise",
+      "Success stories",
+      "API Documentation",
+      "Integrations, tools & apps",
+      "Photoshop Extension",
+      "Windows / Mac / Linux",
+      "Android App",
+      "Design Templates",
+      "Help & FAQs",
+      "Contact us",
+      "Refunds",
+      "Platform Status"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": true,
+    "meta_description": "Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.",
+    "scripts_count": 9
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered background removal",
+      "Bulk editing capabilities",
+      "API access for developers"
+    ],
+    "confidence": "high"
+  }
+}

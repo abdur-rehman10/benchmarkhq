@@ -1,0 +1,187 @@
+{
+  "name": "expensify",
+  "url": "https://www.expensify.com",
+  "scanned_at": "2026-04-01T15:09:59.616928",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/expensify_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/expensify_mobile.png"
+  },
+  "structure": {
+    "title": "Spend Management Software for Receipts & Expenses | Expensify",
+    "url_final": "https://www.expensify.com/",
+    "nav_items": [],
+    "buttons": [
+      "Sign In",
+      "Get started for free",
+      "Employees",
+      "Business owners",
+      "Finance/Accounting",
+      "Get started for free",
+      "Get started for free",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more",
+      "Read more"
+    ],
+    "forms": [],
+    "links_count": 64,
+    "images_count": 99,
+    "images_with_alt": 8,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Logging you in..."
+      },
+      {
+        "level": 1,
+        "text": "Theeasiestwayto do your expenses"
+      },
+      {
+        "level": 1,
+        "text": "Ready to simplify your receipt and expense management process?"
+      },
+      {
+        "level": 2,
+        "text": "Features"
+      },
+      {
+        "level": 2,
+        "text": "Try Expensify free for 30 days"
+      },
+      {
+        "level": 2,
+        "text": "Highly rated,easy to use"
+      },
+      {
+        "level": 2,
+        "text": "\u201cMakes expense submission easy!\u201d"
+      },
+      {
+        "level": 2,
+        "text": "\u201cSuper Easy to Use\u201d"
+      },
+      {
+        "level": 3,
+        "text": "I want to:"
+      },
+      {
+        "level": 3,
+        "text": "Join 15 million+ members who trust Expensify"
+      },
+      {
+        "level": 3,
+        "text": "Expense management"
+      },
+      {
+        "level": 3,
+        "text": "Travel"
+      },
+      {
+        "level": 3,
+        "text": "Expensify Card"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "radio",
+        "name": "qualifier",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "qualifier",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "qualifier",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Enter your email or phone number"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Enter your email or phone number"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 2,
+    "has_og_tags": false,
+    "meta_description": "Expensify's spend management software simplifies receipt and expense tracking. Automate reports, control spending, and save time with our easy-to-use platform.",
+    "scripts_count": 86
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Expensify Card",
+      "Receipt and expense management",
+      "Travel integration"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "name": "tripetto",
+  "url": "https://tripetto.com",
+  "scanned_at": "2026-04-01T18:09:04.434888",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/tripetto_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/tripetto_mobile.png"
+  },
+  "structure": {
+    "title": "Tripetto: Give life to forms and surveys",
+    "url_final": "https://tripetto.com/",
+    "nav_items": [
+      {
+        "text": "StudioTripetto in the cloud",
+        "href": "/studio/"
+      },
+      {
+        "text": "WordPress pluginTripetto inside WordPress",
+        "href": "/wordpress/"
+      },
+      {
+        "text": "FormBuilder SDKTripetto in your app or site",
+        "href": "/sdk/"
+      },
+      {
+        "text": "Which version do I need?",
+        "href": "/versions/"
+      },
+      {
+        "text": "Examples",
+        "href": "/examples/"
+      },
+      {
+        "text": "StudioFree plan, optional paid upgrades",
+        "href": "/studio/pricing/"
+      },
+      {
+        "text": "WordPress pluginFree plugin, optional paid subscri",
+        "href": "/wordpress/pricing/"
+      },
+      {
+        "text": "FormBuilder SDKFree development, paid production l",
+        "href": "/sdk/pricing/"
+      },
+      {
+        "text": "Which version do I need?",
+        "href": "/versions/"
+      },
+      {
+        "text": "StudioHelp articles, videos etc.",
+        "href": "/studio/help/"
+      },
+      {
+        "text": "WordPress pluginHelp articles, videos etc.",
+        "href": "/wordpress/help/"
+      },
+      {
+        "text": "FormBuilder SDKGuides, developer docs etc.",
+        "href": "/sdk/docs/"
+      },
+      {
+        "text": "StudioSign in to your studio account",
+        "href": "https://tripetto.app"
+      },
+      {
+        "text": "WordPress pluginSign in to your own WP Admin",
+        "href": "/help/articles/how-to-install-the-wordpress-plugin/"
+      },
+      {
+        "text": "Get Started",
+        "href": "/versions/"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Get Started",
+      "Get Started",
+      "Get Started",
+      "See Examples",
+      "About The Studio",
+      "About The Plugin",
+      "Learn More"
+    ],
+    "forms": [
+      {
+        "action": "/help/search/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Type what you need help with..."
+          }
+        ]
+      }
+    ],
+    "links_count": 143,
+    "images_count": 43,
+    "images_with_alt": 43,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ask lively."
+      },
+      {
+        "level": 2,
+        "text": "Map forms out on themagnetic storyboard."
+      },
+      {
+        "level": 2,
+        "text": "Pick the perfectform face."
+      },
+      {
+        "level": 2,
+        "text": "Make it personal withconversational logic."
+      },
+      {
+        "level": 2,
+        "text": "Manage data withstorage freedom."
+      },
+      {
+        "level": 2,
+        "text": "Automate with1.000+ connections."
+      },
+      {
+        "level": 3,
+        "text": "Globally Trusted"
+      },
+      {
+        "level": 3,
+        "text": "Proudly Ranked"
+      },
+      {
+        "level": 3,
+        "text": "AutoscrollFace"
+      },
+      {
+        "level": 3,
+        "text": "ChatFace"
+      },
+      {
+        "level": 3,
+        "text": "ClassicFace"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Type what you need help with..."
+      }
+    ],
+    "footer_links": [
+      "Receive product news",
+      "Product",
+      "Features",
+      "Studio Pricing",
+      "Help Center",
+      "Video Tutorials",
+      "Start For Free",
+      "Sign In",
+      "Plugin",
+      "Features",
+      "Plugin Pricing",
+      "Help Center",
+      "Video Tutorials",
+      "Download Free Plugin",
+      "Upgrade To Pro",
+      "Development Kit",
+      "How It Works",
+      "Components",
+      "Setup Solutions",
+      "Self-Hosting"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "Tripetto is like SurveyMonkey, Typeform and Landbot united, but with a fresh take on truly smart form building and safe data collection.",
+    "scripts_count": 17
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "Y",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Magnetic storyboard for form mapping",
+      "Conversational logic for personalization",
+      "Integration with 1,000+ connections"
+    ],
+    "confidence": "medium"
+  }
+}

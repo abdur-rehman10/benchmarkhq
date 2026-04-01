@@ -1,0 +1,183 @@
+{
+  "name": "emailoctopus",
+  "url": "https://emailoctopus.com",
+  "scanned_at": "2026-04-01T14:53:58.344677",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/emailoctopus_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/emailoctopus_mobile.png"
+  },
+  "structure": {
+    "title": "Email marketing made easy | EmailOctopus",
+    "url_final": "https://emailoctopus.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "/account/sign-in"
+      },
+      {
+        "text": "Sign up",
+        "href": "/account/sign-up"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "About us",
+      "Resources",
+      "Features",
+      "About us",
+      "Resources",
+      "Engaging campaigns",
+      "Powerful automations",
+      "Effective forms",
+      "Intuitive reports",
+      "Monthly",
+      "YearlySave 10%",
+      "$ USD",
+      "View more",
+      "View more",
+      "Pricing",
+      "Log in",
+      "Sign up",
+      "Pricing",
+      "Log in",
+      "Sign up",
+      "Log in",
+      "Sign up",
+      "GET STARTED FOR FREE",
+      "START FOR FREE",
+      "Full pricing comparison"
+    ],
+    "forms": [],
+    "links_count": 61,
+    "images_count": 36,
+    "images_with_alt": 33,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Email marketing made easy"
+      },
+      {
+        "level": 2,
+        "text": "Email marketing. Nothing else."
+      },
+      {
+        "level": 2,
+        "text": "We\u2019re not cheap."
+      },
+      {
+        "level": 2,
+        "text": "Everyone else is just too expensive."
+      },
+      {
+        "level": 2,
+        "text": "Our customer support is here to help"
+      },
+      {
+        "level": 2,
+        "text": "Start for free today"
+      },
+      {
+        "level": 3,
+        "text": "9 seconds"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About us",
+      "How we give back",
+      "Pricing",
+      "Savings calculator",
+      "Help us grow",
+      "Contact us",
+      "Blog",
+      "Knowledge base",
+      "Affiliate program",
+      "Rewards program",
+      "API documentation",
+      "Campaigns",
+      "Automation",
+      "Editor",
+      "Templates"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 45,
+    "has_og_tags": true,
+    "meta_description": "Manage and email your subscribers for a fraction of the cost with EmailOctopus. Create emails that feel like you, not a template. Get started in minutes \u2013 no credit card required.",
+    "scripts_count": 106
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Free tier available",
+      "Annual discount",
+      "GDPR compliance",
+      "API documentation"
+    ],
+    "confidence": "high"
+  }
+}

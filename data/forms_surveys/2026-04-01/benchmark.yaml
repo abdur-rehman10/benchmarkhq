@@ -1,0 +1,194 @@
+metadata:
+  industry: forms_surveys
+  name: Forms & Surveys SaaS
+  category: Data Collection
+  version: 1.0.0
+  generated_at: '2026-04-01T18:11:31.489532'
+  sites_analyzed: 30
+  sites:
+  - typeform
+  - jotform
+  - tally
+  - google_forms
+  - surveymonkey
+  - paperform
+  - fillout
+  - reform
+  - formbricks
+  - opinionx
+  - qualtrics
+  - alchemer
+  - formstack
+  - wufoo
+  - cognito_forms
+  - 123formbuilder
+  - zoho_forms
+  - microsoft_forms
+  - hubspot_forms
+  - gravity_forms
+  - wpforms
+  - formidable
+  - feathery
+  - tripetto
+  - youform
+  - screeb
+  - hotjar_surveys
+  - survicate
+  - delighted
+  - asknicely
+features:
+  critical:
+  - id: pricing_page
+    frequency: 30/30
+    percent: 100
+  - id: multiple_tiers
+    frequency: 28/30
+    percent: 100
+  - id: privacy_policy
+    frequency: 27/30
+    percent: 100
+  - id: terms_of_service
+    frequency: 27/30
+    percent: 100
+  - id: enterprise_tier
+    frequency: 26/30
+    percent: 96
+  - id: annual_discount
+    frequency: 23/30
+    percent: 96
+  - id: signup_no_creditcard
+    frequency: 24/30
+    percent: 96
+  - id: integrations_page
+    frequency: 26/30
+    percent: 93
+  - id: templates_available
+    frequency: 26/30
+    percent: 93
+  - id: free_trial
+    frequency: 25/30
+    percent: 89
+  - id: cookie_consent
+    frequency: 24/30
+    percent: 89
+  - id: feature_comparison_table
+    frequency: 21/30
+    percent: 88
+  required:
+  - id: free_tier
+    frequency: 24/30
+    percent: 83
+  - id: transparent_pricing
+    frequency: 21/30
+    percent: 78
+  - id: blog
+    frequency: 21/30
+    percent: 78
+  - id: product_screenshots
+    frequency: 22/30
+    percent: 76
+  - id: help_center
+    frequency: 19/30
+    percent: 73
+  - id: multi_language
+    frequency: 18/30
+    percent: 72
+  - id: customer_logos
+    frequency: 19/30
+    percent: 70
+  - id: about_page
+    frequency: 19/30
+    percent: 70
+  - id: careers_page
+    frequency: 19/30
+    percent: 70
+  - id: api_documentation
+    frequency: 19/30
+    percent: 70
+  - id: gdpr_mentioned
+    frequency: 18/30
+    percent: 69
+  - id: contact_page
+    frequency: 17/30
+    percent: 68
+  - id: webhooks_support
+    frequency: 17/30
+    percent: 65
+  recommended:
+  - id: onboarding_video
+    frequency: 15/30
+    percent: 60
+  - id: case_studies
+    frequency: 16/30
+    percent: 59
+  - id: video_demo
+    frequency: 15/30
+    percent: 58
+  - id: community_forum
+    frequency: 15/30
+    percent: 58
+  - id: interactive_demo
+    frequency: 14/30
+    percent: 56
+  - id: security_page
+    frequency: 14/30
+    percent: 54
+  - id: status_page
+    frequency: 13/30
+    percent: 52
+  - id: live_chat
+    frequency: 13/30
+    percent: 52
+  - id: code_examples
+    frequency: 13/30
+    percent: 50
+  - id: changelog
+    frequency: 12/30
+    percent: 48
+  - id: sdk_available
+    frequency: 12/30
+    percent: 46
+  - id: github_presence
+    frequency: 12/30
+    percent: 46
+  - id: ios_app
+    frequency: 12/30
+    percent: 46
+  - id: android_app
+    frequency: 12/30
+    percent: 46
+  - id: dpa_available
+    frequency: 10/30
+    percent: 40
+  - id: developer_portal
+    frequency: 10/30
+    percent: 40
+  - id: social_signup
+    frequency: 10/30
+    percent: 40
+  nice_to_have:
+  - id: soc2_mentioned
+    frequency: 9/30
+    percent: 36
+  - id: openapi_spec
+    frequency: 8/30
+    percent: 35
+  - id: api_playground
+    frequency: 8/30
+    percent: 33
+  - id: sla_published
+    frequency: 7/30
+    percent: 32
+  - id: iso27001_mentioned
+    frequency: 7/30
+    percent: 30
+  - id: roi_calculator
+    frequency: 6/30
+    percent: 26
+  - id: browser_extension
+    frequency: 4/30
+    percent: 17
+  innovative:
+  - id: desktop_app
+    frequency: 2/30
+    percent: 8

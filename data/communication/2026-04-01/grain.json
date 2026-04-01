@@ -1,0 +1,282 @@
+{
+  "name": "grain",
+  "url": "https://grain.com",
+  "scanned_at": "2026-04-01T15:57:46.734227",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/grain_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/grain_mobile.png"
+  },
+  "structure": {
+    "title": "Grain | The AI Notetaker Built for Growing Teams",
+    "url_final": "https://grain.com/",
+    "nav_items": [
+      {
+        "text": "Grain Homepage",
+        "href": "/"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations"
+      },
+      {
+        "text": "Product Updates",
+        "href": "/topics/product-updates"
+      },
+      {
+        "text": "Security",
+        "href": "/security"
+      },
+      {
+        "text": "Sales",
+        "href": "/conversation-intelligence"
+      },
+      {
+        "text": "Agencies & Consultants",
+        "href": "/use-case/agencies-and-consultants"
+      },
+      {
+        "text": "Product & User Research",
+        "href": "/use-case/product"
+      },
+      {
+        "text": "Customer Success",
+        "href": "/use-case/customer-success"
+      },
+      {
+        "text": "Hiring & Recruiting",
+        "href": "/use-case/recruiting"
+      },
+      {
+        "text": "Remote Teams",
+        "href": "/use-case/team-meetings"
+      },
+      {
+        "text": "About Us",
+        "href": "/company"
+      },
+      {
+        "text": "Careers",
+        "href": "/careers"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Help Center",
+        "href": "https://support.grain.com/en/"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations"
+      },
+      {
+        "text": "Self-guided Product Tour",
+        "href": "/resource/self-guided-product-tour"
+      },
+      {
+        "text": "Contact Us",
+        "href": "/contact"
+      },
+      {
+        "text": "Contact Us",
+        "href": "#"
+      },
+      {
+        "text": "Gong",
+        "href": "/compare/gong"
+      }
+    ],
+    "buttons": [
+      "Get Grain for Free",
+      "Book a Demo",
+      "Get Grain Free",
+      "Book a Demo",
+      "Book a demo",
+      "Get started free",
+      "Get started - free forever",
+      "Book a demo",
+      "Explore Integrations",
+      "Get started free",
+      "Book a demo",
+      "Try for free",
+      "Learn more",
+      "Start a 14-day free Trial",
+      "hello@grain.com"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 92,
+    "images_count": 98,
+    "images_with_alt": 21,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The AI notetaker built for agents."
+      },
+      {
+        "level": 2,
+        "text": "Everything your team needs to be more productive than ever."
+      },
+      {
+        "level": 2,
+        "text": "You handle the meeting.Grain handles the note-taking."
+      },
+      {
+        "level": 2,
+        "text": "Never miss a follow-up with consistent, accurate next steps."
+      },
+      {
+        "level": 2,
+        "text": "Keep your team in sync across all your meetings, all the time."
+      },
+      {
+        "level": 2,
+        "text": "Use AI to turn your meetings library into automated workflows and insights"
+      },
+      {
+        "level": 3,
+        "text": "AI Meeting Notes"
+      },
+      {
+        "level": 3,
+        "text": "Instant Tasks & Follow-ups"
+      },
+      {
+        "level": 3,
+        "text": "Effortless highlight sharing"
+      },
+      {
+        "level": 3,
+        "text": "Automatic CRM Updates"
+      },
+      {
+        "level": 3,
+        "text": "What is Grain?"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "hello@grain.com",
+      "Follow Grain on LinkedIn",
+      "Follow Grain on Twitter",
+      "Follow Grain on YouTube",
+      "Follow Grain on Facebook",
+      "Integrations",
+      "Product Updates",
+      "Security",
+      "Privacy",
+      "Interactive Demo",
+      "Pricing",
+      "Download",
+      "Sales",
+      "Product & Research",
+      "Customer Success",
+      "Hiring & Recruiting",
+      "Remote Teams",
+      "About Us",
+      "Customers",
+      "Careers"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 39,
+    "has_og_tags": true,
+    "meta_description": "Grain gives you accurate meeting summaries, account insights, and coaching suggestions in an easy-to-use product built for growing teams.",
+    "scripts_count": 26
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered note-taking",
+      "Integration with various platforms",
+      "Focus on productivity and team collaboration"
+    ],
+    "confidence": "medium"
+  }
+}

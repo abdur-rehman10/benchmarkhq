@@ -1,0 +1,231 @@
+{
+  "name": "feedhive",
+  "url": "https://www.feedhive.com",
+  "scanned_at": "2026-04-01T17:37:18.143634",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/feedhive_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/feedhive_mobile.png"
+  },
+  "structure": {
+    "title": "FeedHive - Create content at scale",
+    "url_final": "https://www.feedhive.com/",
+    "nav_items": [
+      {
+        "text": "SchedulingVisually plan and schedule your content.",
+        "href": "/features/scheduling"
+      },
+      {
+        "text": "Social InboxEngage with your followers directly fr",
+        "href": "/features/social-inbox"
+      },
+      {
+        "text": "AI & AutomationTurn FeedHive into an automated con",
+        "href": "/features/ai-and-automation"
+      },
+      {
+        "text": "CollaborationInvite and collaborate with your team",
+        "href": "/features/collaboration"
+      },
+      {
+        "text": "FacebookPages, Reels & Stories.",
+        "href": "/integration/facebook"
+      },
+      {
+        "text": "InstagramPosts, Reels & Stories.",
+        "href": "/integration/instagram"
+      },
+      {
+        "text": "YouTubeYouTube Shorts.",
+        "href": "/integration/youtube"
+      },
+      {
+        "text": "TikTokVideo.",
+        "href": "/integration/tiktok"
+      },
+      {
+        "text": "LinkedInPersonal profile & Pages.",
+        "href": "/integration/linkedin"
+      },
+      {
+        "text": "PinterestPins & Boards.",
+        "href": "/integration/pinterest"
+      },
+      {
+        "text": "Google BusinessUpdates, Events & Offers.",
+        "href": "/integration/google-business"
+      },
+      {
+        "text": "ThreadsPosts & Threads.",
+        "href": "/integration/threads"
+      },
+      {
+        "text": "Twitter/XPosts & Threads.",
+        "href": "/integration/twitter-x"
+      },
+      {
+        "text": "DiscordPosts & messages",
+        "href": "/integration/discord"
+      },
+      {
+        "text": "BlogImprove your social strategy and stay on top o",
+        "href": "/blog"
+      },
+      {
+        "text": "User guidesLearn how to get the best out of FeedHi",
+        "href": "https://docs.feedhive.com"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "Socials",
+      "Resources",
+      "Get started",
+      "AI Writing Assistant",
+      "Automation",
+      "Social Inbox",
+      "Collaboration & Approval"
+    ],
+    "forms": [],
+    "links_count": 48,
+    "images_count": 283,
+    "images_with_alt": 283,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Createcontent at scale."
+      },
+      {
+        "level": 1,
+        "text": "Social media using AI & Automation."
+      },
+      {
+        "level": 2,
+        "text": "Features"
+      },
+      {
+        "level": 2,
+        "text": "Socials"
+      },
+      {
+        "level": 2,
+        "text": "Resources"
+      },
+      {
+        "level": 2,
+        "text": "The number #1Vibe Marketingexperience for social media."
+      },
+      {
+        "level": 2,
+        "text": "Publish to all your socials. With asingle click."
+      },
+      {
+        "level": 3,
+        "text": "Scheduling"
+      },
+      {
+        "level": 3,
+        "text": "Social Inbox"
+      },
+      {
+        "level": 3,
+        "text": "AI & Automation"
+      },
+      {
+        "level": 3,
+        "text": "Collaboration"
+      },
+      {
+        "level": 3,
+        "text": "Facebook"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Scheduling",
+      "Automation",
+      "FeedHive AI",
+      "Social Inbox",
+      "Collaboration",
+      "Terms",
+      "Privacy",
+      "Brand kit",
+      "LinkDrip",
+      "Aidbase",
+      "FounderStack"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 7,
+    "has_og_tags": true,
+    "meta_description": "Create content at scale. Social media using AI & Automation.",
+    "scripts_count": 26
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI & Automation",
+      "Social Inbox",
+      "Collaboration & Approval",
+      "Multi-platform integration"
+    ],
+    "confidence": "high"
+  }
+}

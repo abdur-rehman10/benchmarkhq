@@ -1,0 +1,216 @@
+{
+  "name": "ortto",
+  "url": "https://ortto.com",
+  "scanned_at": "2026-04-01T16:12:18.647378",
+  "screenshots": {
+    "desktop": "data/marketing_automation/2026-04-01/screenshots/ortto_desktop.png",
+    "mobile": "data/marketing_automation/2026-04-01/screenshots/ortto_mobile.png"
+  },
+  "structure": {
+    "title": "Ortto: Your customer data, marketing automation & analytics, together",
+    "url_final": "https://ortto.com/",
+    "nav_items": [
+      {
+        "text": "Product",
+        "href": ""
+      },
+      {
+        "text": "Solutions",
+        "href": ""
+      },
+      {
+        "text": "Resources",
+        "href": ""
+      },
+      {
+        "text": "Templates",
+        "href": "https://ortto.com/templates/"
+      },
+      {
+        "text": "Pricing",
+        "href": "./pricing/"
+      }
+    ],
+    "buttons": [
+      "Job role",
+      "Accept all cookies"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Enter email address",
+            "placeholder": "Enter email address*"
+          },
+          {
+            "type": "text",
+            "name": "First name",
+            "placeholder": "First name*"
+          },
+          {
+            "type": "text",
+            "name": "Last name",
+            "placeholder": "Last name*"
+          },
+          {
+            "type": "text",
+            "name": "Company name",
+            "placeholder": "Company name"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 76,
+    "images_count": 91,
+    "images_with_alt": 21,
+    "headings": [
+      {
+        "level": 1,
+        "text": "DRIVING GROWTH"
+      },
+      {
+        "level": 2,
+        "text": "MARKETING AUTOMATION"
+      },
+      {
+        "level": 2,
+        "text": "Customer data and analytics"
+      },
+      {
+        "level": 2,
+        "text": "Support"
+      },
+      {
+        "level": 2,
+        "text": "SECURITY AND PRIVACY"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "Enter email address",
+        "placeholder": "Enter email address*"
+      },
+      {
+        "type": "text",
+        "name": "First name",
+        "placeholder": "First name*"
+      },
+      {
+        "type": "text",
+        "name": "Last name",
+        "placeholder": "Last name*"
+      },
+      {
+        "type": "text",
+        "name": "Company name",
+        "placeholder": "Company name"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Data platform (CDP)",
+      "Journey builder",
+      "Talk",
+      "Analytics",
+      "Ortto AI",
+      "Pricing",
+      "Book a demo",
+      "SaaS",
+      "Financial Services",
+      "Healthcare",
+      "Not for Profit",
+      "Email marketing",
+      "SMS marketing",
+      "Push notifications",
+      "Live chat",
+      "Knowledge base",
+      "In-app messages",
+      "Popups, forms & surveys",
+      "Scoring",
+      "Checkmate tracking\u00ae"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Ortto\u2019s marketing automation and customer data platform unifies your data, messaging and analytics on a single platform.",
+    "scripts_count": 32
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive marketing automation",
+      "Customer data platform integration",
+      "Advanced analytics capabilities",
+      "Ortto AI for enhanced insights"
+    ],
+    "confidence": "high"
+  }
+}

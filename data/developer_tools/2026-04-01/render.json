@@ -1,0 +1,239 @@
+{
+  "name": "render",
+  "url": "https://render.com",
+  "scanned_at": "2026-04-01T15:39:00.336385",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/render_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/render_mobile.png"
+  },
+  "structure": {
+    "title": "Render | The cloud for builders",
+    "url_final": "https://render.com/",
+    "nav_items": [
+      {
+        "text": "Product",
+        "href": "#"
+      },
+      {
+        "text": "Platform Overview",
+        "href": "/platform"
+      },
+      {
+        "text": "HIPAA on Render",
+        "href": "/features/hipaa"
+      },
+      {
+        "text": "Autoscaling",
+        "href": "/docs/scaling"
+      },
+      {
+        "text": "Private Networking",
+        "href": "/docs/private-services"
+      },
+      {
+        "text": "Persistent Disks",
+        "href": "/docs/disks"
+      },
+      {
+        "text": "Infrastructure as Code",
+        "href": "/docs/infrastructure-as-code"
+      },
+      {
+        "text": "Preview Environments",
+        "href": "/docs/preview-environments"
+      },
+      {
+        "text": "Zero Downtime Deploys",
+        "href": "/docs/deploys#zero-downtime-deploys"
+      },
+      {
+        "text": "Render API",
+        "href": "/docs/api"
+      },
+      {
+        "text": "Static Sites",
+        "href": "/docs/static-sites"
+      },
+      {
+        "text": "Web Services",
+        "href": "/docs/web-services"
+      },
+      {
+        "text": "Private Services",
+        "href": "/docs/private-services"
+      },
+      {
+        "text": "Background Workers",
+        "href": "/docs/background-workers"
+      },
+      {
+        "text": "Cron Jobs",
+        "href": "/docs/cronjobs"
+      },
+      {
+        "text": "Render Postgres",
+        "href": "/docs/postgresql"
+      },
+      {
+        "text": "Render Key Value",
+        "href": "/docs/key-value"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Close Cookie Preferences",
+      "Start for free",
+      "View Templates",
+      "Trust center",
+      "HIPAA on Render",
+      "Deploy your app for free"
+    ],
+    "forms": [],
+    "links_count": 81,
+    "images_count": 56,
+    "images_with_alt": 44,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your fastest path to production forapps & agents"
+      },
+      {
+        "level": 2,
+        "text": "Click, click, done."
+      },
+      {
+        "level": 2,
+        "text": "Intuitive infrastructure, \ndesigned for builders"
+      },
+      {
+        "level": 2,
+        "text": "Stay secure and\nresilient by default"
+      },
+      {
+        "level": 3,
+        "text": "Select a service"
+      },
+      {
+        "level": 3,
+        "text": "Deploy your code"
+      },
+      {
+        "level": 3,
+        "text": "Render does the rest"
+      },
+      {
+        "level": 3,
+        "text": "Deploy apps and agents\nwithzero ops"
+      },
+      {
+        "level": 3,
+        "text": "Intuitive hosting and private networking forweb services,Postgres databases,cron"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Autoscaling",
+      "Private Networking",
+      "Render Postgres",
+      "Render Key Value",
+      "Persistent Disks",
+      "Infrastructure As Code",
+      "Preview Environments",
+      "Zero Downtime Deploys",
+      "Render API",
+      "Static Sites",
+      "Web Services",
+      "Private Services",
+      "Background Workers",
+      "Cron Jobs",
+      "Render Postgres",
+      "Render Key Value",
+      "Deploy Docker Images",
+      "Blog",
+      "Changelog",
+      "Docs"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Deploy and scale any app or agent from your first user to your billionth. Build faster on intuitive cloud infrastructure for the modern web.",
+    "scripts_count": 105
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Zero Downtime Deploys",
+      "Infrastructure as Code",
+      "Private Networking",
+      "Autoscaling"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "name": "sourcegraph",
+  "url": "https://sourcegraph.com",
+  "scanned_at": "2026-04-01T16:50:07.664517",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/sourcegraph_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/sourcegraph_mobile.png"
+  },
+  "structure": {
+    "title": "Sourcegraph | The code intelligence platform for enterprises",
+    "url_final": "https://sourcegraph.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://sourcegraph.com/changelog/new-changelog"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "UX Design & Webflow Agency NYC | Composite Global",
+        "href": "https://www.composite.global/"
+      },
+      {
+        "text": "Deep SearchAgentic, natural language AI search",
+        "href": "/deep-search"
+      },
+      {
+        "text": "Code SearchPowerful search for complex codebases",
+        "href": "/code-search"
+      },
+      {
+        "text": "Batch ChangesLarge-scale, cross-repository changes",
+        "href": "/batch-changes"
+      },
+      {
+        "text": "InsightsHigh-level code metrics and analytics",
+        "href": "/code-insights"
+      },
+      {
+        "text": "MCPCode graph knowledge for agents",
+        "href": "/mcp"
+      },
+      {
+        "text": "APIsGraphQL and REST APIs + webhooks",
+        "href": "https://sourcegraph.com/docs/api/graphql"
+      },
+      {
+        "text": "CLISourcegraph in your terminal",
+        "href": "https://sourcegraph.com/docs/cli"
+      },
+      {
+        "text": "CodyAI coding assistant",
+        "href": "https://sourcegraph.com/docs/cody"
+      },
+      {
+        "text": "Explore case studies",
+        "href": "/case-studies"
+      },
+      {
+        "text": "",
+        "href": "https://sourcegraph.com/blog/announcing-our-partnership-with-dx"
+      },
+      {
+        "text": "",
+        "href": "https://aws.amazon.com/partners/success/palo-alto-networks-anthropic-sourcegraph/"
+      },
+      {
+        "text": "",
+        "href": "https://sourcegraph.com/case-studies/cody-leidos-maximizing-efficiency-heightened-security-ai-race"
+      },
+      {
+        "text": "",
+        "href": "/case-studies/indeed-accelerates-development-velocity"
+      },
+      {
+        "text": "",
+        "href": "/case-studies/lyft-monolith-to-microservices"
+      },
+      {
+        "text": "",
+        "href": "https://www.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/"
+      },
+      {
+        "text": "Try Public Code Search",
+        "href": "https://sourcegraph.com/search"
+      },
+      {
+        "text": "ChangelogWhat\u2019s changed in Sourcegraph",
+        "href": "/changelog"
+      }
+    ],
+    "buttons": [
+      "Schedule a demo",
+      "Sign up",
+      "Schedule a demo",
+      "Explore Deep Search",
+      "Explore Sourcegraph\u00a0MCP",
+      "Explore Code Search",
+      "Schedule a demo",
+      "Open Modal",
+      "Continue With GitHub",
+      "Continue With GitLab",
+      "Continue With Google",
+      "Get next-gen AI-powered coding workflows, first.We"
+    ],
+    "forms": [],
+    "links_count": 86,
+    "images_count": 48,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Code understanding for humansandagents"
+      },
+      {
+        "level": 2,
+        "text": "Sign up to get access"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by world-class engineering teams"
+      },
+      {
+        "level": 2,
+        "text": "Codebases are growing faster than ever with AI."
+      },
+      {
+        "level": 2,
+        "text": "Turn understanding into action"
+      },
+      {
+        "level": 2,
+        "text": "Built for enterprise"
+      },
+      {
+        "level": 3,
+        "text": "Sourcegraph is the code understanding platformthat lets developers and agents se"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Sourcegraph gives developers and AI agents instant context and control across every repo, branch, and language\u2013succeeding where other tools break under scale and complexity.",
+    "scripts_count": 83
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "Y",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Code understanding for humans and agents",
+      "AI-powered coding workflows",
+      "Deep Search and Code Search capabilities"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "name": "readme",
+  "url": "https://readme.com",
+  "scanned_at": "2026-04-01T17:39:52.762163",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/readme_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/readme_mobile.png"
+  },
+  "structure": {
+    "title": "ReadMe",
+    "url_final": "https://readme.com/",
+    "nav_items": [
+      {
+        "text": "AI",
+        "href": "/ai"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.readme.com/"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "About",
+      "Try It!",
+      "2",
+      "2",
+      "Show All Included Features",
+      "WYSIWYGIf you prefer to work in a browser, or to f",
+      "Git-backed DocsOr, edit and check-in your docs as ",
+      "Fill out requestsin the docsMake it easy for devel",
+      "Provide API keysin the docsGive developers credent",
+      "Try Itin the docsShow users how your API works by ",
+      "Working Codein the docsWhen they\u2019ve perfected thei",
+      "Try It!",
+      "STEP1Request HistoryShow developers request detail",
+      "AuthenticationInstant API key access, right in you",
+      "My RequestsEnable users to debug recent API reques",
+      "My DevelopersUnderstand API usage and help users w",
+      "AndrewDeveloper",
+      "DanCSM",
+      "ErdmanDesigner/Developer",
+      "JimDeveloper",
+      "Contact Support",
+      "Log In"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Ask a question"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "Ask a question"
+          }
+        ]
+      }
+    ],
+    "links_count": 90,
+    "images_count": 64,
+    "images_with_alt": 48,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Team up withAIto build great docs."
+      },
+      {
+        "level": 2,
+        "text": "Perfect docs,out-of-the box."
+      },
+      {
+        "level": 2,
+        "text": "Codewhere you want to write"
+      },
+      {
+        "level": 2,
+        "text": "Everything your devs need to get to200"
+      },
+      {
+        "level": 2,
+        "text": "A successful request is just the firststep."
+      },
+      {
+        "level": 2,
+        "text": "ReadMe for Enterprise"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Get Started",
+      "View Our Docs",
+      "Documentation",
+      "Developer Dashboard",
+      "AI",
+      "Community",
+      "Enterprise",
+      "Pricing",
+      "Customer Stories",
+      "Events",
+      "Resource Library",
+      "Blog",
+      "ReadMe Docs",
+      "Team",
+      "Careers",
+      "Values",
+      "Join our Slack",
+      "terms of service",
+      "privacy policy",
+      "MSA"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 36,
+    "has_og_tags": true,
+    "meta_description": "Make your APIs easy to use with clear, powerful API documentation built for developer success.",
+    "scripts_count": 80
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "U",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "Y",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-assisted documentation",
+      "API key management within docs",
+      "Interactive API playground"
+    ],
+    "confidence": "medium"
+  }
+}

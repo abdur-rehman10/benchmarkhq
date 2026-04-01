@@ -1,0 +1,415 @@
+{
+  "name": "netlify",
+  "url": "https://www.netlify.com",
+  "scanned_at": "2026-04-01T15:38:18.447221",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/netlify_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/netlify_mobile.png"
+  },
+  "structure": {
+    "title": "Push your ideas to the web | Netlify",
+    "url_final": "https://www.netlify.com/",
+    "nav_items": [
+      {
+        "text": "Go to homepage",
+        "href": "/"
+      },
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.netlify.com/login"
+      },
+      {
+        "text": "Explore the platform",
+        "href": "/platform/"
+      },
+      {
+        "text": "Agent Runners",
+        "href": "/platform/agent-runners/"
+      },
+      {
+        "text": "Deploy Previews",
+        "href": "/platform/core/deploy-previews/"
+      },
+      {
+        "text": "AI Gateway",
+        "href": "https://docs.netlify.com/build/ai-gateway/overview/"
+      },
+      {
+        "text": "Functions",
+        "href": "/platform/core/functions/"
+      },
+      {
+        "text": "Storage",
+        "href": "/platform/storage/"
+      },
+      {
+        "text": "Observability",
+        "href": "/platform/observability/"
+      },
+      {
+        "text": "Security",
+        "href": "/security/"
+      },
+      {
+        "text": "Edge network",
+        "href": "/platform/core/edge/"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers/"
+      },
+      {
+        "text": "Agent Experience",
+        "href": "/agent-experience/"
+      },
+      {
+        "text": "Partner directory",
+        "href": "/agency-directory/"
+      },
+      {
+        "text": "Prototypes",
+        "href": "/solutions/prototypes/"
+      },
+      {
+        "text": "Internal apps",
+        "href": "/solutions/internal-apps/"
+      },
+      {
+        "text": "Coding agents",
+        "href": "/solutions/code-agents/"
+      },
+      {
+        "text": "Ecommerce",
+        "href": "/solutions/ecommerce/"
+      },
+      {
+        "text": "Marketing sites",
+        "href": "/solutions/marketing-sites/"
+      }
+    ],
+    "buttons": [
+      "Close announcement bar",
+      "Search",
+      "Toggle main menu",
+      "Toggle platform submenu",
+      "Toggle solutions submenu",
+      "Toggle developers submenu",
+      "Toggle resources submenu",
+      "Search",
+      "Clear",
+      ";Ask Netlify AIGet instant answers, powered by AI;",
+      ";Toggle theme;",
+      "AI apps",
+      "Marketing sites",
+      "SaaS apps",
+      "Ecommerce",
+      "Internal tools",
+      "Cookie Settings",
+      "Ask Netlify",
+      "Reject All",
+      "Accept All",
+      "Cookies Settings",
+      "Allow All"
+    ],
+    "forms": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/7477936/52611e5e-cc55-496",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_campaign",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "g-recaptcha-response",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "g-recaptcha-response",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 134,
+    "images_count": 30,
+    "images_with_alt": 30,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Push your ideas to the web"
+      },
+      {
+        "level": 2,
+        "text": "Site navigation"
+      },
+      {
+        "level": 2,
+        "text": "Help"
+      },
+      {
+        "level": 2,
+        "text": "Actions"
+      },
+      {
+        "level": 2,
+        "text": "Build your way.Ship on one platform."
+      },
+      {
+        "level": 2,
+        "text": "For every kind of web app."
+      },
+      {
+        "level": 3,
+        "text": "The Netlify Platform"
+      },
+      {
+        "level": 3,
+        "text": "Key Features"
+      },
+      {
+        "level": 3,
+        "text": "Why Netlify?"
+      },
+      {
+        "level": 3,
+        "text": "Use Cases"
+      },
+      {
+        "level": 3,
+        "text": "Where to start"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "search",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0005",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Go to Netlify homepage",
+      "GitHub",
+      "LinkedIn",
+      "Bluesky",
+      "X (formerly known as Twitter)",
+      "YouTube",
+      "Discourse",
+      "Agent Runners",
+      "Deploy Previews",
+      "Functions",
+      "Observability",
+      "Security",
+      "Netlify CLI",
+      "Netlify SDK",
+      "Pricing",
+      "Agent Runners",
+      "Deploy Previews",
+      "Functions",
+      "Observability",
+      "Security"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 22,
+    "has_og_tags": true,
+    "meta_description": "Create with AI or code, deploy instantly on production infrastructure. One platform to build and ship.",
+    "scripts_count": 47
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Gateway",
+      "Deploy Previews",
+      "Edge Network",
+      "Agent Runners"
+    ],
+    "confidence": "high"
+  }
+}

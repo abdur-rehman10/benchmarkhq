@@ -1,0 +1,178 @@
+{
+  "name": "archbee",
+  "url": "https://www.archbee.com",
+  "scanned_at": "2026-04-01T17:40:59.626101",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/archbee_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/archbee_mobile.png"
+  },
+  "structure": {
+    "title": "Archbee \u2014 The First Knowledge Portal Platform",
+    "url_final": "https://www.archbee.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Book a call",
+        "href": "/book-a-demo"
+      },
+      {
+        "text": "LOGIN",
+        "href": "https://app.archbee.com/docs"
+      },
+      {
+        "text": "FREE TRIAL",
+        "href": "https://app.archbee.com/signup"
+      }
+    ],
+    "buttons": [
+      "Use Cases",
+      "Customers",
+      "Resources"
+    ],
+    "forms": [],
+    "links_count": 282,
+    "images_count": 271,
+    "images_with_alt": 263,
+    "headings": [
+      {
+        "level": 1,
+        "text": "TURN STATIC DOCS INTOINSTANT ANSWERS"
+      },
+      {
+        "level": 2,
+        "text": "Knowledge Management That Scales With Your Technical Content & Team"
+      },
+      {
+        "level": 2,
+        "text": "Real Knowledge Portals Built with Archbee"
+      },
+      {
+        "level": 2,
+        "text": "Build, Publish, and Maintain"
+      },
+      {
+        "level": 2,
+        "text": "Write, Review, and Organize"
+      },
+      {
+        "level": 2,
+        "text": "Manage Content at Scale"
+      },
+      {
+        "level": 3,
+        "text": "TorporGames"
+      },
+      {
+        "level": 3,
+        "text": "Edit without impacting anyone else's work"
+      },
+      {
+        "level": 3,
+        "text": "Include dynamic variables in your documents"
+      },
+      {
+        "level": 3,
+        "text": "Publish your portal to your own domain, hosted by Archbee"
+      },
+      {
+        "level": 3,
+        "text": "Scale fast"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Use in anybrowser",
+      "DownloadmacOS",
+      "DownloadWindows",
+      "DownloadLinux",
+      "Integrations",
+      "Customers",
+      "Portals",
+      "Changelog",
+      "Status",
+      "Our own Portal",
+      "Book a Demo",
+      "Contact Sales",
+      "Get Support",
+      "LinkedIn",
+      "Trust Center",
+      "Terms"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 37,
+    "has_og_tags": true,
+    "meta_description": "Build beautiful knowledge portals that are easy to navigate, search, share and contribute to.",
+    "scripts_count": 89
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "U",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Knowledge management that scales",
+      "Real knowledge portals",
+      "Dynamic variables in documents"
+    ],
+    "confidence": "medium"
+  }
+}

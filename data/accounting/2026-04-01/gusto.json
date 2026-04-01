@@ -1,0 +1,232 @@
+{
+  "name": "gusto",
+  "url": "https://gusto.com",
+  "scanned_at": "2026-04-01T15:09:17.961781",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/gusto_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/gusto_mobile.png"
+  },
+  "structure": {
+    "title": "Gusto | Online HR Services: Payroll, Benefits and everything else",
+    "url_final": "https://gusto.com/",
+    "nav_items": [
+      {
+        "text": "Why Gusto",
+        "href": "/product"
+      },
+      {
+        "text": "Pricing",
+        "href": "/product/pricing"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Businesses",
+      "Accountants",
+      "Resources",
+      "Payroll takes just a few clicks",
+      "Sync hours with payroll",
+      "Pay yourself compliantly as a Solopreneur",
+      "Your Privacy Choices",
+      "Built for you",
+      "For Accountants",
+      "For Developers",
+      "Get Started",
+      "Services",
+      "Company",
+      "Licenses",
+      "Support",
+      "Resources",
+      "Tools",
+      "Talk Shop: Business resources",
+      "Your Privacy Choices",
+      "Cookie settings",
+      "Reject All",
+      "Accept all cookies",
+      "Allow all"
+    ],
+    "forms": [],
+    "links_count": 183,
+    "images_count": 37,
+    "images_with_alt": 17,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Payroll, HR, Benefits. Simplified."
+      },
+      {
+        "level": 2,
+        "text": "But wait, there's more."
+      },
+      {
+        "level": 2,
+        "text": "Let\u2019s find the right plan for your business"
+      },
+      {
+        "level": 2,
+        "text": "See how Gusto stacks up against other payroll providers."
+      },
+      {
+        "level": 2,
+        "text": "Questions? Meet answers."
+      },
+      {
+        "level": 2,
+        "text": "Pricing"
+      },
+      {
+        "level": 3,
+        "text": "Run payroll in minutes with smart technology."
+      },
+      {
+        "level": 3,
+        "text": "Payroll takes just a few clicks"
+      },
+      {
+        "level": 3,
+        "text": "Payroll takes just a few clicks"
+      },
+      {
+        "level": 3,
+        "text": "Sync hours with payroll"
+      },
+      {
+        "level": 3,
+        "text": "Sync hours with payroll"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "View pricing",
+      "Starting a business",
+      "Switch to Gusto",
+      "Remote and Global",
+      "Why Gusto",
+      "Become a partner",
+      "Gusto Pro dashboard",
+      "Partner community",
+      "Professional Development",
+      "People Advisory",
+      "Accountant blog",
+      "Resources",
+      "Gusto Embedded Payroll",
+      "Build apps with Gusto",
+      "Developer tools",
+      "Interactive Demo",
+      "Contact Sales -(800) 936-0383",
+      "Small Business Platform",
+      "Full-service payroll",
+      "Employee Benefits"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 26,
+    "has_og_tags": true,
+    "meta_description": "Gusto | Gusto offers fully integrated online HR services: payroll, benefits and everything else.",
+    "scripts_count": 43
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive payroll and HR services",
+      "Developer-friendly API and integrations",
+      "Strong focus on privacy and security compliance"
+    ],
+    "confidence": "high"
+  }
+}

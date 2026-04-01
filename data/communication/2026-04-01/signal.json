@@ -1,0 +1,212 @@
+{
+  "name": "signal",
+  "url": "https://signal.org",
+  "scanned_at": "2026-04-01T15:53:27.625692",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/signal_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/signal_mobile.png"
+  },
+  "structure": {
+    "title": "Signal >> Home",
+    "url_final": "https://signal.org/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/#signal"
+      },
+      {
+        "text": "",
+        "href": ""
+      },
+      {
+        "text": "Get Signal",
+        "href": "/download/"
+      },
+      {
+        "text": "Help",
+        "href": "https://support.signal.org"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog/"
+      },
+      {
+        "text": "Developers",
+        "href": "/docs/"
+      },
+      {
+        "text": "Careers",
+        "href": "/workworkwork/"
+      },
+      {
+        "text": "Donate",
+        "href": "/donate/"
+      },
+      {
+        "text": "English",
+        "href": "#"
+      },
+      {
+        "text": "Afrikaans",
+        "href": "/af/"
+      },
+      {
+        "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "href": "/ar/"
+      },
+      {
+        "text": "Az\u0259rbaycanca",
+        "href": "/az/"
+      },
+      {
+        "text": "Bahasa Indonesia",
+        "href": "/id/"
+      },
+      {
+        "text": "Bahasa Melayu",
+        "href": "/ms/"
+      },
+      {
+        "text": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438",
+        "href": "/bg/"
+      },
+      {
+        "text": "\u09ac\u09be\u0982\u09b2\u09be",
+        "href": "/bn/"
+      },
+      {
+        "text": "Bosanski",
+        "href": "/bs/"
+      },
+      {
+        "text": "Catal\u00e0",
+        "href": "/ca/"
+      },
+      {
+        "text": "\u010cesky",
+        "href": "/cs/"
+      },
+      {
+        "text": "Dansk",
+        "href": "/da/"
+      }
+    ],
+    "buttons": [
+      "Get Signal",
+      "Donate to Signal"
+    ],
+    "forms": [],
+    "links_count": 99,
+    "images_count": 10,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Speak Freely"
+      },
+      {
+        "level": 2,
+        "text": "Why use Signal?"
+      },
+      {
+        "level": 2,
+        "text": "Share Without Insecurity"
+      },
+      {
+        "level": 2,
+        "text": "No ads. No trackers. No kidding."
+      },
+      {
+        "level": 2,
+        "text": "Free for Everyone"
+      },
+      {
+        "level": 3,
+        "text": "Say Anything"
+      },
+      {
+        "level": 3,
+        "text": "Speak Freely"
+      },
+      {
+        "level": 3,
+        "text": "Make Privacy Stick"
+      },
+      {
+        "level": 3,
+        "text": "Get Together with Groups"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 4,
+    "has_og_tags": true,
+    "meta_description": "",
+    "scripts_count": 4
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "End-to-end encryption",
+      "No ads or trackers",
+      "Open source"
+    ],
+    "confidence": "high"
+  }
+}

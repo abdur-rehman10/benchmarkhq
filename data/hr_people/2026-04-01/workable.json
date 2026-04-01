@@ -1,0 +1,189 @@
+{
+  "name": "workable",
+  "url": "https://www.workable.com",
+  "scanned_at": "2026-04-01T15:23:38.837121",
+  "screenshots": {
+    "desktop": "data/hr_people/2026-04-01/screenshots/workable_desktop.png",
+    "mobile": "data/hr_people/2026-04-01/screenshots/workable_mobile.png"
+  },
+  "structure": {
+    "title": "Workable | All-in-one HR software",
+    "url_final": "https://www.workable.com/",
+    "nav_items": [
+      {
+        "text": "Workable | All-in-one HR software",
+        "href": "/"
+      },
+      {
+        "text": "Workable | All-in-one HR software",
+        "href": "/"
+      },
+      {
+        "text": "Product",
+        "href": "/features"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "/signin"
+      },
+      {
+        "text": "Request a demo",
+        "href": "/demo"
+      },
+      {
+        "text": "Start a free trial",
+        "href": "/free-trial"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Pricing",
+      "Log in",
+      "Request a demo",
+      "Download on iOS or Android",
+      "Real-time support dashboard"
+    ],
+    "forms": [],
+    "links_count": 50,
+    "images_count": 36,
+    "images_with_alt": 35,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The future-ready HR platform"
+      },
+      {
+        "level": 2,
+        "text": "A complete talentsourcing solution"
+      },
+      {
+        "level": 2,
+        "text": "A comprehensiverecruiting platform"
+      },
+      {
+        "level": 2,
+        "text": "A flexible employeemanagement system"
+      },
+      {
+        "level": 2,
+        "text": "An easy way to track timeand make payroll"
+      },
+      {
+        "level": 2,
+        "text": "AI that works for you"
+      },
+      {
+        "level": 3,
+        "text": "Post to 200+ job boards"
+      },
+      {
+        "level": 3,
+        "text": "Great results on LinkedIn & Indeed"
+      },
+      {
+        "level": 3,
+        "text": "Passive candidate sourcing tools"
+      },
+      {
+        "level": 3,
+        "text": "Employee referral program"
+      },
+      {
+        "level": 3,
+        "text": "Careers page builder"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Pricing",
+      "Features",
+      "AI technology",
+      "Partners",
+      "Security",
+      "Help center",
+      "Resource library",
+      "Developer API",
+      "Search for jobs",
+      "About us",
+      "Work with us",
+      "Backstage",
+      "Accessibility",
+      "Status",
+      "+1 617 861 3548",
+      "+44 20 4579 3313"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 19,
+    "has_og_tags": true,
+    "meta_description": "Workable is your system of record for everything HR. Find, hire, and manage top talent effortlessly. Trusted by 30,000+ companies across 100+ countries. Start your free trial today.",
+    "scripts_count": 70
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven recruitment tools",
+      "Comprehensive talent sourcing",
+      "Flexible employee management"
+    ],
+    "confidence": "high"
+  }
+}

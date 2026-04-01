@@ -1,0 +1,542 @@
+{
+  "name": "nimble",
+  "url": "https://www.nimble.com",
+  "scanned_at": "2026-04-01T14:24:01.790288",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/nimble_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/nimble_mobile.png"
+  },
+  "structure": {
+    "title": "Nimble CRM for Small Business | Contact Management, Email Marketing, and Sales Automation",
+    "url_final": "https://www.nimble.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://www.nimble.com/"
+      },
+      {
+        "text": "Pricing",
+        "href": "pricing/"
+      },
+      {
+        "text": "Prospector",
+        "href": "prospector/"
+      },
+      {
+        "text": "What's new.",
+        "href": "whats-new/"
+      },
+      {
+        "text": "Partner",
+        "href": "partner/"
+      },
+      {
+        "text": "Demos & Webinars",
+        "href": "company/webinars/"
+      },
+      {
+        "text": "Support",
+        "href": "https://support.nimble.com/?_ga=2.142612661.1034510720.1530114628-1245960411.1530114628"
+      },
+      {
+        "text": "Apps Marketplace",
+        "href": "marketplace/"
+      },
+      {
+        "text": "Customer Stories",
+        "href": "customers/"
+      },
+      {
+        "text": "In the Media",
+        "href": "press/"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.nimble.com"
+      },
+      {
+        "text": "Try For Free",
+        "href": ""
+      },
+      {
+        "text": "All FeaturesSummary of all key Nimble features.",
+        "href": "crm-features/"
+      },
+      {
+        "text": "AI Email MarketingNEWCreate impactful email market",
+        "href": "email-marketing-crm-for-small-business/"
+      },
+      {
+        "text": "Sales, Pipelines, & ReportingManage leads, track d",
+        "href": "sales-automation/"
+      },
+      {
+        "text": "Relationship ManagementIdentify, build, & nurture ",
+        "href": "relationship-management/"
+      },
+      {
+        "text": "Email SequencesTailor emails based on recipient ac",
+        "href": "crm-with-automated-email-sequences"
+      },
+      {
+        "text": "AI Prospect Marketing & OutreachNEWScale your outr",
+        "href": "crm-marketing-automation/"
+      },
+      {
+        "text": "Inbox, Mobile, Social CRMWorks in your inbox, mobi",
+        "href": "email-marketing-crm/"
+      }
+    ],
+    "buttons": [
+      "Try Nimble Free",
+      "Try Nimble Free",
+      "Try For Free",
+      "Try Nimble Free",
+      "Try For Free",
+      "Try Nimble Free",
+      "Try For Free",
+      "Got It",
+      "Try For Free",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "See All Features",
+      "Learn More",
+      "Learn More",
+      "Learn More",
+      "Read More Success Stories"
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "terms_agreement",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "receive_newsletter",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "capture_token",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "terms_agreement",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source_id",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "receive_newsletter",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "capture_token",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "terms_agreement",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source_id",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "receive_newsletter",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "capture_token",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "terms_agreement",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "product_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source_id",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "receive_newsletter",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "capture_token",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 92,
+    "images_count": 122,
+    "images_with_alt": 25,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your CRM for SmarterAI Email Marketing, Engagement, and Growth"
+      },
+      {
+        "level": 2,
+        "text": "Your Next CRM, Without the Bloat"
+      },
+      {
+        "level": 2,
+        "text": "Prospect Smarter. Close Faster."
+      },
+      {
+        "level": 2,
+        "text": "All Features, One Price"
+      },
+      {
+        "level": 2,
+        "text": "One Flow from Lead to Deal"
+      },
+      {
+        "level": 2,
+        "text": "AI-Driven Email Marketing, Built In"
+      },
+      {
+        "level": 3,
+        "text": "Relationship Management"
+      },
+      {
+        "level": 3,
+        "text": "AI Email Marketing"
+      },
+      {
+        "level": 3,
+        "text": "AI Prospecting"
+      },
+      {
+        "level": 3,
+        "text": "Sales, Pipelines, Reporting"
+      },
+      {
+        "level": 3,
+        "text": "Workflows & Automation"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "terms_agreement",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "receive_newsletter",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "capture_token",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "terms_agreement",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source_id",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "receive_newsletter",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "capture_token",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "terms_agreement",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "product_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "The Company",
+      "Webinars",
+      "Careers",
+      "Blog",
+      "Customer Stories",
+      "What\u2019s New",
+      "Product",
+      "Features",
+      "Pricing",
+      "App Marketplace",
+      "Microsoft 365 CRM",
+      "Outlook CRM",
+      "Mobile CRM",
+      "Sales CRM for Small Business",
+      "CRM for Small Business",
+      "Sales Automation",
+      "CRM Marketing Automation",
+      "Web Forms",
+      "Voice Over CRM",
+      "Support"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Nimble is an all-in-one CRM for small teams that combines contact management, email marketing, and pipeline automation in one easy-to-use platform.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "Y",
+      "product_screenshots": "N",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven email marketing",
+      "Sales automation",
+      "Prospecting tools"
+    ],
+    "confidence": "high"
+  }
+}

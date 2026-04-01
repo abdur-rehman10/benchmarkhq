@@ -1,0 +1,194 @@
+metadata:
+  industry: project_management
+  name: Project Management SaaS
+  category: Productivity
+  version: 1.0.0
+  generated_at: '2026-04-01T14:21:07.395128'
+  sites_analyzed: 30
+  sites:
+  - asana
+  - mondaycom
+  - clickup
+  - jira
+  - linear
+  - trello
+  - basecamp
+  - wrike
+  - smartsheet
+  - notion
+  - teamwork
+  - todoist
+  - height
+  - hive
+  - zoho_projects
+  - airtable
+  - shortcut
+  - plane
+  - nifty
+  - meistertask
+  - freedcamp
+  - proofhub
+  - quire
+  - taskade
+  - ora
+  - paymo
+  - workzone
+  - celoxis
+  - backlog
+  - flow
+features:
+  critical:
+  - id: pricing_page
+    frequency: 27/27
+    percent: 100
+  - id: transparent_pricing
+    frequency: 26/27
+    percent: 100
+  - id: multiple_tiers
+    frequency: 27/27
+    percent: 100
+  - id: annual_discount
+    frequency: 26/27
+    percent: 100
+  - id: product_screenshots
+    frequency: 27/27
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 27/27
+    percent: 100
+  - id: feature_comparison_table
+    frequency: 25/27
+    percent: 96
+  - id: privacy_policy
+    frequency: 25/27
+    percent: 96
+  - id: terms_of_service
+    frequency: 25/27
+    percent: 96
+  - id: ios_app
+    frequency: 25/27
+    percent: 96
+  - id: android_app
+    frequency: 25/27
+    percent: 96
+  - id: free_trial
+    frequency: 25/27
+    percent: 93
+  - id: enterprise_tier
+    frequency: 25/27
+    percent: 93
+  - id: cookie_consent
+    frequency: 25/27
+    percent: 93
+  - id: contact_page
+    frequency: 25/27
+    percent: 93
+  - id: integrations_page
+    frequency: 24/27
+    percent: 92
+  - id: blog
+    frequency: 24/27
+    percent: 92
+  - id: about_page
+    frequency: 23/27
+    percent: 88
+  - id: customer_logos
+    frequency: 22/27
+    percent: 85
+  - id: api_documentation
+    frequency: 22/27
+    percent: 85
+  - id: templates_available
+    frequency: 22/27
+    percent: 85
+  - id: help_center
+    frequency: 22/27
+    percent: 85
+  required:
+  - id: gdpr_mentioned
+    frequency: 21/27
+    percent: 81
+  - id: desktop_app
+    frequency: 21/27
+    percent: 81
+  - id: free_tier
+    frequency: 21/27
+    percent: 78
+  - id: case_studies
+    frequency: 20/27
+    percent: 77
+  - id: video_demo
+    frequency: 20/27
+    percent: 77
+  - id: multi_language
+    frequency: 20/27
+    percent: 77
+  - id: changelog
+    frequency: 19/27
+    percent: 73
+  - id: careers_page
+    frequency: 19/27
+    percent: 73
+  - id: security_page
+    frequency: 19/27
+    percent: 73
+  - id: webhooks_support
+    frequency: 18/27
+    percent: 69
+  - id: onboarding_video
+    frequency: 18/27
+    percent: 69
+  - id: github_presence
+    frequency: 17/27
+    percent: 65
+  recommended:
+  - id: code_examples
+    frequency: 15/27
+    percent: 60
+  - id: social_signup
+    frequency: 15/27
+    percent: 60
+  - id: interactive_demo
+    frequency: 15/27
+    percent: 60
+  - id: live_chat
+    frequency: 15/27
+    percent: 60
+  - id: status_page
+    frequency: 15/27
+    percent: 58
+  - id: community_forum
+    frequency: 14/27
+    percent: 58
+  - id: browser_extension
+    frequency: 14/27
+    percent: 56
+  - id: developer_portal
+    frequency: 13/27
+    percent: 52
+  - id: dpa_available
+    frequency: 11/27
+    percent: 46
+  - id: sdk_available
+    frequency: 11/27
+    percent: 46
+  - id: soc2_mentioned
+    frequency: 10/27
+    percent: 43
+  - id: iso27001_mentioned
+    frequency: 9/27
+    percent: 41
+  nice_to_have:
+  - id: openapi_spec
+    frequency: 8/27
+    percent: 36
+  - id: sla_published
+    frequency: 8/27
+    percent: 36
+  - id: api_playground
+    frequency: 7/27
+    percent: 32
+  - id: roi_calculator
+    frequency: 4/27
+    percent: 18
+  innovative: []

@@ -1,0 +1,218 @@
+{
+  "name": "booksy",
+  "url": "https://booksy.com",
+  "scanned_at": "2026-04-01T17:03:46.157713",
+  "screenshots": {
+    "desktop": "data/scheduling/2026-04-01/screenshots/booksy_desktop.png",
+    "mobile": "data/scheduling/2026-04-01/screenshots/booksy_mobile.png"
+  },
+  "structure": {
+    "title": "Booksy - hair stylists, barbers, beauticians... book appointments online!",
+    "url_final": "https://booksy.com/en-us/",
+    "nav_items": [
+      {
+        "text": "Blog",
+        "href": "https://booksy.com/blog/us/"
+      },
+      {
+        "text": "About Us",
+        "href": "/en-us/p/about"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://help.booksy.com/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/en-us/p/privacy"
+      },
+      {
+        "text": "Terms of Service",
+        "href": "/en-us/p/terms"
+      },
+      {
+        "text": "Careers",
+        "href": "https://biz.booksy.com/en-us/careers"
+      },
+      {
+        "text": "Booksy Biz",
+        "href": "https://biz.booksy.com/en-us/"
+      },
+      {
+        "text": "Contact",
+        "href": "/en-us/p/contact"
+      }
+    ],
+    "buttons": [
+      "Schedule",
+      "Download",
+      "Grow My Business",
+      "View Booksy Gift Cards",
+      "moment-shutdown-modal.button",
+      "Save",
+      "Adjust preferences",
+      "Save",
+      "AppstoreCreated with Sketch.",
+      "Combined ShapeCreated with Sketch."
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "tel",
+            "name": "",
+            "placeholder": "Your phone number"
+          }
+        ]
+      }
+    ],
+    "links_count": 276,
+    "images_count": 5,
+    "images_with_alt": 5,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Discover and book beauty & wellness professionals near you"
+      },
+      {
+        "level": 2,
+        "text": "Recommended"
+      },
+      {
+        "level": 2,
+        "text": "Find & bookan appointment"
+      },
+      {
+        "level": 2,
+        "text": "Booksyfor your business"
+      },
+      {
+        "level": 2,
+        "text": "Find your Booksy specialist by city"
+      },
+      {
+        "level": 2,
+        "text": "Recommended for you"
+      },
+      {
+        "level": 3,
+        "text": "Renee\u2019Z Edge"
+      },
+      {
+        "level": 3,
+        "text": "\ud83d\udd25\ud83d\udc88Flawless Fades & Hair Systems Installations\ud83d\udc88\ud83d\udd25"
+      },
+      {
+        "level": 3,
+        "text": "Anthony @ Westside Barbershop"
+      },
+      {
+        "level": 3,
+        "text": "Krispi King 1"
+      },
+      {
+        "level": 3,
+        "text": "Clippers &Co."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search services or businesses"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Where?"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search services or businesses"
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "placeholder": "Your phone number"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Where?"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Booksy - book appointments online. Find &amp; book beauty services like hairdressing, manicure, spa or massage. Check prices &amp; reviews!",
+    "scripts_count": 102
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Strong mobile presence with iOS and Android apps",
+      "Comprehensive scheduling and booking features",
+      "Focus on beauty and wellness industry"
+    ],
+    "confidence": "high"
+  }
+}

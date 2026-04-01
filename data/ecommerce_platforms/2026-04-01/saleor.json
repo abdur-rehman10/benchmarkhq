@@ -1,0 +1,208 @@
+{
+  "name": "saleor",
+  "url": "https://saleor.io",
+  "scanned_at": "2026-04-01T16:05:58.351958",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/saleor_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/saleor_mobile.png"
+  },
+  "structure": {
+    "title": "Saleor - Composable, Open Source, Headless Ecommerce Platform",
+    "url_final": "https://saleor.io/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "End-to-End Agentic",
+        "href": "/blog/end-to-end-agentic-commerce"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.saleor.io/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Open source",
+        "href": "/open-source"
+      },
+      {
+        "text": "Case Studies",
+        "href": "/case-study"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "\u26a1Checkout with ChatGPT\u2014 Join our Beta\u2192",
+        "href": "https://saleor.io/cloud/agentic-commerce-protocol?cta=Enable+Instant+Checkout+in+ChatGPT&cta_page=%2"
+      },
+      {
+        "text": "Log in",
+        "href": "https://cloud.saleor.io"
+      },
+      {
+        "text": "Contact",
+        "href": "https://saleor.io/cloud/talk-to-us?cta=contact-top-navigation&cta_page=%2F"
+      }
+    ],
+    "buttons": [
+      "Toggle navigation menu",
+      "See how Saleor fits",
+      "Get Started",
+      "Previous slide",
+      "Next slide",
+      "Talk to a human",
+      "DiscordJoin Discord",
+      "Book call with our engineers"
+    ],
+    "forms": [],
+    "links_count": 77,
+    "images_count": 43,
+    "images_with_alt": 39,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Scale without lock\u2011in.Build without limits."
+      },
+      {
+        "level": 2,
+        "text": "Trusted by"
+      },
+      {
+        "level": 2,
+        "text": "Built for business, loved by merchants"
+      },
+      {
+        "level": 2,
+        "text": "But let's be honest \u2014 not for everyone"
+      },
+      {
+        "level": 2,
+        "text": "You build.We infra."
+      },
+      {
+        "level": 2,
+        "text": "Join ouropen sourcecommunity"
+      },
+      {
+        "level": 3,
+        "text": "AnnouncementThe First Open End-to-End AI Commerce Stack\u2192"
+      },
+      {
+        "level": 3,
+        "text": "Adopted by modern commerce crews worldwide"
+      },
+      {
+        "level": 3,
+        "text": "Take full control of your experiences"
+      },
+      {
+        "level": 3,
+        "text": "\ud83c\udff4\u200d\u2620\ufe0f Great for any complex commerce"
+      },
+      {
+        "level": 3,
+        "text": "Looking for out-of-the box"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Merchandising",
+      "Promotions",
+      "Operations",
+      "Development",
+      "Checkout API",
+      "Extensions",
+      "Headless",
+      "Global Commerce",
+      "Composable",
+      "B2B",
+      "Marketplace",
+      "Case Studies & Examples",
+      "Partners",
+      "Magento Migration",
+      "API Documentation",
+      "Status Page",
+      "Open source",
+      "Roadmap",
+      "Community: Discord",
+      "Tech Blog"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 23,
+    "has_og_tags": true,
+    "meta_description": "A headless, open source, GraphQL-first e-commerce platform. API-first design for composable era and technology agnostic stack.",
+    "scripts_count": 161
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "Y",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Composable architecture",
+      "Open source",
+      "Headless ecommerce",
+      "Agentic commerce protocol"
+    ],
+    "confidence": "medium"
+  }
+}

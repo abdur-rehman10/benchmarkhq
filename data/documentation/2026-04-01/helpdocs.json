@@ -1,0 +1,228 @@
+{
+  "name": "helpdocs",
+  "url": "https://www.helpdocs.io",
+  "scanned_at": "2026-04-01T17:47:44.417472",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/helpdocs_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/helpdocs_mobile.png"
+  },
+  "structure": {
+    "title": "AI Knowledge Base Software to Scale Support | HelpDocs",
+    "url_final": "https://www.helpdocs.io/",
+    "nav_items": [
+      {
+        "text": "DeflectTurn documentation into your most productiv",
+        "href": "#deflect"
+      },
+      {
+        "text": "CreateGive your team an editor that makes document",
+        "href": "#create"
+      },
+      {
+        "text": "BuildGo live with professional templates in hours.",
+        "href": "#build"
+      },
+      {
+        "text": "OptimizeArm yourself with the metrics leadership c",
+        "href": "#optimize"
+      },
+      {
+        "text": "Learn more",
+        "href": "/ai"
+      },
+      {
+        "text": "SaaSAutomate and scale subscription business.",
+        "href": "#"
+      },
+      {
+        "text": "LogisticsCut down support costs and go the extra m",
+        "href": "#"
+      },
+      {
+        "text": "E-CommerceAvoid repeat questions and focus on 1-on",
+        "href": "#"
+      },
+      {
+        "text": "EducationShare resources to boost your learning en",
+        "href": "/lighthouse"
+      },
+      {
+        "text": "Learn HubFrom creating to optimizing your document",
+        "href": "/learn"
+      },
+      {
+        "text": "ShowcaseSee how our customers are using HelpDocs.",
+        "href": "/showcase"
+      },
+      {
+        "text": "GuidesOur long-form content gets you from A to Z.",
+        "href": "/guides"
+      },
+      {
+        "text": "About UsMeet the team behind the pink bookmark.",
+        "href": "/about"
+      },
+      {
+        "text": "AI",
+        "href": "/ai"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Got it!",
+      "Learn more",
+      "Sign in",
+      "Start free trial",
+      "Start 2 week free trial",
+      "View our docs",
+      "Read story",
+      "Read story",
+      "Read story",
+      "View all integrations",
+      "Learn more about Bloom",
+      "Learn more about security ->",
+      "Explore all Showcases ->",
+      "Start free 14-day trial"
+    ],
+    "forms": [],
+    "links_count": 225,
+    "images_count": 164,
+    "images_with_alt": 16,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Grow your companywithout growing your support queue."
+      },
+      {
+        "level": 2,
+        "text": "Deflect ticketsbefore they're created."
+      },
+      {
+        "level": 2,
+        "text": "Make it unmistakablyyours."
+      },
+      {
+        "level": 2,
+        "text": "How our templates stack up."
+      },
+      {
+        "level": 2,
+        "text": "Connect to Your Support Stack"
+      },
+      {
+        "level": 2,
+        "text": "Beautifully simplepublishing."
+      },
+      {
+        "level": 3,
+        "text": "100%"
+      },
+      {
+        "level": 3,
+        "text": "100%"
+      },
+      {
+        "level": 3,
+        "text": "0.5s"
+      },
+      {
+        "level": 3,
+        "text": "GDPR"
+      },
+      {
+        "level": 3,
+        "text": "End-to-end encryption."
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "All Systems Operational",
+      "Showcase",
+      "Pricing",
+      "Customer stories",
+      "Updates",
+      "Chrome extension",
+      "About",
+      "Blog",
+      "Jobs",
+      "Learn",
+      "Guides",
+      "Knowledge Base",
+      "Terms",
+      "Privacy"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "Stop growing your support team every time you grow your customer base. HelpDocs is knowledge base software that deflects 30% of tickets with AI-powered self-service. Start free trial.",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "U",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "Y",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered knowledge base",
+      "Professional templates",
+      "GDPR compliance",
+      "14-day free trial"
+    ],
+    "confidence": "medium"
+  }
+}

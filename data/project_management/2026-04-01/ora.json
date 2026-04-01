@@ -1,0 +1,219 @@
+{
+  "name": "ora",
+  "url": "https://ora.pm",
+  "scanned_at": "2026-04-01T14:18:41.135138",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/ora_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/ora_mobile.png"
+  },
+  "structure": {
+    "title": "Ora: Get more done. With your team.",
+    "url_final": "https://ora.pm/",
+    "nav_items": [
+      {
+        "text": "Ora TasksProject / Task management",
+        "href": "/features"
+      },
+      {
+        "text": "Ora Work TimersTime tracking and reports on tasks",
+        "href": "/product/time"
+      },
+      {
+        "text": "Ora SprintsScrum sprint tools for agile teams",
+        "href": "/sprints"
+      },
+      {
+        "text": "Ora ChatTeam collaboration via Chat channels and v",
+        "href": "/product/chat"
+      },
+      {
+        "text": "Ora TimelineResource allocation and long-term plan",
+        "href": "/product/timeline"
+      },
+      {
+        "text": "Features overviewWe will show you all of Ora\u2019s mig",
+        "href": "/features"
+      },
+      {
+        "text": "Slack",
+        "href": "/apps/slack"
+      },
+      {
+        "text": "Github",
+        "href": "/apps/github"
+      },
+      {
+        "text": "G Cal",
+        "href": "/apps/google-calendar"
+      },
+      {
+        "text": "Gitlab",
+        "href": "/apps/gitlab"
+      },
+      {
+        "text": "Bitbucket",
+        "href": "/apps/bitbucket"
+      },
+      {
+        "text": "Zendesk",
+        "href": "/apps/zendesk"
+      },
+      {
+        "text": "Integrately",
+        "href": "/apps/integrately"
+      },
+      {
+        "text": "Zapier",
+        "href": "/apps/zapier"
+      },
+      {
+        "text": "Product DevelopmentBuild roadmaps, plan sprints, m",
+        "href": "/solutions/software"
+      },
+      {
+        "text": "MarketingCrush your marketing goals. Plan and trac",
+        "href": "/solutions/marketing"
+      },
+      {
+        "text": "Creative & DesignStreamline your design process, t",
+        "href": "/solutions/design"
+      },
+      {
+        "text": "SalesConsistently over-deliver and exceed expectat",
+        "href": "/solutions/crm"
+      },
+      {
+        "text": "Agile Project ManagementShip early, ship often wit",
+        "href": "/solutions/agile"
+      },
+      {
+        "text": "Issue trackingTrack issues with project prefix and",
+        "href": "/solutions/issue-tracking"
+      }
+    ],
+    "buttons": [
+      "Read Blog post",
+      "Go to ClickUp"
+    ],
+    "forms": [],
+    "links_count": 114,
+    "images_count": 77,
+    "images_with_alt": 76,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Ora joined ClickUp"
+      },
+      {
+        "level": 3,
+        "text": "Product"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "Compare"
+      },
+      {
+        "level": 3,
+        "text": "Legal"
+      },
+      {
+        "level": 3,
+        "text": "Support"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "What's new",
+      "Team chat",
+      "Time Tracking",
+      "Agile Sprints",
+      "Timeline",
+      "Download apps",
+      "Pricing",
+      "Templates",
+      "Documentation",
+      "On-Demand Demo",
+      "Product Roadmap",
+      "Public API",
+      "Asana",
+      "Trello",
+      "Jira",
+      "Wrike",
+      "Basecamp",
+      "ClickUp",
+      "Monday.com"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "A task manager that works wonders. Chat, plan, and execute with your team. Make every task count. Sign up for Ora for free today!",
+    "scripts_count": 51
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Integration with popular tools like Slack, Github, and Google Calendar",
+      "Comprehensive project management features including task management, time tracking, and agile sprints"
+    ],
+    "confidence": "medium"
+  }
+}

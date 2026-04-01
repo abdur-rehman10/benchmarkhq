@@ -1,0 +1,205 @@
+{
+  "name": "pinecone",
+  "url": "https://www.pinecone.io",
+  "scanned_at": "2026-04-01T16:51:08.771608",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/pinecone_desktop.png"
+  },
+  "structure": {
+    "title": "The vector database to build knowledgeable AI | Pinecone",
+    "url_final": "https://www.pinecone.io/",
+    "nav_items": [
+      {
+        "text": "Docs",
+        "href": "https://docs.pinecone.io"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Contact",
+        "href": "/contact/"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.pinecone.io/?sessionType=login"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://app.pinecone.io/?sessionType=signup"
+      }
+    ],
+    "buttons": [
+      "Dismiss",
+      "Products",
+      "Resources",
+      "{agents}",
+      "{search}",
+      "{recommendations}",
+      "{rag}",
+      "Subscribe"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Email Address"
+          }
+        ]
+      }
+    ],
+    "links_count": 103,
+    "images_count": 42,
+    "images_with_alt": 42,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The vector databaseforscale in production"
+      },
+      {
+        "level": 2,
+        "text": "Performance at scale for{agents}"
+      },
+      {
+        "level": 2,
+        "text": "Trusted in production"
+      },
+      {
+        "level": 2,
+        "text": "Scale simplified"
+      },
+      {
+        "level": 2,
+        "text": "Relevance, delivered"
+      },
+      {
+        "level": 2,
+        "text": "Works where you do"
+      },
+      {
+        "level": 3,
+        "text": "1.7M"
+      },
+      {
+        "level": 3,
+        "text": "1.7M"
+      },
+      {
+        "level": 3,
+        "text": "1000"
+      },
+      {
+        "level": 3,
+        "text": "1000"
+      },
+      {
+        "level": 3,
+        "text": "400"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Email Address"
+      }
+    ],
+    "footer_links": [
+      "Vector Database",
+      "Dedicated Read Nodes",
+      "Assistant",
+      "Documentation",
+      "Pricing",
+      "Security",
+      "Integrations",
+      "Community Forum",
+      "Learning Center",
+      "Blog",
+      "Customer Case Studies",
+      "Status",
+      "What is a Vector DB?",
+      "What is RAG?",
+      "About"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "Search through billions of items for similar matches to any object, in milliseconds. It\u2019s the next generation of search, an API call away.",
+    "scripts_count": 125
+  },
+  "errors": [
+    "mobile: Page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n"
+  ],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "U",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Vector database optimized for AI applications",
+      "Scalable performance for production environments",
+      "Integration with popular AI and ML tools"
+    ],
+    "confidence": "medium"
+  }
+}

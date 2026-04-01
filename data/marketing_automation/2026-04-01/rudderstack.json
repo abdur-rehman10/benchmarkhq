@@ -1,0 +1,205 @@
+{
+  "name": "rudderstack",
+  "url": "https://www.rudderstack.com",
+  "scanned_at": "2026-04-01T16:14:56.946578",
+  "screenshots": {
+    "desktop": "data/marketing_automation/2026-04-01/screenshots/rudderstack_desktop.png",
+    "mobile": "data/marketing_automation/2026-04-01/screenshots/rudderstack_mobile.png"
+  },
+  "structure": {
+    "title": "RudderStack | Connect Real-Time Customer Data Everywhere",
+    "url_final": "https://www.rudderstack.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Log In",
+        "href": "https://app.rudderstack.com/login"
+      },
+      {
+        "text": "Try for free",
+        "href": "https://app.rudderstack.com/signup?type=freetrial"
+      }
+    ],
+    "buttons": [
+      "Manage your Preferences",
+      "Products",
+      "Solutions",
+      "Integrations",
+      "Docs",
+      "Resources",
+      "Download the free guide",
+      "Download the free guide"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "you@company.com"
+          },
+          {
+            "type": "text",
+            "name": "spz1",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 70,
+    "images_count": 88,
+    "images_with_alt": 85,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The real-time data foundation for competitive advantage"
+      },
+      {
+        "level": 2,
+        "text": "Move fast with warehouse-native control"
+      },
+      {
+        "level": 2,
+        "text": "Download The Data Maturity Guide"
+      },
+      {
+        "level": 2,
+        "text": "Central command for the customer data lifecycle"
+      },
+      {
+        "level": 2,
+        "text": "Real-world outcomes with real-world data"
+      },
+      {
+        "level": 2,
+        "text": "RudderStack doesn\u2019t store your data and puts privacy controls in your hands"
+      },
+      {
+        "level": 3,
+        "text": "Your Privacy Choices"
+      },
+      {
+        "level": 3,
+        "text": "Adapt quickly"
+      },
+      {
+        "level": 3,
+        "text": "Protect privacy"
+      },
+      {
+        "level": 3,
+        "text": "Build data trust"
+      },
+      {
+        "level": 3,
+        "text": "Capture thefull customer journey"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "you@company.com"
+      },
+      {
+        "type": "text",
+        "name": "spz1",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About",
+      "Contact us",
+      "Partner with us",
+      "\ud83d\ude80   We\u2019re hiring!",
+      "Privacy policy",
+      "Terms of service",
+      "Vulnerability disclosure policy",
+      "Integrations library",
+      "Customer Data Platform",
+      "Event Stream",
+      "Profiles",
+      "Reverse ETL",
+      "Transformations",
+      "Data Compliance Toolkit"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 52,
+    "has_og_tags": true,
+    "meta_description": "RudderStack is the easiest way to collect, transform, and deliver customer event data everywhere it's needed in real time with full privacy control. ",
+    "scripts_count": 153
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Real-time data integration",
+      "Warehouse-native control",
+      "Privacy-focused data handling"
+    ],
+    "confidence": "medium"
+  }
+}

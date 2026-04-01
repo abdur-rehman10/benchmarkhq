@@ -1,0 +1,252 @@
+{
+  "name": "metabase",
+  "url": "https://www.metabase.com",
+  "scanned_at": "2026-04-01T14:58:32.909888",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/metabase_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/metabase_mobile.png"
+  },
+  "structure": {
+    "title": "Open source Business Intelligence and Embedded Analytics",
+    "url_final": "https://www.metabase.com/",
+    "nav_items": [
+      {
+        "text": "Ask Metabot AI",
+        "href": "https://www.metabase.com/features/metabot-ai"
+      },
+      {
+        "text": "visual query builder.",
+        "href": "https://www.metabase.com/features/query-builder"
+      },
+      {
+        "text": "interactive dashboards",
+        "href": "https://www.metabase.com/features/analytics-dashboards"
+      },
+      {
+        "text": "models",
+        "href": "https://www.metabase.com/features/models"
+      }
+    ],
+    "buttons": [
+      "\u00d7",
+      "Play Video",
+      "Play",
+      "Unmute",
+      "Seek to live, currently behind liveLIVE",
+      "Playback Rate",
+      "Chapters",
+      "Descriptions",
+      "Captions",
+      "Audio Track",
+      "Picture-in-Picture",
+      "Fullscreen",
+      "Resetrestore all settings to the default values",
+      "Done",
+      "Close Modal Dialog",
+      "Play Video",
+      "Play",
+      "Unmute",
+      "Seek to live, currently behind liveLIVE",
+      "Playback Rate",
+      "Chapters",
+      "Descriptions",
+      "Captions",
+      "Audio Track",
+      "Picture-in-Picture",
+      "Fullscreen",
+      "Resetrestore all settings to the default values",
+      "Done",
+      "Close Modal Dialog",
+      "Play Video"
+    ],
+    "forms": [
+      {
+        "action": "//metabase.us10.list-manage.com/subscribe/post?u=869fec0e4689e8fd1db91e795&id=b9664113a8",
+        "method": "post",
+        "fields": [
+          {
+            "type": "email",
+            "name": "EMAIL",
+            "placeholder": "Email address"
+          },
+          {
+            "type": "submit",
+            "name": "subscribe",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "b_869fec0e4689e8fd1db91e795_b9664113a8",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 307,
+    "images_count": 144,
+    "images_with_alt": 144,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Open source analytics that answers back"
+      },
+      {
+        "level": 2,
+        "text": "Business intelligence your team can use"
+      },
+      {
+        "level": 2,
+        "text": "Business intelligence your team can use"
+      },
+      {
+        "level": 2,
+        "text": "Put production-grade analytics into your app without drama"
+      },
+      {
+        "level": 3,
+        "text": "Data Studio"
+      },
+      {
+        "level": 3,
+        "text": "Get up and running in no time"
+      },
+      {
+        "level": 3,
+        "text": "Keeps up as you grow"
+      },
+      {
+        "level": 3,
+        "text": "Analytics that people straight up love"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "EMAIL",
+        "placeholder": "Email address"
+      },
+      {
+        "type": "submit",
+        "name": "subscribe",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "b_869fec0e4689e8fd1db91e795_b9664113a8",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Watch Demo",
+      "Data Sources",
+      "Security",
+      "Cloud",
+      "Roadmap",
+      "What's New",
+      "Plans",
+      "Open Source",
+      "Self-Service Business Intelligence",
+      "Embedded Analytics",
+      "Starter and Open Source",
+      "Pro",
+      "Enterprise",
+      "Metabot AI",
+      "Query Builder",
+      "Drill Through",
+      "Collections",
+      "Usage analytics",
+      "Dashboards and reporting",
+      "SQL editor"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 35,
+    "has_og_tags": true,
+    "meta_description": "Metabase is the easy, open-source way for everyone to ask questions and learn from data.",
+    "scripts_count": 55
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open source analytics",
+      "Interactive dashboards",
+      "Visual query builder",
+      "Embedded analytics"
+    ],
+    "confidence": "high"
+  }
+}

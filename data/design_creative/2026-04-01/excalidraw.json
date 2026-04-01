@@ -1,0 +1,176 @@
+{
+  "name": "excalidraw",
+  "url": "https://excalidraw.com",
+  "scanned_at": "2026-04-01T15:30:06.576455",
+  "screenshots": {
+    "desktop": "data/design_creative/2026-04-01/screenshots/excalidraw_desktop.png",
+    "mobile": "data/design_creative/2026-04-01/screenshots/excalidraw_mobile.png"
+  },
+  "structure": {
+    "title": "Excalidraw Whiteboard",
+    "url_final": "https://excalidraw.com/",
+    "nav_items": [],
+    "buttons": [
+      "OpenCmd+O",
+      "Help?",
+      "Live collaboration...",
+      "100%",
+      "Exit zen mode"
+    ],
+    "forms": [],
+    "links_count": 3,
+    "images_count": 0,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Excalidraw"
+      },
+      {
+        "level": 2,
+        "text": "Shapes"
+      },
+      {
+        "level": 2,
+        "text": "Canvas actions"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "editor-current-shape",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 20,
+    "has_og_tags": true,
+    "meta_description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+    "scripts_count": 7
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "N",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Real-time collaboration",
+      "Open source",
+      "Simple and intuitive interface"
+    ],
+    "confidence": "high"
+  }
+}

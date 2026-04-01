@@ -1,0 +1,318 @@
+{
+  "name": "dixa",
+  "url": "https://www.dixa.com",
+  "scanned_at": "2026-04-01T14:42:36.563219",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/dixa_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/dixa_mobile.png"
+  },
+  "structure": {
+    "title": "The Agentic CS Platform Behind Exceptional Ecommerce Brands",
+    "url_final": "https://www.dixa.com/",
+    "nav_items": [
+      {
+        "text": "Team HubEvery conversation, one screen",
+        "href": "/unified-agent-workspace"
+      },
+      {
+        "text": "Workflow AutomationRoute, automate, and prioritize",
+        "href": "/workflow-automation"
+      },
+      {
+        "text": "Performance & QAInsights, QA, and performance",
+        "href": "/customer-service-analytics"
+      },
+      {
+        "text": "ChannelsPhone, email, chat, social \u2013 unified",
+        "href": "/omnichannel-customer-service"
+      },
+      {
+        "text": "Mim AI AgentResolves inquiries autonomously",
+        "href": "/ai-agent"
+      },
+      {
+        "text": "Knowledge Management",
+        "href": "/knowledge-base"
+      },
+      {
+        "text": "Intelligent Routing",
+        "href": "/intelligent-routing"
+      },
+      {
+        "text": "Automation Builder",
+        "href": "/visual-workflow-builder"
+      },
+      {
+        "text": "Quality Assurance",
+        "href": "/quality-assurance"
+      },
+      {
+        "text": "Phone",
+        "href": "/voice"
+      },
+      {
+        "text": "AI Co-Pilot",
+        "href": "/product-ai-copilot"
+      },
+      {
+        "text": "Advanced Insights",
+        "href": "/advanced-insights"
+      },
+      {
+        "text": "Book a Demo",
+        "href": "/demo"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations"
+      },
+      {
+        "text": "Customer StoriesCase studies from customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Events & WebinarsLearn and connect",
+        "href": "/dixa-events"
+      },
+      {
+        "text": "BlogCX strategies & insights",
+        "href": "/blog"
+      },
+      {
+        "text": "NewsroomPress and annoucements",
+        "href": "/newsroom"
+      },
+      {
+        "text": "About DixaOur mission and team",
+        "href": "/about-us"
+      }
+    ],
+    "buttons": [
+      "Show details",
+      "Hide details",
+      "Necessary",
+      "Functional",
+      "Statistical",
+      "Unclassified",
+      "Decline all",
+      "Save settings",
+      "Accept all",
+      "Settings",
+      "Accept all",
+      "Book a Demo",
+      "Read Stories",
+      "Login",
+      "Book a demo",
+      "Login",
+      "Book a demo",
+      "Book a demo",
+      "Product tour",
+      "Read the case study",
+      "Read the case study",
+      "Read the case study",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "cf-turnstile-response",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 126,
+    "images_count": 80,
+    "images_with_alt": 47,
+    "headings": [
+      {
+        "level": 1,
+        "text": "TheAgentic CS PlatformBehindExceptionalEcommerce Brands"
+      },
+      {
+        "level": 2,
+        "text": "You control your data"
+      },
+      {
+        "level": 2,
+        "text": "Cookie policy"
+      },
+      {
+        "level": 2,
+        "text": "What is a cookie?"
+      },
+      {
+        "level": 2,
+        "text": "How our website uses cookies"
+      },
+      {
+        "level": 2,
+        "text": "How long are cookies stored?"
+      },
+      {
+        "level": 3,
+        "text": "Necessary"
+      },
+      {
+        "level": 3,
+        "text": "Functional"
+      },
+      {
+        "level": 3,
+        "text": "Statistical"
+      },
+      {
+        "level": 3,
+        "text": "Unclassified"
+      },
+      {
+        "level": 3,
+        "text": "Unified Conversations"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "cookie_cat_necessary",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "cookie_cat_functional",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "cookie_cat_statistic",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Overview",
+      "Knowledge Base",
+      "Mim AI Agent",
+      "AI Co-Pilot",
+      "Overview",
+      "Intelligent Routing",
+      "Flow Builder",
+      "Automation Builder",
+      "Overview",
+      "Quality Assurance",
+      "Intelligence",
+      "Analytics",
+      "All Channels",
+      "Phone",
+      "Email",
+      "WhatsApp",
+      "Legal Hub",
+      "Customer Stories"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 36,
+    "has_og_tags": true,
+    "meta_description": "The customer service platform for ecommerce brands. AI that resolves inquiries, agents that close the loop, and every channel in one place.",
+    "scripts_count": 29
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "U",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Unified omnichannel support",
+      "AI-driven automation",
+      "Advanced insights and analytics"
+    ],
+    "confidence": "medium"
+  }
+}

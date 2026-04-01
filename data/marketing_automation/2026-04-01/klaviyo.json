@@ -1,0 +1,215 @@
+{
+  "name": "klaviyo",
+  "url": "https://www.klaviyo.com",
+  "scanned_at": "2026-04-01T16:14:09.982530",
+  "screenshots": {
+    "desktop": "data/marketing_automation/2026-04-01/screenshots/klaviyo_desktop.png",
+    "mobile": "data/marketing_automation/2026-04-01/screenshots/klaviyo_mobile.png"
+  },
+  "structure": {
+    "title": "Klaviyo UK: AI Marketing Platform & B2C CRM | Email, SMS & WhatsApp",
+    "url_final": "https://www.klaviyo.com/uk/",
+    "nav_items": [
+      {
+        "text": "Home",
+        "href": "https://www.klaviyo.com/uk/"
+      },
+      {
+        "text": "Help Centre",
+        "href": "https://help.klaviyo.com/hc/en-us"
+      },
+      {
+        "text": "Enterprise",
+        "href": "https://www.klaviyo.com/enterprise"
+      },
+      {
+        "text": "Partners",
+        "href": "https://www.klaviyo.com/partners"
+      }
+    ],
+    "buttons": [
+      "United Kingdom -EN",
+      "United States-EN",
+      "Sign up",
+      "Watch video",
+      "United Kingdom-EN",
+      "Do Not Sell or Share My Personal Information",
+      "Cookie Settings",
+      "Skip to main content",
+      "Sign up",
+      "Get a demo",
+      "Sign up",
+      "Get a demo",
+      "Explore Marketing Agent",
+      "Explore Customer Agent",
+      "Explore the platform",
+      "Explore Marketing",
+      "Explore AI",
+      "Explore Service",
+      "Explore Analytics",
+      "Explore Data Platform",
+      "Explore the app marketplace",
+      "See pricing"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ]
+      }
+    ],
+    "links_count": 324,
+    "images_count": 125,
+    "images_with_alt": 47,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI marketing & service to grow relationships"
+      },
+      {
+        "level": 2,
+        "text": "Meet Composer"
+      },
+      {
+        "level": 2,
+        "text": "Autonomous agents that do the work"
+      },
+      {
+        "level": 2,
+        "text": "Your data, intelligence, and AI agents working as one"
+      },
+      {
+        "level": 2,
+        "text": "Fueling growth for brands that don\u2019t settle"
+      },
+      {
+        "level": 2,
+        "text": "350+ pre-built integrations"
+      },
+      {
+        "level": 3,
+        "text": "Marketing Agent"
+      },
+      {
+        "level": 3,
+        "text": "Customer Agent"
+      },
+      {
+        "level": 3,
+        "text": "Marketing that carries the conversation"
+      },
+      {
+        "level": 3,
+        "text": "AI built for every customer moment"
+      },
+      {
+        "level": 3,
+        "text": "Service that solves and sells"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email address"
+      }
+    ],
+    "footer_links": [
+      "About Klaviyo",
+      "Newsroom",
+      "Investor relations",
+      "Contact us",
+      "Careers",
+      "Agency and tech partners",
+      "Developers",
+      "Enterprise",
+      "Retail and ecommerce",
+      "Restaurants",
+      "Wellness",
+      "B2C CRM overview",
+      "Klaviyo AI",
+      "Klaviyo Marketing",
+      "Klaviyo Service",
+      "Klaviyo Analytics",
+      "Klaviyo Data Platform",
+      "Klaviyo and GDPR",
+      "Blog",
+      "Case studies"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 13,
+    "has_og_tags": true,
+    "meta_description": "Klaviyo unifies marketing and service with its AI-first B2C CRM. Try out omnichannel marketing software, powered by K:AI agents to deliver personalised experiences across email marketing, WhatsApp, an",
+    "scripts_count": 113
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven marketing automation",
+      "Comprehensive integration options",
+      "Strong focus on data privacy and compliance"
+    ],
+    "confidence": "high"
+  }
+}

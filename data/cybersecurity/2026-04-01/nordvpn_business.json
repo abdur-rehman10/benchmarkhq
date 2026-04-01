@@ -1,0 +1,201 @@
+{
+  "name": "nordvpn_business",
+  "url": "https://nordlayer.com",
+  "scanned_at": "2026-04-01T16:27:21.603062",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/nordvpn_business_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/nordvpn_business_mobile.png"
+  },
+  "structure": {
+    "title": "Network security platform for business | NordLayer",
+    "url_final": "https://nordlayer.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Features",
+        "href": "/features/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Log in",
+        "href": "https://cp.nordlayer.com/login/"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://cp.nordlayer.com/register/step/1/"
+      },
+      {
+        "text": "Request a demo",
+        "href": "/contact-sales/"
+      }
+    ],
+    "buttons": [
+      "OK, understood",
+      "Privacy controls",
+      "Platform",
+      "Resources",
+      "Partners",
+      "Log in",
+      "Sign up",
+      "Request a demo",
+      "Start now",
+      "Request a demo",
+      "Get started",
+      "Request a demo",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Start now",
+      "Request a demo"
+    ],
+    "forms": [],
+    "links_count": 65,
+    "images_count": 56,
+    "images_with_alt": 46,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Secure your network & stay compliant with one toggle-ready platform"
+      },
+      {
+        "level": 2,
+        "text": "15,000+ businesses trust NordLayer to stay secure, compliant, and in control"
+      },
+      {
+        "level": 2,
+        "text": "Built to block threats, right out of the box"
+      },
+      {
+        "level": 2,
+        "text": "Make NordLayer Browser your new security default"
+      },
+      {
+        "level": 2,
+        "text": "Future-proof technology built on the standards of NordVPN"
+      },
+      {
+        "level": 2,
+        "text": "Security that works with the tools your team already uses"
+      },
+      {
+        "level": 3,
+        "text": "SOC 2 compliant"
+      },
+      {
+        "level": 3,
+        "text": "ISO 27001 compliant"
+      },
+      {
+        "level": 3,
+        "text": "PCI-DSS compliant"
+      },
+      {
+        "level": 3,
+        "text": "HIPAA compliant"
+      },
+      {
+        "level": 3,
+        "text": "Stay compliant and stop threats"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Business VPN",
+      "ZTNA",
+      "Threat Protection",
+      "Threat Intelligence",
+      "Password Management",
+      "Business Browser",
+      "About us",
+      "Careers",
+      "Privacy Policy",
+      "Terms of Service",
+      "Data Processing Agreement",
+      "My Privacy & Cookie Choices",
+      "Windows",
+      "macOS",
+      "Linux",
+      "Browser Extension",
+      "iOS",
+      "Android",
+      "All downloads",
+      "Blog"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 41,
+    "has_og_tags": true,
+    "meta_description": "Toggle-ready cybersecurity to connect, protect, detect, and respond to network-based threats. Cloud-based future-proof technology backed by unmatched support.",
+    "scripts_count": 107
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "SOC 2, ISO 27001, PCI-DSS, and HIPAA compliance",
+      "Business VPN and ZTNA offerings",
+      "Threat Protection and Intelligence"
+    ],
+    "confidence": "high"
+  }
+}

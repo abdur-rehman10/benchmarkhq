@@ -1,0 +1,175 @@
+{
+  "name": "appsmith",
+  "url": "https://www.appsmith.com",
+  "scanned_at": "2026-04-01T16:34:20.013661",
+  "screenshots": {
+    "desktop": "data/nocode_lowcode/2026-04-01/screenshots/appsmith_desktop.png",
+    "mobile": "data/nocode_lowcode/2026-04-01/screenshots/appsmith_mobile.png"
+  },
+  "structure": {
+    "title": "Appsmith | Open-Source Low-Code Application Platform",
+    "url_final": "https://www.appsmith.com/",
+    "nav_items": [
+      {
+        "text": "Github Logo39,460Stars",
+        "href": "https://www.github.com/appsmithorg/appsmith"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Dismiss",
+      "Product",
+      "Solutions",
+      "Resources",
+      "MenuToClose 32px",
+      "Support Apps",
+      "AI Apps",
+      "IT Apps",
+      "Salesforce Apps"
+    ],
+    "forms": [],
+    "links_count": 61,
+    "images_count": 85,
+    "images_with_alt": 85,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Save100s of development hoursand 1000s of development dollars"
+      },
+      {
+        "level": 2,
+        "text": "Build custom apps80% faster"
+      },
+      {
+        "level": 2,
+        "text": "Connect"
+      },
+      {
+        "level": 2,
+        "text": "Build"
+      },
+      {
+        "level": 2,
+        "text": "Customize"
+      },
+      {
+        "level": 2,
+        "text": "Deploy and maintain"
+      },
+      {
+        "level": 3,
+        "text": "Manage variables, functions, and logic in a centralized IDE"
+      },
+      {
+        "level": 3,
+        "text": "Use prompts to generate code, not abstractions"
+      },
+      {
+        "level": 3,
+        "text": "Fully maintained open-source edition under Apache 2.0 license"
+      },
+      {
+        "level": 3,
+        "text": "Integrate with Git to collaborate, manage versions, and merge updates"
+      },
+      {
+        "level": 3,
+        "text": "Appsmith is lightweight, fast, and developer-focused. It's easy to get started."
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "sales@appsmith.com",
+      "All use cases",
+      "Admin panels",
+      "Backoffice apps",
+      "CRUD frontends",
+      "Dashboards",
+      "Portals",
+      "Trackers",
+      "All templates",
+      "Customer support",
+      "Business analytics",
+      "Inventory Dashboard",
+      "IT asset tracker",
+      "Docs",
+      "GitHub",
+      "Changelog",
+      "Status",
+      "Deployment options"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "Stop grappling with data, scouring for the perfect React library, and coding everything from scratch. Build custom software 10X faster with Appsmith.",
+    "scripts_count": 63
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open-source platform",
+      "GitHub integration",
+      "Centralized IDE for managing variables and logic",
+      "Lightweight and fast"
+    ],
+    "confidence": "medium"
+  }
+}

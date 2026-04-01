@@ -1,0 +1,203 @@
+{
+  "name": "nuclino",
+  "url": "https://www.nuclino.com",
+  "scanned_at": "2026-04-01T17:44:08.659050",
+  "screenshots": {
+    "desktop": "data/documentation/2026-04-01/screenshots/nuclino_desktop.png",
+    "mobile": "data/documentation/2026-04-01/screenshots/nuclino_mobile.png"
+  },
+  "structure": {
+    "title": "Nuclino | Your team\u2019s collective brain",
+    "url_final": "https://www.nuclino.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Why Nuclino?",
+        "href": "/product"
+      },
+      {
+        "text": "Use Cases",
+        "href": "/use-cases"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Support",
+        "href": "https://help.nuclino.com"
+      },
+      {
+        "text": "Blog",
+        "href": "https://blog.nuclino.com"
+      },
+      {
+        "text": "LOG IN",
+        "href": "https://app.nuclino.com/login"
+      },
+      {
+        "text": "GET STARTED",
+        "href": "https://app.nuclino.com/signup"
+      }
+    ],
+    "buttons": [
+      "Why Nuclino?",
+      "Use Cases",
+      "Pricing",
+      "Support",
+      "Blog",
+      "LOG IN",
+      "GET STARTED",
+      "Got it!",
+      "Why Nuclino?",
+      "Use Cases",
+      "Pricing",
+      "Support",
+      "Blog",
+      "LOG IN",
+      "GET STARTED",
+      "Why Nuclino?",
+      "Use Cases",
+      "Pricing",
+      "Support",
+      "Blog",
+      "LOG IN",
+      "GET STARTED",
+      "GET STARTED",
+      "LEARN MORE",
+      "CUSTOMER STORIES",
+      "GET STARTED",
+      "Why Nuclino?",
+      "Use Cases",
+      "Templates",
+      "Pricing"
+    ],
+    "forms": [],
+    "links_count": 59,
+    "images_count": 13,
+    "images_with_alt": 13,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Your team\u2019s collective brain"
+      },
+      {
+        "level": 2,
+        "text": "Everything in one place"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by 12,000+ teams"
+      },
+      {
+        "level": 2,
+        "text": "Ready to get started?"
+      },
+      {
+        "level": 3,
+        "text": "Unified space"
+      },
+      {
+        "level": 3,
+        "text": "Super simple"
+      },
+      {
+        "level": 3,
+        "text": "Blazingly fast"
+      },
+      {
+        "level": 3,
+        "text": "Product"
+      },
+      {
+        "level": 3,
+        "text": "Company"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "name@company.com"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "name@company.com"
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": false,
+    "meta_description": "A modern, simple, and blazingly fast way to collaborate \u2013 bring knowledge, docs, and projects together in one place.",
+    "scripts_count": 3
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Unified space for team collaboration",
+      "Super simple and fast interface",
+      "Trusted by over 12,000 teams"
+    ],
+    "confidence": "high"
+  }
+}

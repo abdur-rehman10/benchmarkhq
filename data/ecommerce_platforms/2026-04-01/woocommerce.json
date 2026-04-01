@@ -1,0 +1,253 @@
+{
+  "name": "woocommerce",
+  "url": "https://woocommerce.com",
+  "scanned_at": "2026-04-01T15:59:18.526183",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/woocommerce_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/woocommerce_mobile.png"
+  },
+  "structure": {
+    "title": "WooCommerce",
+    "url_final": "https://woocommerce.com/",
+    "nav_items": [
+      {
+        "text": "Develop on Woo",
+        "href": "https://woocommerce.com/wordpress-ecommerce/"
+      },
+      {
+        "text": "Hire an expert",
+        "href": "/development-services/"
+      },
+      {
+        "text": "Get support",
+        "href": "https://woocommerce.com/my-account/contact-support/"
+      }
+    ],
+    "buttons": [
+      "USDChange site currency USD selected",
+      "EnglishChange site language English selected",
+      "SellClick to show 11 more items",
+      "ExtensionsClick to show 18 more items",
+      "Official paymentsClick to show 7 more items",
+      "MerchandisingClick to show 11 more items",
+      "Store content and customizationsClick to show 6 mo",
+      "Shipping, delivery, and fulfillmentClick to show 6",
+      "MarketingClick to show 9 more items",
+      "ConversionClick to show 7 more items",
+      "Customer serviceClick to show 6 more items",
+      "Store managementClick to show 11 more items",
+      "ResourcesClick to show 20 more items",
+      "Close Menu",
+      "Go to search results page",
+      "Search",
+      "SellClick to show 11 more items",
+      "ExtensionsClick to show 18 more items",
+      "Official paymentsClick to show 7 more items",
+      "MerchandisingClick to show 11 more items",
+      "Store content and customizationsClick to show 6 mo",
+      "Shipping, delivery, and fulfillmentClick to show 6",
+      "MarketingClick to show 9 more items",
+      "ConversionClick to show 7 more items",
+      "Customer serviceClick to show 6 more items",
+      "Store managementClick to show 11 more items",
+      "ResourcesClick to show 20 more items",
+      "$ USD"
+    ],
+    "forms": [
+      {
+        "action": "/search/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Find extensions, themes, guides, and more"
+          },
+          {
+            "type": "hidden",
+            "name": "collections",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search/",
+        "method": "GET",
+        "fields": [
+          {
+            "type": "search",
+            "name": "q",
+            "placeholder": "Find extensions, themes, guides, and more"
+          },
+          {
+            "type": "hidden",
+            "name": "collections",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 289,
+    "images_count": 181,
+    "images_with_alt": 133,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The most flexible ecommerce platform"
+      },
+      {
+        "level": 2,
+        "text": "The most-trusted ecommerce platform"
+      },
+      {
+        "level": 2,
+        "text": "How can Woo help you?"
+      },
+      {
+        "level": 2,
+        "text": "The brands you love, love Woo"
+      },
+      {
+        "level": 2,
+        "text": "Real WooCommerce results"
+      },
+      {
+        "level": 2,
+        "text": "Take control of your success withWooCommerce"
+      },
+      {
+        "level": 3,
+        "text": "Sell with WooCommerce"
+      },
+      {
+        "level": 3,
+        "text": "Sell with WooCommerce"
+      },
+      {
+        "level": 3,
+        "text": "Build stores for others"
+      },
+      {
+        "level": 3,
+        "text": "Add new features"
+      },
+      {
+        "level": 3,
+        "text": "Nutribullet: A site that doesn\u2019t blend in"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Find extensions, themes, guides, and more"
+      },
+      {
+        "type": "hidden",
+        "name": "collections",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "placeholder": "Find extensions, themes, guides, and more"
+      },
+      {
+        "type": "hidden",
+        "name": "collections",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "WooCommerce",
+      "Payments",
+      "No-code customization",
+      "Marketing",
+      "Checkout",
+      "Shipping",
+      "Mobile app",
+      "Enterprise ecommerce",
+      "WooCommerce extensions",
+      "WooCommerce themes",
+      "New",
+      "Essentials",
+      "Collections",
+      "Developed by Woo",
+      "Woo for developers",
+      "Developer resources",
+      "Become a Woo agency",
+      "Become a Marketplace partner",
+      "Become an affiliate",
+      "Blog"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 16,
+    "has_og_tags": true,
+    "meta_description": "WooCommerce is the open-source ecommerce platform that helps merchants and developers build successful businesses for the long\u00a0term.",
+    "scripts_count": 97
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Highly customizable ecommerce platform",
+      "Wide range of extensions and themes",
+      "Strong developer community and resources"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "name": "gravity_forms",
+  "url": "https://www.gravityforms.com",
+  "scanned_at": "2026-04-01T18:07:42.713595",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/gravity_forms_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/gravity_forms_mobile.png"
+  },
+  "structure": {
+    "title": "Gravity Forms | The Best WordPress Form Plugin | Form Builder",
+    "url_final": "https://www.gravityforms.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://www.gravityforms.com/pricing/"
+      },
+      {
+        "text": "All License Plans",
+        "href": "https://www.gravityforms.com/pricing/"
+      },
+      {
+        "text": "Basic License Plan",
+        "href": "https://www.gravityforms.com/basic-license-plan/"
+      },
+      {
+        "text": "Pro License Plan",
+        "href": "https://www.gravityforms.com/pro-license-plan/"
+      },
+      {
+        "text": "Elite License Plan",
+        "href": "https://www.gravityforms.com/elite-license-plan/"
+      },
+      {
+        "text": "Nonprofit License Plan",
+        "href": "https://www.gravityforms.com/nonprofit-license/"
+      },
+      {
+        "text": "Product",
+        "href": "https://www.gravityforms.com/features/"
+      },
+      {
+        "text": "Features",
+        "href": "https://www.gravityforms.com/features/"
+      },
+      {
+        "text": "Use Our Demo",
+        "href": "https://www.gravityforms.com/gravity-forms-demo/"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://www.gravityforms.com/accessibility/"
+      },
+      {
+        "text": "Gravity Flow",
+        "href": "https://www.gravityforms.com/gravity-flow/"
+      },
+      {
+        "text": "Gravity SMTP",
+        "href": "https://www.gravityforms.com/gravity-smtp/"
+      },
+      {
+        "text": "Add-Ons",
+        "href": "https://www.gravityforms.com/add-ons/"
+      },
+      {
+        "text": "Community",
+        "href": "https://www.gravityforms.com/community/"
+      },
+      {
+        "text": "Community Forum",
+        "href": "https://community.gravityforms.com/"
+      },
+      {
+        "text": "Certified Add-Ons",
+        "href": "https://www.gravityforms.com/add-ons/?party%5B%5D=second&orderby="
+      },
+      {
+        "text": "Community Add-Ons",
+        "href": "https://www.gravityforms.com/community/add-ons/"
+      },
+      {
+        "text": "Register an Add-on",
+        "href": "https://www.gravityforms.com/add-ons-registration-maintenance/"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "More Information",
+      "Accept",
+      "Get Started",
+      "Get Started",
+      "Buy Now",
+      "View Demo",
+      "Buy Gravity Forms Now",
+      "Demo Contact Form",
+      "Demo Payment Form",
+      "Demo Survey Form",
+      "Buy Gravity Forms Now",
+      "Buy Now",
+      "Buy Now",
+      "Buy Now"
+    ],
+    "forms": [
+      {
+        "action": "https://www.gravityforms.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/#gf_138",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "input_2",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "input_1",
+            "placeholder": "Your email address"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gform_ajax",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gform_submission_speeds",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gform_submission_method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gform_theme",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gform_style_settings",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "is_submit_138",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 107,
+    "images_count": 65,
+    "images_with_alt": 61,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Powerful data capture fueled by Gravity Forms."
+      },
+      {
+        "level": 2,
+        "text": "Trusted by the biggest brands in the galaxy"
+      },
+      {
+        "level": 2,
+        "text": "One giant leap forWordPress forms\u2014 Gravity Forms helps you use your data for goo"
+      },
+      {
+        "level": 2,
+        "text": "All the tools you need to build professional forms online."
+      },
+      {
+        "level": 2,
+        "text": "Easy tomake it shine."
+      },
+      {
+        "level": 2,
+        "text": "Prepare for lift off."
+      },
+      {
+        "level": 3,
+        "text": "Visual Form Editor"
+      },
+      {
+        "level": 3,
+        "text": "Online Payment Collection"
+      },
+      {
+        "level": 3,
+        "text": "Workflow Automation"
+      },
+      {
+        "level": 3,
+        "text": "Conditional Logic"
+      },
+      {
+        "level": 3,
+        "text": "Secure Data Collection"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "input_2",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "input_1",
+        "placeholder": "Your email address"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_speeds",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_138",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "state_138",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_138",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_138",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "here",
+      "Video Library",
+      "Form Template Library",
+      "Conversational Forms Gallery",
+      "Affiliate Program",
+      "Terms and Conditions",
+      "Refund Policy",
+      "Brand Assets",
+      "Developer Documentation",
+      "Gravity Forms",
+      "Blog",
+      "Community Forums",
+      "Giving Back",
+      "Career Openings",
+      "Rocketgenius Internship 2026"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 8,
+    "has_og_tags": true,
+    "meta_description": "Create custom forms on WordPress with Gravity Forms, the easiest-to-use, secure, and reliable WordPress form builder plugin for your website.",
+    "scripts_count": 67
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "N",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Visual Form Editor",
+      "Online Payment Collection",
+      "Workflow Automation",
+      "Conditional Logic",
+      "Secure Data Collection"
+    ],
+    "confidence": "medium"
+  }
+}

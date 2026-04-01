@@ -1,0 +1,529 @@
+{
+  "name": "lacework",
+  "url": "https://www.lacework.com",
+  "scanned_at": "2026-04-01T16:25:17.099900",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/lacework_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/lacework_mobile.png"
+  },
+  "structure": {
+    "title": "Cloud-Native Application Protection Platform (CNAPP)",
+    "url_final": "https://www.fortinet.com/products/forticnapp",
+    "nav_items": [
+      {
+        "text": "FREE PRODUCT DEMO",
+        "href": "/demo-center"
+      },
+      {
+        "text": "DOWNLOADS",
+        "href": "/support/product-downloads"
+      },
+      {
+        "text": "FORTICLOUD LOGIN",
+        "href": "https://support.fortinet.com/app/common/Saml/InitiateSingleSignOn?returnurl=https%3A%2F%2Fwww.fortin"
+      },
+      {
+        "text": "USA (English)",
+        "href": "https://www.fortinet.com"
+      },
+      {
+        "text": "UK & Ireland (English)",
+        "href": "https://www.fortinet.com/uk"
+      },
+      {
+        "text": "Germany (Deutsch)",
+        "href": "https://www.fortinet.com/de"
+      },
+      {
+        "text": "France (Fran\u00e7ais)",
+        "href": "https://www.fortinet.com/fr"
+      },
+      {
+        "text": "Italy (Italiano)",
+        "href": "https://www.fortinet.com/it"
+      },
+      {
+        "text": "Mainland China(\u7b80\u4f53\u4e2d\u6587)",
+        "href": "https://www.fortinet.com/cn"
+      },
+      {
+        "text": "Taiwan (\u7e41\u9ad4\u4e2d\u6587)",
+        "href": "https://www.fortinet.com/tw"
+      },
+      {
+        "text": "Korea (\ud55c\uad6d\uc5b4)",
+        "href": "https://www.fortinet.com/kr"
+      },
+      {
+        "text": "Japan (\u65e5\u672c\u8a9e)",
+        "href": "https://www.fortinet.com/jp"
+      },
+      {
+        "text": "Brazil (Portugu\u00e9s)",
+        "href": "https://www.fortinet.com/br"
+      },
+      {
+        "text": "Latin America(Espa\u00f1ol)",
+        "href": "https://www.fortinet.com/lat"
+      }
+    ],
+    "buttons": [
+      "FREE PRODUCT DEMO",
+      "SERVICES",
+      "SUPPORT",
+      "DOWNLOADS",
+      "Products",
+      "The Fortinet Platform",
+      "More",
+      "More",
+      "More",
+      "More",
+      "More",
+      "More",
+      "Network Security",
+      "Enterprise Networking",
+      "Unified SASE",
+      "Cloud Security",
+      "Security Operations",
+      "Operational Technology",
+      "FortiGuard AI Services",
+      "Solutions",
+      "Enterprise",
+      "Small & Midsize Business",
+      "Operational Technology",
+      "Industries",
+      "Service Providers",
+      "Cloud Service Providers",
+      "Managed Services"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search"
+          },
+          {
+            "type": "hidden",
+            "name": "site",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstName",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastName",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "jobTitle",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "emailAddress",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "country",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqFormId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqSiteId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eloquaFormAction",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqFormName",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "emailAddress",
+            "placeholder": "Enter Email Address"
+          },
+          {
+            "type": "checkbox",
+            "name": "consentCheckbox",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languagecountry",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eloquaFormAction",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "HFcampaignID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "HFemailID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqSiteId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqFormId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqFormName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "memberStatus",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "emailAddress",
+            "placeholder": "Enter Email Address"
+          },
+          {
+            "type": "checkbox",
+            "name": "consentCheckbox",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "languagecountry",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "eloquaFormAction",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "HFcampaignID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "HFemailID",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqSiteId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqFormId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "elqFormName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "memberStatus",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 526,
+    "images_count": 92,
+    "images_with_alt": 50,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Cloud-Native Application Protection Platform"
+      },
+      {
+        "level": 2,
+        "text": "Introducing FortiCNAPP"
+      },
+      {
+        "level": 2,
+        "text": "Simplify and Strengthen Cloud Security"
+      },
+      {
+        "level": 2,
+        "text": "Features and Benefits"
+      },
+      {
+        "level": 2,
+        "text": "Cloud-Native Application Protection"
+      },
+      {
+        "level": 2,
+        "text": "Case Studies & Awards"
+      },
+      {
+        "level": 3,
+        "text": "Rapidly Detect and Mitigate Zero-Day Threats"
+      },
+      {
+        "level": 3,
+        "text": "Prioritize What Matters Most"
+      },
+      {
+        "level": 3,
+        "text": "Understand Which Cloud Identities Pose the Greatest Risk"
+      },
+      {
+        "level": 3,
+        "text": "Simplify and Accelerate Cloud Compliance"
+      },
+      {
+        "level": 3,
+        "text": "2025 SC Award \u2013 Best Cloud Workload Protection Solution"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search"
+      },
+      {
+        "type": "hidden",
+        "name": "site",
+        "placeholder": ""
+      },
+      {
+        "type": "range",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "firstName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "elqFormId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "elqSiteId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "eloquaFormAction",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "elqFormName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "HFcampaignID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hiddenField",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hiddenField2",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "HFemailID",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "productInterest",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "memberStatus",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "consentCheckbox",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "languagecountry",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Secure Networking",
+      "User and Device Security",
+      "Security Operations",
+      "Application Security",
+      "FortiGuard Labs Threat Intelligence",
+      "Overview",
+      "MSSP",
+      "Mobile Providers",
+      "Overview",
+      "Alliances Ecosystem",
+      "Find a Partner",
+      "Become a Partner",
+      "Partner Login",
+      "Trusted Products",
+      "Trusted Company",
+      "Trusted Process",
+      "Trusted Partners",
+      "Product Certifications",
+      "About Us",
+      "Training"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 78,
+    "has_og_tags": true,
+    "meta_description": "FortiCNAPP is the most comprehensive cloud-native application protection platform available. AI-driven and organically developed, it empowers organizations to easily secure everything from code to clo",
+    "scripts_count": 127
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Cloud-Native Application Protection Platform",
+      "FortiCNAPP",
+      "Zero-Day Threat Detection",
+      "Cloud Compliance Acceleration"
+    ],
+    "confidence": "high"
+  }
+}

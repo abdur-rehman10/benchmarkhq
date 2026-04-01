@@ -1,0 +1,331 @@
+{
+  "name": "gladly",
+  "url": "https://www.gladly.com",
+  "scanned_at": "2026-04-01T14:38:00.951730",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/gladly_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/gladly_mobile.png"
+  },
+  "structure": {
+    "title": "Customer experience AI built for LTV | Gladly",
+    "url_final": "https://www.gladly.ai/",
+    "nav_items": [
+      {
+        "text": "33days4hours21minutes52secondsCountdown to Gladly ",
+        "href": "/events/gladly-connect-live-2026/"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Schedule a live tour",
+        "href": "/get-started/"
+      },
+      {
+        "text": "Schedule a live tour",
+        "href": "/get-started/"
+      }
+    ],
+    "buttons": [
+      "Register now",
+      "Why Gladly",
+      "Product",
+      "Solutions",
+      "Resources",
+      "X",
+      "Search",
+      "Simplify experiences",
+      "Amplify devotion",
+      "Boost expectations",
+      "Increase LTV",
+      "Simplify experiencesEngage your customers with AI ",
+      "Amplify devotionBring customer intelligence to eve",
+      "Boost expectationsDon\u2019t settle for better CX. Deli",
+      "Increase LTVTurn conversations into personalized e",
+      "Get a demo",
+      "Schedule a live tour",
+      "Schedule a live tour"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "term",
+            "placeholder": "Search..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "FirstName",
+            "placeholder": "First Name*"
+          },
+          {
+            "type": "text",
+            "name": "LastName",
+            "placeholder": "Last Name*"
+          },
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": "Work Email*"
+          },
+          {
+            "type": "text",
+            "name": "Country",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "ExpressConsent",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Source__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "Company",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Medium__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Campaign__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Content__c",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      }
+    ],
+    "links_count": 50,
+    "images_count": 79,
+    "images_with_alt": 63,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The only AI built for LTV"
+      },
+      {
+        "level": 2,
+        "text": "Real resultsfrom real customers"
+      },
+      {
+        "level": 3,
+        "text": "Why Gladly"
+      },
+      {
+        "level": 3,
+        "text": "Product"
+      },
+      {
+        "level": 3,
+        "text": "Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "3x"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "term",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "placeholder": "First Name*"
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "placeholder": "Last Name*"
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": "Work Email*"
+      },
+      {
+        "type": "checkbox",
+        "name": "ExpressConsent",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Source__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "Company",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Medium__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Campaign__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Content__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Term__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "Referring_URL__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "LD_BookIt_Log_ID__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "honeypot",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "GCLID__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "formid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "munchkinId",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Platform overview",
+      "Product tour",
+      "Request demo",
+      "System status",
+      "FAQs",
+      "API reference",
+      "Implementation guides",
+      "Library",
+      "Blog",
+      "Events and webinars",
+      "Gladly Connect Live",
+      "About",
+      "Become a partner",
+      "Careers",
+      "Contact"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 21,
+    "has_og_tags": true,
+    "meta_description": "The only customer experience AI purpose-built to deliver efficient service and lasting relationships\u2014so you can grow loyalty, retention, and LTV.",
+    "scripts_count": 114
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven customer support",
+      "Focus on increasing customer lifetime value (LTV)",
+      "Comprehensive resource library"
+    ],
+    "confidence": "high"
+  }
+}

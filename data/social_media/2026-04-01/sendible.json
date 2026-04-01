@@ -1,0 +1,427 @@
+{
+  "name": "sendible",
+  "url": "https://www.sendible.com",
+  "scanned_at": "2026-04-01T17:32:44.615760",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/sendible_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/sendible_mobile.png"
+  },
+  "structure": {
+    "title": "Sendible: Social Media Management Software",
+    "url_final": "https://www.sendible.com/",
+    "nav_items": [
+      {
+        "text": "Features",
+        "href": "https://www.sendible.com/features?hsLang=en"
+      },
+      {
+        "text": "DashboardDiscover the key functionalities.",
+        "href": "https://www.sendible.com/social-media-management-dashboard?hsLang=en"
+      },
+      {
+        "text": "Social Media SchedulingPublish and schedule your c",
+        "href": "https://www.sendible.com/social-media-scheduler?hsLang=en"
+      },
+      {
+        "text": "Content ManagementEasily manage your social media ",
+        "href": "https://www.sendible.com/social-media-content-management-tool?hsLang=en"
+      },
+      {
+        "text": "Analytics and ReportingGain dynamic insights from ",
+        "href": "https://www.sendible.com/social-media-analytics?hsLang=en"
+      },
+      {
+        "text": "Team CollaborationWork seamlessly across your team",
+        "href": "https://www.sendible.com/social-media-team-collaboration-tool?hsLang=en"
+      },
+      {
+        "text": "White LabelBuild trust with clients and generate m",
+        "href": "https://www.sendible.com/white-label-social-media-management-software?hsLang=en"
+      },
+      {
+        "text": "Smart Compose BoxSchedule from a centralised compo",
+        "href": "https://www.sendible.com/features/compose-box?hsLang=en"
+      },
+      {
+        "text": "Priority InboxReply to comments and messages in on",
+        "href": "https://www.sendible.com/features/priority-inbox?hsLang=en"
+      },
+      {
+        "text": "Bulk ImportPlan months ahead and tailor your conte",
+        "href": "https://www.sendible.com/features/bulk-import?hsLang=en"
+      },
+      {
+        "text": "Custom TagsCustom tags for bulk content customisat",
+        "href": "https://www.sendible.com/features/custom-content-tags?hsLang=en"
+      },
+      {
+        "text": "UTM TrackingMonitor and analyse post performance e",
+        "href": "https://www.sendible.com/features/custom-utm-parameters?hsLang=en"
+      },
+      {
+        "text": "Content LibraryEnd content management chaos with c",
+        "href": "https://www.sendible.com/features/content-library-management-system?hsLang=en"
+      },
+      {
+        "text": "AI Assist \u2728Generate and optimise social media capt",
+        "href": "https://www.sendible.com/features/ai-assist?hsLang=en"
+      },
+      {
+        "text": "Campaign ManagementStay organised and plan ahead w",
+        "href": "https://www.sendible.com/features/campaign-management?hsLang=en"
+      },
+      {
+        "text": "Client ConnectOnboard your clients securely with c",
+        "href": "https://www.sendible.com/features/client-connect?hsLang=en"
+      },
+      {
+        "text": "Optimal TimesReach your audience easily by schedul",
+        "href": "https://www.sendible.com/features/optimal-time?hsLang=en"
+      },
+      {
+        "text": "Smart QueuesMaintain consistency with your very ow",
+        "href": "https://www.sendible.com/features/smart-queues?hsLang=en"
+      },
+      {
+        "text": "Automated ReportsNever miss a report deadline with",
+        "href": "https://www.sendible.com/features/automated-reports?hsLang=en"
+      },
+      {
+        "text": "Zapier scheduling\ud83d\ude80 Plan posts & publish to Sendibl",
+        "href": "https://www.sendible.com/integrations/zapier?hsLang=en"
+      }
+    ],
+    "buttons": [
+      "1",
+      "2",
+      "3",
+      "Features",
+      "Solutions",
+      "Resources",
+      "Why",
+      "Sign in",
+      "Book a demo",
+      "Start your free trial",
+      "Sign in",
+      "Book a demo",
+      "Start your free trial",
+      "Start your free trial",
+      "Book a demo",
+      "Start your free trial",
+      "Book a demo",
+      "Explore all integrations",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "See our impact",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more"
+    ],
+    "forms": [
+      {
+        "action": "/insights/search-results",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "term",
+            "placeholder": "Search..."
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/insights/search-results",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "term",
+            "placeholder": "Search..."
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/insights/search-results",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "term",
+            "placeholder": "Search..."
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "type",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 283,
+    "images_count": 155,
+    "images_with_alt": 149,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Manage your social media atscale."
+      },
+      {
+        "level": 1,
+        "text": "Scale your social media. Beremarkable."
+      },
+      {
+        "level": 2,
+        "text": "Our supported social media networks & integrations"
+      },
+      {
+        "level": 2,
+        "text": "What can Sendible do foryou?"
+      },
+      {
+        "level": 2,
+        "text": "Direct scheduling"
+      },
+      {
+        "level": 2,
+        "text": "An ocean of post ideas"
+      },
+      {
+        "level": 2,
+        "text": "Collaboration with clients"
+      },
+      {
+        "level": 3,
+        "text": "Louis Bettio"
+      },
+      {
+        "level": 3,
+        "text": "Rachel Axten"
+      },
+      {
+        "level": 3,
+        "text": "Anna Rump"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "term",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "term",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "term",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact us",
+      "Book a demo",
+      "Join a webinar",
+      "Dashboard",
+      "Publishing",
+      "Collaboration",
+      "Analytics",
+      "Integrations",
+      "Content Management",
+      "Share Button",
+      "Agency",
+      "Small Business"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 26,
+    "has_og_tags": true,
+    "meta_description": "Manage your social media at scale. Grow your audience, attract new customers, and reach your social media goals with an all-in-one platform.",
+    "scripts_count": 123
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Assist for content generation",
+      "White label options for agencies",
+      "Comprehensive analytics and reporting tools"
+    ],
+    "confidence": "high"
+  }
+}

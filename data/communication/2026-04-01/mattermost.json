@@ -1,0 +1,296 @@
+{
+  "name": "mattermost",
+  "url": "https://mattermost.com",
+  "scanned_at": "2026-04-01T15:50:55.912322",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/mattermost_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/mattermost_mobile.png"
+  },
+  "structure": {
+    "title": "Mattermost | Collaboration Platform for Mission Critical Work",
+    "url_final": "https://mattermost.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://mattermost.com/"
+      },
+      {
+        "text": "Platform",
+        "href": "javascript:void(0);"
+      },
+      {
+        "text": "Overview",
+        "href": "https://mattermost.com/platform-overview/"
+      },
+      {
+        "text": "Channels",
+        "href": "https://mattermost.com/channels/"
+      },
+      {
+        "text": "Playbooks",
+        "href": "https://mattermost.com/playbooks/"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://mattermost.com/integrations-overview/"
+      },
+      {
+        "text": "Mobile",
+        "href": "https://mattermost.com/mobile/"
+      },
+      {
+        "text": "AI",
+        "href": "https://mattermost.com/agents/"
+      },
+      {
+        "text": "Security",
+        "href": "https://mattermost.com/security/"
+      },
+      {
+        "text": "Trust Center",
+        "href": "https://trust.mattermost.com/"
+      },
+      {
+        "text": "MS Teams",
+        "href": "https://mattermost.com/solutions/mattermost-for-microsoft-teams/"
+      },
+      {
+        "text": "Atlassian",
+        "href": "https://mattermost.com/atlassian/"
+      },
+      {
+        "text": "GitLab",
+        "href": "https://mattermost.com/solutions/mattermost-gitlab/"
+      },
+      {
+        "text": "On-Premise",
+        "href": "https://mattermost.com/enterprise/on-prem/"
+      },
+      {
+        "text": "Cloud",
+        "href": "https://mattermost.com/enterprise/cloud/"
+      },
+      {
+        "text": "Solutions",
+        "href": "javascript:void(0);"
+      },
+      {
+        "text": "Integrated Security Operations",
+        "href": "https://mattermost.com/solutions/use-cases/integrated-security-operations/"
+      },
+      {
+        "text": "Out-of-Band Incident Response",
+        "href": "https://mattermost.com/solutions/use-cases/out-of-band-incident-response/"
+      },
+      {
+        "text": "Self-Sovereign Collaboration",
+        "href": "https://mattermost.com/solutions/use-cases/self-sovereign-collaboration/"
+      },
+      {
+        "text": "Mission-Critical ChatOps",
+        "href": "https://mattermost.com/solutions/use-cases/mission-critical-chatops/"
+      }
+    ],
+    "buttons": [
+      "Cookies Settings",
+      "Reject Optional Cookies",
+      "Allow All Cookies",
+      "Back Button",
+      "Filter Button",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Confirm My Choices",
+      "Reject Optional Cookies",
+      "Allow All Cookies",
+      "Try Mattermost",
+      "Contact Sales",
+      "Talk to an Expert",
+      "Try Mattermost",
+      "Talk to an Expert"
+    ],
+    "forms": [],
+    "links_count": 121,
+    "images_count": 58,
+    "images_with_alt": 52,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Operational Sovereignty for National Security and Critical Infrastructure"
+      },
+      {
+        "level": 2,
+        "text": "In mission-critical environments, failure is not an option."
+      },
+      {
+        "level": 2,
+        "text": "Built for real-world mission success"
+      },
+      {
+        "level": 2,
+        "text": "USAF improves mission information availability by 4x with Mattermost"
+      },
+      {
+        "level": 2,
+        "text": "Purpose-built for critical infrastructure use cases:"
+      },
+      {
+        "level": 2,
+        "text": "Designed for teams with stringent security & privacy requirements"
+      },
+      {
+        "level": 3,
+        "text": "Self Sovereign Collaboration"
+      },
+      {
+        "level": 3,
+        "text": "Integrated Security Operations"
+      },
+      {
+        "level": 3,
+        "text": "Command + Control"
+      },
+      {
+        "level": 3,
+        "text": "Out of Band Incident Response"
+      },
+      {
+        "level": 3,
+        "text": "Real-Time DevSecOps Collaboration"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About Us",
+      "Newsroom",
+      "Partners",
+      "Events",
+      "Careers",
+      "Responsible Disclosure",
+      "Brand Guidelines",
+      "Platform Overview",
+      "Channels",
+      "Playbooks",
+      "Integrations",
+      "Security",
+      "Customers",
+      "Comparison Guide",
+      "Deployment",
+      "Channels Guide",
+      "Playbooks Guide",
+      "Admin",
+      "API Reference",
+      "All Docs"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 17,
+    "has_og_tags": true,
+    "meta_description": "Accelerate your mission critical workflow by integrating people, processes, tools and AI infrastructure on a resilient and adaptable platform.",
+    "scripts_count": 27
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Operational Sovereignty",
+      "Self Sovereign Collaboration",
+      "Real-Time DevSecOps Collaboration"
+    ],
+    "confidence": "high"
+  }
+}

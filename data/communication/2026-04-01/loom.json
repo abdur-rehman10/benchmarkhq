@@ -1,0 +1,234 @@
+{
+  "name": "loom",
+  "url": "https://www.loom.com",
+  "scanned_at": "2026-04-01T15:55:19.491091",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/loom_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/loom_mobile.png"
+  },
+  "structure": {
+    "title": "Free screen recorder for Mac and PC | Loom",
+    "url_final": "https://www.loom.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://www.loom.com/login"
+      },
+      {
+        "text": "Get Loom for freeOpen in new window",
+        "href": "https://www.loom.com/signup"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "/connect/enterprise?campaign=7013i000000QYMqAAO"
+      }
+    ],
+    "buttons": [
+      "Toggle menuclose",
+      "Manage preferences",
+      "Reject all cookies",
+      "Accept all cookies",
+      "Accept all",
+      "Back Button",
+      "Filter Icon",
+      "Clear",
+      "Apply",
+      "Cancel",
+      "Reject all",
+      "Confirm my choices",
+      "Sign In",
+      "Get Loom for freeOpen in new window",
+      "Contact Sales",
+      "Get Loom for free",
+      "Install Chrome ExtensionOpen in new window",
+      "Get Loom for free"
+    ],
+    "forms": [],
+    "links_count": 89,
+    "images_count": 84,
+    "images_with_alt": 77,
+    "headings": [
+      {
+        "level": 1,
+        "text": "One video is worth a thousand words"
+      },
+      {
+        "level": 2,
+        "text": "Millions of people across 400,000 companies choose Loom"
+      },
+      {
+        "level": 2,
+        "text": "Ship faster with AI bug reports"
+      },
+      {
+        "level": 2,
+        "text": "The easiest screen recorder you\u2019ll ever use"
+      },
+      {
+        "level": 2,
+        "text": "Lightning fast screen recording"
+      },
+      {
+        "level": 2,
+        "text": "So much more than a screen recorder"
+      },
+      {
+        "level": 3,
+        "text": "Edit your videos like a pro"
+      },
+      {
+        "level": 3,
+        "text": "Share or embed video anywhere you work"
+      },
+      {
+        "level": 3,
+        "text": "Engage and connect with video"
+      },
+      {
+        "level": 3,
+        "text": "Sales"
+      },
+      {
+        "level": 3,
+        "text": "Engineering"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-4",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-3",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-2",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Pricing",
+      "loomSDK",
+      "Screen Recorder",
+      "Screenshot",
+      "Chrome Screen Recorder",
+      "Mac Screen Recorder",
+      "Windows Screen Recorder",
+      "iPhone Screen Recorder",
+      "Android Screen Recorder",
+      "Sales",
+      "Engineering",
+      "Design",
+      "Marketing",
+      "Product Management",
+      "Support",
+      "Presentation",
+      "Team Alignment",
+      "Education",
+      "Webcam Recorder",
+      "Loom AI"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 27,
+    "has_og_tags": true,
+    "meta_description": "Best free online screen recording tool with advanced video editing and video storage trusted by over 22 million people and easy sharing from Loom.com.",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI bug reports",
+      "Lightning fast screen recording",
+      "Edit and share videos easily"
+    ],
+    "confidence": "high"
+  }
+}

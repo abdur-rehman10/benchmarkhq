@@ -1,0 +1,450 @@
+{
+  "name": "celoxis",
+  "url": "https://www.celoxis.com",
+  "scanned_at": "2026-04-01T14:20:17.899119",
+  "screenshots": {
+    "desktop": "data/project_management/2026-04-01/screenshots/celoxis_desktop.png",
+    "mobile": "data/project_management/2026-04-01/screenshots/celoxis_mobile.png"
+  },
+  "structure": {
+    "title": "Celoxis: Project Management Software | PMO Tools That Deliver",
+    "url_final": "https://www.celoxis.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "./"
+      },
+      {
+        "text": "Features",
+        "href": "features"
+      },
+      {
+        "text": "Pricing",
+        "href": "pricing"
+      },
+      {
+        "text": "Compare",
+        "href": "#"
+      },
+      {
+        "text": "LiquidPlanner",
+        "href": "liquidplanner-alternative"
+      },
+      {
+        "text": "Mavenlink",
+        "href": "mavenlink-alternative"
+      },
+      {
+        "text": "Monday.com",
+        "href": "monday-alternative"
+      },
+      {
+        "text": "MS Project",
+        "href": "microsoft-project-alternative"
+      },
+      {
+        "text": "Wrike",
+        "href": "wrike-alternative"
+      },
+      {
+        "text": "Zoho Projects",
+        "href": "zoho-projects-alternative"
+      },
+      {
+        "text": "More",
+        "href": "#"
+      },
+      {
+        "text": "Integrations",
+        "href": "integrations"
+      },
+      {
+        "text": "Deployment",
+        "href": "deployment"
+      },
+      {
+        "text": "Security",
+        "href": "security"
+      },
+      {
+        "text": "Success Stories",
+        "href": "success-stories"
+      },
+      {
+        "text": "Showcase",
+        "href": "customers"
+      },
+      {
+        "text": "Reviews",
+        "href": "reviews"
+      },
+      {
+        "text": "Support",
+        "href": "customer-support"
+      },
+      {
+        "text": "Training",
+        "href": "training"
+      },
+      {
+        "text": "Remote Services",
+        "href": "remote-services"
+      }
+    ],
+    "buttons": [
+      "\u2630",
+      "Schedule Demo",
+      "Previous",
+      "Next",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "\u00d7",
+      "Get started"
+    ],
+    "forms": [
+      {
+        "action": "https://app.celoxis.com/psa/ui/ContactUs.do",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "services",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "p_u_name",
+            "placeholder": "Name"
+          },
+          {
+            "type": "text",
+            "name": "p_cm_name",
+            "placeholder": "Company"
+          },
+          {
+            "type": "email",
+            "name": "p_u_email",
+            "placeholder": "Work Email"
+          },
+          {
+            "type": "text",
+            "name": "p_u_phone",
+            "placeholder": "Country Code + Phone (Optional)"
+          },
+          {
+            "type": "hidden",
+            "name": "conversion",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "localtime",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "tz",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "tzoffset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "email_robo",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://app.celoxis.com/psa/ui/VerifyTrial.do",
+        "method": "post",
+        "fields": [
+          {
+            "type": "text",
+            "name": "p_u_name",
+            "placeholder": "Your Name"
+          },
+          {
+            "type": "email",
+            "name": "p_u_email",
+            "placeholder": "Your Business Email"
+          },
+          {
+            "type": "text",
+            "name": "p_cm_name",
+            "placeholder": "Company Name"
+          },
+          {
+            "type": "checkbox",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "localtime",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "tz",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "tzoffset",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "email_robo",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "mobile",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "videos",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 99,
+    "images_count": 107,
+    "images_with_alt": 7,
+    "headings": [
+      {
+        "level": 1,
+        "text": "AI-PoweredProject Management Software"
+      },
+      {
+        "level": 2,
+        "text": "See what\u2019s possible when AI lets you ask questions, explore trends, and make dec"
+      },
+      {
+        "level": 2,
+        "text": "More than just Project Management"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by Global Leaders"
+      },
+      {
+        "level": 2,
+        "text": "AUniqueValue Proposition"
+      },
+      {
+        "level": 2,
+        "text": "Power Packed"
+      },
+      {
+        "level": 3,
+        "text": "Make Data-Driven Decisions, Not Opinions"
+      },
+      {
+        "level": 3,
+        "text": "Schedule a personal demo"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "hidden",
+        "name": "services",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "p_u_name",
+        "placeholder": "Name"
+      },
+      {
+        "type": "text",
+        "name": "p_cm_name",
+        "placeholder": "Company"
+      },
+      {
+        "type": "email",
+        "name": "p_u_email",
+        "placeholder": "Work Email"
+      },
+      {
+        "type": "text",
+        "name": "p_u_phone",
+        "placeholder": "Country Code + Phone (Optional)"
+      },
+      {
+        "type": "hidden",
+        "name": "conversion",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "localtime",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tz",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "tzoffset",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "email_robo",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "mobile",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "videos",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "milestones",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "referrer",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hits",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "affiliate_id",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "pages",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "origin",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "medium",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 30,
+    "has_og_tags": false,
+    "meta_description": "Celoxis project management software offers AI insights, centralized visibility with unique KPIs, easy setup, & human support to streamline decision-making for PMOs.",
+    "scripts_count": 28
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered project management",
+      "Trusted by global leaders",
+      "Powerful data-driven decision-making tools"
+    ],
+    "confidence": "medium"
+  }
+}

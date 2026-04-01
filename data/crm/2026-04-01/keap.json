@@ -1,0 +1,347 @@
+{
+  "name": "keap",
+  "url": "https://keap.com",
+  "scanned_at": "2026-04-01T14:27:21.424940",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/keap_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/keap_mobile.png"
+  },
+  "structure": {
+    "title": "Small Business CRM & Automation | Keap",
+    "url_final": "https://keap.com/",
+    "nav_items": [
+      {
+        "text": "Keap, A Thryv, Inc. Brand",
+        "href": "https://keap.com"
+      },
+      {
+        "text": "See demo",
+        "href": "https://keap.com/product-demo"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://keap.com/compare/hubspot"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://keap.com/industry"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://keap.com/compare"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://keap.com/customer-stories"
+      },
+      {
+        "text": "Small business automationAutomate to save time and",
+        "href": "https://keap.com/solutions/automation"
+      },
+      {
+        "text": "Small business CRMManage your customer list",
+        "href": "https://keap.com/solutions/best-crm-for-small-businesses"
+      },
+      {
+        "text": "ReportingTrack your progress",
+        "href": "https://keap.com/solutions/reporting"
+      },
+      {
+        "text": "Dedicated mobile numberReceive calls and texts",
+        "href": "https://keap.com/solutions/keap-business-line"
+      },
+      {
+        "text": "Connect your appsIntegrate your business apps",
+        "href": "https://keap.com/solutions/integrations"
+      },
+      {
+        "text": "Marketing automationFollow up automatically with y",
+        "href": "https://keap.com/solutions/marketing-automation-examples"
+      },
+      {
+        "text": "Lead captureCollect data with landing pages and fo",
+        "href": "https://keap.com/solutions/lead-capture"
+      },
+      {
+        "text": "Lead managementStay on top of opportunities",
+        "href": "https://keap.com/solutions/lead-management-software"
+      },
+      {
+        "text": "Email marketingSend broadcasts, automations, and 1",
+        "href": "https://keap.com/solutions/email-marketing"
+      },
+      {
+        "text": "Text marketingAdd texts to automations",
+        "href": "https://keap.com/solutions/messages"
+      },
+      {
+        "text": "Sales automationAutomate sales processes",
+        "href": "https://keap.com/solutions/sales-automation"
+      },
+      {
+        "text": "Get the saleConvert and upsell clients",
+        "href": "https://keap.com/solutions/sales-pipeline"
+      },
+      {
+        "text": "Get bookedEasily schedule appointments",
+        "href": "https://keap.com/solutions/appointments"
+      },
+      {
+        "text": "Get paidInvoice customers automatically",
+        "href": "https://keap.com/solutions/invoices-payments"
+      }
+    ],
+    "buttons": [
+      "Submit",
+      "Open search",
+      "Why Keap",
+      "Solutions",
+      "Partners",
+      "Resources",
+      "Why Keap",
+      "Solutions",
+      "Partners",
+      "Resources",
+      "Submit",
+      "Get more done and save time",
+      "Nurture customers from beginning to end",
+      "Create a consistent and personal customer experien",
+      "Streamline data and tracking between softwares",
+      "Submit search",
+      "Cookies Button",
+      "Cookies Settings"
+    ],
+    "forms": [
+      {
+        "action": "https://keap.com/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "pages[query]",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "https://keap.com/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "pages[query]",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "https://keap.com/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "pages[query]",
+            "placeholder": "Search..."
+          }
+        ]
+      }
+    ],
+    "links_count": 222,
+    "images_count": 19,
+    "images_with_alt": 19,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Put Your Business Growth onAutopilot"
+      },
+      {
+        "level": 2,
+        "text": "No more manual tasks.Just automated business growth."
+      },
+      {
+        "level": 2,
+        "text": "Recommended by the best in the business"
+      },
+      {
+        "level": 2,
+        "text": "Follow up with leads, nurture customers, and scale your business with Keap's pow"
+      },
+      {
+        "level": 2,
+        "text": "Automation for your entire business"
+      },
+      {
+        "level": 2,
+        "text": "20+ years ofhelping businessesjust like yours"
+      },
+      {
+        "level": 3,
+        "text": "Jenna Kutcher"
+      },
+      {
+        "level": 3,
+        "text": "Lamar Tyler"
+      },
+      {
+        "level": 3,
+        "text": "Donald Miller"
+      },
+      {
+        "level": 3,
+        "text": "Jenna Kutcher"
+      },
+      {
+        "level": 3,
+        "text": "Lamar Tyler"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "pages[query]",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "pages[query]",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "pages[query]",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "About Keap",
+      "Thryv acquisition",
+      "Careers",
+      "Culture",
+      "Newsroom",
+      "Keap by industry",
+      "Compare Keap",
+      "Customer stories",
+      "Contact us",
+      "Appointments",
+      "Automation",
+      "CRM",
+      "Ecommerce & payments",
+      "Email marketing",
+      "Integrations",
+      "Keap Business Line",
+      "Landing pages & forms",
+      "Lead management",
+      "Reporting",
+      "Sales pipeline"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 37,
+    "has_og_tags": true,
+    "meta_description": "Keap is the leading small business CRM and automation platform built exclusively to help small businesses save time and grow without the chaos.",
+    "scripts_count": 32
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive CRM and automation tools",
+      "Strong focus on small business solutions",
+      "Integration with various business apps"
+    ],
+    "confidence": "high"
+  }
+}

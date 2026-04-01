@@ -1,0 +1,410 @@
+{
+  "name": "freshdesk",
+  "url": "https://www.freshworks.com/freshdesk/",
+  "scanned_at": "2026-04-01T14:33:31.540523",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/freshdesk_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/freshdesk_mobile.png"
+  },
+  "structure": {
+    "title": "Freshdesk: AI-powered platform for modern customer service | Freshworks",
+    "url_final": "https://www.freshworks.com/freshdesk/",
+    "nav_items": [
+      {
+        "text": "English",
+        "href": "https://www.freshworks.com/freshdesk/"
+      },
+      {
+        "text": "Deutsch",
+        "href": "https://www.freshworks.com/de/freshdesk/"
+      },
+      {
+        "text": "Nederlands",
+        "href": "https://www.freshworks.com/nl/freshdesk/"
+      },
+      {
+        "text": "Fran\u00e7ais",
+        "href": "https://www.freshworks.com/fr/freshdesk/"
+      },
+      {
+        "text": "Svenska",
+        "href": "https://www.freshworks.com/se/freshdesk/"
+      },
+      {
+        "text": "Espa\u00f1ol (Espa\u00f1a)",
+        "href": "https://www.freshworks.com/es/freshdesk/"
+      },
+      {
+        "text": "Espa\u00f1ol (Am\u00e9rica Latina)",
+        "href": "https://www.freshworks.com/latam/freshdesk/"
+      },
+      {
+        "text": "Portugu\u00eas",
+        "href": "https://www.freshworks.com/br/freshdesk/"
+      },
+      {
+        "text": "Italiano",
+        "href": "https://www.freshworks.com/it/"
+      },
+      {
+        "text": "\u7b80\u4f53\u4e2d\u6587",
+        "href": "https://www.freshworks.com/cn/"
+      },
+      {
+        "text": "\u7e41\u9ad4\u4e2d\u6587",
+        "href": "https://www.freshworks.com/hk/"
+      },
+      {
+        "text": "\u65e5\u672c\u8a9e",
+        "href": "https://www.freshworks.com/jp/"
+      },
+      {
+        "text": "\ud55c\uad6d\uc5b4",
+        "href": "https://www.freshworks.com/ko/"
+      },
+      {
+        "text": "Polski",
+        "href": "https://www.freshworks.com/pl/"
+      },
+      {
+        "text": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+        "href": "https://www.freshworks.com/th/"
+      },
+      {
+        "text": "T\u00fcrk\u00e7e",
+        "href": "https://www.freshworks.com/tr/"
+      },
+      {
+        "text": "Ti\u1ebfng Vi\u1ec7t",
+        "href": "https://www.freshworks.com/vi/"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "https://www.freshworks.com/contact/"
+      },
+      {
+        "text": "Login",
+        "href": "https://login.freshworks.com/email-login/"
+      }
+    ],
+    "buttons": [
+      "What's new",
+      "Why Freshdesk",
+      "Freddy AI",
+      "Testimonials",
+      "Capabilities",
+      "Auto-resolve issues with AI agents",
+      "Be resolution ready with a single workspace",
+      "Work smarter with AI Copilot and AI Insights",
+      "Streamline every queue, every time",
+      "Preferences",
+      "Accept all",
+      "Back ButtonAdvertising Cookies",
+      "Filter Button",
+      "Clear Filters",
+      "Apply",
+      "Confirm My Choices",
+      "Allow All",
+      "Submit",
+      "Start new trial",
+      "Click for sound"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "first-name",
+            "placeholder": "Enter your first name"
+          },
+          {
+            "type": "text",
+            "name": "last-name",
+            "placeholder": "Enter your last name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Please enter your work email"
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": "Enter your company"
+          },
+          {
+            "type": "text",
+            "name": "webinar-slot",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "disclaimer-checkbox",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "consent-checkbox",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "freshmarketer_event_input.source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "freshmarketer_event_input.engagement_status",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "freshmarketer_event_input.product",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 104,
+    "images_count": 113,
+    "images_with_alt": 61,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Customer service that puts people first"
+      },
+      {
+        "level": 2,
+        "text": "Introducing Vertical AI Agents and a new customer service home"
+      },
+      {
+        "level": 2,
+        "text": "Seamless support. Smarter agents. Faster resolutions."
+      },
+      {
+        "level": 2,
+        "text": "Meet\u00a0Freddy AI"
+      },
+      {
+        "level": 2,
+        "text": "Join 74,000+ companies uncomplicating customer service"
+      },
+      {
+        "level": 3,
+        "text": "Omnichannel customer service"
+      },
+      {
+        "level": 3,
+        "text": "Freshdesk Command Center"
+      },
+      {
+        "level": 3,
+        "text": "Advanced ticketing"
+      },
+      {
+        "level": 3,
+        "text": "Freddy AI Agent"
+      },
+      {
+        "level": 3,
+        "text": "Freddy AI Copilot"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0001",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "first-name",
+        "placeholder": "Enter your first name"
+      },
+      {
+        "type": "text",
+        "name": "last-name",
+        "placeholder": "Enter your last name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Please enter your work email"
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": "Enter your company"
+      },
+      {
+        "type": "text",
+        "name": "webinar-slot",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "disclaimer-checkbox",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "consent-checkbox",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "freshmarketer_event_input.source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "freshmarketer_event_input.engagement_status",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "freshmarketer_event_input.product",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "freshmarketer_event_input.marketing_campaign",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact Us",
+      "sales@freshworks.com",
+      "About",
+      "Leadership",
+      "Investors",
+      "Careers",
+      "Customers",
+      "Partners",
+      "Events",
+      "Insights & Trends",
+      "Newsroom",
+      "Contact",
+      "Support",
+      "Training & Certification",
+      "Services",
+      "Student Academy",
+      "Community",
+      "What\u2019s New",
+      "Freshservice",
+      "Freshservice for MSPs"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 150,
+    "has_og_tags": true,
+    "meta_description": "Freshdesk is an AI-powered customer service solution that\u2019s easy to set up, simple to use, and built to boost agent productivity and deliver seamless customer experiences. Try it free!",
+    "scripts_count": 86
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered customer service",
+      "Freddy AI for automation",
+      "Omnichannel support",
+      "Advanced ticketing system"
+    ],
+    "confidence": "high"
+  }
+}

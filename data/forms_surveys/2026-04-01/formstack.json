@@ -1,0 +1,461 @@
+{
+  "name": "formstack",
+  "url": "https://www.formstack.com",
+  "scanned_at": "2026-04-01T18:05:07.984820",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/formstack_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/formstack_mobile.png"
+  },
+  "structure": {
+    "title": "Secure and Easy-to-use Form Building Software | Formstack",
+    "url_final": "https://www.formstack.com/",
+    "nav_items": [
+      {
+        "text": "Learn about CLM",
+        "href": "https://www.intellistack.com/platform/clm?__hstc=81470344.4d882a67c11916ca539a4760b84bd647.177505591"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "FormsEnhance data collection to data workflows wit",
+        "href": "/products/online-forms"
+      },
+      {
+        "text": "DocumentsAutomate revenue-generating documents and",
+        "href": "/products/documents"
+      },
+      {
+        "text": "SignCollect digital signatures easily and securely",
+        "href": "/products/sign"
+      },
+      {
+        "text": "Intellistack StreamlineMarket-first process automa",
+        "href": "https://www.intellistack.com/?__hstc=81470344.4d882a67c11916ca539a4760b84bd647.1775055911703.1775055"
+      },
+      {
+        "text": "SuiteFormstack\u2019s all-in-one solution for online fo",
+        "href": "/products/suite"
+      },
+      {
+        "text": "Formstack for Software VendorsAdd secure forms, do",
+        "href": "/isv-partner"
+      },
+      {
+        "text": "Forms for SalesforceSecurely collect and manage da",
+        "href": "/products/forms-for-salesforce"
+      },
+      {
+        "text": "Documents for SalesforceRobust document generation",
+        "href": "/products/documents-for-salesforce"
+      },
+      {
+        "text": "Schedule a DemoWe'll help you choose the right sol",
+        "href": "/contact-sales"
+      },
+      {
+        "text": "Solutions",
+        "href": "#"
+      },
+      {
+        "text": "Healthcare",
+        "href": "https://www.formstack.com/industry/healthcare"
+      },
+      {
+        "text": "Patient Onboarding",
+        "href": "https://www.formstack.com/solutions/patient-onboarding"
+      },
+      {
+        "text": "HIPAA Data Security",
+        "href": "https://www.formstack.com/solutions/hipaa-data-security"
+      },
+      {
+        "text": "Healthcare Marketing",
+        "href": "https://www.formstack.com/solutions/healthcare-marketing"
+      },
+      {
+        "text": "Financial Services",
+        "href": "https://www.formstack.com/industry/financial-services"
+      },
+      {
+        "text": "Claims & Reports",
+        "href": "https://www.formstack.com/solutions/claims-reports"
+      },
+      {
+        "text": "Salesforce Automation",
+        "href": "https://www.formstack.com/solutions/salesforce-financial-services-automation"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Manage Preferences",
+      "Close Cookie Preferences",
+      "Sign In",
+      "Talk to Sales",
+      "Sign In",
+      "Talk to Sales",
+      "Talk to Sales",
+      "Talk to Sales",
+      "Get a Custom Demo",
+      "Request a Demo",
+      "Speak with an Expert",
+      "Speak with Our Team",
+      "Start Building For Free",
+      "Browse 100+ Integrations",
+      "Become a Partner",
+      "Talk to Sales",
+      "Start Your Free Trial"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "query",
+            "placeholder": "Search"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "/search",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "query",
+            "placeholder": "Search"
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/47598483/1877169c-26b5-42",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "firstname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastname",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "customer_survey_company_size__c",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "what_can_we_help_you_with_today_",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "source_detail__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "lead_source_",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "leadsource",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "gclid__c",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 194,
+    "images_count": 156,
+    "images_with_alt": 35,
+    "headings": [
+      {
+        "level": 1,
+        "text": "No code. No hassle. Just powerful forms and workflows."
+      },
+      {
+        "level": 1,
+        "text": "Build Smarter Forms. Create Better Documents.Capture Every Signature."
+      },
+      {
+        "level": 1,
+        "text": "Simplify everything from Data Capture to Signature."
+      },
+      {
+        "level": 1,
+        "text": "Forms, Docs, and Sign.Designed to Work Together."
+      },
+      {
+        "level": 1,
+        "text": "Progress Shouldn\u2019tWait on Paperwork."
+      },
+      {
+        "level": 2,
+        "text": "Save hours with the world's easiest-to-use forms builder."
+      },
+      {
+        "level": 2,
+        "text": "Get up and running in minutes"
+      },
+      {
+        "level": 2,
+        "text": "Integrate Formstack with your business tools"
+      },
+      {
+        "level": 2,
+        "text": "Partner with Formstack"
+      },
+      {
+        "level": 2,
+        "text": "Take control of yourdata with Formstack"
+      },
+      {
+        "level": 3,
+        "text": "Foster rapid innovation"
+      },
+      {
+        "level": 3,
+        "text": "Seamless system integration"
+      },
+      {
+        "level": 3,
+        "text": "Maintain clean data"
+      },
+      {
+        "level": 3,
+        "text": "We go beyond forms"
+      },
+      {
+        "level": 3,
+        "text": "Start a free14-day trial"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "query",
+        "placeholder": "Search"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "placeholder": "Search"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "source_detail__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source_",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "leadsource",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gclid__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "oddjob",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "country_",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "inferred_product_interest__c",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Forms",
+      "Documents",
+      "Sign",
+      "Formstack Suite",
+      "Forms for Salesforce",
+      "Docs for Salesforce",
+      "Integrations",
+      "Pricing",
+      "Resource Center",
+      "Templates",
+      "Blog",
+      "Site Map",
+      "Help Center",
+      "Find a Partner",
+      "Release Notes",
+      "Developers and API",
+      "Documents API"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 20,
+    "has_og_tags": true,
+    "meta_description": "Formstack empowers your organization with the tools to build online forms, collect information, integrate systems, automate work, and transform data into your most strategic asset.",
+    "scripts_count": 76
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "No-code form builder",
+      "Integration with Salesforce",
+      "Digital signature collection",
+      "Automated document generation"
+    ],
+    "confidence": "high"
+  }
+}

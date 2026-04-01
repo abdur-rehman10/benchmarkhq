@@ -1,0 +1,137 @@
+{
+  "name": "twingate",
+  "url": "https://www.twingate.com",
+  "scanned_at": "2026-04-01T16:28:08.227727",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/twingate_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/twingate_mobile.png"
+  },
+  "structure": {
+    "title": "Twingate:\u00a0It's time to ditch your VPN",
+    "url_final": "https://www.twingate.com/",
+    "nav_items": [],
+    "buttons": [],
+    "forms": [],
+    "links_count": 242,
+    "images_count": 186,
+    "images_with_alt": 3,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Security, Performance,Simplicity.Pick Three."
+      },
+      {
+        "level": 2,
+        "text": "The Twingate Zero Trust Platform"
+      },
+      {
+        "level": 2,
+        "text": "Remote access built for the modern workforce"
+      },
+      {
+        "level": 2,
+        "text": "Secure internet access from anywhere"
+      },
+      {
+        "level": 2,
+        "text": "Identity-Aware Access at Every Layer"
+      },
+      {
+        "level": 2,
+        "text": "Powerful security deployed in minutes"
+      },
+      {
+        "level": 3,
+        "text": "Identity-based access for users, services, and AI agents that deploys in minutes"
+      },
+      {
+        "level": 3,
+        "text": "Blend uses Opal and Twingate to implement a holistic Zero Trust strategy"
+      },
+      {
+        "level": 3,
+        "text": "Twingate helps Kooapps to create mobile games enjoyed by millions"
+      },
+      {
+        "level": 3,
+        "text": "MHC Software reduces their attack surface and powers automation with Twingate"
+      },
+      {
+        "level": 3,
+        "text": "How to Run Claude Code from Your Phone with Twingate, Termius, and tmux"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 9,
+    "has_og_tags": true,
+    "meta_description": "Identity-based access for users, services, and AI agents that deploys in minutes, scales to every resource, and finally lets you retire your VPN.",
+    "scripts_count": 51
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Zero Trust Network Access",
+      "Identity-Aware Access",
+      "Quick Deployment",
+      "Remote Access Optimization"
+    ],
+    "confidence": "high"
+  }
+}

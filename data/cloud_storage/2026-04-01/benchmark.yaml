@@ -1,0 +1,194 @@
+metadata:
+  industry: cloud_storage
+  name: Cloud Storage & Files SaaS
+  category: Storage
+  version: 1.0.0
+  generated_at: '2026-04-01T18:00:51.103314'
+  sites_analyzed: 30
+  sites:
+  - dropbox
+  - google_drive
+  - box
+  - onedrive
+  - pcloud
+  - synccom
+  - tresorit
+  - mega
+  - icloud
+  - backblaze
+  - wasabi
+  - cloudinary
+  - uploadcare
+  - filestack
+  - wetransfer
+  - internxt
+  - filen
+  - nextcloud
+  - owncloud
+  - seafile
+  - egnyte
+  - citrix_sharefile
+  - hightail
+  - canto
+  - bynder
+  - brandfolder
+  - air
+  - playbook
+  - notion
+  - loom_library
+features:
+  critical:
+  - id: pricing_page
+    frequency: 30/30
+    percent: 100
+  - id: multiple_tiers
+    frequency: 30/30
+    percent: 100
+  - id: annual_discount
+    frequency: 22/30
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 24/30
+    percent: 100
+  - id: enterprise_tier
+    frequency: 28/30
+    percent: 97
+  - id: privacy_policy
+    frequency: 28/30
+    percent: 97
+  - id: terms_of_service
+    frequency: 28/30
+    percent: 97
+  - id: multi_language
+    frequency: 23/30
+    percent: 96
+  - id: cookie_consent
+    frequency: 26/30
+    percent: 93
+  - id: gdpr_mentioned
+    frequency: 23/30
+    percent: 88
+  - id: free_trial
+    frequency: 25/30
+    percent: 86
+  - id: contact_page
+    frequency: 24/30
+    percent: 86
+  - id: security_page
+    frequency: 22/30
+    percent: 85
+  - id: ios_app
+    frequency: 22/30
+    percent: 85
+  required:
+  - id: android_app
+    frequency: 21/30
+    percent: 84
+  - id: feature_comparison_table
+    frequency: 20/30
+    percent: 83
+  - id: about_page
+    frequency: 24/30
+    percent: 83
+  - id: desktop_app
+    frequency: 20/30
+    percent: 80
+  - id: product_screenshots
+    frequency: 22/30
+    percent: 79
+  - id: help_center
+    frequency: 21/30
+    percent: 78
+  - id: integrations_page
+    frequency: 20/30
+    percent: 74
+  - id: transparent_pricing
+    frequency: 22/30
+    percent: 73
+  - id: free_tier
+    frequency: 22/30
+    percent: 73
+  - id: customer_logos
+    frequency: 18/30
+    percent: 69
+  - id: blog
+    frequency: 19/30
+    percent: 68
+  - id: api_documentation
+    frequency: 19/30
+    percent: 68
+  - id: case_studies
+    frequency: 17/30
+    percent: 65
+  recommended:
+  - id: careers_page
+    frequency: 17/30
+    percent: 63
+  - id: video_demo
+    frequency: 15/30
+    percent: 60
+  - id: community_forum
+    frequency: 13/30
+    percent: 57
+  - id: github_presence
+    frequency: 14/30
+    percent: 54
+  - id: sdk_available
+    frequency: 13/30
+    percent: 52
+  - id: developer_portal
+    frequency: 12/30
+    percent: 50
+  - id: status_page
+    frequency: 12/30
+    percent: 48
+  - id: code_examples
+    frequency: 12/30
+    percent: 48
+  - id: interactive_demo
+    frequency: 12/30
+    percent: 48
+  - id: webhooks_support
+    frequency: 11/30
+    percent: 46
+  - id: dpa_available
+    frequency: 10/30
+    percent: 45
+  - id: onboarding_video
+    frequency: 10/30
+    percent: 45
+  - id: templates_available
+    frequency: 10/30
+    percent: 43
+  nice_to_have:
+  - id: soc2_mentioned
+    frequency: 9/30
+    percent: 39
+  - id: iso27001_mentioned
+    frequency: 9/30
+    percent: 39
+  - id: live_chat
+    frequency: 9/30
+    percent: 39
+  - id: browser_extension
+    frequency: 9/30
+    percent: 39
+  - id: changelog
+    frequency: 10/30
+    percent: 38
+  - id: social_signup
+    frequency: 7/30
+    percent: 32
+  - id: sla_published
+    frequency: 6/30
+    percent: 26
+  - id: api_playground
+    frequency: 5/30
+    percent: 22
+  - id: openapi_spec
+    frequency: 5/30
+    percent: 22
+  innovative:
+  - id: roi_calculator
+    frequency: 2/30
+    percent: 9

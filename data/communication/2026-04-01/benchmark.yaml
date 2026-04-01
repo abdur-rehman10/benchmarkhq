@@ -1,0 +1,194 @@
+metadata:
+  industry: communication
+  name: Communication & Chat SaaS
+  category: Collaboration
+  version: 1.0.0
+  generated_at: '2026-04-01T15:58:30.110463'
+  sites_analyzed: 30
+  sites:
+  - slack
+  - microsoft_teams
+  - discord
+  - zoom
+  - google_meet
+  - lark
+  - twist
+  - rocketchat
+  - mattermost
+  - element
+  - zulip
+  - pumble
+  - chanty
+  - flock
+  - wire
+  - signal
+  - webex
+  - goto_meeting
+  - around
+  - whereby
+  - gather
+  - loom
+  - tandem
+  - vowel
+  - krisp
+  - otterai
+  - firefliesai
+  - tl;dv
+  - grain
+  - claap
+features:
+  critical:
+  - id: privacy_policy
+    frequency: 25/27
+    percent: 100
+  - id: terms_of_service
+    frequency: 24/27
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 24/27
+    percent: 100
+  - id: pricing_page
+    frequency: 26/27
+    percent: 96
+  - id: multiple_tiers
+    frequency: 25/27
+    percent: 96
+  - id: enterprise_tier
+    frequency: 24/27
+    percent: 96
+  - id: annual_discount
+    frequency: 22/27
+    percent: 96
+  - id: product_screenshots
+    frequency: 26/27
+    percent: 96
+  - id: ios_app
+    frequency: 23/27
+    percent: 92
+  - id: android_app
+    frequency: 23/27
+    percent: 92
+  - id: free_tier
+    frequency: 24/27
+    percent: 89
+  - id: cookie_consent
+    frequency: 22/27
+    percent: 88
+  - id: integrations_page
+    frequency: 22/27
+    percent: 85
+  required:
+  - id: multi_language
+    frequency: 21/27
+    percent: 84
+  - id: feature_comparison_table
+    frequency: 20/27
+    percent: 83
+  - id: free_trial
+    frequency: 22/27
+    percent: 81
+  - id: desktop_app
+    frequency: 20/27
+    percent: 80
+  - id: help_center
+    frequency: 21/27
+    percent: 78
+  - id: blog
+    frequency: 19/27
+    percent: 73
+  - id: transparent_pricing
+    frequency: 18/27
+    percent: 72
+  - id: security_page
+    frequency: 18/27
+    percent: 72
+  - id: api_documentation
+    frequency: 18/27
+    percent: 72
+  - id: customer_logos
+    frequency: 18/27
+    percent: 69
+  - id: gdpr_mentioned
+    frequency: 17/27
+    percent: 68
+  - id: contact_page
+    frequency: 16/27
+    percent: 67
+  recommended:
+  - id: careers_page
+    frequency: 16/27
+    percent: 64
+  - id: about_page
+    frequency: 16/27
+    percent: 62
+  - id: github_presence
+    frequency: 14/27
+    percent: 56
+  - id: status_page
+    frequency: 13/27
+    percent: 54
+  - id: community_forum
+    frequency: 14/27
+    percent: 54
+  - id: interactive_demo
+    frequency: 13/27
+    percent: 52
+  - id: video_demo
+    frequency: 12/27
+    percent: 50
+  - id: developer_portal
+    frequency: 12/27
+    percent: 50
+  - id: sdk_available
+    frequency: 12/27
+    percent: 50
+  - id: webhooks_support
+    frequency: 12/27
+    percent: 50
+  - id: code_examples
+    frequency: 12/27
+    percent: 50
+  - id: changelog
+    frequency: 12/27
+    percent: 48
+  - id: case_studies
+    frequency: 11/27
+    percent: 46
+  - id: social_signup
+    frequency: 11/27
+    percent: 46
+  - id: soc2_mentioned
+    frequency: 10/27
+    percent: 42
+  - id: onboarding_video
+    frequency: 10/27
+    percent: 42
+  nice_to_have:
+  - id: dpa_available
+    frequency: 9/27
+    percent: 38
+  - id: templates_available
+    frequency: 9/27
+    percent: 38
+  - id: live_chat
+    frequency: 9/27
+    percent: 38
+  - id: browser_extension
+    frequency: 9/27
+    percent: 38
+  - id: api_playground
+    frequency: 8/27
+    percent: 35
+  - id: openapi_spec
+    frequency: 8/27
+    percent: 35
+  - id: sla_published
+    frequency: 8/27
+    percent: 35
+  - id: iso27001_mentioned
+    frequency: 7/27
+    percent: 30
+  - id: roi_calculator
+    frequency: 4/27
+    percent: 17
+  innovative: []

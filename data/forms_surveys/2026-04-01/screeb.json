@@ -1,0 +1,287 @@
+{
+  "name": "screeb",
+  "url": "https://screeb.app",
+  "scanned_at": "2026-04-01T18:09:46.919314",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/screeb_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/screeb_mobile.png"
+  },
+  "structure": {
+    "title": "Screeb - User Feedback, Session Replays, Product Tours and User Insights",
+    "url_final": "https://screeb.app/",
+    "nav_items": [
+      {
+        "text": "Observe",
+        "href": "/solutions/observe"
+      },
+      {
+        "text": "Ask",
+        "href": "/solutions/ask"
+      },
+      {
+        "text": "Analyze with AI",
+        "href": "/solutions/analyze-with-ai"
+      },
+      {
+        "text": "Guide",
+        "href": "/solutions/guide"
+      },
+      {
+        "text": "User Onboarding",
+        "href": "https://screeb.app/use-case/user-onboarding"
+      },
+      {
+        "text": "User Feedback",
+        "href": "https://screeb.app/use-case/user-feedback"
+      },
+      {
+        "text": "User Engagement",
+        "href": "https://screeb.app/use-case/user-engagement"
+      },
+      {
+        "text": "User Analytics",
+        "href": "https://screeb.app/use-case/user-analytics"
+      },
+      {
+        "text": "Product Manager",
+        "href": "/team/product"
+      },
+      {
+        "text": "Voice of Customer Manager",
+        "href": "/team/voice-of-customer"
+      },
+      {
+        "text": "Customer Experience Manager",
+        "href": "/team/customer-experience"
+      },
+      {
+        "text": "Session ReplaysUnderstand every user interaction w",
+        "href": "/solutions/session-replays"
+      },
+      {
+        "text": "Funnel AnalysisGain deep insights into your custom",
+        "href": "/solutions/funnel-analysis"
+      },
+      {
+        "text": "SurveysUnlock the power of customer feedback to re",
+        "href": "/solutions/surveys"
+      },
+      {
+        "text": "AI Reports & AnalysisLeverage AI to quickly decode",
+        "href": "/solutions/ai-reports-analysis"
+      },
+      {
+        "text": "Product ToursStreamline user onboarding and drive ",
+        "href": "/solutions/product-tours"
+      },
+      {
+        "text": "Release ManagementLog, track, and measure the impa",
+        "href": "/solutions/release-management"
+      },
+      {
+        "text": "User Interview RecruitmentDeliver better products,",
+        "href": "/solutions/recruitment-user-interviews"
+      },
+      {
+        "text": "Privacy & GDPRDeliver better experiences while res",
+        "href": "https://screeb.app/gdpr-privacy"
+      },
+      {
+        "text": "Segment",
+        "href": "/integrations/segment"
+      }
+    ],
+    "buttons": [
+      "Deny",
+      "Accept",
+      "Deny",
+      "Accept",
+      "Reject all cookies",
+      "Allow all cookies",
+      "Save preferences",
+      "See all case studies",
+      "See collection",
+      "Try for Free",
+      "Get a Demo",
+      "Start Free Trial",
+      "Get a demo",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Start Free Trial",
+      "Get a demo",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "checkbox",
+            "name": "marketing-2",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "personalization-2",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "analytics-2",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 114,
+    "images_count": 83,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn Your [A I] Products intoMeasurable Impact"
+      },
+      {
+        "level": 2,
+        "text": "Over 2,000 teams in 35+ countries rely on Screeb to elevate user experiences."
+      },
+      {
+        "level": 2,
+        "text": "Understand & Guide your Users.\u00a0Make Faster, Better Decisions.\u00a0Increase Impact."
+      },
+      {
+        "level": 2,
+        "text": "AI is Transforming User Experience.Embrace This Change and Maximise Impact."
+      },
+      {
+        "level": 2,
+        "text": "Built for Teams Who CareAboutUser Experience"
+      },
+      {
+        "level": 2,
+        "text": "The All-In-One Platformto build product experiences your users will love"
+      },
+      {
+        "level": 3,
+        "text": "Measure Agents Adoption & Impact"
+      },
+      {
+        "level": 3,
+        "text": "Link Satisfaction to AI Features"
+      },
+      {
+        "level": 3,
+        "text": "Measure Success of ChatGPT Apps"
+      },
+      {
+        "level": 3,
+        "text": "10x Adoption of your AI Agents"
+      },
+      {
+        "level": 3,
+        "text": "In-App Surveys & User Feedback"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 21,
+    "has_og_tags": true,
+    "meta_description": "Screeb brings everything you need to elevate the product experience \u2014 observe user behavior through session replays, gather insights with surveys, analyze data with AI, and guide users with product to",
+    "scripts_count": 27
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "Y",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven user insights",
+      "Session replays",
+      "Product tours",
+      "User feedback collection"
+    ],
+    "confidence": "medium"
+  }
+}

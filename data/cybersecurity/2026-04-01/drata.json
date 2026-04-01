@@ -1,0 +1,241 @@
+{
+  "name": "drata",
+  "url": "https://drata.com",
+  "scanned_at": "2026-04-01T16:24:28.035786",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/drata_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/drata_mobile.png"
+  },
+  "structure": {
+    "title": "The Agentic Trust Management Platform | Drata",
+    "url_final": "https://drata.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "/contact-sales"
+      },
+      {
+        "text": "Log In to Drata",
+        "href": "https://app.drata.com/login"
+      },
+      {
+        "text": "Log In to SafeBase",
+        "href": "https://app.safebase.io/api/auth/login"
+      },
+      {
+        "text": "Get Started",
+        "href": "/demo"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Solutions",
+      "Customers",
+      "Partners",
+      "Resources",
+      "Company",
+      "Sign In",
+      "Get Started",
+      "Enterprise GRC",
+      "Compliance Automation",
+      "Trust Center",
+      "Questionnaire Automation",
+      "Third-Party Risk",
+      "Get a Demo",
+      "PRODUCTS",
+      "FRAMEWORKS",
+      "RESOURCES",
+      "COMPANY",
+      "TRUST",
+      "Get Started",
+      "Deploy Enterprise GRC",
+      "Engage Compliance Autopilot",
+      "Transmit Trust",
+      "Boost Questionnaire Velocity",
+      "Scan Vendor Risk",
+      "See the Proof",
+      "Explore 30+ Pre-Mapped Frameworks"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter Your Email*"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter Your Email*"
+          }
+        ]
+      }
+    ],
+    "links_count": 79,
+    "images_count": 69,
+    "images_with_alt": 44,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Explore the World of Agentic Trust"
+      },
+      {
+        "level": 2,
+        "text": "The Agentic Trust Management Platform"
+      },
+      {
+        "level": 2,
+        "text": "Proven in High-Stakes Missions"
+      },
+      {
+        "level": 2,
+        "text": "Support for Every Orbit"
+      },
+      {
+        "level": 2,
+        "text": "Your Mission Control for Continuous Trust"
+      },
+      {
+        "level": 2,
+        "text": "Designed for Every\u2028Stage of Flight"
+      },
+      {
+        "level": 3,
+        "text": "Deploy Enterprise-Grade GRC with AI Automation"
+      },
+      {
+        "level": 3,
+        "text": "Engage Continuous Compliance on AI Autopilot"
+      },
+      {
+        "level": 3,
+        "text": "Transmit AI-Fueled Customer Assurance"
+      },
+      {
+        "level": 3,
+        "text": "Boost Questionnaire Responses with AI Agents"
+      },
+      {
+        "level": 3,
+        "text": "Activate Agentic Third-Party Risk Management"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter Your Email*"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter Your Email*"
+      }
+    ],
+    "footer_links": [
+      "Agentic Platform",
+      "Enterprise GRC",
+      "Compliance Automation",
+      "Trust Center",
+      "AI Questionnaire Assistance",
+      "Third-Party Risk Management",
+      "Drata AI",
+      "Integrations",
+      "Drata Help Center",
+      "SafeBase Help Center",
+      "SOC 2",
+      "ISO 27001",
+      "GDPR",
+      "HIPAA",
+      "ISO 42001",
+      "DORA",
+      "FedRAMP",
+      "PCI DSS",
+      "Custom Frameworks",
+      "All Frameworks"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 17,
+    "has_og_tags": true,
+    "meta_description": "Drata\u2019s AI-native compliance automation & agentic trust management platform powers GRC and assurance (GRC +A) for startups, mid-size businesses, & enterprises.",
+    "scripts_count": 232
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Agentic Trust Management Platform",
+      "AI Automation for GRC",
+      "Continuous Compliance",
+      "Third-Party Risk Management"
+    ],
+    "confidence": "high"
+  }
+}

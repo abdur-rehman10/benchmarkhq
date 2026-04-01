@@ -1,0 +1,355 @@
+{
+  "name": "wiz",
+  "url": "https://www.wiz.io",
+  "scanned_at": "2026-04-01T16:25:41.005409",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/wiz_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/wiz_mobile.png"
+  },
+  "structure": {
+    "title": "Wiz: #1 Cloud Security Software for Modern Cloud Protection",
+    "url_final": "https://www.wiz.io/",
+    "nav_items": [
+      {
+        "text": "Sign in",
+        "href": "https://app.wiz.io/login"
+      },
+      {
+        "text": "Experiencing an incident?",
+        "href": "/experiencing-an-incident"
+      }
+    ],
+    "buttons": [
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Customers",
+      "Company",
+      "Submit",
+      "Get a demo",
+      "Code",
+      "Cloud",
+      "Defend",
+      "Previous slide",
+      "Next slide"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "firstName",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "lastName",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "Person_Country__c",
+            "placeholder": ""
+          },
+          {
+            "type": "tel",
+            "name": "phone",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "marketingOptIn",
+            "placeholder": ""
+          },
+          {
+            "type": "checkbox",
+            "name": "formSubscribe",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "Last_Touch_Detail__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "UTM_Campaign__c",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Your work email here"
+          }
+        ]
+      }
+    ],
+    "links_count": 78,
+    "images_count": 180,
+    "images_with_alt": 89,
+    "headings": [
+      {
+        "level": 1,
+        "text": "ProtectEverythingYou Build and Run"
+      },
+      {
+        "level": 1,
+        "text": "Schedule a call with a Wiz expert"
+      },
+      {
+        "level": 1,
+        "text": "Ready to see Wiz in action?"
+      },
+      {
+        "level": 2,
+        "text": "Customers rate Wiz #1in cloud security"
+      },
+      {
+        "level": 2,
+        "text": "Anewdevelopmentreality."
+      },
+      {
+        "level": 2,
+        "text": "A new operating model for AI-era security"
+      },
+      {
+        "level": 2,
+        "text": "AI-Powered Code-to-Cloud Defense"
+      },
+      {
+        "level": 2,
+        "text": "How Wiz helps: From Exposure to Code Fix"
+      },
+      {
+        "level": 3,
+        "text": "A new challenge for security"
+      },
+      {
+        "level": 3,
+        "text": "A new challenge for security"
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Security at AI speed, powered by context."
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "firstName",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "Person_Country__c",
+        "placeholder": ""
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingOptIn",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "formSubscribe",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "Last_Touch_Detail__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Campaign__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Source__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Medium__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Term__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "UTM_Device__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "websiteDemoSource",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "gclid__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "optimizely_dna__Visitor_Id__c",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Your work email here"
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Cloud & AI Security",
+      "Wiz Code",
+      "Wiz Cloud",
+      "Wiz Defend",
+      "Integrations",
+      "Environments",
+      "Documentation",
+      "Customer Stories",
+      "Cloud Security Courses",
+      "Blog",
+      "CloudSec Academy",
+      "Resources Center",
+      "Cloud Threat Landscape",
+      "Cloud Security Assessment",
+      "Vulnerability Database",
+      "About Wiz",
+      "Join the Team",
+      "Newsroom",
+      "Events"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 26,
+    "has_og_tags": true,
+    "meta_description": "Wiz is the unified cloud security platform with prevention and response capabilities, enabling security and development teams to build faster and more securely.",
+    "scripts_count": 55
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-Powered Code-to-Cloud Defense",
+      "Cloud Security Assessment",
+      "Vulnerability Database"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "name": "wufoo",
+  "url": "https://www.wufoo.com",
+  "scanned_at": "2026-04-01T18:05:29.176028",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/wufoo_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/wufoo_mobile.png"
+  },
+  "structure": {
+    "title": "Online Form Builder with Cloud Storage Database | Wufoo",
+    "url_final": "https://www.wufoo.com/",
+    "nav_items": [
+      {
+        "text": "Get Started",
+        "href": "https://secure.wufoo.com/signup/free/"
+      },
+      {
+        "text": "Web Forms",
+        "href": "https://www.wufoo.com/web-forms/"
+      },
+      {
+        "text": "Features",
+        "href": "https://www.wufoo.com/features/"
+      },
+      {
+        "text": "Templates",
+        "href": "/gallery/templates/"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://www.wufoo.com/pricing/"
+      },
+      {
+        "text": "Guides",
+        "href": "/guides/"
+      },
+      {
+        "text": "Why Wufoo? Easy, Customizable Online Forms & Repor",
+        "href": "https://www.wufoo.com/why-wufoo/"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://www.wufoo.com/partners/"
+      },
+      {
+        "text": "Examples",
+        "href": "https://www.wufoo.com/examples/"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog/"
+      },
+      {
+        "text": "Help Center",
+        "href": "/docs/"
+      },
+      {
+        "text": "LOGIN",
+        "href": "https://secure.wufoo.com/login/"
+      }
+    ],
+    "buttons": [
+      "Accept all",
+      "English",
+      "Dansk",
+      "Deutsch",
+      "Espa\u00f1ol",
+      "Suomi",
+      "Fran\u00e7ais",
+      "Italiano",
+      "\u65e5\u672c\u8a9e",
+      "Nederlands",
+      "Norsk",
+      "Portugu\u00eas - BR",
+      "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a",
+      "Sverige",
+      "T\u00fcrk\u00e7e",
+      "\u7b80\u4f53\u4e2d\u6587",
+      "en",
+      "Menu\u2715",
+      "1",
+      "2",
+      "3",
+      "Sign Up Free",
+      "Live Demo",
+      "Sign Up Now"
+    ],
+    "forms": [],
+    "links_count": 100,
+    "images_count": 18,
+    "images_with_alt": 10,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Easy-to-Use Online Form Builder For Every Organization"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by 3+ million users and some of the world's most popular brands."
+      },
+      {
+        "level": 2,
+        "text": "Build powerful online forms and customize them to your heart's delight."
+      },
+      {
+        "level": 2,
+        "text": "But don't take our word for it..."
+      },
+      {
+        "level": 2,
+        "text": "Ready to Get Started?"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "marketing",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "functional",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "essential",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Industry Solutions",
+      "Education",
+      "Nonprofit",
+      "Event Management",
+      "Helpful Guides",
+      "3 Form No-nos",
+      "CSS Customization",
+      "Custom Radio Buttons & Checkboxes",
+      "Customized Form Close Message",
+      "Exporting Data Tip",
+      "Forms in 2 Minutes",
+      "Sending File Attachments",
+      "Single & Double Opt-In Forms",
+      "Accept Payments",
+      "Stripe",
+      "Square",
+      "Authorize.Net",
+      "Braintree",
+      "Chargify",
+      "Freshbooks"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 23,
+    "has_og_tags": true,
+    "meta_description": "Wufoo's online form builder helps you create custom forms in minutes. Use Wufoo to create registration forms, application forms, surveys, contact forms, payment forms and more. Sign up free!",
+    "scripts_count": 31
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Easy-to-use form builder",
+      "Trusted by millions",
+      "Customizable forms",
+      "Multiple language support"
+    ],
+    "confidence": "high"
+  }
+}

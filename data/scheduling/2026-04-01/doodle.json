@@ -1,0 +1,172 @@
+{
+  "name": "doodle",
+  "url": "https://doodle.com",
+  "scanned_at": "2026-04-01T16:59:15.010080",
+  "screenshots": {
+    "desktop": "data/scheduling/2026-04-01/screenshots/doodle_desktop.png",
+    "mobile": "data/scheduling/2026-04-01/screenshots/doodle_mobile.png"
+  },
+  "structure": {
+    "title": "Free online meeting scheduling tool | Doodle",
+    "url_final": "https://doodle.com/en/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "./"
+      },
+      {
+        "text": "Product",
+        "href": ""
+      },
+      {
+        "text": "Industries",
+        "href": ""
+      },
+      {
+        "text": "Resources",
+        "href": ""
+      },
+      {
+        "text": "Pricing",
+        "href": "https://doodle.com/en/premium"
+      },
+      {
+        "text": "Time Institute",
+        "href": "https://doodletime.institute/"
+      },
+      {
+        "text": "Log in",
+        "href": "https://doodle.com/auth/realms/doodle/protocol/openid-connect/auth?client_id=web-static-site&redirec"
+      },
+      {
+        "text": "Sign up",
+        "href": "https://doodle.com/auth/realms/doodle/protocol/openid-connect/registrations?client_id=web-static-sit"
+      },
+      {
+        "text": "Create a Doodle",
+        "href": "https://doodle.com/create-doodle"
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 28,
+    "images_count": 11,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Meet yourpartner in Time"
+      },
+      {
+        "level": 1,
+        "text": "The product isagency."
+      },
+      {
+        "level": 2,
+        "text": "This summer, everything changes."
+      },
+      {
+        "level": 2,
+        "text": "You ended yesterdayexhausted."
+      },
+      {
+        "level": 2,
+        "text": "Time is the onlyuniversal currency."
+      },
+      {
+        "level": 2,
+        "text": "DoodleTime OS"
+      },
+      {
+        "level": 2,
+        "text": "Our Pact"
+      },
+      {
+        "level": 3,
+        "text": "We built modern work on the assumptionthat time is a container."
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Help",
+      "Contact",
+      "Pricing",
+      "About us",
+      "Jobs",
+      "Research Programme",
+      "Affiliate",
+      "Sitemap",
+      "Legal Notice"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Doodle is the fastest and easiest way to schedule anything \u2014 from meetings to the next great collaboration.",
+    "scripts_count": 12
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Free tier available",
+      "Multiple pricing tiers",
+      "GDPR compliance",
+      "Mobile apps for iOS and Android"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "name": "pumble",
+  "url": "https://pumble.com",
+  "scanned_at": "2026-04-01T15:52:02.656617",
+  "screenshots": {
+    "desktop": "data/communication/2026-04-01/screenshots/pumble_desktop.png",
+    "mobile": "data/communication/2026-04-01/screenshots/pumble_mobile.png"
+  },
+  "structure": {
+    "title": "Pumble\u2122 - FREE Business Communication Tool",
+    "url_final": "https://pumble.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "PumbleTeam Communication",
+        "href": "/"
+      },
+      {
+        "text": "ClockifyTime Tracking",
+        "href": "https://clockify.me/"
+      },
+      {
+        "text": "PlakyProject Management",
+        "href": "https://plaky.com/"
+      },
+      {
+        "text": "",
+        "href": "https://cake.com/"
+      },
+      {
+        "text": "Product",
+        "href": "/why-use"
+      },
+      {
+        "text": "Features",
+        "href": "/feature-list"
+      },
+      {
+        "text": "Download",
+        "href": "/apps"
+      },
+      {
+        "text": "Log In",
+        "href": "https://app.pumble.com/"
+      },
+      {
+        "text": "Sign Up",
+        "href": "/register"
+      },
+      {
+        "text": "Sign Up",
+        "href": "/register"
+      }
+    ],
+    "buttons": [
+      "ACCEPT ALL",
+      "REJECT ALL",
+      "SAVE",
+      "Sign Up",
+      "Sign Up",
+      "More use cases",
+      "Compare pricing",
+      "See all features",
+      "Open in browser",
+      "More use cases",
+      "Compare pricing",
+      "See all features",
+      "Open in browser",
+      "Try Pumble - it\u2019s free!",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Read customer stories",
+      "Download Pumble",
+      "Open Pumble in your browser",
+      "See upgrades",
+      "Contact support",
+      "Create FREE Account",
+      "Book a Demo",
+      "Log In",
+      "Sign Up"
+    ],
+    "forms": [],
+    "links_count": 221,
+    "images_count": 69,
+    "images_with_alt": 54,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The all-in-oneteam communication app"
+      },
+      {
+        "level": 2,
+        "text": "Your team communication hub"
+      },
+      {
+        "level": 2,
+        "text": "Packed with Useful Features"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by companies around the world"
+      },
+      {
+        "level": 2,
+        "text": "Chat from anywhere"
+      },
+      {
+        "level": 2,
+        "text": "Free Forever"
+      },
+      {
+        "level": 3,
+        "text": "Seamless communication"
+      },
+      {
+        "level": 3,
+        "text": "Messages"
+      },
+      {
+        "level": 3,
+        "text": "Channels"
+      },
+      {
+        "level": 3,
+        "text": "Thread"
+      },
+      {
+        "level": 3,
+        "text": "Files"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "necessary cookies",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "statistic cookies",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "marketing cookies",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Book a Demo",
+      "Log In",
+      "Sign Up",
+      "Overview",
+      "Apps",
+      "Integrations",
+      "What\u2019s New",
+      "Roadmap",
+      "API",
+      "Free",
+      "Pro",
+      "Business",
+      "Enterprise",
+      "See pricing",
+      "Channels",
+      "Messages",
+      "Threads",
+      "Notifications",
+      "History"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 6,
+    "has_og_tags": true,
+    "meta_description": "Business communication and team messaging software. Unlimited users, direct and group messages, and unlimited message history.",
+    "scripts_count": 34
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Free forever tier",
+      "Multiple platform availability (iOS, Android, Desktop)"
+    ],
+    "confidence": "medium"
+  }
+}

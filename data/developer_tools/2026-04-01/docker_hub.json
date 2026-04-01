@@ -1,0 +1,178 @@
+{
+  "name": "docker_hub",
+  "url": "https://hub.docker.com",
+  "scanned_at": "2026-04-01T15:43:58.918147",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/docker_hub_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/docker_hub_mobile.png"
+  },
+  "structure": {
+    "title": "Docker Hub Container Image Library | App Containerization",
+    "url_final": "https://hub.docker.com/",
+    "nav_items": [
+      {
+        "text": "Documentation\u2060",
+        "href": "https://docs.docker.com/docker-hub"
+      },
+      {
+        "text": "Forums\u2060",
+        "href": "https://forums.docker.com/c/docker-hub"
+      },
+      {
+        "text": "Contact support",
+        "href": "/support/contact"
+      },
+      {
+        "text": "System status\u2060",
+        "href": "https://www.dockerstatus.com"
+      }
+    ],
+    "buttons": [
+      "Search Docker Hub\u2318K",
+      "Help",
+      "Back",
+      "System theme",
+      "Back",
+      "Back",
+      "Help",
+      "Back",
+      "System theme",
+      "Docker Suite",
+      "Generative AI",
+      "Trusted content",
+      "Categories",
+      "Cookies Settings",
+      "Back",
+      "Back",
+      "Back",
+      "Documentation\u2060",
+      "Forums\u2060",
+      "Contact support",
+      "System status\u2060",
+      "Sign in",
+      "Sign up"
+    ],
+    "forms": [],
+    "links_count": 124,
+    "images_count": 27,
+    "images_with_alt": 7,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Docker Hardened Images - Now Free"
+      },
+      {
+        "level": 1,
+        "text": "Increase your reach and adoption on Docker Hub"
+      },
+      {
+        "level": 3,
+        "text": "Generative AI"
+      },
+      {
+        "level": 3,
+        "text": "Trusted content"
+      },
+      {
+        "level": 3,
+        "text": "Categories"
+      },
+      {
+        "level": 3,
+        "text": "The perfect home for your team's applications."
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Overview",
+      "What is a Container",
+      "Product Overview",
+      "Docker Desktop",
+      "Docker Hub",
+      "Container Runtime",
+      "Developer Tools",
+      "Docker App",
+      "Kubernetes",
+      "Getting Started",
+      "Play with Docker",
+      "Community",
+      "Open Source",
+      "Documentation",
+      "About Us",
+      "Resources",
+      "Blog",
+      "Customers",
+      "Partners",
+      "Newsroom"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 104,
+    "has_og_tags": false,
+    "meta_description": "Welcome to the world's largest container registry built for developers and open source contributors to find, use, and share their container images. Build, push and pull.",
+    "scripts_count": 12
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "N",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Docker Hardened Images",
+      "Generative AI",
+      "Trusted content"
+    ],
+    "confidence": "high"
+  }
+}

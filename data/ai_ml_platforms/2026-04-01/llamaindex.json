@@ -1,0 +1,433 @@
+{
+  "name": "llamaindex",
+  "url": "https://www.llamaindex.ai",
+  "scanned_at": "2026-04-01T16:50:49.030390",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/llamaindex_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/llamaindex_mobile.png"
+  },
+  "structure": {
+    "title": "LlamaIndex | AI Agents for Document OCR + Workflows",
+    "url_final": "https://www.llamaindex.ai/",
+    "nav_items": [
+      {
+        "text": "LlamaParseIndustry-leading document processing",
+        "href": "/llamacloud"
+      },
+      {
+        "text": "Parse",
+        "href": "/llamaparse"
+      },
+      {
+        "text": "Extract",
+        "href": "/llamaextract"
+      },
+      {
+        "text": "Index",
+        "href": "/llamacloud-index"
+      },
+      {
+        "text": "WorkflowsControl flow for your GenAI apps",
+        "href": "/workflows"
+      },
+      {
+        "text": "LlamaIndexCore building blocks for AI agents",
+        "href": "/llamaindex"
+      },
+      {
+        "text": "Engineering & R&DAccelerate product development",
+        "href": "/solutions/engineering"
+      },
+      {
+        "text": "Administrative OperationsStreamline business proce",
+        "href": "/solutions/administrative-operations"
+      },
+      {
+        "text": "Financial AnalystsBuild AI-powered financial model",
+        "href": "/solutions/finance"
+      },
+      {
+        "text": "InsuranceAutomate claims and underwriting",
+        "href": "/industry/insurance"
+      },
+      {
+        "text": "FinancePower financial research",
+        "href": "/industry/finance"
+      },
+      {
+        "text": "ManufacturingOptimize system uptime",
+        "href": "/industry/manufacturing"
+      },
+      {
+        "text": "Healthcare & PharmaAccelerate clinical research",
+        "href": "/industry/healthcare-pharma"
+      },
+      {
+        "text": "Financial Due DiligenceSpeed up compliance reviews",
+        "href": "/use-cases/financial-due-diligence"
+      },
+      {
+        "text": "Invoice ProcessingAutomate manual review",
+        "href": "/use-cases/invoice-processing"
+      },
+      {
+        "text": "Technical Document SearchFind answers in complex d",
+        "href": "/use-cases/technical-document-search"
+      },
+      {
+        "text": "Customer SupportInstant, accurate responses",
+        "href": "/use-cases/customer-support"
+      },
+      {
+        "text": "Docs",
+        "href": "https://developers.llamaindex.ai/"
+      },
+      {
+        "text": "Customer storiesSee real-world success stories",
+        "href": "/customers"
+      },
+      {
+        "text": "Jeppesen (a Boeing Company) Saves ~2,000 Engineeri",
+        "href": "/customers/jeppesen-a-boeing-company-saves-2-000-engineering-hours-with-unified-chat-framework"
+      }
+    ],
+    "buttons": [
+      "Product",
+      "Solutions",
+      "Resources",
+      "Company",
+      "\u00d7",
+      "Submit",
+      "Book a demo",
+      "Try for free",
+      "Docs",
+      "Blog",
+      "Pricing",
+      "Book a demo",
+      "Try for free",
+      "Book a Demo",
+      "Try for free",
+      "Try LlamaParse",
+      "Contact sales",
+      "Sign up",
+      "Learn more",
+      "Learn more",
+      "Start building",
+      "Contact sales",
+      "Try for free"
+    ],
+    "forms": [
+      {
+        "action": "https://forms-na2.hsforms.com/submissions/v3/public/submit/formsnext/multipart/48755185/a6a96312-801",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "For example, \"jane@company.com\""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_source",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_medium",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_campaign",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_term",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_content",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "https://forms-na2.hsforms.com/submissions/v3/public/submit/formsnext/multipart/48755185/dbbfea63-78f",
+        "method": "POST",
+        "fields": [
+          {
+            "type": "text",
+            "name": "0-1/firstname",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "0-1/lastname",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "0-1/email",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "0-1/company",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "0-2/funding_raised__form",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "0-2/country",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "0-2/website",
+            "placeholder": ""
+          },
+          {
+            "type": "text",
+            "name": "0-1/use_case_description",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "hs_context",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 128,
+    "images_count": 104,
+    "images_with_alt": 1,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The new standard for complex document processing"
+      },
+      {
+        "level": 2,
+        "text": "Get started with LlamaParse for free"
+      },
+      {
+        "level": 2,
+        "text": "From document chaos to intelligent automation"
+      },
+      {
+        "level": 2,
+        "text": "The only end-to-end platform for redefining document workflows"
+      },
+      {
+        "level": 2,
+        "text": "From finance to manufacturing to healthcare"
+      },
+      {
+        "level": 2,
+        "text": "Unlock document automation across industries"
+      },
+      {
+        "level": 3,
+        "text": "Parse"
+      },
+      {
+        "level": 3,
+        "text": "Extract"
+      },
+      {
+        "level": 3,
+        "text": "Index"
+      },
+      {
+        "level": 3,
+        "text": "Orchestrate AI Workflows"
+      },
+      {
+        "level": 3,
+        "text": "Built for Speed"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "For example, \"jane@company.com\""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "0-1/firstname",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "0-1/lastname",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "0-1/email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "0-1/company",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "0-2/funding_raised__form",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "0-2/country",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "0-2/website",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Book a demo",
+      "Try for free"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 43,
+    "has_og_tags": true,
+    "meta_description": "LlamaIndex is where developers come to build document agents. We bring together industry-leading agentic OCR for AI-powered document processing of PDFs, spreadsheets, images, and more as well as a low",
+    "scripts_count": 40
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI agents for document OCR",
+      "End-to-end document workflow automation",
+      "Industry-specific solutions"
+    ],
+    "confidence": "medium"
+  }
+}

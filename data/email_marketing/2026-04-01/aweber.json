@@ -1,0 +1,259 @@
+{
+  "name": "aweber",
+  "url": "https://www.aweber.com",
+  "scanned_at": "2026-04-01T14:46:34.711686",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/aweber_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/aweber_mobile.png"
+  },
+  "structure": {
+    "title": "Email Marketing & More for Small Businesses | AWeber",
+    "url_final": "https://www.aweber.com/index-t2.htm",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Switch to AWeber",
+        "href": "/migration.htm"
+      },
+      {
+        "text": "Features",
+        "href": "/email-marketing-features.htm"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing.htm"
+      },
+      {
+        "text": "Blog",
+        "href": "https://blog.aweber.com"
+      },
+      {
+        "text": "Sign in",
+        "href": "/login.htm"
+      },
+      {
+        "text": "My account",
+        "href": "/users/"
+      },
+      {
+        "text": "Get AWeber Free",
+        "href": "/free.htm"
+      },
+      {
+        "text": "Sign in",
+        "href": "/login.htm"
+      },
+      {
+        "text": "Email marketing",
+        "href": "/email-marketing-features.htm"
+      },
+      {
+        "text": "Email automation",
+        "href": "/email-automation.htm"
+      },
+      {
+        "text": "Landing page builder",
+        "href": "/landing-page-builder.htm"
+      },
+      {
+        "text": "Ecommerce",
+        "href": "/aweber-for-ecommerce.htm"
+      },
+      {
+        "text": "Web push notifications",
+        "href": "/web-push-notifications.htm"
+      },
+      {
+        "text": "Sign up form builder",
+        "href": "/sign-up-forms.htm"
+      },
+      {
+        "text": "AI Writing Assistant",
+        "href": "/ai-email-writer.htm"
+      },
+      {
+        "text": "Link in Bio page",
+        "href": "/link-in-bio.htm"
+      },
+      {
+        "text": "Standard pricing",
+        "href": "/pricing.htm"
+      },
+      {
+        "text": "High volume pricing",
+        "href": "/large-account-pricing.htm"
+      },
+      {
+        "text": "Bloggers",
+        "href": "/bloggers.htm"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "Pricing",
+      "Solutions",
+      "Support",
+      "Resources",
+      "Start for just $79\u2192",
+      "Get AWeber Free",
+      "Start for free \u2192",
+      "View plans \u2192",
+      "Start sending today \u2192",
+      "Start for $79 today \u2192",
+      "Try the AWeber MCP today \u2192",
+      "Get Expert Services",
+      "Start your 14-day trial",
+      "Start your 14-day trial",
+      "Start for free \u2192",
+      "Start your free trial \u2192"
+    ],
+    "forms": [
+      {
+        "action": "https://docs.aweber.comhc/search",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "q",
+            "placeholder": "Search AWeber"
+          }
+        ]
+      }
+    ],
+    "links_count": 96,
+    "images_count": 79,
+    "images_with_alt": 72,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Email marketingto drive your business forward"
+      },
+      {
+        "level": 2,
+        "text": "Your next great email, ready in seconds."
+      },
+      {
+        "level": 2,
+        "text": "Effortless email marketing built for your business."
+      },
+      {
+        "level": 2,
+        "text": "Work in ChatGPT and Claude."
+      },
+      {
+        "level": 2,
+        "text": "Try AWeber free with a 14-day trial"
+      },
+      {
+        "level": 2,
+        "text": "$30.00/month"
+      },
+      {
+        "level": 3,
+        "text": "Workflow automation that actually works"
+      },
+      {
+        "level": 3,
+        "text": "New Collection"
+      },
+      {
+        "level": 3,
+        "text": "The Future of Remote Collaboration"
+      },
+      {
+        "level": 3,
+        "text": "We craft digital experiences"
+      },
+      {
+        "level": 3,
+        "text": "Smart Watch Pro"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "q",
+        "placeholder": "Search AWeber"
+      }
+    ],
+    "footer_links": [
+      "+1 877-293-2371",
+      "Privacy",
+      "Data",
+      "Anti-Spam"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "Grow your audience and increase sales with AWeber's email marketing software, designed to help you engage customers and automate your marketing effortlessly.",
+    "scripts_count": 54
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "Y",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Email marketing automation",
+      "Landing page builder",
+      "Web push notifications",
+      "Sign up form builder"
+    ],
+    "confidence": "medium"
+  }
+}

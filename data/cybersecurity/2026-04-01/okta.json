@@ -1,0 +1,287 @@
+{
+  "name": "okta",
+  "url": "https://www.okta.com",
+  "scanned_at": "2026-04-01T16:23:01.374242",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/okta_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/okta_mobile.png"
+  },
+  "structure": {
+    "title": "Secure Identity for Employees, Customers, and AI | Okta",
+    "url_final": "https://www.okta.com/",
+    "nav_items": [
+      {
+        "text": "+1 (800) 425-1267",
+        "href": "tel:%20+1%20(800)%20425-1267"
+      },
+      {
+        "text": "Search",
+        "href": "https://www.okta.com/search"
+      },
+      {
+        "text": "Australia",
+        "href": "https://www.okta.com/en-au/"
+      },
+      {
+        "text": "Brazil",
+        "href": "https://www.okta.com/pt-br/"
+      },
+      {
+        "text": "Canada (EN)",
+        "href": "https://www.okta.com/en-ca/"
+      },
+      {
+        "text": "France",
+        "href": "https://www.okta.com/fr-fr/"
+      },
+      {
+        "text": "Germany",
+        "href": "https://www.okta.com/de-de/"
+      },
+      {
+        "text": "Japan",
+        "href": "https://www.okta.com/ja-jp/"
+      },
+      {
+        "text": "Korea",
+        "href": "https://www.okta.com/ko-kr/"
+      },
+      {
+        "text": "Mexico",
+        "href": "https://www.okta.com/es-mx/"
+      },
+      {
+        "text": "Netherlands",
+        "href": "https://www.okta.com/en-nl/"
+      },
+      {
+        "text": "Singapore",
+        "href": "https://www.okta.com/en-sg/"
+      },
+      {
+        "text": "Spain",
+        "href": "https://www.okta.com/es-es/"
+      },
+      {
+        "text": "Sweden",
+        "href": "https://www.okta.com/en-se/"
+      },
+      {
+        "text": "United Kingdom",
+        "href": "https://www.okta.com/en-gb/"
+      },
+      {
+        "text": "Login",
+        "href": "https://login.okta.com/"
+      }
+    ],
+    "buttons": [
+      "United States",
+      "Products",
+      "Solutions",
+      "Learning & Support",
+      "Developers",
+      "Company",
+      "Products",
+      "Solutions",
+      "Learning & Support",
+      "Developers",
+      "Company",
+      "United States",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "Back",
+      "\u2039",
+      "\u203a"
+    ],
+    "forms": [],
+    "links_count": 344,
+    "images_count": 132,
+    "images_with_alt": 31,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Okta secures AI"
+      },
+      {
+        "level": 2,
+        "text": "Securing Fortune 100s, governments, and industries around the world"
+      },
+      {
+        "level": 2,
+        "text": "Read. Watch. Learn. More."
+      },
+      {
+        "level": 2,
+        "text": "A leader. Proven."
+      },
+      {
+        "level": 2,
+        "text": "Go further"
+      },
+      {
+        "level": 2,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": "Products"
+      },
+      {
+        "level": 3,
+        "text": "Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Developers"
+      },
+      {
+        "level": 3,
+        "text": "Company"
+      },
+      {
+        "level": 3,
+        "text": "Products"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-1",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-2",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-3",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-4",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "email\n                            us",
+      "+1-800-425-1267",
+      "Contact us",
+      "Okta on Youtubeopens in a new tab",
+      "Okta on Xopens in a new tab",
+      "Okta on LinkedInopens in a new tab",
+      "Okta Platform",
+      "Auth0 Platform",
+      "Pricing",
+      "Free Trial",
+      "Contact Sales",
+      "Help & Support",
+      "Contact Us",
+      "Okta Platform Status",
+      "Auth0 Platform Status",
+      "Legal",
+      "Privacy Policy",
+      "Site Terms",
+      "Security"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 70,
+    "has_og_tags": true,
+    "meta_description": "The Okta and Auth0 Platforms enable secure access, authentication, and automation \u2014 putting identity at the heart of business security and growth.",
+    "scripts_count": 84
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive security certifications",
+      "Extensive developer resources",
+      "Strong multi-language support"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,194 @@
+metadata:
+  industry: nocode_lowcode
+  name: No-Code / Low-Code SaaS
+  category: Development
+  version: 1.0.0
+  generated_at: '2026-04-01T16:41:44.555011'
+  sites_analyzed: 30
+  sites:
+  - bubble
+  - webflow
+  - airtable
+  - zapier
+  - make
+  - retool
+  - glide
+  - softr
+  - appsmith
+  - tooljet
+  - budibase
+  - noloco
+  - stacker
+  - directual
+  - adalo
+  - flutterflow
+  - thunkable
+  - bravo_studio
+  - draftbit
+  - tilda
+  - carrd
+  - framer
+  - typedream
+  - super
+  - coda
+  - rows
+  - tally
+  - typeform
+  - jotform
+  - n8n
+features:
+  critical:
+  - id: pricing_page
+    frequency: 29/29
+    percent: 100
+  - id: transparent_pricing
+    frequency: 28/29
+    percent: 100
+  - id: free_tier
+    frequency: 29/29
+    percent: 100
+  - id: multiple_tiers
+    frequency: 29/29
+    percent: 100
+  - id: annual_discount
+    frequency: 25/29
+    percent: 100
+  - id: privacy_policy
+    frequency: 27/29
+    percent: 100
+  - id: terms_of_service
+    frequency: 27/29
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 26/29
+    percent: 100
+  - id: templates_available
+    frequency: 28/29
+    percent: 100
+  - id: product_screenshots
+    frequency: 28/29
+    percent: 97
+  - id: enterprise_tier
+    frequency: 24/29
+    percent: 96
+  - id: free_trial
+    frequency: 26/29
+    percent: 93
+  - id: cookie_consent
+    frequency: 23/29
+    percent: 92
+  - id: feature_comparison_table
+    frequency: 20/29
+    percent: 91
+  - id: help_center
+    frequency: 21/29
+    percent: 91
+  - id: blog
+    frequency: 26/29
+    percent: 90
+  - id: integrations_page
+    frequency: 23/29
+    percent: 88
+  - id: changelog
+    frequency: 23/29
+    percent: 88
+  - id: api_documentation
+    frequency: 22/29
+    percent: 88
+  - id: community_forum
+    frequency: 22/29
+    percent: 88
+  - id: customer_logos
+    frequency: 20/29
+    percent: 87
+  - id: contact_page
+    frequency: 20/29
+    percent: 87
+  - id: github_presence
+    frequency: 22/29
+    percent: 85
+  required:
+  - id: case_studies
+    frequency: 19/29
+    percent: 83
+  - id: video_demo
+    frequency: 19/29
+    percent: 83
+  - id: status_page
+    frequency: 20/29
+    percent: 83
+  - id: code_examples
+    frequency: 19/29
+    percent: 83
+  - id: onboarding_video
+    frequency: 19/29
+    percent: 83
+  - id: multi_language
+    frequency: 20/29
+    percent: 83
+  - id: webhooks_support
+    frequency: 18/29
+    percent: 82
+  - id: gdpr_mentioned
+    frequency: 18/29
+    percent: 78
+  - id: social_signup
+    frequency: 18/29
+    percent: 78
+  - id: about_page
+    frequency: 17/29
+    percent: 77
+  - id: careers_page
+    frequency: 17/29
+    percent: 77
+  - id: sdk_available
+    frequency: 17/29
+    percent: 77
+  - id: live_chat
+    frequency: 17/29
+    percent: 77
+  - id: security_page
+    frequency: 16/29
+    percent: 73
+  - id: developer_portal
+    frequency: 16/29
+    percent: 73
+  - id: interactive_demo
+    frequency: 16/29
+    percent: 70
+  - id: ios_app
+    frequency: 15/29
+    percent: 65
+  - id: android_app
+    frequency: 15/29
+    percent: 65
+  recommended:
+  - id: dpa_available
+    frequency: 11/29
+    percent: 61
+  - id: openapi_spec
+    frequency: 10/29
+    percent: 56
+  - id: api_playground
+    frequency: 11/29
+    percent: 55
+  - id: soc2_mentioned
+    frequency: 7/29
+    percent: 44
+  nice_to_have:
+  - id: sla_published
+    frequency: 4/29
+    percent: 29
+  - id: desktop_app
+    frequency: 4/29
+    percent: 24
+  - id: browser_extension
+    frequency: 3/29
+    percent: 18
+  - id: iso27001_mentioned
+    frequency: 2/29
+    percent: 17
+  innovative:
+  - id: roi_calculator
+    frequency: 0/29
+    percent: 0

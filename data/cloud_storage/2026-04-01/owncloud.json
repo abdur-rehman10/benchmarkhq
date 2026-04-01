@@ -1,0 +1,332 @@
+{
+  "name": "owncloud",
+  "url": "https://owncloud.com",
+  "scanned_at": "2026-04-01T17:56:17.443350",
+  "screenshots": {
+    "desktop": "data/cloud_storage/2026-04-01/screenshots/owncloud_desktop.png",
+    "mobile": "data/cloud_storage/2026-04-01/screenshots/owncloud_mobile.png"
+  },
+  "structure": {
+    "title": "ownCloud - share files and folders, easy and secure",
+    "url_final": "https://owncloud.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://owncloud.com"
+      },
+      {
+        "text": "Products",
+        "href": "https://owncloud.com/product/"
+      },
+      {
+        "text": "Products",
+        "href": "#"
+      },
+      {
+        "text": "Infinite Scale",
+        "href": "https://owncloud.com/infinite-scale-2/"
+      },
+      {
+        "text": "ownCloud 10",
+        "href": "/product"
+      },
+      {
+        "text": "ownCloud online",
+        "href": "https://owncloud.online"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://owncloud.com/pricing/"
+      },
+      {
+        "text": "Integrations",
+        "href": "#"
+      },
+      {
+        "text": "Microsoft Office Online Server",
+        "href": "https://owncloud.com/owncloud-and-microsoft/"
+      },
+      {
+        "text": "Microsoft 365",
+        "href": "https://owncloud.com/features/microsoft-365-integration/"
+      },
+      {
+        "text": "Microsoft Teams",
+        "href": "https://owncloud.com/features/microsoft-teams-integration/"
+      },
+      {
+        "text": "Microsoft Outlook",
+        "href": "https://owncloud.com/features/outlook-plugin/"
+      },
+      {
+        "text": "Microsoft WND",
+        "href": "https://owncloud.com/features/windows-network-drive-integration/"
+      },
+      {
+        "text": "Integrations",
+        "href": "#"
+      },
+      {
+        "text": "Collabora Online",
+        "href": "https://owncloud.com/collabora/"
+      },
+      {
+        "text": "ONLYOFFICE",
+        "href": "https://owncloud.com/onlyoffice/"
+      },
+      {
+        "text": "Solutions",
+        "href": "#"
+      },
+      {
+        "text": "Industries",
+        "href": "#"
+      },
+      {
+        "text": "For Public Sector",
+        "href": "https://owncloud.com/industry-solutions/cloud-storage-for-public-sector/"
+      },
+      {
+        "text": "For Manufacturing",
+        "href": "https://owncloud.com/industry-solutions/cloud-security-engineering-and-manufacturing/"
+      }
+    ],
+    "buttons": [
+      "Necessary9",
+      "Preferences0",
+      "Statistics1",
+      "Marketing19",
+      "Unclassified1",
+      "[#IABV2_LABEL_PURPOSES#]",
+      "[#IABV2_LABEL_FEATURES#]",
+      "[#IABV2_LABEL_PARTNERS#]",
+      "Allow all cookies",
+      "Customize",
+      "Allow selection",
+      "Use necessary cookies only",
+      "Read More",
+      "Get started",
+      "Learn more about Infinite Scale",
+      "Learn more",
+      "Contact us",
+      "Start now",
+      "Share flexibly",
+      "Collaborate efficiently",
+      "Browse our ideas and insights"
+    ],
+    "forms": [
+      {
+        "action": "https://owncloud.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 170,
+    "images_count": 32,
+    "images_with_alt": 27,
+    "headings": [
+      {
+        "level": 1,
+        "text": "ownCloudInfinite Scale"
+      },
+      {
+        "level": 2,
+        "text": "Filesharing, trusted by 200 million users worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Spaces"
+      },
+      {
+        "level": 2,
+        "text": "Web office"
+      },
+      {
+        "level": 2,
+        "text": "Secure by design"
+      },
+      {
+        "level": 2,
+        "text": "For organizations with high data governance requirements"
+      },
+      {
+        "level": 3,
+        "text": "Seeking to Unify, Track, Control, and Secure All Your Sensitive Content on One P"
+      },
+      {
+        "level": 3,
+        "text": "Do you prefer SaaS? Check outownCloud.online!"
+      },
+      {
+        "level": 3,
+        "text": "Convenient collaboration with internal and external parties without storing data"
+      },
+      {
+        "level": 3,
+        "text": "4.2"
+      },
+      {
+        "level": 3,
+        "text": "4.1"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": ""
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Download server",
+      "Download desktop app",
+      "Get mobile apps",
+      "ownCloud.online",
+      "Start Enterprise trial",
+      "Self-service demo",
+      "Overview",
+      "Why ownCloud",
+      "Features",
+      "Pricing",
+      "Compare editions",
+      "Compare solutions",
+      "Industry solutions",
+      "Changelog",
+      "Security",
+      "Get a quote",
+      "About us",
+      "Events",
+      "Our customers"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 19,
+    "has_og_tags": true,
+    "meta_description": "ownCloud, your file platform. The most essential business tool for enterprise-grade file sync and share.",
+    "scripts_count": 49
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "U",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "U",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Integration with Microsoft Office and Teams",
+      "Focus on data governance and security",
+      "Infinite Scale architecture"
+    ],
+    "confidence": "medium"
+  }
+}

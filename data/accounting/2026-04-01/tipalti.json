@@ -1,0 +1,355 @@
+{
+  "name": "tipalti",
+  "url": "https://tipalti.com",
+  "scanned_at": "2026-04-01T15:12:14.964336",
+  "screenshots": {
+    "desktop": "data/accounting/2026-04-01/screenshots/tipalti_desktop.png",
+    "mobile": "data/accounting/2026-04-01/screenshots/tipalti_mobile.png"
+  },
+  "structure": {
+    "title": "Tipalti | Finance Automation that puts you in charge",
+    "url_final": "https://tipalti.com/",
+    "nav_items": [
+      {
+        "text": "Products",
+        "href": "/accounts-payable-software/"
+      },
+      {
+        "text": "Solutions",
+        "href": "/industries/"
+      },
+      {
+        "text": "Resources",
+        "href": "/resources/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Company",
+        "href": "/company/"
+      },
+      {
+        "text": "Search",
+        "href": "javascript:void(0);"
+      },
+      {
+        "text": "Log In",
+        "href": "https://hub.tipalti.com"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Read Customer Story",
+      "Read Customer Story",
+      "Read Customer Story",
+      "Read Customer Story",
+      "Read Customer Story",
+      "Read Customer Story",
+      "US",
+      "Request Demo",
+      "Search",
+      "Log In",
+      "Get Started"
+    ],
+    "forms": [
+      {
+        "action": "https://tipalti.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "https://tipalti.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "https://tipalti.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "https://tipalti.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search"
+          }
+        ]
+      },
+      {
+        "action": "https://tipalti.com/",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "s",
+            "placeholder": "Search"
+          }
+        ]
+      }
+    ],
+    "links_count": 405,
+    "images_count": 189,
+    "images_with_alt": 151,
+    "headings": [
+      {
+        "level": 1,
+        "text": "One Solution for All Your Finance Operations"
+      },
+      {
+        "level": 2,
+        "text": "The Tipalti Connected Suite"
+      },
+      {
+        "level": 2,
+        "text": "Work smarter, not harder"
+      },
+      {
+        "level": 2,
+        "text": "AI Designed for Finance"
+      },
+      {
+        "level": 2,
+        "text": "Built for Global Scale"
+      },
+      {
+        "level": 2,
+        "text": "Controls and Compliance"
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 3,
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search"
+      },
+      {
+        "type": "text",
+        "name": "s",
+        "placeholder": "Search"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "*Work email address"
+      },
+      {
+        "type": "text",
+        "name": "firstName",
+        "placeholder": "*First name"
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "placeholder": "*Last name"
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": "*Company name"
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "placeholder": "Phone"
+      },
+      {
+        "type": "checkbox",
+        "name": "data_opt_in",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "Marketing_opt_in",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "user_email",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "user_phone",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Get Started",
+      "LogIn",
+      "contact@tipalti.com",
+      "+1 800-305-3550",
+      "+44 (0)20 7846 8777",
+      "+1 800-305-3550",
+      "Raise a support request",
+      "AP Automation",
+      "Mass Payments",
+      "Procurement",
+      "Expense Management",
+      "Connected Suite",
+      "Overview",
+      "Supplier Management",
+      "Invoice Management",
+      "PO Matching",
+      "Self-Billing Invoices",
+      "Payment Reconciliation",
+      "Global Payments"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 46,
+    "has_og_tags": true,
+    "meta_description": "Tipalti helps drive business growth by automating and simplifying accounts payable, mass payments, procurement, and employee expenses in one connected suite.",
+    "scripts_count": 23
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "N",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive finance automation",
+      "Global payments capability",
+      "Strong compliance and controls"
+    ],
+    "confidence": "high"
+  }
+}

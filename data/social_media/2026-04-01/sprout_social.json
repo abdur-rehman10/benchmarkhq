@@ -1,0 +1,196 @@
+{
+  "name": "sprout_social",
+  "url": "https://sproutsocial.com",
+  "scanned_at": "2026-04-01T17:28:40.493033",
+  "screenshots": {
+    "desktop": "data/social_media/2026-04-01/screenshots/sprout_social_desktop.png",
+    "mobile": "data/social_media/2026-04-01/screenshots/sprout_social_mobile.png"
+  },
+  "structure": {
+    "title": "Sprout Social: Social Media Management Tool",
+    "url_final": "https://sproutsocial.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "https://sproutsocial.com/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Schedule a demo",
+        "href": "/demo/"
+      },
+      {
+        "text": "Try for free",
+        "href": "/trial/"
+      }
+    ],
+    "buttons": [
+      "Platform",
+      "Solutions",
+      "Resources",
+      "Log in",
+      "Toggle mobile menuopen",
+      "Try free for 30 days",
+      "Plan & schedule contentSimplify workflows and coll",
+      "Engage with customersLeverage AI to reply with spe",
+      "Analyze your performanceAccess analytics that reve",
+      "Discover trends & insightsTap into real-time conve",
+      "Plan features",
+      "Plan features",
+      "Plan features",
+      "Platform",
+      "Solutions",
+      "Industries",
+      "Integrations",
+      "Resources",
+      "Free social media tools",
+      "Social media topics",
+      "Company",
+      "Support",
+      "English",
+      "Cookies Settings"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Enter your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 105,
+    "images_count": 62,
+    "images_with_alt": 58,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Powerful tools for social media management"
+      },
+      {
+        "level": 2,
+        "text": "Own every social media touchpoint"
+      },
+      {
+        "level": 2,
+        "text": "Trusted partnerships and integrations across leading platforms"
+      },
+      {
+        "level": 2,
+        "text": "Launch, run & scale creator campaigns"
+      },
+      {
+        "level": 2,
+        "text": "Drive more impact with your social media management tool, now."
+      },
+      {
+        "level": 3,
+        "text": "See why 30,000+ brands scale their social media with Sprout"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Enter your email"
+      }
+    ],
+    "footer_links": [
+      "1-866-878-3231",
+      "Contact us",
+      "Sprout Social'slinkedin",
+      "Sprout Social'sinstagram",
+      "Sprout Social'syoutube",
+      "Sprout Social'stiktok",
+      "Sprout Social'spinterest",
+      "Sprout Social'sx",
+      "Sprout Social'sfacebook",
+      "Engagement",
+      "Publishing",
+      "Analytics",
+      "Premium analytics",
+      "Listening",
+      "Influencer marketing",
+      "Employee advocacy",
+      "AI and automation",
+      "Newswhip",
+      "Pricing"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 14,
+    "has_og_tags": true,
+    "meta_description": "Maximize your social ROI with Sprout Social, trusted by 30k+ brands. Power everything from publishing and engagement to analytics and influencer marketing. Try 30 days free.",
+    "scripts_count": 48
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-driven customer engagement",
+      "Real-time analytics",
+      "Extensive platform integrations"
+    ],
+    "confidence": "high"
+  }
+}

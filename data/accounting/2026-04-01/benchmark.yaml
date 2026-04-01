@@ -1,0 +1,194 @@
+metadata:
+  industry: accounting
+  name: Accounting & Finance SaaS
+  category: Finance
+  version: 1.0.0
+  generated_at: '2026-04-01T15:15:59.442065'
+  sites_analyzed: 30
+  sites:
+  - quickbooks
+  - xero
+  - freshbooks
+  - wave
+  - zoho_books
+  - sage
+  - bench
+  - brex
+  - ramp
+  - mercury
+  - stripe_atlas
+  - pilot
+  - gusto
+  - billcom
+  - expensify
+  - harvest
+  - toggl_track
+  - deel
+  - remote
+  - papaya_global
+  - tipalti
+  - chargebee
+  - recurly
+  - paddle
+  - lemon_squeezy
+  - baremetrics
+  - profitwell
+  - chartmogul
+  - stripe_billing
+  - paypal_business
+features:
+  critical:
+  - id: pricing_page
+    frequency: 29/29
+    percent: 100
+  - id: multiple_tiers
+    frequency: 29/29
+    percent: 100
+  - id: privacy_policy
+    frequency: 29/29
+    percent: 100
+  - id: terms_of_service
+    frequency: 29/29
+    percent: 100
+  - id: cookie_consent
+    frequency: 29/29
+    percent: 100
+  - id: annual_discount
+    frequency: 22/29
+    percent: 92
+  - id: enterprise_tier
+    frequency: 26/29
+    percent: 90
+  - id: about_page
+    frequency: 26/29
+    percent: 90
+  - id: customer_logos
+    frequency: 25/29
+    percent: 86
+  - id: product_screenshots
+    frequency: 25/29
+    percent: 86
+  - id: blog
+    frequency: 25/29
+    percent: 86
+  - id: api_documentation
+    frequency: 25/29
+    percent: 86
+  - id: signup_no_creditcard
+    frequency: 24/29
+    percent: 86
+  - id: contact_page
+    frequency: 25/29
+    percent: 86
+  required:
+  - id: careers_page
+    frequency: 24/29
+    percent: 83
+  - id: help_center
+    frequency: 24/29
+    percent: 83
+  - id: case_studies
+    frequency: 23/29
+    percent: 79
+  - id: integrations_page
+    frequency: 23/29
+    percent: 79
+  - id: video_demo
+    frequency: 22/29
+    percent: 76
+  - id: free_trial
+    frequency: 21/29
+    percent: 72
+  - id: gdpr_mentioned
+    frequency: 21/29
+    percent: 72
+  - id: webhooks_support
+    frequency: 21/29
+    percent: 72
+  - id: multi_language
+    frequency: 21/29
+    percent: 72
+  - id: security_page
+    frequency: 20/29
+    percent: 69
+  - id: interactive_demo
+    frequency: 20/29
+    percent: 69
+  - id: transparent_pricing
+    frequency: 19/29
+    percent: 66
+  - id: feature_comparison_table
+    frequency: 19/29
+    percent: 66
+  recommended:
+  - id: code_examples
+    frequency: 18/29
+    percent: 62
+  - id: onboarding_video
+    frequency: 18/29
+    percent: 62
+  - id: live_chat
+    frequency: 18/29
+    percent: 62
+  - id: developer_portal
+    frequency: 17/29
+    percent: 59
+  - id: sdk_available
+    frequency: 16/29
+    percent: 57
+  - id: ios_app
+    frequency: 16/29
+    percent: 57
+  - id: android_app
+    frequency: 16/29
+    percent: 57
+  - id: github_presence
+    frequency: 16/29
+    percent: 55
+  - id: soc2_mentioned
+    frequency: 15/29
+    percent: 54
+  - id: dpa_available
+    frequency: 14/29
+    percent: 50
+  - id: changelog
+    frequency: 12/29
+    percent: 41
+  - id: status_page
+    frequency: 12/29
+    percent: 41
+  nice_to_have:
+  - id: templates_available
+    frequency: 10/29
+    percent: 36
+  - id: free_tier
+    frequency: 10/29
+    percent: 34
+  - id: community_forum
+    frequency: 9/29
+    percent: 31
+  - id: iso27001_mentioned
+    frequency: 7/29
+    percent: 26
+  - id: sla_published
+    frequency: 6/29
+    percent: 22
+  - id: social_signup
+    frequency: 6/29
+    percent: 21
+  - id: openapi_spec
+    frequency: 5/29
+    percent: 19
+  - id: api_playground
+    frequency: 4/29
+    percent: 15
+  innovative:
+  - id: roi_calculator
+    frequency: 4/29
+    percent: 14
+  - id: desktop_app
+    frequency: 4/29
+    percent: 14
+  - id: browser_extension
+    frequency: 4/29
+    percent: 14

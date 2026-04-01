@@ -1,0 +1,331 @@
+{
+  "name": "constant_contact",
+  "url": "https://www.constantcontact.com",
+  "scanned_at": "2026-04-01T14:46:57.415221",
+  "screenshots": {
+    "desktop": "data/email_marketing/2026-04-01/screenshots/constant_contact_desktop.png",
+    "mobile": "data/email_marketing/2026-04-01/screenshots/constant_contact_mobile.png"
+  },
+  "structure": {
+    "title": "Digital and Email Marketing Platform | Constant Contact",
+    "url_final": "https://www.constantcontact.com/",
+    "nav_items": [
+      {
+        "text": "What's new",
+        "href": "/features/whats-new"
+      },
+      {
+        "text": "Email Marketing",
+        "href": "/email-marketing"
+      },
+      {
+        "text": "Email Templates",
+        "href": "/features/email-templates"
+      },
+      {
+        "text": "SMS Marketing",
+        "href": "/features/sms"
+      },
+      {
+        "text": "Social Media Marketing",
+        "href": "/features/social-media-tools"
+      },
+      {
+        "text": "Ecommerce",
+        "href": "/features/ecommerce"
+      },
+      {
+        "text": "Event Marketing",
+        "href": "/features/event-management"
+      },
+      {
+        "text": "AI",
+        "href": "/features/ai-marketing"
+      },
+      {
+        "text": "Automation",
+        "href": "/features/email-marketing-automation"
+      },
+      {
+        "text": "Integrations",
+        "href": "/features/integrations"
+      },
+      {
+        "text": "List-Building Tools",
+        "href": "/features/list-building-tools"
+      },
+      {
+        "text": "Reporting",
+        "href": "/features/email-tracking-software"
+      },
+      {
+        "text": "FIND OUT HOW",
+        "href": "/features/ai-marketing"
+      },
+      {
+        "text": "Teams",
+        "href": "/partners/teams"
+      },
+      {
+        "text": "Agencies",
+        "href": "/partners/agency"
+      },
+      {
+        "text": "Business Partners",
+        "href": "/partners/business"
+      },
+      {
+        "text": "Franchises",
+        "href": "/partners/franchise"
+      },
+      {
+        "text": "Higher Education",
+        "href": "/partners/teams/higher-education"
+      },
+      {
+        "text": "Nonprofit",
+        "href": "/industry-email-marketing/nonprofit"
+      },
+      {
+        "text": "Real Estate",
+        "href": "/industry-email-marketing/real-estate"
+      }
+    ],
+    "buttons": [
+      "Features",
+      "Solutions",
+      "Resources",
+      "Why Us",
+      "Free trial",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "How do I create and send an email campaign?",
+      "Do you have tools for list segmentation and person",
+      "How much does Constant Contact cost?",
+      "What support is provided to new users?",
+      "Are your emails GDPR and CAN-SPAM compliant?",
+      "Subscribe",
+      "About Us",
+      "Support",
+      "Solutions",
+      "Popular Features",
+      "Constant Contact Brands",
+      "Do Not Sell or Share My Personal Information",
+      "Get 14 days free",
+      "What's new",
+      "Log in",
+      "Get 14 days free",
+      "Explore email tools",
+      "Elevate your marketing"
+    ],
+    "forms": [
+      {
+        "action": "/trial/signup",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "email",
+            "placeholder": "Email"
+          }
+        ]
+      },
+      {
+        "action": "/api/footer-jmml/submit",
+        "method": "",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "method",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "sub",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "page",
+            "placeholder": ""
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 104,
+    "images_count": 39,
+    "images_with_alt": 35,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Email Marketing"
+      },
+      {
+        "level": 2,
+        "text": "Tell your story withemail."
+      },
+      {
+        "level": 2,
+        "text": "Find yourfollowing."
+      },
+      {
+        "level": 2,
+        "text": "Managemultiple accounts."
+      },
+      {
+        "level": 2,
+        "text": "Your successstarts here."
+      },
+      {
+        "level": 3,
+        "text": "Power your business from one platform."
+      },
+      {
+        "level": 3,
+        "text": "Trusted by experts. Loved by customers."
+      },
+      {
+        "level": 3,
+        "text": "Our customers inspire us.Let them inspire you."
+      },
+      {
+        "level": 3,
+        "text": "For small businesses"
+      },
+      {
+        "level": 3,
+        "text": "For multiple accounts"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "email",
+        "placeholder": "Email"
+      },
+      {
+        "type": "hidden",
+        "name": "method",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "sub",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "page",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email"
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Follow Us on Instagram",
+      "Follow Us on Youtube",
+      "Follow Us on Facebook",
+      "Follow Us on LinkedIn",
+      "Follow Us on Pinterest",
+      "Follow Us on Twitter",
+      "Company",
+      "Careers",
+      "News",
+      "What's New",
+      "Contact Us",
+      "Knowledge Base",
+      "Product Help Center",
+      "Community",
+      "Teams",
+      "Agencies & Freelancers",
+      "Associations"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "With Constant Contact, you can create effective email marketing and online marketing campaigns to meet your business goals. Start your FREE trial today!",
+    "scripts_count": 175
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Comprehensive email marketing tools",
+      "Integration with social media platforms",
+      "AI-powered marketing features",
+      "Extensive template library"
+    ],
+    "confidence": "high"
+  }
+}

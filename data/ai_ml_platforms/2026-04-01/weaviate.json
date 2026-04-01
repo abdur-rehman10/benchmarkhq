@@ -1,0 +1,303 @@
+{
+  "name": "weaviate",
+  "url": "https://weaviate.io",
+  "scanned_at": "2026-04-01T16:52:00.108520",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/weaviate_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/weaviate_mobile.png"
+  },
+  "structure": {
+    "title": "The AI database developers love | Weaviate",
+    "url_final": "https://weaviate.io/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Product",
+        "href": "#"
+      },
+      {
+        "text": "Vector Database",
+        "href": "/platform"
+      },
+      {
+        "text": "Embeddings",
+        "href": "/product/embeddings"
+      },
+      {
+        "text": "Integrations",
+        "href": "/product/integrations"
+      },
+      {
+        "text": "All Products",
+        "href": "/product"
+      },
+      {
+        "text": "Previews",
+        "href": "/product-previews"
+      },
+      {
+        "text": "Query Agent",
+        "href": "/product/query-agent"
+      },
+      {
+        "text": "Transformation Agent",
+        "href": "/product/transformation-agent"
+      },
+      {
+        "text": "Personalization Agent",
+        "href": "/product/personalization-agent"
+      },
+      {
+        "text": "Shared Cloud",
+        "href": "/deployment/shared"
+      },
+      {
+        "text": "Dedicated Cloud",
+        "href": "/deployment/dedicated"
+      },
+      {
+        "text": "Enablement",
+        "href": "/deployment/enablement"
+      },
+      {
+        "text": "Vector Database",
+        "href": "/platform"
+      },
+      {
+        "text": "Embeddings",
+        "href": "/product/embeddings"
+      },
+      {
+        "text": "Integrations",
+        "href": "/product/integrations"
+      },
+      {
+        "text": "All Products",
+        "href": "/product"
+      },
+      {
+        "text": "Previews",
+        "href": "/product-previews"
+      },
+      {
+        "text": "Query Agent",
+        "href": "/product/query-agent"
+      },
+      {
+        "text": "Transformation Agent",
+        "href": "/product/transformation-agent"
+      }
+    ],
+    "buttons": [
+      "Necessary25",
+      "Preferences1",
+      "Statistics13",
+      "Marketing35",
+      "Unclassified16",
+      "[#IABV2_LABEL_PURPOSES#]",
+      "[#IABV2_LABEL_FEATURES#]",
+      "[#IABV2_LABEL_PARTNERS#]",
+      "Allow all",
+      "Customize",
+      "Allow selection",
+      "Deny",
+      "SEARCH",
+      "VECTORIZE",
+      "RAG",
+      "TENANTS",
+      "INDEX",
+      "AGENTS",
+      "Login",
+      "Contact",
+      "Get Started",
+      "How we empowerAI builders \u2192",
+      "Try Weaviate Cloud",
+      "Weaviate Quickstart"
+    ],
+    "forms": [],
+    "links_count": 231,
+    "images_count": 23,
+    "images_with_alt": 21,
+    "headings": [
+      {
+        "level": 1,
+        "text": "FOR AI ENGINEERSturning ideas into products"
+      },
+      {
+        "level": 2,
+        "text": "One foundation for search, RAG, agents, and everything that comes next"
+      },
+      {
+        "level": 2,
+        "text": "The best teams choose Weaviate to power their AI products"
+      },
+      {
+        "level": 2,
+        "text": "Ready to get started?"
+      },
+      {
+        "level": 3,
+        "text": "Production-readyAI applications, faster"
+      },
+      {
+        "level": 3,
+        "text": "Turning over 450 data types into customer insights"
+      },
+      {
+        "level": 3,
+        "text": "Production-ready AI assistant built in 7 days"
+      },
+      {
+        "level": 3,
+        "text": "Customer service agents with 90% faster search"
+      },
+      {
+        "level": 3,
+        "text": "Successful management of 42M vectors in production"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Vector Database",
+      "Products",
+      "Pricing",
+      "Weaviate Cloud",
+      "Deployment",
+      "Shared Cloud",
+      "Dedicated Cloud",
+      "Enablement",
+      "Trust",
+      "Security",
+      "Terms & Policies",
+      "Report a Vulnerability",
+      "Cookie Settings",
+      "RAG",
+      "Hybrid Search",
+      "Agentic AI",
+      "Cost Performance Optimization",
+      "Examples",
+      "Demos",
+      "Learning Center"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 172,
+    "has_og_tags": true,
+    "meta_description": "Bring AI-native applications to life with less hallucination, data leakage, and vendor lock-in",
+    "scripts_count": 44
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Vector Database",
+      "Embeddings",
+      "Integrations",
+      "AI Agents",
+      "Shared and Dedicated Cloud Deployment"
+    ],
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "name": "folk",
+  "url": "https://www.folk.app",
+  "scanned_at": "2026-04-01T14:27:43.337413",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/folk_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/folk_mobile.png"
+  },
+  "structure": {
+    "title": "folk, the CRM that works for you",
+    "url_final": "https://www.folk.app/",
+    "nav_items": [
+      {
+        "text": "folkX extension for LinkedInConnect your CRM to Li",
+        "href": "/products/folkx"
+      },
+      {
+        "text": "1-click EnrichmentFind missing contact details wit",
+        "href": "/products/contact-enrichment"
+      },
+      {
+        "text": "Messages and SequencesSend bulk email campaigns, s",
+        "href": "/products/emailing"
+      },
+      {
+        "text": "AssistantsNewAssistants working for you 24/7. Even",
+        "href": "/products/assistants"
+      },
+      {
+        "text": "DashboardsAnalyze your sales funnel and get busine",
+        "href": "/products/dashboards"
+      },
+      {
+        "text": "Pipeline managementVisualize your entire sales cyc",
+        "href": "/products/pipelines-management"
+      },
+      {
+        "text": "IntegrationsIntegrations you can connect to folk i",
+        "href": "/products/integrations"
+      },
+      {
+        "text": "CRM for LinkedIn",
+        "href": "/linkedin-crm"
+      },
+      {
+        "text": "CRM for Gmail",
+        "href": "/crm-for-x/gmail"
+      },
+      {
+        "text": "CRM for Outlook",
+        "href": "/crm-for-x/outlook"
+      },
+      {
+        "text": "CRM for WhatsApp",
+        "href": "/whatsapp-crm"
+      },
+      {
+        "text": "Watch Demo",
+        "href": "#"
+      },
+      {
+        "text": "For sales teams",
+        "href": "/crm-for-x/sales"
+      },
+      {
+        "text": "For agencies",
+        "href": "/agency-crm"
+      },
+      {
+        "text": "For startups",
+        "href": "/startup-crm"
+      },
+      {
+        "text": "For partnership teams",
+        "href": "/crm-for-x/partnerships"
+      },
+      {
+        "text": "CRM for Social Selling",
+        "href": "/social-selling"
+      },
+      {
+        "text": "folk tutorialsLearn how to set up your folk accoun",
+        "href": "/tutorials"
+      },
+      {
+        "text": "BlogStories, guides and resources from folk",
+        "href": "/blog"
+      },
+      {
+        "text": "Become an affiliateShare folk with your audience a",
+        "href": "https://folkapp.partnerstack.com/"
+      }
+    ],
+    "buttons": [
+      "Get a demo",
+      "Log in",
+      "Try for free",
+      "Try for free",
+      "Get a demo",
+      "Login",
+      "Try for free",
+      "Learn more",
+      "Learn more",
+      "Learn more",
+      "Learn more"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Contact-Email-2",
+            "placeholder": "walt@disney.com"
+          },
+          {
+            "type": "text",
+            "name": "ContactMembers-2",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "get",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Contact-Email-2",
+            "placeholder": "walt@disney.com"
+          },
+          {
+            "type": "text",
+            "name": "ContactMembers-2",
+            "placeholder": ""
+          },
+          {
+            "type": "submit",
+            "name": "",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 95,
+    "images_count": 71,
+    "images_with_alt": 30,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The CRM thatworksfor your team"
+      },
+      {
+        "level": 2,
+        "text": "folk CRM captures multi-channel data to automate your work"
+      },
+      {
+        "level": 2,
+        "text": "Follow-up Assistant"
+      },
+      {
+        "level": 2,
+        "text": "Recap Assistant"
+      },
+      {
+        "level": 2,
+        "text": "Research Assistant"
+      },
+      {
+        "level": 2,
+        "text": "Workflow Assistant"
+      },
+      {
+        "level": 3,
+        "text": "Capture contacts fast as lightning"
+      },
+      {
+        "level": 3,
+        "text": "Sales research, done for your team"
+      },
+      {
+        "level": 3,
+        "text": "Personal outreach, at scale"
+      },
+      {
+        "level": 3,
+        "text": "Get the full story about every lead"
+      },
+      {
+        "level": 3,
+        "text": "Sell together, close faster"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "Contact-Email-2",
+        "placeholder": "walt@disney.com"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "email",
+        "name": "Contact-Email-2",
+        "placeholder": "walt@disney.com"
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Migrate my CRM",
+      "Download folkX extension",
+      "Download Desktop app",
+      "folk vs Hubspot",
+      "folk vs Pipedrive",
+      "folk vs Airtable",
+      "folk vs Monday",
+      "Other CRM comparisons",
+      "CRM for Agencies",
+      "CRM for Sales",
+      "CRM for Partnerships",
+      "CRM for Startups",
+      "CRM for Venture Capital",
+      "Help center",
+      "Tutorials",
+      "Blog",
+      "Explore the Changelog",
+      "Free tools",
+      "Famous lists",
+      "Other resources"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 17,
+    "has_og_tags": true,
+    "meta_description": "folk is a simple, integrated, and proactive CRM. We do the busy work for you, so you can focus on growing your business. Multi-channel data in one place, AI to help you sell more.",
+    "scripts_count": 56
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "folkX extension for LinkedIn",
+      "1-click Enrichment",
+      "Messages and Sequences",
+      "Assistants working 24/7",
+      "Pipeline management"
+    ],
+    "confidence": "medium"
+  }
+}

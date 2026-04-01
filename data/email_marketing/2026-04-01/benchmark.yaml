@@ -1,0 +1,194 @@
+metadata:
+  industry: email_marketing
+  name: Email Marketing SaaS
+  category: Marketing
+  version: 1.0.0
+  generated_at: '2026-04-01T14:54:21.516794'
+  sites_analyzed: 30
+  sites:
+  - mailchimp
+  - convertkit
+  - klaviyo
+  - brevo
+  - activecampaign
+  - drip
+  - mailerlite
+  - getresponse
+  - aweber
+  - constant_contact
+  - campaign_monitor
+  - moosend
+  - omnisend
+  - sender
+  - benchmark_email
+  - mailjet
+  - sendgrid
+  - postmark
+  - customerio
+  - iterable
+  - sendinblue
+  - flodesk
+  - beehiiv
+  - buttondown
+  - substack
+  - ghost
+  - resend
+  - loops
+  - plunk
+  - emailoctopus
+features:
+  critical:
+  - id: pricing_page
+    frequency: 30/30
+    percent: 100
+  - id: multiple_tiers
+    frequency: 28/30
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 26/30
+    percent: 100
+  - id: transparent_pricing
+    frequency: 27/30
+    percent: 96
+  - id: annual_discount
+    frequency: 22/30
+    percent: 96
+  - id: privacy_policy
+    frequency: 26/30
+    percent: 96
+  - id: terms_of_service
+    frequency: 25/30
+    percent: 96
+  - id: templates_available
+    frequency: 27/30
+    percent: 96
+  - id: free_trial
+    frequency: 25/30
+    percent: 93
+  - id: cookie_consent
+    frequency: 24/30
+    percent: 92
+  - id: integrations_page
+    frequency: 24/30
+    percent: 89
+  - id: help_center
+    frequency: 24/30
+    percent: 89
+  - id: webhooks_support
+    frequency: 22/30
+    percent: 88
+  - id: contact_page
+    frequency: 23/30
+    percent: 88
+  - id: blog
+    frequency: 24/30
+    percent: 86
+  - id: api_documentation
+    frequency: 24/30
+    percent: 86
+  - id: product_screenshots
+    frequency: 23/30
+    percent: 85
+  required:
+  - id: gdpr_mentioned
+    frequency: 20/30
+    percent: 80
+  - id: about_page
+    frequency: 19/30
+    percent: 76
+  - id: free_tier
+    frequency: 21/30
+    percent: 75
+  - id: enterprise_tier
+    frequency: 18/30
+    percent: 75
+  - id: feature_comparison_table
+    frequency: 18/30
+    percent: 75
+  - id: multi_language
+    frequency: 17/30
+    percent: 71
+  - id: customer_logos
+    frequency: 17/30
+    percent: 68
+  - id: changelog
+    frequency: 17/30
+    percent: 68
+  - id: github_presence
+    frequency: 17/30
+    percent: 65
+  recommended:
+  - id: code_examples
+    frequency: 16/30
+    percent: 62
+  - id: careers_page
+    frequency: 15/30
+    percent: 60
+  - id: onboarding_video
+    frequency: 15/30
+    percent: 60
+  - id: community_forum
+    frequency: 15/30
+    percent: 60
+  - id: status_page
+    frequency: 15/30
+    percent: 58
+  - id: case_studies
+    frequency: 14/30
+    percent: 56
+  - id: video_demo
+    frequency: 14/30
+    percent: 56
+  - id: live_chat
+    frequency: 14/30
+    percent: 56
+  - id: sdk_available
+    frequency: 14/30
+    percent: 54
+  - id: security_page
+    frequency: 13/30
+    percent: 52
+  - id: developer_portal
+    frequency: 13/30
+    percent: 52
+  - id: interactive_demo
+    frequency: 13/30
+    percent: 52
+  - id: ios_app
+    frequency: 11/30
+    percent: 44
+  - id: android_app
+    frequency: 11/30
+    percent: 44
+  - id: dpa_available
+    frequency: 9/30
+    percent: 41
+  - id: social_signup
+    frequency: 10/30
+    percent: 40
+  nice_to_have:
+  - id: soc2_mentioned
+    frequency: 4/30
+    percent: 22
+  innovative:
+  - id: openapi_spec
+    frequency: 2/30
+    percent: 11
+  - id: roi_calculator
+    frequency: 2/30
+    percent: 11
+  - id: iso27001_mentioned
+    frequency: 1/30
+    percent: 6
+  - id: api_playground
+    frequency: 1/30
+    percent: 6
+  - id: sla_published
+    frequency: 1/30
+    percent: 6
+  - id: desktop_app
+    frequency: 0/30
+    percent: 0
+  - id: browser_extension
+    frequency: 0/30
+    percent: 0

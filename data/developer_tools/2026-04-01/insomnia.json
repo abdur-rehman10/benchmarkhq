@@ -1,0 +1,217 @@
+{
+  "name": "insomnia",
+  "url": "https://insomnia.rest",
+  "scanned_at": "2026-04-01T15:43:37.733170",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/insomnia_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/insomnia_mobile.png"
+  },
+  "structure": {
+    "title": "The Collaborative API Development Platform - Insomnia",
+    "url_final": "https://insomnia.rest/",
+    "nav_items": [
+      {
+        "text": "38,241",
+        "href": "https://github.com/Kong/insomnia"
+      },
+      {
+        "text": "Features",
+        "href": ""
+      },
+      {
+        "text": "API Design",
+        "href": "/features/api-design"
+      },
+      {
+        "text": "Insomnia CLI",
+        "href": "/features/insomnia-cli"
+      },
+      {
+        "text": "API Mocking",
+        "href": "/features/api-mocking"
+      },
+      {
+        "text": "Collaboration",
+        "href": "/features/collaboration"
+      },
+      {
+        "text": "API Testing",
+        "href": "/features/api-testing"
+      },
+      {
+        "text": "Local, Git, Cloud Storage",
+        "href": "/features/local-vault"
+      },
+      {
+        "text": "API Debugging",
+        "href": "/features/api-debugging"
+      },
+      {
+        "text": "Enterprise Features",
+        "href": "/features/enterprise"
+      },
+      {
+        "text": "MCP Client",
+        "href": "/features/mcp-client"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Plugins",
+        "href": "/plugins"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.insomnia.rest/app/login/"
+      },
+      {
+        "text": "Get Started for Free",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Privacy Choices",
+      "38,241",
+      "Login",
+      "Get Started for Free",
+      "Get Started for Free",
+      "Contact Sales",
+      "View All"
+    ],
+    "forms": [],
+    "links_count": 61,
+    "images_count": 29,
+    "images_with_alt": 20,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Sleep well. Your APIs are AI-ready."
+      },
+      {
+        "level": 1,
+        "text": "Kong Insomnia 12: Smarter, Faster, More Accessible API and MCP Development"
+      },
+      {
+        "level": 1,
+        "text": "Kong Insomnia 11: Elevating API Security and Collaboration"
+      },
+      {
+        "level": 1,
+        "text": "Announcing Insomnia\u2019s New Teams RBAC and Domain Capture"
+      },
+      {
+        "level": 2,
+        "text": "Open-source and free tier:"
+      },
+      {
+        "level": 2,
+        "text": "Scale your API workflow"
+      },
+      {
+        "level": 2,
+        "text": "Loved by API developers and adopted by security-first organizations"
+      },
+      {
+        "level": 2,
+        "text": "Related announcements"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Home",
+      "Blog",
+      "Changelog",
+      "Pricing",
+      "CareersHiring",
+      "API Design",
+      "API Mocking",
+      "API Testing",
+      "API Debugging",
+      "Insomnia CLI",
+      "Collaboration",
+      "Local, Git, Cloud Storage",
+      "Enterprise Features",
+      "Sign in",
+      "Documentation",
+      "Support",
+      "Download",
+      "Privacy Policy"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Leading Open Source API Development Platform for HTTP, REST, GraphQL, gRPC, SOAP, and WebSockets",
+    "scripts_count": 30
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "N",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "Y",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Collaborative API development",
+      "Open-source and free tier",
+      "Enterprise features",
+      "API mocking and testing"
+    ],
+    "confidence": "high"
+  }
+}

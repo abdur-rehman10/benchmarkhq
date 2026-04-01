@@ -1,0 +1,181 @@
+{
+  "name": "upstash",
+  "url": "https://upstash.com",
+  "scanned_at": "2026-04-01T15:46:30.370505",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/upstash_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/upstash_mobile.png"
+  },
+  "structure": {
+    "title": "Upstash: Serverless Data Platform",
+    "url_final": "https://upstash.com/",
+    "nav_items": [
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Customers",
+        "href": "/customers"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/enterprise"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      }
+    ],
+    "buttons": [
+      "Company4",
+      "Expand menu",
+      "Redis\u00ae*",
+      "Vector",
+      "QStash",
+      "Workflow",
+      "Box",
+      "Documentation",
+      "Create Database",
+      "Caching",
+      "Session Management",
+      "Rate Limiting",
+      "Leaderboards",
+      "Chat",
+      "TypeScript",
+      "Python"
+    ],
+    "forms": [],
+    "links_count": 57,
+    "images_count": 3,
+    "images_with_alt": 3,
+    "headings": [
+      {
+        "level": 1,
+        "text": "ServerlessData Platform"
+      },
+      {
+        "level": 2,
+        "text": "The single platform for all your data needs"
+      },
+      {
+        "level": 2,
+        "text": "Low-latency, serverless key-value store"
+      },
+      {
+        "level": 3,
+        "text": "Serverless & Edge"
+      },
+      {
+        "level": 3,
+        "text": "Meet our Customers"
+      },
+      {
+        "level": 3,
+        "text": "Community"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "radio",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "product",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "product",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Contact Us",
+      "Privacy Policy",
+      "Terms of Service",
+      "Status",
+      "Latency"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 20,
+    "has_og_tags": true,
+    "meta_description": "Upstash is a serverless data platform providing low latency and high scalability for real-time applications. Optimize your data infrastructure with Upstash's managed services for Redis, Vector, QStash",
+    "scripts_count": 30
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "Y",
+      "about_page": "U",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "Y",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Serverless data platform",
+      "Low-latency key-value store",
+      "Community engagement"
+    ],
+    "confidence": "medium"
+  }
+}

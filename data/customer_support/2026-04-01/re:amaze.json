@@ -1,0 +1,210 @@
+{
+  "name": "re:amaze",
+  "url": "https://www.reamaze.com",
+  "scanned_at": "2026-04-01T14:38:44.942510",
+  "screenshots": {
+    "desktop": "data/customer_support/2026-04-01/screenshots/re:amaze_desktop.png",
+    "mobile": "data/customer_support/2026-04-01/screenshots/re:amaze_mobile.png"
+  },
+  "structure": {
+    "title": "Re:amaze - AI-Powered Customer Service and AI Agent Platform Designed for eCommerce and Online Businesses",
+    "url_final": "https://www.reamaze.com/",
+    "nav_items": [],
+    "buttons": [
+      "Get Started - It's Free!",
+      "\u00d7",
+      "\u00d7",
+      "Start for free",
+      "Request Demo",
+      "Read Case Study",
+      "Start Re:amaze Free. Go for it!",
+      "Request a Demo",
+      "OK",
+      "Sign up with email",
+      "Sign up with Google",
+      "Sign up with Microsoft"
+    ],
+    "forms": [
+      {
+        "action": "/signup",
+        "method": "get",
+        "fields": [
+          {
+            "type": "text",
+            "name": "company",
+            "placeholder": "Company Name"
+          },
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Your Name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Your Email"
+          }
+        ]
+      },
+      {
+        "action": "https://reamaze.reamaze.com/conversations/new?sso%5Bid%5D=&sso%5Banon_id%5D=&sso%5Bfirst_seen%5D=202",
+        "method": "post",
+        "fields": [
+          {
+            "type": "hidden",
+            "name": "sparams",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "destination",
+            "placeholder": ""
+          }
+        ]
+      }
+    ],
+    "links_count": 79,
+    "images_count": 56,
+    "images_with_alt": 3,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Transform agent productivity and create happier customers with our unified custo"
+      },
+      {
+        "level": 1,
+        "text": "Consolidate all your customer support channels and respond faster than ever befo"
+      },
+      {
+        "level": 1,
+        "text": "Let AI handle your chats"
+      },
+      {
+        "level": 1,
+        "text": "Upgrade your customer support with AI-powered tools and insights"
+      },
+      {
+        "level": 1,
+        "text": "Know your customers. Empower your team with real time customer data"
+      },
+      {
+        "level": 2,
+        "text": "Re:amaze helps amazing companies deliver better customer service and customer en"
+      },
+      {
+        "level": 2,
+        "text": "INTELLIGENT CUSTOMER HELPDESK"
+      },
+      {
+        "level": 2,
+        "text": "Smart engagement"
+      },
+      {
+        "level": 2,
+        "text": "Autopilot for chat"
+      },
+      {
+        "level": 2,
+        "text": "Co-browse with AI"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "company",
+        "placeholder": "Company Name"
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Your Name"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "Your Email"
+      },
+      {
+        "type": "hidden",
+        "name": "sparams",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "destination",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": false,
+    "aria_labels_count": 5,
+    "has_og_tags": true,
+    "meta_description": "Re:amaze is Simple, Intuitive Customer Support Software. Support, Engage, and Convert Customers with Chat, Social, SMS, FAQ, and Email on a Single Platform. Everything you need to impress your custome",
+    "scripts_count": 39
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "U",
+      "code_examples": "Y",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "Y",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "U",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered customer service",
+      "Unified customer support channels",
+      "Real-time customer data insights",
+      "Co-browsing with AI"
+    ],
+    "confidence": "high"
+  }
+}

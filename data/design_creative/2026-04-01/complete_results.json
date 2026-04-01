@@ -1,0 +1,6806 @@
+[
+  {
+    "name": "figma",
+    "url": "https://www.figma.com",
+    "scanned_at": "2026-04-01T15:26:53.397418",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/figma_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/figma_mobile.png"
+    },
+    "structure": {
+      "title": "Figma: The Collaborative Interface Design Tool",
+      "url_final": "https://www.figma.com/",
+      "nav_items": [
+        {
+          "text": "Figma DesignDesign and prototype in one place",
+          "href": "https://www.figma.com/design/"
+        },
+        {
+          "text": "Dev ModeTranslate designs into code",
+          "href": "https://www.figma.com/dev-mode/"
+        },
+        {
+          "text": "FigJamCollaborate with a digital whiteboard",
+          "href": "https://www.figma.com/figjam/"
+        },
+        {
+          "text": "Figma SlidesCo-create presentations",
+          "href": "https://www.figma.com/slides/"
+        },
+        {
+          "text": "Figma DrawIllustrate with advanced vector tools",
+          "href": "https://www.figma.com/draw/"
+        },
+        {
+          "text": "Figma BuzzBetaProduce on-brand assets at scale",
+          "href": "https://www.figma.com/buzz/"
+        },
+        {
+          "text": "Figma SitesBetaPublish fully responsive websites",
+          "href": "https://www.figma.com/sites/"
+        },
+        {
+          "text": "Figma MakePrompt to code anything you can imagine",
+          "href": "https://www.figma.com/make/"
+        },
+        {
+          "text": "AIExplore all Figma AI features",
+          "href": "https://www.figma.com/ai/"
+        },
+        {
+          "text": "MCPConnect Figma to AI coding tools",
+          "href": "https://www.figma.com/mcp-catalog/"
+        },
+        {
+          "text": "DownloadsGet the desktop, mobile,\u2028and font install",
+          "href": "https://www.figma.com/downloads/"
+        },
+        {
+          "text": "Release NotesSee the latest features and releases",
+          "href": "https://www.figma.com/release-notes/"
+        },
+        {
+          "text": "Design systems",
+          "href": "https://www.figma.com/design-systems/"
+        },
+        {
+          "text": "Prototyping",
+          "href": "https://www.figma.com/prototyping/"
+        },
+        {
+          "text": "UX design",
+          "href": "https://www.figma.com/ux-design-tool/"
+        },
+        {
+          "text": "Web design",
+          "href": "https://www.figma.com/web-design/"
+        },
+        {
+          "text": "Wireframing",
+          "href": "https://www.figma.com/wireframe-tool/"
+        },
+        {
+          "text": "Online whiteboard",
+          "href": "https://www.figma.com/figjam/online-whiteboard/"
+        },
+        {
+          "text": "Agile",
+          "href": "https://www.figma.com/figjam/agile-workflows/"
+        },
+        {
+          "text": "Strategic planning",
+          "href": "https://www.figma.com/figjam/strategic-planning/"
+        }
+      ],
+      "buttons": [
+        "Products",
+        "Solutions",
+        "Community",
+        "Resources",
+        "Prompt",
+        "Design",
+        "Draw",
+        "Build",
+        "Publish",
+        "Promote",
+        "Jam",
+        "Present",
+        "Turn Figma context into code",
+        "Publish custom websites\u2014with or without code",
+        "Ship products faster with AI",
+        "English"
+      ],
+      "forms": [],
+      "links_count": 189,
+      "images_count": 112,
+      "images_with_alt": 92,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Make anything possible, all in Figma"
+        },
+        {
+          "level": 2,
+          "text": "Use cases"
+        },
+        {
+          "level": 2,
+          "text": "Roles"
+        },
+        {
+          "level": 2,
+          "text": "Organizations"
+        },
+        {
+          "level": 2,
+          "text": "Get started"
+        },
+        {
+          "level": 2,
+          "text": "Learn"
+        },
+        {
+          "level": 3,
+          "text": "Share libraries and design systems across teams."
+        },
+        {
+          "level": 3,
+          "text": "Unlock your team with on-brand templates."
+        },
+        {
+          "level": 3,
+          "text": "Create one source of truth for devs and designers."
+        },
+        {
+          "level": 3,
+          "text": "Turn Figma context into code"
+        },
+        {
+          "level": 3,
+          "text": "Publish custom websites\u2014with or without code"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Figma Design",
+        "Dev Mode",
+        "FigJam",
+        "Figma Slides",
+        "Figma Draw",
+        "Figma BuzzBeta",
+        "Figma SitesBeta",
+        "Figma Make",
+        "Figma WeaveNew",
+        "AI",
+        "Downloads",
+        "Release notes",
+        "Pricing",
+        "Enterprise",
+        "Organization"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 44,
+      "has_og_tags": true,
+      "meta_description": "Figma is the leading collaborative design platform for building meaningful products. Design, prototype, and build products faster\u2014while gathering feedback all in one place.",
+      "scripts_count": 113
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "Y",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "Y",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "Y",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Collaborative design and prototyping",
+        "AI features for design and development",
+        "Extensive integration capabilities",
+        "Comprehensive design system management"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "canva",
+    "url": "https://www.canva.com",
+    "scanned_at": "2026-04-01T15:27:13.465750",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/canva_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/canva_mobile.png"
+    },
+    "structure": {
+      "title": "Canva: Visual Suite for Everyone",
+      "url_final": "https://www.canva.com/",
+      "nav_items": [
+        {
+          "text": "Sheets",
+          "href": "https://www.canva.com/sheets/"
+        },
+        {
+          "text": "Docs",
+          "href": "https://www.canva.com/docs/"
+        },
+        {
+          "text": "Whiteboards",
+          "href": "https://www.canva.com/online-whiteboard/"
+        },
+        {
+          "text": "Presentations",
+          "href": "https://www.canva.com/presentations/"
+        },
+        {
+          "text": "Social",
+          "href": "https://www.canva.com/social-media/"
+        },
+        {
+          "text": "Photo Editor",
+          "href": "https://www.canva.com/photo-editor/"
+        },
+        {
+          "text": "Videos",
+          "href": "https://www.canva.com/video-editor/"
+        },
+        {
+          "text": "Print",
+          "href": "https://www.canva.com/print/"
+        },
+        {
+          "text": "Websites",
+          "href": "https://www.canva.com/website-builder/"
+        },
+        {
+          "text": "PDF Editor",
+          "href": "https://www.canva.com/pdf-editor/"
+        },
+        {
+          "text": "Business cards",
+          "href": "https://www.canva.com/business-cards/"
+        },
+        {
+          "text": "Invitations",
+          "href": "https://www.canva.com/invitations/"
+        },
+        {
+          "text": "Flyers",
+          "href": "https://www.canva.com/flyers/"
+        },
+        {
+          "text": "Brochures",
+          "href": "https://www.canva.com/brochures/"
+        },
+        {
+          "text": "T-shirts",
+          "href": "https://www.canva.com/t-shirts/"
+        },
+        {
+          "text": "Mugs",
+          "href": "https://www.canva.com/custom-mugs/"
+        },
+        {
+          "text": "Stickers",
+          "href": "https://www.canva.com/stickers/"
+        },
+        {
+          "text": "Hoodies",
+          "href": "https://www.canva.com/hoodies-sweatshirts/"
+        },
+        {
+          "text": "Labels",
+          "href": "https://www.canva.com/labels/"
+        },
+        {
+          "text": "Posters",
+          "href": "https://www.canva.com/posters/"
+        }
+      ],
+      "buttons": [
+        "Accept all cookies",
+        "Manage cookies",
+        "Design",
+        "Product",
+        "Plans",
+        "Business",
+        "Education",
+        "Help",
+        "Start designing for free",
+        "New launches",
+        "AI",
+        "Social",
+        "Video",
+        "Presentations",
+        "Product",
+        "Plans",
+        "About",
+        "Community",
+        "Inspiration",
+        "Help",
+        "Tools",
+        "English (US)"
+      ],
+      "forms": [],
+      "links_count": 391,
+      "images_count": 39,
+      "images_with_alt": 26,
+      "headings": [
+        {
+          "level": 1,
+          "text": "What will you design today?"
+        },
+        {
+          "level": 2,
+          "text": "Digital design"
+        },
+        {
+          "level": 2,
+          "text": "Print design"
+        },
+        {
+          "level": 2,
+          "text": "Images and photos"
+        },
+        {
+          "level": 2,
+          "text": "Videos and audio"
+        },
+        {
+          "level": 2,
+          "text": "Product"
+        },
+        {
+          "level": 3,
+          "text": "Digital design"
+        },
+        {
+          "level": 3,
+          "text": "Print design"
+        },
+        {
+          "level": 3,
+          "text": "Images and photos"
+        },
+        {
+          "level": 3,
+          "text": "Videos and audio"
+        },
+        {
+          "level": 3,
+          "text": "Product"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Windows",
+        "Mac",
+        "Latest launches",
+        "Visual Suite",
+        "Magic Studio",
+        "Brand management",
+        "Social media",
+        "Features",
+        "Print",
+        "Apps Marketplace",
+        "Affinity",
+        "Pricing",
+        "Pro",
+        "Business",
+        "Enterprise",
+        "Education",
+        "Higher education",
+        "Nonprofits"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 66,
+      "has_og_tags": true,
+      "meta_description": "Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.",
+      "scripts_count": 15
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "U",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "U",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "U",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "U",
+        "code_examples": "Y",
+        "openapi_spec": "U",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "U",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "U",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Comprehensive design tools",
+        "Wide range of templates",
+        "AI-powered design features",
+        "Collaboration tools",
+        "Print and digital design capabilities"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "adobe_creative_cloud",
+    "url": "https://www.adobe.com/creativecloud.html",
+    "scanned_at": "2026-04-01T15:27:33.272078",
+    "screenshots": {},
+    "structure": {},
+    "errors": [
+      "desktop: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.adobe.com/creativecloud.html\nCall log:\n  - navigating to \"https://www.adobe.com/creativecloud.html\", waiting until \"domcontentloaded\"\n",
+      "mobile: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.adobe.com/creativecloud.html\nCall log:\n  - navigating to \"https://www.adobe.com/creativecloud.html\", waiting until \"domcontentloaded\"\n"
+    ],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "N",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "Y",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "N",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Comprehensive suite of creative tools",
+        "Strong integration with other Adobe products",
+        "Extensive library of templates and assets"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "sketch",
+    "url": "https://www.sketch.com",
+    "scanned_at": "2026-04-01T15:27:41.344394",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/sketch_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/sketch_mobile.png"
+    },
+    "structure": {
+      "title": "Sketch \u00b7 Design, prototype, collaborate and handoff",
+      "url_final": "https://www.sketch.com/",
+      "nav_items": [
+        {
+          "text": "Sketch",
+          "href": "/"
+        },
+        {
+          "text": "Sign In",
+          "href": "/signin/"
+        },
+        {
+          "text": "DesignCreate with precision",
+          "href": "/design/"
+        },
+        {
+          "text": "CollaborationWork better, together",
+          "href": "/collaborate/"
+        },
+        {
+          "text": "PrototypingBring ideas to life",
+          "href": "/prototype/"
+        },
+        {
+          "text": "Developer HandoffFrom design to code",
+          "href": "/handoff/"
+        },
+        {
+          "text": "All Features",
+          "href": "/features/"
+        },
+        {
+          "text": "Changelog",
+          "href": "/changelog/"
+        },
+        {
+          "text": "NewWeb layer list and inspector improvements12 Mar",
+          "href": "/changelog/web-layer-list-and-inspector-improvements/"
+        },
+        {
+          "text": "Blog",
+          "href": "/blog/"
+        },
+        {
+          "text": "Design Resources",
+          "href": "/design-resources/"
+        },
+        {
+          "text": "Extensions & Plugins",
+          "href": "/extensions/"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing/"
+        },
+        {
+          "text": "Help Center",
+          "href": "/support/"
+        },
+        {
+          "text": "Documentation",
+          "href": "/docs/"
+        },
+        {
+          "text": "Contact Us",
+          "href": "/support/contact/"
+        },
+        {
+          "text": "Community Discord",
+          "href": "https://discord.gg/ascPpfDSSV"
+        },
+        {
+          "text": "Sign In",
+          "href": "/signin/"
+        },
+        {
+          "text": "Get startedDownload",
+          "href": "/downloads/mac/"
+        }
+      ],
+      "buttons": [
+        "Menu",
+        "icon-close",
+        "Sign up",
+        "Get startedDownload",
+        "Get started",
+        "Get started for free",
+        "Designing in Sketch",
+        "Prototyping in Sketch",
+        "Collaboration in Sketch",
+        "What makes us different?",
+        "Get started for free"
+      ],
+      "forms": [
+        {
+          "action": "/.netlify/functions/marketing-communications",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Email address"
+            },
+            {
+              "type": "checkbox",
+              "name": "gdpr",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 97,
+      "images_count": 26,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Designers, welcome home."
+        },
+        {
+          "level": 2,
+          "text": "Design without distractions"
+        },
+        {
+          "level": 2,
+          "text": "Test your ideas faster"
+        },
+        {
+          "level": 2,
+          "text": "Take your work further"
+        },
+        {
+          "level": 2,
+          "text": "Discover a better way to design"
+        },
+        {
+          "level": 2,
+          "text": "Never miss an update"
+        },
+        {
+          "level": 3,
+          "text": "New in Sketch: Get full control over what you share"
+        },
+        {
+          "level": 3,
+          "text": "New in Sketch: Better link previews in Slack"
+        },
+        {
+          "level": 3,
+          "text": "New in Sketch: A better Inspect mode"
+        },
+        {
+          "level": 3,
+          "text": "New in Sketch: Faster Workspace organization"
+        },
+        {
+          "level": 3,
+          "text": "Flexible foundations"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "Email address"
+        },
+        {
+          "type": "checkbox",
+          "name": "gdpr",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Changelog",
+        "Design",
+        "Collaboration",
+        "Prototyping",
+        "Developer Handoff",
+        "All Features",
+        "View & Mirror on iOS",
+        "Beta",
+        "Design Resources",
+        "Blog",
+        "Extensions & Plugins",
+        "Figma to Sketch",
+        "Pricing",
+        "Roadmap",
+        "Free for Education",
+        "Help Center",
+        "Documentation",
+        "Community Discord",
+        "Developer Platform",
+        "Service Status"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 6,
+      "has_og_tags": true,
+      "meta_description": "Sketch puts the focus back on you and your work. Made by designers, for designers.",
+      "scripts_count": 9
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "N",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "N",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "Y",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "Y",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "N",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Design and prototyping tools",
+        "Collaboration features",
+        "Developer handoff capabilities"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "framer",
+    "url": "https://www.framer.com",
+    "scanned_at": "2026-04-01T15:28:02.850931",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/framer_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/framer_mobile.png"
+    },
+    "structure": {
+      "title": "Framer: Create a professional website, free. No code website builder loved by designers.",
+      "url_final": "https://www.framer.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "./"
+        },
+        {
+          "text": "Log in",
+          "href": "https://framer.com/r/login"
+        },
+        {
+          "text": "Sign up",
+          "href": "https://www.framer.com/r/signup/"
+        },
+        {
+          "text": "CopyLogo as SVG",
+          "href": ""
+        },
+        {
+          "text": "BrandGuidelines",
+          "href": "./brand"
+        },
+        {
+          "text": "Product",
+          "href": ""
+        },
+        {
+          "text": "Teams",
+          "href": ""
+        },
+        {
+          "text": "Resources",
+          "href": ""
+        },
+        {
+          "text": "Community",
+          "href": ""
+        },
+        {
+          "text": "Support",
+          "href": ""
+        },
+        {
+          "text": "Enterprise",
+          "href": "./enterprise/"
+        },
+        {
+          "text": "Pricing",
+          "href": "./pricing"
+        }
+      ],
+      "buttons": [
+        "Perplexity",
+        "Flora",
+        "Biograph",
+        "Cradle",
+        "Miro",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert",
+        "View Expert"
+      ],
+      "forms": [],
+      "links_count": 172,
+      "images_count": 274,
+      "images_with_alt": 179,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Build bettersites, faster"
+        },
+        {
+          "level": 2,
+          "text": "Create, collaborate, and go live"
+        },
+        {
+          "level": 2,
+          "text": "Scale without switching tools"
+        },
+        {
+          "level": 2,
+          "text": "Powering ambitious teams worldwide"
+        },
+        {
+          "level": 2,
+          "text": "Get pro help from handpicked experts"
+        },
+        {
+          "level": 2,
+          "text": "Launch faster with community resources"
+        },
+        {
+          "level": 3,
+          "text": "AI"
+        },
+        {
+          "level": 3,
+          "text": "Learn more"
+        },
+        {
+          "level": 3,
+          "text": "Design"
+        },
+        {
+          "level": 3,
+          "text": "Learn more"
+        },
+        {
+          "level": 3,
+          "text": "CMS"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "button",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "All systems operationaloperational",
+        "Mac",
+        "Windows",
+        "CCPA",
+        "AI",
+        "Design",
+        "Publish",
+        "Collaborate",
+        "Convert",
+        "CMS",
+        "SEO",
+        "Hosting",
+        "Performance"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 25,
+      "has_og_tags": true,
+      "meta_description": "Build a free website with Framer\u2014enjoy full design freedom, powerful CMS, built-in SEO, and real-time collaboration. Create professional, fully custom sites with the no-code builder loved by designers",
+      "scripts_count": 58
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "No code website builder",
+        "Community resources",
+        "Expert help available"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "penpot",
+    "url": "https://penpot.app",
+    "scanned_at": "2026-04-01T15:28:21.919082",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/penpot_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/penpot_mobile.png"
+    },
+    "structure": {
+      "title": "Penpot: The Design platform for Design & Code Collaboration",
+      "url_final": "https://penpot.app/",
+      "nav_items": [
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Design",
+          "href": "/design"
+        },
+        {
+          "text": "Code",
+          "href": "/code"
+        },
+        {
+          "text": "Collaboration",
+          "href": "/collaboration"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing"
+        },
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Self-host",
+          "href": "/self-host"
+        },
+        {
+          "text": "Integrations & API",
+          "href": "/integrations-api"
+        },
+        {
+          "text": "Technical Guide",
+          "href": "https://help.penpot.app/technical-guide/"
+        },
+        {
+          "text": "Changelog",
+          "href": "https://github.com/penpot/penpot/blob/main/CHANGES.md"
+        },
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Features",
+          "href": "/features"
+        },
+        {
+          "text": "Our Community",
+          "href": "https://community.penpot.app/"
+        },
+        {
+          "text": "Community Space",
+          "href": "https://community.penpot.app/"
+        },
+        {
+          "text": "Wall of love",
+          "href": "/wall-of-love"
+        },
+        {
+          "text": "Blog",
+          "href": "https://penpot.app/blog/"
+        },
+        {
+          "text": "Penpot Fest",
+          "href": "/penpotfest"
+        }
+      ],
+      "buttons": [
+        "Interface DesignFlexible layouts,design systemsand",
+        "PrototypingInteractive flows, interactions and tra",
+        "Feedback & shareAll stakeholders stay involved",
+        "Code inspectSpecs, CSS and HTML/SVG markups",
+        "Get your newsletter",
+        "Subscribe",
+        "Accept all",
+        "Reject all",
+        "Customize cookies",
+        "Save",
+        "Cancel",
+        "Discover our story",
+        "Log in",
+        "Contact Sales",
+        "Sign up for free",
+        "Sign up, it's free!",
+        "Self-host install",
+        "See Design features",
+        "Go to design page",
+        "See Collaboration features",
+        "Explore Penpot integrations",
+        "See Code features",
+        "More love",
+        "Check them out",
+        "Go to Penpot Fest site",
+        "Check Penpot's Community",
+        "Join the movement",
+        "Sign up for free",
+        "Self-host install"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "opt-in",
+              "placeholder": ""
+            }
+          ]
+        },
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "email",
+              "placeholder": ""
+            },
+            {
+              "type": "text",
+              "name": "source",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "topic_1",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "topic_2",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "opt-in",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 106,
+      "images_count": 129,
+      "images_with_alt": 26,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Design and code beautiful products.Together."
+        },
+        {
+          "level": 2,
+          "text": "Goodbye \"lost in translation\" and hand-off drama"
+        },
+        {
+          "level": 2,
+          "text": "With Penpot, designers know their interfaces are alreadyexpressed as code."
+        },
+        {
+          "level": 2,
+          "text": "Penpot is a powerfuldesign platform"
+        },
+        {
+          "level": 2,
+          "text": "They love Penpot"
+        },
+        {
+          "level": 2,
+          "text": "Join anunstoppablecommunity"
+        },
+        {
+          "level": 3,
+          "text": "Design & code collaboration\n for real"
+        },
+        {
+          "level": 3,
+          "text": "Open standards & Open Source"
+        },
+        {
+          "level": 3,
+          "text": "Multi-directional design and code workflows"
+        },
+        {
+          "level": 3,
+          "text": "The flexibility of an API & webhooks"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "opt-in",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "email",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "source",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "topic_1",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "topic_2",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "opt-in",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Design",
+        "Code",
+        "Collaboration",
+        "Integrations & API",
+        "Self-host",
+        "Features",
+        "Pricing",
+        "Terms & conditions",
+        "Privacy policy",
+        "Cookie policy",
+        "Data processing agreement",
+        "Security and Compliance",
+        "Whistleblowing",
+        "About",
+        "Blog",
+        "Wall of love",
+        "Penpot Fest",
+        "Careers",
+        "Media Kit"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app. ",
+      "scripts_count": 26
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "N",
+        "free_trial": "N",
+        "free_tier": "Y",
+        "multiple_tiers": "N",
+        "enterprise_tier": "N",
+        "annual_discount": "N",
+        "feature_comparison_table": "N",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "Y",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "N",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Open Source",
+        "Design and Code Collaboration",
+        "Self-hosting Option"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "invision",
+    "url": "https://www.invisionapp.com",
+    "scanned_at": "2026-04-01T15:28:42.949625",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/invision_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/invision_mobile.png"
+    },
+    "structure": {
+      "title": "AI Innovation Workspace | Miro",
+      "url_final": "https://miro.com/",
+      "nav_items": [
+        {
+          "text": "AI Overview",
+          "href": "https://miro.com/ai/ai-overview/"
+        },
+        {
+          "text": "AI Workflows",
+          "href": "https://miro.com/products/ai-workflows/"
+        },
+        {
+          "text": "Your AI & Knowledge",
+          "href": "https://miro.com/ai/your-ai/"
+        },
+        {
+          "text": "MCP",
+          "href": "https://miro.com/ai/mcp/"
+        },
+        {
+          "text": "AI Playbooks",
+          "href": "https://miro.com/ai-playbooks/"
+        },
+        {
+          "text": "About Product Acceleration",
+          "href": "https://miro.com/solutions/product-acceleration/"
+        },
+        {
+          "text": "Prototypes",
+          "href": "https://miro.com/products/prototypes/"
+        },
+        {
+          "text": "Insights",
+          "href": "https://miro.com/products/insights/"
+        },
+        {
+          "text": "Roadmaps",
+          "href": "https://miro.com/products/roadmaps/"
+        },
+        {
+          "text": "Specs",
+          "href": "https://miro.com/products/specs/"
+        },
+        {
+          "text": "Technical Design",
+          "href": "https://miro.com/products/technical-design/"
+        },
+        {
+          "text": "Planning & Delivery",
+          "href": "https://miro.com/products/planning-delivery/"
+        },
+        {
+          "text": "Prototypes",
+          "href": "https://miro.com/products/prototypes/"
+        },
+        {
+          "text": "Journeys",
+          "href": "https://miro.com/products/customer-journeys/"
+        },
+        {
+          "text": "Design Workshops",
+          "href": "https://miro.com/products/design-workshops/"
+        },
+        {
+          "text": "Goals",
+          "href": "https://miro.com/products/goals/"
+        },
+        {
+          "text": "Portfolios",
+          "href": "https://miro.com/products/portfolios/"
+        },
+        {
+          "text": "Roadmaps",
+          "href": "https://miro.com/products/roadmaps/"
+        },
+        {
+          "text": "Planning & Delivery",
+          "href": "https://miro.com/products/planning-delivery/"
+        },
+        {
+          "text": "About Business Acceleration",
+          "href": "https://miro.com/solutions/business-acceleration/"
+        }
+      ],
+      "buttons": [
+        "Product",
+        "Solutions",
+        "Resources",
+        "Sign up free",
+        "Product",
+        "Solutions",
+        "Tools",
+        "Resources",
+        "Company",
+        "Plans & Pricing",
+        "English",
+        "English",
+        "Cookies Settings",
+        "Reject All",
+        "Accept All Cookies",
+        "Allow All",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e"
+      ],
+      "forms": [],
+      "links_count": 166,
+      "images_count": 108,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get from brainstorm to breakthrough with Miro"
+        },
+        {
+          "level": 2,
+          "text": "Flow from ideato outcome in seconds"
+        },
+        {
+          "level": 2,
+          "text": "The only thing more importantthan moving fast is moving the needle"
+        },
+        {
+          "level": 2,
+          "text": "100M+"
+        },
+        {
+          "level": 2,
+          "text": "250+"
+        },
+        {
+          "level": 2,
+          "text": "6,000+"
+        },
+        {
+          "level": 3,
+          "text": "AI"
+        },
+        {
+          "level": 3,
+          "text": "Intelligent Canvas"
+        },
+        {
+          "level": 3,
+          "text": "Formats"
+        },
+        {
+          "level": 3,
+          "text": "Blueprints"
+        },
+        {
+          "level": 3,
+          "text": "Enterprise Security & Scale"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": "Enter your work email"
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0007",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Apps & Integrations",
+        "Templates",
+        "Miro Developer Platform",
+        "Miro for Devices",
+        "Enterprise Guard",
+        "Accessibility",
+        "Changelog",
+        "AI Platform",
+        "Product Acceleration",
+        "Business Acceleration",
+        "Platform and Capabilities",
+        "Agile Tools",
+        "Brainstorming",
+        "Diagramming",
+        "Graphs",
+        "Mind Map",
+        "Online Sticky Notes",
+        "Customer Journey Mapping",
+        "Flowchart Maker",
+        "Prototyping"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 33,
+      "has_og_tags": true,
+      "meta_description": "Speed up product development from ideation to launch. Align teams, break tool silos, and ship what customers need in one AI-powered visual platform. ",
+      "scripts_count": 82
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "Y",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "Y",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "Y",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered design tools",
+        "Extensive integrations",
+        "Enterprise-grade security",
+        "Comprehensive developer resources"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "miro",
+    "url": "https://miro.com",
+    "scanned_at": "2026-04-01T15:29:04.897537",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/miro_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/miro_mobile.png"
+    },
+    "structure": {
+      "title": "AI Innovation Workspace | Miro",
+      "url_final": "https://miro.com/",
+      "nav_items": [
+        {
+          "text": "AI Overview",
+          "href": "https://miro.com/ai/ai-overview/"
+        },
+        {
+          "text": "AI Workflows",
+          "href": "https://miro.com/products/ai-workflows/"
+        },
+        {
+          "text": "Your AI & Knowledge",
+          "href": "https://miro.com/ai/your-ai/"
+        },
+        {
+          "text": "MCP",
+          "href": "https://miro.com/ai/mcp/"
+        },
+        {
+          "text": "AI Playbooks",
+          "href": "https://miro.com/ai-playbooks/"
+        },
+        {
+          "text": "About Product Acceleration",
+          "href": "https://miro.com/solutions/product-acceleration/"
+        },
+        {
+          "text": "Prototypes",
+          "href": "https://miro.com/products/prototypes/"
+        },
+        {
+          "text": "Insights",
+          "href": "https://miro.com/products/insights/"
+        },
+        {
+          "text": "Roadmaps",
+          "href": "https://miro.com/products/roadmaps/"
+        },
+        {
+          "text": "Specs",
+          "href": "https://miro.com/products/specs/"
+        },
+        {
+          "text": "Technical Design",
+          "href": "https://miro.com/products/technical-design/"
+        },
+        {
+          "text": "Planning & Delivery",
+          "href": "https://miro.com/products/planning-delivery/"
+        },
+        {
+          "text": "Prototypes",
+          "href": "https://miro.com/products/prototypes/"
+        },
+        {
+          "text": "Journeys",
+          "href": "https://miro.com/products/customer-journeys/"
+        },
+        {
+          "text": "Design Workshops",
+          "href": "https://miro.com/products/design-workshops/"
+        },
+        {
+          "text": "Goals",
+          "href": "https://miro.com/products/goals/"
+        },
+        {
+          "text": "Portfolios",
+          "href": "https://miro.com/products/portfolios/"
+        },
+        {
+          "text": "Roadmaps",
+          "href": "https://miro.com/products/roadmaps/"
+        },
+        {
+          "text": "Planning & Delivery",
+          "href": "https://miro.com/products/planning-delivery/"
+        },
+        {
+          "text": "About Business Acceleration",
+          "href": "https://miro.com/solutions/business-acceleration/"
+        }
+      ],
+      "buttons": [
+        "Product",
+        "Solutions",
+        "Resources",
+        "Sign up free",
+        "Product",
+        "Solutions",
+        "Tools",
+        "Resources",
+        "Company",
+        "Plans & Pricing",
+        "English",
+        "English",
+        "Cookies Settings",
+        "Reject All",
+        "Accept All Cookies",
+        "Allow All",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e"
+      ],
+      "forms": [],
+      "links_count": 166,
+      "images_count": 108,
+      "images_with_alt": 19,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get from brainstorm to breakthrough with Miro"
+        },
+        {
+          "level": 2,
+          "text": "Flow from ideato outcome in seconds"
+        },
+        {
+          "level": 2,
+          "text": "The only thing more importantthan moving fast is moving the needle"
+        },
+        {
+          "level": 2,
+          "text": "100M+"
+        },
+        {
+          "level": 2,
+          "text": "250+"
+        },
+        {
+          "level": 2,
+          "text": "6,000+"
+        },
+        {
+          "level": 3,
+          "text": "AI"
+        },
+        {
+          "level": 3,
+          "text": "Intelligent Canvas"
+        },
+        {
+          "level": 3,
+          "text": "Formats"
+        },
+        {
+          "level": 3,
+          "text": "Blueprints"
+        },
+        {
+          "level": 3,
+          "text": "Enterprise Security & Scale"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": "Enter your work email"
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0007",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Apps & Integrations",
+        "Templates",
+        "Miro Developer Platform",
+        "Miro for Devices",
+        "Enterprise Guard",
+        "Accessibility",
+        "Changelog",
+        "AI Platform",
+        "Product Acceleration",
+        "Business Acceleration",
+        "Platform and Capabilities",
+        "Agile Tools",
+        "Brainstorming",
+        "Diagramming",
+        "Graphs",
+        "Mind Map",
+        "Online Sticky Notes",
+        "Customer Journey Mapping",
+        "Flowchart Maker",
+        "Prototyping"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 33,
+      "has_og_tags": true,
+      "meta_description": "Speed up product development from ideation to launch. Align teams, break tool silos, and ship what customers need in one AI-powered visual platform. ",
+      "scripts_count": 80
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "Y",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "Y",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "Y",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered features",
+        "Extensive integrations",
+        "Enterprise-grade security",
+        "Collaborative whiteboard"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "figjam",
+    "url": "https://www.figma.com/figjam/",
+    "scanned_at": "2026-04-01T15:29:26.277629",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/figjam_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/figjam_mobile.png"
+    },
+    "structure": {
+      "title": "FigJam: The Online Collaborative Whiteboard for Teams",
+      "url_final": "https://www.figma.com/figjam/",
+      "nav_items": [
+        {
+          "text": "Figma DesignDesign and prototype in one place",
+          "href": "https://www.figma.com/design/"
+        },
+        {
+          "text": "Dev ModeTranslate designs into code",
+          "href": "https://www.figma.com/dev-mode/"
+        },
+        {
+          "text": "FigJamCollaborate with a digital whiteboard",
+          "href": "https://www.figma.com/figjam/"
+        },
+        {
+          "text": "Figma SlidesCo-create presentations",
+          "href": "https://www.figma.com/slides/"
+        },
+        {
+          "text": "Figma DrawIllustrate with advanced vector tools",
+          "href": "https://www.figma.com/draw/"
+        },
+        {
+          "text": "Figma BuzzBetaProduce on-brand assets at scale",
+          "href": "https://www.figma.com/buzz/"
+        },
+        {
+          "text": "Figma SitesBetaPublish fully responsive websites",
+          "href": "https://www.figma.com/sites/"
+        },
+        {
+          "text": "Figma MakePrompt to code anything you can imagine",
+          "href": "https://www.figma.com/make/"
+        },
+        {
+          "text": "AIExplore all Figma AI features",
+          "href": "https://www.figma.com/ai/"
+        },
+        {
+          "text": "MCPConnect Figma to AI coding tools",
+          "href": "https://www.figma.com/mcp-catalog/"
+        },
+        {
+          "text": "DownloadsGet the desktop, mobile,\u2028and font install",
+          "href": "https://www.figma.com/downloads/"
+        },
+        {
+          "text": "Release NotesSee the latest features and releases",
+          "href": "https://www.figma.com/release-notes/"
+        },
+        {
+          "text": "Design systems",
+          "href": "https://www.figma.com/design-systems/"
+        },
+        {
+          "text": "Prototyping",
+          "href": "https://www.figma.com/prototyping/"
+        },
+        {
+          "text": "UX design",
+          "href": "https://www.figma.com/ux-design-tool/"
+        },
+        {
+          "text": "Web design",
+          "href": "https://www.figma.com/web-design/"
+        },
+        {
+          "text": "Wireframing",
+          "href": "https://www.figma.com/wireframe-tool/"
+        },
+        {
+          "text": "Online whiteboard",
+          "href": "https://www.figma.com/figjam/online-whiteboard/"
+        },
+        {
+          "text": "Agile",
+          "href": "https://www.figma.com/figjam/agile-workflows/"
+        },
+        {
+          "text": "Strategic planning",
+          "href": "https://www.figma.com/figjam/strategic-planning/"
+        }
+      ],
+      "buttons": [
+        "Products",
+        "Solutions",
+        "Community",
+        "Resources",
+        "Brainstorming",
+        "Diagramming",
+        "Meetings & workshops",
+        "Agile workflows",
+        "Strategy & planning",
+        "Project kickoff",
+        "Flow chart",
+        "Weekly team meeting",
+        "Customer journey map",
+        "Standup",
+        "Retrospective",
+        "Roadmap review",
+        "Project timeline",
+        "English"
+      ],
+      "forms": [],
+      "links_count": 187,
+      "images_count": 120,
+      "images_with_alt": 117,
+      "headings": [
+        {
+          "level": 1,
+          "text": "FigJam"
+        },
+        {
+          "level": 2,
+          "text": "Use cases"
+        },
+        {
+          "level": 2,
+          "text": "Roles"
+        },
+        {
+          "level": 2,
+          "text": "Organizations"
+        },
+        {
+          "level": 2,
+          "text": "Get started"
+        },
+        {
+          "level": 2,
+          "text": "Learn"
+        },
+        {
+          "level": 3,
+          "text": "Brainstorming"
+        },
+        {
+          "level": 3,
+          "text": "Diagramming"
+        },
+        {
+          "level": 3,
+          "text": "Meetings & workshops"
+        },
+        {
+          "level": 3,
+          "text": "Agile workflows"
+        },
+        {
+          "level": 3,
+          "text": "Strategy & planning"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Figma Design",
+        "Dev Mode",
+        "FigJam",
+        "Figma Slides",
+        "Figma Draw",
+        "Figma BuzzBeta",
+        "Figma SitesBeta",
+        "Figma Make",
+        "Figma WeaveNew",
+        "AI",
+        "Downloads",
+        "Release notes",
+        "Pricing",
+        "Enterprise",
+        "Organization"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 29,
+      "has_og_tags": true,
+      "meta_description": "A visual collaborative whiteboard where teams can diagram, brainstorm, and organize ideas together.",
+      "scripts_count": 72
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "Y",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "Y",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "Y",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Collaborative whiteboard",
+        "Integration with Figma design tools",
+        "AI features",
+        "Extensive template library"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "whimsical",
+    "url": "https://whimsical.com",
+    "scanned_at": "2026-04-01T15:29:45.554103",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/whimsical_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/whimsical_mobile.png"
+    },
+    "structure": {
+      "title": "Whimsical \u2014 Where great ideas take shape",
+      "url_final": "https://whimsical.com/",
+      "nav_items": [
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Sign up",
+          "href": "/signup"
+        },
+        {
+          "text": "AI FlowchartsSupercharge your productivity with au",
+          "href": "/ai/ai-text-to-flowchart"
+        },
+        {
+          "text": "AI Mind MapsSupercharge your productivity with aut",
+          "href": "/ai/ai-mind-maps"
+        },
+        {
+          "text": "BoardsAn infinite canvas for diagrams, wireframes,",
+          "href": "/home"
+        },
+        {
+          "text": "DiagramsQuickly capture ideas and create shared un",
+          "href": "/diagrams"
+        },
+        {
+          "text": "FlowchartsCommunicate complex processes with an in",
+          "href": "/flowcharts"
+        },
+        {
+          "text": "Mind mapsVisualize and organize your ideas into be",
+          "href": "/mind-maps"
+        },
+        {
+          "text": "WireframesExplore new product ideas and iterate qu",
+          "href": "/wireframes"
+        },
+        {
+          "text": "BlogRead the latest news, updates, and ideas from ",
+          "href": "/blog"
+        },
+        {
+          "text": "CareersBuild the future of product work with Whims",
+          "href": "/company/careers"
+        },
+        {
+          "text": "CustomersRead about the fastest growing companies ",
+          "href": "/customers"
+        },
+        {
+          "text": "DownloadGet the desktop app for macOS or Windows.",
+          "href": "/download"
+        },
+        {
+          "text": "Help centerGet answers, gain understanding, and le",
+          "href": "https://help.whimsical.com"
+        },
+        {
+          "text": "ReleasesRead our latest features and improvements.",
+          "href": "/releases"
+        },
+        {
+          "text": "Contact sales",
+          "href": "/company/contact-sales"
+        }
+      ],
+      "buttons": [
+        "Copy logo as SVGCopy the Whimsical logo to your cl",
+        "Open navigation",
+        "Resources",
+        "Product",
+        "Resources",
+        "Log in",
+        "Sign up",
+        "Contact sales",
+        "Contact sales",
+        "Log inLog in",
+        "Sign upSign up",
+        "Get started free",
+        "Diagrams",
+        "Wireframes",
+        "Get started free",
+        "Get started free"
+      ],
+      "forms": [],
+      "links_count": 77,
+      "images_count": 23,
+      "images_with_alt": 3,
+      "headings": [
+        {
+          "level": 1,
+          "text": ""
+        },
+        {
+          "level": 1,
+          "text": "Where great ideas take shape"
+        },
+        {
+          "level": 2,
+          "text": "Diagrams"
+        },
+        {
+          "level": 2,
+          "text": "Wireframes"
+        },
+        {
+          "level": 2,
+          "text": "An infinite canvas to capture all your ideas."
+        },
+        {
+          "level": 2,
+          "text": "It\u2019s time to work differently."
+        },
+        {
+          "level": 3,
+          "text": "Built for speed"
+        },
+        {
+          "level": 3,
+          "text": "Multiplayer editing"
+        },
+        {
+          "level": 3,
+          "text": "Templates from experts"
+        },
+        {
+          "level": 3,
+          "text": "Comments"
+        },
+        {
+          "level": 3,
+          "text": "Images and video"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Get started free",
+        "AI Flowcharts",
+        "AI Mind maps",
+        "Boards",
+        "Diagrams",
+        "Flowcharts",
+        "Mind maps",
+        "Wireframes",
+        "Blog",
+        "Careers",
+        "Customers",
+        "Releases",
+        "Contact sales",
+        "Download",
+        "Log in",
+        "Pricing",
+        "Sign up",
+        "Contact support",
+        "Help center"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "Whimsical is a collaborative whiteboard app for thinking and planning. Create flowcharts, mind maps, wireframes and more.",
+      "scripts_count": 15
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "N",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "N",
+        "about_page": "N",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "Y",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered flowcharts and mind maps",
+        "Multiplayer editing",
+        "Infinite canvas for diagrams and wireframes"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "excalidraw",
+    "url": "https://excalidraw.com",
+    "scanned_at": "2026-04-01T15:30:06.576455",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/excalidraw_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/excalidraw_mobile.png"
+    },
+    "structure": {
+      "title": "Excalidraw Whiteboard",
+      "url_final": "https://excalidraw.com/",
+      "nav_items": [],
+      "buttons": [
+        "OpenCmd+O",
+        "Help?",
+        "Live collaboration...",
+        "100%",
+        "Exit zen mode"
+      ],
+      "forms": [],
+      "links_count": 3,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Excalidraw"
+        },
+        {
+          "level": 2,
+          "text": "Shapes"
+        },
+        {
+          "level": 2,
+          "text": "Canvas actions"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "radio",
+          "name": "editor-current-shape",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 20,
+      "has_og_tags": true,
+      "meta_description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+      "scripts_count": 7
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "N",
+        "transparent_pricing": "N",
+        "free_trial": "N",
+        "free_tier": "Y",
+        "multiple_tiers": "N",
+        "enterprise_tier": "N",
+        "annual_discount": "N",
+        "feature_comparison_table": "N",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "N",
+        "video_demo": "N",
+        "integrations_page": "N",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "N",
+        "terms_of_service": "N",
+        "cookie_consent": "N",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "Y",
+        "templates_available": "N",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "Y",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Real-time collaboration",
+        "Open source",
+        "Simple and intuitive interface"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lucidchart",
+    "url": "https://www.lucidchart.com",
+    "scanned_at": "2026-04-01T15:30:27.117917",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/lucidchart_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/lucidchart_mobile.png"
+    },
+    "structure": {
+      "title": "Lucidchart | Diagramming Powered By Intelligence",
+      "url_final": "https://www.lucidchart.com/pages",
+      "nav_items": [
+        {
+          "text": "LucidchartIntelligent diagramming",
+          "href": "https://lucid.co"
+        },
+        {
+          "text": "LucidsparkVirtual whiteboarding",
+          "href": "https://lucid.co/lucidspark"
+        },
+        {
+          "text": "airfocusProduct management and roadmapping",
+          "href": "https://airfocus.com/?utm_medium=referral&utm_source=lucid"
+        },
+        {
+          "text": "Cloud acceleratorBetter understand and plan future",
+          "href": "https://lucid.co/enterprise/cloud-accelerator"
+        },
+        {
+          "text": "Process acceleratorStandardize and improve governa",
+          "href": "https://lucid.co/enterprise/process-accelerator"
+        },
+        {
+          "text": "Enterprise shieldAdd an enhanced layer of fortifie",
+          "href": "https://lucid.co/enterprise/enterprise-shield"
+        },
+        {
+          "text": "Platform overview",
+          "href": "https://lucid.co/platform"
+        },
+        {
+          "text": "AI",
+          "href": "https://lucid.co/platform/ai"
+        },
+        {
+          "text": "Integrations",
+          "href": "https://lucid.co/marketplace"
+        },
+        {
+          "text": "Developer platform",
+          "href": "https://lucid.co/developers"
+        },
+        {
+          "text": "Professional services",
+          "href": "https://lucid.co/professional-services"
+        },
+        {
+          "text": "Security",
+          "href": "https://lucid.co/security"
+        },
+        {
+          "text": "Digital transformation",
+          "href": "https://lucid.co/solutions/digital-transformation"
+        },
+        {
+          "text": "Cloud migration",
+          "href": "https://lucid.co/solutions/cloud-migration"
+        },
+        {
+          "text": "Hybrid teams",
+          "href": "https://lucid.co/solutions/hybrid-teams"
+        },
+        {
+          "text": "AI transformation",
+          "href": "https://lucid.co/ai-transformation"
+        },
+        {
+          "text": "Agile",
+          "href": "https://lucid.co/agile"
+        },
+        {
+          "text": "IT",
+          "href": "https://lucid.co/solutions/it"
+        },
+        {
+          "text": "Engineering",
+          "href": "https://lucid.co/solutions/engineering"
+        },
+        {
+          "text": "Product & UX",
+          "href": "https://lucid.co/solutions/product-ux"
+        }
+      ],
+      "buttons": [
+        "Close this dialog",
+        "Manage Preferences",
+        "Close Cookie Preferences",
+        "Skip to Content",
+        "Products",
+        "Solutions",
+        "Resources",
+        "Company",
+        "Use cases",
+        "Menu",
+        "Process maps and flowcharts",
+        "AI-generated diagrams",
+        "Org and team planning",
+        "Technical diagrams",
+        "Systems and architecture",
+        "Lucid AI",
+        "Data linking",
+        "Conditional formatting",
+        "UML markup",
+        "Layers"
+      ],
+      "forms": [],
+      "links_count": 377,
+      "images_count": 272,
+      "images_with_alt": 247,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Diagramming powered by intelligence"
+        },
+        {
+          "level": 2,
+          "text": "See your work take shape"
+        },
+        {
+          "level": 2,
+          "text": "Align people and priorities"
+        },
+        {
+          "level": 2,
+          "text": "Take action on insights"
+        },
+        {
+          "level": 2,
+          "text": "How teams use Lucidchart to create diagrams with intelligence"
+        },
+        {
+          "level": 2,
+          "text": "Where seeing becomes doing, faster"
+        },
+        {
+          "level": 3,
+          "text": "Process maps and flowcharts"
+        },
+        {
+          "level": 3,
+          "text": "AI-generated diagrams"
+        },
+        {
+          "level": 3,
+          "text": "Org and team planning"
+        },
+        {
+          "level": 3,
+          "text": "Technical diagrams"
+        },
+        {
+          "level": 3,
+          "text": "Systems and architecture"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Pricing",
+        "Individual",
+        "Team",
+        "Enterprise",
+        "Contact sales",
+        "Lucidchart overview",
+        "Integrations",
+        "Security",
+        "Process documentation",
+        "Visualizing teams",
+        "Technical diagramming",
+        "Visualizing infrastructure",
+        "Education",
+        "About us",
+        "Newsroom",
+        "Careers",
+        "Accessibility",
+        "Training labs",
+        "Blog",
+        "Webinars"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 303,
+      "has_og_tags": true,
+      "meta_description": "Create next-generation diagrams with AI, data, and automation in Lucidchart. Understand and optimize every system and process.",
+      "scripts_count": 53
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "Y",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "Y",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "Y",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-generated diagrams",
+        "Extensive integrations",
+        "Enterprise-grade security features"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "lottie",
+    "url": "https://lottiefiles.com",
+    "scanned_at": "2026-04-01T15:30:49.817702",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/lottie_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/lottie_mobile.png"
+    },
+    "structure": {
+      "title": "LottieFiles: Download Free lightweight animations for website & apps.",
+      "url_final": "https://lottiefiles.com/",
+      "nav_items": [
+        {
+          "text": "Pricing",
+          "href": "https://lottiefiles.com/pricing?via=top_nav"
+        }
+      ],
+      "buttons": [
+        "Products",
+        "Integrations",
+        "Tools",
+        "Customers",
+        "Learn",
+        "En",
+        "Log in",
+        "Sign up",
+        "Publish animation",
+        "Tinyfile format but mighty",
+        "Motion Tokensbind properties to real data",
+        "Interactivefor delightful experiences",
+        "Dev readyand easy to implement",
+        "Search animations...\u2318K",
+        "Lottie Creator",
+        "LottieFiles for Figma",
+        "LottieFiles for After Effects",
+        "Figma",
+        "After Effects",
+        "Canva",
+        "Webflow",
+        "Framer",
+        "Premier Pro",
+        "Motion Copilot",
+        "Prompt to Vector",
+        "Raster to Vector in Figma"
+      ],
+      "forms": [],
+      "links_count": 203,
+      "images_count": 95,
+      "images_with_alt": 93,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Great designs come alive with motion!"
+        },
+        {
+          "level": 2,
+          "text": "Hire me settings"
+        },
+        {
+          "level": 2,
+          "text": "World\u2019s largest customizable animation library"
+        },
+        {
+          "level": 2,
+          "text": "A modern motion workflow built for teams and enterprises"
+        },
+        {
+          "level": 2,
+          "text": "Digital Asset Management"
+        },
+        {
+          "level": 2,
+          "text": "Lottie, the industry standard for motion design"
+        },
+        {
+          "level": 3,
+          "text": "Tiny"
+        },
+        {
+          "level": 3,
+          "text": "Motion Tokens"
+        },
+        {
+          "level": 3,
+          "text": "Interactive"
+        },
+        {
+          "level": 3,
+          "text": "Dev ready"
+        },
+        {
+          "level": 3,
+          "text": "Lottie Creator"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "placeholder": "Search for animations..."
+        }
+      ],
+      "footer_links": [
+        "For enterpriseTalk to us",
+        "For communityGet certified",
+        "LottieFiles for Apple Vision Pro",
+        "LottieFiles Platform",
+        "Lottie Creator",
+        "Figma plugin",
+        "Adobe After Effects plugin",
+        "Lottie Editor",
+        "LottieFiles Mobile App",
+        "Free Animations",
+        "Marketplace",
+        "Hire Lottie Animators",
+        "Explore Animations",
+        "Webflow plugin",
+        "Canva",
+        "Preview Lottie Animation",
+        "Web Player"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 70,
+      "has_og_tags": true,
+      "meta_description": "Effortlessly bring the smallest, free, ready-to-use motion graphics for the web, app, social, and designs. Create, edit, test, collaborate, and ship Lottie animations in no time!",
+      "scripts_count": 35
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "N",
+        "code_examples": "Y",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "World's largest customizable animation library",
+        "LottieFiles for Figma and After Effects",
+        "Interactive animations and motion tokens"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "spline",
+    "url": "https://spline.design",
+    "scanned_at": "2026-04-01T15:31:10.916338",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/spline_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/spline_mobile.png"
+    },
+    "structure": {
+      "title": "Spline - 3D Design tool in the browser with real-time collaboration",
+      "url_final": "https://spline.design/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Customers",
+          "href": "/customers"
+        },
+        {
+          "text": "Enterprise",
+          "href": "/enterprise"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing"
+        },
+        {
+          "text": "Log In",
+          "href": "https://app.spline.design/signin"
+        },
+        {
+          "text": "Get Started",
+          "href": "https://app.spline.design/signin?"
+        }
+      ],
+      "buttons": [
+        "Products",
+        "Resources",
+        "Community",
+        "Copy Code",
+        "Webflow",
+        "Framer",
+        "Wix Studio",
+        "HTML / JS",
+        "React",
+        "Next.js",
+        "Swift",
+        "Kotlin",
+        "Don't allow",
+        "Got it",
+        "Log In",
+        "Get Started",
+        "Get started\u2014 it\u2019s free",
+        "Learn more",
+        "Learn more",
+        "Docs",
+        "Explore Community",
+        "Get started\u2014 it's free"
+      ],
+      "forms": [],
+      "links_count": 83,
+      "images_count": 40,
+      "images_with_alt": 39,
+      "headings": [
+        {
+          "level": 1,
+          "text": "The all-in-one platform for 3D and design"
+        },
+        {
+          "level": 2,
+          "text": "A complete platform forreal-time interactive design"
+        },
+        {
+          "level": 2,
+          "text": "Where ideas becomeproduction-ready experiences"
+        },
+        {
+          "level": 2,
+          "text": "\"We wanted toappeal to an enterprise audience.That's where Spline comes in. Ithe"
+        },
+        {
+          "level": 2,
+          "text": "Collaborative 3D Design, ready for production"
+        },
+        {
+          "level": 2,
+          "text": "\"With Spline, we cancreate interactive 3D objects that make our product feel tan"
+        },
+        {
+          "level": 3,
+          "text": "Interactive Websites"
+        },
+        {
+          "level": 3,
+          "text": "Product Design"
+        },
+        {
+          "level": 3,
+          "text": "Brand & Marketing"
+        },
+        {
+          "level": 3,
+          "text": "Gamified Experiences"
+        },
+        {
+          "level": 3,
+          "text": "3D Mockups"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "3D Design",
+        "Hana",
+        "iOS",
+        "Android",
+        "Spline Mirror",
+        "Pricing",
+        "Download",
+        "Download Spline Mirror",
+        "AI 3D Generation",
+        "Contra",
+        "Affiliate",
+        "Hana Challenge",
+        "Education",
+        "Enterprise",
+        "Solutions",
+        "Docs",
+        "Spline API",
+        "Examples",
+        "Academy"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 20,
+      "has_og_tags": true,
+      "meta_description": "Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, textures, and more.",
+      "scripts_count": 61
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "N",
+        "free_trial": "U",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "U",
+        "feature_comparison_table": "U",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "N",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "N",
+        "terms_of_service": "N",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "N",
+        "sdk_available": "Y",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "Y",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "N",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "Y",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Real-time collaboration",
+        "3D design in the browser",
+        "Interactive 3D objects"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "rive",
+    "url": "https://rive.app",
+    "scanned_at": "2026-04-01T15:31:34.271473",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/rive_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/rive_mobile.png"
+    },
+    "structure": {
+      "title": "Rive \u2014 the interactive experience engine",
+      "url_final": "https://rive.app/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "./"
+        },
+        {
+          "text": "Pricing",
+          "href": "./pricing"
+        },
+        {
+          "text": "Downloads",
+          "href": "./downloads"
+        },
+        {
+          "text": "",
+          "href": "https://editor.rive.app"
+        },
+        {
+          "text": "",
+          "href": "https://editor.rive.app"
+        }
+      ],
+      "buttons": [
+        "learn more",
+        "Features",
+        "learn more",
+        "Docs"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "b_1487cc549a49109c00fe60a80_93cd7be172",
+              "placeholder": ""
+            },
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "email@rive.app"
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 93,
+      "images_count": 49,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "The Interactive experience engine"
+        },
+        {
+          "level": 2,
+          "text": "DOWNLOADS"
+        },
+        {
+          "level": 2,
+          "text": "Design, code, and animate"
+        },
+        {
+          "level": 2,
+          "text": "Build once, ship anywhere"
+        },
+        {
+          "level": 2,
+          "text": "Products built with Rive reach over 2\u00a0billion users worldwide"
+        },
+        {
+          "level": 2,
+          "text": "Join our newsletter"
+        },
+        {
+          "level": 3,
+          "text": "Rive Editor"
+        },
+        {
+          "level": 3,
+          "text": "RIVE RUNTIMES"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "b_1487cc549a49109c00fe60a80_93cd7be172",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "email@rive.app"
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Editor",
+        "Runtimes",
+        "Renderer",
+        "Changelog",
+        "Marketplace",
+        "Community",
+        "Bug Reports",
+        "Feature Requests",
+        "Discord",
+        "Experts",
+        "Documentation",
+        "Blog",
+        "Newsletter",
+        "Features",
+        "Careers",
+        "Merch",
+        "Terms",
+        "Privacy",
+        "Automotive",
+        "Product UI"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 14,
+      "has_og_tags": true,
+      "meta_description": "Behind Spotify Wrapped, Duolingo, and products reaching 2 billion users. Design, animate, and code in one place. Ship everywhere.",
+      "scripts_count": 22
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "U",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "U",
+        "feature_comparison_table": "U",
+        "customer_logos": "Y",
+        "case_studies": "U",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "U",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "U",
+        "about_page": "U",
+        "careers_page": "Y",
+        "security_page": "U",
+        "soc2_mentioned": "U",
+        "gdpr_mentioned": "U",
+        "iso27001_mentioned": "U",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "U",
+        "dpa_available": "U",
+        "api_documentation": "Y",
+        "developer_portal": "U",
+        "sdk_available": "Y",
+        "webhooks_support": "U",
+        "api_playground": "U",
+        "code_examples": "Y",
+        "openapi_spec": "U",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "U",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "U",
+        "roi_calculator": "U",
+        "help_center": "U",
+        "live_chat": "U",
+        "community_forum": "Y",
+        "contact_page": "U",
+        "sla_published": "U",
+        "ios_app": "U",
+        "android_app": "U",
+        "desktop_app": "Y",
+        "browser_extension": "U",
+        "multi_language": "U"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Interactive experience engine",
+        "Rive Editor",
+        "Rive Runtimes",
+        "Products reach over 2 billion users"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "pitch",
+    "url": "https://pitch.com",
+    "scanned_at": "2026-04-01T15:31:54.118475",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/pitch_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/pitch_mobile.png"
+    },
+    "structure": {
+      "title": "Presentation software for fast-moving teams | Pitch",
+      "url_final": "https://pitch.com/",
+      "nav_items": [],
+      "buttons": [
+        "Design",
+        "Collaborate",
+        "Pitch",
+        "Analyze",
+        "I run a business",
+        "I'm a designer",
+        "I work in sales",
+        "I'm a marketer",
+        "Cookie Settings",
+        "Log in",
+        "Sign up",
+        "Sign up for free",
+        "Get a demo",
+        "Create a presentation",
+        "Start exploring now",
+        "Start creating now",
+        "Start sharing now",
+        "Start gaining insights",
+        "Sign up",
+        "Sign up for free",
+        "Product overview",
+        "What\u2019s New",
+        "Pricing",
+        "Integrations",
+        "Pitch Decks"
+      ],
+      "forms": [],
+      "links_count": 174,
+      "images_count": 87,
+      "images_with_alt": 64,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Don\u2019tjustpresent.Pitch."
+        },
+        {
+          "level": 2,
+          "text": "Trusted by 3M+ teams worldwide"
+        },
+        {
+          "level": 2,
+          "text": "Get a head start with free templates"
+        },
+        {
+          "level": 2,
+          "text": "How Pitch works"
+        },
+        {
+          "level": 2,
+          "text": "Connect your favorite apps and libraries"
+        },
+        {
+          "level": 2,
+          "text": "Built with Pitch"
+        },
+        {
+          "level": 3,
+          "text": "Generate, discover, or build a template"
+        },
+        {
+          "level": 3,
+          "text": "Create sleek slides faster than ever"
+        },
+        {
+          "level": 3,
+          "text": "Convince anyone, from anywhere"
+        },
+        {
+          "level": 3,
+          "text": "Know what\u2019s working and who\u2019s engaged"
+        },
+        {
+          "level": 3,
+          "text": "Get started with Pitch"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Product",
+        "Product overview",
+        "What\u2019s New",
+        "Pricing",
+        "Integrations",
+        "Pitch Decks",
+        "Sales Decks",
+        "Team Meetings",
+        "Board Decks",
+        "Presentation Maker",
+        "AI Presentation Maker",
+        "Video Presentation Maker",
+        "Pitch vs PowerPoint",
+        "Pitch vs Keynote",
+        "Pitch vs Google Slides",
+        "Pitch vs Figma Slides",
+        "Academy",
+        "Help Center",
+        "Download",
+        "Status"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 6,
+      "has_og_tags": true,
+      "meta_description": "Pitch is the complete pitching platform that enables any team to quickly create sleek presentations that get results. Sign up for free. ",
+      "scripts_count": 28
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "Y",
+        "blog": "N",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Free templates",
+        "Integrations with popular apps",
+        "Focus on collaboration and design"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "beautifulai",
+    "url": "https://www.beautiful.ai",
+    "scanned_at": "2026-04-01T15:32:14.460142",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/beautifulai_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/beautifulai_mobile.png"
+    },
+    "structure": {
+      "title": "Best AI Presentation Maker for Professional Decks | Beautiful.ai - Generate High-Quality Slides With the #1 Artificial Intelligence Powered Presentation Tool Available",
+      "url_final": "https://www.beautiful.ai/",
+      "nav_items": [
+        {
+          "text": "How it worksFeature overview & explainer video",
+          "href": "/presentation-software"
+        },
+        {
+          "text": "Smart SlidesFast editing with auto-aligning layout",
+          "href": "/smart-slides"
+        },
+        {
+          "text": "AI PresentationsTry our new AI workflow today",
+          "href": "/presentation-maker"
+        },
+        {
+          "text": "Brand controlCohesive visual styling & settings",
+          "href": "/brand-controls-themes"
+        },
+        {
+          "text": "Presentation workflowsScaling presentations for bu",
+          "href": "/presentation-workflows"
+        },
+        {
+          "text": "Data visualizationDynamic graphs, charts, & data s",
+          "href": "/data-visualization"
+        },
+        {
+          "text": "IntegrationsConnect your favorite tools",
+          "href": "/integrations"
+        },
+        {
+          "text": "Individuals",
+          "href": "/pro"
+        },
+        {
+          "text": "Consultants & agencies",
+          "href": "/consultants-and-agencies"
+        },
+        {
+          "text": "Smaller businesses",
+          "href": "/teams"
+        },
+        {
+          "text": "Larger enterprises",
+          "href": "/enterprise"
+        },
+        {
+          "text": "Marketing presentations",
+          "href": "/marketing"
+        },
+        {
+          "text": "Sales presentations",
+          "href": "/sales"
+        },
+        {
+          "text": "Startup pitches",
+          "href": "/startups"
+        },
+        {
+          "text": "Reporting & analytics",
+          "href": "/reporting-analytics"
+        },
+        {
+          "text": "Training & developmentFree plans for students",
+          "href": "/education"
+        },
+        {
+          "text": "Slide templates",
+          "href": "/slide-templates"
+        },
+        {
+          "text": "Presentation templates",
+          "href": "/presentations"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing"
+        },
+        {
+          "text": "Enterprise",
+          "href": "/enterprise"
+        }
+      ],
+      "buttons": [
+        "Login",
+        "Get started",
+        "Login",
+        "Get started",
+        "Get started",
+        "Try it free",
+        "Start a free trial",
+        "Learn more",
+        "See Smart Slides",
+        "Try it free",
+        "Learn more",
+        "Learn more",
+        "Learn more",
+        "Learn more",
+        "See all integrations",
+        "Dropbox",
+        "Slack",
+        "Salesforce",
+        "Webex",
+        "Try it free",
+        "Cookie Preferences",
+        "Cookies Settings",
+        "Accept",
+        "Preferences",
+        "Allow all cookies",
+        "Save preferences",
+        "Reject all cookies"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "fields": [
+            {
+              "type": "checkbox",
+              "name": "marketing-2",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "personalization-2",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "analytics-2",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 127,
+      "images_count": 44,
+      "images_with_alt": 1,
+      "headings": [
+        {
+          "level": 1,
+          "text": "NEW! CREATE WITH AI PRESENTATION MAKER"
+        },
+        {
+          "level": 2,
+          "text": "A\u00a0faster way to create professional presentations"
+        },
+        {
+          "level": 2,
+          "text": "The next evolution of AI\u00a0presentations"
+        },
+        {
+          "level": 2,
+          "text": "Make it fast with Smart\u00a0Slides"
+        },
+        {
+          "level": 2,
+          "text": "See Beautiful.ai in action"
+        },
+        {
+          "level": 2,
+          "text": "Customer spotlight"
+        },
+        {
+          "level": 3,
+          "text": "AI slide maker that saves time"
+        },
+        {
+          "level": 3,
+          "text": "AI presentation maker for sales and marketing teams"
+        },
+        {
+          "level": 3,
+          "text": "Themes & styling"
+        },
+        {
+          "level": 3,
+          "text": "Locked slides"
+        },
+        {
+          "level": 3,
+          "text": "Slide layouts"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "marketing-2",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "personalization-2",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "analytics-2",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 18,
+      "has_og_tags": true,
+      "meta_description": "The AI presentation maker built for speed and polish. Beautiful.ai helps you create professional, client-ready slide decks in minutes. Try it free for 14 days - Make slides with the #1 AI slide genera",
+      "scripts_count": 86
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "N",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered presentation creation",
+        "Smart Slides for fast editing",
+        "Brand control for cohesive styling",
+        "Dynamic data visualization"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "gamma",
+    "url": "https://gamma.app",
+    "scanned_at": "2026-04-01T15:32:37.214089",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/gamma_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/gamma_mobile.png"
+    },
+    "structure": {
+      "title": "Gamma | Best AI Presentation Maker & Website Builder",
+      "url_final": "https://gamma.app/",
+      "nav_items": [],
+      "buttons": [
+        "English",
+        "Products",
+        "Solutions",
+        "English",
+        "Watch video",
+        "Cookie Settings",
+        "Reject All",
+        "ACCEPT",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e",
+        "Cookies Details\u200e",
+        "Back Button",
+        "Filter Button",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Confirm My Choices",
+        "Reject All",
+        "Allow All",
+        "Presentations",
+        "Websites",
+        "Social Media"
+      ],
+      "forms": [],
+      "links_count": 67,
+      "images_count": 46,
+      "images_with_alt": 24,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Effortless AI design for presentations, websites, and more"
+        },
+        {
+          "level": 2,
+          "text": "Creative content at the speed of light."
+        },
+        {
+          "level": 2,
+          "text": "Join 50+ million users changing how the world communicates"
+        },
+        {
+          "level": 2,
+          "text": "How good ideas get into the universe"
+        },
+        {
+          "level": 2,
+          "text": "About our cookies \ud83c\udf6a"
+        },
+        {
+          "level": 2,
+          "text": "Privacy Preference Center"
+        },
+        {
+          "level": 3,
+          "text": "Presentations"
+        },
+        {
+          "level": 3,
+          "text": "Social Media"
+        },
+        {
+          "level": 3,
+          "text": "Documents"
+        },
+        {
+          "level": 3,
+          "text": "Websites"
+        },
+        {
+          "level": 3,
+          "text": "API"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0003",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 29,
+      "has_og_tags": true,
+      "meta_description": "Design stunning presentations, websites, and more with Gamma\u2014your all-in-one AI-powered design partner. No code or design experience needed.",
+      "scripts_count": 55
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "Y",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "Y",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "Y",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "Y",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "Y",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered design tools",
+        "Wide range of templates",
+        "Multi-platform availability"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "removebg",
+    "url": "https://www.remove.bg",
+    "scanned_at": "2026-04-01T15:32:56.236143",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/removebg_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/removebg_mobile.png"
+    },
+    "structure": {
+      "title": "Remove Background from Image for Free \u2013 remove.bg",
+      "url_final": "https://www.remove.bg/",
+      "nav_items": [
+        {
+          "text": "remove.bg",
+          "href": "/"
+        },
+        {
+          "text": "Uploads",
+          "href": "/upload"
+        },
+        {
+          "text": "Bulk Editing",
+          "href": "/f/batch-editing"
+        },
+        {
+          "text": "API",
+          "href": "/api"
+        },
+        {
+          "text": "Plugins",
+          "href": "https://www.remove.bg/i/overview"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing"
+        },
+        {
+          "text": "Log in",
+          "href": "https://accounts.kaleido.ai/oauth/authorize?client_id=Wr--JQP_UWyenrH54zWrGh9OFuYRnRCYntYqsGNeQBM&lo"
+        },
+        {
+          "text": "Sign up",
+          "href": "/users/sign_up"
+        }
+      ],
+      "buttons": [
+        "Upload Image",
+        "Products",
+        "People",
+        "Animals",
+        "Cars",
+        "Graphics",
+        "People",
+        "Products",
+        "Animals",
+        "Cars",
+        "Graphics",
+        "Upload Image",
+        "Subscribe",
+        "English",
+        "Dismiss",
+        "Bahasa Indonesia",
+        "Deutsch",
+        "English",
+        "Espa\u00f1ol",
+        "Fran\u00e7ais",
+        "Italiano"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "dialog",
+          "fields": []
+        }
+      ],
+      "links_count": 75,
+      "images_count": 29,
+      "images_with_alt": 20,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Remove Image Background"
+        },
+        {
+          "level": 1,
+          "text": "Drop image anywhere"
+        },
+        {
+          "level": 2,
+          "text": "Stunning quality"
+        },
+        {
+          "level": 2,
+          "text": "One tool, endless uses"
+        },
+        {
+          "level": 2,
+          "text": "They love us. You will too."
+        },
+        {
+          "level": 2,
+          "text": "Just picture it"
+        },
+        {
+          "level": 2,
+          "text": "Remove Image Background"
+        },
+        {
+          "level": 3,
+          "text": "All-in-one AI background remover & generator"
+        },
+        {
+          "level": 3,
+          "text": "Boost your efficiency with automated background removal"
+        },
+        {
+          "level": 3,
+          "text": "Blog"
+        },
+        {
+          "level": 3,
+          "text": "Get Updates"
+        },
+        {
+          "level": 3,
+          "text": "Thanks for your feedback!"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "range",
+          "name": "ImageDragger",
+          "placeholder": ""
+        },
+        {
+          "type": "email",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "All features",
+        "Photographers",
+        "Marketing",
+        "Developers",
+        "Ecommerce",
+        "Media",
+        "Car Dealerships",
+        "Enterprise",
+        "Success stories",
+        "API Documentation",
+        "Integrations, tools & apps",
+        "Photoshop Extension",
+        "Windows / Mac / Linux",
+        "Android App",
+        "Design Templates",
+        "Help & FAQs",
+        "Contact us",
+        "Refunds",
+        "Platform Status"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 8,
+      "has_og_tags": true,
+      "meta_description": "Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.",
+      "scripts_count": 9
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "N",
+        "status_page": "Y",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "Y",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered background removal",
+        "Bulk editing capabilities",
+        "API access for developers"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "photoroom",
+    "url": "https://www.photoroom.com",
+    "scanned_at": "2026-04-01T15:33:16.400810",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/photoroom_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/photoroom_mobile.png"
+    },
+    "structure": {
+      "title": "AI-Powered Photo Editor and Listing Studio for Product Photography | Photoroom",
+      "url_final": "https://www.photoroom.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Product",
+          "href": "/"
+        },
+        {
+          "text": "Solutions",
+          "href": "/use-cases"
+        },
+        {
+          "text": "Resources",
+          "href": "/"
+        },
+        {
+          "text": "Enterprise",
+          "href": "/enterprise"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing"
+        },
+        {
+          "text": "Contact sales",
+          "href": "/contact-sales"
+        },
+        {
+          "text": "Log in",
+          "href": "https://app.photoroom.com/login"
+        },
+        {
+          "text": "Start creating",
+          "href": "https://app.photoroom.com/create"
+        }
+      ],
+      "buttons": [
+        "English"
+      ],
+      "forms": [],
+      "links_count": 175,
+      "images_count": 47,
+      "images_with_alt": 7,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create pro visuals that sell"
+        },
+        {
+          "level": 2,
+          "text": "Transform ordinary product shots into scroll-stopping visuals that drive clicks,"
+        },
+        {
+          "level": 2,
+          "text": "Your all-in-one AI photo studio"
+        },
+        {
+          "level": 2,
+          "text": "From photo to profit \u2014 visuals that actually convert"
+        },
+        {
+          "level": 2,
+          "text": "Cut your photo costs by 90%, not your quality"
+        },
+        {
+          "level": 2,
+          "text": "Grow with Photoroom"
+        },
+        {
+          "level": 3,
+          "text": "Sell faster with studio\u2011quality product visuals"
+        },
+        {
+          "level": 3,
+          "text": "Explore our apps"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "footer-links-section-toggle",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Product Staging",
+        "Virtual ModelNew",
+        "Ghost MannequinNew",
+        "Flat LayNew",
+        "Product Beautifier",
+        "Unwrinkle clothesNew",
+        "AI Shadows",
+        "Edit with AINew",
+        "White Background",
+        "Blur Background",
+        "Background Generator",
+        "Background Remover",
+        "Product Video GeneratorNew",
+        "Remove objects",
+        "Recolor clothing",
+        "Resize image",
+        "Transparent background",
+        "Faster product listings",
+        "Catalogue at scale",
+        "Visuals that sell"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 4,
+      "has_og_tags": true,
+      "meta_description": "AI-powered photo editing tool and listing studio for quick, professional-quality visuals tailored to e-commerce businesses and social media creators. It helps automate image creation, format for multi",
+      "scripts_count": 55
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "N",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "N",
+        "templates_available": "Y",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered photo editing",
+        "Cost-effective product photography",
+        "Multi-language support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "runway",
+    "url": "https://runwayml.com",
+    "scanned_at": "2026-04-01T15:33:37.409229",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/runway_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/runway_mobile.png"
+    },
+    "structure": {
+      "title": "Runway | Building AI to Simulate the World",
+      "url_final": "https://runwayml.com/",
+      "nav_items": [
+        {
+          "text": "Research",
+          "href": "/research"
+        },
+        {
+          "text": "Product",
+          "href": "/product"
+        },
+        {
+          "text": "Resources",
+          "href": "/studios"
+        },
+        {
+          "text": "Solutions",
+          "href": "/solutions"
+        },
+        {
+          "text": "Company",
+          "href": "/about"
+        }
+      ],
+      "buttons": [
+        "Learn more",
+        "Learn more",
+        "Learn more",
+        "Learn more"
+      ],
+      "forms": [],
+      "links_count": 94,
+      "images_count": 11,
+      "images_with_alt": 4,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Building AI toSimulate the World"
+        },
+        {
+          "level": 2,
+          "text": "Runway Characters"
+        },
+        {
+          "level": 2,
+          "text": "Introducing GWM-1"
+        },
+        {
+          "level": 2,
+          "text": "Gen-4.5: A new frontier for video generation."
+        },
+        {
+          "level": 3,
+          "text": "Runway Characters\u2197"
+        },
+        {
+          "level": 3,
+          "text": "Media and Entertainment\u2197"
+        },
+        {
+          "level": 3,
+          "text": "Robotics and Autonomy\u2197"
+        },
+        {
+          "level": 3,
+          "text": "General World Models\u2197"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "Explore examples",
+        "Characters",
+        "GWM-1",
+        "General World Models",
+        "Robotics SDK",
+        "Gen-4.5",
+        "Aleph",
+        "Act-Two",
+        "API",
+        "AI Summit 2026\u2197",
+        "Studios",
+        "AI Festival\u2197",
+        "Gen:48",
+        "Academy\u2197",
+        "Resources",
+        "Creative Partners Program",
+        "Runway Builders",
+        "Our Research",
+        "Publications",
+        "Careers"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 1,
+      "has_og_tags": true,
+      "meta_description": "We are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, p",
+      "scripts_count": 69
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "N",
+        "transparent_pricing": "N",
+        "free_trial": "Y",
+        "free_tier": "N",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "U",
+        "feature_comparison_table": "N",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "N",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "N",
+        "sdk_available": "Y",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "Y",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "N",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-driven video generation",
+        "Runway Characters",
+        "General World Models"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "midjourney",
+    "url": "https://www.midjourney.com",
+    "scanned_at": "2026-04-01T15:33:58.186438",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/midjourney_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/midjourney_mobile.png"
+    },
+    "structure": {
+      "title": "Midjourney",
+      "url_final": "https://www.midjourney.com/home",
+      "nav_items": [],
+      "buttons": [
+        "Sign Up",
+        "Log In",
+        "Explore",
+        "Sign Up",
+        "Log In",
+        "Explore",
+        "community-funded research",
+        "Privacy Settings"
+      ],
+      "forms": [],
+      "links_count": 8,
+      "images_count": 8,
+      "images_with_alt": 8,
+      "headings": [
+        {
+          "level": 1,
+          "text": "About"
+        },
+        {
+          "level": 1,
+          "text": "Projects"
+        },
+        {
+          "level": 1,
+          "text": "Careers"
+        },
+        {
+          "level": 1,
+          "text": "Contact"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+      "scripts_count": 6
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "N",
+        "transparent_pricing": "N",
+        "free_trial": "N",
+        "free_tier": "N",
+        "multiple_tiers": "N",
+        "enterprise_tier": "N",
+        "annual_discount": "N",
+        "feature_comparison_table": "N",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "N",
+        "video_demo": "N",
+        "integrations_page": "N",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "N",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "N",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "N",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "community-funded research",
+        "privacy settings"
+      ],
+      "confidence": "medium"
+    }
+  },
+  {
+    "name": "pika",
+    "url": "https://pika.art",
+    "scanned_at": "2026-04-01T15:34:18.368970",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/pika_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/pika_mobile.png"
+    },
+    "structure": {
+      "title": "Pika",
+      "url_final": "https://pika.art/login",
+      "nav_items": [],
+      "buttons": [
+        "Sign in with Google",
+        "Sign in with Facebook",
+        "Sign in with Discord",
+        "Sign in with an email"
+      ],
+      "forms": [],
+      "links_count": 13,
+      "images_count": 0,
+      "images_with_alt": 0,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Reality is optional"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 0,
+      "has_og_tags": true,
+      "meta_description": "The idea-to-video platform that sets your creativity in motion.",
+      "scripts_count": 49
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Social sign-in options",
+        "Interactive demo",
+        "Comprehensive API support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "descript",
+    "url": "https://www.descript.com",
+    "scanned_at": "2026-04-01T15:34:38.738541",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/descript_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/descript_mobile.png"
+    },
+    "structure": {
+      "title": "Descript \u2013 AI Video & Podcast Editor | Free, Online",
+      "url_final": "https://www.descript.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/?redirect=false"
+        },
+        {
+          "text": "Video editingEditing video in Descript is as easy ",
+          "href": "/video-editing"
+        },
+        {
+          "text": "PodcastingMultitrack audio editing, just like edit",
+          "href": "/podcasting"
+        },
+        {
+          "text": "Screen recorderCapture your screen for instant sha",
+          "href": "/screen-recording"
+        },
+        {
+          "text": "RoomsRecord crystal-clear podcasts and video with ",
+          "href": "/rooms"
+        },
+        {
+          "text": "CaptionsAdd subtitles to extend your reach in a si",
+          "href": "/captions"
+        },
+        {
+          "text": "Generate mediaCreate bespoke, custom video and ima",
+          "href": "/ai-video"
+        },
+        {
+          "text": "TranscriptionIt\u2019s automatic, with industry-leading",
+          "href": "/transcription"
+        },
+        {
+          "text": "AI speechEasily create a realistic voice clone or ",
+          "href": "/ai-voices"
+        },
+        {
+          "text": "TemplatesJumpstart your workflow with battle-teste",
+          "href": "/templates"
+        },
+        {
+          "text": "AI avatarsPick an avatar from our gallery or uploa",
+          "href": "/ai-avatars"
+        },
+        {
+          "text": "Create Clips",
+          "href": "/clips"
+        },
+        {
+          "text": "YouTube descriptions",
+          "href": "/ai/youtube-description"
+        },
+        {
+          "text": "Show notes",
+          "href": "/ai/podcast-show-notes"
+        },
+        {
+          "text": "Translation",
+          "href": "/ai/translate-video"
+        },
+        {
+          "text": "Eye Contact",
+          "href": "/eye-contact"
+        },
+        {
+          "text": "Green Screen",
+          "href": "/tools/green-screen"
+        },
+        {
+          "text": "Automatic Multicam",
+          "href": "/ai/automatic-multicam"
+        },
+        {
+          "text": "Video Regenerate",
+          "href": "/video-regenerate"
+        },
+        {
+          "text": "Brand Studio",
+          "href": "/brand-studio"
+        }
+      ],
+      "buttons": [
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound",
+        "Click for sound"
+      ],
+      "forms": [],
+      "links_count": 127,
+      "images_count": 261,
+      "images_with_alt": 104,
+      "headings": [
+        {
+          "level": 1,
+          "text": "AI Video Editor"
+        },
+        {
+          "level": 2,
+          "text": "AI Video Agent"
+        },
+        {
+          "level": 2,
+          "text": "Transcription Editor"
+        },
+        {
+          "level": 2,
+          "text": "Best AI Tools"
+        },
+        {
+          "level": 2,
+          "text": "One video editor for all this"
+        },
+        {
+          "level": 2,
+          "text": "Whatever your business needs"
+        },
+        {
+          "level": 3,
+          "text": "Edit or generate a script"
+        },
+        {
+          "level": 3,
+          "text": "Give it a head-turning look"
+        },
+        {
+          "level": 3,
+          "text": "Generate custom video"
+        },
+        {
+          "level": 3,
+          "text": "Green Screen"
+        },
+        {
+          "level": 3,
+          "text": "Eye Contact"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 56,
+      "has_og_tags": true,
+      "meta_description": "Descript makes editing video and audio as easy as editing text. Record, transcribe, edit, and publish in one tool. Try for free, with powerful upgrades for creators & teams.",
+      "scripts_count": 153
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered video and podcast editing",
+        "Automatic transcription",
+        "AI voice cloning",
+        "Screen recording",
+        "Multilingual support"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "loom",
+    "url": "https://www.loom.com",
+    "scanned_at": "2026-04-01T15:35:02.609761",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/loom_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/loom_mobile.png"
+    },
+    "structure": {
+      "title": "Free screen recorder for Mac and PC | Loom",
+      "url_final": "https://www.loom.com/",
+      "nav_items": [
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Sign In",
+          "href": "https://www.loom.com/login"
+        },
+        {
+          "text": "Get Loom for freeOpen in new window",
+          "href": "https://www.loom.com/signup"
+        },
+        {
+          "text": "Contact Sales",
+          "href": "/connect/enterprise?campaign=7013i000000QYMqAAO"
+        }
+      ],
+      "buttons": [
+        "Toggle menuclose",
+        "Manage preferences",
+        "Reject all cookies",
+        "Accept all cookies",
+        "Accept all",
+        "Back Button",
+        "Filter Icon",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Reject all",
+        "Confirm my choices",
+        "Sign In",
+        "Get Loom for freeOpen in new window",
+        "Contact Sales",
+        "Get Loom for free",
+        "Install Chrome ExtensionOpen in new window",
+        "Get Loom for free"
+      ],
+      "forms": [],
+      "links_count": 89,
+      "images_count": 84,
+      "images_with_alt": 77,
+      "headings": [
+        {
+          "level": 1,
+          "text": "One video is worth a thousand words"
+        },
+        {
+          "level": 2,
+          "text": "Millions of people across 400,000 companies choose Loom"
+        },
+        {
+          "level": 2,
+          "text": "Ship faster with AI bug reports"
+        },
+        {
+          "level": 2,
+          "text": "The easiest screen recorder you\u2019ll ever use"
+        },
+        {
+          "level": 2,
+          "text": "Lightning fast screen recording"
+        },
+        {
+          "level": 2,
+          "text": "So much more than a screen recorder"
+        },
+        {
+          "level": 3,
+          "text": "Edit your videos like a pro"
+        },
+        {
+          "level": 3,
+          "text": "Share or embed video anywhere you work"
+        },
+        {
+          "level": 3,
+          "text": "Engage and connect with video"
+        },
+        {
+          "level": 3,
+          "text": "Sales"
+        },
+        {
+          "level": 3,
+          "text": "Engineering"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-4",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-3",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-2",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Pricing",
+        "loomSDK",
+        "Screen Recorder",
+        "Screenshot",
+        "Chrome Screen Recorder",
+        "Mac Screen Recorder",
+        "Windows Screen Recorder",
+        "iPhone Screen Recorder",
+        "Android Screen Recorder",
+        "Sales",
+        "Engineering",
+        "Design",
+        "Marketing",
+        "Product Management",
+        "Support",
+        "Presentation",
+        "Team Alignment",
+        "Education",
+        "Webcam Recorder",
+        "Loom AI"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 27,
+      "has_og_tags": true,
+      "meta_description": "Best free online screen recording tool with advanced video editing and video storage trusted by over 22 million people and easy sharing from Loom.com.",
+      "scripts_count": 49
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "N",
+        "code_examples": "Y",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "N",
+        "templates_available": "N",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI bug reports",
+        "Lightning fast screen recording",
+        "Video editing capabilities"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "capcut",
+    "url": "https://www.capcut.com",
+    "scanned_at": "2026-04-01T15:35:29.063275",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/capcut_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/capcut_mobile.png"
+    },
+    "structure": {
+      "title": "CapCut AI Video Editor: Smart Online Video Editing with Advanced AI Tools",
+      "url_final": "https://www.capcut.com/",
+      "nav_items": [
+        {
+          "text": "CapCut DesktopPowerful editing tool",
+          "href": "https://www.capcut.com/tools/desktop-video-editor"
+        },
+        {
+          "text": "CapCut OnlineOnline video editor",
+          "href": "https://www.capcut.com/creative-suite"
+        },
+        {
+          "text": "CapCut PadEdit anywhere, anytime",
+          "href": "https://capcutpad.onelink.me/fNG5/vlcsovk6"
+        },
+        {
+          "text": "CapCut MobileUnlimited templates",
+          "href": "https://www.capcut.com/tools/capcut-apk-latest-version-android-download"
+        },
+        {
+          "text": "Dreamina AIImage & video maker",
+          "href": "https://dreamina.capcut.com/"
+        },
+        {
+          "text": "Pippit AISmart creative agent",
+          "href": "https://pippit.ai/"
+        },
+        {
+          "text": "AI Design",
+          "href": "https://www.capcut.com/tools/ai-design"
+        },
+        {
+          "text": "Video Studio",
+          "href": "https://www.capcut.com/tools/ai-video-generator"
+        },
+        {
+          "text": "AI video generator",
+          "href": "https://www.capcut.com/tools/ai-video-generator"
+        },
+        {
+          "text": "AI image generator",
+          "href": "https://www.capcut.com/tools/ai-image-generator"
+        },
+        {
+          "text": "AI image enhancer",
+          "href": "https://www.capcut.com/tools/ai-image-upscaler"
+        },
+        {
+          "text": "AI Art Generator",
+          "href": "https://www.capcut.com/tools/ai-art-generator"
+        },
+        {
+          "text": "Dreamina Seedance 2.0",
+          "href": "https://www.capcut.com/tools/dreamina-seedance-2-0"
+        },
+        {
+          "text": "Nano Banana Pro",
+          "href": "https://www.capcut.com/tools/nano-banana-pro"
+        },
+        {
+          "text": "Auto captions",
+          "href": "https://www.capcut.com/tools/ai-caption-generator"
+        },
+        {
+          "text": "Caption templates",
+          "href": "https://www.capcut.com/resource/caption-template"
+        },
+        {
+          "text": "Speech recognition",
+          "href": "https://www.capcut.com/tools/convert-sound-to-text"
+        },
+        {
+          "text": "Text to speech",
+          "href": "https://www.capcut.com/tools/text-to-speech"
+        },
+        {
+          "text": "Custom voices",
+          "href": "https://www.capcut.com/tools/ai-voice-over"
+        },
+        {
+          "text": "Enhance voice",
+          "href": "https://www.capcut.com/tools/voice-enhancer"
+        }
+      ],
+      "buttons": [
+        "English",
+        "English",
+        "Try online for free"
+      ],
+      "forms": [],
+      "links_count": 200,
+      "images_count": 34,
+      "images_with_alt": 33,
+      "headings": [
+        {
+          "level": 1,
+          "text": "AI-PoweredPhoto&VideoEditorfor Everyone"
+        },
+        {
+          "level": 2,
+          "text": "Smart Editor & Generator"
+        },
+        {
+          "level": 2,
+          "text": "AI Editing Tools"
+        },
+        {
+          "level": 2,
+          "text": "Templates for Everything"
+        },
+        {
+          "level": 2,
+          "text": "Voice of Our Users"
+        },
+        {
+          "level": 3,
+          "text": "AI Design"
+        },
+        {
+          "level": 3,
+          "text": "Video Studio"
+        },
+        {
+          "level": 3,
+          "text": "AI image generator"
+        },
+        {
+          "level": 3,
+          "text": "AI video generator"
+        },
+        {
+          "level": 3,
+          "text": "Text to Speech"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [
+        "CapCut Desktop",
+        "CapCut Online",
+        "CapCut Pad",
+        "CapCut Mobile",
+        "AI image generator",
+        "AI video generator",
+        "AI dialogue scene",
+        "AI Design",
+        "AI Voice Generator",
+        "Auto Caption Generator",
+        "AI Art Generator",
+        "AI Logo Generator",
+        "AI Character Generator",
+        "Dreamina Seedance 2.0",
+        "Nano Banana Pro",
+        "Remove Background",
+        "Transparent Background",
+        "Image Upscaler",
+        "Meme Maker",
+        "Convert Video To MP4"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 6,
+      "has_og_tags": true,
+      "meta_description": "Edit YouTube and Instagram videos with CapCut's AI-powered video editor, smart templates, and creative effects. Download CapCut on desktop, mobile, or edit online.",
+      "scripts_count": 33
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "N",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "N",
+        "annual_discount": "N",
+        "feature_comparison_table": "N",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "N",
+        "blog": "N",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "N",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "N",
+        "templates_available": "Y",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered video and image editing",
+        "Wide range of AI tools",
+        "Cross-platform availability"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "veedio",
+    "url": "https://www.veed.io",
+    "scanned_at": "2026-04-01T15:35:50.234058",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/veedio_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/veedio_mobile.png"
+    },
+    "structure": {
+      "title": "VEED \u2013 AI Video Creation Platform | Idea to Video Workflow",
+      "url_final": "https://www.veed.io/",
+      "nav_items": [
+        {
+          "text": "VEED.IO",
+          "href": "/"
+        },
+        {
+          "text": "Enterprise",
+          "href": "https://www.veed.io/contact-sales"
+        },
+        {
+          "text": "Pricing",
+          "href": "https://www.veed.io/pricing"
+        },
+        {
+          "text": "Login",
+          "href": "https://www.veed.io/login"
+        },
+        {
+          "text": "Sign Up",
+          "href": "https://www.veed.io/signup"
+        }
+      ],
+      "buttons": [
+        "Product",
+        "Use Cases",
+        "AI",
+        "APIs",
+        "Resources",
+        "Create AI video",
+        "AI Edit",
+        "Character",
+        "Product launch",
+        "Webinar invite",
+        "Success story",
+        "Tutorial",
+        "Allow All",
+        "Back Button",
+        "Filter Icon",
+        "Clear"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "text",
+              "name": "",
+              "placeholder": "Describe or edit a video"
+            },
+            {
+              "type": "file",
+              "name": "",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "links_count": 106,
+      "images_count": 57,
+      "images_with_alt": 26,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create pro level videos in theblinkof AI"
+        },
+        {
+          "level": 2,
+          "text": "Trusted byteams that create"
+        },
+        {
+          "level": 2,
+          "text": "Generatefeed-readyvideos that getyour business seen"
+        },
+        {
+          "level": 2,
+          "text": "Discovermore"
+        },
+        {
+          "level": 2,
+          "text": "Manage cookies \ud83c\udf6a"
+        },
+        {
+          "level": 3,
+          "text": "Manage Consent Preferences"
+        },
+        {
+          "level": 3,
+          "text": "Cookie List"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "file",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0002",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "ot-group-id-C0004",
+          "placeholder": ""
+        },
+        {
+          "type": "text",
+          "name": "vendor-search-handler",
+          "placeholder": "Search\u2026"
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "Add Music to Video",
+        "Add Subtitles to Video",
+        "Add Text to Video",
+        "Audio to Text",
+        "Auto Subtitle Generator",
+        "Video Caption Generator",
+        "Video Compressor",
+        "Video Converter",
+        "Video to Text",
+        "Video Translator",
+        "AI Video",
+        "Fabric 1.0 API",
+        "AI Avatars",
+        "AI Image Generator",
+        "Video Background Remover",
+        "Remove Background Noise from Video",
+        "Remove Background Noise from Audio",
+        "Voice Dubber",
+        "AI Voice Generator",
+        "Eye Contact AI"
+      ],
+      "has_search_input": true,
+      "has_lang_attr": true,
+      "aria_labels_count": 22,
+      "has_og_tags": true,
+      "meta_description": "Generate and edit in one workflow. Create talking heads, edit with AI, dub videos, and add subtitles \u2014 all in VEED. Built for marketers and solopreneurs",
+      "scripts_count": 86
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "U",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "U",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "U",
+        "api_documentation": "Y",
+        "developer_portal": "Y",
+        "sdk_available": "Y",
+        "webhooks_support": "Y",
+        "api_playground": "Y",
+        "code_examples": "Y",
+        "openapi_spec": "Y",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "U",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "U",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "Y",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI video creation",
+        "Extensive API support",
+        "Multi-language support",
+        "Comprehensive onboarding resources"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "riverside",
+    "url": "https://riverside.fm",
+    "scanned_at": "2026-04-01T15:36:11.062776",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/riverside_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/riverside_mobile.png"
+    },
+    "structure": {
+      "title": "Riverside: HD Podcast & Video Software | Free Recording & Editing",
+      "url_final": "https://riverside.com/",
+      "nav_items": [
+        {
+          "text": "Recording4K video and audio recorder.",
+          "href": "/recording"
+        },
+        {
+          "text": "EditingAI, text-based video editor.",
+          "href": "/video-editor"
+        },
+        {
+          "text": "Live StreamingFor livestreams in full HD.",
+          "href": "/livestream"
+        },
+        {
+          "text": "WebinarsHost, record, and repurpose.",
+          "href": "/use-cases/webinars"
+        },
+        {
+          "text": "HostingPodcast publishing and analytics.",
+          "href": "/podcast-hosting"
+        },
+        {
+          "text": "All AI Tools",
+          "href": "/ai"
+        },
+        {
+          "text": "Transcribing",
+          "href": "/transcription"
+        },
+        {
+          "text": "Magic Clips",
+          "href": "/magic-clips"
+        },
+        {
+          "text": "Captions",
+          "href": "/captions"
+        },
+        {
+          "text": "Magic Audio",
+          "href": "/magic-audio"
+        },
+        {
+          "text": "AI Show Notes",
+          "href": "/show-notes"
+        },
+        {
+          "text": "Async Recording",
+          "href": "/async-recording"
+        },
+        {
+          "text": "AI Co-Creator",
+          "href": "/co-creator"
+        },
+        {
+          "text": "AI Translation",
+          "href": "/ai-translation"
+        },
+        {
+          "text": "Mac App",
+          "href": "/mac-app"
+        },
+        {
+          "text": "Mobile Apps",
+          "href": "/mobile"
+        },
+        {
+          "text": "Explore AI Tools",
+          "href": "/ai"
+        },
+        {
+          "text": "Podcasters",
+          "href": "/solutions/podcasters"
+        },
+        {
+          "text": "Producers",
+          "href": "/solutions/producers"
+        },
+        {
+          "text": "Marketers",
+          "href": "/solutions/marketers"
+        }
+      ],
+      "buttons": [
+        "Cookie settings",
+        "Allow all cookies",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Start for Free",
+        "Book a demo",
+        "Start for Free"
+      ],
+      "forms": [],
+      "links_count": 168,
+      "images_count": 117,
+      "images_with_alt": 65,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create yourbestcontent yet."
+        },
+        {
+          "level": 2,
+          "text": "End to end content creation.All in one flow."
+        },
+        {
+          "level": 2,
+          "text": "Made withRiverside"
+        },
+        {
+          "level": 2,
+          "text": "Studio-level quality.No studio required."
+        },
+        {
+          "level": 2,
+          "text": "Want to speed thingsup?Let AI jump in."
+        },
+        {
+          "level": 2,
+          "text": "Powerful editing.Purposefully simple."
+        },
+        {
+          "level": 3,
+          "text": "Record"
+        },
+        {
+          "level": 3,
+          "text": "Edit"
+        },
+        {
+          "level": 3,
+          "text": "Repurpose"
+        },
+        {
+          "level": 3,
+          "text": "Stream"
+        },
+        {
+          "level": 3,
+          "text": "Publish"
+        }
+      ],
+      "inputs": [],
+      "footer_links": [],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 19,
+      "has_og_tags": true,
+      "meta_description": "Riverside is your online studio for high-quality podcast and video recording and editing. Powered by AI, built for human conversations. Get started for free.",
+      "scripts_count": 120
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "Y",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "Y",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "Y",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "Y",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "Y",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "N",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "N",
+        "signup_no_creditcard": "Y",
+        "social_signup": "Y",
+        "interactive_demo": "Y",
+        "templates_available": "Y",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "Y",
+        "community_forum": "Y",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "Y",
+        "android_app": "Y",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "Y"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "AI-powered editing tools",
+        "High-definition recording capabilities",
+        "Comprehensive content creation suite"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "storybook",
+    "url": "https://storybook.js.org",
+    "scanned_at": "2026-04-01T15:36:32.883197",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/storybook_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/storybook_mobile.png"
+    },
+    "structure": {
+      "title": "Storybook: Frontend workshop for UI development",
+      "url_final": "https://storybook.js.org/",
+      "nav_items": [
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "AI",
+          "href": "/ai"
+        },
+        {
+          "text": "Addons",
+          "href": "/addons"
+        },
+        {
+          "text": "Showcase",
+          "href": "/showcase"
+        },
+        {
+          "text": "Blog",
+          "href": "/blog"
+        },
+        {
+          "text": "Visual Test",
+          "href": "https://www.chromatic.com/storybook?utm_source=storybook_website&utm_medium=global_nav&utm_campaign="
+        },
+        {
+          "text": "Enterprise",
+          "href": "https://www.chromatic.com/enterprise?utm_source=storybook_website&utm_medium=global_nav&utm_campaign"
+        }
+      ],
+      "buttons": [
+        "Search docs\u2318K",
+        "npm create storybook@latest",
+        "Development",
+        "Interaction testing",
+        "Visual testing",
+        "Documentation",
+        "Spot testStories are tests you can debug in dev an",
+        "Learn about UI tests",
+        "Visual test appearancePinpoint UI changes down to ",
+        "Interaction test behaviorSimulate user behavior an",
+        "Accessibility testsCheck stories for WCAG and ARIA",
+        "Coverage ReportsTrack how much of your frontend co",
+        "Snapshot test markupDetect regressions in DOM mark",
+        "Find any component or page in your appStorybook is",
+        "Learn about search",
+        "Generate UI docs automaticallyWrite Markdown and b",
+        "Reuse components across pages and appsEvery story ",
+        "Track component history and versionsQA unexpected ",
+        "Subscribe"
+      ],
+      "forms": [
+        {
+          "action": "",
+          "method": "",
+          "fields": [
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "you@domain.com"
+            }
+          ]
+        }
+      ],
+      "links_count": 89,
+      "images_count": 96,
+      "images_with_alt": 77,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Build, test & document components"
+        },
+        {
+          "level": 2,
+          "text": "Develop durable user interfaces"
+        },
+        {
+          "level": 2,
+          "text": "Test UIs with less effort and no flake"
+        },
+        {
+          "level": 2,
+          "text": "Document UI for your team to reuse"
+        },
+        {
+          "level": 2,
+          "text": "Share how the UI actually works"
+        },
+        {
+          "level": 2,
+          "text": "Automate UI workflows"
+        },
+        {
+          "level": 3,
+          "text": "Build UI components and pages in isolation"
+        },
+        {
+          "level": 3,
+          "text": "Mock hard-to-reach edge cases as stories"
+        },
+        {
+          "level": 3,
+          "text": "Integrate with the tools you already use"
+        },
+        {
+          "level": 3,
+          "text": "Publish Storybook to get sign off from teammates"
+        },
+        {
+          "level": 3,
+          "text": "Embed stories in wikis, Markdown, and Figma"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "email",
+          "name": "email",
+          "placeholder": "you@domain.com"
+        }
+      ],
+      "footer_links": [
+        "Why Storybook",
+        "Component driven UI",
+        "AI",
+        "Guides",
+        "Tutorials",
+        "Changelog",
+        "Telemetry",
+        "Addons",
+        "Get involved",
+        "Blog",
+        "Explore",
+        "About",
+        "Chromatic",
+        "Netlify"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 11,
+      "has_og_tags": true,
+      "meta_description": "Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free.",
+      "scripts_count": 35
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "N",
+        "transparent_pricing": "N",
+        "free_trial": "N",
+        "free_tier": "Y",
+        "multiple_tiers": "N",
+        "enterprise_tier": "Y",
+        "annual_discount": "N",
+        "feature_comparison_table": "N",
+        "customer_logos": "N",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "N",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "Y",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "N",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "N",
+        "terms_of_service": "N",
+        "cookie_consent": "N",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "Y",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "N",
+        "templates_available": "N",
+        "onboarding_video": "N",
+        "roi_calculator": "N",
+        "help_center": "N",
+        "live_chat": "N",
+        "community_forum": "Y",
+        "contact_page": "N",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "N",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Component driven UI development",
+        "Integration with popular tools like Figma",
+        "Visual and interaction testing capabilities",
+        "Open source with strong GitHub presence"
+      ],
+      "confidence": "high"
+    }
+  },
+  {
+    "name": "zeplin",
+    "url": "https://zeplin.io",
+    "scanned_at": "2026-04-01T15:36:53.310010",
+    "screenshots": {
+      "desktop": "data/design_creative/2026-04-01/screenshots/zeplin_desktop.png",
+      "mobile": "data/design_creative/2026-04-01/screenshots/zeplin_mobile.png"
+    },
+    "structure": {
+      "title": "Zeplin \u00b7 Bring harmony to design delivery",
+      "url_final": "https://zeplin.io/",
+      "nav_items": [
+        {
+          "text": "Principles",
+          "href": "/principles-of-design-delivery/"
+        },
+        {
+          "text": "Document designs",
+          "href": "/features/document-designs/"
+        },
+        {
+          "text": "Manage workflows",
+          "href": "/features/manage-workflows/"
+        },
+        {
+          "text": "Scale builds",
+          "href": "/features/scale-builds/"
+        },
+        {
+          "text": "Design System Analytics",
+          "href": "https://omlet.dev/?utm_campaign=referral-zeplin-nav"
+        },
+        {
+          "text": "Integrations",
+          "href": "/integrations/"
+        },
+        {
+          "text": "Enterprise",
+          "href": "/enterprise/"
+        },
+        {
+          "text": "Complex Teams",
+          "href": "/enterprise/complex-teams/"
+        },
+        {
+          "text": "Design Operations",
+          "href": "/enterprise/design-ops/"
+        },
+        {
+          "text": "Designers",
+          "href": "/why-zeplin/designers/"
+        },
+        {
+          "text": "Developers",
+          "href": "/why-zeplin/developers/"
+        },
+        {
+          "text": "Product Managers",
+          "href": "/why-zeplin/teams/"
+        },
+        {
+          "text": "Pricing",
+          "href": "/pricing/"
+        },
+        {
+          "text": "Blog",
+          "href": "https://blog.zeplin.io/"
+        },
+        {
+          "text": "Support",
+          "href": "https://support.zeplin.io/"
+        },
+        {
+          "text": "AI Design Review",
+          "href": "https://blog.zeplin.io/product-news/ai-design-review-and-ai-organize/"
+        },
+        {
+          "text": "25 new features",
+          "href": "https://blog.zeplin.io/product-news/25-new-features-to-dig-into/"
+        },
+        {
+          "text": "Styleguide Pages",
+          "href": "https://blog.zeplin.io/product-news/we-restructured-styleguides/"
+        },
+        {
+          "text": "See more updates",
+          "href": "https://blog.zeplin.io/product-news"
+        }
+      ],
+      "buttons": [
+        "No, thanks",
+        "Allow",
+        "Necessary",
+        "Functional",
+        "Analytics",
+        "Performance",
+        "Advertisement",
+        "Uncategorized",
+        "No, thanks",
+        "Save My Preferences",
+        "Allow",
+        "Products",
+        "Solutions",
+        "Resources",
+        "Products",
+        "Solutions",
+        "Resources",
+        "Watch demo",
+        "Finalize designs",
+        "Track design changes",
+        "Organize designs",
+        "Document designs",
+        "Gather feedback",
+        "Manage design system",
+        "Tailored design specs",
+        "Kelsey Kimura"
+      ],
+      "forms": [],
+      "links_count": 115,
+      "images_count": 60,
+      "images_with_alt": 26,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Design tools are for designing. Zeplin is for clear, structured delivery."
+        },
+        {
+          "level": 2,
+          "text": "A letter fromour CEO"
+        },
+        {
+          "level": 2,
+          "text": "Everything your team needs for\u00a0design delivery"
+        },
+        {
+          "level": 2,
+          "text": "Why people love delivering\u00a0designs with Zeplin"
+        },
+        {
+          "level": 2,
+          "text": "Design deliverydone right"
+        },
+        {
+          "level": 3,
+          "text": "Design tools are made for\u00a0DESIGNING."
+        }
+      ],
+      "inputs": [
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "type": "checkbox",
+          "name": "",
+          "placeholder": ""
+        }
+      ],
+      "footer_links": [
+        "About us",
+        "Principles of Design Delivery",
+        "Careers",
+        "Contact us",
+        "Terms",
+        "Your privacy choices",
+        "Cookie preferences",
+        "Document designs",
+        "Manage workflows",
+        "Scale builds",
+        "User flows",
+        "Version control",
+        "Design systems",
+        "Connect to code",
+        "For designers",
+        "For developers"
+      ],
+      "has_search_input": false,
+      "has_lang_attr": true,
+      "aria_labels_count": 34,
+      "has_og_tags": true,
+      "meta_description": "Document designs, map user flows, track version changes \u2014 deliver with confidence without changing how you design.",
+      "scripts_count": 19
+    },
+    "errors": [],
+    "ai_analysis": {
+      "features": {
+        "pricing_page": "Y",
+        "transparent_pricing": "Y",
+        "free_trial": "Y",
+        "free_tier": "N",
+        "multiple_tiers": "Y",
+        "enterprise_tier": "Y",
+        "annual_discount": "Y",
+        "feature_comparison_table": "Y",
+        "customer_logos": "Y",
+        "case_studies": "N",
+        "product_screenshots": "Y",
+        "video_demo": "Y",
+        "integrations_page": "Y",
+        "blog": "Y",
+        "changelog": "N",
+        "status_page": "N",
+        "about_page": "Y",
+        "careers_page": "Y",
+        "security_page": "N",
+        "soc2_mentioned": "N",
+        "gdpr_mentioned": "N",
+        "iso27001_mentioned": "N",
+        "privacy_policy": "Y",
+        "terms_of_service": "Y",
+        "cookie_consent": "Y",
+        "dpa_available": "N",
+        "api_documentation": "Y",
+        "developer_portal": "N",
+        "sdk_available": "N",
+        "webhooks_support": "N",
+        "api_playground": "N",
+        "code_examples": "N",
+        "openapi_spec": "N",
+        "github_presence": "Y",
+        "signup_no_creditcard": "Y",
+        "social_signup": "N",
+        "interactive_demo": "Y",
+        "templates_available": "N",
+        "onboarding_video": "Y",
+        "roi_calculator": "N",
+        "help_center": "Y",
+        "live_chat": "N",
+        "community_forum": "N",
+        "contact_page": "Y",
+        "sla_published": "N",
+        "ios_app": "N",
+        "android_app": "N",
+        "desktop_app": "Y",
+        "browser_extension": "N",
+        "multi_language": "N"
+      },
+      "navigation_pattern": "top_nav",
+      "design_quality_1_to_10": 8,
+      "notable_features": [
+        "Design System Analytics",
+        "Integrations with popular design tools",
+        "Enterprise solutions for complex teams"
+      ],
+      "confidence": "high"
+    }
+  }
+]

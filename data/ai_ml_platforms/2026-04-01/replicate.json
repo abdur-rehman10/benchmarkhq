@@ -1,0 +1,235 @@
+{
+  "name": "replicate",
+  "url": "https://replicate.com",
+  "scanned_at": "2026-04-01T16:43:11.161937",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/replicate_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/replicate_mobile.png"
+  },
+  "structure": {
+    "title": "Replicate - Run AI with an API",
+    "url_final": "https://replicate.com/",
+    "nav_items": [
+      {
+        "text": "Explore",
+        "href": "/explore"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/enterprise"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Sign in",
+        "href": "/signin"
+      },
+      {
+        "text": "Try for free",
+        "href": "/signin"
+      },
+      {
+        "text": "Compare models in thePlayground",
+        "href": "/playground"
+      }
+    ],
+    "buttons": [
+      "Menu",
+      "Node",
+      "Python",
+      "HTTP",
+      "Get started for free",
+      "Explore models",
+      "Push a model",
+      "Explore models",
+      "Fine-tune image models",
+      "Learn more",
+      "Learn more about our enterprise plans",
+      "Get started"
+    ],
+    "forms": [],
+    "links_count": 146,
+    "images_count": 124,
+    "images_with_alt": 124,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Run and fine-tune models. Deploy custom models. All with one line of code."
+      },
+      {
+        "level": 2,
+        "text": "RunAIwith anAPI."
+      },
+      {
+        "level": 2,
+        "text": "Thousands of models contributed by our community"
+      },
+      {
+        "level": 2,
+        "text": "How it works"
+      },
+      {
+        "level": 2,
+        "text": "Scale on Replicate"
+      },
+      {
+        "level": 2,
+        "text": "Imagine what you can build"
+      },
+      {
+        "level": 3,
+        "text": "Run models"
+      },
+      {
+        "level": 3,
+        "text": "Fine-tune models with your own data"
+      },
+      {
+        "level": 3,
+        "text": "Deploy custom models"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search 'best image models' or 'text to image'"
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "collection",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Replicate glyphReplicate wordmark",
+      "Explore",
+      "Playground",
+      "Pricing",
+      "Docs",
+      "Blog",
+      "Changelog",
+      "Discord",
+      "X",
+      "GitHub",
+      "Home",
+      "About",
+      "Changelog",
+      "Join us",
+      "Terms",
+      "Privacy",
+      "Status",
+      "Support",
+      "All services are online"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 1,
+    "has_og_tags": false,
+    "meta_description": "Run open-source machine learning models with a cloud API",
+    "scripts_count": 9
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "N",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "API for running AI models",
+      "Community-contributed models",
+      "Model fine-tuning capabilities"
+    ],
+    "confidence": "high"
+  }
+}

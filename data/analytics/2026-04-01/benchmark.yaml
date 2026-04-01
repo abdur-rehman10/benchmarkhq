@@ -1,0 +1,194 @@
+metadata:
+  industry: analytics
+  name: Analytics & BI SaaS
+  category: Data
+  version: 1.0.0
+  generated_at: '2026-04-01T15:05:00.288625'
+  sites_analyzed: 30
+  sites:
+  - mixpanel
+  - amplitude
+  - posthog
+  - heap
+  - pendo
+  - hotjar
+  - fullstory
+  - plausible
+  - fathom
+  - matomo
+  - datadog
+  - grafana
+  - metabase
+  - looker
+  - tableau
+  - power_bi
+  - sisense
+  - mode
+  - chartio
+  - klipfolio
+  - geckoboard
+  - databox
+  - whatagraph
+  - june
+  - logrocket
+  - clarity
+  - smartlook
+  - lucky_orange
+  - mouseflow
+  - countly
+features:
+  critical:
+  - id: pricing_page
+    frequency: 29/29
+    percent: 100
+  - id: privacy_policy
+    frequency: 29/29
+    percent: 100
+  - id: terms_of_service
+    frequency: 29/29
+    percent: 100
+  - id: cookie_consent
+    frequency: 29/29
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 26/29
+    percent: 100
+  - id: multiple_tiers
+    frequency: 28/29
+    percent: 97
+  - id: annual_discount
+    frequency: 19/29
+    percent: 95
+  - id: free_trial
+    frequency: 27/29
+    percent: 93
+  - id: enterprise_tier
+    frequency: 26/29
+    percent: 93
+  - id: product_screenshots
+    frequency: 27/29
+    percent: 93
+  - id: gdpr_mentioned
+    frequency: 25/29
+    percent: 93
+  - id: blog
+    frequency: 26/29
+    percent: 90
+  - id: api_documentation
+    frequency: 26/29
+    percent: 90
+  - id: integrations_page
+    frequency: 24/29
+    percent: 89
+  required:
+  - id: help_center
+    frequency: 23/29
+    percent: 82
+  - id: contact_page
+    frequency: 23/29
+    percent: 82
+  - id: feature_comparison_table
+    frequency: 19/29
+    percent: 79
+  - id: customer_logos
+    frequency: 22/29
+    percent: 79
+  - id: about_page
+    frequency: 22/29
+    percent: 79
+  - id: github_presence
+    frequency: 23/29
+    percent: 79
+  - id: interactive_demo
+    frequency: 22/29
+    percent: 79
+  - id: careers_page
+    frequency: 21/29
+    percent: 78
+  - id: case_studies
+    frequency: 21/29
+    percent: 75
+  - id: multi_language
+    frequency: 21/29
+    percent: 75
+  - id: changelog
+    frequency: 20/29
+    percent: 74
+  - id: webhooks_support
+    frequency: 19/29
+    percent: 73
+  - id: transparent_pricing
+    frequency: 21/29
+    percent: 72
+  - id: video_demo
+    frequency: 19/29
+    percent: 70
+  - id: security_page
+    frequency: 19/29
+    percent: 70
+  - id: code_examples
+    frequency: 19/29
+    percent: 70
+  - id: onboarding_video
+    frequency: 19/29
+    percent: 70
+  - id: templates_available
+    frequency: 18/29
+    percent: 69
+  - id: sdk_available
+    frequency: 19/29
+    percent: 68
+  - id: status_page
+    frequency: 17/29
+    percent: 65
+  - id: dpa_available
+    frequency: 15/29
+    percent: 65
+  recommended:
+  - id: free_tier
+    frequency: 18/29
+    percent: 62
+  - id: live_chat
+    frequency: 15/29
+    percent: 60
+  - id: community_forum
+    frequency: 16/29
+    percent: 59
+  - id: developer_portal
+    frequency: 15/29
+    percent: 56
+  - id: soc2_mentioned
+    frequency: 11/29
+    percent: 50
+  - id: ios_app
+    frequency: 11/29
+    percent: 42
+  - id: android_app
+    frequency: 11/29
+    percent: 42
+  nice_to_have:
+  - id: openapi_spec
+    frequency: 9/29
+    percent: 39
+  - id: social_signup
+    frequency: 9/29
+    percent: 39
+  - id: api_playground
+    frequency: 8/29
+    percent: 36
+  - id: sla_published
+    frequency: 8/29
+    percent: 35
+  - id: roi_calculator
+    frequency: 6/29
+    percent: 27
+  - id: iso27001_mentioned
+    frequency: 5/29
+    percent: 25
+  innovative:
+  - id: browser_extension
+    frequency: 2/29
+    percent: 9
+  - id: desktop_app
+    frequency: 2/29
+    percent: 8

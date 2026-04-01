@@ -1,0 +1,194 @@
+metadata:
+  industry: developer_tools
+  name: Developer Tools SaaS
+  category: Engineering
+  version: 1.0.0
+  generated_at: '2026-04-01T15:47:54.531791'
+  sites_analyzed: 30
+  sites:
+  - github
+  - gitlab
+  - vercel
+  - netlify
+  - railway
+  - render
+  - supabase
+  - planetscale
+  - neon
+  - cloudflare
+  - flyio
+  - digitalocean
+  - heroku
+  - aws_amplify
+  - firebase
+  - sentry
+  - launchdarkly
+  - postman
+  - insomnia
+  - docker_hub
+  - snyk
+  - sonarqube
+  - circleci
+  - buildkite
+  - terraform_cloud
+  - pulumi
+  - upstash
+  - turso
+  - convex
+  - replit
+features:
+  critical:
+  - id: pricing_page
+    frequency: 30/30
+    percent: 100
+  - id: multiple_tiers
+    frequency: 28/30
+    percent: 100
+  - id: enterprise_tier
+    frequency: 29/30
+    percent: 100
+  - id: feature_comparison_table
+    frequency: 25/30
+    percent: 100
+  - id: api_documentation
+    frequency: 30/30
+    percent: 100
+  - id: github_presence
+    frequency: 29/30
+    percent: 100
+  - id: signup_no_creditcard
+    frequency: 25/30
+    percent: 100
+  - id: blog
+    frequency: 29/30
+    percent: 97
+  - id: changelog
+    frequency: 28/30
+    percent: 97
+  - id: privacy_policy
+    frequency: 29/30
+    percent: 97
+  - id: cookie_consent
+    frequency: 26/30
+    percent: 96
+  - id: free_tier
+    frequency: 28/30
+    percent: 93
+  - id: status_page
+    frequency: 28/30
+    percent: 93
+  - id: careers_page
+    frequency: 26/30
+    percent: 93
+  - id: security_page
+    frequency: 26/30
+    percent: 93
+  - id: code_examples
+    frequency: 25/30
+    percent: 93
+  - id: community_forum
+    frequency: 28/30
+    percent: 93
+  - id: annual_discount
+    frequency: 22/30
+    percent: 92
+  - id: webhooks_support
+    frequency: 24/30
+    percent: 92
+  - id: customer_logos
+    frequency: 26/30
+    percent: 90
+  - id: about_page
+    frequency: 26/30
+    percent: 90
+  - id: terms_of_service
+    frequency: 27/30
+    percent: 90
+  - id: contact_page
+    frequency: 27/30
+    percent: 90
+  - id: developer_portal
+    frequency: 25/30
+    percent: 89
+  - id: product_screenshots
+    frequency: 24/30
+    percent: 86
+  - id: gdpr_mentioned
+    frequency: 23/30
+    percent: 85
+  - id: sdk_available
+    frequency: 23/30
+    percent: 85
+  - id: help_center
+    frequency: 23/30
+    percent: 85
+  required:
+  - id: transparent_pricing
+    frequency: 25/30
+    percent: 83
+  - id: integrations_page
+    frequency: 22/30
+    percent: 79
+  - id: templates_available
+    frequency: 21/30
+    percent: 78
+  - id: free_trial
+    frequency: 20/30
+    percent: 77
+  - id: dpa_available
+    frequency: 20/30
+    percent: 74
+  - id: multi_language
+    frequency: 19/30
+    percent: 70
+  - id: case_studies
+    frequency: 19/30
+    percent: 68
+  - id: video_demo
+    frequency: 19/30
+    percent: 68
+  - id: sla_published
+    frequency: 17/30
+    percent: 65
+  recommended:
+  - id: onboarding_video
+    frequency: 18/30
+    percent: 64
+  - id: soc2_mentioned
+    frequency: 16/30
+    percent: 62
+  - id: interactive_demo
+    frequency: 16/30
+    percent: 57
+  - id: openapi_spec
+    frequency: 14/30
+    percent: 56
+  - id: social_signup
+    frequency: 14/30
+    percent: 56
+  - id: live_chat
+    frequency: 15/30
+    percent: 56
+  - id: iso27001_mentioned
+    frequency: 13/30
+    percent: 52
+  - id: api_playground
+    frequency: 11/30
+    percent: 44
+  nice_to_have:
+  - id: ios_app
+    frequency: 6/30
+    percent: 22
+  - id: android_app
+    frequency: 6/30
+    percent: 22
+  - id: roi_calculator
+    frequency: 5/30
+    percent: 19
+  - id: desktop_app
+    frequency: 5/30
+    percent: 19
+  - id: browser_extension
+    frequency: 5/30
+    percent: 18
+  innovative: []

@@ -1,0 +1,203 @@
+{
+  "name": "hugging_face",
+  "url": "https://huggingface.co",
+  "scanned_at": "2026-04-01T16:42:51.147935",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/hugging_face_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/hugging_face_mobile.png"
+  },
+  "structure": {
+    "title": "Hugging Face \u2013 The AI community building the future.",
+    "url_final": "https://huggingface.co/",
+    "nav_items": [
+      {
+        "text": "Models",
+        "href": "/models"
+      },
+      {
+        "text": "Datasets",
+        "href": "/datasets"
+      },
+      {
+        "text": "Spaces",
+        "href": "/spaces"
+      },
+      {
+        "text": "Bucketsnew",
+        "href": "/storage"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/enterprise"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log In",
+        "href": "/login"
+      },
+      {
+        "text": "Sign Up",
+        "href": "/join"
+      }
+    ],
+    "buttons": [
+      "System theme"
+    ],
+    "forms": [],
+    "links_count": 85,
+    "images_count": 28,
+    "images_with_alt": 26,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The AI community building the future."
+      },
+      {
+        "level": 2,
+        "text": "Models"
+      },
+      {
+        "level": 2,
+        "text": "Spaces"
+      },
+      {
+        "level": 2,
+        "text": "Datasets"
+      },
+      {
+        "level": 2,
+        "text": "The Home of Machine Learning"
+      },
+      {
+        "level": 2,
+        "text": "Accelerate your ML"
+      },
+      {
+        "level": 3,
+        "text": "The collaboration platform"
+      },
+      {
+        "level": 3,
+        "text": "Move faster"
+      },
+      {
+        "level": 3,
+        "text": "Explore all modalities"
+      },
+      {
+        "level": 3,
+        "text": "Build your portfolio"
+      },
+      {
+        "level": 3,
+        "text": "Team & Enterprise"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "Search models, datasets, users..."
+      }
+    ],
+    "footer_links": [
+      "Models",
+      "Datasets",
+      "Spaces",
+      "Changelog",
+      "Inference Endpoints",
+      "HuggingChat",
+      "About",
+      "Brand assets",
+      "Terms of service",
+      "Privacy",
+      "Careers",
+      "Press",
+      "Learn",
+      "Documentation",
+      "Blog",
+      "Forum",
+      "Service Status",
+      "GitHub",
+      "Twitter",
+      "LinkedIn"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": false,
+    "aria_labels_count": 1,
+    "has_og_tags": true,
+    "meta_description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "scripts_count": 8
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "N",
+      "sdk_available": "Y",
+      "webhooks_support": "N",
+      "api_playground": "Y",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Strong community focus",
+      "Extensive model and dataset repository",
+      "API playground for experimentation",
+      "Active GitHub presence"
+    ],
+    "confidence": "high"
+  }
+}

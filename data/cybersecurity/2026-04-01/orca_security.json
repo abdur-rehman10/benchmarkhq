@@ -1,0 +1,425 @@
+{
+  "name": "orca_security",
+  "url": "https://orca.security",
+  "scanned_at": "2026-04-01T16:26:03.096384",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/orca_security_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/orca_security_mobile.png"
+  },
+  "structure": {
+    "title": "Orca Security | AI-Powered Cloud Security Platform & CNAPP",
+    "url_final": "https://orca.security/",
+    "nav_items": [
+      {
+        "text": "Platform Overview",
+        "href": "https://orca.security/platform/"
+      },
+      {
+        "text": "CNAPPSecure cloud native applications with a purpo",
+        "href": "https://orca.security/platform/cnapp-cloud-security-platform/"
+      },
+      {
+        "text": "CSPMIdentify and remediate misconfigurations acros",
+        "href": "https://orca.security/platform/cloud-security-posture-management-cspm/"
+      },
+      {
+        "text": "CWPPProtect VMs, containers, and serverless functi",
+        "href": "https://orca.security/platform/cloud-workload-protection-platform-cwpp/"
+      },
+      {
+        "text": "CIEMSecure cloud identities, users, and entitlemen",
+        "href": "https://orca.security/platform/cloud-infrastructure-entitlement-management-ciem/"
+      },
+      {
+        "text": "DSPMReduce the risk of data breaches and protect s",
+        "href": "https://orca.security/platform/data-security-posture-management-dspm/"
+      },
+      {
+        "text": "Container & Kubernetes SecurityScalable containers",
+        "href": "https://orca.security/platform/container-and-Kubernetes-security/"
+      },
+      {
+        "text": "Multi-Cloud ComplianceAchieve regulatory complianc",
+        "href": "https://orca.security/platform/multi-cloud-compliance/"
+      },
+      {
+        "text": "Vulnerability ManagementAgentless vulnerability ma",
+        "href": "https://orca.security/platform/vulnerability-management/"
+      },
+      {
+        "text": "API SecurityComplete API discovery, security postu",
+        "href": "https://orca.security/platform/api-security/"
+      },
+      {
+        "text": "CDR24x7 monitoring and response across the entire ",
+        "href": "https://orca.security/platform/cloud-detection-and-response-cdr/"
+      },
+      {
+        "text": "Application SecuritySecure cloud-native applicatio",
+        "href": "https://orca.security/platform/application-security/"
+      },
+      {
+        "text": "AI-SPMInventory cloud AI models, identify AI risks",
+        "href": "https://orca.security/platform/ai-security-posture-management/"
+      },
+      {
+        "text": "Orca AIAccelerate cloud security with AI agents an",
+        "href": "https://orca.security/platform/ai-cloud-security/"
+      },
+      {
+        "text": "SideScanning\u2122 TechnologyOur innovative approach pr",
+        "href": "https://orca.security/platform/agentless-sidescanning/"
+      },
+      {
+        "text": "Orca SensorFully integrated runtime visibility and",
+        "href": "https://orca.security/platform/runtime-sensor/"
+      },
+      {
+        "text": "Financial Services",
+        "href": "https://orca.security/solutions/industries/financial-services/"
+      },
+      {
+        "text": "Government",
+        "href": "https://orca.security/solutions/industries/multi-cloud-security-and-compliance-for-government/"
+      },
+      {
+        "text": "Healthcare",
+        "href": "https://orca.security/solutions/industries/industry-healthcare/"
+      },
+      {
+        "text": "Media & Entertainment",
+        "href": "https://orca.security/solutions/industries/media-entertainment/"
+      }
+    ],
+    "buttons": [
+      "Platform",
+      "Capabilities",
+      "Who We Serve",
+      "Resources",
+      "Resources",
+      "Research",
+      "Customers",
+      "Partners",
+      "CSPs",
+      "Integrations",
+      "Company",
+      "Log In",
+      "One unified cloud native platform",
+      "Easy onboarding for instant ROI",
+      "Unmatched visibility meets risk prioritization",
+      "Integrated across the full software development li",
+      "Simplify cloud compliance"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "search",
+            "name": "",
+            "placeholder": "What are you searching for?"
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "Email",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_campaign__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_content__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_medium__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_source__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "utm_term__c",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "formid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "munchkinId",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "vwo_uuid",
+            "placeholder": ""
+          },
+          {
+            "type": "hidden",
+            "name": "cq_req_id",
+            "placeholder": ""
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      }
+    ],
+    "links_count": 215,
+    "images_count": 148,
+    "images_with_alt": 124,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Command Your Cloud"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by the world\u2019s most innovative and security-driven enterprises"
+      },
+      {
+        "level": 2,
+        "text": "Cloud Defense, Simplified, From Observation to Action and Remediation"
+      },
+      {
+        "level": 2,
+        "text": "Why Customers Choose the Orca Cloud Security Platform"
+      },
+      {
+        "level": 2,
+        "text": "Map The Complete Anatomy Of A Cloud Security Breach"
+      },
+      {
+        "level": 2,
+        "text": "Accelerate Delivery with Built-In Cloud Security"
+      },
+      {
+        "level": 3,
+        "text": "Accelerate Cloud Security with Orca AI"
+      },
+      {
+        "level": 3,
+        "text": "Prioritize Vulnerabilities with 3 Types of Reachability Analysis"
+      },
+      {
+        "level": 3,
+        "text": "Real-Time Protection with Orca Sensor"
+      },
+      {
+        "level": 3,
+        "text": "Powerful AI driving business outcomes"
+      },
+      {
+        "level": 3,
+        "text": "One unified cloud native platform"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "placeholder": "What are you searching for?"
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term__c",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "formid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "munchkinId",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "vwo_uuid",
+        "placeholder": ""
+      },
+      {
+        "type": "hidden",
+        "name": "cq_req_id",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0002",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0003",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "ot-group-id-C0004",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "vendor-search-handler",
+        "placeholder": "Search\u2026"
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Cloud Native Application Protection",
+      "Vulnerability Management",
+      "SideScanning\u2122 Technology",
+      "Container and Kubernetes Security",
+      "Cloud Security Posture Management (CSPM)",
+      "Cloud Infrastructure Entitlement Management (CIEM)",
+      "Cloud Workload Protection Platform (CWPP)",
+      "Orca AI",
+      "AI Security Posture Management (AI-SPM)",
+      "Multi-Cloud Compliance and Security",
+      "Cloud Detection and Response (CDR)",
+      "Application Security",
+      "API Security",
+      "Data Security Posture Management (DSPM)",
+      "Orca Sensor",
+      "Integrations",
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Oracle Cloud"
+    ],
+    "has_search_input": true,
+    "has_lang_attr": true,
+    "aria_labels_count": 60,
+    "has_og_tags": true,
+    "meta_description": "Secure your multi-cloud environment from build to runtime with the industry-leading CNAPP. Featuring comprehensive AI security and workload defense.",
+    "scripts_count": 83
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "Y",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "Y",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "Y",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "Y",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "Y",
+      "help_center": "Y",
+      "live_chat": "Y",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "Y",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-powered cloud security",
+      "Agentless SideScanning technology",
+      "Comprehensive cloud security platform"
+    ],
+    "confidence": "high"
+  }
+}

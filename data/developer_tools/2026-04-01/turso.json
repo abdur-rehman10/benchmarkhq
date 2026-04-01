@@ -1,0 +1,196 @@
+{
+  "name": "turso",
+  "url": "https://turso.tech",
+  "scanned_at": "2026-04-01T15:46:50.490523",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/turso_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/turso_mobile.png"
+  },
+  "structure": {
+    "title": "Turso - Databases Everywhere",
+    "url_final": "https://turso.tech/",
+    "nav_items": [
+      {
+        "text": "Turso",
+        "href": "/"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.turso.tech"
+      },
+      {
+        "text": "Cloud Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Changelog",
+        "href": "https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md"
+      },
+      {
+        "text": "Follow us on GitHub",
+        "href": "https://github.com/tursodatabase/turso"
+      },
+      {
+        "text": "Follow us on X",
+        "href": "https://x.com/tursodatabase"
+      },
+      {
+        "text": "Join us on Discord",
+        "href": "https://tur.so/discord"
+      },
+      {
+        "text": "Login",
+        "href": "/signin"
+      }
+    ],
+    "buttons": [
+      "Get Started",
+      "Open main menu",
+      "Get Started",
+      "Get Started",
+      "curl -sSL tur.so/install | sh"
+    ],
+    "forms": [],
+    "links_count": 68,
+    "images_count": 8,
+    "images_with_alt": 6,
+    "headings": [
+      {
+        "level": 2,
+        "text": "Databases Everywhere"
+      },
+      {
+        "level": 2,
+        "text": "Why Agents Need a New Database"
+      },
+      {
+        "level": 2,
+        "text": "Don't just take our word for it"
+      },
+      {
+        "level": 2,
+        "text": "Turso is the Database for Modern Applications"
+      },
+      {
+        "level": 2,
+        "text": "Join the Community"
+      },
+      {
+        "level": 3,
+        "text": "Turso"
+      },
+      {
+        "level": 3,
+        "text": "Turso Cloud"
+      },
+      {
+        "level": 3,
+        "text": "AI Agents"
+      },
+      {
+        "level": 3,
+        "text": "Mobile & IoT"
+      },
+      {
+        "level": 3,
+        "text": "Private by Design"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Quickstart",
+      "Documentation",
+      "Pricing",
+      "API Status",
+      "Terms of Use",
+      "Privacy Policy",
+      "Embedded Replicas",
+      "Database Branching",
+      "Backups & Recovery",
+      "Platform API",
+      "Changelog",
+      "Releases",
+      "About",
+      "Contact Us",
+      "Support",
+      "Trust",
+      "Blog",
+      "RSS",
+      "YouTube",
+      "Discord"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Turso is the lightweight database that scales to millions of agents. Deploy databases everywhere\u2014on servers, in browsers, on devices\u2014just like files. A full SQLite drop-in replacement, built for the a",
+    "scripts_count": 99
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Focus on modern applications",
+      "Community engagement via Discord",
+      "GitHub presence for open-source collaboration"
+    ],
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "name": "twenty",
+  "url": "https://twenty.com",
+  "scanned_at": "2026-04-01T14:28:25.376314",
+  "screenshots": {
+    "desktop": "data/crm/2026-04-01/screenshots/twenty_desktop.png",
+    "mobile": "data/crm/2026-04-01/screenshots/twenty_mobile.png"
+  },
+  "structure": {
+    "title": "Twenty - The #1 Open-Source CRM",
+    "url_final": "https://twenty.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "./"
+      },
+      {
+        "text": "Story",
+        "href": "./story"
+      },
+      {
+        "text": "Pricing",
+        "href": "./pricing"
+      },
+      {
+        "text": "Releases",
+        "href": "./releases"
+      },
+      {
+        "text": "Docs",
+        "href": ""
+      },
+      {
+        "text": "43.4k",
+        "href": "https://github.com/twentyhq/twenty"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://app.twenty.com/welcome"
+      },
+      {
+        "text": "Get Started",
+        "href": "https://app.twenty.com/welcome"
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 45,
+    "images_count": 79,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The #1"
+      },
+      {
+        "level": 1,
+        "text": "Open-Source CRM"
+      },
+      {
+        "level": 2,
+        "text": "An Operating System"
+      },
+      {
+        "level": 2,
+        "text": "for your customer data"
+      },
+      {
+        "level": 2,
+        "text": "Plus all the features"
+      },
+      {
+        "level": 2,
+        "text": "of a great CRM"
+      },
+      {
+        "level": 2,
+        "text": "The Power"
+      },
+      {
+        "level": 3,
+        "text": "Thriving community"
+      },
+      {
+        "level": 3,
+        "text": "Open Roadmap"
+      },
+      {
+        "level": 3,
+        "text": "Secured by design"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Twenty is a modern, open-source CRM alternative to Salesforce\u2014fully customizable, affordable, and powered by the community.",
+    "scripts_count": 13
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "U",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "U",
+      "video_demo": "U",
+      "integrations_page": "U",
+      "blog": "U",
+      "changelog": "Y",
+      "status_page": "U",
+      "about_page": "Y",
+      "careers_page": "U",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "U",
+      "dpa_available": "U",
+      "api_documentation": "Y",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "U",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "Y",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open-source CRM",
+      "Thriving community",
+      "Open roadmap",
+      "Secured by design"
+    ],
+    "confidence": "medium"
+  }
+}

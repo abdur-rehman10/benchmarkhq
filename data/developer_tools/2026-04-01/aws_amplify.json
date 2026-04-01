@@ -1,0 +1,250 @@
+{
+  "name": "aws_amplify",
+  "url": "https://aws.amazon.com/amplify/",
+  "scanned_at": "2026-04-01T15:41:52.452911",
+  "screenshots": {
+    "desktop": "data/developer_tools/2026-04-01/screenshots/aws_amplify_desktop.png",
+    "mobile": "data/developer_tools/2026-04-01/screenshots/aws_amplify_mobile.png"
+  },
+  "structure": {
+    "title": "Full Stack Development - Web and Mobile Apps - AWS Amplify",
+    "url_final": "https://aws.amazon.com/amplify/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/?nc2=h_home"
+      }
+    ],
+    "buttons": [
+      "Accept",
+      "Decline",
+      "Customize",
+      "Cancel",
+      "Save preferences",
+      "Cancel",
+      "Save preferences",
+      "Dismiss",
+      "Filter: All",
+      "English",
+      "Support",
+      "My account",
+      "Discover AWS",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Resources",
+      "Search",
+      "Filter: All",
+      "Play",
+      "Play Video",
+      "Play",
+      "Skip Backward"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "I'm looking for..."
+          }
+        ]
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "text",
+            "name": "",
+            "placeholder": "I'm looking for..."
+          }
+        ]
+      }
+    ],
+    "links_count": 80,
+    "images_count": 9,
+    "images_with_alt": 8,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Fullstack TypeScript. Frontend DX for AWS."
+      },
+      {
+        "level": 2,
+        "text": "Select your cookie preferences"
+      },
+      {
+        "level": 2,
+        "text": "Customize cookie preferences"
+      },
+      {
+        "level": 2,
+        "text": "Your privacy choices"
+      },
+      {
+        "level": 2,
+        "text": "Unable to save cookie preferences"
+      },
+      {
+        "level": 2,
+        "text": "Go from idea to app in hours"
+      },
+      {
+        "level": 3,
+        "text": "Essential"
+      },
+      {
+        "level": 3,
+        "text": "Performance"
+      },
+      {
+        "level": 3,
+        "text": "Functional"
+      },
+      {
+        "level": 3,
+        "text": "Advertising"
+      },
+      {
+        "level": 3,
+        "text": "Data"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "awsccc-u-rg-ccba-allowed",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "awsccc-u-rg-ccba-allowed",
+        "placeholder": ""
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "I'm looking for..."
+      },
+      {
+        "type": "text",
+        "name": "",
+        "placeholder": "I'm looking for..."
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [
+      "Create an AWS account",
+      "What Is AWS?",
+      "What Is Cloud Computing?",
+      "What Is Agentic AI?",
+      "Cloud Computing Concepts Hub",
+      "AWS Cloud Security",
+      "What's New",
+      "Blogs",
+      "Press Releases",
+      "Getting Started",
+      "Training",
+      "AWS Trust Center",
+      "AWS Solutions Library",
+      "Architecture Center",
+      "Product and Technical FAQs",
+      "Analyst Reports",
+      "AWS Partners",
+      "Builder Center",
+      "SDKs & Tools",
+      ".NET on AWS"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 54,
+    "has_og_tags": true,
+    "meta_description": "Accelerate your full-stack web and mobile app development with AWS Amplify. Easy to start, easy to scale. No cloud expertise needed. ",
+    "scripts_count": 34
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "N",
+      "feature_comparison_table": "Y",
+      "customer_logos": "Y",
+      "case_studies": "Y",
+      "product_screenshots": "Y",
+      "video_demo": "Y",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "Y",
+      "status_page": "Y",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "Y",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Fullstack TypeScript support",
+      "Frontend Developer Experience (DX) for AWS",
+      "Rapid app development capabilities"
+    ],
+    "confidence": "high"
+  }
+}

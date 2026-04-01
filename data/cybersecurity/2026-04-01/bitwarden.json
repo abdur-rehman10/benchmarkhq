@@ -1,0 +1,244 @@
+{
+  "name": "bitwarden",
+  "url": "https://bitwarden.com",
+  "scanned_at": "2026-04-01T16:22:21.247630",
+  "screenshots": {
+    "desktop": "data/cybersecurity/2026-04-01/screenshots/bitwarden_desktop.png",
+    "mobile": "data/cybersecurity/2026-04-01/screenshots/bitwarden_mobile.png"
+  },
+  "structure": {
+    "title": "Best Password Manager for Business, Enterprise & Personal | Bitwarden",
+    "url_final": "https://bitwarden.com/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Individuals",
+        "href": "/products/personal/"
+      },
+      {
+        "text": "Families",
+        "href": "/products/families/"
+      },
+      {
+        "text": "Business",
+        "href": "/products/business/"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/products/enterprise/"
+      },
+      {
+        "text": "Explore Secrets Manager",
+        "href": "/products/secrets-manager/"
+      },
+      {
+        "text": "Passwordless.dev and Passkeys",
+        "href": "/products/passwordless/"
+      },
+      {
+        "text": "Developer Documentation",
+        "href": "/developers/"
+      },
+      {
+        "text": "Integrations",
+        "href": "/integrations/"
+      },
+      {
+        "text": "Partners",
+        "href": "/partners/"
+      },
+      {
+        "text": "Access Intelligence",
+        "href": "/products/access-intelligence/"
+      },
+      {
+        "text": "Bitwarden Authenticator",
+        "href": "/products/authenticator/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing/business/"
+      },
+      {
+        "text": "Downloads",
+        "href": "/download/"
+      },
+      {
+        "text": "Integrated TOTP",
+        "href": "/help/integrated-authenticator/"
+      },
+      {
+        "text": "Emergency Access",
+        "href": "/help/emergency-access/"
+      },
+      {
+        "text": "Secure Sharing with Send",
+        "href": "/products/send/"
+      },
+      {
+        "text": "Email Alias Integration",
+        "href": "/integrations/#email-alias-integrations"
+      },
+      {
+        "text": "Cross-platform with Unlimited Devices",
+        "href": "/download/"
+      },
+      {
+        "text": "Access Intelligence",
+        "href": "/products/access-intelligence/"
+      }
+    ],
+    "buttons": [
+      "Reject All",
+      "Customize Settings",
+      "Accept All",
+      "Switch to",
+      "Stay in",
+      "Products",
+      "Features",
+      "Resources",
+      "Search",
+      "Products\ue9a8",
+      "Features\ue9a8",
+      "Resources\ue9a8",
+      "Protect against hackersWeak and reused passwords a",
+      "Autofill effortlesslyNo need to remember or type t",
+      "Don\u2019t feed the phish!Bitwarden defends against phi",
+      "Personal",
+      "Business",
+      "Individuals",
+      "Families",
+      "Business",
+      "Enterprise",
+      "Explore Secrets Manager",
+      "Passwordless.dev and Passkeys",
+      "Developer Documentation",
+      "Integrations",
+      "Partners"
+    ],
+    "forms": [],
+    "links_count": 164,
+    "images_count": 31,
+    "images_with_alt": 27,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Defend against hackers and data breaches"
+      },
+      {
+        "level": 3,
+        "text": "Simple to use"
+      },
+      {
+        "level": 3,
+        "text": "Easy to manage"
+      },
+      {
+        "level": 3,
+        "text": "Trusted security"
+      },
+      {
+        "level": 3,
+        "text": "Why millions trust Bitwarden"
+      },
+      {
+        "level": 3,
+        "text": "Business protection"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Why choose Bitwarden",
+      "Download options",
+      "Integrations",
+      "Passkeys and passwordless",
+      "Bitwarden Authenticator",
+      "Bitwarden Send",
+      "Plans and pricing",
+      "Managed Service Providers",
+      "Self-hosting Bitwarden",
+      "About",
+      "Open source",
+      "Careers",
+      "Events",
+      "Open Source Security Summit",
+      "Press Room",
+      "Blog",
+      "Partners",
+      "Resource Center",
+      "Community forums"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 9,
+    "has_og_tags": true,
+    "meta_description": "Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.",
+    "scripts_count": 59
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "Y",
+      "careers_page": "Y",
+      "security_page": "Y",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "Y",
+      "live_chat": "N",
+      "community_forum": "Y",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "Y",
+      "android_app": "Y",
+      "desktop_app": "Y",
+      "browser_extension": "Y",
+      "multi_language": "Y"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Open source",
+      "Passwordless authentication",
+      "Secrets Manager"
+    ],
+    "confidence": "high"
+  }
+}

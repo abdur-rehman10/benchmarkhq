@@ -1,0 +1,169 @@
+{
+  "name": "fillout",
+  "url": "https://www.fillout.com",
+  "scanned_at": "2026-04-01T18:02:59.571617",
+  "screenshots": {
+    "desktop": "data/forms_surveys/2026-04-01/screenshots/fillout_desktop.png",
+    "mobile": "data/forms_surveys/2026-04-01/screenshots/fillout_mobile.png"
+  },
+  "structure": {
+    "title": "Fillout | Forms that do it all",
+    "url_final": "https://www.fillout.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      }
+    ],
+    "buttons": [
+      "Products",
+      "Templates",
+      "Integrations",
+      "Resources",
+      "Forms",
+      "Scheduling",
+      "PDF",
+      "Payments",
+      "Workflows",
+      "Signatures",
+      "Forms",
+      "Scheduling",
+      "PDF",
+      "Payments",
+      "Workflows",
+      "Signatures",
+      "24/5 Support. Here if you need us",
+      "Settings",
+      "Accept",
+      "Get started",
+      "Get Started",
+      "Make a scheduling form \u2192",
+      "View all integrations \u2192",
+      "Meet our customers",
+      "Get started"
+    ],
+    "forms": [],
+    "links_count": 79,
+    "images_count": 161,
+    "images_with_alt": 161,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Forms thatdo it all"
+      },
+      {
+        "level": 2,
+        "text": "It all starts with a form"
+      },
+      {
+        "level": 2,
+        "text": "Create a lasting impression"
+      },
+      {
+        "level": 2,
+        "text": "Integrate with all your apps"
+      },
+      {
+        "level": 2,
+        "text": "How people use Fillout"
+      },
+      {
+        "level": 2,
+        "text": "Make your first form in minutes"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "linkedin-icon",
+      "x-icon",
+      "Home",
+      "Pricing",
+      "Integrations",
+      "Careers",
+      "Report abuse",
+      "Blog",
+      "Enterprise",
+      "Forms",
+      "Scheduling",
+      "PDF generation",
+      "Payments",
+      "Workflows",
+      "Conversion kit",
+      "Zite",
+      "AI Quiz Maker",
+      "AI Form Builder",
+      "AI Survey Maker",
+      "Import Google Forms"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 2,
+    "has_og_tags": true,
+    "meta_description": "Create powerful forms, surveys and quizzes your audience will answer. Store responses directly where you need them.",
+    "scripts_count": 39
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "U",
+      "free_trial": "Y",
+      "free_tier": "Y",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "U",
+      "case_studies": "U",
+      "product_screenshots": "Y",
+      "video_demo": "U",
+      "integrations_page": "Y",
+      "blog": "Y",
+      "changelog": "U",
+      "status_page": "U",
+      "about_page": "U",
+      "careers_page": "Y",
+      "security_page": "U",
+      "soc2_mentioned": "U",
+      "gdpr_mentioned": "U",
+      "iso27001_mentioned": "U",
+      "privacy_policy": "U",
+      "terms_of_service": "U",
+      "cookie_consent": "Y",
+      "dpa_available": "U",
+      "api_documentation": "U",
+      "developer_portal": "U",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "U",
+      "templates_available": "Y",
+      "onboarding_video": "U",
+      "roi_calculator": "U",
+      "help_center": "U",
+      "live_chat": "U",
+      "community_forum": "U",
+      "contact_page": "U",
+      "sla_published": "U",
+      "ios_app": "U",
+      "android_app": "U",
+      "desktop_app": "U",
+      "browser_extension": "U",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI Quiz Maker",
+      "AI Form Builder",
+      "AI Survey Maker",
+      "Import Google Forms"
+    ],
+    "confidence": "medium"
+  }
+}

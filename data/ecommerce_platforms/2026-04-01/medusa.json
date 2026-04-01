@@ -1,0 +1,201 @@
+{
+  "name": "medusa",
+  "url": "https://medusajs.com",
+  "scanned_at": "2026-04-01T16:05:36.238900",
+  "screenshots": {
+    "desktop": "data/ecommerce_platforms/2026-04-01/screenshots/medusa_desktop.png",
+    "mobile": "data/ecommerce_platforms/2026-04-01/screenshots/medusa_mobile.png"
+  },
+  "structure": {
+    "title": "Medusa - A Commerce Platform\u2028for Developers and Agents",
+    "url_final": "https://medusajs.com/",
+    "nav_items": [
+      {
+        "text": "Pricing",
+        "href": "/pricing/"
+      },
+      {
+        "text": "Bloom",
+        "href": "https://bloom.chat/"
+      }
+    ],
+    "buttons": [
+      "Docs",
+      "Get started",
+      "Get started",
+      "BloomChat with AI and bring your idea to life.",
+      "ModulesAdvanced commerce logic for any use case.",
+      "AdminCustomizable dashboard for your commerce.",
+      "FrameworkTooling to build your own customizations.",
+      "CloudLink to GitHub and push to deploy.",
+      "Bob Kinney, Staff SWE & Project LeadMedusa struck ",
+      "Heineken",
+      "Mitsubishi Motors",
+      "Bob Kinney, Staff SWE & Project LeadMedusa struck ",
+      "Heineken",
+      "Mitsubishi Motors",
+      "Subscribe",
+      "Docs"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "",
+        "fields": []
+      },
+      {
+        "action": "",
+        "method": "",
+        "fields": [
+          {
+            "type": "email",
+            "name": "",
+            "placeholder": "Enter your email"
+          }
+        ]
+      }
+    ],
+    "links_count": 51,
+    "images_count": 69,
+    "images_with_alt": 57,
+    "headings": [
+      {
+        "level": 1,
+        "text": "A Commerce Platform\u2028for Developers and Agents"
+      },
+      {
+        "level": 1,
+        "text": "The bestcommerce platformfor developersand agents"
+      },
+      {
+        "level": 2,
+        "text": "Handle commerce operations at scale"
+      },
+      {
+        "level": 2,
+        "text": "Own your commerce platform,\nwith no GMV tax or licenses"
+      },
+      {
+        "level": 2,
+        "text": "Ready to build your\ncustom commerce setup?"
+      },
+      {
+        "level": 3,
+        "text": "10x your time-to-market"
+      },
+      {
+        "level": 3,
+        "text": "with AI-enabled development"
+      },
+      {
+        "level": 3,
+        "text": "Adapts to your tech stack"
+      },
+      {
+        "level": 3,
+        "text": "Performant infrastructure"
+      },
+      {
+        "level": 3,
+        "text": "No hidden fees"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "",
+        "placeholder": "Enter your email"
+      }
+    ],
+    "footer_links": [
+      "Starters",
+      "Admin",
+      "Modules",
+      "Framework",
+      "Cloud",
+      "Bloom",
+      "Integrations",
+      "Enterprise",
+      "Medusa Experts",
+      "Contact",
+      "User Stories",
+      "User guides",
+      "B2B",
+      "B2C",
+      "Marketplace",
+      "Distributors",
+      "Documentation",
+      "Agentic development",
+      "Recipes"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 10,
+    "has_og_tags": true,
+    "meta_description": "The most flexible commerce platform for developers and agents",
+    "scripts_count": 38
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "Y",
+      "multiple_tiers": "U",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "Y",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "N",
+      "terms_of_service": "N",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "Y",
+      "webhooks_support": "Y",
+      "api_playground": "N",
+      "code_examples": "Y",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "U",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "AI-enabled development",
+      "Customizable dashboard",
+      "Advanced commerce logic"
+    ],
+    "confidence": "medium"
+  }
+}

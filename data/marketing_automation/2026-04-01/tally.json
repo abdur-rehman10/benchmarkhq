@@ -1,0 +1,182 @@
+{
+  "name": "tally",
+  "url": "https://tally.so",
+  "scanned_at": "2026-04-01T16:19:11.226271",
+  "screenshots": {
+    "desktop": "data/marketing_automation/2026-04-01/screenshots/tally_desktop.png",
+    "mobile": "data/marketing_automation/2026-04-01/screenshots/tally_mobile.png"
+  },
+  "structure": {
+    "title": "Tally - Create Beautiful Forms for Free | Unlimited Forms & Submissions",
+    "url_final": "https://tally.so/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "/login"
+      },
+      {
+        "text": "Sign up",
+        "href": "/signup"
+      },
+      {
+        "text": "Create form",
+        "href": "/create"
+      }
+    ],
+    "buttons": [
+      "Create a free form",
+      "Click me",
+      "Browse templates",
+      "Create a free form"
+    ],
+    "forms": [],
+    "links_count": 74,
+    "images_count": 55,
+    "images_with_alt": 53,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The simplest way to create forms"
+      },
+      {
+        "level": 2,
+        "text": "A form builder like no other"
+      },
+      {
+        "level": 2,
+        "text": "Simplebutpowerful"
+      },
+      {
+        "level": 2,
+        "text": "Craftintelligentforms"
+      },
+      {
+        "level": 2,
+        "text": "Make forms uniquelyyours"
+      },
+      {
+        "level": 2,
+        "text": "Sharewith your audience"
+      },
+      {
+        "level": 3,
+        "text": "Unlimited forms and submissions for free"
+      },
+      {
+        "level": 3,
+        "text": "Just start typing"
+      },
+      {
+        "level": 3,
+        "text": "Privacy-friendly form builder"
+      },
+      {
+        "level": 3,
+        "text": "Build any form in seconds"
+      },
+      {
+        "level": 3,
+        "text": "Conditional logic"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "X",
+      "Reddit",
+      "Instagram",
+      "TikTok",
+      "Bluesky",
+      "Threads",
+      "Features",
+      "Pricing",
+      "Customers",
+      "What's new",
+      "Roadmap",
+      "Feature requests",
+      "Templates",
+      "Integrations",
+      "AI info",
+      "Words from our users",
+      "Status",
+      "Get started",
+      "How-to guides"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "The simplest way to create beautiful, professional forms in seconds. Unlimited forms, unlimited submissions, forever free. Just start typing - no coding needed.",
+    "scripts_count": 42
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "N",
+      "free_tier": "Y",
+      "multiple_tiers": "N",
+      "enterprise_tier": "N",
+      "annual_discount": "N",
+      "feature_comparison_table": "N",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "Y",
+      "blog": "N",
+      "changelog": "N",
+      "status_page": "Y",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "N",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "N",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "Y",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Unlimited forms and submissions for free",
+      "Privacy-friendly form builder",
+      "Conditional logic"
+    ],
+    "confidence": "medium"
+  }
+}

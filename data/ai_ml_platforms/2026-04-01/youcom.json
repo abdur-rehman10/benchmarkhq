@@ -1,0 +1,215 @@
+{
+  "name": "youcom",
+  "url": "https://you.com",
+  "scanned_at": "2026-04-01T16:48:11.027767",
+  "screenshots": {
+    "desktop": "data/ai_ml_platforms/2026-04-01/screenshots/youcom_desktop.png",
+    "mobile": "data/ai_ml_platforms/2026-04-01/screenshots/youcom_mobile.png"
+  },
+  "structure": {
+    "title": "You.com | The Leading Web Search APIs for AI",
+    "url_final": "https://you.com/home",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Learn more about Search API",
+        "href": "https://docs.you.com/search/overview"
+      },
+      {
+        "text": "Learn more about Research API",
+        "href": "https://docs.you.com/research/overview"
+      },
+      {
+        "text": "Learn more about Contents API",
+        "href": "https://docs.you.com/contents/overview"
+      },
+      {
+        "text": "Learn more about API Platform",
+        "href": "https://you.com/platform"
+      },
+      {
+        "text": "Learn more about Docs",
+        "href": "https://documentation.you.com/welcome"
+      },
+      {
+        "text": "Docs",
+        "href": "https://docs.you.com/welcome"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Blog",
+        "href": "/resources"
+      },
+      {
+        "text": "Sign in to Chat Platform",
+        "href": "/signin"
+      },
+      {
+        "text": "Sign in to API Platform",
+        "href": "/signin?redirectUrl=%2Fplatform"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/book-a-demo"
+      },
+      {
+        "text": "API Platform",
+        "href": "/platform"
+      },
+      {
+        "text": "Chat",
+        "href": "/signin"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "/book-a-demo"
+      }
+    ],
+    "buttons": [
+      "Close this dialog",
+      "Close Cookie Preferences",
+      "Product",
+      "Developers",
+      "Sign in",
+      "SimpleQA",
+      "Frames"
+    ],
+    "forms": [],
+    "links_count": 40,
+    "images_count": 27,
+    "images_with_alt": 0,
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Leading Web Search APIs for AI"
+      },
+      {
+        "level": 2,
+        "text": "The Real-Time Web Data Layer for AI"
+      },
+      {
+        "level": 2,
+        "text": "Accurate, fresh, fast Web Search APIs for the agentic era"
+      },
+      {
+        "level": 2,
+        "text": "See what's possible with You.com."
+      },
+      {
+        "level": 2,
+        "text": "Enterprise-Ready"
+      },
+      {
+        "level": 2,
+        "text": "Start Building With You.com Web Search APIs for AI"
+      },
+      {
+        "level": 3,
+        "text": "Web Search APIs"
+      },
+      {
+        "level": 3,
+        "text": "You.com accuracy vs competitors"
+      },
+      {
+        "level": 3,
+        "text": "Leading accuracy. Faster responses."
+      },
+      {
+        "level": 3,
+        "text": "Zero Data Retention"
+      },
+      {
+        "level": 3,
+        "text": "SOC2 Certified"
+      }
+    ],
+    "inputs": [],
+    "footer_links": [
+      "Web Search API",
+      "Research API",
+      "Contents API",
+      "Careers",
+      "Developer Docs",
+      "Blog",
+      "Privacy Policy",
+      "Terms & Conditions",
+      "Master Services Agreement"
+    ],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 12,
+    "has_og_tags": true,
+    "meta_description": "Skip the groundwork with our AI-ready Web Search APIs, delivering advanced search capabilities to power your next product.",
+    "scripts_count": 42
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "N",
+      "free_trial": "U",
+      "free_tier": "U",
+      "multiple_tiers": "U",
+      "enterprise_tier": "Y",
+      "annual_discount": "U",
+      "feature_comparison_table": "U",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "N",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "Y",
+      "security_page": "N",
+      "soc2_mentioned": "Y",
+      "gdpr_mentioned": "N",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "Y",
+      "developer_portal": "Y",
+      "sdk_available": "U",
+      "webhooks_support": "U",
+      "api_playground": "U",
+      "code_examples": "U",
+      "openapi_spec": "U",
+      "github_presence": "U",
+      "signup_no_creditcard": "U",
+      "social_signup": "U",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "Y",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "U"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "SOC2 Certified",
+      "Enterprise-Ready",
+      "Web Search APIs for AI"
+    ],
+    "confidence": "medium"
+  }
+}

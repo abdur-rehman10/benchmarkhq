@@ -1,0 +1,229 @@
+{
+  "name": "plausible",
+  "url": "https://plausible.io",
+  "scanned_at": "2026-04-01T14:56:51.854305",
+  "screenshots": {
+    "desktop": "data/analytics/2026-04-01/screenshots/plausible_desktop.png",
+    "mobile": "data/analytics/2026-04-01/screenshots/plausible_mobile.png"
+  },
+  "structure": {
+    "title": "Plausible Analytics | Simple, privacy-friendly Google Analytics alternative",
+    "url_final": "https://plausible.io/",
+    "nav_items": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Simple analytics dashboardGet all the important st",
+        "href": "/simple-web-analytics"
+      },
+      {
+        "text": "Lightweight scriptOur analytics script is tiny and",
+        "href": "/lightweight-web-analytics"
+      },
+      {
+        "text": "Privacy-friendly analyticsBuilt with visitor priva",
+        "href": "/privacy-focused-web-analytics"
+      },
+      {
+        "text": "Open sourceOpen source and self-hostable.",
+        "href": "/open-source-website-analytics"
+      },
+      {
+        "text": "Startups & SaaS",
+        "href": "/for-ecommerce-saas"
+      },
+      {
+        "text": "Agencies",
+        "href": "/for-freelancers-agencies"
+      },
+      {
+        "text": "Creators & publishers",
+        "href": "/for-bloggers-creators"
+      },
+      {
+        "text": "White-label analytics",
+        "href": "/white-label-web-analytics"
+      },
+      {
+        "text": "vs Google Analytics",
+        "href": "/vs-google-analytics"
+      },
+      {
+        "text": "vs Matomo",
+        "href": "/vs-matomo"
+      },
+      {
+        "text": "vs Cloudflare Analytics",
+        "href": "/vs-cloudflare-web-analytics"
+      },
+      {
+        "text": "DocumentationEverything you need to get up and run",
+        "href": "/docs"
+      },
+      {
+        "text": "BlogStories about privacy, web analytics and build",
+        "href": "/blog"
+      },
+      {
+        "text": "GitHubFollow development and inspect the source co",
+        "href": "https://github.com/plausible/analytics"
+      },
+      {
+        "text": "Product updatesMajor new features and improvements",
+        "href": "https://plausible.io/changelog"
+      },
+      {
+        "text": "Twitter",
+        "href": "https://twitter.com/PlausibleHQ"
+      },
+      {
+        "text": "Bluesky",
+        "href": "https://bsky.app/profile/plausible.io"
+      },
+      {
+        "text": "Mastodon",
+        "href": "https://fosstodon.org/@plausible"
+      },
+      {
+        "text": "LinkedIn",
+        "href": "https://www.linkedin.com/company/plausible-analytics/"
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "links_count": 94,
+    "images_count": 10,
+    "images_with_alt": 8,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Easy to use and privacy-friendlyGoogle Analytics alternative"
+      },
+      {
+        "level": 2,
+        "text": "Why use Plausible Analytics?"
+      },
+      {
+        "level": 2,
+        "text": "People \u2764\ufe0f Plausible"
+      },
+      {
+        "level": 2,
+        "text": "It's time to ditch Google Analytics"
+      },
+      {
+        "level": 2,
+        "text": "Traffic based plans that match your growth"
+      },
+      {
+        "level": 3,
+        "text": "Who it's for"
+      },
+      {
+        "level": 3,
+        "text": "Compare"
+      },
+      {
+        "level": 3,
+        "text": "Follow Plausible:Twitter,Bluesky,MastodonandLinkedIn"
+      },
+      {
+        "level": 3,
+        "text": "Simple analytics at a glance"
+      },
+      {
+        "level": 3,
+        "text": "Lightweight script that keeps your site speed fast"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "radio",
+        "name": "frequency",
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "name": "frequency",
+        "placeholder": ""
+      },
+      {
+        "type": "range",
+        "name": "",
+        "placeholder": ""
+      }
+    ],
+    "footer_links": [],
+    "has_search_input": false,
+    "has_lang_attr": true,
+    "aria_labels_count": 0,
+    "has_og_tags": true,
+    "meta_description": "Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.",
+    "scripts_count": 7
+  },
+  "errors": [],
+  "ai_analysis": {
+    "features": {
+      "pricing_page": "Y",
+      "transparent_pricing": "Y",
+      "free_trial": "Y",
+      "free_tier": "N",
+      "multiple_tiers": "Y",
+      "enterprise_tier": "N",
+      "annual_discount": "Y",
+      "feature_comparison_table": "Y",
+      "customer_logos": "N",
+      "case_studies": "N",
+      "product_screenshots": "Y",
+      "video_demo": "N",
+      "integrations_page": "N",
+      "blog": "Y",
+      "changelog": "N",
+      "status_page": "N",
+      "about_page": "N",
+      "careers_page": "N",
+      "security_page": "N",
+      "soc2_mentioned": "N",
+      "gdpr_mentioned": "Y",
+      "iso27001_mentioned": "N",
+      "privacy_policy": "Y",
+      "terms_of_service": "Y",
+      "cookie_consent": "Y",
+      "dpa_available": "N",
+      "api_documentation": "N",
+      "developer_portal": "N",
+      "sdk_available": "N",
+      "webhooks_support": "N",
+      "api_playground": "N",
+      "code_examples": "N",
+      "openapi_spec": "N",
+      "github_presence": "Y",
+      "signup_no_creditcard": "Y",
+      "social_signup": "N",
+      "interactive_demo": "N",
+      "templates_available": "N",
+      "onboarding_video": "N",
+      "roi_calculator": "N",
+      "help_center": "N",
+      "live_chat": "N",
+      "community_forum": "N",
+      "contact_page": "N",
+      "sla_published": "N",
+      "ios_app": "N",
+      "android_app": "N",
+      "desktop_app": "N",
+      "browser_extension": "N",
+      "multi_language": "N"
+    },
+    "navigation_pattern": "top_nav",
+    "design_quality_1_to_10": 8,
+    "notable_features": [
+      "Privacy-focused analytics",
+      "Open source and self-hostable",
+      "Lightweight script for fast site speed"
+    ],
+    "confidence": "high"
+  }
+}
