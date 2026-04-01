@@ -1,0 +1,1361 @@
+{
+  "article_headline": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "article_byline": {
+    "present": 4,
+    "partial": 0,
+    "absent": 9,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 31,
+    "classification": "RECOMMENDED"
+  },
+  "article_date": {
+    "present": 11,
+    "partial": 0,
+    "absent": 2,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 85,
+    "classification": "CRITICAL"
+  },
+  "article_updated": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "article_reading_time": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "article_body_typography": {
+    "present": 5,
+    "partial": 8,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 69,
+    "classification": "REQUIRED"
+  },
+  "article_images": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "article_image_alt": {
+    "present": 0,
+    "partial": 4,
+    "absent": 9,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "article_categories": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "article_tags": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "related_articles": {
+    "present": 12,
+    "partial": 0,
+    "absent": 1,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 92,
+    "classification": "CRITICAL"
+  },
+  "article_pagination": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "print_version": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "font_size_controls": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "reading_mode": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "text_to_speech": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "article_comments_count": {
+    "present": 2,
+    "partial": 0,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "correction_notice": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "homepage_hero": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "section_navigation": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "mega_menu": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "breadcrumbs": {
+    "present": 2,
+    "partial": 0,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "trending_section": {
+    "present": 10,
+    "partial": 0,
+    "absent": 3,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 77,
+    "classification": "REQUIRED"
+  },
+  "breaking_news_banner": {
+    "present": 7,
+    "partial": 0,
+    "absent": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "editors_picks": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "topic_pages": {
+    "present": 6,
+    "partial": 0,
+    "absent": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 46,
+    "classification": "RECOMMENDED"
+  },
+  "section_pages": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "archive_access": {
+    "present": 7,
+    "partial": 0,
+    "absent": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "sticky_header": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "back_to_top": {
+    "present": 7,
+    "partial": 0,
+    "absent": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "hamburger_mobile": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "footer_navigation": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "logo_home_link": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "site_search": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "search_suggestions": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "search_filters": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "search_results_quality": {
+    "present": 3,
+    "partial": 10,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 62,
+    "classification": "REQUIRED"
+  },
+  "search_accessible": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "advanced_search": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "paywall_type": {
+    "present": 0,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "subscription_page": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "free_articles": {
+    "present": 4,
+    "partial": 0,
+    "absent": 9,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 31,
+    "classification": "RECOMMENDED"
+  },
+  "subscription_tiers": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "student_discount": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "gift_subscription": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "free_registration": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "donation_support": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "corporate_plans": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "cancel_easy": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "trial_offer": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "micropayments": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "display_ads": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "ad_labeling": {
+    "present": 4,
+    "partial": 1,
+    "absent": 8,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 35,
+    "classification": "RECOMMENDED"
+  },
+  "native_content_labeling": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "ad_density_reasonable": {
+    "present": 2,
+    "partial": 11,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 58,
+    "classification": "REQUIRED"
+  },
+  "no_intrusive_popups": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "ad_free_option": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "video_autoplay_muted": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "ad_blocker_notice": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "newsletter_signup": {
+    "present": 6,
+    "partial": 0,
+    "absent": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 46,
+    "classification": "RECOMMENDED"
+  },
+  "multiple_newsletters": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "newsletter_archive": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "newsletter_preview": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "rss_feed": {
+    "present": 7,
+    "partial": 0,
+    "absent": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "email_article": {
+    "present": 4,
+    "partial": 0,
+    "absent": 9,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 31,
+    "classification": "RECOMMENDED"
+  },
+  "push_notifications_web": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "comment_system": {
+    "present": 2,
+    "partial": 0,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "comment_moderation": {
+    "present": 1,
+    "partial": 1,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 12,
+    "classification": "OPTIONAL"
+  },
+  "comment_login_required": {
+    "present": 2,
+    "partial": 0,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "community_guidelines": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "letters_editor": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reader_submissions": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "user_profiles": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "share_buttons": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "copy_link": {
+    "present": 2,
+    "partial": 0,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "whatsapp_share": {
+    "present": 3,
+    "partial": 0,
+    "absent": 10,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 23,
+    "classification": "OPTIONAL"
+  },
+  "telegram_share": {
+    "present": 10,
+    "partial": 0,
+    "absent": 3,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 77,
+    "classification": "REQUIRED"
+  },
+  "social_media_links": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "embed_article": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "share_count": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "share_quote": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "video_player": {
+    "present": 8,
+    "partial": 0,
+    "absent": 5,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 62,
+    "classification": "REQUIRED"
+  },
+  "live_video": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "photo_galleries": {
+    "present": 6,
+    "partial": 0,
+    "absent": 7,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 46,
+    "classification": "RECOMMENDED"
+  },
+  "infographics": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "interactive_content": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "podcast_section": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "video_captions": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "video_section": {
+    "present": 7,
+    "partial": 0,
+    "absent": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "data_journalism": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "vertical_video": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "responsive_design": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "mobile_app_links": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "fast_page_load": {
+    "present": 2,
+    "partial": 11,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 58,
+    "classification": "REQUIRED"
+  },
+  "lazy_loading": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "image_optimization": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "core_web_vitals": {
+    "present": 1,
+    "partial": 12,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "amp_pages": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "pwa_features": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "mobile_touch_targets": {
+    "present": 5,
+    "partial": 8,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 69,
+    "classification": "REQUIRED"
+  },
+  "no_horizontal_scroll": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "semantic_html": {
+    "present": 3,
+    "partial": 10,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 62,
+    "classification": "REQUIRED"
+  },
+  "heading_hierarchy": {
+    "present": 3,
+    "partial": 10,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 62,
+    "classification": "REQUIRED"
+  },
+  "color_contrast": {
+    "present": 4,
+    "partial": 9,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 65,
+    "classification": "REQUIRED"
+  },
+  "keyboard_navigation": {
+    "present": 1,
+    "partial": 1,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 12,
+    "classification": "OPTIONAL"
+  },
+  "focus_indicators": {
+    "present": 1,
+    "partial": 1,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 12,
+    "classification": "OPTIONAL"
+  },
+  "skip_navigation": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "alt_text_images": {
+    "present": 0,
+    "partial": 4,
+    "absent": 9,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "video_captions_a11y": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "accessibility_statement": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "high_contrast_mode": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "about_page": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "editorial_policy": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "corrections_policy": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "author_pages": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "contact_info": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "ownership_disclosure": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "fact_check_labels": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "funding_transparency": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "masthead": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reader_rep": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "save_bookmark": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reading_history": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "topic_following": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "personalized_feed": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "dark_mode": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "cookie_preferences": {
+    "present": 2,
+    "partial": 0,
+    "absent": 11,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 15,
+    "classification": "OPTIONAL"
+  },
+  "notification_preferences": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reading_list": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "content_recommendations": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "language_switcher": {
+    "present": 3,
+    "partial": 0,
+    "absent": 10,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 23,
+    "classification": "OPTIONAL"
+  },
+  "rtl_support": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "regional_editions": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "local_time": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "local_currency": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "auto_translate": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "privacy_policy": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "cookie_consent": {
+    "present": 5,
+    "partial": 0,
+    "absent": 8,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 38,
+    "classification": "RECOMMENDED"
+  },
+  "terms_of_use": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "gdpr_compliance": {
+    "present": 1,
+    "partial": 0,
+    "absent": 12,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 8,
+    "classification": "OPTIONAL"
+  },
+  "ccpa_compliance": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "copyright_notice": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "content_licensing": {
+    "present": 0,
+    "partial": 0,
+    "absent": 13,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "og_tags": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "twitter_cards": {
+    "present": 12,
+    "partial": 0,
+    "absent": 1,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 92,
+    "classification": "CRITICAL"
+  },
+  "structured_data": {
+    "present": 3,
+    "partial": 2,
+    "absent": 8,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 31,
+    "classification": "RECOMMENDED"
+  },
+  "canonical_urls": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "xml_sitemap": {
+    "present": 7,
+    "partial": 0,
+    "absent": 6,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 54,
+    "classification": "REQUIRED"
+  },
+  "https": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "robots_txt": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "favicon": {
+    "present": 13,
+    "partial": 0,
+    "absent": 0,
+    "total_sites": 13,
+    "total_good_sites": 13,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  }
+}
