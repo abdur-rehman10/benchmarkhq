@@ -3,598 +3,246 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BenchmarkHQ — Industry benchmarks for the rest of us</title>
-<meta name="description" content="Open-source industry benchmarks for web development. 329 websites analyzed across 19 countries. Machine-readable quality standards for real-world software.">
+<title>BenchmarkHQ — Industry benchmarks for web development</title>
+<meta name="description" content="Open-source industry benchmarks for web development. 2,600+ websites analyzed across 42 industries and 160+ countries.">
+<meta property="og:title" content="BenchmarkHQ — Industry benchmarks for web development">
+<meta property="og:description" content="We analyzed 2,600+ websites so you don't have to guess what features your industry expects.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://benchmarkhq.site">
+<meta name="twitter:card" content="summary_large_image">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-
-:root {
-  --bg: #0C0C0E;
-  --bg-card: #141416;
-  --bg-card-hover: #1A1A1E;
-  --text: #E8E6E3;
-  --text-dim: #8A8A8D;
-  --text-muted: #5A5A5D;
-  --accent: #C4A46C;
-  --accent-dim: #8B7544;
-  --green: #5CB08A;
-  --yellow: #C9A84C;
-  --red: #C75F5F;
-  --blue: #5B8EC9;
-  --border: #222225;
-  --serif: 'Source Serif 4', Georgia, serif;
-  --sans: 'DM Sans', -apple-system, sans-serif;
-  --mono: 'JetBrains Mono', monospace;
-}
-
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--sans);
-  line-height: 1.7;
-  -webkit-font-smoothing: antialiased;
-}
-
-::selection { background: var(--accent); color: var(--bg); }
-
-.container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
-
-/* ---- HERO ---- */
-.hero {
-  padding: 120px 0 80px;
-  border-bottom: 1px solid var(--border);
-}
-.hero-eyebrow {
-  font-family: var(--mono);
-  font-size: 12px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 32px;
-}
-.hero h1 {
-  font-family: var(--serif);
-  font-size: clamp(36px, 5.5vw, 64px);
-  font-weight: 300;
-  line-height: 1.15;
-  color: var(--text);
-  max-width: 850px;
-  margin-bottom: 32px;
-}
-.hero h1 em {
-  font-style: italic;
-  color: var(--accent);
-}
-.hero-body {
-  font-size: 18px;
-  line-height: 1.8;
-  color: var(--text-dim);
-  max-width: 620px;
-  margin-bottom: 48px;
-}
-.hero-stats {
-  display: flex;
-  gap: 48px;
-  flex-wrap: wrap;
-}
-.stat-item { }
-.stat-num {
-  font-family: var(--mono);
-  font-size: 32px;
-  font-weight: 500;
-  color: var(--text);
-}
-.stat-label {
-  font-size: 13px;
-  color: var(--text-muted);
-  margin-top: 4px;
-}
-
-/* ---- MANIFESTO ---- */
-.manifesto {
-  padding: 100px 0;
-  border-bottom: 1px solid var(--border);
-}
-.manifesto-grid {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 80px;
-  align-items: start;
-}
-.manifesto-label {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--text-muted);
-  position: sticky;
-  top: 40px;
-}
-.manifesto-text p {
-  font-family: var(--serif);
-  font-size: 22px;
-  line-height: 1.75;
-  color: var(--text-dim);
-  margin-bottom: 28px;
-}
-.manifesto-text p strong {
-  color: var(--text);
-  font-weight: 600;
-}
-
-/* ---- DATA ---- */
-.data-section {
-  padding: 100px 0;
-  border-bottom: 1px solid var(--border);
-}
-.section-header {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 80px;
-  margin-bottom: 48px;
-}
-.section-label {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--text-muted);
-}
-.section-title {
-  font-family: var(--serif);
-  font-size: 28px;
-  font-weight: 400;
-  color: var(--text);
-}
-
-.country-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 12px;
-}
-.country-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 20px 24px;
-  transition: all 0.2s ease;
-  cursor: default;
-}
-.country-card:hover {
-  background: var(--bg-card-hover);
-  border-color: var(--accent-dim);
-}
-.country-name {
-  font-size: 15px;
-  font-weight: 500;
-  color: var(--text);
-  margin-bottom: 12px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.country-flag { font-size: 18px; }
-.country-stats {
-  display: flex;
-  gap: 20px;
-}
-.country-stat-num {
-  font-family: var(--mono);
-  font-size: 18px;
-  color: var(--accent);
-}
-.country-stat-label {
-  font-size: 11px;
-  color: var(--text-muted);
-}
-
-/* ---- HOW IT WORKS ---- */
-.how-section {
-  padding: 100px 0;
-  border-bottom: 1px solid var(--border);
-}
-.steps {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 80px;
-}
-.step-list { }
-.step {
-  padding: 32px 0;
-  border-bottom: 1px solid var(--border);
-}
-.step:last-child { border-bottom: none; }
-.step-num {
-  font-family: var(--mono);
-  font-size: 12px;
-  color: var(--accent);
-  margin-bottom: 12px;
-}
-.step-title {
-  font-family: var(--serif);
-  font-size: 20px;
-  color: var(--text);
-  margin-bottom: 8px;
-}
-.step-body {
-  font-size: 14px;
-  color: var(--text-dim);
-  line-height: 1.7;
-}
-
-/* ---- API PREVIEW ---- */
-.api-section {
-  padding: 100px 0;
-  border-bottom: 1px solid var(--border);
-}
-.api-preview {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 80px;
-}
-.code-block {
-  background: #0A0A0C;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 28px 32px;
-  font-family: var(--mono);
-  font-size: 13px;
-  line-height: 1.8;
-  overflow-x: auto;
-  color: var(--text-dim);
-}
-.code-block .comment { color: var(--text-muted); }
-.code-block .key { color: var(--blue); }
-.code-block .string { color: var(--green); }
-.code-block .number { color: var(--yellow); }
-.code-block .label { color: var(--accent); }
-
-/* ---- FOR WHO ---- */
-.for-section {
-  padding: 100px 0;
-  border-bottom: 1px solid var(--border);
-}
-.for-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 16px;
-}
-.for-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 32px;
-}
-.for-card-title {
-  font-family: var(--serif);
-  font-size: 18px;
-  color: var(--text);
-  margin-bottom: 8px;
-}
-.for-card-body {
-  font-size: 14px;
-  color: var(--text-dim);
-  line-height: 1.7;
-}
-
-/* ---- CTA ---- */
-.cta-section {
-  padding: 120px 0;
-  text-align: center;
-}
-.cta-section h2 {
-  font-family: var(--serif);
-  font-size: clamp(28px, 4vw, 44px);
-  font-weight: 300;
-  color: var(--text);
-  margin-bottom: 16px;
-}
-.cta-section p {
-  font-size: 16px;
-  color: var(--text-dim);
-  margin-bottom: 40px;
-}
-.cta-buttons {
-  display: flex;
-  gap: 16px;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-.btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 14px 28px;
-  border-radius: 6px;
-  font-family: var(--sans);
-  font-size: 14px;
-  font-weight: 500;
-  text-decoration: none;
-  transition: all 0.2s;
-}
-.btn-primary {
-  background: var(--accent);
-  color: var(--bg);
-}
-.btn-primary:hover { background: #D4B47C; }
-.btn-secondary {
-  background: transparent;
-  color: var(--text);
-  border: 1px solid var(--border);
-}
-.btn-secondary:hover { border-color: var(--text-muted); }
-
-/* ---- FOOTER ---- */
-footer {
-  padding: 40px 0;
-  border-top: 1px solid var(--border);
-}
-.footer-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 16px;
-}
-.footer-text {
-  font-size: 13px;
-  color: var(--text-muted);
-}
-.footer-links {
-  display: flex;
-  gap: 24px;
-}
-.footer-links a {
-  font-size: 13px;
-  color: var(--text-muted);
-  text-decoration: none;
-}
-.footer-links a:hover { color: var(--text); }
-
-/* ---- RESPONSIVE ---- */
-@media (max-width: 768px) {
-  .manifesto-grid, .section-header, .steps, .api-preview {
-    grid-template-columns: 1fr;
-    gap: 24px;
-  }
-  .manifesto-label, .section-label { position: static; }
-  .hero { padding: 80px 0 60px; }
-  .hero-stats { gap: 32px; }
-  .country-grid { grid-template-columns: 1fr 1fr; }
-}
-
-/* ---- SUBTLE GRAIN ---- */
-body::before {
-  content: '';
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
-  pointer-events: none;
-  z-index: 9999;
-}
-
-/* ---- FADE IN ---- */
-.fade-in {
-  opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.6s ease, transform 0.6s ease;
-}
-.fade-in.visible {
-  opacity: 1;
-  transform: translateY(0);
-}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0C0C0E;--bg-card:#141416;--bg-card-hover:#1A1A1E;--text:#E8E6E3;--text-dim:#8A8A8D;--text-muted:#5A5A5D;--accent:#C4A46C;--accent-dim:#8B7544;--green:#5CB08A;--yellow:#C9A84C;--red:#C75F5F;--blue:#5B8EC9;--border:#222225;--serif:'Source Serif 4',Georgia,serif;--sans:'DM Sans',-apple-system,sans-serif;--mono:'JetBrains Mono',monospace}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
+::selection{background:var(--accent);color:var(--bg)}
+a{color:var(--accent);text-decoration:none}a:hover{color:var(--text)}
+.container{max-width:1100px;margin:0 auto;padding:0 24px}
+.nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
+.nav-inner{display:flex;justify-content:space-between;align-items:center}
+.nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:28px;align-items:center}
+.nav-links a{font-size:14px;color:var(--text-dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
+.nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}.nav-links .btn-nav:hover{background:var(--text)}
+.hero{padding:100px 0 80px;border-bottom:1px solid var(--border)}
+.hero-eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);margin-bottom:32px}
+.hero h1{font-family:var(--serif);font-size:clamp(36px,5.5vw,64px);font-weight:300;line-height:1.15;max-width:900px;margin-bottom:32px}
+.hero h1 em{font-style:italic;color:var(--accent)}
+.hero-body{font-size:18px;line-height:1.8;color:var(--text-dim);max-width:640px;margin-bottom:48px}
+.hero-stats{display:flex;gap:48px;flex-wrap:wrap;margin-bottom:48px}
+.stat-num{font-family:var(--mono);font-size:32px;font-weight:500}.stat-label{font-size:13px;color:var(--text-muted);margin-top:4px}
+.hero-btns{display:flex;gap:16px;flex-wrap:wrap}
+.btn{display:inline-block;padding:14px 28px;border-radius:8px;font-weight:600;font-size:15px;transition:all 0.2s}
+.btn-primary{background:var(--accent);color:var(--bg)}.btn-primary:hover{background:var(--text);color:var(--bg)}
+.btn-secondary{border:1px solid var(--border);color:var(--text-dim)}.btn-secondary:hover{border-color:var(--accent);color:var(--text)}
+.section{padding:100px 0;border-bottom:1px solid var(--border)}
+.section-label{font-family:var(--mono);font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);margin-bottom:16px}
+.section-title{font-family:var(--serif);font-size:clamp(28px,4vw,42px);font-weight:300;line-height:1.2;max-width:700px;margin-bottom:20px}
+.section-desc{font-size:16px;color:var(--text-dim);max-width:600px;margin-bottom:48px;line-height:1.7}
+.manifesto{padding:100px 0;border-bottom:1px solid var(--border)}
+.manifesto-grid{display:grid;grid-template-columns:200px 1fr;gap:60px}
+.manifesto-label{font-family:var(--mono);font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);padding-top:8px}
+.manifesto-text{font-family:var(--serif);font-size:22px;line-height:1.7;font-weight:300;color:var(--text-dim);max-width:700px}
+.manifesto-text em{color:var(--text);font-style:normal}
+.tabs{display:flex;gap:0;margin-bottom:40px;border-bottom:1px solid var(--border)}
+.tab{padding:12px 24px;font-size:14px;font-weight:500;color:var(--text-muted);cursor:pointer;border-bottom:2px solid transparent;transition:all 0.2s}
+.tab:hover{color:var(--text-dim)}.tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-panel{display:none}.tab-panel.active{display:block}
+.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:20px;transition:all 0.2s}
+.card:hover{background:var(--bg-card-hover);border-color:var(--accent-dim)}
+.card-name{font-weight:600;font-size:15px;margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.card-flag{font-size:20px}
+.card-stats{display:flex;gap:20px}
+.card-stat-num{font-family:var(--mono);font-size:18px;font-weight:500;color:var(--accent)}
+.card-stat-label{font-size:11px;color:var(--text-muted);margin-top:2px}
+.code-block{background:#0A0A0C;border:1px solid var(--border);border-radius:10px;padding:24px;overflow-x:auto;margin:20px 0}
+.code-block pre{font-family:var(--mono);font-size:13px;line-height:1.6;color:var(--text-dim)}
+.code-block .cmd{color:var(--green)}.code-block .url{color:var(--blue)}.code-block .key{color:var(--accent)}.code-block .val{color:var(--green)}.code-block .comment{color:var(--text-muted)}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px}
+.step{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:28px}
+.step-num{font-family:var(--mono);font-size:12px;color:var(--accent);margin-bottom:12px}
+.step-title{font-family:var(--serif);font-size:18px;font-weight:400;margin-bottom:8px}
+.step-desc{font-size:14px;color:var(--text-dim);line-height:1.6}
+.use-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px}
+.use-card{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:32px}
+.use-card-label{font-family:var(--mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent);margin-bottom:12px}
+.use-card h3{font-family:var(--serif);font-size:20px;font-weight:400;margin-bottom:12px}
+.use-card p{font-size:14px;color:var(--text-dim);line-height:1.7}
+.blog-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:20px}
+.blog-card{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:28px;transition:all 0.2s;display:block}
+.blog-card:hover{background:var(--bg-card-hover);border-color:var(--accent-dim)}
+.blog-card-tag{font-family:var(--mono);font-size:11px;color:var(--accent);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:10px}
+.blog-card h3{font-family:var(--serif);font-size:18px;font-weight:400;margin-bottom:8px;color:var(--text);line-height:1.4}
+.blog-card p{font-size:14px;color:var(--text-dim);line-height:1.6}
+.cta{padding:100px 0;text-align:center}
+.cta h2{font-family:var(--serif);font-size:clamp(28px,4vw,48px);font-weight:300;margin-bottom:20px}
+.cta p{font-size:17px;color:var(--text-dim);margin-bottom:40px;max-width:500px;margin-left:auto;margin-right:auto}
+.cta-btns{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+.footer{padding:60px 0 40px;border-top:1px solid var(--border)}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:40px;margin-bottom:40px}
+.footer-brand{font-family:var(--serif);font-size:18px;font-weight:600;margin-bottom:12px}.footer-brand span{color:var(--accent)}
+.footer-tagline{font-size:14px;color:var(--text-muted);line-height:1.6}
+.footer-col h4{font-size:12px;font-family:var(--mono);letter-spacing:0.1em;text-transform:uppercase;color:var(--text-dim);margin-bottom:16px}
+.footer-col a{display:block;font-size:14px;color:var(--text-muted);margin-bottom:10px;transition:color 0.2s}.footer-col a:hover{color:var(--accent)}
+.footer-bottom{font-size:13px;color:var(--text-muted);padding-top:24px;border-top:1px solid var(--border);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+@media(max-width:768px){.nav-links a:not(.btn-nav){display:none}.manifesto-grid{grid-template-columns:1fr;gap:20px}.hero-stats{gap:24px}.footer-grid{grid-template-columns:1fr 1fr}.tabs{overflow-x:auto}.tab{white-space:nowrap;padding:12px 16px;font-size:13px}}
+.fade-in{opacity:0;transform:translateY(20px);transition:opacity 0.6s,transform 0.6s}.fade-in.visible{opacity:1;transform:translateY(0)}
 </style>
 </head>
 <body>
+<nav class="nav"><div class="container nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="#data">Data</a><a href="#api">API</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
 
-<!-- HERO -->
-<section class="hero">
-  <div class="container">
-    <div class="hero-eyebrow">Open source · 19 countries · 329 websites</div>
-    <h1>The big labs are racing toward AGI.<br>Meanwhile, someone just needs a <em>checkout page that works.</em></h1>
-    <p class="hero-body">
-      We're not solving artificial general intelligence. We're solving a simpler problem: when you build an app — with AI or without — how do you know it's actually complete? We studied hundreds of real websites across 19 countries to find out what "good enough" actually looks like.
-    </p>
-    <div class="hero-stats">
-      <div class="stat-item">
-        <div class="stat-num">329</div>
-        <div class="stat-label">Websites analyzed</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">19</div>
-        <div class="stat-label">Countries covered</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">855</div>
-        <div class="stat-label">Feature data points</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">45</div>
-        <div class="stat-label">Features tracked per site</div>
-      </div>
-    </div>
-  </div>
-</section>
+<section class="hero"><div class="container">
+<div class="hero-eyebrow">Open source · 42+ industries · 160+ countries</div>
+<h1>The big labs are racing toward AGI. Meanwhile, someone just needs a checkout page that <em>works.</em></h1>
+<p class="hero-body">We analyzed 2,600+ websites across 42 industries and 160 countries. The result: an open API that tells you exactly what features your industry expects — based on data, not opinions.</p>
+<div class="hero-stats">
+<div class="stat-item"><div class="stat-num">2,600+</div><div class="stat-label">Websites analyzed</div></div>
+<div class="stat-item"><div class="stat-num">42</div><div class="stat-label">Industries covered</div></div>
+<div class="stat-item"><div class="stat-num">160</div><div class="stat-label">Countries</div></div>
+<div class="stat-item"><div class="stat-num">3,000+</div><div class="stat-label">Feature data points</div></div>
+</div>
+<div class="hero-btns"><a href="https://api.benchmarkhq.site/docs" class="btn btn-primary">Explore the API</a><a href="https://github.com/abdur-rehman10/benchmarkhq" class="btn btn-secondary">View on GitHub</a></div>
+</div></section>
 
-<!-- MANIFESTO -->
-<section class="manifesto fade-in">
-  <div class="container">
-    <div class="manifesto-grid">
-      <div class="manifesto-label">Why this exists</div>
-      <div class="manifesto-text">
-        <p>Everyone's talking about quantum computing, billion-parameter models, and the future of intelligence. That's important work. But right now, today, a freelancer in Karachi is building an e-commerce site for a local business. A startup in Istanbul is launching a food delivery app. A solo developer in São Paulo is trying to figure out if their product is missing something obvious.</p>
-        <p><strong>They don't need AGI. They need a checklist.</strong></p>
-        <p>Not a blog post with opinions. Not a consultant charging $10,000. A real, data-backed answer to a simple question: <strong>"Does my app have what users actually expect?"</strong></p>
-        <p>So we built it. We pointed a scraper at the top 30 websites in 19 countries. We used AI to analyze what features they all share. We counted. If 90% of top e-commerce sites have a search bar — that's not an opinion, that's a standard. If 40% have a wishlist — that's a nice-to-have, not a must.</p>
-        <p>The data is open. The methodology is transparent. <strong>The benchmarks belong to everyone.</strong></p>
-      </div>
-    </div>
-  </div>
-</section>
+<section class="manifesto fade-in"><div class="container"><div class="manifesto-grid">
+<div class="manifesto-label">Why this exists</div>
+<div class="manifesto-text">Every product team argues about features. <em>"Should we add a wishlist?"</em> <em>"Do we need dark mode?"</em> <em>"What about social login?"</em><br><br>Nobody has data. Until now. We crawled real websites in every industry, counted what features actually exist, and classified them: <em>CRITICAL</em> if 80%+ have it. <em>REQUIRED</em> if 50%+. The data decides, not opinions.</div>
+</div></div></section>
 
-<!-- DATA -->
-<section class="data-section fade-in">
-  <div class="container">
-    <div class="section-header">
-      <div class="section-label">The data</div>
-      <div class="section-title">E-commerce benchmarks across 19 countries</div>
-    </div>
-    <div class="country-grid">
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇺🇸</span> United States</div><div class="country-stats"><div><div class="country-stat-num">41</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">16</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇬🇧</span> United Kingdom</div><div class="country-stats"><div><div class="country-stat-num">39</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">18</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇧🇷</span> Brazil</div><div class="country-stats"><div><div class="country-stat-num">44</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">16</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇮🇳</span> India</div><div class="country-stats"><div><div class="country-stat-num">41</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">13</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇫🇷</span> France</div><div class="country-stats"><div><div class="country-stat-num">37</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">16</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇨🇳</span> China</div><div class="country-stats"><div><div class="country-stat-num">34</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">22</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇦🇺</span> Australia</div><div class="country-stats"><div><div class="country-stat-num">39</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">17</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇨🇦</span> Canada</div><div class="country-stats"><div><div class="country-stat-num">30</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">13</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇲🇽</span> Mexico</div><div class="country-stats"><div><div class="country-stat-num">24</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">12</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇹🇷</span> Türkiye</div><div class="country-stats"><div><div class="country-stat-num">27</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">22</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇵🇰</span> Pakistan</div><div class="country-stats"><div><div class="country-stat-num">14</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">23</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇸🇦</span> Saudi Arabia</div><div class="country-stats"><div><div class="country-stat-num">26</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">17</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇦🇪</span> UAE</div><div class="country-stats"><div><div class="country-stat-num">29</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">16</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇶🇦</span> Qatar</div><div class="country-stats"><div><div class="country-stat-num">26</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">15</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇵🇱</span> Poland</div><div class="country-stats"><div><div class="country-stat-num">37</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">22</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇳🇱</span> Netherlands</div><div class="country-stats"><div><div class="country-stat-num">29</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">23</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇷🇺</span> Russia</div><div class="country-stats"><div><div class="country-stat-num">18</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">13</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇦🇷</span> Argentina</div><div class="country-stats"><div><div class="country-stat-num">16</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">22</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-      <div class="country-card"><div class="country-name"><span class="country-flag">🇪🇸</span> Spain</div><div class="country-stats"><div><div class="country-stat-num">26</div><div class="country-stat-label">critical features</div></div><div><div class="country-stat-num">13</div><div class="country-stat-label">sites analyzed</div></div></div></div>
-    </div>
-  </div>
-</section>
+<section class="section fade-in" id="data"><div class="container">
+<div class="section-label">The data</div>
+<div class="section-title">Three industries. Thousands of websites. One API.</div>
+<div class="section-desc">Each industry was researched independently, with custom feature checklists and AI-powered analysis of every site.</div>
+<div class="tabs">
+<div class="tab active" onclick="showTab('ecommerce',this)">E-commerce (19 countries)</div>
+<div class="tab" onclick="showTab('saas',this)">SaaS (20 categories)</div>
+<div class="tab" onclick="showTab('news',this)">News & Media (147 countries)</div>
+</div>
+<div id="ecommerce" class="tab-panel active">
+<p style="color:var(--text-dim);margin-bottom:24px;font-size:15px;">570 e-commerce websites across 19 countries. 45 features per site.</p>
+<div class="card-grid">
+<div class="card"><div class="card-name"><span class="card-flag">🇺🇸</span> United States</div><div class="card-stats"><div><div class="card-stat-num">41</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇬🇧</span> United Kingdom</div><div class="card-stats"><div><div class="card-stat-num">39</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇧🇷</span> Brazil</div><div class="card-stats"><div><div class="card-stat-num">44</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇮🇳</span> India</div><div class="card-stats"><div><div class="card-stat-num">41</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇫🇷</span> France</div><div class="card-stats"><div><div class="card-stat-num">37</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇨🇳</span> China</div><div class="card-stats"><div><div class="card-stat-num">34</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇦🇺</span> Australia</div><div class="card-stats"><div><div class="card-stat-num">39</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇵🇰</span> Pakistan</div><div class="card-stats"><div><div class="card-stat-num">14</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇹🇷</span> Türkiye</div><div class="card-stats"><div><div class="card-stat-num">27</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇸🇦</span> Saudi Arabia</div><div class="card-stats"><div><div class="card-stat-num">26</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇪🇸</span> Spain</div><div class="card-stats"><div><div class="card-stat-num">26</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇩🇪</span> Germany</div><div class="card-stats"><div><div class="card-stat-num">37</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+</div>
+<p style="color:var(--text-muted);margin-top:16px;font-size:13px;">+ Mexico, Canada, Argentina, Netherlands, Poland, Russia, UAE, Qatar</p>
+</div>
+<div id="saas" class="tab-panel">
+<p style="color:var(--text-dim);margin-bottom:24px;font-size:15px;">600 SaaS products across 20 categories. 50-point checklist per product.</p>
+<div class="card-grid">
+<div class="card"><div class="card-name">Project Management</div><div class="card-stats"><div><div class="card-stat-num">22</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">27</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">CRM</div><div class="card-stats"><div><div class="card-stat-num">16</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">27</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Developer Tools</div><div class="card-stats"><div><div class="card-stat-num">28</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Cybersecurity</div><div class="card-stats"><div><div class="card-stat-num">26</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">29</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Marketing Automation</div><div class="card-stats"><div><div class="card-stat-num">29</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">28</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">No-Code / Low-Code</div><div class="card-stats"><div><div class="card-stat-num">23</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">29</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Analytics & BI</div><div class="card-stats"><div><div class="card-stat-num">14</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">29</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Customer Support</div><div class="card-stats"><div><div class="card-stat-num">18</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">29</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Email Marketing</div><div class="card-stats"><div><div class="card-stat-num">17</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">HR & People</div><div class="card-stats"><div><div class="card-stat-num">19</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">29</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">AI & ML Platforms</div><div class="card-stats"><div><div class="card-stat-num">2</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+<div class="card"><div class="card-name">Cloud Storage</div><div class="card-stats"><div><div class="card-stat-num">14</div><div class="card-stat-label">critical</div></div><div><div class="card-stat-num">30</div><div class="card-stat-label">sites</div></div></div></div>
+</div>
+<p style="color:var(--text-muted);margin-top:16px;font-size:13px;">+ Accounting, Design, Documentation, Communication, Scheduling, Social Media, Forms, E-commerce Platforms</p>
+</div>
+<div id="news" class="tab-panel">
+<p style="color:var(--text-dim);margin-bottom:24px;font-size:15px;">1,730 news websites across 147 countries. 151 features checked per site. The largest news website benchmark ever conducted.</p>
+<div class="card-grid">
+<div class="card"><div class="card-name"><span class="card-flag">🇺🇸</span> USA (30 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇬🇧</span> UK (30 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇮🇳</span> India (30 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇩🇪</span> Germany (30 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇫🇷</span> France (30 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇧🇷</span> Brazil (10 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇯🇵</span> Japan (10 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card"><div class="card-name"><span class="card-flag">🇳🇬</span> Nigeria (10 sites)</div><div class="card-stats"><div><div class="card-stat-num">151</div><div class="card-stat-label">features</div></div></div></div>
+<div class="card" style="border-color:var(--accent-dim)"><div class="card-name" style="color:var(--accent)">+ 139 more countries</div><div class="card-stats"><div><div class="card-stat-num" style="color:var(--text-dim)">🔄</div><div class="card-stat-label">scanning now</div></div></div></div>
+</div></div>
+</div></section>
 
-<!-- HOW IT WORKS -->
-<section class="how-section fade-in">
-  <div class="container">
-    <div class="steps">
-      <div class="section-label">How it works</div>
-      <div class="step-list">
-        <div class="step">
-          <div class="step-num">01</div>
-          <div class="step-title">We visit the top 30 websites in each country</div>
-          <div class="step-body">An automated scraper powered by Playwright visits each website, extracts the full page structure — navigation, buttons, forms, images, accessibility attributes — and takes screenshots at desktop and mobile viewports.</div>
-        </div>
-        <div class="step">
-          <div class="step-num">02</div>
-          <div class="step-title">AI analyzes what each site has</div>
-          <div class="step-body">GPT-4o examines the extracted structure and identifies which of 45 tracked features are present — from product search and shopping cart to cookie consent and alt text on images.</div>
-        </div>
-        <div class="step">
-          <div class="step-num">03</div>
-          <div class="step-title">We count frequencies, not opinions</div>
-          <div class="step-body">If 18 out of 20 sites have order tracking, that's 90% — classified as CRITICAL. If 8 out of 20 have a wishlist, that's 40% — classified as RECOMMENDED. The numbers decide, not us.</div>
-        </div>
-        <div class="step">
-          <div class="step-num">04</div>
-          <div class="step-title">You check your app against the benchmark</div>
-          <div class="step-body">Send your features to our API. Get back a score, a list of what's missing, and how you compare to the top players in your industry and country. In your CI/CD pipeline, on every pull request, automatically.</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<section class="section fade-in"><div class="container">
+<div class="section-label">How it works</div>
+<div class="section-title">From raw websites to machine-readable benchmarks</div>
+<div class="section-desc">Every data point comes from real websites, analyzed by AI, verified by frequency.</div>
+<div class="steps">
+<div class="step"><div class="step-num">01</div><div class="step-title">Research</div><div class="step-desc">Deep analysis of each industry to identify what features matter. Custom checklists per industry.</div></div>
+<div class="step"><div class="step-num">02</div><div class="step-title">Crawl</div><div class="step-desc">Playwright visits 30 sites per market. Takes screenshots of homepage, products, and key flows.</div></div>
+<div class="step"><div class="step-num">03</div><div class="step-title">Analyze</div><div class="step-desc">GPT-4o Vision examines every screenshot and identifies which features are present.</div></div>
+<div class="step"><div class="step-num">04</div><div class="step-title">Classify</div><div class="step-desc">Frequency analysis: 80%+ = CRITICAL. 50-79% = REQUIRED. 25-49% = RECOMMENDED. &lt;25% = OPTIONAL.</div></div>
+</div></div></section>
 
-<!-- API PREVIEW -->
-<section class="api-section fade-in">
-  <div class="container">
-    <div class="api-preview">
-      <div class="section-label">The API</div>
-      <div>
-        <div class="code-block">
-<span class="comment">// Check your app against Pakistan's e-commerce benchmark</span>
+<section class="section fade-in" id="api"><div class="container">
+<div class="section-label">The API</div>
+<div class="section-title">One API call. No signup. No API key.</div>
+<div class="section-desc">Free, open, and ready to use in your CI/CD pipeline, product audits, or competitive analysis.</div>
+<div class="code-block"><pre><span class="comment"># List all 42+ industries</span>
+<span class="cmd">curl</span> <span class="url">https://api.benchmarkhq.site/industries</span>
 
-POST /check
-{
-  <span class="key">"industry"</span>: <span class="string">"ecommerce_pakistan"</span>,
-  <span class="key">"features"</span>: [<span class="string">"product_search"</span>, <span class="string">"shopping_cart"</span>, <span class="string">"login_signup"</span>]
-}
+<span class="comment"># Get benchmark for any industry</span>
+<span class="cmd">curl</span> <span class="url">https://api.benchmarkhq.site/benchmark/ecommerce_usa</span>
 
-<span class="comment">// Response</span>
-{
-  <span class="key">"score"</span>: <span class="number">25</span>,
-  <span class="key">"verdict"</span>: <span class="string">"INCOMPLETE"</span>,
-  <span class="key">"critical_missing"</span>: [
-    <span class="string">"category_browsing"</span>,
-    <span class="string">"return_refund_info"</span>,
-    <span class="string">"help_center"</span>,
-    <span class="string">"alt_text_on_images"</span>,
-    <span class="label">... 7 more</span>
-  ]
-}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<span class="comment"># Check your site against the benchmark</span>
+<span class="cmd">curl</span> -X POST <span class="url">https://api.benchmarkhq.site/check</span> \
+  -H <span class="val">"Content-Type: application/json"</span> \
+  -d <span class="val">'{"industry":"crm","features":["free_trial","api_docs","sso"]}'</span></pre></div>
+<div style="margin-top:24px"><a href="https://api.benchmarkhq.site/docs" class="btn btn-primary" style="margin-right:12px">Interactive API Docs</a><a href="https://api.benchmarkhq.site/industries" class="btn btn-secondary">Browse Industries</a></div>
+</div></section>
 
-<!-- FOR WHO -->
-<section class="for-section fade-in">
-  <div class="container">
-    <div class="section-header">
-      <div class="section-label">Who this is for</div>
-      <div class="section-title">Built for the people actually building things</div>
-    </div>
-    <div class="for-grid">
-      <div class="for-card">
-        <div class="for-card-title">The freelancer with a client deadline</div>
-        <div class="for-card-body">You're building an e-commerce site and the client says "make it like Amazon." Now you have a data-backed checklist of exactly what that means — 41 critical features, ranked by how many top sites have them.</div>
-      </div>
-      <div class="for-card">
-        <div class="for-card-title">The founder building v1</div>
-        <div class="for-card-body">You're launching a product and need to know: is this complete enough to ship? Run it against the benchmark. If you're hitting 75+, you're competitive. Below 50, you're missing something users will notice.</div>
-      </div>
-      <div class="for-card">
-        <div class="for-card-title">The developer using AI to code</div>
-        <div class="for-card-body">You asked Claude or GPT to build you a food delivery app. It looks great. But did it include order tracking? Allergen info? Estimated delivery time? The benchmark catches what AI forgets.</div>
-      </div>
-    </div>
-  </div>
-</section>
+<section class="section fade-in"><div class="container">
+<div class="section-label">Who this is for</div>
+<div class="section-title">Data-driven decisions for every role</div>
+<div class="use-grid">
+<div class="use-card"><div class="use-card-label">Product Managers</div><h3>"Should we build a wishlist?"</h3><p>Check the benchmark. If 87% of competitors have it, it's CRITICAL. If 15% have it, spend your sprint elsewhere.</p></div>
+<div class="use-card"><div class="use-card-label">Frontend Developers</div><h3>"What does our pricing page need?"</h3><p>One API call returns the full feature list for your SaaS category — with percentage adoption for each feature.</p></div>
+<div class="use-card"><div class="use-card-label">QA & DevOps</div><h3>"Did we break anything?"</h3><p>GitHub Action checks your site against the benchmark on every PR. Catch missing features before they reach production.</p></div>
+<div class="use-card"><div class="use-card-label">Agencies</div><h3>"How does our client compare?"</h3><p>Pull the benchmark, score the client's site, include the results in your audit. Data-backed recommendations, not opinions.</p></div>
+</div></div></section>
 
-<!-- CTA -->
-<section class="cta-section fade-in">
-  <div class="container">
-    <h2>The data is open. The API is free.</h2>
-    <p>Start checking your app against real industry standards.</p>
-    <div class="cta-buttons">
-      <a href="https://github.com/abdur-rehman10/benchmarkhq" class="btn btn-primary">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
-        View on GitHub
-      </a>
-      <a href="https://api.benchmarkhq.site/docs" class="btn btn-secondary">
-        API Documentation →
-      </a>
-    </div>
-  </div>
-</section>
+<section class="section fade-in" id="blog"><div class="container">
+<div class="section-label">From the blog</div>
+<div class="section-title">Research, insights, and how-to guides</div>
+<div class="section-desc">Deep dives into the data and practical guides for using BenchmarkHQ.</div>
+<div class="blog-grid">
+<a href="/blog/how-to-use-the-api.html" class="blog-card"><div class="blog-card-tag">Guide</div><h3>How to Use the BenchmarkHQ API</h3><p>3 API calls every developer should know. From listing industries to checking your site in CI/CD.</p></a>
+<a href="/blog/pakistan-vs-usa-ecommerce.html" class="blog-card"><div class="blog-card-tag">Data</div><h3>Pakistan Scores 35/100 vs USA's 91/100 in E-commerce</h3><p>We analyzed 60 e-commerce sites across both countries. Here's where Pakistan falls behind.</p></a>
+<a href="/blog/what-every-saas-pricing-page-needs.html" class="blog-card"><div class="blog-card-tag">SaaS</div><h3>What Every SaaS Pricing Page Needs in 2026</h3><p>We checked 600 SaaS products. 73% offer free trials, but only 22% show competitor comparisons.</p></a>
+<a href="/blog/155-features-pm-tools.html" class="blog-card"><div class="blog-card-tag">Research</div><h3>155 Features Every PM Tool Should Have</h3><p>The definitive benchmark framework for project management software, with tier classifications.</p></a>
+<a href="/blog/news-media-benchmark.html" class="blog-card"><div class="blog-card-tag">News</div><h3>Benchmarking 1,730 News Websites Across 147 Countries</h3><p>The largest news website analysis ever conducted. 151 features from article UX to accessibility.</p></a>
+<a href="/blog/github-action-benchmark.html" class="blog-card"><div class="blog-card-tag">DevOps</div><h3>Add Industry Benchmarks to Your CI/CD Pipeline</h3><p>A GitHub Action that checks your site against the benchmark on every pull request.</p></a>
+</div>
+<div style="text-align:center;margin-top:32px"><a href="/blog/" class="btn btn-secondary">View all posts →</a></div>
+</div></section>
 
-<!-- FOOTER -->
-<footer>
-  <div class="container">
-    <div class="footer-inner">
-      <div class="footer-text">BenchmarkHQ · Data under CC BY-SA 4.0 · Code under MIT</div>
-      <div class="footer-links">
-        <a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a>
-        <a href="https://api.benchmarkhq.site/docs">API</a>
-        <a href="https://api.benchmarkhq.site/industries">Industries</a>
-      </div>
-    </div>
-  </div>
-</footer>
+<section class="cta fade-in"><div class="container">
+<h2>No opinions. Just <em style="color:var(--accent);font-style:italic">data.</em></h2>
+<p>The benchmark is free, open source, and growing every week. Star us on GitHub.</p>
+<div class="cta-btns"><a href="https://github.com/abdur-rehman10/benchmarkhq" class="btn btn-primary">⭐ Star on GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn btn-secondary">Explore the API</a></div>
+</div></section>
+
+<footer class="footer"><div class="container">
+<div class="footer-grid">
+<div><div class="footer-brand">Benchmark<span>HQ</span></div><div class="footer-tagline">Open-source industry benchmarks for web development. 2,600+ websites analyzed. Machine-readable quality standards.</div></div>
+<div class="footer-col"><h4>Product</h4><a href="https://api.benchmarkhq.site/docs">API Docs</a><a href="https://api.benchmarkhq.site/industries">Industries</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://github.com/abdur-rehman10/benchmarkhq/blob/main/action/action.yml">GitHub Action</a></div>
+<div class="footer-col"><h4>Data</h4><a href="https://api.benchmarkhq.site/benchmark/ecommerce_usa">E-commerce USA</a><a href="https://api.benchmarkhq.site/benchmark/crm">CRM SaaS</a><a href="https://api.benchmarkhq.site/benchmark/project_management">PM Tools</a><a href="https://api.benchmarkhq.site/industries">All Industries</a></div>
+<div class="footer-col"><h4>Blog</h4><a href="/blog/how-to-use-the-api.html">API Guide</a><a href="/blog/pakistan-vs-usa-ecommerce.html">Pakistan vs USA</a><a href="/blog/what-every-saas-pricing-page-needs.html">SaaS Pricing</a><a href="/blog/">All Posts</a></div>
+</div>
+<div class="footer-bottom"><span>Data: CC BY-SA 4.0 · Code: MIT · Built with Playwright + GPT-4o + FastAPI</span><span>© 2026 BenchmarkHQ</span></div>
+</div></footer>
 
 <script>
-// Fade in on scroll
-const observer = new IntersectionObserver((entries) => {
-  entries.forEach(entry => {
-    if (entry.isIntersecting) {
-      entry.target.classList.add('visible');
-    }
-  });
-}, { threshold: 0.1 });
-
-document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+function showTab(id,el){document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));document.getElementById(id).classList.add('active');el.classList.add('active')}
+const observer=new IntersectionObserver(e=>{e.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')})},{threshold:0.1});document.querySelectorAll('.fade-in').forEach(el=>observer.observe(el));
 </script>
-
 </body>
 </html>
