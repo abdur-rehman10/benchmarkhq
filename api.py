@@ -1,15 +1,8 @@
 """
-BenchmarkHQ API — v2.0
+BenchmarkHQ API — v2.1
 ======================
-Serves industry benchmark data with built-in usage tracking.
-
-Endpoints:
-  GET  /                    → API info
-  GET  /industries          → List all industries
-  GET  /benchmark/{key}     → Get benchmark for an industry
-  GET  /benchmark/{key}/features → Get feature list only
-  POST /check               → Check features against benchmark
-  GET  /stats               → API usage statistics (admin)
+Serves industry benchmark data with usage tracking,
+community contributions, auth, admin dashboard, and AI URL analysis.
 """
 
 import json, os, glob, time
@@ -22,8 +15,8 @@ from typing import List, Optional
 
 app = FastAPI(
     title="BenchmarkHQ API",
-    description="Open-source industry benchmarks for web development. 42+ industries, 900+ websites analyzed.",
-    version="2.0",
+    description="Open-source industry benchmarks for web development. 187+ industries, 2000+ websites analyzed.",
+    version="2.1",
     docs_url="/docs",
     redoc_url="/redoc",
 )
@@ -49,13 +42,9 @@ def load_stats():
         except:
             pass
     return {
-        "total_requests": 0,
-        "first_request": None,
-        "endpoints": {},
-        "daily": {},
-        "industries_queried": {},
-        "checks_performed": 0,
-        "unique_ips": [],
+        "total_requests": 0, "first_request": None,
+        "endpoints": {}, "daily": {},
+        "industries_queried": {}, "checks_performed": 0, "unique_ips": [],
     }
 
 def save_stats(stats):
@@ -71,51 +60,34 @@ stats = load_stats()
 @app.middleware("http")
 async def track_usage(request: Request, call_next):
     global stats
-
     start = time.time()
     response = await call_next(request)
-    duration = round((time.time() - start) * 1000)
-
-    # Track request
     path = request.url.path
     today = str(date.today())
     ip = request.client.host if request.client else "unknown"
-
     stats["total_requests"] = stats.get("total_requests", 0) + 1
-
     if not stats.get("first_request"):
         stats["first_request"] = datetime.now().isoformat()
-
-    # Endpoint counts
     if path not in stats.get("endpoints", {}):
         stats["endpoints"][path] = 0
     stats["endpoints"][path] += 1
-
-    # Daily counts
     if today not in stats.get("daily", {}):
         stats["daily"][today] = {"requests": 0, "unique_ips": []}
     stats["daily"][today]["requests"] += 1
     if ip not in stats["daily"][today].get("unique_ips", []):
         stats["daily"][today]["unique_ips"].append(ip)
-
-    # Track unique IPs (keep last 1000)
     if ip not in stats.get("unique_ips", []):
         stats["unique_ips"] = stats.get("unique_ips", [])
         stats["unique_ips"].append(ip)
         if len(stats["unique_ips"]) > 1000:
             stats["unique_ips"] = stats["unique_ips"][-1000:]
-
-    # Track industry queries
     if path.startswith("/benchmark/"):
         industry = path.replace("/benchmark/", "").replace("/features", "")
         if industry not in stats.get("industries_queried", {}):
             stats["industries_queried"][industry] = 0
         stats["industries_queried"][industry] += 1
-
-    # Save every 10 requests
     if stats["total_requests"] % 10 == 0:
         save_stats(stats)
-
     return response
 
 
@@ -126,11 +98,9 @@ async def track_usage(request: Request, call_next):
 benchmarks = {}
 
 def load_data():
-    """Load all benchmark data from data/ directory."""
     global benchmarks
     benchmarks = {}
 
-    # SaaS category name mapping
     saas_names = {
         "accounting": "Accounting & Finance SaaS",
         "ai_ml_platforms": "AI & ML Platform SaaS",
@@ -154,7 +124,6 @@ def load_data():
         "social_media": "Social Media Management SaaS",
     }
 
-    # E-commerce country mapping
     ecom_countries = {
         "ecommerce_usa": ("E-commerce USA", "United States", "en", "USD"),
         "ecommerce_uk": ("E-commerce UK", "United Kingdom", "en", "GBP"),
@@ -177,64 +146,39 @@ def load_data():
         "ecommerce_pakistan": ("E-commerce Pakistan", "Pakistan", "en", "PKR"),
     }
 
-    # Load all frequency analysis files
     for freq_file in glob.glob("data/*/2*/frequency_analysis.json"):
         parts = freq_file.split("/")
-        key = parts[1]  # e.g., 'crm', 'ecommerce_usa', 'news_pakistan'
-
+        key = parts[1]
         try:
             with open(freq_file) as f:
                 data = json.load(f)
         except:
             continue
-
         if not data:
             continue
-
-        # Determine metadata
         first = list(data.values())[0]
         sites = first.get("total_good_sites", first.get("total_sites", 0))
         total_features = len(data)
         critical = sum(1 for v in data.values() if v["classification"] == "CRITICAL")
         required = sum(1 for v in data.values() if v["classification"] == "REQUIRED")
         recommended = sum(1 for v in data.values() if v["classification"] == "RECOMMENDED")
-
-        # Get latest timestamp from directory name
         ts_dir = parts[2] if len(parts) > 2 else ""
         last_updated = f"20{ts_dir[:2]}-{ts_dir[2:4]}-{ts_dir[4:6]}" if len(ts_dir) >= 6 else "2026-04-01"
-
-        meta = {
-            "name": key,
-            "country": "",
-            "language": "",
-            "currency": "",
-            "category": "general",
-        }
-
-        # E-commerce metadata
+        meta = {"name": key, "country": "", "language": "", "currency": "", "category": "general"}
         if key in ecom_countries:
             name, country, lang, currency = ecom_countries[key]
             meta.update({"name": name, "country": country, "language": lang, "currency": currency, "category": "ecommerce"})
-        # SaaS metadata
         elif key in saas_names:
             meta.update({"name": saas_names[key], "category": "saas"})
-        # News metadata
         elif key.startswith("news_"):
             country_key = key.replace("news_", "")
             meta.update({"name": f"News & Media - {country_key.replace('_', ' ').title()}", "category": "news"})
-
         benchmarks[key] = {
-            "key": key,
-            "meta": meta,
-            "last_updated": last_updated,
-            "sites_analyzed": sites,
-            "total_features": total_features,
-            "critical": critical,
-            "required": required,
-            "recommended": recommended,
+            "key": key, "meta": meta, "last_updated": last_updated,
+            "sites_analyzed": sites, "total_features": total_features,
+            "critical": critical, "required": required, "recommended": recommended,
             "features": data,
         }
-
     print(f"Loaded {len(benchmarks)} industries")
 
 load_data()
@@ -250,14 +194,13 @@ class CheckRequest(BaseModel):
 
 
 # ============================================================
-# ENDPOINTS
+# CORE ENDPOINTS
 # ============================================================
 
 @app.get("/")
 def root():
     return {
-        "name": "BenchmarkHQ API",
-        "version": "2.0",
+        "name": "BenchmarkHQ API", "version": "2.1",
         "description": "Open-source industry benchmarks for web development",
         "industries": len(benchmarks),
         "docs": "https://api.benchmarkhq.site/docs",
@@ -265,176 +208,144 @@ def root():
         "website": "https://benchmarkhq.site",
     }
 
-
 @app.get("/industries")
 def list_industries(category: Optional[str] = None):
-    """List all available industries. Optionally filter by category: ecommerce, saas, news"""
     industries = []
     for key, data in sorted(benchmarks.items()):
         if category and data["meta"].get("category") != category:
             continue
         industries.append({
-            "key": key,
-            "name": data["meta"]["name"],
+            "key": key, "name": data["meta"]["name"],
             "category": data["meta"].get("category", "general"),
-            "country": data["meta"]["country"],
-            "language": data["meta"]["language"],
-            "currency": data["meta"]["currency"],
-            "last_updated": data["last_updated"],
-            "sites_analyzed": data["sites_analyzed"],
-            "total_features": data["total_features"],
-            "critical": data["critical"],
-            "required": data["required"],
-            "recommended": data["recommended"],
+            "country": data["meta"]["country"], "language": data["meta"]["language"],
+            "currency": data["meta"]["currency"], "last_updated": data["last_updated"],
+            "sites_analyzed": data["sites_analyzed"], "total_features": data["total_features"],
+            "critical": data["critical"], "required": data["required"], "recommended": data["recommended"],
         })
     return {"count": len(industries), "industries": industries}
 
-
 @app.get("/benchmark/{key}")
 def get_benchmark(key: str):
-    """Get the full benchmark for an industry including all features with classifications."""
     if key not in benchmarks:
         raise HTTPException(status_code=404, detail=f"Industry '{key}' not found. Use /industries to see available options.")
-
-    # Track this query
     if key not in stats.get("industries_queried", {}):
         stats["industries_queried"][key] = 0
     stats["industries_queried"][key] += 1
-
     data = benchmarks[key]
     return {
-        "industry": key,
-        "name": data["meta"]["name"],
+        "industry": key, "name": data["meta"]["name"],
         "category": data["meta"].get("category", "general"),
-        "sites_analyzed": data["sites_analyzed"],
-        "total_features": data["total_features"],
-        "last_updated": data["last_updated"],
-        "features": data["features"],
+        "sites_analyzed": data["sites_analyzed"], "total_features": data["total_features"],
+        "last_updated": data["last_updated"], "features": data["features"],
     }
-
 
 @app.get("/benchmark/{key}/features")
 def get_features(key: str):
-    """Get just the feature list with classifications (no raw counts)."""
     if key not in benchmarks:
         raise HTTPException(status_code=404, detail=f"Industry '{key}' not found.")
-
     features = {}
     for fid, fdata in benchmarks[key]["features"].items():
-        features[fid] = {
-            "percentage": fdata["percentage"],
-            "classification": fdata["classification"],
-        }
+        features[fid] = {"percentage": fdata["percentage"], "classification": fdata["classification"]}
     return {"industry": key, "features": features}
-
 
 @app.post("/check")
 def check_features(req: CheckRequest):
-    """Check your features against an industry benchmark. Returns score and missing features."""
     if req.industry not in benchmarks:
         raise HTTPException(status_code=404, detail=f"Industry '{req.industry}' not found.")
-
     stats["checks_performed"] = stats.get("checks_performed", 0) + 1
-
     bench = benchmarks[req.industry]["features"]
     present = set(req.features)
-
-    total_critical = []
-    total_required = []
-    total_recommended = []
-    missing_critical = []
-    missing_required = []
-    missing_recommended = []
-
+    met = []
+    missing = []
     for fid, fdata in bench.items():
         cls = fdata["classification"]
-        if cls == "CRITICAL":
-            total_critical.append(fid)
-            if fid not in present:
-                missing_critical.append(fid)
-        elif cls == "REQUIRED":
-            total_required.append(fid)
-            if fid not in present:
-                missing_required.append(fid)
-        elif cls == "RECOMMENDED":
-            total_recommended.append(fid)
-            if fid not in present:
-                missing_recommended.append(fid)
-
-    # Score: critical features worth 3 points, required 2, recommended 1
-    max_score = len(total_critical) * 3 + len(total_required) * 2 + len(total_recommended) * 1
-    your_score = (len(total_critical) - len(missing_critical)) * 3 + \
-                 (len(total_required) - len(missing_required)) * 2 + \
-                 (len(total_recommended) - len(missing_recommended)) * 1
-
+        pct = fdata["percentage"]
+        item = {"feature": fid, "classification": cls, "percentage": pct}
+        if fid in present:
+            met.append(item)
+        else:
+            missing.append(item)
+    total_critical = [f for f in bench.values() if f["classification"] == "CRITICAL"]
+    total_required = [f for f in bench.values() if f["classification"] == "REQUIRED"]
+    total_recommended = [f for f in bench.values() if f["classification"] == "RECOMMENDED"]
+    met_critical = len([m for m in met if m["classification"] == "CRITICAL"])
+    met_required = len([m for m in met if m["classification"] == "REQUIRED"])
+    met_recommended = len([m for m in met if m["classification"] == "RECOMMENDED"])
+    max_score = len(total_critical) * 3 + len(total_required) * 2 + len(total_recommended)
+    your_score = met_critical * 3 + met_required * 2 + met_recommended
     score_pct = round(your_score / max_score * 100) if max_score > 0 else 0
-
-    if score_pct >= 90:
-        verdict = "EXCELLENT"
-    elif score_pct >= 70:
-        verdict = "GOOD"
-    elif score_pct >= 50:
-        verdict = "NEEDS WORK"
-    else:
-        verdict = "POOR"
-
     return {
-        "industry": req.industry,
-        "score": score_pct,
-        "verdict": verdict,
-        "features_checked": len(req.features),
-        "missing_critical": missing_critical,
-        "missing_required": missing_required,
-        "missing_recommended": missing_recommended,
+        "industry": req.industry, "score": score_pct,
+        "total_features": len(bench), "met": met, "missing": missing,
         "summary": {
-            "critical": f"{len(total_critical) - len(missing_critical)}/{len(total_critical)}",
-            "required": f"{len(total_required) - len(missing_required)}/{len(total_required)}",
-            "recommended": f"{len(total_recommended) - len(missing_recommended)}/{len(total_recommended)}",
+            "critical": f"{met_critical}/{len(total_critical)}",
+            "required": f"{met_required}/{len(total_required)}",
+            "recommended": f"{met_recommended}/{len(total_recommended)}",
         }
     }
 
-
 @app.get("/stats")
 def get_stats(key: Optional[str] = None):
-    """API usage statistics. Pass ?key=admin_secret for full details."""
     admin_key = os.environ.get("ADMIN_KEY", "benchmarkhq2026")
-
-    # Public stats (always visible)
     public = {
         "total_requests": stats.get("total_requests", 0),
         "industries_available": len(benchmarks),
         "checks_performed": stats.get("checks_performed", 0),
         "uptime_since": stats.get("first_request", "N/A"),
-        "top_industries": dict(sorted(
-            stats.get("industries_queried", {}).items(),
-            key=lambda x: x[1], reverse=True
-        )[:10]),
+        "top_industries": dict(sorted(stats.get("industries_queried", {}).items(), key=lambda x: x[1], reverse=True)[:10]),
     }
-
-    # Admin stats (with key)
     if key == admin_key:
         public["unique_ips_total"] = len(stats.get("unique_ips", []))
-        public["endpoints"] = dict(sorted(
-            stats.get("endpoints", {}).items(),
-            key=lambda x: x[1], reverse=True
-        ))
+        public["endpoints"] = dict(sorted(stats.get("endpoints", {}).items(), key=lambda x: x[1], reverse=True))
         public["daily"] = {
             day: {"requests": d["requests"], "unique_visitors": len(d.get("unique_ips", []))}
             for day, d in sorted(stats.get("daily", {}).items(), reverse=True)[:30]
         }
-
     return public
 
-
 @app.get("/reload")
-def reload_data(key: Optional[str] = None):
-    """Reload benchmark data from disk. Requires admin key."""
+def reload_data_endpoint(key: Optional[str] = None):
     admin_key = os.environ.get("ADMIN_KEY", "benchmarkhq2026")
     if key != admin_key:
         raise HTTPException(status_code=403, detail="Admin key required. Use ?key=your_key")
     load_data()
     save_stats(stats)
     return {"status": "reloaded", "industries": len(benchmarks)}
+
+
+# ============================================================
+# HELPER for URL analyzer
+# ============================================================
+
+def get_benchmark_data(key: str):
+    if key in benchmarks:
+        data = benchmarks[key]
+        return {"industry": key, "name": data["meta"]["name"], "features": data["features"]}
+    return None
+
+
+# ============================================================
+# LOAD EXTENSIONS (auth + contributions + admin + analyzer)
+# These are in separate files. If they're missing, API still works.
+# ============================================================
+
+try:
+    from auth_and_profiles import register_auth_routes
+    register_auth_routes(app)
+    print("✓ Auth & profiles loaded")
+except ImportError as e:
+    print(f"⚠ Auth module not found (skipping): {e}")
+except Exception as e:
+    print(f"⚠ Auth module error: {e}")
+
+try:
+    from url_analyzer import register_analyzer_routes
+    register_analyzer_routes(app, get_benchmark_func=get_benchmark_data)
+    print("✓ URL analyzer loaded")
+except ImportError as e:
+    print(f"⚠ Analyzer module not found (skipping): {e}")
+except Exception as e:
+    print(f"⚠ Analyzer module error: {e}")
 
 
 # Save stats on shutdown
