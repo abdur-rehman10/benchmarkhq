@@ -13,49 +13,80 @@
 body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
 ::selection{background:var(--accent);color:var(--bg)}
 a{color:var(--accent);text-decoration:none}
+
 .nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
 .nav-inner{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
 .nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
 .nav-links{display:flex;gap:28px;align-items:center}
 .nav-links a{font-size:14px;color:var(--dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
 .nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}
+.nav-profile{display:flex;align-items:center;gap:8px;padding:6px 14px;border:1px solid var(--border);border-radius:20px;font-size:13px;color:var(--dim);transition:all 0.2s}
+.nav-profile:hover{border-color:var(--accent);color:var(--text)}
+.nav-profile img{width:22px;height:22px;border-radius:50%}
+
 .container{max-width:760px;margin:0 auto;padding:0 24px}
 .page-header{padding:80px 0 40px;border-bottom:1px solid var(--border)}
 .page-header h1{font-family:var(--serif);font-size:clamp(28px,5vw,42px);font-weight:300;margin-bottom:16px;line-height:1.2}
 .page-header h1 em{color:var(--accent);font-style:italic}
-.page-header p{font-size:17px;color:var(--dim);max-width:580px}
+.page-header p{font-size:17px;color:var(--dim);max-width:580px;line-height:1.7}
+
+/* Login Modal */
+.modal-overlay{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.7);z-index:200;align-items:center;justify-content:center;backdrop-filter:blur(4px)}
+.modal-overlay.visible{display:flex}
+.modal{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:48px 40px;max-width:420px;width:90%;text-align:center;position:relative;animation:modalIn 0.25s ease}
+@keyframes modalIn{from{opacity:0;transform:scale(0.95)}to{opacity:1;transform:scale(1)}}
+.modal-close{position:absolute;top:16px;right:20px;font-size:20px;color:var(--muted);cursor:pointer;background:none;border:none}
+.modal-close:hover{color:var(--text)}
+.modal h2{font-family:var(--serif);font-size:24px;font-weight:400;margin-bottom:8px}
+.modal p{font-size:14px;color:var(--dim);margin-bottom:28px}
+.modal-btns{display:flex;flex-direction:column;gap:12px}
+.modal-btn{padding:14px 24px;border-radius:10px;font-size:15px;font-weight:500;cursor:pointer;border:1px solid var(--border);background:var(--card2);color:var(--text);transition:all 0.15s;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:10px}
+.modal-btn:hover{border-color:var(--accent);background:rgba(196,164,108,0.06)}
+.modal-btn-gh{border-color:rgba(255,255,255,0.15)}
+.modal-btn-google{border-color:rgba(66,133,244,0.2)}
+.modal-divider{display:flex;align-items:center;gap:12px;margin:16px 0;color:var(--muted);font-size:12px}
+.modal-divider::before,.modal-divider::after{content:'';flex:1;height:1px;background:var(--border)}
+.modal-skip{font-size:13px;color:var(--muted);cursor:pointer;margin-top:8px}
+.modal-skip:hover{color:var(--dim)}
+
+/* Auth bar (when logged in) */
+.auth-bar{margin:24px 0;padding:14px 20px;background:var(--card);border:1px solid var(--border);border-radius:10px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.auth-bar .user-info{display:flex;align-items:center;gap:8px;font-size:14px;flex:1}
+.auth-bar .user-info img{width:28px;height:28px;border-radius:50%}
+.auth-bar .badge-count{font-size:12px;color:var(--accent);margin-left:4px}
+.auth-links{display:flex;gap:10px;align-items:center}
+.auth-links a{font-size:13px;color:var(--dim);padding:6px 14px;border:1px solid var(--border);border-radius:6px}
+.auth-links a:hover{border-color:var(--accent);color:var(--text)}
+.logout-btn{font-size:12px;color:var(--muted);cursor:pointer}
+
 .type-tabs{display:flex;gap:8px;margin:40px 0 32px;flex-wrap:wrap}
 .type-tab{padding:12px 20px;border:1px solid var(--border);border-radius:8px;background:var(--card);color:var(--dim);font-size:14px;cursor:pointer;transition:all 0.2s;font-family:var(--sans);text-align:left;flex:1;min-width:180px}
 .type-tab:hover{border-color:var(--accent-dim);color:var(--text)}
 .type-tab.active{border-color:var(--accent);color:var(--accent);background:rgba(196,164,108,0.06)}
 .type-tab-title{font-weight:600;margin-bottom:4px;font-size:14px}
 .type-tab-desc{font-size:12px;opacity:0.7}
+
 .form-section{display:none;padding:0 0 60px}.form-section.active{display:block}
 .form-group{margin-bottom:24px}
-.form-label{display:block;font-size:13px;font-weight:500;margin-bottom:8px}.form-label .optional{color:var(--muted);font-weight:400;font-size:12px}
+.form-label{display:block;font-size:13px;font-weight:500;margin-bottom:8px;color:var(--text)}
+.form-label .optional{color:var(--muted);font-weight:400;font-size:12px}
 .form-hint{font-size:12px;color:var(--muted);margin-top:4px}
-input[type="text"],input[type="email"],input[type="url"],textarea,select{width:100%;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text);font-family:var(--sans);font-size:14px;outline:none}
+input[type="text"],input[type="email"],input[type="url"],textarea,select{width:100%;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text);font-family:var(--sans);font-size:14px;outline:none;transition:border-color 0.2s}
 input:focus,textarea:focus,select:focus{border-color:var(--accent)}
-textarea{resize:vertical;min-height:100px}select{appearance:none;cursor:pointer}
-select option{background:var(--card);color:var(--text)}
+textarea{resize:vertical;min-height:100px}
+select{appearance:none;cursor:pointer}
+
 .feature-grid{display:grid;grid-template-columns:1fr;gap:6px;max-height:400px;overflow-y:auto;padding:12px;background:var(--card);border:1px solid var(--border);border-radius:8px}
 .feature-row{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:6px;transition:background 0.1s;cursor:pointer}
 .feature-row:hover{background:var(--card2)}
-.feature-row.ai-detected{background:rgba(92,176,138,0.08)}
 .feature-row input[type="checkbox"]{width:18px;height:18px;accent-color:var(--accent);cursor:pointer;flex-shrink:0}
 .feature-row label{font-size:13px;cursor:pointer;flex:1}
 .feature-row .pct{font-family:var(--mono);font-size:11px;color:var(--muted);min-width:40px;text-align:right}
 .feature-cat{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:0.08em;color:var(--accent);padding:12px 10px 4px;font-weight:500}
-.screenshot-zone{border:2px dashed var(--border);border-radius:10px;padding:32px;text-align:center;cursor:pointer;transition:all 0.2s;background:var(--card)}
-.screenshot-zone:hover{border-color:var(--accent-dim)}
-.screenshot-zone.has-file{border-color:var(--green);border-style:solid}
-.screenshot-zone p{font-size:14px;color:var(--dim)}.screenshot-zone .icon{font-size:28px;margin-bottom:8px;color:var(--muted)}
-.screenshot-preview{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
-.screenshot-preview img{height:80px;border-radius:6px;border:1px solid var(--border)}
-.submit-btn{padding:14px 36px;background:var(--accent);color:var(--bg);border:none;border-radius:8px;font-weight:600;font-size:15px;cursor:pointer;font-family:var(--sans);transition:all 0.2s}
-.submit-btn:hover{background:var(--text)}.submit-btn:disabled{opacity:0.4;cursor:not-allowed}
-.analyze-btn{padding:10px 24px;background:rgba(91,142,201,0.15);color:var(--blue);border:1px solid rgba(91,142,201,0.3);border-radius:8px;font-size:14px;font-weight:500;cursor:pointer;font-family:var(--sans);transition:all 0.2s;margin-top:8px}
-.analyze-btn:hover{background:rgba(91,142,201,0.25)}.analyze-btn:disabled{opacity:0.4;cursor:not-allowed}
+
+.analyze-btn{padding:10px 24px;background:rgba(91,142,201,0.15);color:#5B8EC9;border:1px solid rgba(91,142,201,0.3);border-radius:8px;font-size:14px;font-weight:500;cursor:pointer;font-family:var(--sans);transition:all 0.2s;margin-top:8px}
+.analyze-btn:hover{background:rgba(91,142,201,0.25)}
+.analyze-btn:disabled{opacity:0.4;cursor:not-allowed}
 .analyze-result{margin-top:12px;padding:16px;background:rgba(92,176,138,0.06);border:1px solid rgba(92,176,138,0.2);border-radius:10px}
 .analyze-score{font-family:var(--mono);font-size:28px;font-weight:500;color:var(--green)}
 .analyze-meta{font-size:13px;color:var(--dim);margin-top:4px}
@@ -63,97 +94,322 @@ select option{background:var(--card);color:var(--text)}
 .conf-high{background:rgba(92,176,138,0.15);color:#5CB08A}
 .conf-medium{background:rgba(196,164,108,0.15);color:#C4A46C}
 .conf-low{background:rgba(199,95,95,0.12);color:#C75F5F}
+
+.screenshot-zone{border:2px dashed var(--border);border-radius:10px;padding:32px;text-align:center;cursor:pointer;transition:all 0.2s;background:var(--card)}
+.screenshot-zone:hover{border-color:var(--accent-dim)}
+.screenshot-zone.has-file{border-color:var(--green);border-style:solid}
+.screenshot-zone p{font-size:14px;color:var(--dim)}
+.screenshot-zone .icon{font-size:28px;margin-bottom:8px;color:var(--muted)}
+.screenshot-preview{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.screenshot-preview img{height:80px;border-radius:6px;border:1px solid var(--border)}
+
+.submit-btn{padding:14px 36px;background:var(--accent);color:var(--bg);border:none;border-radius:8px;font-weight:600;font-size:15px;cursor:pointer;font-family:var(--sans);transition:all 0.2s}
+.submit-btn:hover{background:var(--text)}
+.submit-btn:disabled{opacity:0.4;cursor:not-allowed}
+
 .success-msg{padding:20px;background:rgba(92,176,138,0.1);border:1px solid rgba(92,176,138,0.3);border-radius:10px;margin:20px 0;display:none}
-.success-msg.visible{display:block}.success-msg p{color:var(--green);font-size:14px}
+.success-msg.visible{display:block}
+.success-msg p{color:var(--green);font-size:14px}
+
 .trust-bar{display:flex;gap:24px;padding:24px 0;border-top:1px solid var(--border);margin-top:40px;flex-wrap:wrap}
 .trust-item{font-size:13px;color:var(--dim);display:flex;align-items:center;gap:6px}
 .trust-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+
 .guidelines{padding:32px 0;border-top:1px solid var(--border);margin-top:40px}
 .guidelines h3{font-family:var(--serif);font-size:20px;font-weight:400;margin-bottom:16px}
 .guide-item{padding:12px 0;border-bottom:1px solid var(--border);font-size:14px;color:var(--dim);display:flex;gap:12px}
 .guide-num{font-family:var(--mono);font-size:12px;color:var(--accent);min-width:24px}
 .footer{padding:40px 24px;border-top:1px solid var(--border);text-align:center;font-size:13px;color:var(--muted);margin-top:60px}
-@media(max-width:768px){.nav-links a:not(.btn-nav){display:none}.type-tabs{flex-direction:column}}
+
+@media(max-width:768px){.nav-links a:not(.btn-nav):not(.nav-profile){display:none}.type-tabs{flex-direction:column}.modal{padding:32px 24px}}
 </style>
 </head>
 <body>
-<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="/contribute.html">Contribute</a><a href="/community.html">Community</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
-<div class="container">
-<div class="page-header"><h1>Help build the <em>standard.</em></h1><p>Review websites, add new ones, or suggest features. Use AI to auto-detect features, then verify. Every approved submission improves the benchmarks.</p></div>
-<div class="type-tabs">
-<div class="type-tab active" onclick="switchType('review')"><div class="type-tab-title">Review a website</div><div class="type-tab-desc">AI-analyze + verify which features a website has</div></div>
-<div class="type-tab" onclick="switchType('website')"><div class="type-tab-title">Add a website</div><div class="type-tab-desc">Submit a new website to an existing industry</div></div>
-<div class="type-tab" onclick="switchType('feature')"><div class="type-tab-title">Suggest a feature</div><div class="type-tab-desc">Propose a new feature to track</div></div>
+
+<!-- NAV (profile link appears when logged in) -->
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links" id="navLinks"><a href="/community.html">Community</a><a href="/prompt-generator.html">AI Prompts</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+
+<!-- LOGIN MODAL -->
+<div class="modal-overlay" id="loginModal">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal()">&times;</button>
+    <h2>Sign in to contribute</h2>
+    <p>Your contributions earn badges and get reviewed faster. Sign in with GitHub or Google to get started.</p>
+    <div class="modal-btns">
+      <a class="modal-btn modal-btn-gh" href="https://api.benchmarkhq.site/auth/github?redirect=https://benchmarkhq.site/contribute.html">Sign in with GitHub</a>
+      <a class="modal-btn modal-btn-google" href="https://api.benchmarkhq.site/auth/google?redirect=https://benchmarkhq.site/contribute.html">Sign in with Google</a>
+    </div>
+    <div class="modal-divider">or</div>
+    <div class="modal-skip" onclick="skipLogin()">Continue without signing in (no badges earned)</div>
+  </div>
 </div>
+
+<div class="container">
+
+<div class="page-header">
+<h1>Help build the <em>standard.</em></h1>
+<p>Our benchmarks get better with every contribution. Review websites, add new ones, or suggest features. Earn badges for every approved submission.</p>
+</div>
+
+<!-- AUTH BAR (hidden by default, shown when logged in) -->
+<div class="auth-bar" id="authBar" style="display:none"></div>
+
+<!-- TABS -->
+<div class="type-tabs">
+  <div class="type-tab active" onclick="switchType('review')"><div class="type-tab-title">Review a website</div><div class="type-tab-desc">Check which features a website has</div></div>
+  <div class="type-tab" onclick="switchType('website')"><div class="type-tab-title">Add a website</div><div class="type-tab-desc">Submit a new website to a benchmark</div></div>
+  <div class="type-tab" onclick="switchType('feature')"><div class="type-tab-title">Suggest a feature</div><div class="type-tab-desc">Propose a new feature to track</div></div>
+</div>
+
 <div class="success-msg" id="successMsg"><p id="successText"></p></div>
 
+<!-- FORM 1: REVIEW -->
 <div class="form-section active" id="form-review">
-<div class="form-group"><label class="form-label">Industry</label><select id="r-industry" onchange="loadFeatures(); checkAnalyzeReady()"><option value="">Loading...</option></select></div>
-<div class="form-group"><label class="form-label">Website URL</label><input type="url" id="r-url" placeholder="https://example.com" oninput="checkAnalyzeReady()"><div class="form-hint">Paste the URL, then click "Analyze with AI" to auto-detect features</div><button class="analyze-btn" id="analyzeBtn" onclick="analyzeURL()" style="display:none">Analyze with AI</button><div id="analyzeStatus" style="display:none"></div></div>
-<div class="form-group"><label class="form-label">Features found on this website</label><div class="form-hint" style="margin-bottom:8px">Green-highlighted rows were detected by AI. Review and adjust before submitting.</div><div class="feature-grid" id="r-features"><p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Select an industry to load features</p></div></div>
-<div class="form-group"><label class="form-label">Screenshots <span class="optional">(optional)</span></label><div class="screenshot-zone" id="r-dropzone" onclick="document.getElementById('r-files').click()"><div class="icon">+</div><p>Click or drag screenshots here</p></div><input type="file" id="r-files" multiple accept="image/*" style="display:none" onchange="handleFiles(this,'r')"><div class="screenshot-preview" id="r-preview"></div></div>
-<div class="form-group"><label class="form-label">Your name <span class="optional">(optional)</span></label><input type="text" id="r-name" placeholder="Jane Doe"></div>
-<div class="form-group"><label class="form-label">Email <span class="optional">(optional)</span></label><input type="email" id="r-email" placeholder="jane@example.com"></div>
-<button class="submit-btn" onclick="submitContribution('review')">Submit review</button>
+  <div class="form-group"><label class="form-label">Industry</label><select id="r-industry" onchange="loadFeatures(); checkAnalyzeReady()"><option value="">Loading...</option></select></div>
+  <div class="form-group">
+    <label class="form-label">Website URL</label>
+    <input type="url" id="r-url" placeholder="https://example.com" oninput="checkAnalyzeReady()">
+    <div class="form-hint">The homepage of the website you're reviewing</div>
+    <button class="analyze-btn" id="analyzeBtn" onclick="analyzeURL()" style="display:none">Analyze with AI</button>
+    <div id="analyzeStatus" style="display:none"></div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Features found on this website</label>
+    <div class="form-hint" style="margin-bottom:8px">Use "Analyze with AI" to auto-detect, then verify manually.</div>
+    <div class="feature-grid" id="r-features"><p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Select an industry to load features</p></div>
+  </div>
+  <div class="form-group"><label class="form-label">Screenshots <span class="optional">(optional — prioritized in review)</span></label><div class="screenshot-zone" id="r-dropzone" onclick="document.getElementById('r-files').click()"><div class="icon">+</div><p>Click or drag screenshots here</p></div><input type="file" id="r-files" multiple accept="image/*" style="display:none" onchange="handleFiles(this,'r')"><div class="screenshot-preview" id="r-preview"></div></div>
+  <button class="submit-btn" onclick="trySubmit('review')">Submit review</button>
 </div>
 
+<!-- FORM 2: ADD WEBSITE -->
 <div class="form-section" id="form-website">
-<div class="form-group"><label class="form-label">Industry</label><select id="w-industry"><option value="">Loading...</option></select></div>
-<div class="form-group"><label class="form-label">Website URL</label><input type="url" id="w-url" placeholder="https://newsite.com"></div>
-<div class="form-group"><label class="form-label">Website name</label><input type="text" id="w-name-site" placeholder="NewSite"></div>
-<div class="form-group"><label class="form-label">Why include this website?</label><textarea id="w-reason" placeholder="Popular in [region], top 10 in [category]..."></textarea></div>
-<div class="form-group"><label class="form-label">Screenshot <span class="optional">(optional)</span></label><div class="screenshot-zone" id="w-dropzone" onclick="document.getElementById('w-files').click()"><div class="icon">+</div><p>Click or drag screenshot</p></div><input type="file" id="w-files" accept="image/*" style="display:none" onchange="handleFiles(this,'w')"><div class="screenshot-preview" id="w-preview"></div></div>
-<div class="form-group"><label class="form-label">Name <span class="optional">(optional)</span></label><input type="text" id="w-name"></div>
-<div class="form-group"><label class="form-label">Email <span class="optional">(optional)</span></label><input type="email" id="w-email"></div>
-<button class="submit-btn" onclick="submitContribution('website')">Submit website</button>
+  <div class="form-group"><label class="form-label">Industry</label><select id="w-industry"><option value="">Loading...</option></select></div>
+  <div class="form-group"><label class="form-label">Website URL</label><input type="url" id="w-url" placeholder="https://newsite.com"></div>
+  <div class="form-group"><label class="form-label">Website name</label><input type="text" id="w-name-site" placeholder="NewSite"></div>
+  <div class="form-group"><label class="form-label">Why include this website?</label><textarea id="w-reason" placeholder="Popular in [region], top 10..."></textarea></div>
+  <div class="form-group"><label class="form-label">Screenshot <span class="optional">(optional)</span></label><div class="screenshot-zone" id="w-dropzone" onclick="document.getElementById('w-files').click()"><div class="icon">+</div><p>Click or drag</p></div><input type="file" id="w-files" accept="image/*" style="display:none" onchange="handleFiles(this,'w')"><div class="screenshot-preview" id="w-preview"></div></div>
+  <button class="submit-btn" onclick="trySubmit('website')">Submit website</button>
 </div>
 
+<!-- FORM 3: SUGGEST FEATURE -->
 <div class="form-section" id="form-feature">
-<div class="form-group"><label class="form-label">Industry</label><select id="f-industry"><option value="">Loading...</option><option value="all">All industries</option></select></div>
-<div class="form-group"><label class="form-label">Feature name</label><input type="text" id="f-feature-name" placeholder="e.g., Dark mode toggle"></div>
-<div class="form-group"><label class="form-label">Description</label><textarea id="f-description" placeholder="What does this feature do?"></textarea></div>
-<div class="form-group"><label class="form-label">How common?</label><select id="f-estimate"><option value="">Select...</option><option value="very_common">Very common (80%+)</option><option value="common">Common (50-79%)</option><option value="growing">Growing (25-49%)</option><option value="emerging">Emerging (&lt;25%)</option><option value="unsure">Not sure</option></select></div>
-<div class="form-group"><label class="form-label">Example websites</label><textarea id="f-examples" placeholder="amazon.com, shopify.com"></textarea></div>
-<div class="form-group"><label class="form-label">Screenshot <span class="optional">(optional)</span></label><div class="screenshot-zone" id="f-dropzone" onclick="document.getElementById('f-files').click()"><div class="icon">+</div><p>Click or drag screenshot</p></div><input type="file" id="f-files" accept="image/*" style="display:none" onchange="handleFiles(this,'f')"><div class="screenshot-preview" id="f-preview"></div></div>
-<div class="form-group"><label class="form-label">Name <span class="optional">(optional)</span></label><input type="text" id="f-name"></div>
-<div class="form-group"><label class="form-label">Email <span class="optional">(optional)</span></label><input type="email" id="f-email"></div>
-<button class="submit-btn" onclick="submitContribution('feature')">Submit suggestion</button>
+  <div class="form-group"><label class="form-label">Industry</label><select id="f-industry"><option value="">Loading...</option><option value="all">All industries</option></select></div>
+  <div class="form-group"><label class="form-label">Feature name</label><input type="text" id="f-feature-name" placeholder="e.g., Dark mode toggle"></div>
+  <div class="form-group"><label class="form-label">Description</label><textarea id="f-description" placeholder="What does this feature do?"></textarea></div>
+  <div class="form-group"><label class="form-label">How common is this?</label><select id="f-estimate"><option value="">Select...</option><option value="very_common">Very common (80%+)</option><option value="common">Common (50-79%)</option><option value="growing">Growing (25-49%)</option><option value="emerging">Emerging (under 25%)</option></select></div>
+  <div class="form-group"><label class="form-label">Example websites</label><textarea id="f-examples" placeholder="amazon.com, shopify.com..."></textarea></div>
+  <button class="submit-btn" onclick="trySubmit('feature')">Submit suggestion</button>
 </div>
 
 <div class="trust-bar">
-<div class="trust-item"><div class="trust-dot" style="background:var(--green)"></div> All submissions reviewed before going live</div>
-<div class="trust-item"><div class="trust-dot" style="background:var(--blue)"></div> AI analysis + human verification</div>
-<div class="trust-item"><div class="trust-dot" style="background:var(--accent)"></div> Contributors credited on benchmarks</div>
+  <div class="trust-item"><div class="trust-dot" style="background:var(--green)"></div> All submissions reviewed before going live</div>
+  <div class="trust-item"><div class="trust-dot" style="background:var(--blue)"></div> AI analysis + human verification</div>
+  <div class="trust-item"><div class="trust-dot" style="background:var(--accent)"></div> Earn badges for approved contributions</div>
 </div>
-<div class="guidelines"><h3>Contribution guidelines</h3>
-<div class="guide-item"><span class="guide-num">01</span><span>Use "Analyze with AI" first, then verify the results manually.</span></div>
-<div class="guide-item"><span class="guide-num">02</span><span>Screenshots speed up the review process significantly.</span></div>
-<div class="guide-item"><span class="guide-num">03</span><span>Check features on the live website — not from memory.</span></div>
-<div class="guide-item"><span class="guide-num">04</span><span>When suggesting features, provide 2-3 example websites.</span></div>
-<div class="guide-item"><span class="guide-num">05</span><span>One submission per website per industry.</span></div>
+
+<div class="guidelines">
+  <h3>Contribution guidelines</h3>
+  <div class="guide-item"><span class="guide-num">01</span><span>Use "Analyze with AI" first, then verify manually on the live website.</span></div>
+  <div class="guide-item"><span class="guide-num">02</span><span>Screenshots speed up reviews. Include them when possible.</span></div>
+  <div class="guide-item"><span class="guide-num">03</span><span>Sign in with GitHub or Google to earn badges for approved contributions.</span></div>
+  <div class="guide-item"><span class="guide-num">04</span><span>When suggesting features, provide at least 2-3 example websites.</span></div>
 </div>
 </div>
+
 <div class="footer">Data: CC BY-SA 4.0 · Code: MIT · © 2026 BenchmarkHQ</div>
 
 <script>
-const API='https://api.benchmarkhq.site';
-let industries=[],currentFeatures={},uploadedFiles={r:[],w:[],f:[]};
+const API = 'https://api.benchmarkhq.site';
+let industries = [], currentFeatures = {}, uploadedFiles = {r:[], w:[], f:[]};
+let authToken = null, currentUser = null, skipLoginFlag = false;
 
-async function loadIndustries(){try{const r=await fetch(`${API}/industries`);const d=await r.json();industries=d.industries;['r-industry','w-industry','f-industry'].forEach(id=>{const s=document.getElementById(id);if(!s)return;const ex=id==='f-industry'?'<option value="all">All industries</option>':'';s.innerHTML=`<option value="">-- Select industry --</option>${ex}`;const cats={};industries.forEach(i=>{const c=i.category||'other';if(!cats[c])cats[c]=[];cats[c].push(i)});const cn={ecommerce:'E-commerce',saas:'SaaS',news:'News & Media'};for(const[c,items]of Object.entries(cats)){const g=document.createElement('optgroup');g.label=cn[c]||c;items.sort((a,b)=>a.name.localeCompare(b.name)).forEach(i=>{const o=document.createElement('option');o.value=i.key;o.textContent=i.name;g.appendChild(o)});s.appendChild(g)}})}catch(e){console.error(e)}}
+// ===== AUTH =====
+function initAuth() {
+  const p = new URLSearchParams(location.search);
+  if (p.get('token')) {
+    localStorage.setItem('bhq_token', p.get('token'));
+    localStorage.setItem('bhq_username', p.get('username') || '');
+    history.replaceState({}, '', location.pathname);
+  }
+  authToken = localStorage.getItem('bhq_token');
+  if (authToken) loadUserInfo();
+}
 
-async function loadFeatures(){const k=document.getElementById('r-industry').value;const c=document.getElementById('r-features');if(!k){c.innerHTML='<p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Select an industry</p>';return}c.innerHTML='<p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Loading...</p>';try{const r=await fetch(`${API}/benchmark/${k}`);const d=await r.json();currentFeatures=d.features;const g={CRITICAL:[],REQUIRED:[],RECOMMENDED:[],OPTIONAL:[]};for(const[f,v]of Object.entries(d.features)){const cl=v.classification||'OPTIONAL';if(!g[cl])g[cl]=[];g[cl].push({id:f,pct:v.percentage})}let h='';const cc={CRITICAL:'var(--red)',REQUIRED:'var(--orange)',RECOMMENDED:'var(--blue)',OPTIONAL:'var(--muted)'};for(const[cl,fs]of Object.entries(g)){if(!fs.length)continue;fs.sort((a,b)=>b.pct-a.pct);h+=`<div class="feature-cat" style="color:${cc[cl]}">${cl} (${fs.length})</div>`;fs.forEach(f=>{h+=`<div class="feature-row" onclick="this.querySelector('input').click()"><input type="checkbox" value="${f.id}" onclick="event.stopPropagation()"><label>${f.id.replace(/_/g,' ')}</label><span class="pct">${f.pct}%</span></div>`})}c.innerHTML=h}catch(e){c.innerHTML='<p style="color:var(--red);font-size:13px;padding:20px;text-align:center">Failed to load</p>'}}
+async function loadUserInfo() {
+  try {
+    const res = await fetch(`${API}/auth/me`, {headers: {'Authorization': `Bearer ${authToken}`}});
+    if (res.ok) { currentUser = await res.json(); showLoggedIn(); }
+    else { localStorage.removeItem('bhq_token'); authToken = null; }
+  } catch(e) {}
+}
 
-function checkAnalyzeReady(){const u=document.getElementById('r-url').value;const i=document.getElementById('r-industry').value;const b=document.getElementById('analyzeBtn');if(b)b.style.display=(u&&i)?'inline-block':'none'}
+function showLoggedIn() {
+  if (!currentUser) return;
+  const bar = document.getElementById('authBar');
+  bar.style.display = 'flex';
+  const badgeCount = currentUser.badges ? currentUser.badges.length : 0;
+  bar.innerHTML = `
+    <div class="user-info">
+      ${currentUser.avatar_url ? `<img src="${currentUser.avatar_url}">` : ''}
+      <strong>${currentUser.display_name || currentUser.username}</strong>
+      <span class="badge-count">${badgeCount} badge${badgeCount !== 1 ? 's' : ''}</span>
+    </div>
+    <div class="auth-links">
+      <a href="/profile.html?user=${currentUser.username}">My Profile</a>
+      <span class="logout-btn" onclick="logout()">Sign out</span>
+    </div>`;
+  // Add profile link to nav
+  const nav = document.getElementById('navLinks');
+  const profileLink = document.createElement('a');
+  profileLink.href = `/profile.html?user=${currentUser.username}`;
+  profileLink.className = 'nav-profile';
+  profileLink.innerHTML = `${currentUser.avatar_url ? `<img src="${currentUser.avatar_url}">` : ''} Profile`;
+  nav.insertBefore(profileLink, nav.firstChild);
+}
 
-async function analyzeURL(){const url=document.getElementById('r-url').value;const industry=document.getElementById('r-industry').value;const btn=document.getElementById('analyzeBtn');const status=document.getElementById('analyzeStatus');if(!url||!industry)return;btn.disabled=true;btn.textContent='Analyzing...';status.style.display='block';status.innerHTML='<p style="color:var(--dim);font-size:14px">GPT-4o is analyzing the website... This takes 10-20 seconds.</p>';try{const res=await fetch(`${API}/analyze-url`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url,industry})});if(!res.ok){const err=await res.json().catch(()=>({}));throw new Error(err.detail||'Analysis failed')}const data=await res.json();const detected=(data.detected_features||[]).map(f=>f.id||f);const cbs=document.querySelectorAll('#r-features input[type="checkbox"]');let n=0;cbs.forEach(cb=>{const row=cb.closest('.feature-row');if(detected.includes(cb.value)){cb.checked=true;n++;row.classList.add('ai-detected')}else{cb.checked=false;row.classList.remove('ai-detected')}});const cc={high:'conf-high',medium:'conf-medium',low:'conf-low'};status.innerHTML=`<div class="analyze-result"><div style="display:flex;align-items:baseline;gap:12px"><span class="analyze-score">${data.score}/100</span><span class="analyze-confidence ${cc[data.confidence]||'conf-medium'}">${data.confidence} confidence</span></div><div class="analyze-meta">${data.detected_count} of ${data.total_features} features detected · ${data.notes||''}</div><div class="analyze-meta" style="margin-top:8px;color:var(--green)">${n} features auto-checked. Review and adjust before submitting.</div></div>`}catch(e){status.innerHTML=`<p style="color:var(--red);font-size:14px">Analysis failed: ${e.message}. You can still check features manually.</p>`}btn.disabled=false;btn.textContent='Re-analyze'}
+function logout() { localStorage.removeItem('bhq_token'); authToken = null; currentUser = null; location.reload(); }
+function showModal() { document.getElementById('loginModal').classList.add('visible'); }
+function closeModal() { document.getElementById('loginModal').classList.remove('visible'); }
+function skipLogin() { skipLoginFlag = true; closeModal(); }
 
-function switchType(t){document.querySelectorAll('.type-tab').forEach(x=>x.classList.remove('active'));document.querySelectorAll('.form-section').forEach(x=>x.classList.remove('active'));event.currentTarget.classList.add('active');document.getElementById(`form-${t}`).classList.add('active');document.getElementById('successMsg').classList.remove('visible')}
+// ===== SUBMISSION GATE =====
+function trySubmit(type) {
+  if (!authToken && !skipLoginFlag) { showModal(); return; }
+  submitContribution(type);
+}
 
-function handleFiles(input,p){const files=Array.from(input.files);const max=p==='r'?5:1;const prev=document.getElementById(`${p}-preview`);const dz=document.getElementById(`${p}-dropzone`);files.slice(0,max).forEach(f=>{if(f.size>5*1024*1024){alert('Max 5MB');return}const r=new FileReader();r.onload=e=>{uploadedFiles[p].push({name:f.name,data:e.target.result});const img=document.createElement('img');img.src=e.target.result;prev.appendChild(img);dz.classList.add('has-file')};r.readAsDataURL(f)})}
-['r','w','f'].forEach(p=>{const dz=document.getElementById(`${p}-dropzone`);if(!dz)return;dz.addEventListener('dragover',e=>{e.preventDefault();dz.style.borderColor='var(--accent)'});dz.addEventListener('dragleave',()=>{dz.style.borderColor=''});dz.addEventListener('drop',e=>{e.preventDefault();dz.style.borderColor='';const inp=document.getElementById(`${p}-files`);inp.files=e.dataTransfer.files;handleFiles(inp,p)})});
+// ===== INDUSTRIES =====
+async function loadIndustries() {
+  try {
+    const data = await (await fetch(`${API}/industries`)).json();
+    industries = data.industries;
+    ['r-industry','w-industry','f-industry'].forEach(id => {
+      const sel = document.getElementById(id);
+      if (!sel) return;
+      const extra = id === 'f-industry' ? '<option value="all">All industries</option>' : '';
+      sel.innerHTML = `<option value="">-- Select industry --</option>${extra}`;
+      const cats = {};
+      industries.forEach(ind => { const c = ind.category||'other'; if(!cats[c])cats[c]=[]; cats[c].push(ind); });
+      for (const [cat, items] of Object.entries(cats)) {
+        const g = document.createElement('optgroup');
+        g.label = {ecommerce:'E-commerce',saas:'SaaS',news:'News & Media'}[cat]||cat;
+        items.sort((a,b)=>a.name.localeCompare(b.name)).forEach(ind => {
+          const o = document.createElement('option'); o.value=ind.key; o.textContent=ind.name; g.appendChild(o);
+        });
+        sel.appendChild(g);
+      }
+    });
+  } catch(e) {}
+}
 
-async function submitContribution(type){const btn=event.currentTarget;btn.disabled=true;btn.textContent='Submitting...';let p={type,submitted_at:new Date().toISOString()};if(type==='review'){const cf=Array.from(document.querySelectorAll('#r-features input:checked')).map(c=>c.value);if(!document.getElementById('r-industry').value){alert('Select an industry');btn.disabled=false;btn.textContent='Submit review';return}if(!document.getElementById('r-url').value){alert('Enter a URL');btn.disabled=false;btn.textContent='Submit review';return}if(cf.length===0){alert('Check at least one feature or use Analyze with AI');btn.disabled=false;btn.textContent='Submit review';return}p.industry=document.getElementById('r-industry').value;p.url=document.getElementById('r-url').value;p.features_found=cf;p.features_total=Object.keys(currentFeatures).length;p.contributor_name=document.getElementById('r-name').value;p.contributor_email=document.getElementById('r-email').value;p.has_screenshots=uploadedFiles.r.length>0}else if(type==='website'){if(!document.getElementById('w-industry').value||!document.getElementById('w-url').value){alert('Fill industry and URL');btn.disabled=false;btn.textContent='Submit website';return}p.industry=document.getElementById('w-industry').value;p.url=document.getElementById('w-url').value;p.site_name=document.getElementById('w-name-site').value;p.reason=document.getElementById('w-reason').value;p.contributor_name=document.getElementById('w-name').value;p.contributor_email=document.getElementById('w-email').value;p.has_screenshots=uploadedFiles.w.length>0}else if(type==='feature'){if(!document.getElementById('f-feature-name').value){alert('Enter a feature name');btn.disabled=false;btn.textContent='Submit suggestion';return}p.industry=document.getElementById('f-industry').value;p.feature_name=document.getElementById('f-feature-name').value;p.description=document.getElementById('f-description').value;p.prevalence_estimate=document.getElementById('f-estimate').value;p.example_sites=document.getElementById('f-examples').value;p.contributor_name=document.getElementById('f-name').value;p.contributor_email=document.getElementById('f-email').value;p.has_screenshots=uploadedFiles.f.length>0}try{const res=await fetch(`${API}/contribute`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(p)});if(res.ok){const msg=document.getElementById('successMsg');document.getElementById('successText').textContent=`Submitted successfully! Now in the review queue.`;msg.classList.add('visible');window.scrollTo({top:msg.offsetTop-100,behavior:'smooth'})}else{const err=await res.json().catch(()=>({}));alert(err.detail||'Failed. Try again.')}}catch(e){alert('Network error.')}btn.disabled=false;const lb={review:'Submit review',website:'Submit website',feature:'Submit suggestion'};btn.textContent=lb[type]}
+async function loadFeatures() {
+  const key = document.getElementById('r-industry').value;
+  const el = document.getElementById('r-features');
+  if (!key) { el.innerHTML = '<p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Select an industry</p>'; return; }
+  el.innerHTML = '<p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Loading...</p>';
+  try {
+    const data = await (await fetch(`${API}/benchmark/${key}`)).json();
+    currentFeatures = data.features;
+    const groups = {CRITICAL:[],REQUIRED:[],RECOMMENDED:[],OPTIONAL:[]};
+    for (const [fid,fd] of Object.entries(data.features)) { const c=fd.classification||'OPTIONAL'; if(!groups[c])groups[c]=[]; groups[c].push({id:fid,pct:fd.percentage||0}); }
+    let html = '';
+    const cc = {CRITICAL:'var(--red)',REQUIRED:'var(--orange)',RECOMMENDED:'var(--blue)',OPTIONAL:'var(--muted)'};
+    for (const [cls,feats] of Object.entries(groups)) {
+      if (!feats.length) continue;
+      feats.sort((a,b)=>b.pct-a.pct);
+      html += `<div class="feature-cat" style="color:${cc[cls]}">${cls} (${feats.length})</div>`;
+      feats.forEach(f => { html += `<div class="feature-row" onclick="this.querySelector('input').click()"><input type="checkbox" value="${f.id}" onclick="event.stopPropagation()"><label>${f.id.replace(/_/g,' ')}</label><span class="pct">${f.pct}%</span></div>`; });
+    }
+    el.innerHTML = html;
+  } catch(e) { el.innerHTML = '<p style="color:var(--red);font-size:13px;padding:20px;text-align:center">Failed to load</p>'; }
+}
 
+// ===== AI ANALYZE =====
+function checkAnalyzeReady() {
+  const b = document.getElementById('analyzeBtn');
+  if (b) b.style.display = (document.getElementById('r-url').value && document.getElementById('r-industry').value) ? 'inline-block' : 'none';
+}
+
+async function analyzeURL() {
+  const url = document.getElementById('r-url').value, industry = document.getElementById('r-industry').value;
+  const btn = document.getElementById('analyzeBtn'), status = document.getElementById('analyzeStatus');
+  if (!url||!industry) return;
+  btn.disabled=true; btn.textContent='Analyzing...';
+  status.style.display='block';
+  status.innerHTML='<p style="color:var(--dim);font-size:14px">GPT-4o is analyzing... 10-20 seconds.</p>';
+  try {
+    const res = await fetch(`${API}/analyze-url`, {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({url,industry})});
+    if (!res.ok) throw new Error((await res.json().catch(()=>({}))).detail || 'Failed');
+    const data = await res.json();
+    const detected = data.detected_features.map(f=>f.id||f);
+    let n=0;
+    document.querySelectorAll('#r-features input[type="checkbox"]').forEach(cb => {
+      if (detected.includes(cb.value)) { cb.checked=true; n++; cb.closest('.feature-row').style.background='rgba(92,176,138,0.08)'; }
+      else { cb.checked=false; cb.closest('.feature-row').style.background=''; }
+    });
+    const cc={high:'conf-high',medium:'conf-medium',low:'conf-low'};
+    status.innerHTML=`<div class="analyze-result"><div style="display:flex;align-items:baseline;gap:12px"><span class="analyze-score">${data.score}/100</span><span class="analyze-confidence ${cc[data.confidence]||'conf-medium'}">${data.confidence} confidence</span></div><div class="analyze-meta">${data.detected_count} of ${data.total_features} features detected</div><div class="analyze-meta" style="margin-top:4px">${data.notes||''}</div><div class="analyze-meta" style="margin-top:8px;color:var(--green)">${n} features auto-checked. Review and adjust before submitting.</div></div>`;
+  } catch(e) { status.innerHTML=`<p style="color:var(--red);font-size:14px">Failed: ${e.message}. Check features manually.</p>`; }
+  btn.disabled=false; btn.textContent='Re-analyze';
+}
+
+// ===== TABS =====
+function switchType(type) {
+  document.querySelectorAll('.type-tab').forEach(t=>t.classList.remove('active'));
+  document.querySelectorAll('.form-section').forEach(f=>f.classList.remove('active'));
+  event.currentTarget.classList.add('active');
+  document.getElementById(`form-${type}`).classList.add('active');
+  document.getElementById('successMsg').classList.remove('visible');
+}
+
+// ===== FILES =====
+function handleFiles(input, prefix) {
+  Array.from(input.files).slice(0, prefix==='r'?5:1).forEach(file => {
+    if (file.size>5*1024*1024){alert('Max 5MB');return;}
+    const reader = new FileReader();
+    reader.onload = e => { uploadedFiles[prefix].push({name:file.name}); const img=document.createElement('img'); img.src=e.target.result; document.getElementById(`${prefix}-preview`).appendChild(img); document.getElementById(`${prefix}-dropzone`).classList.add('has-file'); };
+    reader.readAsDataURL(file);
+  });
+}
+
+// ===== SUBMIT =====
+async function submitContribution(type) {
+  const btn = event?.target?.closest('.submit-btn') || document.querySelector(`#form-${type} .submit-btn`);
+  btn.disabled=true; btn.textContent='Submitting...';
+  const headers = {'Content-Type':'application/json'};
+  if (authToken) headers['Authorization'] = `Bearer ${authToken}`;
+  let payload = {type, submitted_at: new Date().toISOString()};
+
+  if (type==='review') {
+    const checked = Array.from(document.querySelectorAll('#r-features input:checked')).map(c=>c.value);
+    if (!document.getElementById('r-industry').value||!document.getElementById('r-url').value||!checked.length) { alert('Fill all required fields'); btn.disabled=false; btn.textContent='Submit review'; return; }
+    Object.assign(payload, {industry:document.getElementById('r-industry').value, url:document.getElementById('r-url').value, features_found:checked, features_total:Object.keys(currentFeatures).length, has_screenshots:uploadedFiles.r.length>0});
+  } else if (type==='website') {
+    if (!document.getElementById('w-industry').value||!document.getElementById('w-url').value) { alert('Fill required fields'); btn.disabled=false; btn.textContent='Submit website'; return; }
+    Object.assign(payload, {industry:document.getElementById('w-industry').value, url:document.getElementById('w-url').value, site_name:document.getElementById('w-name-site').value, reason:document.getElementById('w-reason').value, has_screenshots:uploadedFiles.w.length>0});
+  } else if (type==='feature') {
+    if (!document.getElementById('f-feature-name').value) { alert('Enter feature name'); btn.disabled=false; btn.textContent='Submit suggestion'; return; }
+    Object.assign(payload, {industry:document.getElementById('f-industry').value, feature_name:document.getElementById('f-feature-name').value, description:document.getElementById('f-description').value, prevalence_estimate:document.getElementById('f-estimate').value, example_sites:document.getElementById('f-examples').value});
+  }
+
+  try {
+    const res = await fetch(`${API}/contribute`, {method:'POST', headers, body:JSON.stringify(payload)});
+    if (res.ok) {
+      const data = await res.json();
+      const msg = document.getElementById('successMsg');
+      document.getElementById('successText').textContent = data.authenticated
+        ? 'Submitted! This contribution is linked to your profile. Earn badges when it gets approved.'
+        : 'Submitted! Sign in to link contributions to your profile and earn badges.';
+      msg.classList.add('visible');
+      window.scrollTo({top:msg.offsetTop-100, behavior:'smooth'});
+    } else { alert((await res.json().catch(()=>({}))).detail || 'Failed'); }
+  } catch(e) { alert('Network error'); }
+  btn.disabled=false;
+  btn.textContent = {review:'Submit review', website:'Submit website', feature:'Submit suggestion'}[type];
+}
+
+initAuth();
 loadIndustries();
 </script>
 </body>
