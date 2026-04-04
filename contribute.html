@@ -136,8 +136,8 @@ select{appearance:none;cursor:pointer}
     <h2>Sign in to contribute</h2>
     <p>Your contributions earn badges and get reviewed faster. Sign in with GitHub or Google to get started.</p>
     <div class="modal-btns">
-      <a class="modal-btn modal-btn-gh" href="https://api.benchmarkhq.site/auth/github?redirect=https://benchmarkhq.site/contribute.html">Sign in with GitHub</a>
-      <a class="modal-btn modal-btn-google" href="https://api.benchmarkhq.site/auth/google?redirect=https://benchmarkhq.site/contribute.html">Sign in with Google</a>
+      <a class="modal-btn modal-btn-gh" onclick="saveAndRedirect('github')">Sign in with GitHub</a>
+      <a class="modal-btn modal-btn-google" onclick="saveAndRedirect('google')">Sign in with Google</a>
     </div>
     <div class="modal-divider">or</div>
     <div class="modal-skip" onclick="skipLogin()">Continue without signing in (no badges earned)</div>
@@ -322,6 +322,13 @@ async function loadFeatures() {
       feats.forEach(f => { html += `<div class="feature-row" onclick="this.querySelector('input').click()"><input type="checkbox" value="${f.id}" onclick="event.stopPropagation()"><label>${f.id.replace(/_/g,' ')}</label><span class="pct">${f.pct}%</span></div>`; });
     }
     el.innerHTML = html;
+    if (window._pendingChecks?.length) {
+  window._pendingChecks.forEach(fid => {
+    const cb = document.querySelector(`#r-features input[value="${fid}"]`);
+    if (cb) { cb.checked = true; cb.closest('.feature-row').style.background = 'rgba(92,176,138,0.08)'; }
+  });
+  window._pendingChecks = null;
+}
   } catch(e) { el.innerHTML = '<p style="color:var(--red);font-size:13px;padding:20px;text-align:center">Failed to load</p>'; }
 }
 
@@ -409,8 +416,52 @@ async function submitContribution(type) {
   btn.textContent = {review:'Submit review', website:'Submit website', feature:'Submit suggestion'}[type];
 }
 
+// Save form before OAuth redirect
+function saveFormData() {
+  const data = {
+    r_industry: document.getElementById('r-industry')?.value || '',
+    r_url: document.getElementById('r-url')?.value || '',
+    r_checked: Array.from(document.querySelectorAll('#r-features input:checked')).map(c => c.value),
+    w_industry: document.getElementById('w-industry')?.value || '',
+    w_url: document.getElementById('w-url')?.value || '',
+    w_name: document.getElementById('w-name-site')?.value || '',
+    w_reason: document.getElementById('w-reason')?.value || '',
+    f_industry: document.getElementById('f-industry')?.value || '',
+    f_feature: document.getElementById('f-feature-name')?.value || '',
+    f_desc: document.getElementById('f-description')?.value || '',
+    savedAt: Date.now()
+  };
+  localStorage.setItem('bhq_form', JSON.stringify(data));
+}
+
+function restoreFormData() {
+  const raw = localStorage.getItem('bhq_form');
+  if (!raw) return;
+  const d = JSON.parse(raw);
+  if (Date.now() - d.savedAt > 600000) { localStorage.removeItem('bhq_form'); return; }
+  if (d.r_industry) document.getElementById('r-industry').value = d.r_industry;
+  if (d.r_url) document.getElementById('r-url').value = d.r_url;
+  if (d.w_industry) document.getElementById('w-industry').value = d.w_industry;
+  if (d.w_url) document.getElementById('w-url').value = d.w_url;
+  if (d.w_name) document.getElementById('w-name-site').value = d.w_name;
+  if (d.w_reason) document.getElementById('w-reason').value = d.w_reason;
+  if (d.f_industry) document.getElementById('f-industry').value = d.f_industry;
+  if (d.f_feature) document.getElementById('f-feature-name').value = d.f_feature;
+  if (d.f_desc) document.getElementById('f-description').value = d.f_desc;
+  if (d.r_industry) { loadFeatures(); window._pendingChecks = d.r_checked || []; }
+  checkAnalyzeReady();
+  localStorage.removeItem('bhq_form');
+  const msg = document.getElementById('successMsg');
+  document.getElementById('successText').textContent = 'Welcome back! Your form data has been restored. You can now submit.';
+  msg.classList.add('visible');
+}
+
+function saveAndRedirect(provider) {
+  saveFormData();
+  location.href = `https://api.benchmarkhq.site/auth/${provider}?redirect=${encodeURIComponent(location.origin + '/contribute.html')}`;
+}
 initAuth();
-loadIndustries();
+loadIndustries().then(() => { if (localStorage.getItem('bhq_form')) restoreFormData(); });
 </script>
 </body>
 </html>
