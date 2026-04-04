@@ -1,120 +1,122 @@
 name: 'BenchmarkHQ Check'
-description: 'Check your app against industry benchmarks'
+description: 'Check your website features against industry benchmarks from BenchmarkHQ'
 branding:
   icon: 'check-circle'
-  color: 'blue'
+  color: 'orange'
 
 inputs:
   industry:
-    description: 'Industry benchmark to check against (e.g., ecommerce_usa)'
+    description: 'Industry key (e.g., ecommerce_usa, crm, news_uk)'
     required: true
   features:
-    description: 'Comma-separated list of features your app has'
+    description: 'Comma-separated features your site has'
     required: true
+  fail_below:
+    description: 'Fail if score below this (0-100, default 0 = never fail)'
+    required: false
+    default: '0'
   api_url:
     description: 'BenchmarkHQ API URL'
     required: false
-    default: 'https://web-production-c1f5e.up.railway.app'
-  fail_below:
-    description: 'Fail the check if score is below this number (0-100)'
-    required: false
-    default: '0'
+    default: 'https://api.benchmarkhq.site'
 
 runs:
   using: 'composite'
   steps:
-    - name: Run BenchmarkHQ Check
-      shell: bash
+    - name: BenchmarkHQ Check
+      shell: python3 {0}
       run: |
+        import json, sys, urllib.request, urllib.error
+
+        api_url = "${{ inputs.api_url }}"
+        industry = "${{ inputs.industry }}"
+        features_raw = "${{ inputs.features }}"
+        fail_below = int("${{ inputs.fail_below }}" or "0")
+
+        # Parse features from comma-separated string
+        features = [f.strip() for f in features_raw.split(",") if f.strip()]
+
         # Call the API
-        FEATURES_JSON=$(echo "${{ inputs.features }}" | python3 -c "
-        import sys, json
-        features = [f.strip() for f in sys.stdin.read().split(',') if f.strip()]
-        print(json.dumps(features))
-        ")
+        payload = json.dumps({"industry": industry, "features": features}).encode()
+        req = urllib.request.Request(
+            f"{api_url}/check",
+            data=payload,
+            headers={"Content-Type": "application/json"}
+        )
 
-        RESPONSE=$(curl -s -X POST "${{ inputs.api_url }}/check" \
-          -H "Content-Type: application/json" \
-          -d "{\"industry\":\"${{ inputs.industry }}\",\"features\":${FEATURES_JSON}}")
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                raw = resp.read().decode()
+        except urllib.error.HTTPError as e:
+            body = e.read().decode()
+            print(f"::error::API returned {e.code}: {body[:300]}")
+            sys.exit(1)
+        except Exception as e:
+            print(f"::error::Failed to reach API: {e}")
+            sys.exit(1)
 
-        # Parse response
-        SCORE=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['score'])")
-        VERDICT=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['verdict'])")
+        # Parse JSON response
+        try:
+            data = json.loads(raw)
+        except json.JSONDecodeError:
+            print(f"::error::API returned invalid JSON: {raw[:300]}")
+            sys.exit(1)
 
-        # Build the PR comment
-        COMMENT=$(echo "$RESPONSE" | python3 -c "
-        import sys, json
+        # Handle error responses
+        if isinstance(data, str):
+            print(f"::error::API returned string instead of JSON object: {data[:300]}")
+            sys.exit(1)
 
-        r = json.load(sys.stdin)
-        s = r['summary']
+        if "detail" in data:
+            print(f"::error::API error: {data['detail']}")
+            sys.exit(1)
 
-        # Emoji based on score
-        if r['score'] >= 90: emoji = '🏆'
-        elif r['score'] >= 75: emoji = '✅'
-        elif r['score'] >= 50: emoji = '⚠️'
-        else: emoji = '❌'
+        score = data.get("score", 0)
+        met = data.get("met", [])
+        missing = data.get("missing", [])
+        total = data.get("total_features", len(met) + len(missing))
 
-        lines = []
-        lines.append(f\"## {emoji} BenchmarkHQ: {r['industry']} — Score {r['score']}/100\")
-        lines.append(f\"**Verdict: {r['verdict']}**\")
-        lines.append('')
+        # Display results
+        print(f"\n{'='*50}")
+        print(f"BenchmarkHQ: {industry}")
+        print(f"Score: {score}/100 ({len(met)}/{total} features)")
+        print(f"{'='*50}")
 
-        # Critical
-        c = s['critical']
-        lines.append(f\"### Critical Features ({c['met']}/{c['total']})\")
-        if c['missing']:
-            for m in c['missing']:
-                lines.append(f\"- ❌ {m}\")
-        else:
-            lines.append('- ✅ All critical features present!')
-        lines.append('')
+        if met:
+            print(f"\n✅ Met ({len(met)}):")
+            for f in met[:20]:
+                name = f if isinstance(f, str) else (f.get("feature") or f.get("id") or str(f))
+                print(f"  • {name}")
+            if len(met) > 20:
+                print(f"  ... +{len(met)-20} more")
 
-        # Required
-        q = s['required']
-        lines.append(f\"### Required Features ({q['met']}/{q['total']})\")
-        if q['missing']:
-            for m in q['missing']:
-                lines.append(f\"- ⚠️ {m}\")
-        else:
-            lines.append('- ✅ All required features present!')
-        lines.append('')
+        if missing:
+            print(f"\n❌ Missing ({len(missing)}):")
+            for f in missing[:15]:
+                if isinstance(f, str):
+                    print(f"  • {f}")
+                elif isinstance(f, dict):
+                    name = f.get("feature") or f.get("id") or "unknown"
+                    cls = f.get("classification", "")
+                    pct = f.get("percentage", "")
+                    info = f" ({cls}, {pct}%)" if cls else ""
+                    print(f"  • {name}{info}")
+            if len(missing) > 15:
+                print(f"  ... +{len(missing)-15} more")
 
-        # Recommended
-        rec = s['recommended']
-        lines.append(f\"### Recommended Features ({rec['met']}/{rec['total']})\")
-        if rec['missing']:
-            for m in rec['missing'][:5]:
-                lines.append(f\"- 💡 {m}\")
-            if len(rec['missing']) > 5:
-                lines.append(f\"- ... and {len(rec['missing'])-5} more\")
-        else:
-            lines.append('- ✅ All recommended features present!')
+        print(f"\n📊 {api_url}/benchmark/{industry}")
+        print(f"Powered by BenchmarkHQ\n")
 
-        lines.append('')
-        lines.append('---')
-        lines.append('*Powered by [BenchmarkHQ](https://github.com/abdur-rehman10/benchmarkhq) — open-source industry benchmarks*')
+        # Threshold check
+        if fail_below > 0 and score < fail_below:
+            print(f"::error::Score {score} is below threshold {fail_below}")
+            sys.exit(1)
 
-        print('\n'.join(lines))
-        ")
-
-        echo "$COMMENT" >> $GITHUB_STEP_SUMMARY
-
-        # Post comment on PR if it's a pull request
-        if [ -n "${{ github.event.pull_request.number }}" ]; then
-          COMMENT_ESCAPED=$(echo "$COMMENT" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
-          curl -s -X POST \
-            -H "Authorization: token ${{ github.token }}" \
-            -H "Content-Type: application/json" \
-            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
-            -d "{\"body\":${COMMENT_ESCAPED}}"
-        fi
-
-        # Fail if below threshold
-        if [ "${{ inputs.fail_below }}" != "0" ]; then
-          if [ "$SCORE" -lt "${{ inputs.fail_below }}" ]; then
-            echo "::error::BenchmarkHQ score $SCORE is below threshold ${{ inputs.fail_below }}"
-            exit 1
-          fi
-        fi
-
-        echo "Score: $SCORE | Verdict: $VERDICT"
+        # Set outputs
+        import os
+        gh_output = os.environ.get("GITHUB_OUTPUT", "")
+        if gh_output:
+            with open(gh_output, "a") as f:
+                f.write(f"score={score}\n")
+                f.write(f"met_count={len(met)}\n")
+                f.write(f"missing_count={len(missing)}\n")
