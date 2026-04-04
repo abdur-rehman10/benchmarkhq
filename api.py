@@ -173,6 +173,9 @@ def load_data():
         elif key.startswith("news_"):
             country_key = key.replace("news_", "")
             meta.update({"name": f"News & Media - {country_key.replace('_', ' ').title()}", "category": "news"})
+        elif key.startswith("restaurant_"):
+            country_key = key.replace("restaurant_", "")
+            meta.update({"name": f"Restaurant & Food - {country_key.replace('_', ' ').title()}", "category": "restaurant"})
         benchmarks[key] = {
             "key": key, "meta": meta, "last_updated": last_updated,
             "sites_analyzed": sites, "total_features": total_features,
