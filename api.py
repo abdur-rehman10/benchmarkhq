@@ -258,8 +258,8 @@ def check_features(req: CheckRequest):
     met = []
     missing = []
     for fid, fdata in bench.items():
-        cls = fdata["classification"]
-        pct = fdata["percentage"]
+        cls = fdata.get("classification", "OPTIONAL")
+        pct = fdata.get("percentage", 0)
         item = {"feature": fid, "classification": cls, "percentage": pct}
         if fid in present:
             met.append(item)
