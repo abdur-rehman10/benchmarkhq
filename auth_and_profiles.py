@@ -40,7 +40,7 @@ import secrets
 import hashlib
 from datetime import datetime, timedelta
 from fastapi import FastAPI, HTTPException, Request, Query, Depends
-from fastapi.responses import RedirectResponse, JSONResponse
+from fastapi.responses import RedirectResponse, JSONResponse, HTMLResponse
 import httpx
 
 # -------------------------------------------------------------------
