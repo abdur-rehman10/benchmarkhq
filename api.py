@@ -245,7 +245,7 @@ def get_features(key: str):
         raise HTTPException(status_code=404, detail=f"Industry '{key}' not found.")
     features = {}
     for fid, fdata in benchmarks[key]["features"].items():
-        features[fid] = {"percentage": fdata["percentage"], "classification": fdata["classification"]}
+        features[fid] = {"percentage": fdata.get("percentage", 0), "classification": fdata.get("classification", "OPTIONAL")}
     return {"industry": key, "features": features}
 
 @app.post("/check")
