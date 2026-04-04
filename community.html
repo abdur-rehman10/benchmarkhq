@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Community — BenchmarkHQ</title>
+<meta name="description" content="Join the BenchmarkHQ community. Discuss industry benchmarks, propose features, and connect with other contributors.">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0C0C0E;--card:#141416;--card2:#1A1A1E;--text:#E8E6E3;--dim:#8A8A8D;--muted:#5A5A5D;--accent:#C4A46C;--green:#5CB08A;--blue:#5B8EC9;--border:#222225;--serif:'Source Serif 4',Georgia,serif;--sans:'DM Sans',-apple-system,sans-serif;--mono:'JetBrains Mono',monospace}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}a:hover{color:var(--text)}
+.nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
+.nav-inner{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
+.nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:28px;align-items:center}
+.nav-links a{font-size:14px;color:var(--dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
+.nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}
+
+.container{max-width:900px;margin:0 auto;padding:0 24px}
+
+.page-header{padding:80px 0 40px;border-bottom:1px solid var(--border)}
+.page-header h1{font-family:var(--serif);font-size:clamp(28px,5vw,42px);font-weight:300;margin-bottom:16px;line-height:1.2}
+.page-header h1 em{color:var(--accent);font-style:italic}
+.page-header p{font-size:17px;color:var(--dim);max-width:600px}
+
+.channels{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin:40px 0}
+.channel{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;transition:border-color 0.2s;display:block;color:var(--text)}
+.channel:hover{border-color:var(--accent)}
+.channel-icon{font-size:24px;margin-bottom:12px}
+.channel-name{font-size:17px;font-weight:500;margin-bottom:6px}
+.channel-desc{font-size:14px;color:var(--dim);line-height:1.6}
+.channel-link{display:inline-block;margin-top:12px;font-size:13px;color:var(--accent);font-weight:500}
+
+.section{padding:40px 0;border-bottom:1px solid var(--border)}
+.section-label{font-family:var(--mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:12px}
+.section-title{font-family:var(--serif);font-size:22px;font-weight:400;margin-bottom:8px}
+.section-desc{font-size:15px;color:var(--dim);margin-bottom:24px}
+
+/* Leaderboard */
+.leader-list{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden}
+.leader-row{display:flex;align-items:center;gap:14px;padding:14px 20px;border-bottom:1px solid var(--border);transition:background 0.1s}
+.leader-row:last-child{border-bottom:none}
+.leader-row:hover{background:var(--card2)}
+.leader-rank{font-family:var(--mono);font-size:14px;color:var(--muted);min-width:28px;text-align:center}
+.leader-rank.top3{color:var(--accent);font-weight:600}
+.leader-avatar{width:36px;height:36px;border-radius:50%;flex-shrink:0}
+.leader-name{flex:1;font-size:14px;font-weight:500}
+.leader-badge{font-size:11px;padding:2px 8px;border-radius:10px;font-weight:500}
+.lb-gold{background:rgba(196,164,108,0.15);color:#C4A46C}
+.lb-silver{background:rgba(180,178,169,0.12);color:#B4B2A9}
+.lb-bronze{background:rgba(212,136,58,0.12);color:#D4883A}
+.leader-count{font-family:var(--mono);font-size:13px;color:var(--dim);min-width:40px;text-align:right}
+
+/* Giscus container */
+.giscus-wrap{margin:40px 0 60px}
+
+.footer{padding:40px 24px;border-top:1px solid var(--border);text-align:center;font-size:13px;color:var(--muted);margin-top:40px}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="/contribute.html">Contribute</a><a href="/prompt-generator.html">AI Prompts</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+
+<div class="container">
+
+<div class="page-header">
+<h1>Join the <em>community.</em></h1>
+<p>Discuss benchmarks, propose new industries, share insights, and connect with other contributors building the standard for web development.</p>
+</div>
+
+<!-- CHANNELS -->
+<div class="channels">
+  <a href="https://github.com/abdur-rehman10/benchmarkhq/discussions/categories/general" target="_blank" class="channel">
+    <div class="channel-icon">&#128172;</div>
+    <div class="channel-name">General discussion</div>
+    <div class="channel-desc">Talk about benchmarks, web development trends, and anything related to BenchmarkHQ.</div>
+    <span class="channel-link">Open on GitHub &#8599;</span>
+  </a>
+  <a href="https://github.com/abdur-rehman10/benchmarkhq/discussions/categories/ideas" target="_blank" class="channel">
+    <div class="channel-icon">&#128161;</div>
+    <div class="channel-name">Ideas &amp; feature requests</div>
+    <div class="channel-desc">Propose new industries, features, or improvements to the benchmark methodology.</div>
+    <span class="channel-link">Open on GitHub &#8599;</span>
+  </a>
+  <a href="https://github.com/abdur-rehman10/benchmarkhq/discussions/categories/show-and-tell" target="_blank" class="channel">
+    <div class="channel-icon">&#127942;</div>
+    <div class="channel-name">Show &amp; tell</div>
+    <div class="channel-desc">Share what you've built with BenchmarkHQ — websites scored, CI/CD integrations, insights discovered.</div>
+    <span class="channel-link">Open on GitHub &#8599;</span>
+  </a>
+  <a href="https://github.com/abdur-rehman10/benchmarkhq/discussions/categories/q-a" target="_blank" class="channel">
+    <div class="channel-icon">&#10067;</div>
+    <div class="channel-name">Q&amp;A</div>
+    <div class="channel-desc">Ask questions about the API, benchmarks, methodology, or contributing.</div>
+    <span class="channel-link">Open on GitHub &#8599;</span>
+  </a>
+</div>
+
+<!-- LEADERBOARD -->
+<div class="section">
+  <div class="section-label">Top contributors</div>
+  <div class="section-title">Leaderboard</div>
+  <div class="section-desc">Contributors ranked by approved submissions. Every review makes the benchmarks better.</div>
+  <div class="leader-list" id="leaderboard">
+    <div class="leader-row"><span style="color:var(--dim);font-size:14px;padding:20px">Loading contributors...</span></div>
+  </div>
+</div>
+
+<!-- EMBEDDED DISCUSSION -->
+<div class="section">
+  <div class="section-label">Latest discussions</div>
+  <div class="section-title">What's happening</div>
+  <div class="section-desc">Recent conversations from the community. Sign in with GitHub to participate.</div>
+  <div class="giscus-wrap">
+    <!--
+      SETUP: To enable Giscus (GitHub Discussions comments widget):
+      1. Go to https://giscus.app
+      2. Enter repo: abdur-rehman10/benchmarkhq
+      3. Select "Discussion" category → General
+      4. Copy the generated <script> tag
+      5. Replace the placeholder below with it
+      
+      Enable GitHub Discussions first:
+      → Go to github.com/abdur-rehman10/benchmarkhq/settings
+      → Scroll to "Features" section
+      → Check "Discussions"
+      → Create categories: General, Ideas, Show and Tell, Q&A
+    -->
+    <script src="https://giscus.app/client.js"
+        data-repo="abdur-rehman10/benchmarkhq"
+        data-repo-id=""
+        data-category="General"
+        data-category-id=""
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+    </script>
+    <noscript>
+      <p style="color:var(--dim);text-align:center;padding:40px">
+        <a href="https://github.com/abdur-rehman10/benchmarkhq/discussions" target="_blank">View discussions on GitHub &#8599;</a>
+      </p>
+    </noscript>
+  </div>
+</div>
+
+</div>
+
+<div class="footer">Data: CC BY-SA 4.0 · Code: MIT · © 2026 BenchmarkHQ</div>
+
+<script>
+const API = 'https://api.benchmarkhq.site';
+
+async function loadLeaderboard() {
+  const el = document.getElementById('leaderboard');
+  try {
+    const res = await fetch(`${API}/contributors?limit=10`);
+    const data = await res.json();
+    
+    if (!data.contributors.length) {
+      el.innerHTML = '<div class="leader-row"><span style="color:var(--dim);font-size:14px;padding:10px">No contributors yet. <a href="/contribute.html">Be the first!</a></span></div>';
+      return;
+    }
+    
+    const badgeClass = {gold:'lb-gold', silver:'lb-silver', bronze:'lb-bronze', contributor:''};
+    const badgeLabel = {gold:'Gold', silver:'Silver', bronze:'Bronze', contributor:'Contributor'};
+    
+    el.innerHTML = data.contributors.map(c => `
+      <a href="/profile.html?user=${c.username}" class="leader-row" style="text-decoration:none;color:var(--text)">
+        <span class="leader-rank ${c.rank <= 3 ? 'top3' : ''}">#${c.rank}</span>
+        ${c.avatar_url ? `<img class="leader-avatar" src="${c.avatar_url}" alt="">` : '<div class="leader-avatar" style="background:var(--card2)"></div>'}
+        <span class="leader-name">${c.display_name}</span>
+        ${c.badge_level !== 'contributor' ? `<span class="leader-badge ${badgeClass[c.badge_level]}">${badgeLabel[c.badge_level]}</span>` : ''}
+        <span class="leader-count">${c.approved_contributions}</span>
+      </a>
+    `).join('');
+  } catch(e) {
+    el.innerHTML = '<div class="leader-row"><span style="color:var(--muted);font-size:14px">Could not load leaderboard</span></div>';
+  }
+}
+
+loadLeaderboard();
+</script>
+
+</body>
+</html>

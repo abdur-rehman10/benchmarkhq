@@ -1,0 +1,884 @@
+{
+  "restaurant_name": {
+    "description": "Restaurant/Brand name and logo visible",
+    "yes": 7,
+    "partial": 0,
+    "no": 0,
+    "total_good_sites": 7,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "address_location": {
+    "description": "Physical address displayed",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "phone_number": {
+    "description": "Phone number displayed (clickable)",
+    "yes": 2,
+    "partial": 0,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "opening_hours": {
+    "description": "Opening hours/business hours shown",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "email_contact": {
+    "description": "Email or contact form available",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "google_maps": {
+    "description": "Embedded map showing location",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "multiple_locations": {
+    "description": "Store locator for multiple locations",
+    "yes": 2,
+    "partial": 2,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 43,
+    "classification": "RECOMMENDED"
+  },
+  "about_page": {
+    "description": "About us / Our story page",
+    "yes": 0,
+    "partial": 4,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "directions_parking": {
+    "description": "Directions or parking info",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "dress_code": {
+    "description": "Dress code information (fine dining)",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "private_dining": {
+    "description": "Private dining / events info",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "careers_page": {
+    "description": "Careers / Jobs page",
+    "yes": 1,
+    "partial": 2,
+    "no": 4,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "menu_online": {
+    "description": "Online menu viewable as HTML (not just PDF)",
+    "yes": 3,
+    "partial": 1,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 50,
+    "classification": "REQUIRED"
+  },
+  "menu_pdf": {
+    "description": "Menu available as PDF download",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "menu_prices": {
+    "description": "Prices displayed on menu items",
+    "yes": 3,
+    "partial": 1,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 50,
+    "classification": "REQUIRED"
+  },
+  "menu_photos": {
+    "description": "Food photos shown on menu",
+    "yes": 5,
+    "partial": 0,
+    "no": 2,
+    "total_good_sites": 7,
+    "percentage": 71,
+    "classification": "REQUIRED"
+  },
+  "menu_categories": {
+    "description": "Menu organized into categories (starters, mains, etc.)",
+    "yes": 2,
+    "partial": 2,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 43,
+    "classification": "RECOMMENDED"
+  },
+  "menu_descriptions": {
+    "description": "Dish descriptions with ingredients",
+    "yes": 0,
+    "partial": 2,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "dietary_info": {
+    "description": "Dietary labels (vegetarian, vegan, GF, halal)",
+    "yes": 1,
+    "partial": 1,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 21,
+    "classification": "OPTIONAL"
+  },
+  "allergen_info": {
+    "description": "Allergen information available",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "nutritional_info": {
+    "description": "Nutritional/calorie information",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "seasonal_menu": {
+    "description": "Seasonal or special menu highlighted",
+    "yes": 1,
+    "partial": 1,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 21,
+    "classification": "OPTIONAL"
+  },
+  "drinks_menu": {
+    "description": "Separate drinks/wine/cocktail menu",
+    "yes": 0,
+    "partial": 1,
+    "no": 6,
+    "total_good_sites": 7,
+    "percentage": 7,
+    "classification": "OPTIONAL"
+  },
+  "kids_menu": {
+    "description": "Kids/children menu",
+    "yes": 1,
+    "partial": 1,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 21,
+    "classification": "OPTIONAL"
+  },
+  "menu_search": {
+    "description": "Menu search or filter functionality",
+    "yes": 1,
+    "partial": 0,
+    "no": 6,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "menu_customization": {
+    "description": "Customize/build your own meal option",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "online_ordering": {
+    "description": "Online ordering system available",
+    "yes": 0,
+    "partial": 2,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "delivery_option": {
+    "description": "Delivery option available",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "pickup_option": {
+    "description": "Pickup/collection option",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "third_party_links": {
+    "description": "Links to Uber Eats, DoorDash, Deliveroo, etc.",
+    "yes": 0,
+    "partial": 1,
+    "no": 6,
+    "total_good_sites": 7,
+    "percentage": 7,
+    "classification": "OPTIONAL"
+  },
+  "cart_system": {
+    "description": "Shopping cart functionality",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "order_tracking": {
+    "description": "Order tracking feature",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "multiple_payment": {
+    "description": "Multiple payment methods accepted",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "order_scheduling": {
+    "description": "Schedule order for later date/time",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "minimum_order": {
+    "description": "Minimum order amount displayed",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "delivery_fee": {
+    "description": "Delivery fee shown transparently",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "promo_codes": {
+    "description": "Promo/discount code field",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reorder": {
+    "description": "Reorder previous orders feature",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reservation_system": {
+    "description": "Online reservation/booking system",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reservation_widget": {
+    "description": "Reservation widget (OpenTable, Resy, etc.)",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "party_size": {
+    "description": "Party size selector",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "date_time_picker": {
+    "description": "Date and time picker for booking",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "special_requests": {
+    "description": "Special requests text field",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "confirmation_email": {
+    "description": "Booking confirmation shown",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "waitlist": {
+    "description": "Waitlist option when fully booked",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "group_booking": {
+    "description": "Large group / event booking",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "hero_image": {
+    "description": "Large hero image or video on homepage",
+    "yes": 6,
+    "partial": 0,
+    "no": 1,
+    "total_good_sites": 7,
+    "percentage": 86,
+    "classification": "CRITICAL"
+  },
+  "food_photography": {
+    "description": "Professional food photography",
+    "yes": 6,
+    "partial": 0,
+    "no": 1,
+    "total_good_sites": 7,
+    "percentage": 86,
+    "classification": "CRITICAL"
+  },
+  "interior_photos": {
+    "description": "Restaurant interior/ambiance photos",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "photo_gallery": {
+    "description": "Dedicated photo gallery section",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "video_content": {
+    "description": "Video content (promo, chef, food prep)",
+    "yes": 1,
+    "partial": 0,
+    "no": 6,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "virtual_tour": {
+    "description": "Virtual tour or 360\u00b0 view",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "consistent_branding": {
+    "description": "Consistent brand colors and fonts",
+    "yes": 7,
+    "partial": 0,
+    "no": 0,
+    "total_good_sites": 7,
+    "percentage": 100,
+    "classification": "CRITICAL"
+  },
+  "favicon": {
+    "description": "Favicon present in browser tab",
+    "yes": 2,
+    "partial": 0,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "chef_profile": {
+    "description": "Chef or team profile section",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "awards_press": {
+    "description": "Awards, Michelin stars, or press mentions",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "social_links": {
+    "description": "Social media links (Instagram, Facebook, etc.)",
+    "yes": 5,
+    "partial": 0,
+    "no": 2,
+    "total_good_sites": 7,
+    "percentage": 71,
+    "classification": "REQUIRED"
+  },
+  "instagram_feed": {
+    "description": "Embedded Instagram feed",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "reviews_testimonials": {
+    "description": "Customer reviews or testimonials",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "review_platform_links": {
+    "description": "Links to Google/Yelp/TripAdvisor reviews",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "newsletter_signup": {
+    "description": "Newsletter or email signup form",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "blog_news": {
+    "description": "Blog or news section",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "share_buttons": {
+    "description": "Social sharing buttons",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "user_generated_content": {
+    "description": "User-generated content (customer photos)",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "loyalty_program": {
+    "description": "Loyalty or rewards program",
+    "yes": 1,
+    "partial": 0,
+    "no": 6,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "gift_cards": {
+    "description": "Gift cards or vouchers for sale",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "catering": {
+    "description": "Catering services offered",
+    "yes": 1,
+    "partial": 0,
+    "no": 6,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "takeaway_menu": {
+    "description": "Separate takeaway/takeout menu",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "meal_kits": {
+    "description": "Meal kits or cook-at-home option",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "merchandise": {
+    "description": "Merchandise or branded products for sale",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "cooking_classes": {
+    "description": "Cooking classes or experiences",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "franchise_info": {
+    "description": "Franchise information page",
+    "yes": 2,
+    "partial": 0,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "app_download": {
+    "description": "Mobile app download links",
+    "yes": 5,
+    "partial": 0,
+    "no": 2,
+    "total_good_sites": 7,
+    "percentage": 71,
+    "classification": "REQUIRED"
+  },
+  "wifi_info": {
+    "description": "WiFi availability mentioned",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "responsive_design": {
+    "description": "Responsive mobile design",
+    "yes": 0,
+    "partial": 7,
+    "no": 0,
+    "total_good_sites": 7,
+    "percentage": 50,
+    "classification": "REQUIRED"
+  },
+  "fast_loading": {
+    "description": "Fast page load (under 3 seconds)",
+    "yes": 0,
+    "partial": 2,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "click_to_call": {
+    "description": "Click-to-call phone number",
+    "yes": 2,
+    "partial": 0,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "click_to_map": {
+    "description": "Click-to-navigate map link",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "lazy_loading": {
+    "description": "Lazy loading for images",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "optimized_images": {
+    "description": "Optimized images (WebP format)",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "mobile_ordering": {
+    "description": "Mobile-friendly ordering flow",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "pwa_features": {
+    "description": "PWA or add-to-homescreen support",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "alt_text_images": {
+    "description": "Alt text on food images",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "keyboard_navigation": {
+    "description": "Keyboard navigable",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "color_contrast": {
+    "description": "Sufficient color contrast",
+    "yes": 0,
+    "partial": 2,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 14,
+    "classification": "OPTIONAL"
+  },
+  "privacy_policy": {
+    "description": "Privacy policy page",
+    "yes": 4,
+    "partial": 0,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 57,
+    "classification": "REQUIRED"
+  },
+  "cookie_consent": {
+    "description": "Cookie consent banner",
+    "yes": 3,
+    "partial": 0,
+    "no": 4,
+    "total_good_sites": 7,
+    "percentage": 43,
+    "classification": "RECOMMENDED"
+  },
+  "terms_conditions": {
+    "description": "Terms and conditions page",
+    "yes": 4,
+    "partial": 0,
+    "no": 3,
+    "total_good_sites": 7,
+    "percentage": 57,
+    "classification": "REQUIRED"
+  },
+  "language_options": {
+    "description": "Multi-language support",
+    "yes": 2,
+    "partial": 0,
+    "no": 5,
+    "total_good_sites": 7,
+    "percentage": 29,
+    "classification": "RECOMMENDED"
+  },
+  "accessibility_statement": {
+    "description": "Accessibility statement",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "og_tags": {
+    "description": "Open Graph meta tags present",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "structured_data": {
+    "description": "Schema.org Restaurant structured data",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "google_business": {
+    "description": "Google Business Profile integration",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "https": {
+    "description": "HTTPS enabled",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "xml_sitemap": {
+    "description": "XML sitemap exists",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "local_seo": {
+    "description": "Local SEO optimization",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "canonical_urls": {
+    "description": "Canonical URL tags",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  },
+  "page_titles": {
+    "description": "Descriptive unique page titles",
+    "yes": 0,
+    "partial": 0,
+    "no": 7,
+    "total_good_sites": 7,
+    "percentage": 0,
+    "classification": "OPTIONAL"
+  }
+}

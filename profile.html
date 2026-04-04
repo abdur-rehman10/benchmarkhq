@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contributor Profile — BenchmarkHQ</title>
+<meta name="description" content="BenchmarkHQ contributor profile. See their contributions to open-source industry benchmarks.">
+<meta property="og:title" content="BenchmarkHQ Contributor">
+<meta property="og:description" content="Helping build open-source industry benchmarks for web development.">
+<meta property="og:url" content="https://benchmarkhq.site/profile.html">
+<meta property="og:type" content="profile">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0C0C0E;--card:#141416;--card2:#1A1A1E;--text:#E8E6E3;--dim:#8A8A8D;--muted:#5A5A5D;--accent:#C4A46C;--green:#5CB08A;--blue:#5B8EC9;--border:#222225;--serif:'Source Serif 4',Georgia,serif;--sans:'DM Sans',-apple-system,sans-serif;--mono:'JetBrains Mono',monospace}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+
+.nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
+.nav-inner{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
+.nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:28px;align-items:center}
+.nav-links a{font-size:14px;color:var(--dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
+.nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}
+
+.container{max-width:700px;margin:0 auto;padding:60px 24px}
+.loading{text-align:center;padding:100px 0;color:var(--dim);font-size:16px}
+.error{text-align:center;padding:100px 0;color:var(--dim)}
+
+/* Profile card */
+.profile-card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:40px;text-align:center;margin-bottom:32px}
+.avatar{width:96px;height:96px;border-radius:50%;border:3px solid var(--border);margin:0 auto 16px}
+.display-name{font-family:var(--serif);font-size:28px;font-weight:400;margin-bottom:4px}
+.username{font-family:var(--mono);font-size:14px;color:var(--dim);margin-bottom:12px}
+.bio{font-size:15px;color:var(--dim);max-width:400px;margin:0 auto 20px}
+
+/* Badge */
+.badge-pill{display:inline-flex;align-items:center;gap:6px;padding:6px 16px;border-radius:20px;font-size:13px;font-weight:600;margin-bottom:20px}
+.badge-gold{background:rgba(196,164,108,0.15);color:#C4A46C;border:1px solid rgba(196,164,108,0.3)}
+.badge-silver{background:rgba(180,178,169,0.12);color:#B4B2A9;border:1px solid rgba(180,178,169,0.2)}
+.badge-bronze{background:rgba(212,136,58,0.12);color:#D4883A;border:1px solid rgba(212,136,58,0.2)}
+.badge-contributor{background:rgba(92,176,138,0.12);color:#5CB08A;border:1px solid rgba(92,176,138,0.2)}
+.badge-new{background:rgba(90,90,93,0.12);color:#8A8A8D;border:1px solid rgba(90,90,93,0.2)}
+
+/* Stats row */
+.stats-row{display:flex;justify-content:center;gap:32px;margin-bottom:24px}
+.stat-item{text-align:center}
+.stat-num{font-size:24px;font-weight:500;font-family:var(--mono)}
+.stat-label{font-size:12px;color:var(--dim);text-transform:uppercase;letter-spacing:.06em}
+
+/* Share buttons */
+.share-row{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}
+.share-btn{padding:8px 18px;border-radius:6px;font-size:13px;font-weight:500;cursor:pointer;transition:all 0.15s;border:1px solid var(--border);background:var(--card2);color:var(--dim)}
+.share-btn:hover{border-color:var(--accent);color:var(--text)}
+.share-linkedin{border-color:rgba(10,102,194,0.3);color:#0A66C2}.share-linkedin:hover{background:rgba(10,102,194,0.1)}
+.share-twitter{border-color:rgba(29,161,242,0.3);color:#1DA1F2}.share-twitter:hover{background:rgba(29,161,242,0.1)}
+
+/* Industries */
+.section-title{font-family:var(--mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:12px}
+.industry-grid{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:32px}
+.industry-tag{padding:6px 14px;border-radius:8px;font-size:13px;background:var(--card);border:1px solid var(--border);color:var(--dim);display:flex;align-items:center;gap:6px}
+.industry-tag .count{font-family:var(--mono);font-size:11px;color:var(--accent)}
+
+/* Recent contributions */
+.contrib-list{margin-bottom:32px}
+.contrib-item{display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid var(--border)}
+.contrib-item:last-child{border-bottom:none}
+.contrib-type{font-size:11px;padding:2px 8px;border-radius:10px;font-weight:500;flex-shrink:0}
+.ct-review{background:rgba(91,142,201,0.12);color:#5B8EC9}
+.ct-website{background:rgba(92,176,138,0.12);color:#5CB08A}
+.ct-feature{background:rgba(212,136,58,0.12);color:#D4883A}
+.contrib-url{font-size:14px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.contrib-date{font-size:12px;color:var(--muted);flex-shrink:0}
+
+.member-since{font-size:13px;color:var(--muted);margin-top:20px}
+.footer{padding:40px 24px;border-top:1px solid var(--border);text-align:center;font-size:13px;color:var(--muted);margin-top:40px}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="/contribute.html">Contribute</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+
+<div class="container">
+  <div id="content"><div class="loading">Loading profile...</div></div>
+</div>
+
+<div class="footer">Data: CC BY-SA 4.0 · Code: MIT · © 2026 BenchmarkHQ</div>
+
+<script>
+const API = 'https://api.benchmarkhq.site';
+
+async function loadProfile() {
+  const params = new URLSearchParams(window.location.search);
+  const username = params.get('user') || params.get('u');
+  const el = document.getElementById('content');
+  
+  if (!username) {
+    el.innerHTML = '<div class="error"><h2 style="font-family:var(--serif);font-size:24px;margin-bottom:8px">No profile specified</h2><p>Visit <a href="/contribute.html">contribute</a> to create your contributor profile.</p></div>';
+    return;
+  }
+  
+  try {
+    const res = await fetch(`${API}/profile/${encodeURIComponent(username)}`);
+    if (!res.ok) throw new Error('not found');
+    const p = await res.json();
+    
+    document.title = `${p.display_name} — BenchmarkHQ Contributor`;
+    
+    const badgeLabels = {gold: 'Gold contributor', silver: 'Silver contributor', bronze: 'Bronze contributor', contributor: 'Contributor', new: 'New contributor'};
+    const joined = new Date(p.joined_at).toLocaleDateString('en-US', {month: 'long', year: 'numeric'});
+    
+    const shareText = encodeURIComponent(p.share_text);
+    const shareUrl = encodeURIComponent(`https://benchmarkhq.site/profile.html?user=${username}`);
+    const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${shareUrl}`;
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`;
+    
+    el.innerHTML = `
+      <div class="profile-card">
+        ${p.avatar_url ? `<img class="avatar" src="${p.avatar_url}" alt="${p.display_name}">` : ''}
+        <div class="display-name">${p.display_name}</div>
+        <div class="username">@${p.username}</div>
+        ${p.bio ? `<div class="bio">${p.bio}</div>` : ''}
+        
+        <div class="badge-pill badge-${p.badge_level}">
+          ${p.badge_level === 'gold' ? '&#9733;' : p.badge_level === 'silver' ? '&#9734;' : '&#9679;'}
+          ${badgeLabels[p.badge_level]}
+        </div>
+        
+        <div class="stats-row">
+          <div class="stat-item">
+            <div class="stat-num">${p.stats.approved_contributions}</div>
+            <div class="stat-label">Approved</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">${p.stats.total_contributions}</div>
+            <div class="stat-label">Total</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">${p.stats.industries_count}</div>
+            <div class="stat-label">Industries</div>
+          </div>
+        </div>
+        
+        <div class="share-row">
+          <a class="share-btn share-linkedin" href="${linkedinUrl}" target="_blank" rel="noopener">Share on LinkedIn</a>
+          <a class="share-btn share-twitter" href="${twitterUrl}" target="_blank" rel="noopener">Share on X</a>
+          <button class="share-btn" onclick="copyLink()">Copy link</button>
+        </div>
+        
+        <div class="member-since">Member since ${joined}</div>
+      </div>
+      
+      ${p.stats.industries.length ? `
+        <div class="section-title">Industries contributed to</div>
+        <div class="industry-grid">
+          ${p.stats.industries.map(i => `
+            <div class="industry-tag">${i.name.replace(/_/g, ' ')} <span class="count">${i.count}</span></div>
+          `).join('')}
+        </div>
+      ` : ''}
+      
+      ${p.recent_contributions.length ? `
+        <div class="section-title">Recent approved contributions</div>
+        <div class="contrib-list" style="background:var(--card);border:1px solid var(--border);border-radius:12px">
+          ${p.recent_contributions.map(c => `
+            <div class="contrib-item">
+              <span class="contrib-type ct-${c.type}">${c.type}</span>
+              <span class="contrib-url">${c.url || c.industry}</span>
+              <span class="contrib-date">${new Date(c.submitted_at).toLocaleDateString()}</span>
+            </div>
+          `).join('')}
+        </div>
+      ` : ''}
+    `;
+    
+  } catch(e) {
+    el.innerHTML = '<div class="error"><h2 style="font-family:var(--serif);font-size:24px;margin-bottom:8px">Profile not found</h2><p>This contributor doesn\'t exist yet. <a href="/contribute.html">Start contributing</a> to create your profile.</p></div>';
+  }
+}
+
+function copyLink() {
+  navigator.clipboard.writeText(window.location.href).then(() => {
+    event.target.textContent = 'Copied!';
+    setTimeout(() => event.target.textContent = 'Copy link', 2000);
+  });
+}
+
+loadProfile();
+</script>
+
+</body>
+</html>

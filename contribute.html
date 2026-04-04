@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contribute — BenchmarkHQ</title>
+<meta name="description" content="Help improve industry benchmarks. Submit feature reviews, add websites, or suggest new features for BenchmarkHQ.">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://benchmarkhq.site/contribute.html">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0C0C0E;--card:#141416;--card2:#1A1A1E;--text:#E8E6E3;--dim:#8A8A8D;--muted:#5A5A5D;--accent:#C4A46C;--accent-dim:#8B7544;--green:#5CB08A;--blue:#5B8EC9;--red:#C75F5F;--orange:#D4883A;--border:#222225;--serif:'Source Serif 4',Georgia,serif;--sans:'DM Sans',-apple-system,sans-serif;--mono:'JetBrains Mono',monospace}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
+::selection{background:var(--accent);color:var(--bg)}
+a{color:var(--accent);text-decoration:none}
+
+.nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
+.nav-inner{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
+.nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:28px;align-items:center}
+.nav-links a{font-size:14px;color:var(--dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
+.nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}
+
+.container{max-width:760px;margin:0 auto;padding:0 24px}
+
+.page-header{padding:80px 0 40px;border-bottom:1px solid var(--border)}
+.page-header h1{font-family:var(--serif);font-size:clamp(28px,5vw,42px);font-weight:300;margin-bottom:16px;line-height:1.2}
+.page-header h1 em{color:var(--accent);font-style:italic}
+.page-header p{font-size:17px;color:var(--dim);max-width:580px;line-height:1.7}
+
+.type-tabs{display:flex;gap:8px;margin:40px 0 32px;flex-wrap:wrap}
+.type-tab{padding:12px 20px;border:1px solid var(--border);border-radius:8px;background:var(--card);color:var(--dim);font-size:14px;cursor:pointer;transition:all 0.2s;font-family:var(--sans);text-align:left;flex:1;min-width:180px}
+.type-tab:hover{border-color:var(--accent-dim);color:var(--text)}
+.type-tab.active{border-color:var(--accent);color:var(--accent);background:rgba(196,164,108,0.06)}
+.type-tab-title{font-weight:600;margin-bottom:4px;font-size:14px}
+.type-tab-desc{font-size:12px;opacity:0.7}
+
+.form-section{display:none;padding:0 0 60px}
+.form-section.active{display:block}
+
+.form-group{margin-bottom:24px}
+.form-label{display:block;font-size:13px;font-weight:500;margin-bottom:8px;color:var(--text)}
+.form-label .optional{color:var(--muted);font-weight:400;font-size:12px}
+.form-hint{font-size:12px;color:var(--muted);margin-top:4px}
+
+input[type="text"],input[type="email"],input[type="url"],textarea,select{width:100%;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text);font-family:var(--sans);font-size:14px;outline:none;transition:border-color 0.2s}
+input:focus,textarea:focus,select:focus{border-color:var(--accent)}
+textarea{resize:vertical;min-height:100px}
+select{appearance:none;cursor:pointer}
+select option{background:var(--card);color:var(--text)}
+
+.feature-grid{display:grid;grid-template-columns:1fr;gap:6px;max-height:400px;overflow-y:auto;padding:12px;background:var(--card);border:1px solid var(--border);border-radius:8px}
+.feature-row{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:6px;transition:background 0.1s;cursor:pointer}
+.feature-row:hover{background:var(--card2)}
+.feature-row input[type="checkbox"]{width:18px;height:18px;accent-color:var(--accent);cursor:pointer;flex-shrink:0}
+.feature-row label{font-size:13px;cursor:pointer;flex:1}
+.feature-row .pct{font-family:var(--mono);font-size:11px;color:var(--muted);min-width:40px;text-align:right}
+.feature-cat{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:0.08em;color:var(--accent);padding:12px 10px 4px;font-weight:500}
+
+.screenshot-zone{border:2px dashed var(--border);border-radius:10px;padding:32px;text-align:center;cursor:pointer;transition:all 0.2s;background:var(--card)}
+.screenshot-zone:hover{border-color:var(--accent-dim)}
+.screenshot-zone.has-file{border-color:var(--green);border-style:solid}
+.screenshot-zone p{font-size:14px;color:var(--dim)}
+.screenshot-zone .icon{font-size:28px;margin-bottom:8px;color:var(--muted)}
+.screenshot-preview{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.screenshot-preview img{height:80px;border-radius:6px;border:1px solid var(--border)}
+
+.submit-btn{padding:14px 36px;background:var(--accent);color:var(--bg);border:none;border-radius:8px;font-weight:600;font-size:15px;cursor:pointer;font-family:var(--sans);transition:all 0.2s;display:inline-flex;align-items:center;gap:8px}
+.submit-btn:hover{background:var(--text)}
+.submit-btn:disabled{opacity:0.4;cursor:not-allowed}
+
+.success-msg{padding:20px;background:rgba(92,176,138,0.1);border:1px solid rgba(92,176,138,0.3);border-radius:10px;margin:20px 0;display:none}
+.success-msg.visible{display:block}
+.success-msg p{color:var(--green);font-size:14px}
+
+.trust-bar{display:flex;gap:24px;padding:24px 0;border-top:1px solid var(--border);margin-top:40px;flex-wrap:wrap}
+.trust-item{font-size:13px;color:var(--dim);display:flex;align-items:center;gap:6px}
+.trust-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+
+.guidelines{padding:32px 0;border-top:1px solid var(--border);margin-top:40px}
+.guidelines h3{font-family:var(--serif);font-size:20px;font-weight:400;margin-bottom:16px}
+.guide-item{padding:12px 0;border-bottom:1px solid var(--border);font-size:14px;color:var(--dim);display:flex;gap:12px}
+.guide-num{font-family:var(--mono);font-size:12px;color:var(--accent);min-width:24px}
+
+.footer{padding:40px 24px;border-top:1px solid var(--border);text-align:center;font-size:13px;color:var(--muted);margin-top:60px}
+
+@media(max-width:768px){
+  .nav-links a:not(.btn-nav){display:none}
+  .type-tabs{flex-direction:column}
+}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="/#data">Data</a><a href="/prompt-generator.html">AI Prompts</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+
+<div class="container">
+
+<div class="page-header">
+<h1>Help build the <em>standard.</em></h1>
+<p>Our benchmarks get better with every contribution. Review websites, add new ones, or suggest features that should be tracked. Every approved submission improves the data for everyone.</p>
+</div>
+
+<!-- CONTRIBUTION TYPE TABS -->
+<div class="type-tabs">
+  <div class="type-tab active" onclick="switchType('review')">
+    <div class="type-tab-title">Review a website</div>
+    <div class="type-tab-desc">Check which features a website has from our existing list</div>
+  </div>
+  <div class="type-tab" onclick="switchType('website')">
+    <div class="type-tab-title">Add a website</div>
+    <div class="type-tab-desc">Submit a new website to an existing industry benchmark</div>
+  </div>
+  <div class="type-tab" onclick="switchType('feature')">
+    <div class="type-tab-title">Suggest a feature</div>
+    <div class="type-tab-desc">Propose a new feature to track across an industry</div>
+  </div>
+</div>
+
+<!-- SUCCESS MESSAGE -->
+<div class="success-msg" id="successMsg">
+  <p id="successText"></p>
+</div>
+
+<!-- FORM 1: REVIEW A WEBSITE -->
+<div class="form-section active" id="form-review">
+  <div class="form-group">
+    <label class="form-label">Industry</label>
+    <select id="r-industry" onchange="loadFeatures('review')">
+      <option value="">Loading industries...</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Website URL</label>
+    <input type="url" id="r-url" placeholder="https://example.com">
+    <div class="form-hint">The homepage of the website you're reviewing</div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Features found on this website</label>
+    <div class="form-hint" style="margin-bottom:8px">Check every feature you can confirm exists. Leave unchecked if absent or unsure.</div>
+    <div class="feature-grid" id="r-features">
+      <p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Select an industry to load features</p>
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Screenshots <span class="optional">(optional — prioritized in review)</span></label>
+    <div class="screenshot-zone" id="r-dropzone" onclick="document.getElementById('r-files').click()">
+      <div class="icon">+</div>
+      <p>Click or drag screenshots here</p>
+      <p style="font-size:12px;color:var(--muted);margin-top:4px">PNG, JPG up to 5MB each. Up to 5 screenshots.</p>
+    </div>
+    <input type="file" id="r-files" multiple accept="image/*" style="display:none" onchange="handleFiles(this,'r')">
+    <div class="screenshot-preview" id="r-preview"></div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Your name <span class="optional">(optional — for contributor credit)</span></label>
+    <input type="text" id="r-name" placeholder="Jane Doe">
+  </div>
+  <div class="form-group">
+    <label class="form-label">Email <span class="optional">(optional — only for follow-up questions)</span></label>
+    <input type="email" id="r-email" placeholder="jane@example.com">
+  </div>
+  <button class="submit-btn" onclick="submitContribution('review')">Submit review</button>
+</div>
+
+<!-- FORM 2: ADD A WEBSITE -->
+<div class="form-section" id="form-website">
+  <div class="form-group">
+    <label class="form-label">Industry</label>
+    <select id="w-industry">
+      <option value="">Loading industries...</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Website URL</label>
+    <input type="url" id="w-url" placeholder="https://newsite.com">
+  </div>
+  <div class="form-group">
+    <label class="form-label">Website / company name</label>
+    <input type="text" id="w-name-site" placeholder="NewSite">
+  </div>
+  <div class="form-group">
+    <label class="form-label">Why should this website be included?</label>
+    <textarea id="w-reason" placeholder="Popular in [region], top 10 in [category], representative of [niche]..."></textarea>
+    <div class="form-hint">Help us understand why this site matters for the benchmark</div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Screenshot of homepage <span class="optional">(optional)</span></label>
+    <div class="screenshot-zone" id="w-dropzone" onclick="document.getElementById('w-files').click()">
+      <div class="icon">+</div>
+      <p>Click or drag screenshot here</p>
+    </div>
+    <input type="file" id="w-files" accept="image/*" style="display:none" onchange="handleFiles(this,'w')">
+    <div class="screenshot-preview" id="w-preview"></div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Your name <span class="optional">(optional)</span></label>
+    <input type="text" id="w-name" placeholder="Jane Doe">
+  </div>
+  <div class="form-group">
+    <label class="form-label">Email <span class="optional">(optional)</span></label>
+    <input type="email" id="w-email" placeholder="jane@example.com">
+  </div>
+  <button class="submit-btn" onclick="submitContribution('website')">Submit website</button>
+</div>
+
+<!-- FORM 3: SUGGEST A FEATURE -->
+<div class="form-section" id="form-feature">
+  <div class="form-group">
+    <label class="form-label">Industry (or "All industries")</label>
+    <select id="f-industry">
+      <option value="">Loading industries...</option>
+      <option value="all">All industries</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Feature name</label>
+    <input type="text" id="f-feature-name" placeholder="e.g., Dark mode toggle">
+    <div class="form-hint">Short, clear name for the feature</div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Feature description</label>
+    <textarea id="f-description" placeholder="What does this feature do? Why is it important for users in this industry?"></textarea>
+  </div>
+  <div class="form-group">
+    <label class="form-label">How common is this feature? (your estimate)</label>
+    <select id="f-estimate">
+      <option value="">Select...</option>
+      <option value="very_common">Very common (80%+ of sites have it)</option>
+      <option value="common">Common (50-79%)</option>
+      <option value="growing">Growing (25-49%)</option>
+      <option value="emerging">Emerging (under 25%)</option>
+      <option value="unsure">Not sure</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Example websites that have this feature</label>
+    <textarea id="f-examples" placeholder="amazon.com, shopify.com, etc. (one per line or comma-separated)"></textarea>
+    <div class="form-hint">Provide at least 2-3 examples so we can verify</div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Screenshot showing this feature <span class="optional">(optional)</span></label>
+    <div class="screenshot-zone" id="f-dropzone" onclick="document.getElementById('f-files').click()">
+      <div class="icon">+</div>
+      <p>Click or drag screenshot here</p>
+    </div>
+    <input type="file" id="f-files" accept="image/*" style="display:none" onchange="handleFiles(this,'f')">
+    <div class="screenshot-preview" id="f-preview"></div>
+  </div>
+  <div class="form-group">
+    <label class="form-label">Your name <span class="optional">(optional)</span></label>
+    <input type="text" id="f-name" placeholder="Jane Doe">
+  </div>
+  <div class="form-group">
+    <label class="form-label">Email <span class="optional">(optional)</span></label>
+    <input type="email" id="f-email" placeholder="jane@example.com">
+  </div>
+  <button class="submit-btn" onclick="submitContribution('feature')">Submit suggestion</button>
+</div>
+
+<!-- TRUST INDICATORS -->
+<div class="trust-bar">
+  <div class="trust-item"><div class="trust-dot" style="background:var(--green)"></div> All submissions are reviewed before going live</div>
+  <div class="trust-item"><div class="trust-dot" style="background:var(--blue)"></div> Screenshots prioritized in review queue</div>
+  <div class="trust-item"><div class="trust-dot" style="background:var(--accent)"></div> Contributors credited on benchmark pages</div>
+</div>
+
+<!-- GUIDELINES -->
+<div class="guidelines">
+  <h3>Contribution guidelines</h3>
+  <div class="guide-item"><span class="guide-num">01</span><span>Only submit features you've personally verified by visiting the website. Don't guess.</span></div>
+  <div class="guide-item"><span class="guide-num">02</span><span>Screenshots significantly speed up the review process. Include them when possible.</span></div>
+  <div class="guide-item"><span class="guide-num">03</span><span>For feature reviews, check the feature on the live website — not from memory or documentation.</span></div>
+  <div class="guide-item"><span class="guide-num">04</span><span>When suggesting new features, provide at least 2-3 example websites that have it.</span></div>
+  <div class="guide-item"><span class="guide-num">05</span><span>One submission per website per industry. Duplicate submissions are merged automatically.</span></div>
+</div>
+
+</div>
+
+<div class="footer">Data: CC BY-SA 4.0 · Code: MIT · © 2026 BenchmarkHQ</div>
+
+<script>
+const API = 'https://api.benchmarkhq.site';
+let industries = [];
+let currentFeatures = {};
+let uploadedFiles = {r: [], w: [], f: []};
+
+// Load industries on page load
+async function loadIndustries() {
+  try {
+    const res = await fetch(`${API}/industries`);
+    const data = await res.json();
+    industries = data.industries;
+    
+    ['r-industry','w-industry','f-industry'].forEach(id => {
+      const sel = document.getElementById(id);
+      if (!sel) return;
+      const existing = id === 'f-industry' ? '<option value="all">All industries</option>' : '';
+      sel.innerHTML = `<option value="">-- Select industry --</option>${existing}`;
+      
+      const cats = {};
+      industries.forEach(ind => {
+        const cat = ind.category || 'other';
+        if (!cats[cat]) cats[cat] = [];
+        cats[cat].push(ind);
+      });
+      
+      const catNames = {ecommerce:'E-commerce', saas:'SaaS', news:'News & Media', restaurant:'Restaurant'};
+      for (const [cat, items] of Object.entries(cats)) {
+        const group = document.createElement('optgroup');
+        group.label = catNames[cat] || cat;
+        items.sort((a,b) => a.name.localeCompare(b.name)).forEach(ind => {
+          const opt = document.createElement('option');
+          opt.value = ind.key;
+          opt.textContent = ind.name;
+          group.appendChild(opt);
+        });
+        sel.appendChild(group);
+      }
+    });
+  } catch(e) {
+    console.error('Failed to load industries:', e);
+  }
+}
+
+// Load features for selected industry
+async function loadFeatures(formType) {
+  const indKey = document.getElementById(`${formType === 'review' ? 'r' : 'w'}-industry`).value;
+  const container = document.getElementById('r-features');
+  
+  if (!indKey) {
+    container.innerHTML = '<p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Select an industry to load features</p>';
+    return;
+  }
+  
+  container.innerHTML = '<p style="color:var(--muted);font-size:13px;padding:20px;text-align:center">Loading features...</p>';
+  
+  try {
+    const res = await fetch(`${API}/benchmark/${indKey}`);
+    const data = await res.json();
+    currentFeatures = data.features;
+    
+    // Group by classification
+    const groups = {CRITICAL: [], REQUIRED: [], RECOMMENDED: [], OPTIONAL: []};
+    for (const [fid, fdata] of Object.entries(data.features)) {
+      const cls = fdata.classification || 'OPTIONAL';
+      if (!groups[cls]) groups[cls] = [];
+      groups[cls].push({id: fid, pct: fdata.percentage, desc: fdata.description || fid});
+    }
+    
+    let html = '';
+    const clsColors = {CRITICAL:'var(--red)', REQUIRED:'var(--orange)', RECOMMENDED:'var(--blue)', OPTIONAL:'var(--muted)'};
+    
+    for (const [cls, feats] of Object.entries(groups)) {
+      if (!feats.length) continue;
+      feats.sort((a,b) => b.pct - a.pct);
+      html += `<div class="feature-cat" style="color:${clsColors[cls]}">${cls} (${feats.length})</div>`;
+      feats.forEach(f => {
+        html += `<div class="feature-row" onclick="this.querySelector('input').click()">
+          <input type="checkbox" value="${f.id}" onclick="event.stopPropagation()">
+          <label>${f.id.replace(/_/g,' ')}</label>
+          <span class="pct">${f.pct}%</span>
+        </div>`;
+      });
+    }
+    
+    container.innerHTML = html;
+  } catch(e) {
+    container.innerHTML = '<p style="color:var(--red);font-size:13px;padding:20px;text-align:center">Failed to load features. Try again.</p>';
+  }
+}
+
+// Tab switching
+function switchType(type) {
+  document.querySelectorAll('.type-tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.form-section').forEach(f => f.classList.remove('active'));
+  event.currentTarget.classList.add('active');
+  document.getElementById(`form-${type}`).classList.add('active');
+  document.getElementById('successMsg').classList.remove('visible');
+}
+
+// File handling
+function handleFiles(input, prefix) {
+  const files = Array.from(input.files);
+  const maxFiles = prefix === 'r' ? 5 : 1;
+  const preview = document.getElementById(`${prefix}-preview`);
+  const dropzone = document.getElementById(`${prefix}-dropzone`);
+  
+  files.slice(0, maxFiles).forEach(file => {
+    if (file.size > 5 * 1024 * 1024) { alert('File too large (max 5MB)'); return; }
+    
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      uploadedFiles[prefix].push({name: file.name, data: e.target.result});
+      const img = document.createElement('img');
+      img.src = e.target.result;
+      preview.appendChild(img);
+      dropzone.classList.add('has-file');
+    };
+    reader.readAsDataURL(file);
+  });
+}
+
+// Drag and drop
+['r','w','f'].forEach(prefix => {
+  const dz = document.getElementById(`${prefix}-dropzone`);
+  if (!dz) return;
+  dz.addEventListener('dragover', e => { e.preventDefault(); dz.style.borderColor = 'var(--accent)'; });
+  dz.addEventListener('dragleave', () => { dz.style.borderColor = ''; });
+  dz.addEventListener('drop', e => {
+    e.preventDefault();
+    dz.style.borderColor = '';
+    const input = document.getElementById(`${prefix}-files`);
+    input.files = e.dataTransfer.files;
+    handleFiles(input, prefix);
+  });
+});
+
+// Submit contribution
+async function submitContribution(type) {
+  const btn = event.currentTarget;
+  btn.disabled = true;
+  btn.textContent = 'Submitting...';
+  
+  let payload = { type, submitted_at: new Date().toISOString() };
+  
+  if (type === 'review') {
+    const checkedFeatures = Array.from(document.querySelectorAll('#r-features input:checked')).map(cb => cb.value);
+    if (!document.getElementById('r-industry').value) { alert('Please select an industry'); btn.disabled = false; btn.textContent = 'Submit review'; return; }
+    if (!document.getElementById('r-url').value) { alert('Please enter a website URL'); btn.disabled = false; btn.textContent = 'Submit review'; return; }
+    if (checkedFeatures.length === 0) { alert('Please check at least one feature'); btn.disabled = false; btn.textContent = 'Submit review'; return; }
+    
+    payload.industry = document.getElementById('r-industry').value;
+    payload.url = document.getElementById('r-url').value;
+    payload.features_found = checkedFeatures;
+    payload.features_total = Object.keys(currentFeatures).length;
+    payload.contributor_name = document.getElementById('r-name').value;
+    payload.contributor_email = document.getElementById('r-email').value;
+    payload.screenshots = uploadedFiles.r.map(f => f.name);
+    payload.has_screenshots = uploadedFiles.r.length > 0;
+  }
+  else if (type === 'website') {
+    if (!document.getElementById('w-industry').value) { alert('Please select an industry'); btn.disabled = false; btn.textContent = 'Submit website'; return; }
+    if (!document.getElementById('w-url').value) { alert('Please enter a website URL'); btn.disabled = false; btn.textContent = 'Submit website'; return; }
+    
+    payload.industry = document.getElementById('w-industry').value;
+    payload.url = document.getElementById('w-url').value;
+    payload.site_name = document.getElementById('w-name-site').value;
+    payload.reason = document.getElementById('w-reason').value;
+    payload.contributor_name = document.getElementById('w-name').value;
+    payload.contributor_email = document.getElementById('w-email').value;
+    payload.has_screenshots = uploadedFiles.w.length > 0;
+  }
+  else if (type === 'feature') {
+    if (!document.getElementById('f-feature-name').value) { alert('Please enter a feature name'); btn.disabled = false; btn.textContent = 'Submit suggestion'; return; }
+    
+    payload.industry = document.getElementById('f-industry').value;
+    payload.feature_name = document.getElementById('f-feature-name').value;
+    payload.description = document.getElementById('f-description').value;
+    payload.prevalence_estimate = document.getElementById('f-estimate').value;
+    payload.example_sites = document.getElementById('f-examples').value;
+    payload.contributor_name = document.getElementById('f-name').value;
+    payload.contributor_email = document.getElementById('f-email').value;
+    payload.has_screenshots = uploadedFiles.f.length > 0;
+  }
+  
+  // Calculate confidence score
+  payload.confidence_score = calcConfidence(payload);
+  
+  try {
+    const res = await fetch(`${API}/contribute`, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(payload)
+    });
+    
+    if (res.ok) {
+      const data = await res.json();
+      const msg = document.getElementById('successMsg');
+      const labels = {review: 'Website review', website: 'Website suggestion', feature: 'Feature suggestion'};
+      document.getElementById('successText').textContent = 
+        `${labels[type]} submitted successfully! It's now in the review queue. ${payload.has_screenshots ? 'Your screenshots will help it get reviewed faster.' : 'Tip: submissions with screenshots get reviewed first.'}`;
+      msg.classList.add('visible');
+      window.scrollTo({top: msg.offsetTop - 100, behavior: 'smooth'});
+    } else {
+      const err = await res.json().catch(() => ({}));
+      alert(err.detail || 'Submission failed. Please try again.');
+    }
+  } catch(e) {
+    alert('Network error. Please check your connection and try again.');
+  }
+  
+  btn.disabled = false;
+  const labels = {review: 'Submit review', website: 'Submit website', feature: 'Submit suggestion'};
+  btn.textContent = labels[type];
+}
+
+function calcConfidence(p) {
+  let score = 0;
+  if (p.has_screenshots) score += 30;
+  if (p.contributor_name) score += 10;
+  if (p.contributor_email) score += 15;
+  if (p.url && p.url.startsWith('https')) score += 10;
+  if (p.type === 'review' && p.features_found) {
+    if (p.features_found.length >= 5) score += 15;
+    if (p.features_found.length >= 10) score += 10;
+  }
+  if (p.type === 'feature' && p.example_sites && p.example_sites.length > 20) score += 15;
+  if (p.type === 'website' && p.reason && p.reason.length > 30) score += 15;
+  return Math.min(score, 100);
+}
+
+loadIndustries();
+</script>
+
+</body>
+</html>
