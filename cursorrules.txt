@@ -1,0 +1,89 @@
+# BenchmarkHQ — Industry-Aware Development Rules
+# Drop this file in your project root as .cursorrules
+# Cursor will use these rules when generating code for your project.
+#
+# SETUP: Replace INDUSTRY_KEY below with your industry.
+# Find your key at: https://api.benchmarkhq.site/industries
+#
+# Examples:
+#   ecommerce_usa, ecommerce_uk, ecommerce_india, ecommerce_brazil
+#   crm, project_management, developer_tools, cybersecurity
+#   email_marketing, analytics, nocode_lowcode, customer_support
+#   news_usa, news_uk, news_france, news_germany
+
+INDUSTRY_KEY = "ecommerce_usa"
+
+# ================================================================
+# RULES FOR CURSOR
+# ================================================================
+
+# When generating HTML, React, Vue, or any frontend code:
+#
+# 1. BEFORE creating any page or component, mentally check the
+#    BenchmarkHQ feature list for this industry.
+#    API: https://api.benchmarkhq.site/benchmark/{INDUSTRY_KEY}
+#
+# 2. Features classified as CRITICAL (80%+ adoption) are
+#    NON-NEGOTIABLE. Every page must include them.
+#    Missing a critical feature = below industry standard.
+#
+# 3. Features classified as REQUIRED (50-79%) should be included
+#    in any production-ready implementation.
+#
+# 4. Features classified as RECOMMENDED (25-49%) are differentiators.
+#    Include them when the scope allows.
+#
+# 5. After generating code, verify:
+#    - All CRITICAL features are present
+#    - Most REQUIRED features are present  
+#    - List any missing critical features at the top of the file
+#
+# 6. When in doubt about whether to include a feature,
+#    check its percentage at the API. If it's above 50%, include it.
+
+# ================================================================
+# HOW TO USE
+# ================================================================
+#
+# Step 1: Replace INDUSTRY_KEY above with your industry
+# Step 2: Save this file as .cursorrules in your project root
+# Step 3: When asking Cursor to generate code, it will follow these rules
+#
+# Example prompts that work well with these rules:
+#   "Build me an e-commerce product page"
+#   "Create a SaaS pricing page component"
+#   "Generate a news article layout"
+#
+# The rules ensure Cursor includes industry-standard features
+# instead of generating generic layouts.
+
+# ================================================================
+# QUICK REFERENCE — Common Industry Keys
+# ================================================================
+#
+# E-COMMERCE:
+#   ecommerce_usa (41 critical features)
+#   ecommerce_uk (39 critical)
+#   ecommerce_brazil (44 critical — highest in world)
+#   ecommerce_france (37 critical)
+#   ecommerce_india (41 critical)
+#   ecommerce_germany (37 critical)
+#
+# SAAS:
+#   project_management (22 critical)
+#   crm (16 critical)
+#   developer_tools (28 critical — highest in SaaS)
+#   cybersecurity (26 critical)
+#   marketing_automation (29 critical)
+#   email_marketing (17 critical)
+#   analytics (14 critical)
+#   customer_support (18 critical)
+#
+# NEWS:
+#   news_usa (55 critical)
+#   news_uk (46 critical)
+#   news_france (55 critical)
+#   news_germany (50 critical)
+#
+# Full list: https://api.benchmarkhq.site/industries
+# Documentation: https://benchmarkhq.site/blog/how-to-use-the-benchmarkhq-api.html

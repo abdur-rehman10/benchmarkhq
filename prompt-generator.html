@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Prompt Generator — BenchmarkHQ</title>
+<meta name="description" content="Generate AI prompts with industry-standard feature checklists. Stop AI drift — give Claude, ChatGPT, or Cursor the benchmark before generating.">
+<meta name="keywords" content="ai prompt generator, website benchmark prompt, claude prompt, chatgpt prompt, cursor rules, web development ai">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://benchmarkhq.site/prompt-generator.html">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0C0C0E;--bg-card:#141416;--bg-card-hover:#1A1A1E;--text:#E8E6E3;--text-dim:#8A8A8D;--text-muted:#5A5A5D;--accent:#C4A46C;--accent-dim:#8B7544;--green:#5CB08A;--blue:#5B8EC9;--red:#C75F5F;--border:#222225;--serif:'Source Serif 4',Georgia,serif;--sans:'DM Sans',-apple-system,sans-serif;--mono:'JetBrains Mono',monospace}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;-webkit-font-smoothing:antialiased}
+::selection{background:var(--accent);color:var(--bg)}
+a{color:var(--accent);text-decoration:none}a:hover{color:var(--text)}
+
+.nav{padding:20px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(12,12,14,0.95);backdrop-filter:blur(10px);z-index:100}
+.nav-inner{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
+.nav-logo{font-family:var(--serif);font-size:20px;font-weight:600;color:var(--text)}.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:28px;align-items:center}
+.nav-links a{font-size:14px;color:var(--text-dim);transition:color 0.2s}.nav-links a:hover{color:var(--text)}
+.nav-links .btn-nav{background:var(--accent);color:var(--bg);padding:8px 20px;border-radius:6px;font-weight:600;font-size:13px}
+
+.container{max-width:900px;margin:0 auto;padding:0 24px}
+
+.page-header{padding:80px 0 40px;border-bottom:1px solid var(--border)}
+.page-header h1{font-family:var(--serif);font-size:clamp(28px,5vw,42px);font-weight:300;margin-bottom:16px;line-height:1.2}
+.page-header h1 em{color:var(--accent);font-style:italic}
+.page-header p{font-size:17px;color:var(--text-dim);max-width:620px;line-height:1.7}
+
+.tool-section{padding:48px 0;border-bottom:1px solid var(--border)}
+.tool-label{font-family:var(--mono);font-size:12px;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent);margin-bottom:16px}
+.tool-title{font-family:var(--serif);font-size:24px;font-weight:400;margin-bottom:8px}
+.tool-desc{font-size:15px;color:var(--text-dim);margin-bottom:24px;max-width:600px}
+
+.select-wrap{position:relative;margin-bottom:20px}
+.select-wrap select{width:100%;padding:14px 16px;background:var(--bg-card);border:1px solid var(--border);border-radius:8px;color:var(--text);font-family:var(--sans);font-size:15px;appearance:none;cursor:pointer;outline:none}
+.select-wrap select:focus{border-color:var(--accent)}
+.select-wrap::after{content:'▾';position:absolute;right:16px;top:50%;transform:translateY(-50%);color:var(--text-muted);pointer-events:none}
+.select-wrap select option{background:var(--bg-card);color:var(--text)}
+
+.ai-select{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap}
+.ai-btn{padding:10px 20px;border:1px solid var(--border);border-radius:8px;background:var(--bg-card);color:var(--text-dim);font-size:14px;cursor:pointer;transition:all 0.2s;font-family:var(--sans)}
+.ai-btn:hover{border-color:var(--accent-dim);color:var(--text)}
+.ai-btn.active{border-color:var(--accent);color:var(--accent);background:rgba(196,164,108,0.08)}
+
+.generate-btn{padding:14px 32px;background:var(--accent);color:var(--bg);border:none;border-radius:8px;font-weight:600;font-size:15px;cursor:pointer;font-family:var(--sans);transition:all 0.2s}
+.generate-btn:hover{background:var(--text)}
+.generate-btn:disabled{opacity:0.4;cursor:not-allowed}
+
+.output{margin-top:24px;display:none}
+.output.visible{display:block}
+.output-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.output-header span{font-family:var(--mono);font-size:12px;color:var(--accent);text-transform:uppercase;letter-spacing:0.08em}
+.copy-btn{padding:8px 20px;background:var(--bg-card);border:1px solid var(--border);border-radius:6px;color:var(--text-dim);font-size:13px;cursor:pointer;font-family:var(--sans);transition:all 0.2s}
+.copy-btn:hover{border-color:var(--accent);color:var(--text)}
+.copy-btn.copied{border-color:var(--green);color:var(--green)}
+
+.output-box{background:#0A0A0C;border:1px solid var(--border);border-radius:10px;padding:24px;font-family:var(--mono);font-size:13px;line-height:1.7;color:var(--text-dim);white-space:pre-wrap;word-wrap:break-word;max-height:500px;overflow-y:auto}
+
+.stats-bar{display:flex;gap:24px;margin-top:16px;flex-wrap:wrap}
+.stat-pill{font-family:var(--mono);font-size:12px;padding:6px 14px;border-radius:20px;border:1px solid var(--border)}
+.stat-pill.critical{border-color:var(--green);color:var(--green)}
+.stat-pill.required{border-color:var(--accent);color:var(--accent)}
+.stat-pill.recommended{border-color:var(--blue);color:var(--blue)}
+
+.loading{color:var(--text-muted);font-size:14px;padding:20px 0}
+.loading::after{content:'';animation:dots 1.5s infinite}
+@keyframes dots{0%{content:''}25%{content:'.'}50%{content:'..'}75%{content:'...'}}
+
+.how-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin-top:24px}
+.how-card{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:24px}
+.how-card-num{font-family:var(--mono);font-size:12px;color:var(--accent);margin-bottom:8px}
+.how-card h3{font-family:var(--serif);font-size:17px;font-weight:400;margin-bottom:8px}
+.how-card p{font-size:14px;color:var(--text-dim);line-height:1.6}
+
+.footer{padding:40px 24px;border-top:1px solid var(--border);text-align:center;font-size:13px;color:var(--text-muted);margin-top:60px}
+
+@media(max-width:768px){
+  .nav-links a:not(.btn-nav){display:none}
+  .ai-select{gap:8px}
+  .ai-btn{padding:8px 14px;font-size:13px}
+}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links"><a href="/#data">Data</a><a href="/#api">API</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+
+<div class="container">
+
+<div class="page-header">
+<h1>Stop AI drift. Give it the <em>benchmark.</em></h1>
+<p>Select your industry, pick your AI tool, and get a ready-to-paste prompt with every critical feature your website needs. No more guessing.</p>
+</div>
+
+<!-- GENERATOR -->
+<div class="tool-section">
+<div class="tool-label">Step 1 — Pick your industry</div>
+
+<div class="select-wrap">
+<select id="industrySelect" onchange="onIndustryChange()">
+<option value="">Loading industries...</option>
+</select>
+</div>
+
+<div class="tool-label" style="margin-top:32px">Step 2 — Pick your AI tool</div>
+<div class="ai-select">
+<button class="ai-btn active" onclick="selectAI(this,'claude')">Claude</button>
+<button class="ai-btn" onclick="selectAI(this,'chatgpt')">ChatGPT</button>
+<button class="ai-btn" onclick="selectAI(this,'cursor')">Cursor</button>
+<button class="ai-btn" onclick="selectAI(this,'generic')">Generic / Other</button>
+</div>
+
+<div class="tool-label" style="margin-top:32px">Step 3 — Generate</div>
+<button class="generate-btn" id="generateBtn" onclick="generatePrompt()" disabled>Generate Prompt</button>
+
+<div class="output" id="output">
+<div class="output-header">
+<span id="outputLabel">Generated prompt</span>
+<button class="copy-btn" id="copyBtn" onclick="copyPrompt()">Copy to clipboard</button>
+</div>
+<div class="stats-bar" id="statsBar"></div>
+<div class="output-box" id="outputBox"></div>
+</div>
+</div>
+
+<!-- HOW IT WORKS -->
+<div class="tool-section">
+<div class="tool-label">How it works</div>
+<div class="tool-title">Three steps to better AI-generated websites</div>
+<div class="how-cards">
+<div class="how-card">
+<div class="how-card-num">01</div>
+<h3>Pick your industry</h3>
+<p>187 industries available — e-commerce in 19 countries, 20 SaaS categories, news in 145 countries.</p>
+</div>
+<div class="how-card">
+<div class="how-card-num">02</div>
+<h3>Copy the prompt</h3>
+<p>The prompt includes every CRITICAL and REQUIRED feature with adoption percentages. Paste it before your design request.</p>
+</div>
+<div class="how-card">
+<div class="how-card-num">03</div>
+<h3>Generate with confidence</h3>
+<p>Your AI now knows what the industry expects. No more missing search bars, review systems, or payment badges.</p>
+</div>
+</div>
+</div>
+
+<!-- DOWNLOADS -->
+<div class="tool-section">
+<div class="tool-label">Pre-built files</div>
+<div class="tool-title">Drop these into your project</div>
+<div class="tool-desc">Ready-made configuration files for popular AI tools. Download, customize your industry, and start building.</div>
+
+<div class="how-cards">
+<div class="how-card">
+<div class="how-card-num">.cursorrules</div>
+<h3>Cursor Rules File</h3>
+<p>Drop in your project root. Cursor will check features against benchmarks during generation.</p>
+<a href="/cursorrules.txt" download=".cursorrules" style="display:inline-block;margin-top:12px;padding:8px 16px;border:1px solid var(--border);border-radius:6px;font-size:13px;color:var(--text-dim)">Download .cursorrules</a>
+</div>
+<div class="how-card">
+<div class="how-card-num">Custom Instructions</div>
+<h3>Claude / ChatGPT</h3>
+<p>Paste into Claude's system prompt or ChatGPT's Custom Instructions. Works for every conversation.</p>
+<a href="/ai-instructions.txt" download="ai-instructions.txt" style="display:inline-block;margin-top:12px;padding:8px 16px;border:1px solid var(--border);border-radius:6px;font-size:13px;color:var(--text-dim)">Download instructions</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="footer">Data: CC BY-SA 4.0 · Code: MIT · © 2026 BenchmarkHQ</div>
+
+<script>
+const API = 'https://api.benchmarkhq.site';
+let industries = [];
+let selectedAI = 'claude';
+let selectedIndustry = '';
+let benchmarkData = null;
+
+async function loadIndustries() {
+  try {
+    const res = await fetch(`${API}/industries`);
+    const data = await res.json();
+    industries = data.industries;
+    const sel = document.getElementById('industrySelect');
+    
+    const cats = {};
+    industries.forEach(ind => {
+      const cat = ind.category || 'other';
+      if (!cats[cat]) cats[cat] = [];
+      cats[cat].push(ind);
+    });
+
+    sel.innerHTML = '<option value="">— Select your industry —</option>';
+    const catNames = {ecommerce: 'E-commerce', saas: 'SaaS', news: 'News & Media', general: 'Other'};
+    
+    for (const [cat, items] of Object.entries(cats)) {
+      const group = document.createElement('optgroup');
+      group.label = catNames[cat] || cat;
+      items.sort((a,b) => a.name.localeCompare(b.name)).forEach(ind => {
+        const opt = document.createElement('option');
+        opt.value = ind.key;
+        opt.textContent = `${ind.name} (${ind.sites_analyzed} sites, ${ind.critical} critical)`;
+        group.appendChild(opt);
+      });
+      sel.appendChild(group);
+    }
+  } catch(e) {
+    document.getElementById('industrySelect').innerHTML = '<option>Error loading — try refreshing</option>';
+  }
+}
+
+function onIndustryChange() {
+  selectedIndustry = document.getElementById('industrySelect').value;
+  document.getElementById('generateBtn').disabled = !selectedIndustry;
+  document.getElementById('output').classList.remove('visible');
+  benchmarkData = null;
+}
+
+function selectAI(btn, ai) {
+  document.querySelectorAll('.ai-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  selectedAI = ai;
+  if (benchmarkData) generatePrompt();
+}
+
+async function generatePrompt() {
+  if (!selectedIndustry) return;
+  
+  const btn = document.getElementById('generateBtn');
+  const output = document.getElementById('output');
+  const box = document.getElementById('outputBox');
+  const stats = document.getElementById('statsBar');
+  
+  btn.disabled = true;
+  btn.textContent = 'Loading...';
+  
+  try {
+    if (!benchmarkData) {
+      const res = await fetch(`${API}/benchmark/${selectedIndustry}`);
+      benchmarkData = await res.json();
+    }
+
+    const features = benchmarkData.features;
+    const critical = [], required = [], recommended = [];
+    
+    for (const [fid, fdata] of Object.entries(features)) {
+      const item = {id: fid, pct: fdata.percentage, desc: fdata.description || fid};
+      if (fdata.classification === 'CRITICAL') critical.push(item);
+      else if (fdata.classification === 'REQUIRED') required.push(item);
+      else if (fdata.classification === 'RECOMMENDED') recommended.push(item);
+    }
+
+    critical.sort((a,b) => b.pct - a.pct);
+    required.sort((a,b) => b.pct - a.pct);
+    recommended.sort((a,b) => b.pct - a.pct);
+
+    stats.innerHTML = `
+      <span class="stat-pill critical">${critical.length} CRITICAL</span>
+      <span class="stat-pill required">${required.length} REQUIRED</span>
+      <span class="stat-pill recommended">${recommended.length} RECOMMENDED</span>
+    `;
+
+    let prompt = '';
+    const indName = benchmarkData.name || selectedIndustry;
+    const sites = benchmarkData.sites_analyzed || '30';
+
+    if (selectedAI === 'cursor') {
+      prompt = generateCursorPrompt(indName, sites, critical, required, recommended);
+    } else if (selectedAI === 'claude') {
+      prompt = generateClaudePrompt(indName, sites, critical, required, recommended);
+    } else if (selectedAI === 'chatgpt') {
+      prompt = generateChatGPTPrompt(indName, sites, critical, required, recommended);
+    } else {
+      prompt = generateGenericPrompt(indName, sites, critical, required, recommended);
+    }
+
+    box.textContent = prompt;
+    output.classList.add('visible');
+    document.getElementById('outputLabel').textContent = `${selectedAI.toUpperCase()} prompt — ${indName}`;
+    
+  } catch(e) {
+    box.textContent = 'Error loading benchmark data. Try again.';
+    output.classList.add('visible');
+  }
+  
+  btn.disabled = false;
+  btn.textContent = 'Generate Prompt';
+}
+
+function featureList(items, label) {
+  if (!items.length) return '';
+  let out = `\n${label}:\n`;
+  items.forEach(f => { out += `- ${f.id} (${f.pct}% adoption)\n`; });
+  return out;
+}
+
+function generateClaudePrompt(name, sites, critical, required, recommended) {
+  return `You are building a website for the ${name} industry.
+
+Before generating any code, UI, or design, you MUST ensure the output includes all CRITICAL features listed below. These are features that 80%+ of real websites in this industry have, based on analysis of ${sites} real websites by BenchmarkHQ (benchmarkhq.site).
+
+Missing a CRITICAL feature means the website is below industry standard.
+${featureList(critical, 'CRITICAL features (80%+ of sites have these — MUST include all)')}${featureList(required, 'REQUIRED features (50-79% — should include most)')}${featureList(recommended, 'RECOMMENDED features (25-49% — include where relevant)')}
+INSTRUCTIONS:
+1. Include ALL critical features in your implementation
+2. Include as many required features as the scope allows
+3. After generating, list which critical features are present and which are missing
+4. If any critical feature is missing, explain why and suggest how to add it
+
+Data source: BenchmarkHQ API (api.benchmarkhq.site/benchmark/${selectedIndustry})`;
+}
+
+function generateChatGPTPrompt(name, sites, critical, required, recommended) {
+  return `# Industry Benchmark Context
+
+You are helping build a website for the ${name} industry. Use the following benchmark data to ensure the website meets industry standards.
+
+This data comes from analyzing ${sites} real websites in this industry (source: BenchmarkHQ — benchmarkhq.site).
+
+## Feature Classifications
+- CRITICAL (80%+): Users expect this. Must have.
+- REQUIRED (50-79%): Most competitors have it. Should have.
+- RECOMMENDED (25-49%): Differentiator. Nice to have.
+${featureList(critical, '## CRITICAL — Must include all')}${featureList(required, '## REQUIRED — Include most')}${featureList(recommended, '## RECOMMENDED — Include where relevant')}
+## Rules
+1. Every CRITICAL feature must appear in the generated output
+2. After generating, verify each critical feature is present
+3. Flag any missing critical features
+
+API: api.benchmarkhq.site/benchmark/${selectedIndustry}`;
+}
+
+function generateCursorPrompt(name, sites, critical, required, recommended) {
+  return `# BenchmarkHQ Industry Standards
+# Source: api.benchmarkhq.site/benchmark/${selectedIndustry}
+# Based on analysis of ${sites} real ${name} websites
+
+# When generating UI components, pages, or full websites for this industry,
+# ensure ALL critical features are present. Missing critical features means
+# the output is below industry standard.
+${featureList(critical, '# CRITICAL (80%+ adoption — must include)')}${featureList(required, '# REQUIRED (50-79% — should include)')}${featureList(recommended, '# RECOMMENDED (25-49% — nice to have)')}
+# After generating code, verify:
+# 1. All CRITICAL features are implemented
+# 2. Most REQUIRED features are present
+# 3. No critical feature was accidentally omitted`;
+}
+
+function generateGenericPrompt(name, sites, critical, required, recommended) {
+  return `INDUSTRY BENCHMARK: ${name}
+Source: BenchmarkHQ (benchmarkhq.site)
+Data: ${sites} real websites analyzed
+
+The following features are standard in the ${name} industry. When building a website for this industry, ensure these features are present.
+${featureList(critical, 'CRITICAL (80%+ of sites — must have)')}${featureList(required, 'REQUIRED (50-79% — should have)')}${featureList(recommended, 'RECOMMENDED (25-49% — nice to have)')}
+Verify all critical features are present in the final output.
+
+API: api.benchmarkhq.site/benchmark/${selectedIndustry}`;
+}
+
+function copyPrompt() {
+  const text = document.getElementById('outputBox').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('copyBtn');
+    btn.textContent = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = 'Copy to clipboard'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+
+loadIndustries();
+</script>
+
+</body>
+</html>

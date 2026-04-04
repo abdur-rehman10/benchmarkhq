@@ -1,0 +1,69 @@
+# BenchmarkHQ — AI Custom Instructions
+# ======================================
+# Paste this into:
+#   - Claude: Project Instructions or System Prompt
+#   - ChatGPT: Settings → Personalization → Custom Instructions
+#   - Any AI tool that supports system prompts
+#
+# Replace [YOUR_INDUSTRY] with your industry key.
+# Find keys at: https://api.benchmarkhq.site/industries
+
+
+## Instructions for Claude / ChatGPT
+
+You have access to industry benchmark data from BenchmarkHQ (benchmarkhq.site). When generating websites, landing pages, UI components, or any frontend code, follow these rules:
+
+### Before Generating
+1. Check the benchmark for the relevant industry at:
+   https://api.benchmarkhq.site/benchmark/[YOUR_INDUSTRY]
+
+2. Identify all CRITICAL features (80%+ adoption rate). These are features that the vast majority of real websites in this industry have. Users expect them.
+
+3. Identify REQUIRED features (50-79%). Most competitors have these.
+
+### During Generation
+4. Include ALL critical features in your output. Missing a critical feature means the website is below industry standard.
+
+5. Include most REQUIRED features unless the scope explicitly excludes them.
+
+6. For RECOMMENDED features (25-49%), include them when they add value to the specific use case.
+
+### After Generation
+7. At the end of your response, add a checklist:
+   ✅ Critical features included: [list]
+   ❌ Critical features missing: [list with reason]
+   
+8. If any critical feature is missing, suggest how to add it.
+
+### Feature Classification System
+- CRITICAL (80%+): Industry standard. Users expect this. Must have.
+- REQUIRED (50-79%): Most competitors have it. Should have.
+- RECOMMENDED (25-49%): Differentiator. Nice to have.
+- OPTIONAL (<25%): Rare. Only if it fits the specific product.
+
+### Common Industry Keys
+E-commerce: ecommerce_usa, ecommerce_uk, ecommerce_brazil, ecommerce_india
+SaaS: crm, project_management, developer_tools, cybersecurity, email_marketing
+News: news_usa, news_uk, news_france, news_germany
+
+### API Reference
+- List industries: https://api.benchmarkhq.site/industries
+- Get benchmark: https://api.benchmarkhq.site/benchmark/{key}
+- Check features: POST https://api.benchmarkhq.site/check
+- Documentation: https://api.benchmarkhq.site/docs
+- Full dataset: https://github.com/abdur-rehman10/benchmarkhq
+
+
+# ======================================
+# EXAMPLE USAGE
+# ======================================
+#
+# User: "Build me an e-commerce product page"
+#
+# AI checks: api.benchmarkhq.site/benchmark/ecommerce_usa
+# AI sees: search_bar (97%), product_reviews (87%), shopping_cart (95%)...
+# AI includes ALL critical features in the generated page
+# AI adds checklist at the end showing which features are present
+#
+# Result: A product page that meets real industry standards,
+# not just a page that "looks like" an e-commerce site.
