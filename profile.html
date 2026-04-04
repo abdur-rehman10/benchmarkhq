@@ -75,7 +75,7 @@ a{color:var(--accent);text-decoration:none}
 </head>
 <body>
 
-<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links" id="navLinks"><a href="/#data">Data</a><a href="/contribute.html">Contribute</a><a href="/community.html">Community</a><a href="/prompt-generator.html">AI Prompts</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a></div></div></nav>
+<nav class="nav"><div class="nav-inner"><a href="/" class="nav-logo">Benchmark<span>HQ</span></a><div class="nav-links" id="navLinks"><a href="/#data">Data</a><a href="/contribute.html">Contribute</a><a href="/community.html">Community</a><a href="/prompt-generator.html">AI Prompts</a><a href="/blog/">Blog</a><a href="https://github.com/abdur-rehman10/benchmarkhq">GitHub</a><a href="https://api.benchmarkhq.site/docs" class="btn-nav">API Docs</a><a href="#" onclick="signIn()" id="navSignIn" class="btn-nav" style="background:#1A1A1E;color:#E8E6E3;border:1px solid #333">Sign in</a></div></div></nav>
 
 <div class="container" id="content"><div class="loading">Loading profile...</div></div>
 
@@ -196,6 +196,18 @@ function shareBadge(name, icon) {
 }
 
 loadProfile();
+</script>
+<script>
+function signIn(){window.location.href='https://api.benchmarkhq.site/auth/github?redirect='+encodeURIComponent(window.location.href)}
+(function(){
+  var p=new URLSearchParams(location.search);
+  if(p.get('token')){localStorage.setItem('bhq_token',p.get('token'));localStorage.setItem('bhq_username',p.get('username')||'');history.replaceState({},'',location.pathname+location.hash)}
+  if(localStorage.getItem('bhq_token')){
+    var btn=document.getElementById('navSignIn');
+    var u=localStorage.getItem('bhq_username')||'';
+    if(btn){btn.textContent='@'+u;btn.href='/profile.html?user='+u;btn.onclick=null;btn.style.background='rgba(196,164,108,0.1)';btn.style.color='#C4A46C';btn.style.border='1px solid rgba(196,164,108,0.3)'}
+  }
+})();
 </script>
 </body>
 </html>
