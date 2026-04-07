@@ -1,0 +1,25 @@
+{
+  "url": "https://signal.org",
+  "scanned_at": "2026-04-06T22:52:44.930583",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=0, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e8355b1ddf0513b-IST",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:52:45 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=y2jKLnJgdkhQrjvNs9XxwqdXguQoGYgplnSO4jtgM7OmBesaaPOPca%2B4Wsw%2Bu8l7nonR5Q6%2FUnHIWBwfi9eUCQL%2B9DvuTSGhyIm1wQ%2B10Jq1BwGGmJpDk8oYMTRt\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  }
+}

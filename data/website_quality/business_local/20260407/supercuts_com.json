@@ -1,0 +1,28 @@
+{
+  "url": "https://www.supercuts.com",
+  "scanned_at": "2026-04-07T00:19:20.231523",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "max-age=0",
+    "content-encoding": "br",
+    "content-security-policy": "frame-ancestors 'self';",
+    "content-type": "text/html",
+    "date": "Mon, 06 Apr 2026 21:19:21 GMT",
+    "etag": "W/\"765a9665a6a90f99d7ac73d32056aab3\"",
+    "last-modified": "Thu, 26 Mar 2026 19:13:46 GMT",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "AmazonS3",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "via": "1.1 9781d16759bf3bb7ec06b123d30fa8a0.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "y9URS_bajE2LfOY-h3LzY5iqMhAAZTeLKOzQQie8xKyGs8fiiH2_tw==",
+    "x-amz-cf-pop": "IST50-P1",
+    "x-cache": "RefreshHit from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY"
+  }
+}

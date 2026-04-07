@@ -1,0 +1,10 @@
+{
+  "url": "https://www.tacobell.com",
+  "scanned_at": "2026-04-07T00:08:23.336359",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.tacobell.com/\nCall log:\n  - navigating to \"https://www.tacobell.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

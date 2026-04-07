@@ -1,0 +1,10 @@
+{
+  "url": "https://www.amwell.com",
+  "scanned_at": "2026-04-06T23:53:27.448043",
+  "ok": false,
+  "error": "Page.goto: net::ERR_CONNECTION_RESET at https://www.amwell.com/\nCall log:\n  - navigating to \"https://www.amwell.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

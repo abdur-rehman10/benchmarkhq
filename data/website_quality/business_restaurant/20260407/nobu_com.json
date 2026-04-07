@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nobu.com",
+  "scanned_at": "2026-04-07T00:11:32.262757",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+    "content-encoding": "gzip",
+    "content-security-policy": "base-uri 'self';object-src 'none';report-uri /_/view/cspreport;script-src 'report-sample' 'nonce-prjj9KeYKMF-V2jedjkjmg' 'unsafe-inline' 'unsafe-eval';worker-src 'self';frame-ancestors https://google-admin.corp.google.com/",
+    "content-type": "text/html; charset=utf-8",
+    "cross-origin-opener-policy": "unsafe-none",
+    "cross-origin-resource-policy": "same-site",
+    "date": "Mon, 06 Apr 2026 21:11:32 GMT",
+    "document-policy": "include-js-call-stacks-in-crash-reports",
+    "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "reporting-endpoints": "default=\"/web-reports?jobset=prod&wcrumsspbp=false&bl=editors.sites-viewer-frontend_20260401.02_p0&app=25&clss=1&context=eJwN0mlUVPcBBfDHzHv3T2CQsMkS1sHg4EKojaICAcIaTKlg7VA4xQXRIIiKKC6tS12iJm1NxC1LUYSKgBQFFWsWK8a1okQNoigYCSoODAzbICq5H34f7v12z7lWhjcLLfXSMWu9NNNRL_2B7HbpJR96vV8vjTqgl-QiveRIESf0Up1BL92iNNdkKYf6PJIl2TNZWjkmWdpK-dHJ0sc0fXyj9JowoVHypLCfTapYMm7qVw3SmqxB1Sa6EmJWNdA3oWbVBRrIMKte05GdZtV_aP7VIdViypFGVKvI7D6ikjxGVH2rR1QvKf2gSp1Fv52lVgdT2Ca1OpaSflGrU2i1cbq8kVT7Q2QrOlMRIv-P4qaGyjOp1j1CPkc98RHyEN1f9778mPYsi5S_pvRVkXIWqaoiZSuadipSjqCpi6PlcHp7ebQ8kba0R8ufUvLkGHkuXTkZIzdRwT9i5WJ6MhgrG6koK04uo8f2H8jPqVnEy22UP6tQ2UB3TxcqrdTQe1Bpolb7IuUpef--SNHRvObDSib91XhY2UpnPypW6qgsu1g5QVcfFys_ksvxEsWbrif8W7lDNluPKE5k71KquJGrV6niQ7o_lSqBpK0oVZI6ypQUWk5r6GhCuXKcctMrlbXUsaRSMZFtfofiTMlhBmUupZ43KOl0J7lTeUC2X3YqzjR8RAN1qQZVtjaoJb9aGwSQ5_ej4EeNF0ahhX5XaIvZVP7UDtX0UYcdlpEItIct_bfSHufJQuuAN6g6yAFnKXyqA-Koeh4zTXrgiOnklOAED_p8rRO-oCfbnGCkDUWj8TGNbR6Nd8gq2xn29CLHGVZLnbHD2wWf0aLJLniW4YIeqjnmgm_IfMUF0lUX_OWQK7bQ7SJXNFP-TjdsoK8H3VBCbbvegoFS490xl7wuuGMstZR74vI9T1wnndETgTS7xxMpdI9a6FSqF84s9MJ31LHeC0bqqPGCiWYIb8yi55ne6Kr1xgCtO-yDzVT5yAenKMrogw8p-x0t8mhKrBbB5LRSCw8a3qqFepsWZ7drUUdZB7VYQd9e1-I8aeq1sKNBekkxN7SYQaV0jOxuajGa_v5aiz30KsQXSqgvqsJ8UUvda3zRTym3fTGfisf4oYLi9X5IIs_-sfClelmHn6gCOtSQyUaHF2Rrp4MjnaHvSDtBh3F0YLcOh-hSkQ436Kd2HR5Sra0_zlGbnT8M1OTgj0c07OgPtZM_GqRgXCsPxi1acDwYmaQ-EQxLukY3aW91MMoTQlBNy_aGYjXt2_EeCilICkcY-V4Ix3haEhmBldS0PwIHr0aglJ7djEAPbeqIwA7qyY7EEIm2SGgoyBCJMFo3EInN9INTFK6T08woeNDDrii006KNMVhKvsUxGE_TLscggjrzYtFP2opYjKONrbHYTrsD4vAl1bXE4Ro93Pkz2qml6zGekH1iG9zoEt0gq6E22FNnaTv6aXF5O3LpYtgTXKMlxU-xkv7Z-gz7qMHQgSY6etqA47Q3oxP_ottfdaKJOhs70U-dIV3opzGnu4DtRryqNkKpMWJ5aDe0ad0YR-W53aimis3dSNrVjX3N3TC0diPw3R6U7emBZn8PCkJM-Iruf2jC_xebcK7AhB9ozR4T1pNDpQkuNNuxF98n9nJXL9rn9CJhfi_0a_vwYF0fEuv6kE_Rz_sQRx-U9SOR6l_04xaNlgfQXDWAR_Ts7gC6qMRjEGV0KG0QkxcNYosw41O6qDHjLQ8zwrVmiGEzbGl61BDep_YDQxig96qGEE6au0NwpMn3hjCNlqS8QC41pr5AM91PHUbQj8OoP_8SD-nBvFf4hVJOvsJ8qvIcgduOEfhFSSKAKhMlkZgkiQK9hdhHrmkW4tJFC-F92UI8qlGJhC6VMDuqRfVJtfC2kUWnVhZpf5NF0A1ZRFEFdTTI4twdWVi6KyJriiIOxSniKHn_WRGenyiixQWi3xtC8YFwXwgRTzmNEKuo2cT7kpQuxJEGIQpXW4oSOkpVdJoK1luK4G2WIvQTSzGlxlLkB70hdj-1Ej1vW4sEP2uR5W8tdrZZi0UzNMItWyOkEo1w_1Yj7DWWW-pu1uPNu8e-OKB2k_-YmZGvnZCxIDNvae6KgBWZeRkrJq5il5E7cWHu0py8jJwFcyYFTpoS-G7gbwICJ81ZFvgrkmIuxg&browser-version=%22Not:A-Brand%22;v%3D%2299.0.0.0%22,+%22HeadlessChrome%22;v%3D%22145.0.7632.6%22,+%22Chromium%22;v%3D%22145.0.7632.6%22&build-label=editors.sites-viewer-frontend_20260401.02_p0&imp-sid=CLnc1eOR2pMDFXtLqwIdkI4r9w&is-cached-offline=false\"",
+    "server": "ESF",
+    "vary": "Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "0"
+  }
+}

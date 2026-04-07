@@ -1,0 +1,10 @@
+{
+  "url": "https://www.panera.com",
+  "scanned_at": "2026-04-07T00:08:53.515694",
+  "ok": false,
+  "error": "Page.goto: net::ERR_CONNECTION_RESET at https://www.panera.com/\nCall log:\n  - navigating to \"https://www.panera.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

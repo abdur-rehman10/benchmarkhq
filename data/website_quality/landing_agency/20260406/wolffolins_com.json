@@ -1,0 +1,29 @@
+{
+  "url": "https://www.wolffolins.com",
+  "scanned_at": "2026-04-06T22:39:31.155407",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "akamai-grn": "0.cec41302.1775504371.2dd0b322",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "content-disposition": "inline",
+    "content-encoding": "gzip",
+    "content-length": "24996",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:39:31 GMT",
+    "etag": "W/\"fa5167308e8600f1c7a4a021b08c1003\"",
+    "expires": "Mon, 06 Apr 2026 19:39:31 GMT",
+    "pragma": "no-cache",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "x-amz-cf-id": "wa5_tgT9wtNcOoP3fDewofmEElC4J8zzN9W0wZoKw3QTn7szjIs3Bw==",
+    "x-amz-cf-pop": "IST52-P2",
+    "x-matched-path": "/",
+    "x-vercel-cache": "HIT",
+    "x-vercel-id": "fra1::drjkr-1775199452374-8aef95458025"
+  }
+}

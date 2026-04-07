@@ -1,0 +1,10 @@
+{
+  "url": "https://www.dr-martens.com",
+  "scanned_at": "2026-04-06T22:51:52.231341",
+  "ok": false,
+  "error": "Page.goto: net::ERR_CONNECTION_RESET at https://www.dr-martens.com/\nCall log:\n  - navigating to \"https://www.dr-martens.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

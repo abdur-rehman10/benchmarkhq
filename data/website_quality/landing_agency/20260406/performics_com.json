@@ -1,0 +1,24 @@
+{
+  "url": "https://www.performics.com",
+  "scanned_at": "2026-04-06T22:44:12.300326",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 19:44:13 GMT",
+    "link": "<https://www.performics.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "x-azure-ref": "20260406T194412Z-r195ccddc6ctxmfthC1WAWc5xc00000005v0000000005x8b",
+    "x-cache": "CONFIG_NOCACHE",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.29",
+    "x-xss-protection": "1; mode=block"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.chipotle.com",
+  "scanned_at": "2026-04-07T00:07:31.372264",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "age": "0",
+    "cache-control": "max-age=300",
+    "content-encoding": "gzip",
+    "content-length": "11862",
+    "content-security-policy": "frame-ancestors 'self' sdiapi.com app.datadoghq.com; report-uri https://browser-intake-datadoghq.com/api/v2/logs?dd-api-key=pub6df94c90ac4e89b7d31cb3f4ac5cc298&dd-evp-origin=content-security-policy&ddsource=csp-report; script-src 'self' blob: 'nonce-adQglCEU1mpoNuAmnuY_3AAAAWA' 'strict-dynamic' 'unsafe-inline' https: http: ;object-src 'none';base-uri 'self';",
+    "content-type": "text/html;charset=utf-8",
+    "date": "Mon, 06 Apr 2026 21:07:32 GMT",
+    "expires": "Mon, 06 Apr 2026 21:12:32 GMT",
+    "strict-transport-security": "max-age=31557600",
+    "vary": "Accept-Encoding,Origin",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-sof1510047-SOF",
+    "x-timer": "S1775509652.570989,VS0,VS0,VE505",
+    "x-vhost": "publish"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.uhaul.com",
+  "scanned_at": "2026-04-07T00:18:07.777508",
+  "ok": false,
+  "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://www.uhaul.com/\nCall log:\n  - navigating to \"https://www.uhaul.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

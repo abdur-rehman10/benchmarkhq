@@ -1,0 +1,29 @@
+{
+  "url": "https://www.collins1.com",
+  "scanned_at": "2026-04-06T22:40:05.549859",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "age": "0",
+    "cache-control": "public,max-age=0,must-revalidate",
+    "cache-status": "\"Netlify Edge\"; fwd=miss",
+    "content-encoding": "br",
+    "content-security-policy": "default-src 'self' https://collins2025.netlify.app https://www.wearecollins.com https://collins2025admin.netlify.app; manifest-src 'self'; img-src 'self' data: https://cdn.sanity.io https://image.mux.com https://*.mux.com https://*.clarity.ms https://c.bing.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.clarity.ms https://api.openpanel.dev https://*.mux.com https://src.litix.io https://www.gstatic.com https://*.gstatic.com; style-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://collins2025.netlify.app https://www.wearecollins.com https://collins2025admin.netlify.app https://api.openpanel.dev https://*.mux.com https://litix.io https://*.litix.io https://inferred.litix.io https://*.clarity.ms https://*.apicdn.sanity.io https://fmzd4n68.apicdn.sanity.io; frame-src 'self' https://*.mux.com; media-src 'self' https://*.mux.com data: blob:",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 19:40:06 GMT",
+    "etag": "W/\"b5a3e7c34718c1d339aa3d6df78c3569-ssl-df\"",
+    "netlify-vary": "jwt[nf_rbac_jwt]=cookie:nf_jwt:app_metadata.authorization.roles",
+    "permissions-policy": "geolocation=(), microphone=(), camera=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "Netlify",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-nf-request-id": "01KNJ4YE3WX17JY0CG704N0TEV",
+    "x-xss-protection": "1; mode=block"
+  }
+}

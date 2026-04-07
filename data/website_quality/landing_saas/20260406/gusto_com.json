@@ -1,0 +1,28 @@
+{
+  "url": "https://www.gusto.com",
+  "scanned_at": "2026-04-06T22:35:42.949317",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e833cc01f54e343-IST",
+    "content-encoding": "br",
+    "content-security-policy": "frame-ancestors 'self' https://*.qualified.com",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:35:43 GMT",
+    "link": "<https://cms-gcorp-cdn.gusto.com/1/_next/static/css/bc6724588544d54a.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/96573784b8e2c902.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/6adc7179a9c75f40.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/7d700829fdd82742.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/a5cf3559b84dd4f6.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/570fee33e1600243.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/276f2b90353d5478.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/7cd205e0d522326d.css>; rel=preload; as=\"style\", <https://cms-gcorp-cdn.gusto.com/1/_next/static/css/6e8f6f82dace8a2d.css>; rel=preload; as=\"style\"",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8whUvSxe9E71QMpab%2BD0iDTK6CH%2BccMIdOVsPlDhhrHV2z6jQA3ZbjSMbaCBkWZn5V024EQpYBxZ%2Bqmt8vxsTzMsqB66S4az7PMb8j1s4Hzw5FasVuPnVCLaLw%3D%3D\"}]}",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-envoy-upstream-service-time": "178",
+    "x-gcorp-version": "cms-3.0",
+    "x-powered-by": "Next.js"
+  }
+}

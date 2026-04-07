@@ -1,0 +1,10 @@
+{
+  "url": "https://www.adidas.com",
+  "scanned_at": "2026-04-06T22:45:15.407077",
+  "ok": false,
+  "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.adidas.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

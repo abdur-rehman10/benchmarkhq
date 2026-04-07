@@ -1,0 +1,10 @@
+{
+  "url": "https://www.justdial.com",
+  "scanned_at": "2026-04-07T00:15:48.291930",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.justdial.com/\nCall log:\n  - navigating to \"https://www.justdial.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

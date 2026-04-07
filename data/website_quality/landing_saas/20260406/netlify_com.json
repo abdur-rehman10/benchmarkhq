@@ -1,0 +1,26 @@
+{
+  "url": "https://www.netlify.com",
+  "scanned_at": "2026-04-06T22:34:12.570776",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "age": "12433",
+    "cache-control": "public,max-age=0,must-revalidate",
+    "cache-status": "\"Netlify Edge\"; hit",
+    "content-encoding": "br",
+    "content-length": "65087",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 19:34:12 GMT",
+    "etag": "\"7f2c562c25e9a0e434825ef09e58b118-ssl-df\"",
+    "permissions-policy": "browsing-topics=()",
+    "server": "Netlify",
+    "server-timing": "cr;desc=\"hit-fresh\", ds;dur=2, dc;desc=\"aws-fra\", cg;desc=\"global-production\", cl;dur=65087, dist;dur=1866, tls;desc=\"new\";dur=91",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "x-nf-request-id": "01KNJ4KMJ5YAYM06FW30S0EP2Y"
+  }
+}

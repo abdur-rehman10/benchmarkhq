@@ -1,0 +1,20 @@
+{
+  "url": "https://telegram.org",
+  "scanned_at": "2026-04-06T22:52:37.942491",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "no-store",
+    "content-encoding": "gzip",
+    "content-length": "6038",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:52:38 GMT",
+    "pragma": "no-cache",
+    "server": "nginx/1.18.0",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "x-frame-options": "SAMEORIGIN"
+  }
+}

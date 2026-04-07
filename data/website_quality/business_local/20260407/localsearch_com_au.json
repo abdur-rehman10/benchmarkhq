@@ -1,0 +1,25 @@
+{
+  "url": "https://www.localsearch.com.au",
+  "scanned_at": "2026-04-07T00:21:10.126927",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-methods": "OPTIONS,GET,POST",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "x-amzn-waf-action",
+    "access-control-max-age": "86400",
+    "cache-control": "no-store, max-age=0",
+    "content-length": "1986",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 21:21:10 GMT",
+    "server": "CloudFront",
+    "via": "1.1 20dcea498710b77c05582b46a5d2b962.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "NAJspqpyt39HBl-xQYwPObNyuCIkSbB74tD39J-RIa9JHBMvnPrA3g==",
+    "x-amz-cf-pop": "IST50-P4",
+    "x-amzn-waf-action": "challenge",
+    "x-cache": "Error from cloudfront"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.sociallyin.com",
+  "scanned_at": "2026-04-06T23:09:07.565757",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=600, must-revalidate",
+    "cf-cache-status": "HIT",
+    "cf-ray": "9e836db66a6aa673-IST",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 20:09:08 GMT",
+    "last-modified": "Mon, 06 Apr 2026 20:01:01 GMT",
+    "link": "<https://sociallyin.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://sociallyin.com/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://sociallyin.com/>; rel=shortlink",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding\nAccept-Encoding\nAccept-Encoding\nAccept-Encoding,Cookie",
+    "x-cache": "HIT: 2",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-powered-by": "WP Engine",
+    "x-ua-compatible": "IE=edge"
+  }
+}

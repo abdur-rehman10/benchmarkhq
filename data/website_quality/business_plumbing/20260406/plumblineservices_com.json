@@ -1,0 +1,29 @@
+{
+  "url": "https://www.plumblineservices.com",
+  "scanned_at": "2026-04-06T23:46:52.595554",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "age": "0",
+    "cache-control": "max-age=300",
+    "content-encoding": "gzip",
+    "content-length": "24801",
+    "content-type": "text/html;charset=utf-8",
+    "date": "Mon, 06 Apr 2026 20:46:54 GMT",
+    "etag": "\"25a29-64ecb855887e0-gzip\"",
+    "expires": "Mon, 06 Apr 2026 20:51:53 GMT",
+    "last-modified": "Mon, 06 Apr 2026 14:31:22 GMT",
+    "strict-transport-security": "max-age=31557600",
+    "vary": "Accept-Encoding",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-served-by": "cache-sof1510048-SOF",
+    "x-timer": "S1775508413.391186,VS0,VS0,VE628",
+    "x-vhost": "publish"
+  }
+}

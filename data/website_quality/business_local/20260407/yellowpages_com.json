@@ -1,0 +1,23 @@
+{
+  "url": "https://www.yellowpages.com",
+  "scanned_at": "2026-04-07T00:15:14.090554",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e83ce861ec5e31f-IST",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 21:15:14 GMT",
+    "p3p": "CP=\"This site does not have a p3p policy.\"",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=157,cfOrigin;dur=102",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "User-Agent, Accept-Encoding",
+    "x-frame-options": "DENY",
+    "x-powered-by": "Express"
+  }
+}

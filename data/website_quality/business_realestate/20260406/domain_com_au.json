@@ -1,0 +1,10 @@
+{
+  "url": "https://www.domain.com.au",
+  "scanned_at": "2026-04-06T23:34:20.949427",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.domain.com.au/\nCall log:\n  - navigating to \"https://www.domain.com.au/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.thezebra.com",
+  "scanned_at": "2026-04-06T23:40:03.394877",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "age": "6498",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=604800",
+    "cf-cache-status": "HIT",
+    "cf-ray": "9e839afe7e3ac0ca-IST",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 20:40:03 GMT",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Origin, Cookie, Accept-Encoding",
+    "x-cache-key": "https://zfront.production.thezebra.com/",
+    "x-frame-options": "SAMEORIGIN",
+    "x-zebra-acid": "7de4d386-dc13-47b7-8261-403fc1a43d88",
+    "x-zebra-ray": "e094e5dc-6435-4251-9211-7c395540c6ed",
+    "x-zebra-sess": "efe66fee-1ffc-426e-9dd2-b3daefe3c227"
+  }
+}

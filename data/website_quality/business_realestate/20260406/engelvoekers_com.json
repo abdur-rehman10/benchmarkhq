@@ -1,0 +1,10 @@
+{
+  "url": "https://www.engelvoekers.com",
+  "scanned_at": "2026-04-06T23:31:15.365100",
+  "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.engelvoekers.com/\nCall log:\n  - navigating to \"https://www.engelvoekers.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

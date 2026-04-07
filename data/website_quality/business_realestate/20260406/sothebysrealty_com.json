@@ -1,0 +1,25 @@
+{
+  "url": "https://www.sothebysrealty.com",
+  "scanned_at": "2026-04-06T23:30:12.962466",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-methods": "OPTIONS,GET,POST",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "x-amzn-waf-action",
+    "access-control-max-age": "86400",
+    "cache-control": "no-store, max-age=0",
+    "content-length": "2057",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 20:30:13 GMT",
+    "server": "CloudFront",
+    "via": "1.1 2eebcea729e599b5b860f6f6abf718b0.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "zgm8WjKhwAIZqZj1RDHvHIDCs3m1I-BzNLaJq_GGUBlK5Ipst_qhrw==",
+    "x-amz-cf-pop": "IST52-P1",
+    "x-amzn-waf-action": "challenge",
+    "x-cache": "Error from cloudfront"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.rothy.com",
+  "scanned_at": "2026-04-06T22:48:10.856885",
+  "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rothy.com/\nCall log:\n  - navigating to \"https://www.rothy.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

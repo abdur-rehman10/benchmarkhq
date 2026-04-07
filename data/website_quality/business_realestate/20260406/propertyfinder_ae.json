@@ -1,0 +1,31 @@
+{
+  "url": "https://www.propertyfinder.ae",
+  "scanned_at": "2026-04-06T23:34:38.568567",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "age": "1129",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=1800",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 20:15:49 GMT",
+    "etag": "\"qm1u5n833uhmed\"",
+    "expect-ct": "enforce; max-age=86400; report-uri=https://3697d3b054cce6a97c9c759c82571b41.report-uri.com/r/d/ct/enforce",
+    "feature-policy": "autoplay 'none'; encrypted-media 'none'; microphone 'none'; midi 'none'; payment 'none'; vr 'none'; ambient-light-sensor 'none'; magnetometer 'none'; picture-in-picture 'none'; sync-xhr 'none'; usb 'none';",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "istio-envoy",
+    "vary": "Accept-Encoding",
+    "via": "1.1 5d773c3173491a5eb2d84f980c958f36.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "IKcsrP4BO2r9BfddOyhQENXAjzeeopn4p5YiziGX4oBKiACTznUSjg==",
+    "x-amz-cf-pop": "IST50-P4",
+    "x-cache": "Hit from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-envoy-upstream-service-time": "303",
+    "x-powered-by": "Next.js",
+    "x-xss-protection": "1; mode=block"
+  }
+}

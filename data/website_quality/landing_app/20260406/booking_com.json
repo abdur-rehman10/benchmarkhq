@@ -1,0 +1,25 @@
+{
+  "url": "https://www.booking.com",
+  "scanned_at": "2026-04-06T22:57:21.839807",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ch": "ECT",
+    "content-length": "8410",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:57:22 GMT",
+    "nel": "{ failure_fraction: 0.1, report_to: 'default', max_age: 604800 }",
+    "report-to": "{ max_age: 604800, group: 'default', endpoints: [{ url: 'https://nellie.booking.com/report' }] }",
+    "server": "CloudFront",
+    "server-timing": "cdn-cache-hit,cdn-pop;desc=\"IST50-P4\",cdn-rid;desc=\"7iwoTkpB2sSJS7RCfv95LTf475s970uSOmmYMbFKkTaZ85OGZzT1Ig==\",cdn-hit-layer;desc=\"REC\",cdn-downstream-fbl;dur=60",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "via": "1.1 f5c1f50418398b43759634174a3e9710.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "7iwoTkpB2sSJS7RCfv95LTf475s970uSOmmYMbFKkTaZ85OGZzT1Ig==",
+    "x-amz-cf-pop": "IST50-P4",
+    "x-booking-edge-functions-status": "E: common-request-context-security, et-edge-handlers, common-request-context-locale, buid, common-request-context-commercial, common-request-context-device, landing_pages_edge_cache, common-request-context-routing",
+    "x-cache": "Miss from cloudfront"
+  }
+}

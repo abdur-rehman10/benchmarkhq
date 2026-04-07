@@ -1,0 +1,29 @@
+{
+  "url": "https://www.mountsinai.org",
+  "scanned_at": "2026-04-06T23:51:50.090052",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-headers": "Authorization, X-Requested-With, Content-Type, Accept, Origin",
+    "cache-control": "max-age=0",
+    "content-encoding": "gzip",
+    "content-length": "32595",
+    "content-type": "text/html;charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 20:51:50 GMT",
+    "expires": "Mon, 06 Apr 2026 20:51:50 GMT",
+    "last-modified": "Mon, 06 Apr 2026 20:26:25 GMT",
+    "server": "Apache",
+    "server-timing": "cdn-cache; desc=REVALIDATE\nedge; dur=385\norigin; dur=25\nak_p; desc=\"1775508710322_389734190_499300564_40995_21027_58_14_255\";dur=1",
+    "strict-transport-security": "max-age=16070400; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-akamai-transformed": "9 31006 0 pmb=mRUM,2",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-vgn-hpd-cached": "true",
+    "x-vgn-hpd-variations-key": "6395af482ada78ab69f7acd54f5e878d",
+    "x-xss-protection": "1; mode=block"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.mapquest.com",
+  "scanned_at": "2026-04-07T00:16:24.575013",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 21:16:25 GMT",
+    "link": "</_next/static/media/904be59b21bd51cb-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/css/e5b6faf96c00c986.css>; rel=preload; as=\"style\", </_next/static/css/67f38cc94ae31e4c.css>; rel=preload; as=\"style\", </_next/static/css/89c0cebdbff91ebb.css>; rel=preload; as=\"style\", </_next/static/css/a0b63ec0021f107a.css>; rel=preload; as=\"style\", </_next/static/css/21e3ed30af4eba05.css>; rel=preload; as=\"style\", </_next/static/css/f366fc4a4e0147f2.css>; rel=preload; as=\"style\"",
+    "server": "Apache/2.4.66 (Unix) OpenSSL/3.5.5",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "rsc,Accept-Encoding",
+    "via": "1.1 08391a2255423916f88a8c71f763539c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "UK-MQiivyXiALvHPgBDR9t6MS-ZFn2Br1dHoQYUccYNcgvocCEMqIw==",
+    "x-amz-cf-pop": "IST50-P2",
+    "x-cache": "Miss from cloudfront",
+    "x-experiment-active": "name=apr6week,variant=a",
+    "x-middleware-rewrite": "/mapquest/",
+    "x-origin-cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "x-powered-by": "Next.js"
+  }
+}

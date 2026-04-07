@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kw.com",
+  "scanned_at": "2026-04-06T23:30:20.290352",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "age": "190",
+    "cache-control": "max-age=300",
+    "cdn_cache_id": "CBF",
+    "cdn_cache_status": "disabled",
+    "cf-cache-status": "HIT",
+    "cf-ray": "9e838cc2c86ee333-IST",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 20:30:20 GMT",
+    "last-modified": "Mon, 06 Apr 2026 20:23:13 GMT",
+    "origin_request_header": "",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "via": "1.1 google, 1.1 google",
+    "x-envoy-decorator-operation": "brightspot-frontend-verify.web.svc.cluster.local:80/*",
+    "x-envoy-upstream-service-time": "324",
+    "x-powered-by": "Brightspot"
+  }
+}

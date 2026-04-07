@@ -1,0 +1,10 @@
+{
+  "url": "https://www.turfmaster.com",
+  "scanned_at": "2026-04-06T23:49:39.217821",
+  "ok": false,
+  "error": "Page.goto: net::ERR_CONNECTION_RESET at https://www.turfmaster.com/\nCall log:\n  - navigating to \"https://www.turfmaster.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

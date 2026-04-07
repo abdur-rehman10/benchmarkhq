@@ -1,0 +1,31 @@
+{
+  "url": "https://www.birkenstock.com",
+  "scanned_at": "2026-04-06T22:52:20.786676",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=93600",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e83551b7adce34a-IST",
+    "content-encoding": "br",
+    "content-security-policy": "frame-ancestors 'self'",
+    "content-type": "text/html;charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 19:52:21 GMT",
+    "expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+    "pragma": "no-cache",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfOrigin;dur=100,cfEdge;dur=53",
+    "vary": "Accept-Encoding",
+    "x-akamai-transformed": "0 - 0 -",
+    "x-content-type-options": "nosniff",
+    "x-dw-request-base-id": "qFRENSAJ1GkBAAB_",
+    "x-frame-options": "SAMEORIGIN",
+    "x-sf-cc-requestlocale": "de_DE",
+    "x-sf-cc-siteid": "EU",
+    "x-xss-protection": "0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.thrivemyway.com",
+  "scanned_at": "2026-04-06T23:09:31.410415",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=0",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e836e50cea7b633-IST",
+    "content-encoding": "zstd",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 20:09:33 GMT",
+    "expires": "Mon, 06 Apr 2026 20:09:33 GMT",
+    "last-modified": "Mon, 06 Apr 2026 19:37:28 GMT",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1xpBXiRP5Oiw0So7ss4qzF4CTohiWxLnhAdKoS1kck43gIeeWjlxPKIFidUhbiMcF%2Ft5DFIJzRk9SUB%2BwFZ7nfep7RLTwfhyXzeAILexj1xi8wJHNF%2FcQRhfYzI82aV1pGQ%3D\"}]}",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=8,cfOrigin;dur=263",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "PHP/8.2.30\nPleskLin"
+  }
+}

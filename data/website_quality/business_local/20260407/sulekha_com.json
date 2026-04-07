@@ -1,0 +1,19 @@
+{
+  "url": "https://www.sulekha.com",
+  "scanned_at": "2026-04-07T00:15:50.453045",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 21:15:51 GMT",
+    "request-context": "appId=cid-v1:305053c0-3340-4eb3-966b-2ddd5e13672b",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=2592000",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET"
+  }
+}

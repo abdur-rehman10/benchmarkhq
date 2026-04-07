@@ -1,0 +1,26 @@
+{
+  "url": "https://www.publicstorage.com",
+  "scanned_at": "2026-04-07T00:18:18.947556",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e83d3099dcb24e2-IST",
+    "content-encoding": "br",
+    "content-security-policy": "frame-ancestors 'self' https://www.chasepaymentechhostedpay-var.com https://www.chasepaymentechhostedpay.com",
+    "content-type": "text/html;charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 21:18:19 GMT",
+    "expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+    "pragma": "no-cache",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfOrigin;dur=257,cfEdge;dur=218\ncfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=608",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "accept-encoding",
+    "x-content-type-options": "nosniff",
+    "x-dw-request-base-id": "EVmB0bOo02kBAAB_"
+  }
+}

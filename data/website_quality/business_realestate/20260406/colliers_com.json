@@ -1,0 +1,28 @@
+{
+  "url": "https://www.colliers.com",
+  "scanned_at": "2026-04-06T23:32:02.855545",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "no-cache, no-store",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e838f445adf41e8-IST",
+    "content-encoding": "br",
+    "content-security-policy": "default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src *; style-src * 'unsafe-inline'; frame-ancestors 'self' https://atlas.colliers.com https://pathway.colliers.com/ https://colliers-tourbook-2-4c67d57cb507.herokuapp.com/;",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 20:32:04 GMT",
+    "expires": "-1",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=14,cfOrigin;dur=0,cfWorker;dur=1013",
+    "serverid": "CD1",
+    "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+    "vary": "Accept-Encoding",
+    "x-bs": "99",
+    "x-content-type-options": "nosniff"
+  }
+}

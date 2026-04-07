@@ -1,0 +1,27 @@
+{
+  "url": "https://www.applebees.com",
+  "scanned_at": "2026-04-07T00:11:59.143736",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "cache-control": "private",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e83c9c95a9cc6e8-IST",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-security-policy-report-only": "default-src * 'unsafe-inline' 'unsafe-eval' https:;  img-src * 'self' https: data: blob:;  font-src * 'self' https: data:; media-src * 'self' https: data:; script-src * https: data: 'unsafe-inline' 'unsafe-eval'; child-src * https: blob: data:; report-uri /api/sitecore/CSP/SecurityReport;",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 21:12:00 GMT",
+    "permissions-policy": "geolocation=self",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN\nSAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  }
+}

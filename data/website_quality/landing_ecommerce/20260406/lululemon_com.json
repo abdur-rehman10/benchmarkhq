@@ -1,0 +1,10 @@
+{
+  "url": "https://www.lululemon.com",
+  "scanned_at": "2026-04-06T22:49:31.166990",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lululemon.com/\nCall log:\n  - navigating to \"https://www.lululemon.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

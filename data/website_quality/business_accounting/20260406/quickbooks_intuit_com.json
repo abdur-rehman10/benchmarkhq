@@ -1,0 +1,10 @@
+{
+  "url": "https://quickbooks.intuit.com",
+  "scanned_at": "2026-04-07T00:05:09.104629",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://quickbooks.intuit.com/\nCall log:\n  - navigating to \"https://quickbooks.intuit.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

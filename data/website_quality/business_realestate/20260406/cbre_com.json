@@ -1,0 +1,31 @@
+{
+  "url": "https://www.cbre.com",
+  "scanned_at": "2026-04-06T23:31:42.361802",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "cache-control": "public, max-age=14400",
+    "cf-cache-status": "EXPIRED",
+    "cf-ray": "9e838ec3bddce322-IST",
+    "content-encoding": "br",
+    "content-security-policy": "default-src 'self';script-src * 'unsafe-inline' 'unsafe-eval' static.cloud.coveo.com;style-src * 'unsafe-inline'; frame-src * 'unsafe-inline'; img-src * data:; connect-src * 'unsafe-inline'; worker-src * blob:;  font-src * 'unsafe-inline'; media-src * 'unsafe-inline'",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 20:31:43 GMT",
+    "expires": "Tue, 07 Apr 2026 00:31:43 GMT",
+    "last-modified": "Mon, 06 Apr 2026 20:31:42 GMT",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:42f8a92b-89b9-4079-a12e-1db29cab378e",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=10368000; includeSubdomains; preload",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "sameorigin",
+    "x-ms-middleware-request-id": "ff35d2f7-056f-4c2d-9f0c-ff0c0e73fd87",
+    "x-ua-compatible": "IE=11",
+    "x-xss-protection": "1; mode=block"
+  }
+}

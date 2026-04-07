@@ -1,0 +1,32 @@
+{
+  "url": "https://www.searchbloom.com",
+  "scanned_at": "2026-04-06T23:10:02.132133",
+  "ok": false,
+  "error": "'list' object has no attribute 'lower'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "age": "150158",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=15552000, must-revalidate",
+    "cf-cache-status": "HIT",
+    "cf-ray": "9e836f04ad3dc5fd-IST",
+    "content-encoding": "br",
+    "content-security-policy": "object-src 'none'",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 20:10:02 GMT",
+    "last-modified": "Fri, 03 Apr 2026 22:13:41 GMT",
+    "link": "<https://www.searchbloom.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.searchbloom.com/wp-json/wp/v2/pages/24724>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://www.searchbloom.com/>; rel=shortlink",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=63072000",
+    "vary": "Accept-Encoding\nAccept-Encoding\nAccept-Encoding\nAccept-Encoding,Cookie",
+    "x-cache": "HIT: 1",
+    "x-cache-group": "normal",
+    "x-cacheable": "YES:15552000.000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WP Engine",
+    "x-xss-protection": "1; mode=block"
+  }
+}

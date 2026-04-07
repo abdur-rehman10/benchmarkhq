@@ -1,0 +1,10 @@
+{
+  "url": "https://www.subway.com",
+  "scanned_at": "2026-04-07T00:08:21.154501",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.subway.com/\nCall log:\n  - navigating to \"https://www.subway.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

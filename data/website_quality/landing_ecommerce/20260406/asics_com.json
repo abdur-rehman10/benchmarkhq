@@ -1,0 +1,28 @@
+{
+  "url": "https://www.asics.com",
+  "scanned_at": "2026-04-06T22:50:46.356960",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "private, max-age=0",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e83530bbdcb0bd4-IST",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:50:59 GMT",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pS6a2Bbie1h78%2BJV48HxZ%2F6N3CT1gsP5Dhw3%2FCFMOYYqC7S06sRdKyzHPCZItGE%2BjvfG6qw7Y%2FAe8QNCeVIvj77Fub0%2BRpxdTBa8IuYD2rCLBkNLXCv%2BDauXKWGoEV%2F5%2Bl4%3D\"}]}",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=9,cfOrigin;dur=2687",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Ticimax",
+    "x-xss-protection": "1; mode=block"
+  }
+}

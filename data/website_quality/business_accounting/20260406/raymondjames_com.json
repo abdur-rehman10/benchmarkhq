@@ -1,0 +1,10 @@
+{
+  "url": "https://www.raymondjames.com",
+  "scanned_at": "2026-04-07T00:04:05.075385",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.raymondjames.com/\nCall log:\n  - navigating to \"https://www.raymondjames.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

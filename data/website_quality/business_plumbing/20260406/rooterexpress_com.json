@@ -1,0 +1,27 @@
+{
+  "url": "https://www.rooterexpress.com",
+  "scanned_at": "2026-04-06T23:48:55.706469",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "cache-control": "no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "39228",
+    "content-security-policy": "frame-ancestors 'self'",
+    "content-type": "text/html;charset=utf-8",
+    "d-cache": "from-cache",
+    "d-geo": "EU",
+    "date": "Mon, 06 Apr 2026 20:48:57 GMT",
+    "etag": "\"-460511603\"",
+    "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "server": "nginx",
+    "speculation-rules": "\"https://static.cdn-website.com/speculations/rules/prerender-1.0.3.json\"",
+    "strict-transport-security": "max-age=31536000; preload",
+    "vary": "user-agent,accept-encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  }
+}

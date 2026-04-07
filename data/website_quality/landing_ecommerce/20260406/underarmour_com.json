@@ -1,0 +1,31 @@
+{
+  "url": "https://www.underarmour.com",
+  "scanned_at": "2026-04-06T22:51:07.361526",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "age": "31",
+    "cache-control": "public, max-age=0, must-revalidate",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 19:51:07 GMT",
+    "etag": "W/\"10h6wrmz9pab684\"",
+    "server": "Vercel",
+    "strict-transport-security": "max-age=63072000",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "via": "1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-matched-path": "/en-us",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "300",
+    "x-served-by": "cache-sof1510053-SOF, cache-sof1510053-SOF",
+    "x-timer": "S1775505068.697963,VS0,VE290",
+    "x-vercel-cache": "HIT",
+    "x-vercel-id": "fra1::iad1::d99ts-1775505067845-91067a285d30"
+  }
+}

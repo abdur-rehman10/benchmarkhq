@@ -1,0 +1,25 @@
+{
+  "url": "https://www.thumbtack.com",
+  "scanned_at": "2026-04-07T00:14:41.130646",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-methods": "OPTIONS,GET,POST",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "x-amzn-waf-action",
+    "access-control-max-age": "86400",
+    "cache-control": "no-store, max-age=0",
+    "content-length": "2093",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Mon, 06 Apr 2026 21:14:41 GMT",
+    "server": "CloudFront",
+    "via": "1.1 7830fda0f2e50879b09b455394bda112.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "ufzCsliCFHEmv9xnimA258UbIy4-uPQhx7m2a00Uip5NpwEg_LWm1A==",
+    "x-amz-cf-pop": "IST52-P1",
+    "x-amzn-waf-action": "challenge",
+    "x-cache": "Error from cloudfront"
+  }
+}

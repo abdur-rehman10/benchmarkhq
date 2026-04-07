@@ -1,0 +1,27 @@
+{
+  "url": "https://www.jackinthebox.com",
+  "scanned_at": "2026-04-07T00:13:27.721880",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=0, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "9e83cbed7a184e44-IST",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 06 Apr 2026 21:13:27 GMT",
+    "link": "</_next/static/chunks/0aa067ac0bf17bda.css>; rel=\"preload\"; as=style, </_next/static/chunks/62c0b0e3cdcac5ea.css>; rel=\"preload\"; as=style, </_next/static/chunks/d980b2cc5d0f94a3.css>; rel=\"preload\"; as=style",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=onnsR20m%2BRou%2Bow1ZnOkkABG1DYZUUq72F8LDA0RnGOYpfZ3g69eyQ%2F2p2LQYjO1LKsYRo3VIzaPjdG1ocO%2FmxZJrbO0Jh0XwyCMh4g7qzRXdP8r%2FnkVOSu0FbSIVehlFw4MjG0prA%3D%3D\"}]}",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "accept-encoding",
+    "x-content-type-options": "nosniff"
+  }
+}

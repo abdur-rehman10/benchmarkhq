@@ -1,0 +1,10 @@
+{
+  "url": "https://www.mcdonalds.com",
+  "scanned_at": "2026-04-07T00:07:20.374721",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.mcdonalds.com/\nCall log:\n  - navigating to \"https://www.mcdonalds.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

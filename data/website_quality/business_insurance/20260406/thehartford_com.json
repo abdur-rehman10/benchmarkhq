@@ -1,0 +1,10 @@
+{
+  "url": "https://www.thehartford.com",
+  "scanned_at": "2026-04-06T23:37:14.155872",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.thehartford.com/\nCall log:\n  - navigating to \"https://www.thehartford.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

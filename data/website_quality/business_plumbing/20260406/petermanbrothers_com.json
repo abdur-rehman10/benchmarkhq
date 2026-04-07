@@ -1,0 +1,20 @@
+{
+  "url": "https://www.petermanbrothers.com",
+  "scanned_at": "2026-04-06T23:47:17.061364",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "content-length": "394",
+    "content-type": "text/html",
+    "date": "Mon, 06 Apr 2026 20:47:17 GMT",
+    "host-header": "c2hhcmVkLmJsdWVob3N0LmNvbQ==",
+    "last-modified": "Fri, 25 Jul 2014 00:12:43 GMT",
+    "server": "Apache",
+    "vary": "Accept-Encoding"
+  }
+}

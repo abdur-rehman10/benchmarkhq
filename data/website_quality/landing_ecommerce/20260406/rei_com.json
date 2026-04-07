@@ -1,0 +1,10 @@
+{
+  "url": "https://www.rei.com",
+  "scanned_at": "2026-04-06T22:49:28.850799",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rei.com/\nCall log:\n  - navigating to \"https://www.rei.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

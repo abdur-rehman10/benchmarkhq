@@ -1,0 +1,24 @@
+{
+  "url": "https://www.sculpt.com",
+  "scanned_at": "2026-04-06T23:08:59.518837",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ranges": "bytes",
+    "age": "58758",
+    "content-length": "7653",
+    "content-type": "text/html",
+    "date": "Mon, 06 Apr 2026 03:49:42 GMT",
+    "etag": "\"e5cd3f8f3d0f390fa5349916e0723b0e\"",
+    "last-modified": "Mon, 03 Jun 2024 17:08:50 GMT",
+    "server": "AmazonS3",
+    "via": "1.1 e84e58128ba8855677d93764fe527bac.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "KwjkgCb9doly3kLVREPDPQH2cqps2FtQPLuKPG1ZoILZNgEzNoygIw==",
+    "x-amz-cf-pop": "IST52-P1",
+    "x-amz-server-side-encryption": "AES256",
+    "x-cache": "Hit from cloudfront"
+  }
+}

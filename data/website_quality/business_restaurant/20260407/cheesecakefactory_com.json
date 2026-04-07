@@ -1,0 +1,10 @@
+{
+  "url": "https://www.cheesecakefactory.com",
+  "scanned_at": "2026-04-07T00:11:56.012833",
+  "ok": false,
+  "error": "Page.goto: net::ERR_ABORTED at https://www.cheesecakefactory.com/\nCall log:\n  - navigating to \"https://www.cheesecakefactory.com/\", waiting until \"domcontentloaded\"\n",
+  "features": {},
+  "cms": null,
+  "protocol": null,
+  "headers": {}
+}

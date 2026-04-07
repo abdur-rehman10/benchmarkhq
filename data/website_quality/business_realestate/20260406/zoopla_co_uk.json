@@ -1,0 +1,33 @@
+{
+  "url": "https://www.zoopla.co.uk",
+  "scanned_at": "2026-04-06T23:34:06.819370",
+  "ok": false,
+  "error": "expected string or bytes-like object, got 'NoneType'",
+  "features": {},
+  "cms": null,
+  "protocol": "HTTP/1.1",
+  "headers": {
+    "accept-ch": "Sec-CH-Viewport-Width, Sec-CH-UA-Mobile",
+    "age": "396",
+    "cache-control": "s-maxage=600, stale-while-revalidate=31535400",
+    "cf-cache-status": "HIT",
+    "cf-ray": "9e83924a7827e33e-IST",
+    "content-encoding": "zstd",
+    "content-security-policy": "frame-ancestors https://app.contentful.com; report-uri https://zpgplc.report-uri.com/r/d/csp/enforce;",
+    "content-type": "text/html; charset=utf-8",
+    "critical-ch": "Sec-CH-Viewport-Width, Sec-CH-UA-Mobile",
+    "date": "Mon, 06 Apr 2026 20:34:07 GMT",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Accept-Encoding, rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-form-factor": "desktop",
+    "x-frame-options": "sameorigin",
+    "x-nextjs-cache": "HIT",
+    "x-nextjs-matched-path": "/",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "4294967294",
+    "x-xss-protection": "1; mode=block"
+  }
+}
