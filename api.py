@@ -146,6 +146,23 @@ def load_data():
         "ecommerce_pakistan": ("E-commerce Pakistan", "Pakistan", "en", "PKR"),
     }
 
+    website_quality_names = {
+        "landing_saas": ("SaaS Landing Pages", "landing_page"),
+        "landing_agency": ("Agency Landing Pages", "landing_page"),
+        "landing_ecommerce": ("E-commerce Product Pages", "landing_page"),
+        "landing_app": ("App Download Pages", "landing_page"),
+        "business_agency": ("Agency Websites", "business_website"),
+        "business_startup": ("Startup Websites", "business_website"),
+        "business_lawfirm": ("Law Firm Websites", "business_website"),
+        "business_realestate": ("Real Estate Websites", "business_website"),
+        "business_insurance": ("Insurance Broker Websites", "business_website"),
+        "business_plumbing": ("Plumbing & Home Service Websites", "business_website"),
+        "business_medical": ("Medical & Dental Websites", "business_website"),
+        "business_accounting": ("Accounting & Finance Websites", "business_website"),
+        "business_restaurant": ("Restaurant Websites", "business_website"),
+        "business_local": ("General Local Business Websites", "business_website"),
+    }
+
     for freq_file in glob.glob("data/*/2*/frequency_analysis.json"):
         parts = freq_file.split("/")
         key = parts[1]
@@ -173,6 +190,9 @@ def load_data():
         elif key.startswith("news_"):
             country_key = key.replace("news_", "")
             meta.update({"name": f"News & Media - {country_key.replace('_', ' ').title()}", "category": "news"})
+        elif key in website_quality_names:
+            name, wq_type = website_quality_names[key]
+            meta.update({"name": name, "category": wq_type})
         elif key.startswith("restaurant_"):
             country_key = key.replace("restaurant_", "")
             meta.update({"name": f"Restaurant & Food - {country_key.replace('_', ' ').title()}", "category": "restaurant"})
